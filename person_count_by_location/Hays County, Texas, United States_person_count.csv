@@ -1,0 +1,395 @@
+date,person,count,rn
+2020-02-15,Ciaran Roe,1,1
+2020-02-15,Renee Pirrong,1,2
+2020-02-15,Vivek Chandra,1,3
+2020-02-23,Donald Trump,1,1
+2020-02-23,Narendra Modi,1,2
+2020-03-02,Eric Schneider,1,1
+2020-03-03,Eric Schneider,1,1
+2020-03-06,Eric Schneider,1,1
+2020-03-06,Lloyd Doggett,1,2
+2020-03-06,Rachel Ingle,1,3
+2020-03-09,Brad Streicher,1,1
+2020-03-09,Eric Schneider,1,2
+2020-03-09,Mark Escott,1,3
+2020-03-09,Stephanie Hayden,1,4
+2020-03-10,Emilio Carranco,1,1
+2020-03-10,Nan,1,2
+2020-03-12,Alexander Wetherill,1,1
+2020-03-12,Louie Edward Mayberry,1,2
+2020-03-14,Ali Al Sudani,1,2
+2020-03-14,Amy Chidester,1,3
+2020-03-14,Dale Ross,1,4
+2020-03-14,Donald Trump,1,5
+2020-03-14,George Linial,1,6
+2020-03-14,Greg Abbott,1,7
+2020-03-14,Mark Escott,1,8
+2020-03-14,Melissa Peter,1,9
+2020-03-14,Molly Lawrence,1,10
+2020-03-14,Patty Ducayet,1,11
+2020-03-14,Sandy Senn,1,12
+2020-03-14,Steven Hamman,1,13
+2020-03-14,Ruben Becerra,2,1
+2020-03-15,Eric Schneider,1,3
+2020-03-15,Jane Hughson,1,4
+2020-03-15,Ruben Becerra,1,5
+2020-03-15,George Haehn,2,1
+2020-03-15,Mike Beggs,2,2
+2020-03-16,Baylor Scott White,1,3
+2020-03-16,David Green,1,4
+2020-03-16,Nan,1,5
+2020-03-16,Mike Beggs,2,2
+2020-03-16,George Haehn,3,1
+2020-03-17,Nan,1,4
+2020-03-17,Eric Schneider,2,1
+2020-03-17,Jane Hughson,2,2
+2020-03-17,Ruben Becerra,2,3
+2020-03-18,Brittany Rodriguez,1,1
+2020-03-18,Greg Abbott,1,2
+2020-03-18,Jane Hughson,1,3
+2020-03-18,Nan,1,4
+2020-03-18,Rachel Jones,1,5
+2020-03-18,Timothy White,1,6
+2020-03-19,Alisa Dipalma,1,1
+2020-03-19,Eric Schneider,1,2
+2020-03-19,Gary Cutler,1,3
+2020-03-19,Greg Abbott,1,4
+2020-03-19,William Luther,1,5
+2020-03-20,Eric Schneider,1,2
+2020-03-20,Gary Cutler,1,3
+2020-03-20,Kelsey Bradshaw,1,4
+2020-03-20,Rodolfo Gonzales,1,5
+2020-03-20,Ruben Becerra,1,6
+2020-03-20,Greg Abbott,2,1
+2020-03-22,Baylor Scott White,2,1
+2020-03-22,Nan,2,2
+2020-03-23,Baylor Scott White,1,1
+2020-03-23,Brent Looby,1,2
+2020-03-23,Gary Cutler,1,3
+2020-03-23,James Oakley,1,4
+2020-03-23,Judson Kauffman,1,5
+2020-03-23,Ryan Campbell,1,6
+2020-03-24,Amanda Dupont,1,1
+2020-03-24,Ashley Lopez,1,2
+2020-03-24,Brad Wheelis,1,3
+2020-03-24,Brenda Kennedy,1,4
+2020-03-24,Greg Abbott,1,5
+2020-03-24,Harbir Singh,1,6
+2020-03-24,Jaeson Fournier,1,7
+2020-03-24,Jay Zdunek,1,8
+2020-03-24,Kirk Watson,1,9
+2020-03-24,Mark Escott,1,10
+2020-03-24,Nan,1,11
+2020-03-24,W Carrie Manor,1,12
+2020-03-26,Greg Abbott,2,2
+2020-03-26,Nan,2,3
+2020-03-26,William Luther,2,4
+2020-03-26,Ruben Becerra,4,1
+2020-03-27,Bill Henry,1,1
+2020-03-27,Bruce Boyer,1,2
+2020-03-27,David Junkin,1,3
+2020-03-27,Jack Robison,1,4
+2020-03-27,Joe Warner,1,5
+2020-03-27,Nan,1,6
+2020-03-28,Bill Flores,1,3
+2020-03-28,Bill Jennings,1,4
+2020-03-28,Bruce Boyer,1,5
+2020-03-28,George Haehn,1,6
+2020-03-28,Jack Robison,1,7
+2020-03-28,John Carter,1,8
+2020-03-28,Ken Paxton,1,9
+2020-03-28,Lloyd Doggett,1,10
+2020-03-28,Mark Escott,1,11
+2020-03-28,Mark Reynolds,1,12
+2020-03-28,Michael Hartman,1,13
+2020-03-28,Michael Mccaul,1,14
+2020-03-28,Mike Cloud,1,15
+2020-03-28,Roger Williams,1,16
+2020-03-28,Sherman Krause,1,17
+2020-03-28,Thomas Massie,1,18
+2020-03-28,Donald Trump,2,1
+2020-03-28,Greg Abbott,2,2
+2020-03-29,Shannon Fitzpatrick,1,1
+2020-03-30,Donald Trump,1,1
+2020-03-30,Greg Abbott,1,2
+2020-03-30,Hoppy Haden,1,3
+2020-03-30,Kyle Hayungs,1,4
+2020-03-30,Nan,1,5
+2020-03-30,Ruben Becerra,1,6
+2020-03-30,Victor Gonzales,1,7
+2020-03-31,Arati Singh,1,2
+2020-03-31,Donald Trump,1,3
+2020-03-31,Geronimo Rodriguez,1,4
+2020-03-31,Hoppy Haden,1,5
+2020-03-31,Ken Paxton,1,6
+2020-03-31,Nelson Wolff,1,7
+2020-03-31,Paul Barach,1,8
+2020-03-31,Rachel Ingle,1,9
+2020-03-31,Ron Nirenberg,1,10
+2020-03-31,Ruben Becerra,1,11
+2020-03-31,Tim Handren,1,12
+2020-03-31,Victor Gonzales,1,13
+2020-03-31,Greg Abbott,2,1
+2020-04-02,Teresa Albright,1,1
+2020-04-03,Jana Birchum,1,3
+2020-04-03,Jane Hughson,1,4
+2020-04-03,Michael Gerber,1,5
+2020-04-03,Stephanie Hayden,1,6
+2020-04-03,Lloyd Doggett,2,1
+2020-04-03,Steve Adler,2,2
+2020-04-06,Nan,1,1
+2020-04-06,Ruben Becerra,1,2
+2020-04-07,Greg Abbott,1,1
+2020-04-07,Jada Andrews-Sullivan,1,2
+2020-04-07,Michael Kleinman,1,3
+2020-04-07,Ron Nirenberg,1,4
+2020-04-08,Drake Lawson,1,1
+2020-04-08,Jason Ingalls,1,2
+2020-04-08,Nan,1,3
+2020-04-10,Greg Abbott,1,1
+2020-04-11,Greg Abbott,1,1
+2020-04-11,Steve Adler,1,2
+2020-04-11,Vincent De Paul,1,3
+2020-04-13,Candace Longfellow,1,1
+2020-04-13,Doris Leland Harrel,1,2
+2020-04-13,Jennie Elliott,1,3
+2020-04-13,John Ralph Harrel,1,4
+2020-04-13,Kate Harrel,1,5
+2020-04-13,Leo Kucinski,1,6
+2020-04-13,Los Angeles,1,7
+2020-04-13,Nan,1,8
+2020-04-14,Andrew Weber,1,4
+2020-04-14,Bryce Dubee,1,5
+2020-04-14,Camille Cain,1,6
+2020-04-14,Diana Ramirez,1,7
+2020-04-14,Donald Trump,1,8
+2020-04-14,Greg Abbott,1,9
+2020-04-14,Kevin Schwartz,1,10
+2020-04-14,Lloyd Doggett,1,11
+2020-04-14,Nan,1,12
+2020-04-14,Samuel King,1,13
+2020-04-14,Mark Escott,2,1
+2020-04-14,Sarah Eckhardt,2,2
+2020-04-14,Steve Adler,2,3
+2020-04-15,Eddie Gaspar,1,13
+2020-04-15,Eric Schindler,1,14
+2020-04-15,Jane Hughson,1,15
+2020-04-15,Nan,1,16
+2020-04-15,Chris Turner,2,1
+2020-04-15,Donald Trump,2,2
+2020-04-15,Eric Johnson,2,3
+2020-04-15,Erin Zwiener,2,4
+2020-04-15,Greg Abbott,2,5
+2020-04-15,Manny Garcia,2,6
+2020-04-15,Margaret Moore,2,7
+2020-04-15,Matt Shaheen,2,8
+2020-04-15,Mike Rawlings,2,9
+2020-04-15,Sharon Hirsch,2,10
+2020-04-15,Wendy Davis,2,11
+2020-04-15,William Desoto,2,12
+2020-04-16,Nan,1,1
+2020-04-17,Greg Abbott,1,1
+2020-04-17,Nan,1,2
+2020-04-18,Chris Turner,1,1
+2020-04-18,Donald Trump,1,2
+2020-04-18,Eric Johnson,1,3
+2020-04-18,Erin Zwiener,1,4
+2020-04-18,Manny Garcia,1,5
+2020-04-18,Margaret Moore,1,6
+2020-04-18,Matt Shaheen,1,7
+2020-04-18,Mike Rawlings,1,8
+2020-04-18,Nan,1,9
+2020-04-18,Sharon Hirsch,1,10
+2020-04-18,Wendy Davis,1,11
+2020-04-18,William Desoto,1,12
+2020-04-20,Amy Klobuchar,1,4
+2020-04-20,Bernie Sanders,1,5
+2020-04-20,Bob Klett,1,6
+2020-04-20,Elizabeth Warren,1,7
+2020-04-20,Joe Biden,1,8
+2020-04-20,Justin Putnam,1,9
+2020-04-20,Kenneth Copeland,1,10
+2020-04-20,Mike Bloomberg,1,11
+2020-04-20,Nan,1,12
+2020-04-20,Pete Buttigieg,1,13
+2020-04-20,Tom Steyer,1,14
+2020-04-20,Tulsi Gabbard,1,15
+2020-04-20,Jane Hughson,2,1
+2020-04-20,Melissa Neel,2,2
+2020-04-20,Vic Patel,2,3
+2020-04-21,Nan,1,1
+2020-04-22,Andrew Cuomo,1,1
+2020-04-22,Billy Birmingham,1,2
+2020-04-22,Donald Trump,1,3
+2020-04-22,Donna Allen,1,4
+2020-04-22,Doug Ducey,1,5
+2020-04-22,Gretchen Whitmer,1,6
+2020-04-22,Justin Putnam,1,7
+2020-04-22,Kevin Faulconer,1,8
+2020-04-22,Mark Eckenrode,1,9
+2020-04-22,Ned Lamont,1,10
+2020-04-22,Tom Wolf,1,11
+2020-04-24,Greg Abbott,1,1
+2020-04-24,Jennifer Aghassibake,1,2
+2020-04-24,Maggie Bribiesca,1,3
+2020-04-24,Marselles Coe,1,4
+2020-04-24,Melissa Fletcher Stoeltje,1,5
+2020-04-24,Melissa Van Kuiken,1,6
+2020-04-24,Michael Scofield,1,7
+2020-04-24,Nan,1,8
+2020-04-24,Van Kuiken,1,9
+2020-04-25,Barbara Burger,1,1
+2020-04-25,Brandon Burkhart,1,2
+2020-04-25,Bruce Burger,1,3
+2020-04-25,Charles Hood,1,4
+2020-04-25,Christopher Bullis,1,5
+2020-04-25,Dominic Anthony Walsh,1,6
+2020-04-25,Galen Morgan,1,7
+2020-04-25,Greg Abbott,1,8
+2020-04-25,Guadalupe Perez,1,9
+2020-04-25,Imelda Robles,1,10
+2020-04-25,Javier Salazar,1,11
+2020-04-25,Joey Palacios,1,12
+2020-04-25,Joey Palacios Joeycules,1,13
+2020-04-25,Jose Arredondo,1,14
+2020-04-25,Marianne Perez,1,15
+2020-04-25,Michael Quintanilla,1,16
+2020-04-25,Nan,1,17
+2020-04-25,Nelson Wolff,1,18
+2020-04-25,Ron Nirenberg,1,19
+2020-04-26,Charles Hood,1,1
+2020-04-26,Christopher Bullis,1,2
+2020-04-26,Dominic Anthony Walsh,1,3
+2020-04-26,Greg Abbott,1,4
+2020-04-26,Guadalupe Perez,1,5
+2020-04-26,Imelda Robles,1,6
+2020-04-26,Jack Morgan,1,7
+2020-04-26,Javier Salazar,1,8
+2020-04-26,Joey Palacios,1,9
+2020-04-26,Joey Palacios Joeycules,1,10
+2020-04-26,Jose Arredondo,1,11
+2020-04-26,Marianne Perez,1,12
+2020-04-26,Michael Quintanilla,1,13
+2020-04-26,Nelson Wolff,1,14
+2020-04-26,Ron Nirenberg,1,15
+2020-04-27,Nan,1,1
+2020-04-28,Boris Epshteyn,1,1
+2020-04-28,Donald Trump,1,2
+2020-04-28,Greg Abbott,1,3
+2020-04-28,John Kerry,1,4
+2020-04-28,Nan,1,5
+2020-04-29,Andrew Cuomo,1,1
+2020-04-29,Chris Cuomo,1,2
+2020-04-29,Emily Delgado,1,3
+2020-04-29,Eric Garcetti,1,4
+2020-04-29,Las Vegas,1,5
+2020-04-29,Lauren Poe,1,6
+2020-04-29,Les Paull,1,7
+2020-04-29,Los Angeles,1,8
+2020-04-29,Nan,1,9
+2020-04-29,Ruben Becerra,1,10
+2020-04-29,Stephen Squires,1,11
+2020-04-30,Greg Abbott,1,2
+2020-04-30,Michelle Harper,2,1
+2020-05-01,Nan,1,1
+2020-05-02,Arash Saberi,1,1
+2020-05-02,Greg Abbott,1,2
+2020-05-02,James Lesage,1,3
+2020-05-02,John Bel Edwards,1,4
+2020-05-02,Michael Blaylark,1,5
+2020-05-04,Amy Krell,1,1
+2020-05-04,Brianne Castle,1,2
+2020-05-04,Greg Abbott,1,3
+2020-05-04,Mayra Calderon,1,4
+2020-05-04,Shaun Segard,1,5
+2020-05-04,Spencer Thomas,1,6
+2020-05-04,Steven Maldonado,1,7
+2020-05-05,Greg Abbott,1,1
+2020-05-05,Nan,1,2
+2020-05-05,Ross Moody,1,3
+2020-05-05,Tony Plohetski,1,4
+2020-05-06,Audrey Mcglinchy,2,5
+2020-05-06,Dani Matias,2,6
+2020-05-06,Nan,2,7
+2020-05-06,Greg Abbott,3,2
+2020-05-06,Steve Adler,3,3
+2020-05-06,Walt Smith,3,4
+2020-05-06,Eric Schneider,4,1
+2020-05-07,Ashley Lopez,1,20
+2020-05-07,Audrey Mcglinchy,1,21
+2020-05-07,Bill Maher,1,22
+2020-05-07,Brenda Stephanie Mata,1,23
+2020-05-07,Dani Matias,1,24
+2020-05-07,Eric Schneider,1,25
+2020-05-07,Evan Smith,1,26
+2020-05-07,Gina Chavez,1,27
+2020-05-07,Isabel Castro-Garcia,1,28
+2020-05-07,Michael Pennock,1,29
+2020-05-07,Samuel King,1,30
+2020-05-07,Steve Adler,1,31
+2020-05-07,Ted Cruz,1,32
+2020-05-07,Walt Smith,1,33
+2020-05-07,Andrew Dinardo,2,7
+2020-05-07,Brint Ryan,2,8
+2020-05-07,Clare Proctor,2,9
+2020-05-07,Dan Patrick,2,10
+2020-05-07,Dya Campos,2,11
+2020-05-07,Eric Anthony Johnson,2,12
+2020-05-07,Jeffrey Cirillo,2,13
+2020-05-07,Ken Paxton,2,14
+2020-05-07,Mark Escott,2,15
+2020-05-07,Matt Sebesta,2,16
+2020-05-07,Nan,2,17
+2020-05-07,Sandy Rollins,2,18
+2020-05-07,Steve Shardonofsky,2,19
+2020-05-07,Shelley Luther,4,6
+2020-05-07,Cisco Gamez,6,2
+2020-05-07,Ed Serna,6,3
+2020-05-07,Erin Zwiener,6,4
+2020-05-07,Nicole Collier,6,5
+2020-05-07,Greg Abbott,10,1
+2020-05-08,Ashley Lopez,1,1
+2020-05-08,Audrey Mcglinchy,1,2
+2020-05-08,Brenda Stephanie Mata,1,3
+2020-05-08,Greg Abbott,1,4
+2020-05-08,Isabel Castro-Garcia,1,5
+2020-05-08,Samuel King,1,6
+2020-05-08,Shelley Luther,1,7
+2020-05-08,Spencer Cronk,1,8
+2020-05-08,Steve Adler,1,9
+2020-05-10,Cisco Gamez,1,1
+2020-05-10,Ed Serna,1,2
+2020-05-10,Erin Zwiener,1,3
+2020-05-10,Nicole Collier,1,4
+2020-05-11,Amy Hardberger,1,1
+2020-05-11,Meredith Mcguire,1,2
+2020-05-11,Richard Perez,1,3
+2020-05-11,Robert Puente,1,4
+2020-05-11,Ron Nirenberg,1,5
+2020-05-12,Nan,1,1
+2020-05-13,Donald Trump,1,2
+2020-05-13,Las Vegas,1,3
+2020-05-13,Nan,2,1
+2020-05-14,Nan,2,1
+2020-05-15,Eric Schneider,1,1
+2020-05-15,Nan,1,2
+2020-05-17,Bituach Leumi,1,1
+2020-05-17,Cicero Independiente,1,2
+2020-05-17,Helen Frankenthaler,1,3
+2020-05-17,Jack Dorsey,1,4
+2020-05-17,Los Angeles,1,5
+2020-05-18,Nan,1,1
+2020-05-19,Eric Schneider,1,1
+2020-05-20,Alex Villalobos,1,1
+2020-05-20,Debbie Ingalsbe,1,2
+2020-05-20,Gilbert Watt,1,3
+2020-05-20,Mike Jones,1,4
+2020-05-20,Nan,1,5
+2020-05-22,Eric Schneider,1,1
+2020-05-22,Nan,1,2
+2020-05-22,Rachel Ingle,1,3
+2020-05-22,Rodney Rohde,1,4
+2020-05-23,Joe Mccomb,1,1
+2020-05-23,Jonathan Mccomb,1,2
+2020-05-23,Nan,1,3
+2020-05-25,Greg Abbott,1,1

@@ -1,0 +1,671 @@
+date,organization,count,rn
+2020-02-01,California Department Of Public Health,1,1
+2020-02-01,Centers For Disease,1,2
+2020-02-01,United States,1,3
+2020-02-06,National Transportation Safety Board,1,1
+2020-02-06,Nissan,1,2
+2020-02-07,Division Of Infectious Diseases At Rady,1,1
+2020-02-07,Immunization Branch,1,2
+2020-02-07,Mcdonald,1,3
+2020-02-11,Nan,1,1
+2020-02-12,Cnn,1,1
+2020-02-12,United States,1,2
+2020-02-12,World Health Organization,1,3
+2020-02-14,Nan,1,1
+2020-02-17,Associated Press,1,1
+2020-02-17,Facebook,1,2
+2020-02-17,Human Services,1,3
+2020-02-17,Lackland Air Force,1,4
+2020-02-17,National Institute Of Allergy,1,5
+2020-02-17,National Institutes Of Health,1,6
+2020-02-17,Travis Air Force,1,7
+2020-02-17,Twitter,1,8
+2020-02-17,United States,1,9
+2020-02-18,Paradise Unified School District,1,1
+2020-02-18,Tahoe National,1,2
+2020-02-22,Human Services,1,5
+2020-02-22,Human Services Agency,1,6
+2020-02-22,Humboldt State University,1,7
+2020-02-22,Economic Development Corporation Of Shasta,2,1
+2020-02-22,Morgan,2,2
+2020-02-22,Shasta Cascade Wonderland Association,2,3
+2020-02-22,Siskiyou Insurance Services In Redding,2,4
+2020-02-27,Nan,1,1
+2020-02-29,Antioch High School,1,1
+2020-02-29,Antioch Police Department,1,2
+2020-02-29,California Public Health Department,1,3
+2020-02-29,Department Of Public Health,1,4
+2020-02-29,Police In Antioch On,1,5
+2020-02-29,Presidio Middle School,1,6
+2020-02-29,Public Health Department,1,7
+2020-03-03,Adcole Maryland Aerospace,1,1
+2020-03-03,Artemis Fund Managers,1,2
+2020-03-03,Barclays,1,3
+2020-03-03,Bloomberg,1,4
+2020-03-03,Brands Inc,1,5
+2020-03-03,Gilead Sciences Inc,1,6
+2020-03-03,Goodwin Procter,1,7
+2020-03-03,Harbourvest Fund,1,8
+2020-03-03,Health Insight Capital Baird,1,9
+2020-03-03,J M Smith Corp,1,10
+2020-03-03,Jefferies Financial Group,1,11
+2020-03-03,Life Technologies Corp,1,12
+2020-03-03,Lincoln International,1,13
+2020-03-03,Lipton,1,14
+2020-03-03,Merrill Corp,1,15
+2020-03-03,Morgan Stanley,1,16
+2020-03-03,Piper Jaffray,1,17
+2020-03-03,Pitchbook Private Fund Strategies,1,18
+2020-03-03,Raleigh Marriott Crabtree Hotel In Raleigh,1,19
+2020-03-03,Taco Bell,1,20
+2020-03-03,Thermo Fisher,1,21
+2020-03-03,Thermo Fisher Scientific Inc,1,22
+2020-03-03,United States,1,23
+2020-03-04,Associated Press,1,1
+2020-03-04,Paramount Pictures,1,2
+2020-03-04,Twitter,1,3
+2020-03-05,Associated Press,1,1
+2020-03-05,California Department Of Public Health,1,2
+2020-03-05,Centers For Disease,1,3
+2020-03-05,Facebook,1,4
+2020-03-05,Human Services Agency,1,5
+2020-03-05,National Center,1,6
+2020-03-05,United States,1,7
+2020-03-06,Associated Press,1,1
+2020-03-06,California Department Of Public Health,1,2
+2020-03-06,California Department Of Public Health Reveal,1,3
+2020-03-06,Facebook,1,4
+2020-03-06,Human Services Agency,1,5
+2020-03-06,Life Care Center,1,6
+2020-03-06,Los Angeles International Airport,1,7
+2020-03-06,Mercy Medical Center,1,8
+2020-03-06,United States,1,9
+2020-03-06,Walgreens,1,10
+2020-03-06,Walmart,1,11
+2020-03-09,Human Services,1,1
+2020-03-09,United States,1,2
+2020-03-10,Centers For Disease Control,1,6
+2020-03-10,Centers For Disease,2,1
+2020-03-10,Epidemiology Immunization Branch,2,2
+2020-03-10,Human Services Agency,2,3
+2020-03-10,Mcdonald,2,4
+2020-03-10,Public Health,2,5
+2020-03-11,Centers For Disease,1,2
+2020-03-11,Copper Ridge Care Center,1,3
+2020-03-11,Drug Administration,1,4
+2020-03-11,Facebook Bethel Church,1,5
+2020-03-11,Google,1,6
+2020-03-11,Human Services,1,7
+2020-03-11,Human Services Agency,1,8
+2020-03-11,Johns Hopkins University Centre For Systems Science,1,9
+2020-03-11,Mercy Medical Center,1,10
+2020-03-11,Nan,1,11
+2020-03-11,Religion News Service,1,12
+2020-03-11,United States,1,13
+2020-03-11,World Health Organization,1,14
+2020-03-11,Ymca,1,15
+2020-03-11,Bethel Church,2,1
+2020-03-12,American Medical Response,1,2
+2020-03-12,Bethel Church,1,3
+2020-03-12,Centers For Disease,1,4
+2020-03-12,Chico City Council,1,5
+2020-03-12,Facebook Bethel Church,1,6
+2020-03-12,Florence Elementary School,1,7
+2020-03-12,Healthcare Services,1,8
+2020-03-12,Human Services Agency,1,9
+2020-03-12,Johns Hopkins University Centre For Systems Science,1,10
+2020-03-12,Oval Office,1,11
+2020-03-12,Shasta Regional Medical Center,1,12
+2020-03-12,Twitter,1,13
+2020-03-12,United States,1,14
+2020-03-12,Mercy Medical Center,2,1
+2020-03-14,District Attorney Office,1,1
+2020-03-14,Nan,1,2
+2020-03-14,National Emergency On,1,3
+2020-03-16,Contra Costa Unified School District,1,1
+2020-03-16,Google,1,2
+2020-03-16,Human Services Agency,1,3
+2020-03-16,United States,1,4
+2020-03-17,Dunsmuir Joint Union High School District,1,1
+2020-03-17,Mccloud Union School District,1,2
+2020-03-17,Mccloud Union School District In Siskyou,1,3
+2020-03-17,United States,1,4
+2020-03-18,Centers For Disease,1,1
+2020-03-18,Human Services Agency,1,2
+2020-03-18,Public Health,1,3
+2020-03-18,United States,1,4
+2020-03-19,Bethel Church,1,1
+2020-03-19,Business Resource Center,1,2
+2020-03-19,Costco,1,3
+2020-03-19,Department Public Health,1,4
+2020-03-19,Drug Administration,1,5
+2020-03-19,Employment Development Department,1,6
+2020-03-19,Employment Services In Redding,1,7
+2020-03-19,Human Services,1,8
+2020-03-19,Red Lion Hotel,1,9
+2020-03-19,Rush Personnel Services,1,10
+2020-03-19,Save Mart Companies,1,11
+2020-03-19,Shasta Health,1,12
+2020-03-19,Sonoma State University,1,13
+2020-03-19,United States,1,14
+2020-03-20,Chinese Communist Party,1,2
+2020-03-20,Costco,1,3
+2020-03-20,Department Of Sanitary Engineering In Franklin,1,4
+2020-03-20,Hawaii Department Of Health,1,5
+2020-03-20,Reuters,1,6
+2020-03-20,United States,1,7
+2020-03-20,Nan,2,1
+2020-03-23,Associated Press,1,2
+2020-03-23,California Department Of Education,1,3
+2020-03-23,Centers For Disease,1,4
+2020-03-23,Child Nutrition Services,1,5
+2020-03-23,Democrat Santa Rosa,1,6
+2020-03-23,Public Health,1,7
+2020-03-23,Redwood Empire Food Bank,1,8
+2020-03-23,Tribune Content Agency,1,9
+2020-03-23,Nan,2,1
+2020-03-24,European Union,1,15
+2020-03-24,Facebook,1,16
+2020-03-24,United States,1,17
+2020-03-24,University Of California,1,18
+2020-03-24,Beverage Control Department,2,2
+2020-03-24,California National Guard,2,3
+2020-03-24,California Restaurant Association,2,4
+2020-03-24,Good News Rescue Mission,2,5
+2020-03-24,Hill Country Health,2,6
+2020-03-24,Johns Hopkins University,2,7
+2020-03-24,Mercy Medical Center,2,8
+2020-03-24,Outreach Center,2,9
+2020-03-24,Salvation Army Food Ministry,2,10
+2020-03-24,Shasta Regional Medical Center,2,11
+2020-03-24,We The Salvation Army,2,12
+2020-03-24,Wellness Center,2,13
+2020-03-24,World Health Organization,2,14
+2020-03-24,Human Services Agency,3,1
+2020-03-25,Burnsini Vineyards In Cottonwood,1,14
+2020-03-25,Department Of Public Works,1,15
+2020-03-25,Employment Development Department,1,16
+2020-03-25,Environmental Protection Agency,1,17
+2020-03-25,Express,1,18
+2020-03-25,Housing Administration,1,19
+2020-03-25,Instagram,1,20
+2020-03-25,Legal Services Of Northern California,1,21
+2020-03-25,Restaurant Coalition,1,22
+2020-03-25,Service Workers Association,1,23
+2020-03-25,Sewer Department,1,24
+2020-03-25,United States,1,25
+2020-03-25,Valero,1,26
+2020-03-25,Nan,2,13
+2020-03-25,Facebook,3,1
+2020-03-25,Fire Department,3,2
+2020-03-25,Hill Country Community Clinic In Round Mountain,3,3
+2020-03-25,Human Services,3,4
+2020-03-25,Human Services Agency,3,5
+2020-03-25,Johns Hopkins University,3,6
+2020-03-25,Mountain Valleys Health Center,3,7
+2020-03-25,Public Health,3,8
+2020-03-25,Shasta Community Health Center,3,9
+2020-03-25,Shasta Regional Medical Center,3,10
+2020-03-25,Twitter,3,11
+2020-03-25,Young,3,12
+2020-03-26,Department Of Public Health,1,8
+2020-03-26,Department Of Public Works,1,9
+2020-03-26,Department Of Public Works In Redding,1,10
+2020-03-26,Facebook,1,11
+2020-03-26,Johns Hopkins University,1,12
+2020-03-26,Jp Morgan Chase,1,13
+2020-03-26,Public Health Department,1,14
+2020-03-26,Sewer Department,1,15
+2020-03-26,United States,1,16
+2020-03-26,Us Bank,1,17
+2020-03-26,Wells Fargo,1,18
+2020-03-26,Community Action Programs,2,2
+2020-03-26,Environmental Protection Agency,2,3
+2020-03-26,Good News Rescue Mission In Redding,2,4
+2020-03-26,Redding Library,2,5
+2020-03-26,Redding Library On,2,6
+2020-03-26,Shasta County Health,2,7
+2020-03-26,Human Services,3,1
+2020-03-27,American College Of Medical Quality,1,8
+2020-03-27,California State University System,1,9
+2020-03-27,Greiner,1,10
+2020-03-27,United States,1,11
+2020-03-27,Bethel Church,2,2
+2020-03-27,College View Drive In Redding,2,3
+2020-03-27,Department Of Public Health,2,4
+2020-03-27,Facebook,2,5
+2020-03-27,Human Services Agency,2,6
+2020-03-27,Johns Hopkins University,2,7
+2020-03-27,United Airlines,3,1
+2020-03-28,California Department Of Public Health,1,8
+2020-03-28,Facebook,1,9
+2020-03-28,Nan,1,10
+2020-03-28,United States,1,11
+2020-03-28,University Of California,1,12
+2020-03-28,California Employment Development Department,2,2
+2020-03-28,Denny Bar Co,2,3
+2020-03-28,Pacific Gas Electric Co,2,4
+2020-03-28,Paycheck Protection Program,2,5
+2020-03-28,Shasta Cascade Small Business Development Center,2,6
+2020-03-28,Small Business Administration,2,7
+2020-03-28,World Health Organization,3,1
+2020-03-29,Department Of Public Health,1,1
+2020-03-29,Human Services,1,2
+2020-03-29,Johns Hopkins University,1,3
+2020-03-29,Nan,1,4
+2020-03-29,Shasta Growers Association,1,5
+2020-03-29,Shasta Growers Association Saturday Farmers Market,1,6
+2020-03-29,United States,1,7
+2020-03-31,A Trump Administration,1,1
+2020-03-31,Army Corps Of Engineers,1,2
+2020-03-31,California Health Corps,1,3
+2020-03-31,Dallas Kay Bailey Hutchison Convention Center,1,4
+2020-03-31,Department Of Homeland Security,1,5
+2020-03-31,Emergency Management Agency,1,6
+2020-03-31,Exposition Center,1,7
+2020-03-31,Jersey Convention,1,8
+2020-03-31,Morial Convention Center,1,9
+2020-03-31,Temple University Liacouras Center,1,10
+2020-03-31,Trump Administration,1,11
+2020-03-31,United States,1,12
+2020-04-01,Brixmor Property Group,1,8
+2020-04-01,California Health Corps,1,9
+2020-04-01,Charles Schwab,1,10
+2020-04-01,Chevron,1,11
+2020-04-01,Cohen Steers Infrastructure Fund,1,12
+2020-04-01,Consistent Dividend Investor,1,13
+2020-04-01,Department Of Consumer Affairs,1,14
+2020-04-01,Digital Realty Preferred Series,1,15
+2020-04-01,Dominion Bank,1,16
+2020-04-01,Dominion Energy,1,17
+2020-04-01,Duke Energy,1,18
+2020-04-01,Governor Office,1,19
+2020-04-01,Health Corporation,1,20
+2020-04-01,Healthcare Trust Of America,1,21
+2020-04-01,Income Fund Class,1,22
+2020-04-01,Kite Realty Group,1,23
+2020-04-01,Laurie Meyers At Butte College,1,24
+2020-04-01,Nursing Program,1,25
+2020-04-01,Occidental Petroleum Corp,1,26
+2020-04-01,Pacwest Bancorp,1,27
+2020-04-01,Park Hotels Resorts,1,28
+2020-04-01,Pimco,1,29
+2020-04-01,Properties Preferred Series,1,30
+2020-04-01,Rate Advantage Fund,1,31
+2020-04-01,Realty Income,1,32
+2020-04-01,Samuel Merritt University,1,33
+2020-04-01,Stag Realty,1,34
+2020-04-01,Umpqua Holdings,1,35
+2020-04-01,Valero Energy,1,36
+2020-04-01,Valley National Bancorp,1,37
+2020-04-01,Army Corps Of Engineers,2,1
+2020-04-01,Human Services,2,2
+2020-04-01,Mercy Medical Center Robert Folden,2,3
+2020-04-01,National Guard,2,4
+2020-04-01,Shasta College,2,5
+2020-04-01,Shasta Community Health Center,2,6
+2020-04-01,United States,2,7
+2020-04-02,Army Corps Of Engineers,1,10
+2020-04-02,California Department Of Public Health,1,11
+2020-04-02,Centers For Disease,1,12
+2020-04-02,Human Services,1,13
+2020-04-02,National Park Service,1,14
+2020-04-02,Shasta College,1,15
+2020-04-02,United States,1,16
+2020-04-02,Anderson High School,2,1
+2020-04-02,Anderson Union,2,2
+2020-04-02,Charter Communications,2,3
+2020-04-02,Cow Creek School,2,4
+2020-04-02,Google,2,5
+2020-04-02,Shasta Union,2,6
+2020-04-02,Shasta Union High School District In Redding,2,7
+2020-04-02,Valley High School In Cottonwood,2,8
+2020-04-02,Youtube,2,9
+2020-04-03,California Department Of Veterans Affairs,1,1
+2020-04-03,Facebook,1,2
+2020-04-03,Mining Technology,1,3
+2020-04-03,Music Group,1,4
+2020-04-03,Universal Music Group,1,5
+2020-04-04,Army Corps Of Engineers,1,4
+2020-04-04,California Department Of Consumer Affairs,1,5
+2020-04-04,Centers For Disease,1,6
+2020-04-04,Facebook,1,7
+2020-04-04,Human Services,1,8
+2020-04-04,Human Services Agency,1,9
+2020-04-04,Human Services Agency In Shasta,1,10
+2020-04-04,Johns Hopkins University,1,11
+2020-04-04,Mercy Medical Center,1,12
+2020-04-04,Nan,1,13
+2020-04-04,National Guard,1,14
+2020-04-04,Public Health,1,15
+2020-04-04,Shasta Health,1,16
+2020-04-04,Simpson University,1,17
+2020-04-04,Walmart,1,18
+2020-04-04,Wing Of The California National Guard,1,19
+2020-04-04,Shasta College,2,1
+2020-04-04,Shasta Regional Medical Center,2,2
+2020-04-04,United States,2,3
+2020-04-05,Human Services,1,3
+2020-04-05,Human Services Agency,1,4
+2020-04-05,Johns Hopkins University,1,5
+2020-04-05,United States,1,6
+2020-04-05,Walmart,1,7
+2020-04-05,Wing Of The California National Guard,1,8
+2020-04-05,Emergency Management Agency,2,1
+2020-04-05,National Guard,2,2
+2020-04-06,California Department Of Public Health,1,1
+2020-04-06,California Department Of Veterans Affairs,1,2
+2020-04-06,Facebook,1,3
+2020-04-06,Human Services Agency,1,4
+2020-04-06,Johns Hopkins University,1,5
+2020-04-06,National Guard,1,6
+2020-04-06,United States,1,7
+2020-04-07,Assessment Center,1,3
+2020-04-07,Bethel Church,1,4
+2020-04-07,California Department Of Forestry,1,5
+2020-04-07,California Health Corps,1,6
+2020-04-07,California Office Of Emergency Services,1,7
+2020-04-07,Chico City Council,1,8
+2020-04-07,Community Health Centers,1,9
+2020-04-07,Community Health Centers Chcs,1,10
+2020-04-07,Department Of Consumer Affairs,1,11
+2020-04-07,Diabetes Program,1,12
+2020-04-07,Diabetes Program For Indians,1,13
+2020-04-07,Emergency Management Agency,1,14
+2020-04-07,Enloe Medical Center,1,15
+2020-04-07,Faith Assembly Church,1,16
+2020-04-07,Human Services,1,17
+2020-04-07,Human Services Agency,1,18
+2020-04-07,Mercy Medical Center,1,19
+2020-04-07,Nan,1,20
+2020-04-07,National Health Service Corps,1,21
+2020-04-07,Shasta College,1,22
+2020-04-07,Shasta Regional Medical Center,1,23
+2020-04-07,Shasta Union High School District,1,24
+2020-04-07,Sheriff Office,1,25
+2020-04-07,Simpson University,1,26
+2020-04-07,Supreme Court,1,27
+2020-04-07,Teaching Health Center Graduate Medical Education,1,28
+2020-04-07,Teaching Health Centers,1,29
+2020-04-07,United States,1,30
+2020-04-07,National Guard,2,1
+2020-04-07,Shasta Community Health Center,2,2
+2020-04-08,Human Services Agency,1,7
+2020-04-08,Johns Hopkins University,1,8
+2020-04-08,United States,1,9
+2020-04-08,Workers International Union,1,10
+2020-04-08,Faith Assembly,2,1
+2020-04-08,Faith Assembly Senior Pastor Paul Tilley,2,2
+2020-04-08,Human Services,2,3
+2020-04-08,Public Health Branch Director,2,4
+2020-04-08,Safeway,2,5
+2020-04-08,Walmart,2,6
+2020-04-09,Shasta Regional Medical Center,2,4
+2020-04-09,California Department Of Correction,3,1
+2020-04-09,Probation Department,3,2
+2020-04-09,United States,3,3
+2020-04-10,Faith Assembly Church,1,1
+2020-04-10,Faith Assembly In Redding,1,2
+2020-04-10,Nan,1,3
+2020-04-10,Public Health,1,4
+2020-04-10,Rich Pedroncelli Associated,1,5
+2020-04-11,Associated Press,1,6
+2020-04-11,Bethel Church,1,7
+2020-04-11,California Department Of Public Health,1,8
+2020-04-11,California Heritage Youthbuild Academy,1,9
+2020-04-11,California Nurses Association,1,10
+2020-04-11,Capri Motel,1,11
+2020-04-11,Facebook,1,12
+2020-04-11,Human Services Agency Inspector,1,13
+2020-04-11,Mercy Medical Center,1,14
+2020-04-11,Shasta Community,1,15
+2020-04-11,Shasta Community Health Center,1,16
+2020-04-11,Shasta Regional Medical Center,1,17
+2020-04-11,Shasta Youth Alliance,1,18
+2020-04-11,Shasta Youth Alliance Facebook,1,19
+2020-04-11,Faith Assembly Church,2,1
+2020-04-11,Faith Assembly In Redding,2,2
+2020-04-11,Human Services,2,3
+2020-04-11,Public Health,2,4
+2020-04-11,United States,2,5
+2020-04-13,Community Action Agency Of Butte,1,10
+2020-04-13,Faith Assembly Church,2,1
+2020-04-13,Faith Assembly In Redding,2,2
+2020-04-13,Human Services,2,3
+2020-04-13,Human Services Agency,2,4
+2020-04-13,Mercy Medical Center,2,5
+2020-04-13,Public Health,2,6
+2020-04-13,Shasta County Public Health,2,7
+2020-04-13,Shasta Regional Medical Center,2,8
+2020-04-13,United States,2,9
+2020-04-14,California Health Corps,1,8
+2020-04-14,National Guard,1,9
+2020-04-14,California Judicial Council,2,4
+2020-04-14,Shasta County Public Health,2,5
+2020-04-14,Sundial Collective,2,6
+2020-04-14,United States,2,7
+2020-04-14,Human Services Agency,3,1
+2020-04-14,Mercy Medical Center,3,2
+2020-04-14,Shasta Regional Medical Center,3,3
+2020-04-15,Human Services Agency,1,1
+2020-04-15,Indian Health Service,1,2
+2020-04-15,Johns Hopkins University,1,3
+2020-04-15,United States,1,4
+2020-04-16,Bloom Energy,1,16
+2020-04-16,California Department Of Finance,1,17
+2020-04-16,Centers For Medicare Medicaid Services,1,18
+2020-04-16,Facebook,1,19
+2020-04-16,Homeland Infrastructure Foundation,1,20
+2020-04-16,Johns Hopkins University,1,21
+2020-04-16,Tri Counties Bank,1,22
+2020-04-16,Access Community Hospitals Inc,2,2
+2020-04-16,Adventist Health,2,3
+2020-04-16,California Health Corps,2,4
+2020-04-16,California Hospital Association,2,5
+2020-04-16,Centers For Medicare,2,6
+2020-04-16,Mark Twain Medical Center,2,7
+2020-04-16,Marshall Medical Center,2,8
+2020-04-16,Medicaid Services,2,9
+2020-04-16,Members Of The Service Employees International Union,2,10
+2020-04-16,Mercy Medical Center Redding,2,11
+2020-04-16,Office Of Statewide Planning,2,12
+2020-04-16,Sutter Medical Center,2,13
+2020-04-16,United States,2,14
+2020-04-16,Wells Of Adventist Health In Mendocino,2,15
+2020-04-16,Human Services,3,1
+2020-04-17,Facebook,1,1
+2020-04-17,Miller Collision Center,1,2
+2020-04-17,Paycheck Protection Program,1,3
+2020-04-17,Shasta Community Access Center,1,4
+2020-04-17,Small Business Administration,1,5
+2020-04-17,Tri Counties Bank,1,6
+2020-04-17,Utility Grant Program,1,7
+2020-04-18,Human Services Agency,1,15
+2020-04-18,Bonnyview Bechelli Coalition,2,1
+2020-04-18,California Department Of Corrections,2,2
+2020-04-18,City Council,2,3
+2020-04-18,Community Supervision,2,4
+2020-04-18,Costco,2,5
+2020-04-18,Less Schwab Tire Center,2,6
+2020-04-18,Panda Express,2,7
+2020-04-18,Planning Commission,2,8
+2020-04-18,Planning Department,2,9
+2020-04-18,Save Mart Companies,2,10
+2020-04-18,Skywest Airlines,2,11
+2020-04-18,United Airlines,2,12
+2020-04-18,United Express,2,13
+2020-04-18,United States,2,14
+2020-04-20,Quinnipiac University,1,1
+2020-04-21,Centers For Disease,1,5
+2020-04-21,Coronavirus Task,1,6
+2020-04-21,Harvard University,1,7
+2020-04-21,Human Services Agency,1,8
+2020-04-21,New York Times,1,9
+2020-04-21,Twitter,1,10
+2020-04-21,United States,1,11
+2020-04-21,American Association Of Clinical Chemistry,2,1
+2020-04-21,Associated Press,2,2
+2020-04-21,Human Services,2,3
+2020-04-21,Shasta Community Health Center,2,4
+2020-04-22,Access Community Hospitals Inc,1,1
+2020-04-22,Adventist Health,1,2
+2020-04-22,California Health Corps,1,3
+2020-04-22,California Hospital Association,1,4
+2020-04-22,Centers For Medicare,1,5
+2020-04-22,City Council On,1,6
+2020-04-22,Human Services,1,7
+2020-04-22,Johns Hopkins University,1,8
+2020-04-22,Mark Twain Medical Center,1,9
+2020-04-22,Marshall Medical Center,1,10
+2020-04-22,Medicaid Services,1,11
+2020-04-22,Members Of The Service Employees International Union,1,12
+2020-04-22,Mercy Medical Center Redding,1,13
+2020-04-22,Office Of Statewide Planning,1,14
+2020-04-22,Residential Energy Discount Program,1,15
+2020-04-22,Sutter Medical Center,1,16
+2020-04-22,United States,1,17
+2020-04-22,Wells Of Adventist Health In Mendocino,1,18
+2020-04-23,Nan,1,6
+2020-04-23,Directors Of Health,2,1
+2020-04-23,Human Services Agency,2,2
+2020-04-23,Mercy Medical Center,2,3
+2020-04-23,Public Health,2,4
+2020-04-23,White House,2,5
+2020-04-25,United States,2,1
+2020-04-26,Nan,1,1
+2020-04-28,Human Services Agency,2,1
+2020-04-28,Johns Hopkins University,2,2
+2020-04-28,Mercy Medical Center,2,3
+2020-04-28,Public Health,2,4
+2020-04-28,Shasta Regional Medical Center,2,5
+2020-04-29,Costco,1,1
+2020-04-29,Department Of Public Health,1,2
+2020-04-29,Human Services Agency,1,3
+2020-04-29,Johns Hopkins University,1,4
+2020-04-29,Shasta College,1,5
+2020-04-29,United States,1,6
+2020-04-30,Facebook,1,4
+2020-04-30,Lodi City Council,1,5
+2020-04-30,Northern California Power Agency,1,6
+2020-04-30,Office Of Emergency Services,1,7
+2020-04-30,Public Health,1,8
+2020-04-30,Recovery Advisory Committee,1,9
+2020-04-30,Shasta College,1,10
+2020-04-30,National Hot Rod Association,2,3
+2020-04-30,Human Services Agency,3,1
+2020-04-30,United States,3,2
+2020-05-01,California News Publishers Association Better Newspaper Contest,1,2
+2020-05-01,Norxabuse Coalition,1,3
+2020-05-01,Twitter,1,4
+2020-05-01,United States,3,1
+2020-05-02,Department Of Public Health,1,2
+2020-05-02,Johns Hopkins University,1,3
+2020-05-02,Pacific Gas Electric Co,1,4
+2020-05-02,Pg E Community Wildlife Program,1,5
+2020-05-02,Shasta College,1,6
+2020-05-02,Shasta Paper Co,1,7
+2020-05-02,United States,1,8
+2020-05-02,Wheelabrator Shasta Energy Company,1,9
+2020-05-02,Human Services Agency,2,1
+2020-05-04,Nan,1,1
+2020-05-04,Shasta College,1,2
+2020-05-05,Nan,2,1
+2020-05-06,Facebook,2,1
+2020-05-06,United States,2,2
+2020-05-08,Beale Air Force,1,1
+2020-05-08,Group Debuts Walk,1,2
+2020-05-08,Ice Cream Shop In Mission Hills,1,3
+2020-05-08,Mission Hills,1,4
+2020-05-10,Business Association,1,2
+2020-05-10,California Department Of Public Health,1,3
+2020-05-10,Downtown Partnership,1,4
+2020-05-10,Human Services Agency,1,5
+2020-05-10,Johns Hopkins University,1,6
+2020-05-10,University Heights,1,7
+2020-05-10,United States,3,1
+2020-05-11,California Department Of Public Health,1,3
+2020-05-11,Centers For Disease,1,4
+2020-05-11,Johns Hopkins University,1,5
+2020-05-11,Porchlight Court,1,6
+2020-05-11,Red Lobster,1,7
+2020-05-11,United States,1,8
+2020-05-11,White House,1,9
+2020-05-11,Microsoft,3,2
+2020-05-11,Twitter,7,1
+2020-05-12,Chico Unified School District,1,2
+2020-05-12,Disney,1,3
+2020-05-12,Health Department,1,4
+2020-05-12,Nan,1,5
+2020-05-12,Red Lobster,1,6
+2020-05-12,Tribune Content Agency,1,7
+2020-05-12,United States,1,8
+2020-05-12,Human Services Agency,2,1
+2020-05-13,American Civil Liberties Union Of Southern California,1,6
+2020-05-13,California Association Of School Counselors,1,7
+2020-05-13,California Association Of School Psychologists,1,8
+2020-05-13,California Department Of Education,1,9
+2020-05-13,Human Rights Campaign,1,10
+2020-05-13,Wisconsin School Counselor Association,1,11
+2020-05-13,Young,1,12
+2020-05-13,Twitter,2,5
+2020-05-13,Facebook,3,2
+2020-05-13,Farm Press On,3,3
+2020-05-13,Public Health,3,4
+2020-05-13,Human Services Agency,5,1
+2020-05-14,Beale Air Force,1,1
+2020-05-14,Chico Enloe Medical Center,1,2
+2020-05-14,Elizabeth Community Hospital,1,3
+2020-05-14,Enloe Medical Center,1,4
+2020-05-14,Marshall Medical Center,1,5
+2020-05-14,Mercy Medical Center,1,6
+2020-05-14,Nan,1,7
+2020-05-15,Bethel Church,1,1
+2020-05-15,Emergency Management Agency,1,2
+2020-05-15,Human Service Agency,1,3
+2020-05-15,Long Beach Convention Center,1,4
+2020-05-15,Street Clothing Company,1,5
+2020-05-16,California Department Of Public Health,1,1
+2020-05-16,Fielding School Of Public Health,1,2
+2020-05-16,Human Services,1,3
+2020-05-16,Instagram,1,4
+2020-05-16,Makenna Koffee Co,1,5
+2020-05-16,Topa Topa Brewing Co,1,6
+2020-05-16,Westlake High School,1,7
+2020-05-16,Yosemite National Park,1,8
+2020-05-17,California Department Of Public Health,4,1
+2020-05-17,Human Services Agency,4,2
+2020-05-17,Shasta College,4,3
+2020-05-17,Youtube,4,4
+2020-05-18,Blockeley University,1,10
+2020-05-18,California State University,1,11
+2020-05-18,College In Oakland On,1,12
+2020-05-18,Humboldt State University,1,13
+2020-05-18,Shasta Community College,1,14
+2020-05-18,University Of California,1,15
+2020-05-18,University Of Southern California,1,16
+2020-05-18,Woodland Community College,1,17
+2020-05-18,Public Health,2,9
+2020-05-18,Shasta Regional Medical Center,3,8
+2020-05-18,California Department Of Public Health,4,4
+2020-05-18,Department Of Public Health,4,5
+2020-05-18,Johns Hopkins University,4,6
+2020-05-18,United States,4,7
+2020-05-18,Human Services Agency,7,2
+2020-05-18,Shasta Mall Food Court,7,3
+2020-05-18,Shasta College,8,1
+2020-05-19,Emergency Department,1,6
+2020-05-19,United States,1,7
+2020-05-19,Bechelli Bonnyview Coalition,2,1
+2020-05-19,Bonnyview Bechelli Coalition,2,2
+2020-05-19,City Council,2,3
+2020-05-19,Costco,2,4
+2020-05-19,Planning Commission,2,5
+2020-05-22,College Art Association,1,6
+2020-05-22,International Conferences For Cast Iron,1,7
+2020-05-22,International Sculpture Center,1,8
+2020-05-22,Nan,1,9
+2020-05-22,Facebook,2,2
+2020-05-22,Human Services Agency,2,3
+2020-05-22,Mercy Medical Center,2,4
+2020-05-22,Sheriff Department,2,5
+2020-05-22,United States,3,1

@@ -1,0 +1,476 @@
+date,organization,count,rn
+2020-02-03,Human Services,1,1
+2020-02-03,Montana Department Of Public Health,1,2
+2020-02-03,United States,1,3
+2020-02-03,Us Centers For Disease Control,1,4
+2020-02-04,Human Services,1,1
+2020-02-04,Montana Department Of Public Health,1,2
+2020-02-04,United States,1,3
+2020-02-04,Us Centers For Disease Control,1,4
+2020-03-02,Board Of Health,1,1
+2020-03-02,Health Department,1,2
+2020-03-02,Human Services,1,3
+2020-03-02,National Vaccine Injury Compensation Program,1,4
+2020-03-02,United States,1,5
+2020-03-02,United States Center,1,6
+2020-03-03,Kalispell Regional Medical Center,1,5
+2020-03-03,Us Centers For Disease,1,6
+2020-03-03,Montana Public Health Laboratory In Helena,2,4
+2020-03-03,Human Services,3,1
+2020-03-03,Montana Department Of Public Health,3,2
+2020-03-03,United States,3,3
+2020-03-04,Centers For Disease,1,7
+2020-03-04,Clark Public Health,1,8
+2020-03-04,Department Of Military Affairs,1,9
+2020-03-04,Department Of Public Health,1,10
+2020-03-04,Emergency Services,1,11
+2020-03-04,Governor Coronavirus Task,1,12
+2020-03-04,Human Service,1,13
+2020-03-04,Kalispell Regional Medical Center,1,14
+2020-03-04,Peter Health,1,15
+2020-03-04,Health Department,3,5
+2020-03-04,Montana Public Health Laboratory In Helena,3,6
+2020-03-04,Human Services,5,1
+2020-03-04,Montana Department Of Public Health,5,2
+2020-03-04,United States,5,3
+2020-03-04,Us Centers For Disease,5,4
+2020-03-05,Atmospheric Administration,1,4
+2020-03-05,Flathead Valley Community College,1,5
+2020-03-05,Heartland Institute,1,6
+2020-03-05,Human Services,1,7
+2020-03-05,Institute For Tourism,1,8
+2020-03-05,Kalispell Regional Medical Center,1,9
+2020-03-05,Montana Department Of Public Health,1,10
+2020-03-05,Montana Glacier National Park,1,11
+2020-03-05,National Oceanic,1,12
+2020-03-05,New York Times,1,13
+2020-03-05,Propulsion Laboratory,1,14
+2020-03-05,Public Trust In Government,1,15
+2020-03-05,Recreation Research,1,16
+2020-03-05,Stern,1,17
+2020-03-05,Trump Administration Is Just,1,18
+2020-03-05,University Of Montana,1,19
+2020-03-05,Us Centers For Disease,1,20
+2020-03-05,Centers For Disease,2,2
+2020-03-05,Glacier National Park,2,3
+2020-03-05,United States,3,1
+2020-03-06,Atmospheric Administration,1,1
+2020-03-06,Glacier National Park,1,2
+2020-03-06,Heartland Institute,1,3
+2020-03-06,International Conference On Climate,1,4
+2020-03-06,Montana Department Of Transportation,1,5
+2020-03-06,Montana Glacier National Park,1,6
+2020-03-06,My Place Hotel,1,7
+2020-03-06,Nan,1,8
+2020-03-06,National Oceanic,1,9
+2020-03-06,New York Times,1,10
+2020-03-06,Propulsion Laboratory,1,11
+2020-03-06,Public Trust In Government Science,1,12
+2020-03-06,Public Works Department,1,13
+2020-03-06,Trump Administration Is Just,1,14
+2020-03-06,United States,1,15
+2020-03-06,Youtube,1,16
+2020-03-09,United States,4,3
+2020-03-09,Facebook,9,2
+2020-03-09,American Conservative Union,14,1
+2020-03-10,Centers For Disease,1,7
+2020-03-10,Nan,1,8
+2020-03-10,Tribal Health,1,9
+2020-03-10,Tribal Health Department,1,10
+2020-03-10,Albertsons,4,6
+2020-03-10,Human Services,5,4
+2020-03-10,Montana Department Of Public Health,5,5
+2020-03-10,American Conservative Union,7,2
+2020-03-10,Facebook,7,3
+2020-03-10,United States,8,1
+2020-03-12,Billings City College,1,4
+2020-03-12,Bitterroot College Hamilton,1,5
+2020-03-12,Dawson Community College,1,6
+2020-03-12,Flathead Valley Community College,1,7
+2020-03-12,Miles City Community College,1,8
+2020-03-12,Montana Department Of Public Health Human Services,1,9
+2020-03-12,Montana State University Bozeman,1,10
+2020-03-12,Montana University System,1,11
+2020-03-12,United States,1,12
+2020-03-12,University Of Montana,1,13
+2020-03-12,Centers For Disease,2,1
+2020-03-12,Flathead Public Health,2,2
+2020-03-12,Montana State University,2,3
+2020-03-13,Billings City College,1,3
+2020-03-13,Bitterroot College Hamilton,1,4
+2020-03-13,Dawson Community College,1,5
+2020-03-13,Flathead Valley Community College,1,6
+2020-03-13,Miles City Community College,1,7
+2020-03-13,Montana Department Of Public Health Human Services,1,8
+2020-03-13,Montana State University Bozeman,1,9
+2020-03-13,Montana University System,1,10
+2020-03-13,United States,1,11
+2020-03-13,University Of Montana,1,12
+2020-03-13,National Guard,2,1
+2020-03-13,Public Health,2,2
+2020-03-14,Bozeman Health,1,1
+2020-03-14,Centers For Disease,1,2
+2020-03-14,Health Department,1,3
+2020-03-14,Missoula City County Health Department,1,4
+2020-03-14,Public Health Lab In Helena,1,5
+2020-03-14,Safety For Bozeman Health,1,6
+2020-03-15,Instagram,1,1
+2020-03-15,Tesco,1,2
+2020-03-16,Editor Club,1,2
+2020-03-16,Flathead Beacon Editor Club,1,3
+2020-03-16,Nan,1,4
+2020-03-16,Safety Division Administrator Todd Harwell,1,5
+2020-03-16,Public Health,2,1
+2020-03-17,Agency On,1,1
+2020-03-17,Board Of Health,1,2
+2020-03-17,Centers For Disease,1,3
+2020-03-17,Editor Club,1,4
+2020-03-17,Environmental Health,1,5
+2020-03-17,Facebook,1,6
+2020-03-17,Flathead Beacon Editor Club,1,7
+2020-03-17,Flathead Food Bank,1,8
+2020-03-17,Health Department,1,9
+2020-03-17,Health Department In Great Falls,1,10
+2020-03-17,Montana Department Of Public Health Human Services,1,11
+2020-03-17,Public Health,1,12
+2020-03-17,Public Health Laboratory In Helena,1,13
+2020-03-17,Smith Corporate Affairs,1,14
+2020-03-17,Valley Food Bank,1,15
+2020-03-18,Facebook,1,3
+2020-03-18,Food Bank,1,4
+2020-03-18,Public Health,1,5
+2020-03-18,Editor Club,2,1
+2020-03-18,Flathead Beacon Editor Club,2,2
+2020-03-19,Facebook,1,1
+2020-03-20,Health Department,1,1
+2020-03-21,Kalispell Regional Medical Center,1,9
+2020-03-21,Nan,1,10
+2020-03-21,Lewis Clark Public Health In Helena,2,8
+2020-03-21,Centers For Disease,3,2
+2020-03-21,Editor Club,3,3
+2020-03-21,Family Health Care,3,4
+2020-03-21,Flathead Beacon Editor Club,3,5
+2020-03-21,Lewis Clark Public Health,3,6
+2020-03-21,Public Health,3,7
+2020-03-21,Health Department,7,1
+2020-03-22,Facebook,1,1
+2020-03-22,Health Department,1,2
+2020-03-24,Board Of Health,1,14
+2020-03-24,Montana West Economic Development,1,15
+2020-03-24,Shoshone National Forest,1,16
+2020-03-24,Small Business Administration,1,17
+2020-03-24,Department Of The,2,11
+2020-03-24,Flathead High School,2,12
+2020-03-24,Health Department,2,13
+2020-03-24,Albright Visitor Center,3,1
+2020-03-24,Bureau Of Land Management,3,2
+2020-03-24,Editor Club,3,3
+2020-03-24,Facebook,3,4
+2020-03-24,Flathead Beacon Editor Club,3,5
+2020-03-24,Montana Free,3,6
+2020-03-24,Morris,3,7
+2020-03-24,Mountain National Park,3,8
+2020-03-24,National Park Service,3,9
+2020-03-24,Yellowstone National Park,3,10
+2020-03-25,Facebook,1,1
+2020-03-25,Fashion Fund,1,2
+2020-03-25,Fashion Fund Award,1,3
+2020-03-25,Instagram,1,4
+2020-03-25,Public Hotel,1,5
+2020-03-26,Community Action Partnership Of Northwest Montana,1,1
+2020-03-26,Department Of Labor,1,2
+2020-03-26,Department Of Public Health,1,3
+2020-03-26,Editor Club,1,4
+2020-03-26,Flathead Beacon Editor Club,1,5
+2020-03-26,Flathead Food Bank,1,6
+2020-03-26,Flathead Warming Center,1,7
+2020-03-26,Human Services,1,8
+2020-03-26,Valley Food Bank,1,9
+2020-03-27,Editor Club,1,2
+2020-03-27,Flathead Beacon Editor Club,1,3
+2020-03-27,Glacier National Park,1,4
+2020-03-27,Job Service Kalispell,1,5
+2020-03-27,Lincoln County Health Department,1,6
+2020-03-27,National Park Service,1,7
+2020-03-27,Facebook,2,1
+2020-03-28,Crossroads Correctional Center,1,3
+2020-03-28,Deer Lodge,1,4
+2020-03-28,Department Of Corrections,1,5
+2020-03-28,Montana Coalition Against Domestic,1,6
+2020-03-28,Montana Department Of Corrections,1,7
+2020-03-28,Montana Human Rights Network,1,8
+2020-03-28,Montana Supreme Court,1,9
+2020-03-28,Nan,1,10
+2020-03-28,Facebook,2,1
+2020-03-28,Lincoln County Health Department,2,2
+2020-03-29,American Diabetes Association,1,1
+2020-03-29,Corrections Department,1,2
+2020-03-29,Crossroads Correctional Center,1,3
+2020-03-29,Deer Lodge,1,4
+2020-03-29,Department Of Corrections,1,5
+2020-03-29,Montana Coalition Against Domestic,1,6
+2020-03-29,Montana Department Of Corrections,1,7
+2020-03-29,Montana Human Rights Network,1,8
+2020-03-29,Montana Supreme Court,1,9
+2020-03-29,Office Of The State Public Defender,1,10
+2020-03-29,Supreme Court,1,11
+2020-03-30,American Diabetes Association,1,4
+2020-03-30,Corrections Department,1,5
+2020-03-30,Crossroads Correctional Center,1,6
+2020-03-30,Deer Lodge,1,7
+2020-03-30,Department Of Corrections,1,8
+2020-03-30,Montana Coalition Against Domestic,1,9
+2020-03-30,Montana Department Of Corrections,1,10
+2020-03-30,Montana Human Rights Network,1,11
+2020-03-30,Montana Supreme Court,1,12
+2020-03-30,Office Of The State Public Defender,1,13
+2020-03-30,Supreme Court,1,14
+2020-03-30,Glacier National Park,2,1
+2020-03-30,Montana Free,2,2
+2020-03-30,Youtube,2,3
+2020-03-31,Aaron,1,1
+2020-03-31,Costco,1,2
+2020-03-31,Credit Courtesy Of Montana Public Education Network,1,3
+2020-03-31,Crossroads Correctional Center,1,4
+2020-03-31,Deer Lodge,1,5
+2020-03-31,Department Of Corrections,1,6
+2020-03-31,Exxon,1,7
+2020-03-31,Great Falls School District,1,8
+2020-03-31,Kirk Miller At School Administrators Of Montana,1,9
+2020-03-31,Montana Coalition Against Domestic,1,10
+2020-03-31,Montana Department Of Corrections,1,11
+2020-03-31,Montana Human Rights Network,1,12
+2020-03-31,Montana Office Of Public Instruction,1,13
+2020-03-31,Montana Supreme Court,1,14
+2020-03-31,Nan,1,15
+2020-03-31,Sam Club In Billings,1,16
+2020-03-31,United States,1,17
+2020-04-01,Health Department,1,9
+2020-04-01,Kalispell Regional Medical Center,1,10
+2020-04-01,Montana Music Relief Fund,1,11
+2020-04-01,Montana Painters Alliance,1,12
+2020-04-01,Morrison,1,13
+2020-04-01,Visitors Bureau Explore Whitefish,1,14
+2020-04-01,A Stillwater Christian School,2,1
+2020-04-01,Aaron,2,2
+2020-04-01,Disney,2,3
+2020-04-01,Editor Club,2,4
+2020-04-01,Flathead Beacon Editor Club,2,5
+2020-04-01,Great Falls School District,2,6
+2020-04-01,Kirk Miller At School Administrators Of Montana,2,7
+2020-04-01,Montana Office Of Public Instruction,2,8
+2020-04-02,Deer Lodge,1,4
+2020-04-02,Facebook,1,5
+2020-04-02,Heritage Center,1,6
+2020-04-02,Marias Heritage Center,1,7
+2020-04-02,Marias Medical Center,1,8
+2020-04-02,Montana Army,1,9
+2020-04-02,Nan,1,10
+2020-04-02,Northern Rockies Medical Center,1,11
+2020-04-02,Office Of Public Instruction,1,12
+2020-04-02,Training Administration,1,13
+2020-04-02,Coronavirus Task,2,1
+2020-04-02,Montana National Guard,2,2
+2020-04-02,National Guard,2,3
+2020-04-03,Company Name,1,1
+2020-04-03,Marias Heritage Center,1,2
+2020-04-03,Marias Medical Center,1,3
+2020-04-03,Montana National Guard,1,4
+2020-04-03,Nan,1,5
+2020-04-03,National Guard,1,6
+2020-04-03,Office Of Public Instruction,1,7
+2020-04-03,Training Administration,1,8
+2020-04-03,United States,1,9
+2020-04-04,Firehouse Subs,1,1
+2020-04-05,Deer Lodge,1,1
+2020-04-05,Facebook,1,2
+2020-04-05,Health Department,1,3
+2020-04-05,Heritage Center,1,4
+2020-04-05,Incident Command Team,1,5
+2020-04-05,Johns Hopkins University,1,6
+2020-04-05,Marias Heritage Center,1,7
+2020-04-05,Marias Medical Center,1,8
+2020-04-05,Montana Department Of Public Health Human Services,1,9
+2020-04-05,Montana Legislature,1,10
+2020-04-05,National Guard,1,11
+2020-04-07,Facebook,1,1
+2020-04-07,Heritage Center,1,2
+2020-04-07,Incident Command Team,1,3
+2020-04-07,Marias Heritage Center,1,4
+2020-04-07,Marias Medical Center,1,5
+2020-04-07,Montana Department Of Public Health Human Services,1,6
+2020-04-07,National Guard,1,7
+2020-04-08,Facebook,1,1
+2020-04-08,Heritage Center,1,2
+2020-04-08,Incident Command Team,1,3
+2020-04-08,Islamic Center,1,4
+2020-04-08,Marias Heritage Center,1,5
+2020-04-08,Marias Medical Center,1,6
+2020-04-08,Montana Department Of Public Health Human Services,1,7
+2020-04-08,National Guard,1,8
+2020-04-08,Northwestern University In Evanston,1,9
+2020-04-08,Sisters Chapel At Spelman College In Atlanta,1,10
+2020-04-08,Temple University,1,11
+2020-04-08,York University Islamic Center,1,12
+2020-04-14,Commerce Committee,1,1
+2020-04-14,Glaxosmithkline,1,2
+2020-04-14,House Energy,1,3
+2020-04-14,Members Of Congress,1,4
+2020-04-14,Roche Holdings Of Switzerland,1,5
+2020-04-14,Senate Ethics Committee,1,6
+2020-04-14,Senate Health Committee,1,7
+2020-04-14,Shionogi Co,1,8
+2020-04-15,Centers For Disease,1,1
+2020-04-15,Cnn,1,2
+2020-04-15,Health Board,1,3
+2020-04-15,Montana Human Rights Network,1,4
+2020-04-15,Public Health Department,1,5
+2020-04-16,Nan,1,1
+2020-04-17,Associated Press,1,1
+2020-04-17,Governor Coronavirus Task,1,2
+2020-04-17,National Guard,1,3
+2020-04-17,United States,1,4
+2020-04-21,Centers For Disease Control,1,1
+2020-04-21,Clorox,1,2
+2020-04-21,Emergency Department At Depaul,1,3
+2020-04-21,Emergency Operations Center,1,4
+2020-04-21,Health Department,1,5
+2020-04-21,Siue School Of Nursing,1,6
+2020-04-21,Southern Illinois University Edwardsville,1,7
+2020-04-23,Cowles Media Television Network,1,3
+2020-04-23,Farmers Union,1,4
+2020-04-23,Job Service Kalispell,1,5
+2020-04-23,Montana Cattlemen Association,1,6
+2020-04-23,Montana Farmers Union,1,7
+2020-04-23,Montana Supreme Court,1,8
+2020-04-23,Northern News Network,1,9
+2020-04-23,Northern News Radio Network,1,10
+2020-04-23,Northern Plains Resource Council,1,11
+2020-04-23,United States Cattlemen Association,1,12
+2020-04-23,Facebook,2,1
+2020-04-23,Nan,2,2
+2020-04-24,Acadia National Park,1,1
+2020-04-24,Alaska Airlines,1,2
+2020-04-24,American Airlines,1,3
+2020-04-24,Arches National Park,1,4
+2020-04-24,Boston Logan International,1,5
+2020-04-24,Bozeman Yellowstone International,1,6
+2020-04-24,Charlotte Douglas International,1,7
+2020-04-24,Denali National Park,1,8
+2020-04-24,Dulles International,1,9
+2020-04-24,Everglades National Park,1,10
+2020-04-24,Glacier National Park,1,11
+2020-04-24,Half Dome At Yosemite National Park,1,12
+2020-04-24,Hawaii Volcanoes National Park,1,13
+2020-04-24,Mountain National Park,1,14
+2020-04-24,National Park Service,1,15
+2020-04-24,National Park System,1,16
+2020-04-24,National Park Week,1,17
+2020-04-24,Olympic National Park,1,18
+2020-04-24,Reagan National,1,19
+2020-04-24,Redwood National Park,1,20
+2020-04-24,Salt Lake City International,1,21
+2020-04-24,Skywest Airlines,1,22
+2020-04-24,Teton National Park,1,23
+2020-04-24,Tortugas National Park,1,24
+2020-04-24,White Sands National Park,1,25
+2020-04-24,Yellowstone National Park,1,26
+2020-04-24,Yosemite National Park,1,27
+2020-04-24,Zion National Park,1,28
+2020-04-27,Facebook,1,1
+2020-04-27,Farm Bureau,1,2
+2020-04-27,Lake Seed Inc,1,3
+2020-04-28,Ace Hardware,1,1
+2020-04-28,City County Health Department,1,2
+2020-04-28,Health Department,1,3
+2020-04-28,Job Service Kalispell,1,4
+2020-04-28,Johns Hopkins University,1,5
+2020-04-28,Walmart,1,6
+2020-04-29,Farm Bureau,1,2
+2020-04-29,Lake Seed Inc,1,3
+2020-04-29,Facebook,2,1
+2020-04-30,Facebook,1,1
+2020-04-30,Farm Bureau,1,2
+2020-04-30,Lake Seed Inc,1,3
+2020-05-01,Talbot,1,5
+2020-05-01,War Is,1,6
+2020-05-01,Branch Davidians,2,1
+2020-05-01,Facebook,2,2
+2020-05-01,National Defense Authorization,2,3
+2020-05-01,United States,2,4
+2020-05-02,Campaign Beat,1,1
+2020-05-02,Montana Republican Party,1,2
+2020-05-02,Office Under Bullock,1,3
+2020-05-02,Republican Party,1,4
+2020-05-03,Greater Montana Foundation,1,1
+2020-05-03,Montana Broadcasters Association,1,2
+2020-05-04,Campaign Beat,2,1
+2020-05-04,Greater Montana Foundation,2,2
+2020-05-04,Montana Broadcasters Association,2,3
+2020-05-04,Montana Republican Party,2,4
+2020-05-04,Office Under Bullock,2,5
+2020-05-04,Republican Party,2,6
+2020-05-05,Community Foundations,1,1
+2020-05-05,Greater Montana Foundation,1,2
+2020-05-05,Montana Broadcasters Association,1,3
+2020-05-06,Department Of Labor,1,1
+2020-05-07,Acadia National Park,1,1
+2020-05-07,Arches National Parks,1,2
+2020-05-07,Arizona State University,1,3
+2020-05-07,Bryce Canyon National Park,1,4
+2020-05-07,California Yosemite National Park,1,5
+2020-05-07,Canyon National Park,1,6
+2020-05-07,Community Emergency Response Team,1,7
+2020-05-07,Denali National Park,1,8
+2020-05-07,Department Of Labor,1,9
+2020-05-07,Emergency Management Agency In Kalispell,1,10
+2020-05-07,Everglades National Park,1,11
+2020-05-07,Glacier National Park,1,12
+2020-05-07,Great Smoky Mountains National Park,1,13
+2020-05-07,Health Department,1,14
+2020-05-07,Montana Glacier National Park,1,15
+2020-05-07,Mountain National Park,1,16
+2020-05-07,National Park Service,1,17
+2020-05-07,Olympic National Park,1,18
+2020-05-07,Teton National Park,1,19
+2020-05-07,University Of Phoenix,1,20
+2020-05-07,Utah Bryce Canyon National Park,1,21
+2020-05-07,Yellowstone National Park,1,22
+2020-05-07,Yosemite National Park,1,23
+2020-05-07,Zion National Park,1,24
+2020-05-08,Department Of Labor,1,1
+2020-05-11,Nan,1,1
+2020-05-12,Nan,1,5
+2020-05-12,Board Of Health,2,1
+2020-05-12,Valley Medical Services,2,2
+2020-05-12,Valley Medical Services In Kalispell,2,3
+2020-05-12,Whitefish City Council,2,4
+2020-05-15,Montana Coronavirus Task,1,6
+2020-05-15,Montana Republican Party,1,7
+2020-05-15,Billings Hotel,3,4
+2020-05-15,Convention Center,3,5
+2020-05-15,Associated Press,5,1
+2020-05-15,Oracle,5,2
+2020-05-15,Rightnow Technologies,5,3
+2020-05-16,Billings Hotel,1,4
+2020-05-16,Convention Center,1,5
+2020-05-16,Montana Coronavirus Task,1,6
+2020-05-16,Associated Press,2,1
+2020-05-16,Oracle,2,2
+2020-05-16,Rightnow Technologies,2,3
+2020-05-17,Billings Hotel,2,4
+2020-05-17,Convention Center,2,5
+2020-05-17,Associated Press,3,1
+2020-05-17,Oracle,3,2
+2020-05-17,Rightnow Technologies,3,3
+2020-05-19,Army Col,1,2
+2020-05-19,Army Corps Of Engineers,1,3
+2020-05-19,Army Corps Of Engineers Omaha District,1,4
+2020-05-19,Army Maj,1,5
+2020-05-19,Emergency Management Agency,1,6
+2020-05-19,United States,1,7
+2020-05-19,Worldwide Newsunited States Army Corps Of Engineersdefense,1,8
+2020-05-19,Montana Coronavirus Task,2,1
+2020-05-23,Green Party,1,1
+2020-05-23,National Barley Growers Association Buzz Mattelin,1,2
+2020-05-23,University Of Montana,1,3

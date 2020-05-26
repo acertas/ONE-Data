@@ -1,0 +1,382 @@
+date,person,count,rn
+2020-03-06,Jonathan Rath Hoffman,1,1
+2020-03-06,Kayvon Modjarrad,1,2
+2020-03-06,Mark Esper,1,3
+2020-03-06,Mark Milley,1,4
+2020-03-06,Robert Abrams,1,5
+2020-03-06,Seymour Johnson,1,6
+2020-03-06,Shannon Lynch,1,7
+2020-03-16,Roy Cooper,1,1
+2020-03-18,Gerry Broome,1,4
+2020-03-18,Josh Stein,4,1
+2020-03-18,Larry Parker,4,2
+2020-03-18,Roy Cooper,4,3
+2020-03-19,Phil Berger,1,7
+2020-03-19,Tommy Burns,1,8
+2020-03-19,Gerry Broome,2,6
+2020-03-19,Mandy Cohen,3,4
+2020-03-19,Vincent Price,3,5
+2020-03-19,Josh Stein,9,1
+2020-03-19,Larry Parker,9,2
+2020-03-19,Roy Cooper,9,3
+2020-03-21,Nan,1,8
+2020-03-21,Teresa Ellen,1,9
+2020-03-21,Betts Jr,2,1
+2020-03-21,Elizabeth Tilson,2,2
+2020-03-21,John Silvernail,2,3
+2020-03-21,Kim Mcdonald,2,4
+2020-03-21,Kristen Richmond-Hoover,2,5
+2020-03-21,Marilyn Pearson,2,6
+2020-03-21,Roy Cooper,2,7
+2020-03-22,Betts Jr,1,1
+2020-03-22,Elizabeth Tilson,1,2
+2020-03-22,John Silvernail,1,3
+2020-03-22,Kim Mcdonald,1,4
+2020-03-22,Kristen Richmond-Hoover,1,5
+2020-03-22,Marilyn Pearson,1,6
+2020-03-22,Nan,1,7
+2020-03-22,Roy Cooper,1,8
+2020-03-22,Teresa Ellen,1,9
+2020-03-23,Mike Emory,1,9
+2020-03-23,Betts Jr,2,1
+2020-03-23,Elizabeth Tilson,2,2
+2020-03-23,John Silvernail,2,3
+2020-03-23,Kim Mcdonald,2,4
+2020-03-23,Kristen Richmond-Hoover,2,5
+2020-03-23,Marilyn Pearson,2,6
+2020-03-23,Roy Cooper,2,7
+2020-03-23,Teresa Ellen,2,8
+2020-03-24,Betts Jr,1,1
+2020-03-24,Elizabeth Tilson,1,2
+2020-03-24,John Silvernail,1,3
+2020-03-24,Kim Mcdonald,1,4
+2020-03-24,Kristen Richmond-Hoover,1,5
+2020-03-24,Marilyn Pearson,1,6
+2020-03-24,Mike Emory,1,7
+2020-03-24,Roy Cooper,1,8
+2020-03-24,Teresa Ellen,1,9
+2020-03-25,Betts Jr,1,1
+2020-03-25,Elizabeth Tilson,1,2
+2020-03-25,John Silvernail,1,3
+2020-03-25,Kim Mcdonald,1,4
+2020-03-25,Kristen Richmond-Hoover,1,5
+2020-03-25,Marilyn Pearson,1,6
+2020-03-25,Mike Emory,1,7
+2020-03-25,Mitch Cooper,1,8
+2020-03-25,Roy Cooper,1,9
+2020-03-25,Teresa Ellen,1,10
+2020-03-26,Betts Jr,1,1
+2020-03-26,Elizabeth Tilson,1,2
+2020-03-26,John Silvernail,1,3
+2020-03-26,Kim Mcdonald,1,4
+2020-03-26,Kristen Richmond-Hoover,1,5
+2020-03-26,Mandy Cohen,1,6
+2020-03-26,Marilyn Pearson,1,7
+2020-03-26,Mike Emory,1,8
+2020-03-26,Mike Sprayberry,1,9
+2020-03-26,Mitch Cooper,1,10
+2020-03-26,Roy Cooper,1,11
+2020-03-26,Teresa Ellen,1,12
+2020-03-27,Adriano Espaillat,1,1
+2020-03-27,Apostle Paul,1,2
+2020-03-27,Isaac Graham,1,3
+2020-03-27,Jean Spradlin,1,4
+2020-03-27,Jesse Spradlin,1,5
+2020-03-27,Jesus Christ,1,6
+2020-03-27,Judah Strickland,1,7
+2020-03-27,Landon Spradlin,1,8
+2020-03-27,Leonardo Blair,1,9
+2020-03-27,Ronnie Hampton,1,10
+2020-03-27,Scott Spillmann,1,11
+2020-03-28,Dick Gregory,1,45
+2020-03-28,Alex Wong Getty,3,33
+2020-03-28,Carl Lynn Richmond,3,34
+2020-03-28,Charles Bennett,3,35
+2020-03-28,Chris Kleponis,3,36
+2020-03-28,Elijah Cummings,3,37
+2020-03-28,George H W Bush,3,38
+2020-03-28,Jason Merritt Getty,3,39
+2020-03-28,John Conyers,3,40
+2020-03-28,John Lewis,3,41
+2020-03-28,Michelle Obama,3,42
+2020-03-28,Somodevilla Getty,3,43
+2020-03-28,Wyatt Tee Walker,3,44
+2020-03-28,Atlanta Lowery,4,26
+2020-03-28,Bob Daugherty,4,27
+2020-03-28,Coretta King,4,28
+2020-03-28,George Hw Bush,4,29
+2020-03-28,Jim Wilson,4,30
+2020-03-28,Jimmy Carter,4,31
+2020-03-28,Martin Luther King,4,32
+2020-03-28,Joseph E Lowery,6,25
+2020-03-28,Susan Walsh,10,24
+2020-03-28,A King Berniceking,11,23
+2020-03-28,David Goldman,12,21
+2020-03-28,Leonard Woodcock,12,22
+2020-03-28,Bill Clinton,24,19
+2020-03-28,Joe Lowery,24,20
+2020-03-28,Joseph Lowery,43,18
+2020-03-28,Cheryl Lowery,65,17
+2020-03-28,Errin Haines,73,16
+2020-03-28,Cheryl Lowery-Osborne,119,15
+2020-03-28,Martin Luther King Jr,130,14
+2020-03-28,Barack Obama,138,13
+2020-03-28,Hillary Clinton,147,12
+2020-03-28,Evelyn Gibson Lowery,150,10
+2020-03-28,George Bush,150,11
+2020-03-28,Bernice King,151,9
+2020-03-28,Alpha Phi Alpha,152,6
+2020-03-28,Karen Lowery,152,7
+2020-03-28,Yvonne Kennedy,152,8
+2020-03-28,Coretta Scott King,154,1
+2020-03-28,Evelyn Gibson,154,2
+2020-03-28,Howard Echols,154,3
+2020-03-28,Joseph Echols Lowery,154,4
+2020-03-28,Ralph David Abernathy,154,5
+2020-03-29,Adriano Espaillat,1,22
+2020-03-29,Apostle Paul,1,23
+2020-03-29,Isaac Graham,1,24
+2020-03-29,Jean Spradlin,1,25
+2020-03-29,Jesse Spradlin,1,26
+2020-03-29,Jesus Christ,1,27
+2020-03-29,Judah Strickland,1,28
+2020-03-29,Landon Spradlin,1,29
+2020-03-29,Leonardo Blair,1,30
+2020-03-29,Ronnie Hampton,1,31
+2020-03-29,Scott Spillmann,1,32
+2020-03-29,David Goldman,2,21
+2020-03-29,Joseph Lowery,4,20
+2020-03-29,Errin Haines,8,19
+2020-03-29,Cheryl Lowery-Osborne,10,18
+2020-03-29,Cheryl Lowery,13,17
+2020-03-29,Bill Clinton,15,15
+2020-03-29,Joe Lowery,15,16
+2020-03-29,Alpha Phi Alpha,17,12
+2020-03-29,Karen Lowery,17,13
+2020-03-29,Yvonne Kennedy,17,14
+2020-03-29,Martin Luther King Jr,18,11
+2020-03-29,Barack Obama,19,1
+2020-03-29,Bernice King,19,2
+2020-03-29,Coretta Scott King,19,3
+2020-03-29,Evelyn Gibson,19,4
+2020-03-29,Evelyn Gibson Lowery,19,5
+2020-03-29,George Bush,19,6
+2020-03-29,Hillary Clinton,19,7
+2020-03-29,Howard Echols,19,8
+2020-03-29,Joseph Echols Lowery,19,9
+2020-03-29,Ralph David Abernathy,19,10
+2020-03-30,Betts Jr,1,20
+2020-03-30,Elizabeth Tilson,1,21
+2020-03-30,Halifax Perquimans,1,22
+2020-03-30,John Silvernail,1,23
+2020-03-30,Kim Mcdonald,1,24
+2020-03-30,Kristen Richmond-Hoover,1,25
+2020-03-30,Mandy Cohen,1,26
+2020-03-30,Marilyn Pearson,1,27
+2020-03-30,Mike Emory,1,28
+2020-03-30,Mike Sprayberry,1,29
+2020-03-30,Mitch Cooper,1,30
+2020-03-30,Roy Cooper,1,31
+2020-03-30,Ryan Eggleston,1,32
+2020-03-30,Teresa Ellen,1,33
+2020-03-30,Cheryl Lowery-Osborne,4,18
+2020-03-30,Errin Haines,4,19
+2020-03-30,Bernice King,6,12
+2020-03-30,Bill Clinton,6,13
+2020-03-30,Cheryl Lowery,6,14
+2020-03-30,Evelyn Gibson,6,15
+2020-03-30,Joe Lowery,6,16
+2020-03-30,Martin Luther King Jr,6,17
+2020-03-30,Alpha Phi Alpha,8,1
+2020-03-30,Barack Obama,8,2
+2020-03-30,Coretta Scott King,8,3
+2020-03-30,Evelyn Gibson Lowery,8,4
+2020-03-30,George Bush,8,5
+2020-03-30,Hillary Clinton,8,6
+2020-03-30,Howard Echols,8,7
+2020-03-30,Joseph Echols Lowery,8,8
+2020-03-30,Karen Lowery,8,9
+2020-03-30,Ralph David Abernathy,8,10
+2020-03-30,Yvonne Kennedy,8,11
+2020-03-31,Bill Clinton,3,15
+2020-03-31,Cheryl Lowery,3,16
+2020-03-31,Cheryl Lowery-Osborne,3,17
+2020-03-31,Errin Haines,3,18
+2020-03-31,Joe Lowery,3,19
+2020-03-31,Alpha Phi Alpha,5,1
+2020-03-31,Barack Obama,5,2
+2020-03-31,Bernice King,5,3
+2020-03-31,Coretta Scott King,5,4
+2020-03-31,Evelyn Gibson,5,5
+2020-03-31,Evelyn Gibson Lowery,5,6
+2020-03-31,George Bush,5,7
+2020-03-31,Hillary Clinton,5,8
+2020-03-31,Howard Echols,5,9
+2020-03-31,Joseph Echols Lowery,5,10
+2020-03-31,Karen Lowery,5,11
+2020-03-31,Martin Luther King Jr,5,12
+2020-03-31,Ralph David Abernathy,5,13
+2020-03-31,Yvonne Kennedy,5,14
+2020-04-01,Alpha Phi Alpha,1,1
+2020-04-01,Barack Obama,1,2
+2020-04-01,Bernice King,1,3
+2020-04-01,Betts Jr,1,4
+2020-04-01,Bill Clinton,1,5
+2020-04-01,Cheryl Lowery,1,6
+2020-04-01,Cheryl Lowery-Osborne,1,7
+2020-04-01,Coretta Scott King,1,8
+2020-04-01,Elizabeth Tilson,1,9
+2020-04-01,Errin Haines,1,10
+2020-04-01,Evelyn Gibson,1,11
+2020-04-01,Evelyn Gibson Lowery,1,12
+2020-04-01,George Bush,1,13
+2020-04-01,Halifax Perquimans,1,14
+2020-04-01,Hillary Clinton,1,15
+2020-04-01,Howard Echols,1,16
+2020-04-01,Joe Lowery,1,17
+2020-04-01,John Silvernail,1,18
+2020-04-01,Joseph Echols Lowery,1,19
+2020-04-01,Karen Lowery,1,20
+2020-04-01,Kim Mcdonald,1,21
+2020-04-01,Kristen Richmond-Hoover,1,22
+2020-04-01,Mandy Cohen,1,23
+2020-04-01,Marilyn Pearson,1,24
+2020-04-01,Martin Luther King Jr,1,25
+2020-04-01,Mike Emory,1,26
+2020-04-01,Mike Sprayberry,1,27
+2020-04-01,Mitch Cooper,1,28
+2020-04-01,Ralph David Abernathy,1,29
+2020-04-01,Roy Cooper,1,30
+2020-04-01,Ryan Eggleston,1,31
+2020-04-01,Teresa Ellen,1,32
+2020-04-01,Yvonne Kennedy,1,33
+2020-04-04,Randolph Wilkes,1,15
+2020-04-04,Betts Jr,2,1
+2020-04-04,Elizabeth Tilson,2,2
+2020-04-04,Halifax Perquimans,2,3
+2020-04-04,John Silvernail,2,4
+2020-04-04,Kim Mcdonald,2,5
+2020-04-04,Kristen Richmond-Hoover,2,6
+2020-04-04,Mandy Cohen,2,7
+2020-04-04,Marilyn Pearson,2,8
+2020-04-04,Mike Emory,2,9
+2020-04-04,Mike Sprayberry,2,10
+2020-04-04,Mitch Cooper,2,11
+2020-04-04,Roy Cooper,2,12
+2020-04-04,Ryan Eggleston,2,13
+2020-04-04,Teresa Ellen,2,14
+2020-04-05,Alpha Phi Alpha,1,1
+2020-04-05,Barack Obama,1,2
+2020-04-05,Bernice King,1,3
+2020-04-05,Betts Jr,1,4
+2020-04-05,Bill Clinton,1,5
+2020-04-05,Cheryl Lowery,1,6
+2020-04-05,Coretta Scott King,1,7
+2020-04-05,Elizabeth Tilson,1,8
+2020-04-05,Evelyn Gibson,1,9
+2020-04-05,Evelyn Gibson Lowery,1,10
+2020-04-05,George Bush,1,11
+2020-04-05,Halifax Perquimans,1,12
+2020-04-05,Hillary Clinton,1,13
+2020-04-05,Howard Echols,1,14
+2020-04-05,Joe Lowery,1,15
+2020-04-05,John Silvernail,1,16
+2020-04-05,Joseph Echols Lowery,1,17
+2020-04-05,Karen Lowery,1,18
+2020-04-05,Kim Mcdonald,1,19
+2020-04-05,Kristen Richmond-Hoover,1,20
+2020-04-05,Mandy Cohen,1,21
+2020-04-05,Marilyn Pearson,1,22
+2020-04-05,Martin Luther King Jr,1,23
+2020-04-05,Mike Emory,1,24
+2020-04-05,Mike Sprayberry,1,25
+2020-04-05,Mitch Cooper,1,26
+2020-04-05,Ralph David Abernathy,1,27
+2020-04-05,Roy Cooper,1,28
+2020-04-05,Ryan Eggleston,1,29
+2020-04-05,Teresa Ellen,1,30
+2020-04-05,Yvonne Kennedy,1,31
+2020-04-06,Alison Dvorchik,1,1
+2020-04-06,Andy Lerman,1,2
+2020-04-06,Betts Jr,1,3
+2020-04-06,Caroline Gregory,1,4
+2020-04-06,Cathi Carothers,1,5
+2020-04-06,Elizabeth Tilson,1,6
+2020-04-06,Halifax Perquimans,1,7
+2020-04-06,John Silvernail,1,8
+2020-04-06,Kelly Mueller,1,9
+2020-04-06,Kim Mcdonald,1,10
+2020-04-06,Kristen Richmond-Hoover,1,11
+2020-04-06,Mandy Cohen,1,12
+2020-04-06,Marilyn Pearson,1,13
+2020-04-06,Mike Emory,1,14
+2020-04-06,Mike Sprayberry,1,15
+2020-04-06,Mitch Cooper,1,16
+2020-04-06,Roy Cooper,1,17
+2020-04-06,Ryan Eggleston,1,18
+2020-04-06,Stacy Rubenstein,1,19
+2020-04-06,Steven Zeldes,1,20
+2020-04-06,Teresa Ellen,1,21
+2020-04-10,Tommy Burns,1,1
+2020-04-14,Alpha Phi Alpha,1,1
+2020-04-14,Barack Obama,1,2
+2020-04-14,Bernice King,1,3
+2020-04-14,Bill Clinton,1,4
+2020-04-14,Cheryl Lowery,1,5
+2020-04-14,Cheryl Lowery-Osborne,1,6
+2020-04-14,Coretta Scott King,1,7
+2020-04-14,Errin Haines,1,8
+2020-04-14,Evelyn Gibson,1,9
+2020-04-14,Evelyn Gibson Lowery,1,10
+2020-04-14,George Bush,1,11
+2020-04-14,Hillary Clinton,1,12
+2020-04-14,Howard Echols,1,13
+2020-04-14,Joe Lowery,1,14
+2020-04-14,Joseph Echols Lowery,1,15
+2020-04-14,Karen Lowery,1,16
+2020-04-14,Martin Luther King Jr,1,17
+2020-04-14,Ralph David Abernathy,1,18
+2020-04-14,Yvonne Kennedy,1,19
+2020-04-21,Alex Phillips,2,12
+2020-04-21,Amy Adams Ellis,3,1
+2020-04-21,David Howard,3,2
+2020-04-21,Elaine Russell,3,3
+2020-04-21,Floriece Davis-Jones,3,4
+2020-04-21,Frank Wyatt,3,5
+2020-04-21,Jennifer Green,3,6
+2020-04-21,Joel Gillie,3,7
+2020-04-21,Mary Wyatt,3,8
+2020-04-21,Megan Redford,3,9
+2020-04-21,Mike Tadych,3,10
+2020-04-21,Ron Wyatt,3,11
+2020-04-22,Brian Murphy,1,12
+2020-04-22,Emily Featherston,1,13
+2020-04-22,Frank Taylor,1,14
+2020-04-22,Kate Martin,1,15
+2020-04-22,Lucille Sherman,1,16
+2020-04-22,Nick Ochsner,1,17
+2020-04-22,Amy Adams Ellis,3,1
+2020-04-22,David Howard,3,2
+2020-04-22,Elaine Russell,3,3
+2020-04-22,Floriece Davis-Jones,3,4
+2020-04-22,Frank Wyatt,3,5
+2020-04-22,Jennifer Green,3,6
+2020-04-22,Joel Gillie,3,7
+2020-04-22,Mary Wyatt,3,8
+2020-04-22,Megan Redford,3,9
+2020-04-22,Mike Tadych,3,10
+2020-04-22,Ron Wyatt,3,11
+2020-05-06,Bernard Williams,1,1
+2020-05-06,Darisha Parker,1,2
+2020-05-06,Fareed Abdullah,1,3
+2020-05-06,Michael Cogbill,1,4
+2020-05-06,Nikki Bagby,1,5
+2020-05-06,Tom Wolf,1,6
+2020-05-11,Eric Boyette,1,1
+2020-05-16,Roy Cooper,1,1
+2020-05-17,Abdue Knox,1,1
+2020-05-17,Austin Rammell,1,2
+2020-05-17,Carl Ford,1,3
+2020-05-17,Roy Cooper,1,4
+2020-05-17,Susan Heafner-Heun,1,5
+2020-05-17,William Marshall,1,6

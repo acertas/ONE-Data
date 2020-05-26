@@ -1,0 +1,518 @@
+date,organization,count,rn
+2020-02-06,Health Department,1,1
+2020-02-22,Call Center,1,1
+2020-02-22,Centers For Disease,1,2
+2020-02-22,Health Department,1,3
+2020-02-22,Health Entities,1,4
+2020-02-22,Information For Public Health,1,5
+2020-02-22,Public Health Region,1,6
+2020-02-22,Texas Department Of State Health Services,1,7
+2020-02-22,United States,1,8
+2020-02-22,World Health Organization,1,9
+2020-02-28,Associated Press,1,1
+2020-02-28,Centers For Disease,1,2
+2020-02-28,Department Of Defense,1,3
+2020-02-28,Department Of Homeland Security,1,4
+2020-02-28,Department Of State Health Services,1,5
+2020-02-28,Human Services,1,6
+2020-02-28,Office Of The Governor Of Texas,1,7
+2020-02-28,Operations Center,1,8
+2020-02-28,Republicans In Congress,1,9
+2020-02-28,United States,1,10
+2020-02-28,World Health Organization,1,11
+2020-02-29,Adm,1,1
+2020-02-29,Associated Press,1,2
+2020-02-29,Centers For Disease,1,3
+2020-02-29,Department Of Defense,1,4
+2020-02-29,Department Of Homeland Security,1,5
+2020-02-29,European Union,1,6
+2020-02-29,Human Services,1,7
+2020-02-29,Republicans In Congress,1,8
+2020-02-29,Texas Center,1,9
+2020-02-29,United States,1,10
+2020-02-29,World Health Organization,1,11
+2020-03-02,Associated Press,1,1
+2020-03-02,Department Of Defense,1,2
+2020-03-02,Department Of Homeland Security,1,3
+2020-03-02,Human Services,1,4
+2020-03-02,United States,1,5
+2020-03-02,World Health Organization,1,6
+2020-03-03,Associated Press,1,1
+2020-03-03,Declaration Of Public Health Emergency,1,2
+2020-03-03,Department Of Defense,1,3
+2020-03-03,Department Of Homeland Security,1,4
+2020-03-03,Human Services,1,5
+2020-03-03,United States,1,6
+2020-03-03,World Health Organization,1,7
+2020-03-05,Laboratory Response Network,1,1
+2020-03-05,Office Of The Governor Of Texas,1,2
+2020-03-12,Centers For Disease,1,1
+2020-03-12,Texas Department Of State Health Services,1,2
+2020-03-13,Centers For Disease,1,1
+2020-03-13,Centers For Disease Control,1,2
+2020-03-13,Jewish Federation,1,3
+2020-03-13,Jewish Federation Of Greater Houston,1,4
+2020-03-13,Lackland Air Force,1,5
+2020-03-13,Torah Day School,1,6
+2020-03-13,Torah Girls Academy,1,7
+2020-03-14,Centers For Disease,1,2
+2020-03-14,Chapters,1,3
+2020-03-14,International Registration Plan,1,4
+2020-03-14,Kroger,1,5
+2020-03-14,Lackland Air Force,1,6
+2020-03-14,Texas Department Of Motor Vehicles,1,7
+2020-03-14,Walmart,1,8
+2020-03-14,United States,2,1
+2020-03-16,Associated Press,1,11
+2020-03-16,Brooke Army Medical Center,1,12
+2020-03-16,Central Market,1,13
+2020-03-16,Community Bible Church,1,14
+2020-03-16,Declaration Of Public Health Emergency,1,15
+2020-03-16,Department Of Education,1,16
+2020-03-16,Facebook,1,17
+2020-03-16,Fiesta Commission,1,18
+2020-03-16,Governor Office,1,19
+2020-03-16,Jamie Foxx Performing Arts Center,1,20
+2020-03-16,Lackland Air Force,1,21
+2020-03-16,Mark Episcopal Church,1,22
+2020-03-16,Mary University,1,23
+2020-03-16,Metro Health,1,24
+2020-03-16,Office Of The Governor Of Texas,1,25
+2020-03-16,San Antonio,1,26
+2020-03-16,Texas Department Of Transportation,1,27
+2020-03-16,Texas Health Of Human Services Commission,1,28
+2020-03-16,Texas State Teachers Association,1,29
+2020-03-16,Tissue Center,1,30
+2020-03-16,Trinity University,1,31
+2020-03-16,University Of Texas At San Antonio,1,32
+2020-03-16,Whataburger,1,33
+2020-03-16,Wilford Hall Ambulatory Surgical Center,1,34
+2020-03-16,Alpha Omega Academy,2,7
+2020-03-16,Centers For Disease,2,8
+2020-03-16,High School,2,9
+2020-03-16,Huntsville Classical Academy,2,10
+2020-03-16,Girls Club,3,3
+2020-03-16,Operations Center,3,4
+2020-03-16,Texas Association Of School Administrators,3,5
+2020-03-16,Twitter,3,6
+2020-03-16,World Health Organization,6,2
+2020-03-16,Texas Education Agency,11,1
+2020-03-17,City Council,1,24
+2020-03-17,Express,1,25
+2020-03-17,Frost Bank,1,26
+2020-03-17,Human Services,1,27
+2020-03-17,Jefferson Bank,1,28
+2020-03-17,Netflix,1,29
+2020-03-17,Operations Center,1,30
+2020-03-17,Small Business Administration,1,31
+2020-03-17,Texas A M University,1,32
+2020-03-17,Texas National Guard,1,33
+2020-03-17,Texas Racing Commission,1,34
+2020-03-17,University Health System,1,35
+2020-03-17,Brooke Army Medical Center,2,6
+2020-03-17,Central Market,2,7
+2020-03-17,Community Bible Church,2,8
+2020-03-17,Declaration Of Public Health Emergency,2,9
+2020-03-17,Fiesta Commission,2,10
+2020-03-17,Lackland Air Force,2,11
+2020-03-17,Mark Episcopal Church,2,12
+2020-03-17,Mary University,2,13
+2020-03-17,Metro Health,2,14
+2020-03-17,San Antonio,2,15
+2020-03-17,Texas Department Of Transportation,2,16
+2020-03-17,Texas Health Of Human Services Commission,2,17
+2020-03-17,Texas State Teachers Association,2,18
+2020-03-17,Tissue Center,2,19
+2020-03-17,Trinity University,2,20
+2020-03-17,University Hospital,2,21
+2020-03-17,University Of Texas At San Antonio,2,22
+2020-03-17,Wilford Hall Ambulatory Surgical Center,2,23
+2020-03-17,Associated Press,3,3
+2020-03-17,Centers For Disease,3,4
+2020-03-17,Whataburger,3,5
+2020-03-17,Texas Education Agency,4,2
+2020-03-17,World Health Organization,7,1
+2020-03-18,Ali Linan Community Impact Newspaper,1,23
+2020-03-18,Ann Miller Community Impact Newspaper,1,24
+2020-03-18,Anna Herod Community Impact Newspaper,1,25
+2020-03-18,Brian Perdue Community Impact Newspaper,1,26
+2020-03-18,Central Texas Regional Mobility Authority,1,27
+2020-03-18,Community Impact Staff,1,28
+2020-03-18,Jack Flagler Community Impact Newspaper,1,29
+2020-03-18,Small Business Administration,1,30
+2020-03-18,T Center,1,31
+2020-03-18,Trinity Christian Academy,1,32
+2020-03-18,United States Congress,1,33
+2020-03-18,Walmart,1,34
+2020-03-18,Austin Public Health,2,4
+2020-03-18,Brooke Army Medical Center,2,5
+2020-03-18,Centers For Disease,2,6
+2020-03-18,Central Market,2,7
+2020-03-18,Community Bible Church,2,8
+2020-03-18,Declaration Of Public Health Emergency,2,9
+2020-03-18,Defense Department,2,10
+2020-03-18,Fiesta Commission,2,11
+2020-03-18,Lackland Air Force,2,12
+2020-03-18,Mark Episcopal Church,2,13
+2020-03-18,Mary University,2,14
+2020-03-18,Metro Health,2,15
+2020-03-18,San Antonio,2,16
+2020-03-18,Texas Health Of Human Services Commission,2,17
+2020-03-18,Tissue Center,2,18
+2020-03-18,Trinity University,2,19
+2020-03-18,University Hospital,2,20
+2020-03-18,University Of Texas At San Antonio,2,21
+2020-03-18,Wilford Hall Ambulatory Surgical Center,2,22
+2020-03-18,Texas Department Of Transportation,3,2
+2020-03-18,Texas National Guard,3,3
+2020-03-18,National Guard,4,1
+2020-03-19,Centers For Disease,1,9
+2020-03-19,Chapters,1,10
+2020-03-19,City Council,1,11
+2020-03-19,Declaration Of Public Health Disaster,1,12
+2020-03-19,Hellerstedt Public Health Disaster Declaration,1,13
+2020-03-19,International Registration Plan,1,14
+2020-03-19,Nan,1,15
+2020-03-19,Public Health Disaster,1,16
+2020-03-19,Texas Department Of Motor Vehicles,1,17
+2020-03-19,Education Task,2,4
+2020-03-19,Instructional Continuity Task,2,5
+2020-03-19,Our Task,2,6
+2020-03-19,Texas Alcoholic Beverage Commission,2,7
+2020-03-19,United States,2,8
+2020-03-19,Texas Education Agency,5,3
+2020-03-19,Texas Department Of State Health Services,7,1
+2020-03-19,Texas Division Of Emergency Management,7,2
+2020-03-20,College Board,1,2
+2020-03-20,Comcast,1,3
+2020-03-20,Department Of Education,1,4
+2020-03-20,Education Task,1,5
+2020-03-20,Facebook,1,6
+2020-03-20,Instructional Continuity Task,1,7
+2020-03-20,Our Task,1,8
+2020-03-20,Texas Department Of State Health Services,1,9
+2020-03-20,Texas Division Of Emergency Management,1,10
+2020-03-20,Texas Public Policy Foundation,1,11
+2020-03-20,Texas State Teachers Association,1,12
+2020-03-20,Twitter,1,13
+2020-03-20,Texas Education Agency,2,1
+2020-03-21,Centers For Disease,1,1
+2020-03-21,Department Of Education,1,2
+2020-03-21,Department Of Motor Vehicles,1,3
+2020-03-21,Department Of Public Safety,1,4
+2020-03-21,Governor Office,1,5
+2020-03-21,Hellerstedt Public Health Disaster Declaration,1,6
+2020-03-21,Office Of The Attorney,1,7
+2020-03-21,Office Of The Governor,1,8
+2020-03-21,Public Health Disaster,1,9
+2020-03-21,Texas Department Of Information Resources,1,10
+2020-03-21,Texas Department Of Insurance,1,11
+2020-03-21,Texas Department Of Motor Vehicles,1,12
+2020-03-21,Texas Department Of State Health Services,1,13
+2020-03-21,Texas Division Of Emergency Management,1,14
+2020-03-21,Texas Education Agency,1,15
+2020-03-21,Texas Workforce Commission,1,16
+2020-03-21,United States,1,17
+2020-03-21,Workforce Solutions,1,18
+2020-03-22,Chamber Facebook,1,1
+2020-03-22,Community Aquatic Park,1,2
+2020-03-22,Environmental Department,1,3
+2020-03-22,Facebook,1,4
+2020-03-22,Housing Administration,1,5
+2020-03-22,Little League,1,6
+2020-03-22,National Guard,1,7
+2020-03-22,Office Of The Governor,1,8
+2020-03-22,Small Business Administration,1,9
+2020-03-22,Texas Alcoholic Beverage Commission,1,10
+2020-03-22,Texas Department Of Insurance,1,11
+2020-03-22,Texas Department Of Public Safety,1,12
+2020-03-22,Texas Division Of Emergency Management,1,13
+2020-03-22,Texas National Guard,1,14
+2020-03-22,Youtube,1,15
+2020-03-23,Associated Press,1,1
+2020-03-23,Centers For Disease,1,2
+2020-03-23,Department Of Health,1,3
+2020-03-23,Economic Stabilization Fund,1,4
+2020-03-23,Health Order,1,5
+2020-03-23,Nan,1,6
+2020-03-23,Ohio Department Of Health,1,7
+2020-03-23,Ohio Health,1,8
+2020-03-23,Ohio State Medical Association,1,9
+2020-03-23,Texas Department Of State Health Services,1,10
+2020-03-23,Women Med Center,1,11
+2020-03-24,Associated Press,1,1
+2020-03-24,Defense Industrial,1,2
+2020-03-24,Department Of Health,1,3
+2020-03-24,Emergency Services,1,4
+2020-03-24,Financial Services,1,5
+2020-03-24,Health Order,1,6
+2020-03-24,Information Technology,1,7
+2020-03-24,Infrastructure Security Agency,1,8
+2020-03-24,Nuclear Reactors,1,9
+2020-03-24,Ohio Department Of Health,1,10
+2020-03-24,Ohio Health,1,11
+2020-03-24,Ohio State Medical Association,1,12
+2020-03-24,Public Health,1,13
+2020-03-24,Women Med Center,1,14
+2020-03-25,British Embassy,1,8
+2020-03-25,Centers For Disease,1,9
+2020-03-25,Deputy Head Of Mission,1,10
+2020-03-25,Environment Ministry Of Health,1,11
+2020-03-25,Facebook,1,12
+2020-03-25,Food Bank,1,13
+2020-03-25,Foreign Office,1,14
+2020-03-25,Instagram,1,15
+2020-03-25,Ministry Of Health,1,16
+2020-03-25,National Institute For Public Health,1,17
+2020-03-25,New York Times,1,18
+2020-03-25,Outbreak Management Team,1,19
+2020-03-25,Reuters,1,20
+2020-03-25,Senate Majority Leader,1,21
+2020-03-25,Senate Minority Leader,1,22
+2020-03-25,Transportation Security Administration,1,23
+2020-03-25,Twitter,1,24
+2020-03-25,United Nations,1,25
+2020-03-25,World Health Organization,1,26
+2020-03-25,Wyndham Hotels,1,27
+2020-03-25,York State Health,1,28
+2020-03-25,Youtube,1,29
+2020-03-25,Chinese Communist Party,2,3
+2020-03-25,Coronavirus Task,2,4
+2020-03-25,Department Of Homeland Security,2,5
+2020-03-25,Emergency Management Agency,2,6
+2020-03-25,White House,2,7
+2020-03-25,Nan,3,2
+2020-03-25,United States,4,1
+2020-03-26,Chain Strike,1,1
+2020-03-26,Department Of Community,1,2
+2020-03-26,Department Of Public Safety,1,3
+2020-03-26,Economic Development,1,4
+2020-03-26,Energy Transfer,1,5
+2020-03-26,Nan,1,6
+2020-03-26,Pennsylvania Department Of Environmental Protection,1,7
+2020-03-28,Food Bank,1,1
+2020-03-29,Centers For Disease,1,1
+2020-03-29,Chain Strike,1,2
+2020-03-29,Department Of Health,1,3
+2020-03-29,Department Of Labor,1,4
+2020-03-29,Department Of State Health Services,1,5
+2020-03-29,Governor Office,1,6
+2020-03-29,Human Service Administration For Community Living,1,7
+2020-03-29,Human Services Commission,1,8
+2020-03-29,Infantry Brigade Combat Team,1,9
+2020-03-29,National Guard Joint Task Force Brigades,1,10
+2020-03-29,Texas Department Of Public Safety,1,11
+2020-03-29,Texas Department Of State Health Services,1,12
+2020-03-29,Texas Division Of Emergency Management,1,13
+2020-03-29,Texas Health,1,14
+2020-03-29,Texas National Guard,1,15
+2020-03-29,Texas Restaurant Association,1,16
+2020-03-29,Texas State Senate District,1,17
+2020-03-29,Texas Supplemental Nutritional Assistance Program,1,18
+2020-03-29,Texas Workforce Commission,1,19
+2020-03-29,Unemployment Trust Fund,1,20
+2020-03-29,United States Department Of Agriculture,1,21
+2020-03-29,White House Coronavirus Task,1,22
+2020-03-31,Nan,1,1
+2020-03-31,Texas Department Of State Health Services,1,2
+2020-03-31,Texas Division Of Emergency Management,1,3
+2020-03-31,Texas Education Agency,1,4
+2020-04-01,Auctions Unlimited,1,1
+2020-04-01,Centers For Disease,1,2
+2020-04-01,Chain Strike,1,3
+2020-04-01,Circuit Court,1,4
+2020-04-01,Communications Commission,1,5
+2020-04-01,District Court,1,6
+2020-04-01,Governor Committee On People,1,7
+2020-04-01,Human Services Commission,1,8
+2020-04-01,Nan,1,9
+2020-04-01,Services To Students,1,10
+2020-04-01,Supreme Court,1,11
+2020-04-01,Texas Department Of Public Safety,1,12
+2020-04-01,Texas Department Of State Health Services,1,13
+2020-04-01,Texas Division Of Emergency Management,1,14
+2020-04-01,Texas Health,1,15
+2020-04-01,Texas Supplemental Nutritional Assistance Program,1,16
+2020-04-01,Texas Workforce Commission,1,17
+2020-04-01,Unemployment Trust Fund,1,18
+2020-04-01,United States Department Of Agriculture,1,19
+2020-04-01,University Of Texas,1,20
+2020-04-01,White House,1,21
+2020-04-02,Arkansas Department Of Parks,1,1
+2020-04-02,Cnn,1,2
+2020-04-02,Harris Center,1,3
+2020-04-02,Human Services Commission,1,4
+2020-04-02,Mental Health,1,5
+2020-04-02,Nan,1,6
+2020-04-02,Texas Health,1,7
+2020-04-02,United States,1,8
+2020-04-02,University Of Texas,1,9
+2020-04-02,Utah League,1,10
+2020-04-02,Yellowstone National Park,1,11
+2020-04-03,Arkansas Department Of Parks,1,1
+2020-04-03,Facebook,1,2
+2020-04-03,Temple Police Department,1,3
+2020-04-03,United States,1,4
+2020-04-03,Utah League,1,5
+2020-04-03,Yellowstone National Park,1,6
+2020-04-04,Arkansas Department Of Parks,1,1
+2020-04-04,United States,1,2
+2020-04-04,Utah League,1,3
+2020-04-04,Yellowstone National Park,1,4
+2020-04-09,Centers For Disease,1,1
+2020-04-09,Centers For Medicare,1,2
+2020-04-09,Health District,1,3
+2020-04-09,Medicaid Services,1,4
+2020-04-09,Metro Health,1,5
+2020-04-09,Rehabilitation Center,1,6
+2020-04-09,Rehabilitation Services,1,7
+2020-04-10,Centers For Disease,1,1
+2020-04-10,Centers For Medicare,1,2
+2020-04-10,Health District,1,3
+2020-04-10,Medicaid Services,1,4
+2020-04-10,Metro Health,1,5
+2020-04-10,Rehabilitation Center,1,6
+2020-04-10,Rehabilitation Services,1,7
+2020-04-10,Texas Workforce Commission,1,8
+2020-04-11,City Bank,1,1
+2020-04-11,Department Of State Health Services,1,2
+2020-04-11,Facebook,1,3
+2020-04-11,Texas Department Of State Health Services,1,4
+2020-04-11,Texas Restaurant Association,1,5
+2020-04-13,Chevron,1,1
+2020-04-13,Parsley Energy,1,2
+2020-04-13,Railroad Commission,1,3
+2020-04-13,Texas Railroad Commission,1,4
+2020-04-13,United States,1,5
+2020-04-13,World Oil On,1,6
+2020-04-14,Emergency Management Agency,1,1
+2020-04-14,Facebook,1,2
+2020-04-14,Food Bank,1,3
+2020-04-14,Public Assistance Program,1,4
+2020-04-14,Texas Division Of Emergency Management,1,5
+2020-04-14,Texas Food Bank,1,6
+2020-04-15,Emergency Food Assistance Program,1,1
+2020-04-15,Emergency Management Agency,1,2
+2020-04-15,Food Bank,1,3
+2020-04-15,Human Services Commission,1,4
+2020-04-15,Human Services Department,1,5
+2020-04-15,Pandemic Electronic Benefit Transfer Program,1,6
+2020-04-15,Supplemental Nutrition Assistance Program,1,7
+2020-04-15,Texas Division Of Emergency Management,1,8
+2020-04-15,Texas Health,1,9
+2020-04-16,Emergency Medical Task,1,1
+2020-04-16,Hospital Preparedness Coalition,1,2
+2020-04-16,Lackland Air Force,1,3
+2020-04-16,Our Department,1,4
+2020-04-16,Texas Municpal League,1,5
+2020-04-21,Centers For Disease,1,1
+2020-04-21,Centers For Medicare,1,2
+2020-04-21,First Baptist Church,1,3
+2020-04-21,Frost Bank,1,4
+2020-04-21,Girls Club Of Midland,1,5
+2020-04-21,Health District,1,6
+2020-04-21,Medicaid Services,1,7
+2020-04-21,Metro Health,1,8
+2020-04-21,Midland Chamber,1,9
+2020-04-21,Rehabilitation Center,1,10
+2020-04-21,Rehabilitation Services,1,11
+2020-04-21,Texas Department Of State Health Services,1,12
+2020-04-21,Texas Food Bank,1,13
+2020-04-21,Texas National Guard,1,14
+2020-04-22,Nan,1,1
+2020-04-22,Texas Workforce Commission,1,2
+2020-04-23,Cantey Hanger,1,1
+2020-04-23,Department Of Public Safety,1,2
+2020-04-23,Girling Community Care,1,3
+2020-04-23,Human Services,1,4
+2020-04-23,Nan,1,5
+2020-04-23,Office Of The Governor,1,6
+2020-04-23,Rehabilitation Center,1,7
+2020-04-23,Revenue Service,1,8
+2020-04-23,Texas Association For Home Care,1,9
+2020-04-23,Texas Health,1,10
+2020-04-23,United States,1,11
+2020-04-24,Center Square,1,3
+2020-04-24,Community Development Block Grant,1,4
+2020-04-24,Emergency Management Agency,1,5
+2020-04-24,Housing Assistance Program,1,6
+2020-04-24,Instagram,1,7
+2020-04-24,Land Office,1,8
+2020-04-24,Office Of The Attorney General,1,9
+2020-04-24,Texas Department Of Emergency Management,1,10
+2020-04-24,Twitter,1,11
+2020-04-24,Facebook,2,1
+2020-04-24,Supreme Court,2,2
+2020-04-25,Lakes High School In Katy,1,1
+2020-04-25,Members Of The Texas Army National Guard,1,2
+2020-04-25,Office Of Lina Hidalgo,1,3
+2020-04-25,Texas Food Bank,1,4
+2020-04-27,Austin Public Health,1,1
+2020-04-27,Department Of Health,1,2
+2020-04-27,Drug Administration,1,3
+2020-04-27,Human Services,1,4
+2020-04-28,Beaumont Independent School District,1,1
+2020-04-28,Human Services,1,2
+2020-04-28,Phalen Leadership Academy,1,3
+2020-04-28,Texas Health,1,4
+2020-04-29,Carlsbad City Council,1,1
+2020-04-29,Carlsbad Department Of Development,1,2
+2020-04-29,City Council,1,3
+2020-04-29,Commission Chairperson Ernie Carlson,1,4
+2020-04-29,Department Of Health,1,5
+2020-04-29,Governor Office,1,6
+2020-04-29,United States,1,7
+2020-04-30,Costco,1,1
+2020-04-30,H-E-B Public Affairs,1,2
+2020-04-30,Kroger,1,3
+2020-04-30,Regional Advisory Councils Racs,1,4
+2020-04-30,Sam Club,1,5
+2020-04-30,Texas Department Of Criminal Justice,1,6
+2020-04-30,Texas Department Of Emergency Management,1,7
+2020-04-30,Texas Regional Extension Center,1,8
+2020-04-30,Thetexas Medical Association,1,9
+2020-04-30,Walmart,1,10
+2020-04-30,Whole Foods,1,11
+2020-05-01,Texas Department Of Criminal Justice,1,1
+2020-05-01,Texas Workforce Commission,1,2
+2020-05-01,Workforce Commission,1,3
+2020-05-03,Associated Press,1,1
+2020-05-03,Natural Resources Division,1,2
+2020-05-03,Recreation Department,1,3
+2020-05-03,Texas Workforce Commission,1,4
+2020-05-04,Associated Press,1,1
+2020-05-04,Texas Workforce Commission,1,2
+2020-05-05,Associated Press,1,2
+2020-05-05,Chinese Communist Party,1,3
+2020-05-05,Facebook,1,4
+2020-05-05,Indian Council Of Medical Research,1,5
+2020-05-05,Johns Hopkins University,1,6
+2020-05-05,Ministry Of Health,1,7
+2020-05-05,Recreation Department,1,8
+2020-05-05,Reuters,1,9
+2020-05-05,Texas Workforce Commission,1,10
+2020-05-05,United States,1,11
+2020-05-05,Xinhua,1,12
+2020-05-05,Cnn,2,1
+2020-05-06,Texas Department Of Criminal Justice,1,1
+2020-05-06,Texas Department Of State Health Services,1,2
+2020-05-06,Texas Division Of Emergency Management,1,3
+2020-05-06,Thomson,1,4
+2020-05-07,Montgomery Independent School District,1,1
+2020-05-07,Texas Association Of School Board,1,2
+2020-05-08,United States,2,2
+2020-05-08,Texas Supreme Court,4,1
+2020-05-09,Cnn,1,2
+2020-05-09,Dollar Tree,1,3
+2020-05-09,Kansas State University,1,4
+2020-05-09,Supreme Court,1,5
+2020-05-09,Texas Supreme Court,2,1
+2020-05-12,Court On,1,1
+2020-05-12,Texas Democratic Party,1,2
+2020-05-12,Texas Senate District,1,3
+2020-05-14,Socorro Independent School District,1,1
+2020-05-14,Texas Education Agency,1,2
+2020-05-18,Airborne Division,1,2
+2020-05-18,Washington Post,1,3
+2020-05-18,Youtube,1,4
+2020-05-18,Microsoft Team,2,1

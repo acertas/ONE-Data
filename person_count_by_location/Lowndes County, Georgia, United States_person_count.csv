@@ -1,0 +1,445 @@
+date,person,count,rn
+2020-02-12,Guillermo Saurina,1,1
+2020-02-12,Kenneth Lowery,1,2
+2020-02-12,Scarlett Rivera,1,3
+2020-02-12,Terry Richards,1,4
+2020-02-17,Cynthia Tori,2,1
+2020-02-17,Jeffery Humphreys,2,2
+2020-02-17,Mike Gudely,2,3
+2020-02-17,Roger Tutterow,2,4
+2020-02-28,William Cason,1,1
+2020-02-29,Desiree Carver,1,1
+2020-02-29,Kenneth Lowery,1,2
+2020-02-29,Kent Patrick,1,3
+2020-02-29,Stacy Bush,1,4
+2020-02-29,Todd Cason,1,5
+2020-03-04,Erika Bennett,2,1
+2020-03-04,Kristin Patten,2,2
+2020-03-04,Terry Richards,2,3
+2020-03-08,Nan,1,1
+2020-03-09,Keith Warburg,2,1
+2020-03-09,Kenneth Lowery,2,2
+2020-03-10,Alisa Haushalter,1,1
+2020-03-11,Desiree Carver,1,5
+2020-03-11,Jennifer Steedley,1,6
+2020-03-11,Todd Cason,1,7
+2020-03-11,Van Johnson,1,8
+2020-03-11,Brian Kemp,2,4
+2020-03-11,David Ralston,3,2
+2020-03-11,Geoff Duncan,3,3
+2020-03-11,John Lewis,4,1
+2020-03-12,David Lucas,1,6
+2020-03-12,Nan,1,7
+2020-03-12,Patricia Kime,1,8
+2020-03-12,Van Johnson,1,9
+2020-03-12,John Lewis,2,4
+2020-03-12,Kathleen Toomey,2,5
+2020-03-12,David Ralston,3,2
+2020-03-12,Geoff Duncan,3,3
+2020-03-12,Brian Kemp,4,1
+2020-03-13,Brian Dawson,1,3
+2020-03-13,Craig Mcpike,1,4
+2020-03-13,David Lucas,1,5
+2020-03-13,David Ralston,1,6
+2020-03-13,Desiree Carver,1,7
+2020-03-13,Geoff Duncan,1,8
+2020-03-13,Brian Kemp,3,1
+2020-03-13,Kathleen Toomey,3,2
+2020-03-14,Brian Kemp,1,1
+2020-03-14,David Lucas,1,2
+2020-03-14,David Ralston,1,3
+2020-03-14,Geoff Duncan,1,4
+2020-03-14,Kathleen Toomey,1,5
+2020-03-14,Mark Barber,1,6
+2020-03-15,Terry Richards,1,1
+2020-03-15,Tom Carden,1,2
+2020-03-17,Amber Spradley,1,6
+2020-03-17,Anna Adams,1,7
+2020-03-17,Ben Nadler,1,8
+2020-03-17,Ben Roberts,1,9
+2020-03-17,Bill Gavin,1,10
+2020-03-17,Charles Cooper,1,11
+2020-03-17,Chris Bourland,1,12
+2020-03-17,Cindy Lawrence,1,13
+2020-03-17,Dave Smith,1,14
+2020-03-17,Donald Trump,1,15
+2020-03-17,Edward Mobley,1,16
+2020-03-17,Eliza Mccall,1,17
+2020-03-17,Ethel Taylor Stewart,1,18
+2020-03-17,Jeff Amy,1,19
+2020-03-17,Phoebe Putney,1,20
+2020-03-17,Robert Curry,1,21
+2020-03-17,Robert Smith,1,22
+2020-03-17,Scott Steiner,1,23
+2020-03-17,Tate Reeves,1,24
+2020-03-17,Bill Bradley,2,1
+2020-03-17,Brian Kemp,2,2
+2020-03-17,Brooke Cimmino,2,3
+2020-03-17,John Lowenthal,2,4
+2020-03-17,Matt Garappolo,2,5
+2020-03-18,Andrea Young,1,2
+2020-03-18,Ben Nadler,1,3
+2020-03-18,Betsy Thomas,1,4
+2020-03-18,Bill Bradley,1,5
+2020-03-18,Brian Kemp,1,6
+2020-03-18,Brooke Cimmino,1,7
+2020-03-18,Chris Hrouda,1,8
+2020-03-18,Jeff Amy,1,9
+2020-03-18,John Lowenthal,1,10
+2020-03-18,Marlena Mumma,1,11
+2020-03-18,Matt Garappolo,1,12
+2020-03-18,Robertson Davenport,1,13
+2020-03-18,Scott James Matheson,1,14
+2020-03-18,Timothy Ward,1,15
+2020-03-18,Nan,2,1
+2020-03-19,Andrea Young,1,3
+2020-03-19,Betsy Thomas,1,4
+2020-03-19,Marion Ross Fedrick,1,5
+2020-03-19,Nan,1,6
+2020-03-19,Steve Wrigley,1,7
+2020-03-19,Timothy Ward,1,8
+2020-03-19,Richard Carvajal,2,1
+2020-03-19,Scott James Matheson,2,2
+2020-03-20,Ashlyn Johnson,1,1
+2020-03-20,Bobby Mckenzie,1,2
+2020-03-20,Brian Kemp,1,3
+2020-03-20,Dan Phillips,1,4
+2020-03-20,Devon Barill,1,5
+2020-03-20,Donald Trump,1,6
+2020-03-20,Gretchen Quarterman,1,7
+2020-03-20,Jean Sumner,1,8
+2020-03-20,Jeff Robbins,1,9
+2020-03-20,Jimmy Lewis,1,10
+2020-03-20,Joe Brownlee,1,11
+2020-03-20,Kathleen Toomey,1,12
+2020-03-20,Rena Brewer,1,13
+2020-03-20,Scott James Matheson,1,14
+2020-03-20,Suwannee Riverkeeper,1,15
+2020-03-20,Suzy Hall,1,16
+2020-03-21,Brian Strickland,1,1
+2020-03-21,Marta Manfredi,1,2
+2020-03-21,Mike Hainsey,1,3
+2020-03-21,Nan,1,4
+2020-03-21,Roger Wicker,1,5
+2020-03-24,Brian Lamar,1,1
+2020-03-24,Fred Shelton,1,2
+2020-03-24,James Ervin,1,3
+2020-03-24,Lynn Spruill,1,4
+2020-03-26,Chris Cohilas,1,2
+2020-03-26,Metro Atlanta,1,3
+2020-03-26,Nan,1,4
+2020-03-26,Brian Kemp,2,1
+2020-03-30,Barack Obama,1,1
+2020-03-30,Bernie Sanders,1,2
+2020-03-30,Bill Clinton,1,3
+2020-03-30,Donald Trump,1,4
+2020-03-30,Joe Biden,1,5
+2020-03-30,Nan,1,6
+2020-03-30,Newt Gingrich,1,7
+2020-03-30,Russ Goodman,1,8
+2020-04-02,Doug Mcgowen,1,6
+2020-04-02,Manoj Jain,1,7
+2020-04-02,Austin Scott,3,1
+2020-04-02,Eliza Mccall,3,2
+2020-04-02,Frank Richards,3,3
+2020-04-02,Jeff Fulp,3,4
+2020-04-02,Sonny Perdue,3,5
+2020-04-03,Brian Kemp,1,3
+2020-04-03,David Armstrong,1,4
+2020-04-03,Fred Shelton,1,5
+2020-04-03,Jeff Turnage,1,6
+2020-04-03,Robert Smith,1,7
+2020-04-03,Scott James Matheson,1,8
+2020-04-03,Tate Reeves,1,9
+2020-04-03,Desiree Carver,2,1
+2020-04-03,Nan,2,2
+2020-04-04,Brian Kemp,1,1
+2020-04-04,Genia Ryan,1,2
+2020-04-04,John Lahood,1,3
+2020-04-04,Mary Olsen Newton,1,4
+2020-04-04,Tony Marshall,1,5
+2020-04-05,Austin Scott,3,1
+2020-04-05,Eliza Mccall,3,2
+2020-04-05,Frank Richards,3,3
+2020-04-05,Jeff Fulp,3,4
+2020-04-05,Sonny Perdue,3,5
+2020-04-06,Adam Sanchez,1,6
+2020-04-06,Aracely Calderon,1,7
+2020-04-06,David Ralston,1,8
+2020-04-06,Elzie Mcgill,1,9
+2020-04-06,Fannie Lou Hamer,1,10
+2020-04-06,Frances Harper,1,11
+2020-04-06,Frederick Douglass,1,12
+2020-04-06,Howard Zinn,1,13
+2020-04-06,Jennifer Bryan,1,14
+2020-04-06,Lamar Smith,1,15
+2020-04-06,Lawrence Aaron Nixon,1,16
+2020-04-06,Maggie Coleman,1,17
+2020-04-06,Tony Evers,1,18
+2020-04-06,Ursula Wolfe-Rocca,1,19
+2020-04-06,Austin Scott,3,1
+2020-04-06,Eliza Mccall,3,2
+2020-04-06,Frank Richards,3,3
+2020-04-06,Jeff Fulp,3,4
+2020-04-06,Sonny Perdue,3,5
+2020-04-07,Brian Dawson,1,1
+2020-04-07,Columbus Starkville,1,2
+2020-04-07,Steens Superette B-Mart,1,3
+2020-04-07,Travis Gann,1,4
+2020-04-08,Austin Vannoy,1,1
+2020-04-08,Cara Lynn,1,2
+2020-04-08,Cary Bennett,1,3
+2020-04-08,Chloe Lynn,1,4
+2020-04-08,Dara Bennett,1,5
+2020-04-08,Duward Boatright,1,6
+2020-04-08,Kevin Smith,1,7
+2020-04-08,Linda Zechmann,1,8
+2020-04-08,Michael Miller,1,9
+2020-04-08,Mitch Hall,1,10
+2020-04-08,Walker Todd,1,11
+2020-04-08,Zoe Lynn,1,12
+2020-04-09,Ashley Lindsay,2,1
+2020-04-09,Ashley Paulk,2,2
+2020-04-09,Brian Kemp,2,3
+2020-04-09,Leslie Manahan,2,4
+2020-04-09,Michelle Girtman,2,5
+2020-04-10,Mike Pence,1,1
+2020-04-10,Richard Carvajal,1,2
+2020-04-10,Steve Mnuchin,1,3
+2020-04-11,Mike Pence,1,1
+2020-04-11,Richard Carvajal,1,2
+2020-04-11,Steve Mnuchin,1,3
+2020-04-12,Brian Kemp,1,1
+2020-04-12,Donald Trump,1,2
+2020-04-13,Brian Kemp,1,1
+2020-04-13,John Till,1,2
+2020-04-13,Randall Simmons,1,3
+2020-04-13,Tom Carden,1,4
+2020-04-15,Alex Wright,1,2
+2020-04-15,David Lucas,1,3
+2020-04-15,David Shafer,1,4
+2020-04-15,Horacena Tate,1,5
+2020-04-15,James Kreyenbuhl,1,6
+2020-04-15,John Haupert,1,7
+2020-04-15,Ku Klux Klan,1,8
+2020-04-15,Matt Weiss,1,9
+2020-04-15,Micah Gravley,1,10
+2020-04-15,Nikema Williams,1,11
+2020-04-15,Robert Watts,1,12
+2020-04-15,Steve Wrigley,1,13
+2020-04-15,Elaine Chao,2,1
+2020-04-16,Angela Turner-Ford,1,1
+2020-04-16,Aurelia Jones-Taylor,1,2
+2020-04-16,Barbara Blackmon,1,3
+2020-04-16,Cindy Lawrence,1,4
+2020-04-16,Elayne Hayes-Anthony,1,5
+2020-04-16,Janice Sherman,1,6
+2020-04-16,John Horhn,1,7
+2020-04-16,Nan,1,8
+2020-04-16,Sandra Carr Melvin,1,9
+2020-04-16,Turner Ford,1,10
+2020-04-16,William Bynum,1,11
+2020-04-17,Nan,1,4
+2020-04-17,Brian Kemp,2,1
+2020-04-17,John Lahood,2,2
+2020-04-17,Pruitthealth Crestwood,2,3
+2020-04-18,Dwain Butler,1,1
+2020-04-18,Kenneth Lowery,1,2
+2020-04-18,Kristin Patten,1,3
+2020-04-18,Nan,1,4
+2020-04-19,Ashli Scruggs,1,1
+2020-04-20,Ashli Scruggs,1,1
+2020-04-21,Charles Weigle,1,3
+2020-04-21,Charlie Peeler,1,4
+2020-04-21,Shawn Charles Merdinger,1,5
+2020-04-21,Ashley Paulk,2,1
+2020-04-21,Leslie Manahan,2,2
+2020-04-22,Charles Wiggins,1,1
+2020-04-22,Christopher Vu,1,2
+2020-04-22,John Gayle,1,3
+2020-04-22,Keira Johnson,1,4
+2020-04-23,Felix Montelera,1,1
+2020-04-23,Frindlin Murrell,1,2
+2020-04-23,Griffith Waller,1,3
+2020-04-23,Iris Moebius,1,4
+2020-04-23,Jose Aleman,1,5
+2020-04-23,Maryuri Aleman Cantillano,1,6
+2020-04-23,Melissa Frindlin Murrell,1,7
+2020-04-23,Regina Duckett,1,8
+2020-04-24,Brian Kemp,1,1
+2020-04-24,Charlotte Booker,1,2
+2020-04-24,Fred Jones,1,3
+2020-04-24,Matt Jones,1,4
+2020-04-25,Brian Kemp,1,1
+2020-04-25,Charlotte Booker,1,2
+2020-04-25,Felix Montelera,1,3
+2020-04-25,Fred Jones,1,4
+2020-04-25,Fridlin Murrell,1,5
+2020-04-25,Griffith Waller,1,6
+2020-04-25,Iris Moebius,1,7
+2020-04-25,Jose Aleman,1,8
+2020-04-25,Maryuri Aleman Cantillano,1,9
+2020-04-25,Matt Jones,1,10
+2020-04-25,Melissa Fridlin Murrell,1,11
+2020-04-25,Regina Duckett,1,12
+2020-04-27,Brian Kemp,1,1
+2020-04-27,Charlotte Booker,1,2
+2020-04-27,Felix Montelera,1,3
+2020-04-27,Fred Jones,1,4
+2020-04-27,Fridlin Murrell,1,5
+2020-04-27,Griffith Waller,1,6
+2020-04-27,Iris Moebius,1,7
+2020-04-27,Jose Aleman,1,8
+2020-04-27,Maryuri Aleman Cantillano,1,9
+2020-04-27,Matt Jones,1,10
+2020-04-27,Melissa Fridlin Murrell,1,11
+2020-04-27,Regina Duckett,1,12
+2020-04-28,Anthony Booker,1,1
+2020-04-28,Brian Kemp,1,2
+2020-04-28,Donald Trump,1,3
+2020-04-28,Donna Hughes,1,4
+2020-04-28,Ellen Ellis Burkett,1,5
+2020-04-28,Hans Wunch,1,6
+2020-04-28,Jesus Christ,1,7
+2020-04-28,Kay Ivey,1,8
+2020-04-28,Matt Staver,1,9
+2020-04-28,Paul Baxley,1,10
+2020-04-28,Reginald Jackson,1,11
+2020-04-28,Thomas Ellis,1,12
+2020-04-28,Wayne Robertson,1,13
+2020-04-29,Joe Max Higgins,2,29
+2020-04-29,Lisa James,2,30
+2020-04-29,Lynn Spruill,2,31
+2020-04-29,Alvin Payton Jr,3,1
+2020-04-29,Amy Miller Stecz,3,2
+2020-04-29,Ashley Paulk,3,3
+2020-04-29,Austin Fiveash,3,4
+2020-04-29,Austin Scott,3,5
+2020-04-29,Barbara Seidman,3,6
+2020-04-29,Beth Copeland Greene,3,7
+2020-04-29,Brad Raffensperger,3,8
+2020-04-29,Clay Griner,3,9
+2020-04-29,Danny Ellyson,3,10
+2020-04-29,Danny Merritt,3,11
+2020-04-29,David Clark,3,12
+2020-04-29,Deb Cox,3,13
+2020-04-29,Dennis Marks,3,14
+2020-04-29,Detria Carter Powell,3,15
+2020-04-29,Evan Primus Jr,3,16
+2020-04-29,James Burchett,3,17
+2020-04-29,Jason Shaw,3,18
+2020-04-29,John Hogan,3,19
+2020-04-29,John Kent Edwards Jr,3,20
+2020-04-29,John Lahood,3,21
+2020-04-29,Joyce Evans,3,22
+2020-04-29,Joyce Marie Griggs,3,23
+2020-04-29,Justin Cabral,3,24
+2020-04-29,Ken Yasger,3,25
+2020-04-29,Lindsay Holliday,3,26
+2020-04-29,Robert Bryant,3,27
+2020-04-29,Russ Goodman,3,28
+2020-04-30,Amber Spradley,1,2
+2020-04-30,Jiuseppe Pistelli,1,3
+2020-04-30,Josh Carswell,1,4
+2020-04-30,Julie Mendheim,1,5
+2020-04-30,Lewis Berry,1,6
+2020-04-30,Lori Boyen,1,7
+2020-04-30,Pat Oneal,1,8
+2020-04-30,William Blockum,1,9
+2020-04-30,Brian Kemp,3,1
+2020-05-01,Brian Kemp,1,1
+2020-05-01,Josh Carswell,1,2
+2020-05-01,Lewis Berry,1,3
+2020-05-01,Lori Boyen,1,4
+2020-05-01,William Blockum,1,5
+2020-05-04,Cindy Wisecarver,1,1
+2020-05-04,Dorothy Overholt,1,2
+2020-05-04,Nan,1,3
+2020-05-05,John Sharp,1,10
+2020-05-05,Deputy David Agee,2,1
+2020-05-05,Hal Allred,2,2
+2020-05-05,Kay Ivey,2,3
+2020-05-05,Kelly Schrimsher,2,4
+2020-05-05,Phil Sims,2,5
+2020-05-05,Sam Cochran,2,6
+2020-05-05,Sandy Stimpson,2,7
+2020-05-05,Shannon Oliver,2,8
+2020-05-05,Sid Lockhart,2,9
+2020-05-06,Jian Zhang,1,5
+2020-05-06,Kristin Patten,1,6
+2020-05-06,Nancy Nydam,1,7
+2020-05-06,Brad Raffensperger,2,1
+2020-05-06,David Perdue,2,2
+2020-05-06,Rodney Cain,2,3
+2020-05-06,Van Johnson,2,4
+2020-05-08,Ahmaud Arbery,1,2
+2020-05-08,Brian Kemp,1,3
+2020-05-08,Denise Mintz,1,4
+2020-05-08,Donald Trump,1,5
+2020-05-08,Jason Flatt,1,6
+2020-05-08,Joe Biden,1,7
+2020-05-08,Kandi Burruss,1,8
+2020-05-08,Linda Torelli,1,9
+2020-05-08,Melissa Martin,1,10
+2020-05-08,Steven Reed,1,11
+2020-05-08,Yvette Gilkey Shuford,1,12
+2020-05-08,Robert Marks,2,1
+2020-05-10,Alexis Jone,1,1
+2020-05-10,Jewell Jones,1,2
+2020-05-10,Mary Ellen Sumrall,1,3
+2020-05-11,Amber Spradley,1,2
+2020-05-11,Jason Clifton,1,3
+2020-05-11,Ashley Paulk,2,1
+2020-05-15,Andrew Mceachin,1,1
+2020-05-15,Bobby Christine,1,2
+2020-05-15,Brian Kemp,1,3
+2020-05-15,Chris Carr,1,4
+2020-05-15,David Mcculloch,1,5
+2020-05-15,Don Hansard,1,6
+2020-05-15,Fannie Belle Gray Lindsey,1,7
+2020-05-15,George Bonk,1,8
+2020-05-15,Hoot Gibson,1,9
+2020-05-15,Isabella Branson,1,10
+2020-05-15,James Delma Lindsey,1,11
+2020-05-15,Jimmie Franklin Moore,1,12
+2020-05-15,Mary Wilson,1,13
+2020-05-15,Michael Osullivan,1,14
+2020-05-15,Nicolle Wallace,1,15
+2020-05-15,Patrick Henry,1,16
+2020-05-15,Robert Wayne Lindsey,1,17
+2020-05-15,Rosa Ervin,1,18
+2020-05-15,Roy Rogers,1,19
+2020-05-15,Tammy Bailey,1,20
+2020-05-15,William Frederick Lindsey,1,21
+2020-05-15,William Robert Lindsey,1,22
+2020-05-16,Alexis Jone,1,1
+2020-05-16,Amber Spradley,1,2
+2020-05-16,Brian Dawson,1,3
+2020-05-16,Chandra Jones,1,4
+2020-05-16,Florence Campbell,1,5
+2020-05-16,Jack Ladd,1,6
+2020-05-16,Jewell Jones,1,7
+2020-05-16,Keekee Holmes,1,8
+2020-05-16,Lynn Lee,1,9
+2020-05-16,Mary Ellen Sumrall,1,10
+2020-05-19,Cory Gardner,1,6
+2020-05-19,Joe Max Higgins,1,7
+2020-05-19,Kelly Loeffler,1,8
+2020-05-19,Lynn Fitch,1,9
+2020-05-19,Martha Mcsally,1,10
+2020-05-19,Nan,1,11
+2020-05-19,Tom King,1,12
+2020-05-19,Ahmaud Arbery,2,1
+2020-05-19,Brian Kemp,2,2
+2020-05-19,Chris Carr,2,3
+2020-05-19,Gregory Mcmichael,2,4
+2020-05-19,Travis Mcmichael,2,5
+2020-05-23,Brian Dougherty,1,1
+2020-05-23,Brian Kemp,1,2
+2020-05-23,Charles Taylor Jr,1,3
+2020-05-23,Kathleen Toomey,1,4
+2020-05-23,Nan,1,5
+2020-05-23,Stephen Kendrick,1,6
+2020-05-24,Brian Kemp,1,1
+2020-05-24,Kathleen Toomey,1,2
+2020-05-25,Lauren Clark,1,1

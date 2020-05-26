@@ -1,0 +1,355 @@
+date,organization,count,rn
+2020-02-15,United States,1,1
+2020-03-08,Texas Tech University,1,1
+2020-03-08,Twitter,1,2
+2020-03-13,Art Institute Of Chicago,1,1
+2020-03-13,Institute Of Contemporary Art,1,2
+2020-03-13,Isabella Stewart Gardner Museum,1,3
+2020-03-13,Jewish Museum,1,4
+2020-03-13,Museum Island,1,5
+2020-03-13,Museum Of Art,1,6
+2020-03-13,Museum Of Contemporary Art Tokyo,1,7
+2020-03-13,Museum Of Fine Arts,1,8
+2020-03-13,Museum Of Modern Art,1,9
+2020-03-13,National Gallery Of Art,1,10
+2020-03-13,Prussian Cultural Heritage Foundation,1,11
+2020-03-13,Smithsonian,1,12
+2020-03-13,Smithsonian Institution,1,13
+2020-03-13,Stedelijk Museum,1,14
+2020-03-13,Van Gogh Museum,1,15
+2020-03-20,Anthony,1,1
+2020-03-20,Marriott International,1,2
+2020-03-20,Nissan,1,3
+2020-03-20,White House,1,4
+2020-03-23,Google,2,29
+2020-03-23,Outten Golden,2,30
+2020-03-23,Team Bloomberg,2,31
+2020-03-23,Biden Under Secret Service,3,24
+2020-03-23,Foundation For Research On Equal Opportunity,3,25
+2020-03-23,Kaiser Family Foundation,3,26
+2020-03-23,Senate Finance Committee,3,27
+2020-03-23,United States Secret Service,3,28
+2020-03-23,Republican Central Committee,4,23
+2020-03-23,Democratic National Convention,5,21
+2020-03-23,Youtube,5,22
+2020-03-23,A Democratic Congressional Campaign Committee,6,18
+2020-03-23,Department Of Health,6,19
+2020-03-23,National Republican Congressional Committee,6,20
+2020-03-23,Bloomberg,7,1
+2020-03-23,Democratic National Committee,7,2
+2020-03-23,Democratic Party,7,3
+2020-03-23,Emergency Relief Fund,7,4
+2020-03-23,Facebook,7,5
+2020-03-23,Fair Wage Emergency Fund,7,6
+2020-03-23,Greenberg Quinlan Rosner Research,7,7
+2020-03-23,Greenberg Research,7,8
+2020-03-23,Human Services,7,9
+2020-03-23,Instagram,7,10
+2020-03-23,National Domestic Workers Alliance,7,11
+2020-03-23,Neighborhood Trust Financial Partners,7,12
+2020-03-23,Restaurant Worker Community Foundation,7,13
+2020-03-23,Supreme Court,7,14
+2020-03-23,Treasury Department,7,15
+2020-03-23,Twitter,7,16
+2020-03-23,White House,7,17
+2020-03-24,Youtube,2,31
+2020-03-24,Monmouth University,3,30
+2020-03-24,A Democratic Congressional Campaign Committee,4,27
+2020-03-24,Department Of Health,4,28
+2020-03-24,National Republican Congressional Committee,4,29
+2020-03-24,Centers For Disease,6,23
+2020-03-24,Greenberg Quinlan Rosner Research,6,24
+2020-03-24,Greenberg Research,6,25
+2020-03-24,Republican National Committee,6,26
+2020-03-24,Facebook,9,18
+2020-03-24,Instagram,9,19
+2020-03-24,Neighborhood Trust Financial Partners,9,20
+2020-03-24,Treasury Department,9,21
+2020-03-24,Twitter,9,22
+2020-03-24,Google,10,15
+2020-03-24,Outten Golden,10,16
+2020-03-24,Team Bloomberg,10,17
+2020-03-24,Bloomberg,12,1
+2020-03-24,Democratic National Committee,12,2
+2020-03-24,Democratic National Convention,12,3
+2020-03-24,Democratic Party,12,4
+2020-03-24,Emergency Relief Fund,12,5
+2020-03-24,Fair Wage Emergency Fund,12,6
+2020-03-24,Foundation For Research On Equal Opportunity,12,7
+2020-03-24,Human Services,12,8
+2020-03-24,Kaiser Family Foundation,12,9
+2020-03-24,National Domestic Workers Alliance,12,10
+2020-03-24,Restaurant Worker Community Foundation,12,11
+2020-03-24,Senate Finance Committee,12,12
+2020-03-24,Supreme Court,12,13
+2020-03-24,White House,12,14
+2020-03-25,Facebook,2,20
+2020-03-25,Instagram,2,21
+2020-03-25,Monmouth University,2,22
+2020-03-25,Neighborhood Trust Financial Partners,2,23
+2020-03-25,Treasury Department,2,24
+2020-03-25,Twitter,2,25
+2020-03-25,Bloomberg,4,1
+2020-03-25,Centers For Disease,4,2
+2020-03-25,Democratic National Committee,4,3
+2020-03-25,Democratic National Convention,4,4
+2020-03-25,Democratic Party,4,5
+2020-03-25,Emergency Relief Fund,4,6
+2020-03-25,Fair Wage Emergency Fund,4,7
+2020-03-25,Foundation For Research On Equal Opportunity,4,8
+2020-03-25,Google,4,9
+2020-03-25,Human Services,4,10
+2020-03-25,Kaiser Family Foundation,4,11
+2020-03-25,National Domestic Workers Alliance,4,12
+2020-03-25,Outten Golden,4,13
+2020-03-25,Republican National Committee,4,14
+2020-03-25,Restaurant Worker Community Foundation,4,15
+2020-03-25,Senate Finance Committee,4,16
+2020-03-25,Supreme Court,4,17
+2020-03-25,Team Bloomberg,4,18
+2020-03-25,White House,4,19
+2020-03-26,Bloomberg,1,1
+2020-03-26,Centers For Disease,1,2
+2020-03-26,Democratic National Committee,1,3
+2020-03-26,Democratic National Convention,1,4
+2020-03-26,Democratic Party,1,5
+2020-03-26,Emergency Relief Fund,1,6
+2020-03-26,Fair Wage Emergency Fund,1,7
+2020-03-26,Foundation For Research On Equal Opportunity,1,8
+2020-03-26,Google,1,9
+2020-03-26,Human Services,1,10
+2020-03-26,Kaiser Family Foundation,1,11
+2020-03-26,Monmouth University,1,12
+2020-03-26,National Domestic Workers Alliance,1,13
+2020-03-26,Outten Golden,1,14
+2020-03-26,Republican National Committee,1,15
+2020-03-26,Restaurant Worker Community Foundation,1,16
+2020-03-26,Senate Finance Committee,1,17
+2020-03-26,Supreme Court,1,18
+2020-03-26,Team Bloomberg,1,19
+2020-03-26,White House,1,20
+2020-03-28,Youtube,1,31
+2020-03-28,A Democratic Congressional Campaign Committee,2,27
+2020-03-28,Department Of Health,2,28
+2020-03-28,Monmouth University,2,29
+2020-03-28,National Republican Congressional Committee,2,30
+2020-03-28,Greenberg Quinlan Rosner Research,3,25
+2020-03-28,Greenberg Research,3,26
+2020-03-28,Centers For Disease,4,23
+2020-03-28,Republican National Committee,4,24
+2020-03-28,Facebook,5,18
+2020-03-28,Instagram,5,19
+2020-03-28,Neighborhood Trust Financial Partners,5,20
+2020-03-28,Treasury Department,5,21
+2020-03-28,Twitter,5,22
+2020-03-28,Google,6,15
+2020-03-28,Outten Golden,6,16
+2020-03-28,Team Bloomberg,6,17
+2020-03-28,Bloomberg,7,1
+2020-03-28,Democratic National Committee,7,2
+2020-03-28,Democratic National Convention,7,3
+2020-03-28,Democratic Party,7,4
+2020-03-28,Emergency Relief Fund,7,5
+2020-03-28,Fair Wage Emergency Fund,7,6
+2020-03-28,Foundation For Research On Equal Opportunity,7,7
+2020-03-28,Human Services,7,8
+2020-03-28,Kaiser Family Foundation,7,9
+2020-03-28,National Domestic Workers Alliance,7,10
+2020-03-28,Restaurant Worker Community Foundation,7,11
+2020-03-28,Senate Finance Committee,7,12
+2020-03-28,Supreme Court,7,13
+2020-03-28,White House,7,14
+2020-03-29,Youtube,1,31
+2020-03-29,A Democratic Congressional Campaign Committee,2,27
+2020-03-29,Department Of Health,2,28
+2020-03-29,Monmouth University,2,29
+2020-03-29,National Republican Congressional Committee,2,30
+2020-03-29,Greenberg Quinlan Rosner Research,3,25
+2020-03-29,Greenberg Research,3,26
+2020-03-29,Centers For Disease,4,23
+2020-03-29,Republican National Committee,4,24
+2020-03-29,Facebook,5,18
+2020-03-29,Instagram,5,19
+2020-03-29,Neighborhood Trust Financial Partners,5,20
+2020-03-29,Treasury Department,5,21
+2020-03-29,Twitter,5,22
+2020-03-29,Google,6,15
+2020-03-29,Outten Golden,6,16
+2020-03-29,Team Bloomberg,6,17
+2020-03-29,Bloomberg,7,1
+2020-03-29,Democratic National Committee,7,2
+2020-03-29,Democratic National Convention,7,3
+2020-03-29,Democratic Party,7,4
+2020-03-29,Emergency Relief Fund,7,5
+2020-03-29,Fair Wage Emergency Fund,7,6
+2020-03-29,Foundation For Research On Equal Opportunity,7,7
+2020-03-29,Human Services,7,8
+2020-03-29,Kaiser Family Foundation,7,9
+2020-03-29,National Domestic Workers Alliance,7,10
+2020-03-29,Restaurant Worker Community Foundation,7,11
+2020-03-29,Senate Finance Committee,7,12
+2020-03-29,Supreme Court,7,13
+2020-03-29,White House,7,14
+2020-03-30,Youtube,1,31
+2020-03-30,A Democratic Congressional Campaign Committee,2,27
+2020-03-30,Department Of Health,2,28
+2020-03-30,Monmouth University,2,29
+2020-03-30,National Republican Congressional Committee,2,30
+2020-03-30,Greenberg Quinlan Rosner Research,3,25
+2020-03-30,Greenberg Research,3,26
+2020-03-30,Centers For Disease,4,23
+2020-03-30,Republican National Committee,4,24
+2020-03-30,Facebook,5,18
+2020-03-30,Instagram,5,19
+2020-03-30,Neighborhood Trust Financial Partners,5,20
+2020-03-30,Treasury Department,5,21
+2020-03-30,Twitter,5,22
+2020-03-30,Google,6,15
+2020-03-30,Outten Golden,6,16
+2020-03-30,Team Bloomberg,6,17
+2020-03-30,Bloomberg,7,1
+2020-03-30,Democratic National Committee,7,2
+2020-03-30,Democratic National Convention,7,3
+2020-03-30,Democratic Party,7,4
+2020-03-30,Emergency Relief Fund,7,5
+2020-03-30,Fair Wage Emergency Fund,7,6
+2020-03-30,Foundation For Research On Equal Opportunity,7,7
+2020-03-30,Human Services,7,8
+2020-03-30,Kaiser Family Foundation,7,9
+2020-03-30,National Domestic Workers Alliance,7,10
+2020-03-30,Restaurant Worker Community Foundation,7,11
+2020-03-30,Senate Finance Committee,7,12
+2020-03-30,Supreme Court,7,13
+2020-03-30,White House,7,14
+2020-03-31,Nan,1,31
+2020-03-31,Youtube,1,32
+2020-03-31,A Democratic Congressional Campaign Committee,2,27
+2020-03-31,Department Of Health,2,28
+2020-03-31,Monmouth University,2,29
+2020-03-31,National Republican Congressional Committee,2,30
+2020-03-31,Greenberg Quinlan Rosner Research,3,25
+2020-03-31,Greenberg Research,3,26
+2020-03-31,Centers For Disease,4,23
+2020-03-31,Republican National Committee,4,24
+2020-03-31,Facebook,5,18
+2020-03-31,Instagram,5,19
+2020-03-31,Neighborhood Trust Financial Partners,5,20
+2020-03-31,Treasury Department,5,21
+2020-03-31,Twitter,5,22
+2020-03-31,Google,6,15
+2020-03-31,Outten Golden,6,16
+2020-03-31,Team Bloomberg,6,17
+2020-03-31,Bloomberg,7,1
+2020-03-31,Democratic National Committee,7,2
+2020-03-31,Democratic National Convention,7,3
+2020-03-31,Democratic Party,7,4
+2020-03-31,Emergency Relief Fund,7,5
+2020-03-31,Fair Wage Emergency Fund,7,6
+2020-03-31,Foundation For Research On Equal Opportunity,7,7
+2020-03-31,Human Services,7,8
+2020-03-31,Kaiser Family Foundation,7,9
+2020-03-31,National Domestic Workers Alliance,7,10
+2020-03-31,Restaurant Worker Community Foundation,7,11
+2020-03-31,Senate Finance Committee,7,12
+2020-03-31,Supreme Court,7,13
+2020-03-31,White House,7,14
+2020-04-01,Youtube,1,31
+2020-04-01,A Democratic Congressional Campaign Committee,2,27
+2020-04-01,Department Of Health,2,28
+2020-04-01,Monmouth University,2,29
+2020-04-01,National Republican Congressional Committee,2,30
+2020-04-01,Greenberg Quinlan Rosner Research,3,25
+2020-04-01,Greenberg Research,3,26
+2020-04-01,Centers For Disease,4,23
+2020-04-01,Republican National Committee,4,24
+2020-04-01,Facebook,5,18
+2020-04-01,Instagram,5,19
+2020-04-01,Neighborhood Trust Financial Partners,5,20
+2020-04-01,Treasury Department,5,21
+2020-04-01,Twitter,5,22
+2020-04-01,Google,6,15
+2020-04-01,Outten Golden,6,16
+2020-04-01,Team Bloomberg,6,17
+2020-04-01,Bloomberg,7,1
+2020-04-01,Democratic National Committee,7,2
+2020-04-01,Democratic National Convention,7,3
+2020-04-01,Democratic Party,7,4
+2020-04-01,Emergency Relief Fund,7,5
+2020-04-01,Fair Wage Emergency Fund,7,6
+2020-04-01,Foundation For Research On Equal Opportunity,7,7
+2020-04-01,Human Services,7,8
+2020-04-01,Kaiser Family Foundation,7,9
+2020-04-01,National Domestic Workers Alliance,7,10
+2020-04-01,Restaurant Worker Community Foundation,7,11
+2020-04-01,Senate Finance Committee,7,12
+2020-04-01,Supreme Court,7,13
+2020-04-01,White House,7,14
+2020-04-02,A Texas Department Of Public Safety,1,26
+2020-04-02,Auto Club County Mutual Insurance Co,1,27
+2020-04-02,District Court,1,28
+2020-04-02,Mazda Motor Corp,1,29
+2020-04-02,Riesel Police,1,30
+2020-04-02,Facebook,2,20
+2020-04-02,Instagram,2,21
+2020-04-02,Monmouth University,2,22
+2020-04-02,Neighborhood Trust Financial Partners,2,23
+2020-04-02,Treasury Department,2,24
+2020-04-02,Twitter,2,25
+2020-04-02,Bloomberg,4,1
+2020-04-02,Centers For Disease,4,2
+2020-04-02,Democratic National Committee,4,3
+2020-04-02,Democratic National Convention,4,4
+2020-04-02,Democratic Party,4,5
+2020-04-02,Emergency Relief Fund,4,6
+2020-04-02,Fair Wage Emergency Fund,4,7
+2020-04-02,Foundation For Research On Equal Opportunity,4,8
+2020-04-02,Google,4,9
+2020-04-02,Human Services,4,10
+2020-04-02,Kaiser Family Foundation,4,11
+2020-04-02,National Domestic Workers Alliance,4,12
+2020-04-02,Outten Golden,4,13
+2020-04-02,Republican National Committee,4,14
+2020-04-02,Restaurant Worker Community Foundation,4,15
+2020-04-02,Senate Finance Committee,4,16
+2020-04-02,Supreme Court,4,17
+2020-04-02,Team Bloomberg,4,18
+2020-04-02,White House,4,19
+2020-04-10,A Friday Film Club,1,1
+2020-04-10,Facebook,1,2
+2020-04-10,Its Audience Service In Response,1,3
+2020-04-10,Minnesota Public Radio,1,4
+2020-04-10,National Conversation,1,5
+2020-04-10,Response Fund,1,6
+2020-04-10,School Of Rock,1,7
+2020-04-10,Shell,1,8
+2020-04-10,Spokane Public Health,1,9
+2020-04-10,Toledo Museum Of Art Peristyle Theater,1,10
+2020-04-10,Vermont Community Foundation,1,11
+2020-04-10,Wednesdays As Mental Health,1,12
+2020-04-17,Texas Department Of Criminal Justice,1,1
+2020-04-17,Texas Department Of State Health Services,1,2
+2020-04-21,Commissioners Court,1,1
+2020-04-21,Texas Department Of Criminal Justice,1,2
+2020-04-21,Texas Department Of State Health Services,1,3
+2020-04-24,Texas Department Of Criminal Justice,1,1
+2020-04-24,Texas Department Of State Health Services,1,2
+2020-04-29,Airbus,1,1
+2020-04-29,Barclays,1,2
+2020-04-29,Bloomberg,1,3
+2020-04-29,British Airways,1,4
+2020-04-29,Deutsche Bank,1,5
+2020-04-29,European Commission,1,6
+2020-04-29,Health Data Research United Kingdom,1,7
+2020-04-29,Health Ministry,1,8
+2020-04-29,Hero Motocorp Ltd,1,9
+2020-04-29,Hong Kong Department Of Health,1,10
+2020-04-29,Johns Hopkins University,1,11
+2020-04-29,Ministry Of Manpower,1,12
+2020-04-29,National People Congress,1,13
+2020-04-29,Reuters,1,14
+2020-04-29,South China Morning Post,1,15
+2020-04-29,Standard Chartered Plc,1,16
+2020-04-29,Tesla Inc,1,17
+2020-04-29,Twitter,1,18
+2020-04-29,Xinhua News Agency,1,19
+2020-05-19,Nan,1,1

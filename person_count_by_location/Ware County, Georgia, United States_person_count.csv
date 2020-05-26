@@ -1,0 +1,332 @@
+date,person,count,rn
+2020-03-23,Betsy Devos,1,1
+2020-03-23,Donald Trump,1,2
+2020-03-23,Joe Biden,1,3
+2020-03-23,Lynnette Garth,1,4
+2020-03-23,Persis Yu,1,5
+2020-03-23,Seth Frotman,1,6
+2020-03-23,Wayne Johnson,1,7
+2020-03-24,Jesus Tifton,1,1
+2020-03-24,Mike Gudely,1,2
+2020-03-26,Bert Smith,1,1
+2020-03-26,Brian Kemp,1,2
+2020-03-26,John Lairsey,1,3
+2020-03-31,Adam Ericksen,1,1
+2020-03-31,Benjamin Netanyahu,1,2
+2020-03-31,Emanuel Vasconcelos,1,3
+2020-03-31,Imam Tahir Kukaj,1,4
+2020-03-31,Jason Rubenbauer,1,5
+2020-03-31,Josh Stanton,1,6
+2020-03-31,Kevin Grissom,1,7
+2020-03-31,Peter Square,1,8
+2020-03-31,Pope Francis,1,9
+2020-03-31,Rebecca Reis,1,10
+2020-03-31,Tina Kicklighter,1,11
+2020-04-05,Brian Kemp,1,1
+2020-04-05,Nan,1,2
+2020-04-05,Richard Corcoran,1,3
+2020-04-10,Nan,1,1
+2020-04-25,Andrew Cuomo,2,1
+2020-04-25,Bo Dorough,2,2
+2020-04-25,Brian Kemp,2,3
+2020-04-25,Jamie Mcquaig,2,4
+2020-04-25,Kim Reynolds,2,5
+2020-04-25,Tate Reeves,2,6
+2020-05-02,Christophe Castaner,1,16
+2020-05-02,Francois Mori,1,17
+2020-05-02,Iwo Jima,1,18
+2020-05-02,Jacquelyn Martin,1,19
+2020-05-02,John Bazemore,1,20
+2020-05-02,Pedro Sanchez,1,21
+2020-05-02,Alex Azar,4,12
+2020-05-02,Donald Trump,4,13
+2020-05-02,Mitch Mcconnell,4,14
+2020-05-02,Nancy Pelosi,4,15
+2020-05-02,Boris Johnson,5,4
+2020-05-02,Carrie Symonds,5,5
+2020-05-02,Cristina Palomeque,5,6
+2020-05-02,Ismail Sabri,5,7
+2020-05-02,Justice Mario Victor Leonen,5,8
+2020-05-02,Nick Hart,5,9
+2020-05-02,Olga Balabkina,5,10
+2020-05-02,Wilfred Lawrie Nicholas Johnson,5,11
+2020-05-02,Gary Mcdowell,6,1
+2020-05-02,Mary Kelpinski,6,2
+2020-05-02,Olivier Veran,6,3
+2020-05-03,John Bazemore,1,23
+2020-05-03,Iwo Jima,2,20
+2020-05-03,Jacquelyn Martin,2,21
+2020-05-03,Mark Schiefelbein,2,22
+2020-05-03,Boris Johnson,3,14
+2020-05-03,Carrie Symonds,3,15
+2020-05-03,Justice Mario Victor Leonen,3,16
+2020-05-03,Nick Hart,3,17
+2020-05-03,Olga Balabkina,3,18
+2020-05-03,Wilfred Lawrie Nicholas Johnson,3,19
+2020-05-03,Ismail Sabri,5,13
+2020-05-03,Adam Ellifritt,6,11
+2020-05-03,Kate Brown,6,12
+2020-05-03,Andy Beshear,8,9
+2020-05-03,Lilian Bravo,8,10
+2020-05-03,Cristina Palomeque,9,8
+2020-05-03,Gary Mcdowell,13,6
+2020-05-03,Mary Kelpinski,13,7
+2020-05-03,Alex Azar,15,2
+2020-05-03,Donald Trump,15,3
+2020-05-03,Mitch Mcconnell,15,4
+2020-05-03,Nancy Pelosi,15,5
+2020-05-03,Olivier Veran,16,1
+2020-05-04,Adam Ellifritt,1,1
+2020-05-04,Alex Azar,1,2
+2020-05-04,Andy Beshear,1,3
+2020-05-04,Cristina Palomeque,1,4
+2020-05-04,Donald Trump,1,5
+2020-05-04,Gary Mcdowell,1,6
+2020-05-04,Kate Brown,1,7
+2020-05-04,Lilian Bravo,1,8
+2020-05-04,Mary Kelpinski,1,9
+2020-05-04,Mitch Mcconnell,1,10
+2020-05-04,Nancy Pelosi,1,11
+2020-05-04,Olivier Veran,1,12
+2020-05-05,Ahmaud Arbery,1,1
+2020-05-05,Al Sharpton,1,2
+2020-05-05,Gregory Mcmichael,1,3
+2020-05-05,Tom Durden,1,4
+2020-05-05,Travis Mcmichael,1,5
+2020-05-06,Adam Ellifritt,1,6
+2020-05-06,Ahmaud Arbery Ahmaud Arbery,1,7
+2020-05-06,Al Sharpton,1,8
+2020-05-06,Alex Azar,1,9
+2020-05-06,Andrea Young,1,10
+2020-05-06,Andy Beshear,1,11
+2020-05-06,Brian Kemp,1,12
+2020-05-06,Chris Carr,1,13
+2020-05-06,Cristina Palomeque,1,14
+2020-05-06,Donald Trump,1,15
+2020-05-06,Gary Mcdowell,1,16
+2020-05-06,George Barnhill,1,17
+2020-05-06,Joe Biden,1,18
+2020-05-06,John Perry,1,19
+2020-05-06,Kate Brown,1,20
+2020-05-06,Lee Merritt,1,21
+2020-05-06,Lilian Bravo,1,22
+2020-05-06,Mary Kelpinski,1,23
+2020-05-06,Mitch Mcconnell,1,24
+2020-05-06,Nancy Pelosi,1,25
+2020-05-06,Olivier Veran,1,26
+2020-05-06,Trayvon Martin,1,27
+2020-05-06,Wanda Cooper,1,28
+2020-05-06,Wanda Cooper Jones,1,29
+2020-05-06,Gregory Mcmichael,2,2
+2020-05-06,Jackie Johnson,2,3
+2020-05-06,Tom Durden,2,4
+2020-05-06,Travis Mcmichael,2,5
+2020-05-06,Ahmaud Arbery,3,1
+2020-05-07,Al Sharpton,1,6
+2020-05-07,Andrew Fleischman,1,7
+2020-05-07,Chris Carr,1,8
+2020-05-07,Elie Mystal,1,9
+2020-05-07,George Barnhill,1,10
+2020-05-07,Greg Mcmichael,1,11
+2020-05-07,Joe Biden,1,12
+2020-05-07,Lee Merritt,1,13
+2020-05-07,Matt Lloyd,1,14
+2020-05-07,Sean Rayford Getty,1,15
+2020-05-07,Vic Reynolds,1,16
+2020-05-07,Wanda Cooper Jones,1,17
+2020-05-07,Gregory Mcmichael,2,2
+2020-05-07,Jackie Johnson,2,3
+2020-05-07,Tom Durden,2,4
+2020-05-07,Travis Mcmichael,2,5
+2020-05-07,Ahmaud Arbery,3,1
+2020-05-08,Anthony Fisher,1,14
+2020-05-08,Ben Crump,1,15
+2020-05-08,Joe Biden,1,16
+2020-05-08,John Amis,1,17
+2020-05-08,Lebron James,1,18
+2020-05-08,Lebron James Kingjames,1,19
+2020-05-08,Marcus Arbery,1,20
+2020-05-08,Trayvon Martin,1,21
+2020-05-08,George Barnhill,2,12
+2020-05-08,Marcus Arbery Ahmaud Arbery,2,13
+2020-05-08,William Roddie Bryan,3,11
+2020-05-08,Alan Tucker,4,6
+2020-05-08,Allen Booker,4,7
+2020-05-08,Jackie Johnson,4,8
+2020-05-08,John Powell,4,9
+2020-05-08,William Bryan,4,10
+2020-05-08,Tom Durden,5,5
+2020-05-08,Ahmaud Arbery,6,1
+2020-05-08,Benjamin Crump,6,2
+2020-05-08,Gregory Mcmichael,6,3
+2020-05-08,Travis Mcmichael,6,4
+2020-05-10,Adam Ellifritt,1,18
+2020-05-10,Brent Lambert,1,19
+2020-05-10,Gordon Crawford,1,20
+2020-05-10,Holly Parmley,1,21
+2020-05-10,Kate Brown,1,22
+2020-05-10,Alex Azar,2,6
+2020-05-10,Andy Beshear,2,7
+2020-05-10,Boris Johnson,2,8
+2020-05-10,Carrie Symonds,2,9
+2020-05-10,Donald Trump,2,10
+2020-05-10,Justice Mario Victor Leonen,2,11
+2020-05-10,Lilian Bravo,2,12
+2020-05-10,Mitch Mcconnell,2,13
+2020-05-10,Nancy Pelosi,2,14
+2020-05-10,Nick Hart,2,15
+2020-05-10,Olga Balabkina,2,16
+2020-05-10,Wilfred Lawrie Nicholas Johnson,2,17
+2020-05-10,Ismail Sabri,3,5
+2020-05-10,Cristina Palomeque,4,1
+2020-05-10,Gary Mcdowell,4,2
+2020-05-10,Mary Kelpinski,4,3
+2020-05-10,Olivier Veran,4,4
+2020-05-11,Adam Ellifritt,1,7
+2020-05-11,Alex Azar,1,8
+2020-05-11,Andy Beshear,1,9
+2020-05-11,Barry Paschal,1,10
+2020-05-11,Benjamin Crump,1,11
+2020-05-11,Cristina Palomeque,1,12
+2020-05-11,Donald Trump,1,13
+2020-05-11,Gary Mcdowell,1,14
+2020-05-11,Greg Mcmichael,1,15
+2020-05-11,Gregory Mcmichael,1,16
+2020-05-11,Joe Biden,1,17
+2020-05-11,Kate Brown,1,18
+2020-05-11,Kevin Gough,1,19
+2020-05-11,Lebron James,1,20
+2020-05-11,Lilian Bravo,1,21
+2020-05-11,Mary Kelpinski,1,22
+2020-05-11,Mitch Mcconnell,1,23
+2020-05-11,Nancy Pelosi,1,24
+2020-05-11,Olivier Veran,1,25
+2020-05-11,Paul Murphy,1,26
+2020-05-11,Vic Reynolds,1,27
+2020-05-11,William Bryan,1,28
+2020-05-11,Ahmaud Arbery,2,1
+2020-05-11,Chris Carr,2,2
+2020-05-11,George Barnhill,2,3
+2020-05-11,Jackie Johnson,2,4
+2020-05-11,Tom Durden,2,5
+2020-05-11,Travis Mcmichael,2,6
+2020-05-12,Alex Azar,1,25
+2020-05-12,Anthony Fauci,1,26
+2020-05-12,Barbara Seidman,1,27
+2020-05-12,Buddy Carter,1,28
+2020-05-12,Danny Merritt,1,29
+2020-05-12,David Perdue,1,30
+2020-05-12,Gary Mcdowell,1,31
+2020-05-12,George Barnhill Arbery,1,32
+2020-05-12,Glenda Dowling,1,33
+2020-05-12,Greg Stone,1,34
+2020-05-12,Gregory Mcmichael Gregory Mcmichael,1,35
+2020-05-12,Hacklebarney Cason,1,36
+2020-05-12,Harold Rozier Jr,1,37
+2020-05-12,Iwo Jima,1,38
+2020-05-12,Jack Saussy,1,39
+2020-05-12,Jacquelyn Martin,1,40
+2020-05-12,James Knox,1,41
+2020-05-12,John Ossoff,1,42
+2020-05-12,Johns Blackshear,1,43
+2020-05-12,Joyce Marie Griggs,1,44
+2020-05-12,Kirby Malone,1,45
+2020-05-12,Leah Ritch,1,46
+2020-05-12,Mandy Alvey Smith,1,47
+2020-05-12,Marckeith Dejesus,1,48
+2020-05-12,Mary Kelpinski,1,49
+2020-05-12,Mitch Mcconnell,1,50
+2020-05-12,Nicquel Terry Ellis,2,21
+2020-05-12,Sarah Gerwig-Moore,2,22
+2020-05-12,Wanda Cooper-Jones,2,23
+2020-05-12,William Bryan,2,24
+2020-05-12,Kevin Johnson,3,20
+2020-05-12,Kate Brumback,6,19
+2020-05-12,Joyette Holmes,9,17
+2020-05-12,William Roddie Bryan,9,18
+2020-05-12,Erica Smith,12,16
+2020-05-12,Vic Reynolds,13,15
+2020-05-12,Donald Trump,14,12
+2020-05-12,John Bazemore,14,13
+2020-05-12,Marcus Arbery,14,14
+2020-05-12,Benjamin Crump,16,11
+2020-05-12,Brian Kemp,17,10
+2020-05-12,Wanda Cooper Jones,18,9
+2020-05-12,Chris Carr,40,7
+2020-05-12,Kerri Kupec,40,8
+2020-05-12,Ahmaud Arbery,41,6
+2020-05-12,George Barnhill,42,4
+2020-05-12,Tom Durden,42,5
+2020-05-12,Travis Mcmichael,43,3
+2020-05-12,Gregory Mcmichael,44,1
+2020-05-12,Jackie Johnson,44,2
+2020-05-13,Gregory Travis Mcmichael,1,31
+2020-05-13,Benjamin Crump,2,24
+2020-05-13,Brian Kemp,2,25
+2020-05-13,Donald Trump,2,26
+2020-05-13,Kevin Johnson,2,27
+2020-05-13,Marcus Arbery,2,28
+2020-05-13,Vic Reynolds,2,29
+2020-05-13,William Roddie Bryan,2,30
+2020-05-13,Augusta Waterville,3,20
+2020-05-13,Jeff Martin,3,21
+2020-05-13,Russ Bynum,3,22
+2020-05-13,Wanda Cooper Jones,3,23
+2020-05-13,Elizabeth Graddy,4,17
+2020-05-13,Joyette Holmes Joyette Holmes,4,18
+2020-05-13,Ron Corbett,4,19
+2020-05-13,John Bazemore,6,15
+2020-05-13,Joyette Holmes,6,16
+2020-05-13,Diego Perez,7,10
+2020-05-13,Larry English,7,11
+2020-05-13,Wanda Cooper-Jones,7,12
+2020-05-13,Wanda Jones Cooper,7,13
+2020-05-13,William Roddy Bryan,7,14
+2020-05-13,Kate Brumback,9,9
+2020-05-13,Ahmaud Arbery,30,1
+2020-05-13,Chris Carr,30,2
+2020-05-13,George Barnhill,30,3
+2020-05-13,Gregory Mcmichael,30,4
+2020-05-13,Jackie Johnson,30,5
+2020-05-13,Kerri Kupec,30,6
+2020-05-13,Tom Durden,30,7
+2020-05-13,Travis Mcmichael,30,8
+2020-05-14,Ahmaud Arbery,1,1
+2020-05-14,Chris Carr,1,2
+2020-05-14,Diego Perez,1,3
+2020-05-14,Elizabeth Graddy,1,4
+2020-05-14,George Barnhill,1,5
+2020-05-14,Gregory Mcmichael,1,6
+2020-05-14,Jackie Johnson,1,7
+2020-05-14,Joyette Holmes,1,8
+2020-05-14,Joyette Holmes Joyette Holmes,1,9
+2020-05-14,Kerri Kupec,1,10
+2020-05-14,Larry English,1,11
+2020-05-14,Tom Durden,1,12
+2020-05-14,Travis Mcmichael,1,13
+2020-05-14,Wanda Cooper-Jones,1,14
+2020-05-19,Abraham Lincoln,1,1
+2020-05-19,Adolphus Pruitt,1,2
+2020-05-19,Ahmaud Arbery,1,3
+2020-05-19,Anisah Muhammad,1,4
+2020-05-19,Anthony Shahid,1,5
+2020-05-19,Ava Muhammad,1,6
+2020-05-19,Benjamin Crump,1,7
+2020-05-19,Breonna Taylor,1,8
+2020-05-19,Charles Steele,1,9
+2020-05-19,Donald Trump,1,10
+2020-05-19,George Barnhill,1,11
+2020-05-19,Greg Carr,1,12
+2020-05-19,Gregory Mcmichael,1,13
+2020-05-19,James Woodall,1,14
+2020-05-19,Jared Ball,1,15
+2020-05-19,Jerald Muhammad,1,16
+2020-05-19,Kenneth Walker,1,17
+2020-05-19,Lolita Baker,1,18
+2020-05-19,Louis Farrakhan,1,19
+2020-05-19,Monica Shepard,1,20
+2020-05-19,Ricky Jones,1,21
+2020-05-19,Sean Reed,1,22
+2020-05-19,Tamika Palmer,1,23
+2020-05-19,Trayvon Martin,1,24
+2020-05-19,White America,1,25

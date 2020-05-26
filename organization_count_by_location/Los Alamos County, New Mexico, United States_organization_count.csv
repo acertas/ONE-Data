@@ -1,0 +1,392 @@
+date,organization,count,rn
+2020-02-14,China Daily,1,4
+2020-02-14,Reuters,1,5
+2020-02-14,Columbia University,2,1
+2020-02-14,Texas State University,2,2
+2020-02-14,World Health Organization,2,3
+2020-02-15,Columbia University,1,1
+2020-02-15,Texas State University,1,2
+2020-02-15,World Health Organization,1,3
+2020-03-01,Columbia University,1,1
+2020-03-01,Texas State University,1,2
+2020-03-01,World Health Organization,1,3
+2020-03-12,Appoquinimink School District,2,1
+2020-03-12,Dakota Harrisburg School District,2,2
+2020-03-12,Darien High School,2,3
+2020-03-12,Delaware Appoquinimink School District,2,4
+2020-03-12,Falls Church,2,5
+2020-03-12,Gilbert Community School District,2,6
+2020-03-12,Harrisburg School District,2,7
+2020-03-12,Iowa Gilbert Community School District,2,8
+2020-03-12,Johns County School District,2,9
+2020-03-12,Juneau School District,2,10
+2020-03-12,Missouri School District Of Clayton,2,11
+2020-03-12,Morris,2,12
+2020-03-12,National Center,2,13
+2020-03-12,Nebraska Elkhorn School District,2,14
+2020-03-12,School District Of Clayton,2,15
+2020-03-12,Tredyffrin-Easttown School District,2,16
+2020-03-12,United States,2,17
+2020-03-15,Department Of Health,1,1
+2020-03-15,First Presbyterian Church,1,2
+2020-03-15,John United Methodist Church,1,3
+2020-03-15,Roman Catholic Church,1,4
+2020-03-15,United Church,1,5
+2020-03-15,Westminster Presbyterian Church,1,6
+2020-03-16,Department Of Health,1,1
+2020-03-16,Governor Office,1,2
+2020-03-16,Human Resources Department,1,3
+2020-03-16,Los Alamos National Laboratory,1,4
+2020-03-16,Motor Vehicle Division,1,5
+2020-03-16,Region Council Of Governments,1,6
+2020-03-16,Supreme Court,1,7
+2020-03-19,Associated Press,1,1
+2020-03-19,Community Foundation,1,2
+2020-03-19,Coronavirus Tests Rural Health Networks,1,3
+2020-03-19,Cummins,1,4
+2020-03-19,Department Of Health,1,5
+2020-03-19,District Convention Of Key Club,1,6
+2020-03-19,Emergency Action Fund,1,7
+2020-03-19,Energy Department,1,8
+2020-03-19,Environment Department,1,9
+2020-03-19,Episcopal Church,1,10
+2020-03-19,Facebook,1,11
+2020-03-19,Key Club,1,12
+2020-03-19,Kiwanis Club Of Los Alamos,1,13
+2020-03-19,Los Alamos National Laboratory,1,14
+2020-03-19,Lovelace Medical Center,1,15
+2020-03-19,Man Fatally Shot By New Mexico Police,1,16
+2020-03-19,National Guard,1,17
+2020-03-19,National Guard Delivers Food,1,18
+2020-03-19,National Weather Service,1,19
+2020-03-19,Nuclear Watch New Mexico,1,20
+2020-03-19,Public Schools Foundation,1,21
+2020-03-19,School Resource Officers,1,22
+2020-03-19,Speakers Committee,1,23
+2020-03-19,University Of New Mexico,1,24
+2020-03-19,Westside Emergency Housing Center,1,25
+2020-03-24,Los Alamos National Laboratory,1,1
+2020-03-24,Msnbc,1,2
+2020-03-24,Sandia National Laboratories,1,3
+2020-03-25,Department Of Health,1,3
+2020-03-25,Human Resources Department,1,4
+2020-03-25,Motor Vehicle Division,1,5
+2020-03-25,Msnbc,1,6
+2020-03-25,Region Council Of Governments,1,7
+2020-03-25,Sandia National Laboratories,1,8
+2020-03-25,Senate Majority Leader Peter Wirth,1,9
+2020-03-25,Senate Minority Leader Stuart Ingle,1,10
+2020-03-25,Supreme Court,1,11
+2020-03-25,Vincent Regional Medical Center,1,12
+2020-03-25,White House,1,13
+2020-03-25,Governor Office,2,1
+2020-03-25,Los Alamos National Laboratory,2,2
+2020-03-29,Albertsons,2,1
+2020-03-29,Bienvenidos Outreach Inc,2,2
+2020-03-29,Facebook,2,3
+2020-03-29,Familia Medical Center,2,4
+2020-03-29,Google,2,5
+2020-03-29,Interfaith Community Shelter At Pete Place,2,6
+2020-03-29,Isotopes Program At Los Alamos,2,7
+2020-03-29,Real Time Solutions,2,8
+2020-03-29,Southwestern College In Santa Fe,2,9
+2020-03-30,Los Alamos National Laboratory,1,1
+2020-03-31,City Community Services,1,4
+2020-03-31,Defense Department,1,5
+2020-03-31,Human Resources Department,1,6
+2020-03-31,Interfaith Community Shelter At Pete Place,1,7
+2020-03-31,Motor Vehicle Division,1,8
+2020-03-31,Msnbc,1,9
+2020-03-31,Public Works Department,1,10
+2020-03-31,Region Council Of Governments,1,11
+2020-03-31,Sandia National Laboratories,1,12
+2020-03-31,Senate Majority Leader Peter Wirth,1,13
+2020-03-31,Senate Minority Leader Stuart Ingle,1,14
+2020-03-31,Supreme Court,1,15
+2020-03-31,Vincent Regional Medical Center,1,16
+2020-03-31,White House,1,17
+2020-03-31,Department Of Health,2,3
+2020-03-31,Governor Office,3,1
+2020-03-31,Los Alamos National Laboratory,3,2
+2020-04-03,Nuclear Waste Shipments,1,6
+2020-04-03,Associated Press,2,1
+2020-04-03,Energy Department,2,2
+2020-04-03,Hanford Nuclear Reservation,2,3
+2020-04-03,Nuclear Waste Partnership,2,4
+2020-04-03,Nuclear Watch New Mexico,2,5
+2020-04-04,Association Of Counties,1,2
+2020-04-04,Council Chambers,1,3
+2020-04-04,Department Of Energy,1,4
+2020-04-04,Department Of Energy Environmental Field Office,1,5
+2020-04-04,Health Department,1,6
+2020-04-04,Mexico Department Of Health,1,7
+2020-04-04,Mexico State Health Office,1,8
+2020-04-04,New York Times,1,9
+2020-04-04,Office Of Science,1,10
+2020-04-04,National Nuclear Security Administration,2,1
+2020-04-06,Centers For Disease,1,1
+2020-04-06,Google,1,2
+2020-04-06,Los Alamos National Laboratory,1,3
+2020-04-06,Lovelace Health System,1,4
+2020-04-06,Sandia National Laboratories,1,5
+2020-04-09,Bureau Of Business Economic Research,2,1
+2020-04-09,Google,2,2
+2020-04-09,Human Services Department,2,3
+2020-04-09,United States,2,4
+2020-04-09,University Of New Mexico,2,5
+2020-04-10,Abbott Laboratories,1,2
+2020-04-10,Behavioral Health Services Division,1,3
+2020-04-10,Centers For Disease,1,4
+2020-04-10,Human Services Department,1,5
+2020-04-10,Indian Health,1,6
+2020-04-10,Investment Council,1,7
+2020-04-10,Los Alamos National Laboratory,1,8
+2020-04-10,Mexico Business Development Centers,1,9
+2020-04-10,National Institutes Of Allergy,1,10
+2020-04-10,New York Times,1,11
+2020-04-10,Sandia National Laboratories,1,12
+2020-04-10,University Of Texas,1,13
+2020-04-10,University Of Washington,1,14
+2020-04-10,United States,2,1
+2020-04-11,Associated Press,1,1
+2020-04-11,Energy Department,1,2
+2020-04-11,Hanford Nuclear Reservation,1,3
+2020-04-11,Los Alamos National Laboratory,1,4
+2020-04-11,Nuclear Waste Partnership,1,5
+2020-04-11,Nuclear Watch New Mexico,1,6
+2020-04-11,United States,1,7
+2020-04-15,Nan,1,1
+2020-04-16,Department Of Health,1,1
+2020-04-16,Do It Best,1,2
+2020-04-16,El Centro Family Health In Espanola,1,3
+2020-04-16,Facebook,1,4
+2020-04-17,Human Services,1,1
+2020-04-17,Mexico State University,1,2
+2020-04-17,University Of Washington,1,3
+2020-04-19,Arizona State University Tempe,1,14
+2020-04-19,City Church,2,1
+2020-04-19,Diocese Of Phoenix,2,2
+2020-04-19,Facebook,2,3
+2020-04-19,Hillsong Church,2,4
+2020-04-19,Instagram,2,5
+2020-04-19,Islamic Community Center,2,6
+2020-04-19,Lifepoint Church,2,7
+2020-04-19,Megachurch Christ Church,2,8
+2020-04-19,Paycheck Protection Program,2,9
+2020-04-19,United Church,2,10
+2020-04-19,United States,2,11
+2020-04-19,Young,2,12
+2020-04-19,Youtube,2,13
+2020-04-21,Capshaw Middle School,1,1
+2020-04-21,Department Of Health,1,2
+2020-04-21,Governor Office,1,3
+2020-04-21,Life Care Center,1,4
+2020-04-21,Presbyterian Santa Fe Medical Center,1,5
+2020-04-21,Vincent Regional Medical Center,1,6
+2020-04-23,Argonne National Laboratory,1,1
+2020-04-23,Los Alamos National Laboratory,1,2
+2020-04-23,Pacific Northwest National Laboratory,1,3
+2020-04-23,Pacific Northwest National Laboratory Supercomputers,1,4
+2020-04-23,University Of California,1,5
+2020-04-23,University Of Virginia,1,6
+2020-04-23,Us Department Of Energy,1,7
+2020-04-23,Washingon State University,1,8
+2020-04-23,White House Office Of Science,1,9
+2020-04-24,Agora Crisis Center,1,8
+2020-04-24,Amanda Country Store In La Cueva,1,9
+2020-04-24,Attachment Healing Center,1,10
+2020-04-24,Centers For Disease,1,11
+2020-04-24,Kaiser Family Foundation,1,12
+2020-04-24,Legacy Church,1,13
+2020-04-24,Mexico Behavioral Health Collaborative,1,14
+2020-04-24,National Rifle Association,1,15
+2020-04-24,Republican Party,1,16
+2020-04-24,Walmart,1,17
+2020-04-24,Department Of Health,2,1
+2020-04-24,Institute For Health Metrics,2,2
+2020-04-24,Johns Hopkins University Coronavirus Resource Center,2,3
+2020-04-24,Journal Capitol Bureau,2,4
+2020-04-24,University Of New Mexico,2,5
+2020-04-24,University Of Washington,2,6
+2020-04-24,White House,2,7
+2020-04-25,California State University,1,1
+2020-04-25,Foreign Service,1,2
+2020-04-25,Foreign Service Day,1,3
+2020-04-25,Forest Service,1,4
+2020-04-25,Los Alamos National Laboratory,1,5
+2020-04-25,Republican Party,1,6
+2020-04-25,Santa Fe National Forest,1,7
+2020-04-26,Associated Press,1,1
+2020-04-26,Democratic Party,1,2
+2020-04-26,Democratic Party Of Los Alamos,1,3
+2020-04-26,Department Directors,1,4
+2020-04-26,Department Of Health,1,5
+2020-04-26,Mexico Department Of Health,1,6
+2020-04-26,Nan,1,7
+2020-04-26,Republican Party Of Los Alamos,1,8
+2020-04-26,Rio Grande Foundation,1,9
+2020-04-27,Agora Crisis Center,1,1
+2020-04-27,Attachment Healing Center,1,2
+2020-04-27,Centers For Disease,1,3
+2020-04-27,Department Of Health,1,4
+2020-04-27,Human Services,1,5
+2020-04-27,Mexico Behavioral Health Collaborative,1,6
+2020-04-27,Presbyterian Healthcare Services,1,7
+2020-04-27,Rio Grande Foundation,1,8
+2020-04-27,University Of New Mexico,1,9
+2020-04-27,University Of Washington,1,10
+2020-04-28,Associated Press,1,1
+2020-04-28,Environment Department,1,2
+2020-04-28,Information Center,1,3
+2020-04-28,Los Alamos National Laboratory,1,4
+2020-04-28,Mexico Court,1,5
+2020-04-28,Nuclear Waste Partnership,1,6
+2020-04-29,Associated Press,1,1
+2020-04-29,Environment Department,1,2
+2020-04-29,Information Center,1,3
+2020-04-29,Los Alamos National Laboratory,1,4
+2020-04-29,Mexico Court,1,5
+2020-04-29,Nuclear Waste Partnership,1,6
+2020-05-01,Aiken Chamber,1,1
+2020-05-01,Aiken County Council,1,2
+2020-05-01,Greater Aiken Chamber,1,3
+2020-05-01,Los Alamos National Laboratory,1,4
+2020-05-01,Los Alamos Study Group Greg Mello,1,5
+2020-05-01,National Nuclear Security Administration,1,6
+2020-05-01,Nuclear Posture,1,7
+2020-05-01,Nuclear Watch New Mexico,1,8
+2020-05-01,Savannah River Field Office,1,9
+2020-05-04,Aiken Chamber,1,1
+2020-05-04,Aiken County Council,1,2
+2020-05-04,Greater Aiken Chamber,1,3
+2020-05-04,Los Alamos National Laboratory,1,4
+2020-05-04,Los Alamos Study Group Greg Mello,1,5
+2020-05-04,National Nuclear Security Administration,1,6
+2020-05-04,Nuclear Posture,1,7
+2020-05-04,Nuclear Watch New Mexico,1,8
+2020-05-04,Savannah River Field Office,1,9
+2020-05-05,Energy Department,1,4
+2020-05-05,Los Alamos National Laboratory,1,5
+2020-05-05,Pfizer,1,6
+2020-05-05,Savannah River National Laboratory,1,7
+2020-05-05,Talents Program,1,8
+2020-05-05,United States,1,9
+2020-05-05,Duke University,2,2
+2020-05-05,University Of Sheffield,2,3
+2020-05-05,Global Initiative For Sharing All Influenza Data,3,1
+2020-05-06,Department Of Energy,1,3
+2020-05-06,Facebook,1,4
+2020-05-06,Los Alamos National Laboratory,1,5
+2020-05-06,Research Collaborations,1,6
+2020-05-06,Research Council,1,7
+2020-05-06,University Of Glasgow Centre For Virus Research,1,8
+2020-05-06,University Of Sheffield,2,2
+2020-05-06,Duke University,3,1
+2020-05-07,Genome Technology Center At New York University,1,1
+2020-05-07,Institute Of Human Virology,1,2
+2020-05-07,Los Alamos National Laboratory,1,3
+2020-05-07,Mayo Clinic Vaccine Research Group In Rochester,1,4
+2020-05-07,National Nurses Daymay,1,5
+2020-05-07,University Of Maryland School Of Medicine,1,6
+2020-05-07,Vanderbilt University Medical Center,1,7
+2020-05-08,College Of Natural Sciences,1,1
+2020-05-08,Facebook,1,2
+2020-05-08,Genome Technology Center At New York University,1,3
+2020-05-08,Harvard School Of Public Health,1,4
+2020-05-08,Institute For Molecular Virology,1,5
+2020-05-08,Mayo Clinic Vaccine Research Group In Rochester,1,6
+2020-05-08,New York Times,1,7
+2020-05-08,Temple University,1,8
+2020-05-08,University Of Minnesota,1,9
+2020-05-11,Johns Hopkins University,1,1
+2020-05-11,Twitter,1,2
+2020-05-11,University College London,1,3
+2020-05-11,University Of Edinburgh,1,4
+2020-05-11,University Of Glasgow,1,5
+2020-05-11,University Of Reading,1,6
+2020-05-11,University Of Warwick,1,7
+2020-05-11,Yahoo,1,8
+2020-05-13,Alliance For Nuclear Accountability,1,1
+2020-05-13,National Environmental Policy,1,2
+2020-05-13,National Nuclear Security Administration,1,3
+2020-05-13,Nuclear Watch New Mexico,1,4
+2020-05-13,United States,1,5
+2020-05-14,American Parent Advisory Council,1,1
+2020-05-14,Budget Committee,1,2
+2020-05-14,Community Input,1,3
+2020-05-14,Education Department,1,4
+2020-05-14,Mexico Legislature,1,5
+2020-05-14,Parent Advisory Council,1,6
+2020-05-14,School Board,1,7
+2020-05-14,School Board Meeting,1,8
+2020-05-14,School District,1,9
+2020-05-14,School Year,1,10
+2020-05-17,Chevron,1,1
+2020-05-17,Council On Economic Recovery,1,2
+2020-05-17,Highlands University,1,3
+2020-05-17,Masters Of Public Administration,1,4
+2020-05-17,Mexico Highlands University,1,5
+2020-05-17,Mexico Municipal League,1,6
+2020-05-17,Sierra Club,1,7
+2020-05-17,University Of New Mexico,1,8
+2020-05-18,Associated Press,1,4
+2020-05-18,Chevron,1,5
+2020-05-18,District Senate,1,6
+2020-05-18,Facebook,1,7
+2020-05-18,Intel,1,8
+2020-05-18,Mexico Department Of Health,1,9
+2020-05-18,National Institute For Reproductive Health Action Fund,1,10
+2020-05-18,National Public Radio,1,11
+2020-05-18,New York Times,1,12
+2020-05-18,Nm Working Families Party Pac,1,13
+2020-05-18,Occidental Petroleum,1,14
+2020-05-18,Parenthood Votes New Mexico Coordinated Committee,1,15
+2020-05-18,Parenthood Votes New Mexico Ie Committee,1,16
+2020-05-18,Rio Grande Chapter Of The Sierra Club,1,17
+2020-05-18,Senate Corporations,1,18
+2020-05-18,Senate Democrat John Arthur Smith,1,19
+2020-05-18,Senate District,1,20
+2020-05-18,Senate Finance Committee,1,21
+2020-05-18,Supreme Court,1,22
+2020-05-18,Transportation Committee,1,23
+2020-05-18,Twitter,1,24
+2020-05-18,University Of New Mexico,1,25
+2020-05-18,Democratic Party,2,1
+2020-05-18,Los Alamos National Laboratory,2,2
+2020-05-18,United States,2,3
+2020-05-19,Alma Health Foundation,1,1
+2020-05-19,Carlisle Borough Council,1,2
+2020-05-19,Community Biotech Club,1,3
+2020-05-19,Confucius Institute,1,4
+2020-05-19,Connecticut Office Of The Attorney General,1,5
+2020-05-19,Cornell University,1,6
+2020-05-19,Council On Foreign Relations,1,7
+2020-05-19,Delle Foundation,1,8
+2020-05-19,European Union,1,9
+2020-05-19,Foreign Affairs,1,10
+2020-05-19,Huawei,1,11
+2020-05-19,National People Congress,1,12
+2020-05-19,National Program,1,13
+2020-05-19,Northern New Mexico Health Group,1,14
+2020-05-19,Officials Initiative,1,15
+2020-05-19,People Liberation Army,1,16
+2020-05-19,Stanford University Hoover Institution,1,17
+2020-05-19,Triad National Security,1,18
+2020-05-19,United States,1,19
+2020-05-19,White House,1,20
+2020-05-19,World Health Organization,1,21
+2020-05-22,Alzheimer Association,1,1
+2020-05-22,Amphitheater School District,1,2
+2020-05-22,Innovation Academy,1,3
+2020-05-22,Jewish History Museum,1,4
+2020-05-22,Microsoft,1,5
+2020-05-22,Paulo Freire Freedom School,1,6
+2020-05-22,Tanque Verde School District,1,7
+2020-05-23,College Of Santa Fe,1,1
+2020-05-23,Early Childhood Permanent Fund,1,2
+2020-05-23,Economic Development,1,3
+2020-05-23,Energy Transition,1,4
+2020-05-23,Franklin University,1,5
+2020-05-23,Law Enforcement Assistance Diversion Program,1,6
+2020-05-23,Outdoor Recreation Division,1,7
+2020-05-25,Development Corporation,1,1

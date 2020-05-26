@@ -1,0 +1,768 @@
+date,organization,count,rn
+2020-02-25,Alleman High School,1,1
+2020-02-25,Bloomberg,1,2
+2020-02-25,Bloomberg Industry Group,1,3
+2020-02-25,Cardiff University In Cardiff,1,4
+2020-02-25,Facebook,1,5
+2020-02-25,Its Emergency Services Team,1,6
+2020-02-25,Moline Police Department,1,7
+2020-02-25,National Weather Service,1,8
+2020-02-25,University Of Iowa,1,9
+2020-02-27,Cattolica Catholic University,1,23
+2020-02-27,Damien Center,1,24
+2020-02-27,Democratic National Committee,1,25
+2020-02-27,Department Of Homeland Security,1,26
+2020-02-27,Department Of Transportation,1,27
+2020-02-27,Donald Trump State Of The Union,1,28
+2020-02-27,Drug Administration,1,29
+2020-02-27,House Chamber,1,30
+2020-02-27,Means Committee,1,31
+2020-02-27,Moderna Inc,1,32
+2020-02-27,Msnbc,1,33
+2020-02-27,Nan,1,34
+2020-02-27,National Centre For Immunisation,1,35
+2020-02-27,National Security Council,1,36
+2020-02-27,New York Stock Exchange,1,37
+2020-02-27,Senate Minority Leader Chuck Schumer,1,38
+2020-02-27,Trump Administration,1,39
+2020-02-27,World Health Organization,1,40
+2020-02-27,York Stock Exchange,1,41
+2020-02-27,Governor Task Force On Drug Enforcement,2,15
+2020-02-27,Health Sciences,2,16
+2020-02-27,Korea Pest Control Association,2,17
+2020-02-27,National Assembly,2,18
+2020-02-27,Reuters,2,19
+2020-02-27,Senate Majority Leader Mitch Mcconnell,2,20
+2020-02-27,Twitter,2,21
+2020-02-27,World Holocaust Forum,2,22
+2020-02-27,National Institute Of Allergy,3,12
+2020-02-27,National Institutes Of Health Anthony Fauci,3,13
+2020-02-27,United States,3,14
+2020-02-27,New York Times,5,10
+2020-02-27,Yale University,5,11
+2020-02-27,Coronavirus Task,10,8
+2020-02-27,Department Of Health,10,9
+2020-02-27,Human Services,20,7
+2020-02-27,White House,30,6
+2020-02-27,Associated Press,33,5
+2020-02-27,House Homeland Security Committee,47,2
+2020-02-27,National Institutes Of Health,47,3
+2020-02-27,Senate Democratic Leader Chuck Schumer,47,4
+2020-02-27,Centers For Disease,53,1
+2020-02-28,Coronavirus Messaging From Health Officials,1,23
+2020-02-28,Coronavirus Task,1,24
+2020-02-28,Damien Center,1,25
+2020-02-28,Department Of Transportation,1,26
+2020-02-28,George Washington School Of Medicine,1,27
+2020-02-28,Health Department,1,28
+2020-02-28,Health Sciences,1,29
+2020-02-28,House Public Health,1,30
+2020-02-28,Human Resources Committee,1,31
+2020-02-28,Illinois Department Of Public Health,1,32
+2020-02-28,Illinois Public Health,1,33
+2020-02-28,Iowa Department Of Public Health,1,34
+2020-02-28,Iowa Department Of Public Health Caitlin Pedati,1,35
+2020-02-28,Iowa State Hygienic Laboratory In Coralville,1,36
+2020-02-28,Kaiser Health News,1,37
+2020-02-28,Minnesota Department Of Education,1,38
+2020-02-28,Minnesota Department Of Health,1,39
+2020-02-28,Nan,1,40
+2020-02-28,National Institute Of Allergy,1,41
+2020-02-28,Operations Centre,1,42
+2020-02-28,Rural Center,1,43
+2020-02-28,Senate Minority Leader Chuck Schumer,1,44
+2020-02-28,Twitter,1,45
+2020-02-28,Us Centers For Disease,1,46
+2020-02-28,Washington Post,1,47
+2020-02-28,Yale School Of Public Health,1,48
+2020-02-28,Health Canada,2,22
+2020-02-28,Ferrari,3,17
+2020-02-28,Hyundai,3,18
+2020-02-28,New York Times,3,19
+2020-02-28,Operations Center,3,20
+2020-02-28,World Health Organization,3,21
+2020-02-28,National Economic Council,4,15
+2020-02-28,United States,4,16
+2020-02-28,House Homeland Security Committee,5,12
+2020-02-28,National Institutes Of Health,5,13
+2020-02-28,Senate Democratic Leader Chuck Schumer,5,14
+2020-02-28,Department Of Health,6,10
+2020-02-28,Yale University,6,11
+2020-02-28,Human Services,7,9
+2020-02-28,Writer Lisa Mascaro,10,8
+2020-02-28,United Health Foundation,17,7
+2020-02-28,Northwestern University,19,5
+2020-02-28,Shell,19,6
+2020-02-28,Associated Press,20,3
+2020-02-28,Indiana State Department Of Health,20,4
+2020-02-28,White House,27,2
+2020-02-28,Centers For Disease,30,1
+2020-02-29,America Health,1,2
+2020-02-29,Department Of Health,1,3
+2020-02-29,House Homeland Security Committee,1,4
+2020-02-29,Human Services,1,5
+2020-02-29,Indiana State Department Of Health,1,6
+2020-02-29,National Institutes Of Health,1,7
+2020-02-29,New York Times,1,8
+2020-02-29,Prevention At Indiana University,1,9
+2020-02-29,Republican Party,1,10
+2020-02-29,Rural Center,1,11
+2020-02-29,Senate Democratic Leader Chuck Schumer,1,12
+2020-02-29,Trump Said Pence Had Talent On Health,1,13
+2020-02-29,World Health Organization,1,14
+2020-02-29,Centers For Disease,2,1
+2020-03-02,Indiana State Department Of Health,1,1
+2020-03-02,National Institute On Drug Abuse,1,2
+2020-03-02,United States,1,3
+2020-03-03,Associated Press,1,2
+2020-03-03,Evan Vucci Associated,1,3
+2020-03-03,Governor Task Force On Drug Enforcement,1,4
+2020-03-03,Indiana State Department Of Health,1,5
+2020-03-03,Northwestern University,1,6
+2020-03-03,Shell,1,7
+2020-03-03,United Health Foundation,1,8
+2020-03-03,White House,1,9
+2020-03-03,Centers For Disease,2,1
+2020-03-04,Cnn,1,1
+2020-03-04,Damien Center,1,2
+2020-03-04,New York Times,1,3
+2020-03-04,Rural Center,1,4
+2020-03-04,White House,1,5
+2020-03-04,World Health Organization,1,6
+2020-03-04,Yale University,1,7
+2020-03-05,Centers For Disease,1,1
+2020-03-05,Indiana Legislature,1,2
+2020-03-05,Indiana State Department Of Health,1,3
+2020-03-05,New York Times,1,4
+2020-03-05,Yale University,1,5
+2020-03-06,Associated Press,1,1
+2020-03-06,Centers For Disease,1,2
+2020-03-06,House Homeland Security Committee,1,3
+2020-03-06,National Institutes Of Health,1,4
+2020-03-06,Senate Democratic Leader Chuck Schumer,1,5
+2020-03-08,Centers For Disease,1,1
+2020-03-08,Koch Industries,1,2
+2020-03-08,Mercatus Center,1,3
+2020-03-08,National Institute Of Allergy,1,4
+2020-03-08,Public Health,1,5
+2020-03-08,United States Public Health Service,1,6
+2020-03-08,White House,1,7
+2020-03-09,Iowa Department Of Homeland Security,1,4
+2020-03-09,Iowa Department Of Natural Resources,1,5
+2020-03-09,Iowa Department Of Natural Resources Conservation Office,1,6
+2020-03-09,Iowa Department Of Public Health,1,7
+2020-03-09,Iowa National Guard,1,8
+2020-03-09,Testing At Iowa State Hygienic Laboratory,1,9
+2020-03-09,Centers For Disease,2,1
+2020-03-09,Eagle Creek Elementary School,2,2
+2020-03-09,Minnesota Department Of Health,2,3
+2020-03-10,Centers For Disease,1,4
+2020-03-10,Eagle Creek Elementary School In Shakopee,1,5
+2020-03-10,Human Services,1,6
+2020-03-10,Indiana Department Of Health,1,7
+2020-03-10,New York Times,1,8
+2020-03-10,Osceola High School On,1,9
+2020-03-10,Osceola School District,1,10
+2020-03-10,White House,1,11
+2020-03-10,Yale University,1,12
+2020-03-10,Department Of Health,2,2
+2020-03-10,Eagle Creek Elementary School,2,3
+2020-03-10,Minnesota Department Of Health,5,1
+2020-03-11,Eagle Creek Elementary School,1,2
+2020-03-11,Georgetown College,1,3
+2020-03-11,House Education Committee,1,4
+2020-03-11,Minnesota Department Of Health,1,5
+2020-03-11,Public Health Laboratory,1,6
+2020-03-11,Travis Air,1,7
+2020-03-11,University Of Kentucky,1,8
+2020-03-11,Centers For Disease,2,1
+2020-03-12,Centers For Disease,1,4
+2020-03-12,Iowa State University,1,5
+2020-03-12,Partner Network,1,6
+2020-03-12,Prescription Drug Monitoring Program,1,7
+2020-03-12,Public Health,1,8
+2020-03-12,Shepherd Of The Lake Lutheran Church,1,9
+2020-03-12,University Of Missouri,1,10
+2020-03-12,Department Of Health,2,1
+2020-03-12,Missouri Senate,2,2
+2020-03-12,Senior Services,2,3
+2020-03-13,Clorox,1,2
+2020-03-13,Community Health Care,1,3
+2020-03-13,Genesis Health,1,4
+2020-03-13,Missouri Senate,1,5
+2020-03-13,Morgan,1,6
+2020-03-13,Qc Coalition,1,7
+2020-03-13,Quad Cities Chamber,1,8
+2020-03-13,Rock Island County Health Department,1,9
+2020-03-13,Scott County Health Department,1,10
+2020-03-13,Senior Services,1,11
+2020-03-13,Spain Ministry Of Health,1,12
+2020-03-13,Department Of Health,2,1
+2020-03-14,Centers For Medicare Medicaid Services,1,1
+2020-03-14,Nan,1,2
+2020-03-16,Hygienic Laboratory,1,1
+2020-03-16,Iowa Department Of Public Health,1,2
+2020-03-16,Nan,1,3
+2020-03-16,National Weather Service,1,4
+2020-03-17,Community Church,1,1
+2020-03-17,Genesis Medical Center,1,2
+2020-03-17,German Health Ministry,1,3
+2020-03-17,Rock Island County Republican Party,1,4
+2020-03-17,Siouxland Food Bank,1,5
+2020-03-18,Customer Service,1,14
+2020-03-18,Government Center,1,15
+2020-03-18,Infectious Disease Division,1,16
+2020-03-18,Minnesota Department Of Health,1,17
+2020-03-18,Taxation Services Department,1,18
+2020-03-18,Environmental Health,2,8
+2020-03-18,Genesis Medical Center,2,9
+2020-03-18,Illinois Department Of Transportation,2,10
+2020-03-18,Iowa Department,2,11
+2020-03-18,National Weather Service,2,12
+2020-03-18,Public Health,2,13
+2020-03-18,Genesis Health,3,5
+2020-03-18,Genesis Health Group,3,6
+2020-03-18,Illinois Department Of Public Health,3,7
+2020-03-18,Centers For Disease,4,2
+2020-03-18,Health Department,4,3
+2020-03-18,Unitypoint Health,4,4
+2020-03-18,Iowa Department Of Public Health,6,1
+2020-03-19,Centers For Disease,1,3
+2020-03-19,City Council,1,4
+2020-03-19,Council Chambers,1,5
+2020-03-19,Davenport City Council,1,6
+2020-03-19,Davenport City Council On,1,7
+2020-03-19,Environmental Health,1,8
+2020-03-19,Genesis Health,1,9
+2020-03-19,Genesis Health Group,1,10
+2020-03-19,Health Department,1,11
+2020-03-19,Illinois Department Of Public Health,1,12
+2020-03-19,Iowa Department,1,13
+2020-03-19,Nan,1,14
+2020-03-19,Public Health,1,15
+2020-03-19,Rock Island County Health Department,1,16
+2020-03-19,Iowa Department Of Public Health,2,1
+2020-03-19,Unitypoint Health,2,2
+2020-03-20,Iowa Department Of Public Health,1,1
+2020-03-20,Missouri Department Of Health,1,2
+2020-03-20,Rock Island County Health Department,1,3
+2020-03-20,Senior Services,1,4
+2020-03-20,Unitypoint Health,1,5
+2020-03-22,Amazon Relief Fund,1,1
+2020-03-22,Community Church,1,2
+2020-03-22,Costco,1,3
+2020-03-22,Eastern Iowa Community Colleges,1,4
+2020-03-22,Freshdirect,1,5
+2020-03-22,Genesis Health System,1,6
+2020-03-22,Genesis Health Systems,1,7
+2020-03-22,Hawk College In Moline,1,8
+2020-03-22,Hotel In Rock Island,1,9
+2020-03-22,Illinois Department Of Public Health,1,10
+2020-03-22,Illinois University,1,11
+2020-03-22,Iowa Supreme Court,1,12
+2020-03-22,Mahaska Health Partnership In Oskaloosa,1,13
+2020-03-22,Patrick Society,1,14
+2020-03-22,Quad City International Airport,1,15
+2020-03-22,Reuters,1,16
+2020-03-22,Walgreens,1,17
+2020-03-22,Walmart,1,18
+2020-03-22,Whole Foods,1,19
+2020-03-23,Associated Press,1,2
+2020-03-23,Church Pastor Paul Van Maaren,1,3
+2020-03-23,Eastern Iowa Community Colleges,1,4
+2020-03-23,Genesis Health System,1,5
+2020-03-23,Genesis Health Systems,1,6
+2020-03-23,Hawk College In Moline,1,7
+2020-03-23,Hotel In Rock Island,1,8
+2020-03-23,Illinois Department Of Public Health,1,9
+2020-03-23,Illinois University,1,10
+2020-03-23,Iowa Department Of Public Health,1,11
+2020-03-23,Iowa Supreme Court,1,12
+2020-03-23,Living Water Community Church Pastor Jesse Walhof,1,13
+2020-03-23,Ministerial Association,1,14
+2020-03-23,Patrick Society,1,15
+2020-03-23,Quad City International Airport,1,16
+2020-03-23,Sheldon Area Ministerial Association,1,17
+2020-03-23,Sheldon Chamber Development Corporation,1,18
+2020-03-23,Iowa Corrections Department,3,1
+2020-03-24,American Hospital Association Rural Health Services,1,2
+2020-03-24,Centers For Disease,1,3
+2020-03-24,Centers For Medicare,1,4
+2020-03-24,Cities Chamber,1,5
+2020-03-24,Correctional Center,1,6
+2020-03-24,Facebook,1,7
+2020-03-24,Iowa Corrections Department,1,8
+2020-03-24,Medicaid Services,1,9
+2020-03-24,Missouri Department Of Corrections,1,10
+2020-03-24,National Journalism Center,1,11
+2020-03-24,Quad Cities Chamber,1,12
+2020-03-24,Small Business Administration,1,13
+2020-03-24,Winthrop University,1,14
+2020-03-24,Indiana State Department Of Health,2,1
+2020-03-25,America Arts Alliance,1,4
+2020-03-25,American Hospital Association Rural Health Services,1,5
+2020-03-25,Army Sustainment,1,6
+2020-03-25,Buick,1,7
+2020-03-25,Center Theatre,1,8
+2020-03-25,Centers For Medicare,1,9
+2020-03-25,Cities Chamber,1,10
+2020-03-25,Davenport Police Department,1,11
+2020-03-25,Education Center,1,12
+2020-03-25,Gurley Leep Group,1,13
+2020-03-25,Highlander Research,1,14
+2020-03-25,Indiana State Department Of Health,1,15
+2020-03-25,Justice Initiative In Nashville,1,16
+2020-03-25,Medicaid Services,1,17
+2020-03-25,Museum Of American Art,1,18
+2020-03-25,National Weather Service,1,19
+2020-03-25,Quad Cities Chamber,1,20
+2020-03-25,Small Business Administration,1,21
+2020-03-25,Supreme Court,1,22
+2020-03-25,Tennessee Association Of Criminal Defense Lawyers,1,23
+2020-03-25,Tennessee State Supreme Court,1,24
+2020-03-25,United States Today Network,1,25
+2020-03-25,Vanderbilt Law School Youth Opportunity Clinic,1,26
+2020-03-25,Yale University,1,27
+2020-03-25,Facebook,2,3
+2020-03-25,Nan,3,1
+2020-03-25,United States,3,2
+2020-03-26,Administrative Regulations Committee,1,2
+2020-03-26,Allina Health,1,3
+2020-03-26,Facebook,1,4
+2020-03-26,Financial Center,1,5
+2020-03-26,Francis Regional Medical Center,1,6
+2020-03-26,Health Administration,1,7
+2020-03-26,Iowa Department Of Public Health,1,8
+2020-03-26,Kentucky Senate,1,9
+2020-03-26,Nan,1,10
+2020-03-26,New York Times,1,11
+2020-03-26,Senate Licensing,1,12
+2020-03-26,Senate Majority Floor Leader Damon Thayer,1,13
+2020-03-26,University Of Minnesota,1,14
+2020-03-26,Centers For Disease,3,1
+2020-03-27,Bettendorf Community School District,1,1
+2020-03-27,Bettendorf Middle School,1,2
+2020-03-27,Civil Rights Commission,1,3
+2020-03-27,Commodity Credit Corporation,1,4
+2020-03-27,Lincoln School,1,5
+2020-03-27,Moline Police Department,1,6
+2020-03-27,National Weather Service,1,7
+2020-03-27,Neil Armstrong Elementary School,1,8
+2020-03-27,New York Post,1,9
+2020-03-27,United States,1,10
+2020-03-28,Aviation Administration,1,1
+2020-03-28,Centers For Disease,1,2
+2020-03-28,Cities Airport Authority,1,3
+2020-03-28,Community Bankers Of Iowa,1,4
+2020-03-28,Contact Gundersen Palmer Memorial Foundation,1,5
+2020-03-28,Customer Service,1,6
+2020-03-28,Department Of Public Health,1,7
+2020-03-28,Drug Administration,1,8
+2020-03-28,First Presbyterian Church,1,9
+2020-03-28,Gundersen Palmer Memorial Foundation,1,10
+2020-03-28,Iowa Army National Guard,1,11
+2020-03-28,Iowa Bankers Association,1,12
+2020-03-28,Iowa Credit Union League,1,13
+2020-03-28,Iowa Workforce Development,1,14
+2020-03-28,Nan,1,15
+2020-03-28,National Guard,1,16
+2020-03-28,Public Health,1,17
+2020-03-28,Transportation Security Administration,1,18
+2020-03-29,Illinois Department Of Public Health,1,1
+2020-03-29,Nan,1,2
+2020-03-30,Nan,1,1
+2020-03-31,Aviation Administration,1,1
+2020-03-31,Buick,1,2
+2020-03-31,Cities Airport Authority,1,3
+2020-03-31,Customer Service,1,4
+2020-03-31,Davenport Police Department,1,5
+2020-03-31,Gurley Leep Group,1,6
+2020-03-31,National Weather Service,1,7
+2020-03-31,Political Action Committee,1,8
+2020-03-31,Reform Party Gov,1,9
+2020-03-31,Transportation Security Administration,1,10
+2020-03-31,White House,1,11
+2020-04-01,Department Of Justice,1,1
+2020-04-01,Facebook,1,2
+2020-04-01,Hygienic Lab,1,3
+2020-04-01,Illinois Department Of Public Health,1,4
+2020-04-01,Institute For Health Metrics,1,5
+2020-04-01,Mississippi Emergency Management Agency,1,6
+2020-04-01,Scott City Police,1,7
+2020-04-01,Scott City Police Department,1,8
+2020-04-01,Thompson Center,1,9
+2020-04-01,United States,1,10
+2020-04-01,White House,1,11
+2020-04-02,Area Economic Development Corp,1,3
+2020-04-02,Cape Chamber,1,4
+2020-04-02,Food Bank,1,5
+2020-04-02,Missouri Foundation For Health,1,6
+2020-04-02,Nan,1,7
+2020-04-02,Southeast Missouri Food Bank,1,8
+2020-04-02,Cremation Association Of North America,2,1
+2020-04-02,National Funeral Directors Association,2,2
+2020-04-03,Sam Club,3,1
+2020-04-04,Genesis Medical Center,1,1
+2020-04-05,Nan,1,1
+2020-04-06,Advance Auto Parts,1,1
+2020-04-06,American Civil Liberties Union,1,2
+2020-04-06,Best Buy,1,3
+2020-04-06,Centers For Disease,1,4
+2020-04-06,Deere Company,1,5
+2020-04-06,Illinois Department Of Corrections,1,6
+2020-04-06,Illinois Stateville Correctional Center,1,7
+2020-04-06,Logan Correctional Center,1,8
+2020-04-06,Minnesota Department Of Corrections,1,9
+2020-04-06,Minnesota Sentencing Guidelines Commission,1,10
+2020-04-06,United States,1,11
+2020-04-06,Women Justice Institute,1,12
+2020-04-06,World Health Organization,1,13
+2020-04-07,Public Health Emergency Declaration,1,2
+2020-04-07,United States,1,3
+2020-04-07,Nan,2,1
+2020-04-08,Advisory Council,1,6
+2020-04-08,American Academy,1,7
+2020-04-08,American Foundation,1,8
+2020-04-08,Army Corps Of Engineers,1,9
+2020-04-08,Bureau Of Labor Statistics,1,10
+2020-04-08,Candidates For The State Legislature,1,11
+2020-04-08,Convention Is,1,12
+2020-04-08,Department Of Justice,1,13
+2020-04-08,Drug Assistance Program,1,14
+2020-04-08,Erika Cashin,1,15
+2020-04-08,Global Health Law,1,16
+2020-04-08,Health Economics,1,17
+2020-04-08,Health Services Research,1,18
+2020-04-08,Iowa Department Of Public Health,1,19
+2020-04-08,Justice Network,1,20
+2020-04-08,Kaiser Family Foundation,1,21
+2020-04-08,Le Sueur-Henderson School Board Vice,1,22
+2020-04-08,Lerner Center,1,23
+2020-04-08,Medscape Coronavirus Resource Center,1,24
+2020-04-08,Minnesota Department Of Health,1,25
+2020-04-08,Minnesota Senate,1,26
+2020-04-08,National Guard,1,27
+2020-04-08,Prison Policy Initiative,1,28
+2020-04-08,Public Health,1,29
+2020-04-08,Public Health Promotion At Syracuse University,1,30
+2020-04-08,Republican Convention,1,31
+2020-04-08,Senate Majority Leader Mitch Mcconnell,1,32
+2020-04-08,United States,1,33
+2020-04-08,University Hospitals,1,34
+2020-04-08,University Of California,1,35
+2020-04-08,University Of New York At Albany,1,36
+2020-04-08,Walmart,1,37
+2020-04-08,White House,1,38
+2020-04-08,York City Port Authority Police Department,1,39
+2020-04-08,York Police Department,1,40
+2020-04-08,Centers For Disease,2,1
+2020-04-08,Democratic National Convention In Milwaukee,2,2
+2020-04-08,Legalize Cannabis Party,2,3
+2020-04-08,Republican National Convention In Charlotte,2,4
+2020-04-08,Senate District,2,5
+2020-04-09,Advisory Council,1,2
+2020-04-09,Bureau Of Labor Statistics,1,3
+2020-04-09,Deputie Association Board Of Directors,1,4
+2020-04-09,Drug Assistance Program,1,5
+2020-04-09,Economic Development,1,6
+2020-04-09,Fraternal Order Of Police,1,7
+2020-04-09,Global Health Law We,1,8
+2020-04-09,Health Economics,1,9
+2020-04-09,Health Services Research,1,10
+2020-04-09,Iowa Supreme Court On,1,11
+2020-04-09,Kaiser Family Foundation,1,12
+2020-04-09,Lerner Center,1,13
+2020-04-09,Minnesota Department Of Employment,1,14
+2020-04-09,Minnesota Department Of Resources,1,15
+2020-04-09,National Sheriff Association,1,16
+2020-04-09,Public Health Promotion At Syracuse University,1,17
+2020-04-09,Senate Majority Leader Mitch Mcconnell,1,18
+2020-04-09,United States,1,19
+2020-04-09,University Of California,1,20
+2020-04-09,University Of New York At Albany,1,21
+2020-04-09,University Of North Carolina,1,22
+2020-04-09,Walmart,1,23
+2020-04-09,Willows Beach Association,1,24
+2020-04-09,York Police Department,1,25
+2020-04-09,White House,2,1
+2020-04-10,Economic Development,1,11
+2020-04-10,Minnesota Department Of Employment,1,12
+2020-04-10,Minnesota Department Of Resources,1,13
+2020-04-10,National Guard As Wisconsin,1,14
+2020-04-10,Willows Beach Association,1,15
+2020-04-10,Best Buy,2,1
+2020-04-10,Catholic Community Foundation,2,2
+2020-04-10,Creation Lutheran Church,2,3
+2020-04-10,Hosanna Church,2,4
+2020-04-10,Land O Lakes,2,5
+2020-04-10,Minnesota Council Of Foundations,2,6
+2020-04-10,Shakopee City Council Member Angelica Contreras,2,7
+2020-04-10,Shakopee Diversity Alliance,2,8
+2020-04-10,Trader Joe,2,9
+2020-04-10,Wells Fargo,2,10
+2020-04-11,Iowa Department Of Inspection,1,1
+2020-04-11,Kentucky Department Of Transportation,1,2
+2020-04-11,National Guard As Wisconsin,1,3
+2020-04-11,Youtube,1,4
+2020-04-12,Nan,1,1
+2020-04-13,Detroit Free,1,1
+2020-04-13,Detroit Free Press,1,2
+2020-04-13,Indiana State Health,1,3
+2020-04-13,Indiana State Medical Association,1,4
+2020-04-13,Judicial District Criminal Court,1,5
+2020-04-13,Monmouth University Poll,1,6
+2020-04-13,National Guard As Wisconsin,1,7
+2020-04-13,National Institute Of Allergy,1,8
+2020-04-13,Tennessee Supreme Court,1,9
+2020-04-13,University Of California,1,10
+2020-04-13,White House,1,11
+2020-04-14,Missouri Supreme Court,1,2
+2020-04-14,Facebook,2,1
+2020-04-15,Belton Regional Medical Center,1,8
+2020-04-15,Community Needs Assessment,1,9
+2020-04-15,Esperanza Food Distribution Center,1,10
+2020-04-15,Hosanna Church,1,11
+2020-04-15,Iowa Department Of Cultural Affairs,1,12
+2020-04-15,Iowa Department Of Public Health,1,13
+2020-04-15,Iowa Department Of Transportation,1,14
+2020-04-15,Iowa State Hygienic Lab,1,15
+2020-04-15,Linn Manor Care Center,1,16
+2020-04-15,Louis Lambert International Airport,1,17
+2020-04-15,Louis Lambert International Airport Grant,1,18
+2020-04-15,Mercy Medical Center,1,19
+2020-04-15,Public Health,1,20
+2020-04-15,Public Health Department Deputy,1,21
+2020-04-15,Trader Joe,1,22
+2020-04-15,Tyson Foods,1,23
+2020-04-15,University Of Iowa,1,24
+2020-04-15,Walmart,1,25
+2020-04-15,Washington Post,1,26
+2020-04-15,Wilton Retirement Community In Muscatine,1,27
+2020-04-15,Associated Press,2,1
+2020-04-15,Aviation Administration,2,2
+2020-04-15,Block Grant Program,2,3
+2020-04-15,Johns Hopkins University Center,2,4
+2020-04-15,Kansas City International,2,5
+2020-04-15,Kansas City International Airport,2,6
+2020-04-15,Springfield-Branson National Airport,2,7
+2020-04-16,Community Needs Assessment,1,2
+2020-04-16,Eastern Iowa Mental Health Disability Services Region,1,3
+2020-04-16,Esperanza Food Distribution Center,1,4
+2020-04-16,Hosanna Church,1,5
+2020-04-16,Institute Of Health Metrics Evaluation,1,6
+2020-04-16,Johns Hopkins University Center,1,7
+2020-04-16,Kansas City International,1,8
+2020-04-16,Northwestern Mutual,1,9
+2020-04-16,Public Health,1,10
+2020-04-16,Revenue Service,1,11
+2020-04-16,Robert Young Center,1,12
+2020-04-16,Robert Young Center Crisis Hotline,1,13
+2020-04-16,Robert Young Center Virtual Care,1,14
+2020-04-16,Springfield-Branson National Airport,1,15
+2020-04-16,Trader Joe,1,16
+2020-04-16,Unitypoint Health,1,17
+2020-04-16,Illinois Department Of Public Health,2,1
+2020-04-20,Facebook,1,5
+2020-04-20,Health Department,2,1
+2020-04-20,Missouri Department Of Health,2,2
+2020-04-20,Rust Communications,2,3
+2020-04-20,Senior Services,2,4
+2020-04-22,Cnn,1,1
+2020-04-22,Health Administration,1,2
+2020-04-22,New York Times,1,3
+2020-04-22,United States,1,4
+2020-04-23,Cnn,1,1
+2020-04-23,Health Administration,1,2
+2020-04-23,New York Times,1,3
+2020-04-23,United States,1,4
+2020-04-24,Census Bureau,1,1
+2020-04-24,Community Services,1,2
+2020-04-24,Department Of Health,1,3
+2020-04-24,Facebook,1,4
+2020-04-24,Greater Manchester Chamber,1,5
+2020-04-24,Hampshire Fiscal Policy Institute,1,6
+2020-04-24,Health On,1,7
+2020-04-24,Human Services,1,8
+2020-04-24,Iowa Workforce Development,1,9
+2020-04-24,Johns Hopkins University,1,10
+2020-04-24,Manchester Public Health,1,11
+2020-04-24,Manorcare Health Services,1,12
+2020-04-24,Nashua Division Of Public Health,1,13
+2020-04-24,National Guard,1,14
+2020-04-24,Nomi Health,1,15
+2020-04-24,Test Iowa Initiative,1,16
+2020-04-24,Turney Center,1,17
+2020-04-25,Nan,1,1
+2020-04-26,Office Of The Attorney,1,1
+2020-04-26,Senate Minority Leader John Rizzo,1,2
+2020-04-27,Catholic Diocese Of Evansville Sarto Retreat Center,1,4
+2020-04-27,City Council,1,5
+2020-04-27,City Council Attorney Joshua Claybourn,1,6
+2020-04-27,Civic Center,1,7
+2020-04-27,Emergency Solutions Grant,1,8
+2020-04-27,Evansville City Council,1,9
+2020-04-27,Evansville Department Of Metropolitan Development,1,10
+2020-04-27,Indiana Small Business Development Center Evansville,1,11
+2020-04-27,Indiana State Department Of Health,1,12
+2020-04-27,Office Of The Attorney,1,13
+2020-04-27,Old National Events Plaza,1,14
+2020-04-27,Senate Minority Leader John Rizzo,1,15
+2020-04-27,United Caring Service,1,16
+2020-04-27,Ywca,1,17
+2020-04-27,Awood Center,2,1
+2020-04-27,Facebook,2,2
+2020-04-27,Nan,2,3
+2020-04-28,Associated Press,1,1
+2020-04-28,Health Department,1,2
+2020-04-28,Minnesota Department Of Corrections,1,3
+2020-04-28,Mississippi Justice Institute,1,4
+2020-04-28,Nan,1,5
+2020-04-28,Olive Branch,1,6
+2020-04-29,Associated Press,1,4
+2020-04-29,Awood Center,1,5
+2020-04-29,Ball Brothers Foundation In Muncie,1,6
+2020-04-29,Community Foundation,1,7
+2020-04-29,Community Foundation Of Noble,1,8
+2020-04-29,Community Foundation Of Noble County,1,9
+2020-04-29,Disaster Response Fund,1,10
+2020-04-29,Emergency Management Agency,1,11
+2020-04-29,Facebook,1,12
+2020-04-29,Indiana Philanthropy Alliance,1,13
+2020-04-29,Nan,1,14
+2020-04-29,Occupational Health,1,15
+2020-04-29,Safety Administration,1,16
+2020-04-29,Walmart,1,17
+2020-04-29,Health Department,2,1
+2020-04-29,Mississippi Justice Institute,2,2
+2020-04-29,Olive Branch,2,3
+2020-04-30,Awood Center,1,1
+2020-04-30,City Council,1,2
+2020-04-30,Fedex,1,3
+2020-04-30,Health Department Nita Ludwig,1,4
+2020-04-30,International Worker Day,1,5
+2020-04-30,Tyson Foods,1,6
+2020-04-30,Tyson Foods Inc,1,7
+2020-04-30,Walmart,1,8
+2020-04-30,Whole Foods,1,9
+2020-05-01,Anne Catholic Church,1,2
+2020-05-01,Arkansas Department Of Health,1,3
+2020-05-01,Centers For Disease,1,4
+2020-05-01,Department Store Union,1,5
+2020-05-01,Genesis Health System,1,6
+2020-05-01,Health Department Nita Ludwig,1,7
+2020-05-01,Illinois Department Of Public Health,1,8
+2020-05-01,Iowa Department Of Public Health,1,9
+2020-05-01,Michael Catholic Church,1,10
+2020-05-01,Mississippi Department Of Health,1,11
+2020-05-01,Rock Island Health Department,1,12
+2020-05-01,Sanderson Farms,1,13
+2020-05-01,Unitypoint Health,1,14
+2020-05-01,White House,1,15
+2020-05-01,Tyson Foods,2,1
+2020-05-02,Blackburn Correctional Center,1,1
+2020-05-02,Daughter Of Charity Sr,1,2
+2020-05-02,Daughters Of Charity,1,3
+2020-05-02,Dole Food Company,1,4
+2020-05-02,Lexington Diocese,1,5
+2020-05-02,Mississippi Department Of Corrections,1,6
+2020-05-02,Rockville Centre,1,7
+2020-05-02,White House,1,8
+2020-05-03,Broadband Development,1,12
+2020-05-03,Community Development,1,13
+2020-05-03,Department For Economic,1,14
+2020-05-03,Gascosage Electric Cooperative In Phelps,1,15
+2020-05-03,Missouri Broadband Grant Program,1,16
+2020-05-03,Office Of Economic,1,17
+2020-05-03,Semo Electric Cooperative In Sikeston,1,18
+2020-05-03,United States Department Of Agriculture,1,19
+2020-05-03,White House,1,20
+2020-05-03,Augustana College,3,1
+2020-05-03,Bettendorf High School,3,2
+2020-05-03,Ceos Of Genesis Health System,3,3
+2020-05-03,Davenport School Board,3,4
+2020-05-03,Disaster Recovery Fund,3,5
+2020-05-03,Genesis Health System In Davenport,3,6
+2020-05-03,Illinois Department Of Public Health,3,7
+2020-05-03,Iowa Arts Culture Emergency Relief Fund,3,8
+2020-05-03,John Deere Seeding Group,3,9
+2020-05-03,Unitypoint Health,3,10
+2020-05-03,University Of Iowa,3,11
+2020-05-04,Dole Food Company,1,12
+2020-05-04,Mcdonald,1,13
+2020-05-04,Paycheck Protection Program,1,14
+2020-05-04,Waffle House,1,15
+2020-05-04,Your Taxi Inc,1,16
+2020-05-04,Augustana College,3,1
+2020-05-04,Bettendorf High School,3,2
+2020-05-04,Ceos Of Genesis Health System,3,3
+2020-05-04,Davenport School Board,3,4
+2020-05-04,Disaster Recovery Fund,3,5
+2020-05-04,Genesis Health System In Davenport,3,6
+2020-05-04,Illinois Department Of Public Health,3,7
+2020-05-04,Iowa Arts Culture Emergency Relief Fund,3,8
+2020-05-04,John Deere Seeding Group,3,9
+2020-05-04,Unitypoint Health,3,10
+2020-05-04,University Of Iowa,3,11
+2020-05-05,Iowa Department Of Public Health,1,1
+2020-05-06,Cargill,1,1
+2020-05-06,Centers For Disease,1,2
+2020-05-06,Color Corporation On,1,3
+2020-05-06,Dakota Farmers Union,1,4
+2020-05-06,Indiana National Guard Armories,1,5
+2020-05-06,Justice Department,1,6
+2020-05-06,Justice Department On,1,7
+2020-05-06,Minnesota Senate Majority Leader Paul Gazelka,1,8
+2020-05-06,Nan,1,9
+2020-05-06,National Beef,1,10
+2020-05-06,Tyson Foods,1,11
+2020-05-07,Missouri Department Of Health,1,1
+2020-05-07,Missouri Department Of Labor,1,2
+2020-05-07,Nan,1,3
+2020-05-07,Senior Services,1,4
+2020-05-07,Southeast Correctional Center,1,5
+2020-05-07,Wendy,1,6
+2020-05-08,Iowa Department Of Public Health,1,1
+2020-05-09,Booths,1,1
+2020-05-09,Centers For Disease,1,2
+2020-05-09,Corrections Community Notification Coordinator Brad Vandervegt,1,3
+2020-05-09,Eastern Iowa Community Bond,1,4
+2020-05-09,Facebook,1,5
+2020-05-09,First Presbyterian Church,1,6
+2020-05-09,Georgetown Community Hospital,1,7
+2020-05-09,Indiana State Department Of Health,1,8
+2020-05-09,Minnesota Department Of Corrections,1,9
+2020-05-09,Schneck Medical Center,1,10
+2020-05-09,Seymour Christian Church,1,11
+2020-05-09,Seymour High School,1,12
+2020-05-09,Youtube,1,13
+2020-05-10,Harvard Global Health Institute,1,1
+2020-05-10,United States,1,2
+2020-05-10,White House,1,3
+2020-05-10,World Health Organization,1,4
+2020-05-12,Illinois Department Of Public Health,1,2
+2020-05-12,Louis Park City Council,1,3
+2020-05-12,Minnesota Department Of Health,1,4
+2020-05-12,Nan,1,5
+2020-05-12,Thompson Center,1,6
+2020-05-12,Facebook,2,1
+2020-05-13,Facebook,1,1
+2020-05-13,Louis Park City Council,1,2
+2020-05-13,Minnesota Department Of Health,1,3
+2020-05-13,Young,1,4
+2020-05-14,Davenport City Council,1,1
+2020-05-14,Nan,1,2
+2020-05-16,Department Of Commerce,1,1
+2020-05-18,Census Bureau,1,3
+2020-05-18,Iowa Complete Count Committee On,1,4
+2020-05-18,Minnesota Department Of Health On,2,1
+2020-05-18,Upper Midwest Law Center,2,2
+2020-05-19,Census Bureau,1,3
+2020-05-19,Iowa Complete Count Committee On,1,4
+2020-05-19,Upper Midwest Law Center,2,2
+2020-05-19,Minnesota Department Of Health On,5,1
+2020-05-23,Department Of Health,1,1
+2020-05-24,Brennan Center,1,1
+2020-05-24,Election Reform Program,1,2
+2020-05-24,Facebook,1,3
+2020-05-24,Morgan,1,4
+2020-05-24,Tennessee Tech University,1,5

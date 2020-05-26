@@ -1,0 +1,441 @@
+date,organization,count,rn
+2020-03-03,Alexius Medical Center,1,1
+2020-03-03,Community Hospital,1,2
+2020-03-03,Huntley High School,1,3
+2020-03-03,Illinois Department Of Public Health,1,4
+2020-03-03,Jetblue,1,5
+2020-03-03,University Of Kansas,1,6
+2020-03-04,Clorox,3,1
+2020-03-04,Harvard School District,3,2
+2020-03-04,Health Department,3,3
+2020-03-04,Illinois Department Of Public Health,3,4
+2020-03-04,Regional Office Of Education,3,5
+2020-03-04,While Mchenry High School District,3,6
+2020-03-04,Woodstock School District,3,7
+2020-03-10,Centers For Disease,1,1
+2020-03-10,Illinois Department Of Public Health,1,2
+2020-03-10,Public Health,1,3
+2020-03-11,Illinois Department Of Corrections,1,3
+2020-03-11,Illinois Emergency Management Agency,1,4
+2020-03-11,John Howard Association,1,5
+2020-03-11,Public Health,1,6
+2020-03-11,Centers For Disease,2,2
+2020-03-11,Illinois Department Of Public Health,3,1
+2020-03-12,Adler University,1,1
+2020-03-12,Bernard Zell Anshe Emet Day School,1,2
+2020-03-12,Depaul University,1,3
+2020-03-12,Dundee-Crown High School,1,4
+2020-03-12,Gary Comer College Prep Middle School,1,5
+2020-03-12,Illinois Department Of Public Health,1,6
+2020-03-12,Illinois State University,1,7
+2020-03-12,Loyola University,1,8
+2020-03-12,Northeastern Illinois University,1,9
+2020-03-12,Northwestern University In Evanston,1,10
+2020-03-12,Perry Elementary School In Carpentersville,1,11
+2020-03-12,Spring Semester For The College Of Law,1,12
+2020-03-12,University Of Chicago,1,13
+2020-03-12,University Of Illinois,1,14
+2020-03-12,Vaughn Occupational High School,1,15
+2020-03-13,Adamson,1,1
+2020-03-13,Illinois Department Of Public Health,1,2
+2020-03-13,Public Health Administrator,1,3
+2020-03-16,Allendale Inc,1,1
+2020-03-16,Carbon Green Energy,1,2
+2020-03-16,Monsanto,1,3
+2020-03-16,Nan,1,4
+2020-03-17,Centers For Disease,1,6
+2020-03-17,Illinois Department Of Public Health,1,7
+2020-03-17,Mchenry Police Department,1,8
+2020-03-17,World Health Organization,1,9
+2020-03-17,Joseph Church,2,4
+2020-03-17,Roden Library,2,5
+2020-03-17,Associated Press,4,3
+2020-03-17,White House,8,2
+2020-03-17,Supreme Court,10,1
+2020-03-18,Associated Press,1,1
+2020-03-18,Centers For Disease,1,2
+2020-03-18,City Council,1,3
+2020-03-18,City Council Members,1,4
+2020-03-18,Cnn,1,5
+2020-03-18,Facebook,1,6
+2020-03-18,Illinois Department Of Public Health,1,7
+2020-03-18,Illinois Emergency Management Agency,1,8
+2020-03-18,Nan,1,9
+2020-03-18,Public Health,1,10
+2020-03-18,University Of Virginia,1,11
+2020-03-18,Woodstock Public Library,1,12
+2020-03-18,Woodstock Recreation Center,1,13
+2020-03-18,Woodstock Recreation Department,1,14
+2020-03-20,Clinical Professional Counselor For Samaritan Counseling Center,1,4
+2020-03-20,Depression Association Of America,1,5
+2020-03-20,Mental Health America,1,6
+2020-03-20,Owner Of The Center,1,7
+2020-03-20,Samaritan Counseling Center,1,8
+2020-03-20,Therapeutic Services,1,9
+2020-03-20,Facebook,2,1
+2020-03-20,Hearthstone Early Learning Center,2,2
+2020-03-20,Illinois Department Of Human Services,2,3
+2020-03-22,Hills Chamber,1,1
+2020-03-22,Illinois Retail Merchants Association,1,2
+2020-03-23,Centers For Disease,1,1
+2020-03-23,Depression Association Of America,1,2
+2020-03-23,First National Bank,1,3
+2020-03-23,Home State Bank,1,4
+2020-03-23,Illinois Department Of Public Health,1,5
+2020-03-23,Mental Health America,1,6
+2020-03-23,Police Department,1,7
+2020-03-23,Records Division,1,8
+2020-03-23,Samaritan Counseling Center,1,9
+2020-03-23,Therapeutic Services,1,10
+2020-03-23,Village Community Development,1,11
+2020-03-25,American Academy Of Dermatology,1,1
+2020-03-25,American College Of Rheumatology,1,2
+2020-03-25,Arthritis Foundation,1,3
+2020-03-25,Illinois Department Of Financial,1,4
+2020-03-25,Illinois Pharmacists Association,1,5
+2020-03-25,Lupus Foundation Of America,1,6
+2020-03-25,Meijer,1,7
+2020-03-25,Morris,1,8
+2020-03-25,National Institute Of Allergy,1,9
+2020-03-25,Republican Party,1,10
+2020-03-25,Walmart,1,11
+2020-03-25,White House,1,12
+2020-03-27,Depression Association Of America,1,1
+2020-03-27,Mental Health America,1,2
+2020-03-27,Samaritan Counseling Center,1,3
+2020-03-27,Therapeutic Services,1,4
+2020-03-28,Attorney Office,1,1
+2020-03-28,Centers For Disease,1,2
+2020-03-28,Clorox,1,3
+2020-03-28,Illinois Department Of Health,1,4
+2020-03-28,Illinois Department Of Public Health On,1,5
+2020-03-28,Illinois Sheriff Association,1,6
+2020-03-29,Goldman Associates,2,1
+2020-03-29,Public Health Administrator Melissa Adamson,2,2
+2020-03-29,Public Health Nursing,2,3
+2020-03-30,Cornell Catholic Community,1,4
+2020-03-30,Cornell University,1,5
+2020-03-30,Diocese Of Rochester,1,6
+2020-03-30,Illinois Department Of Health,1,7
+2020-03-30,Ithaca College,1,8
+2020-03-30,Ivy League,1,9
+2020-03-30,National Institute Of Allergy,1,10
+2020-03-30,Public Health Administrator Melissa Adamson,1,11
+2020-03-30,United States,1,12
+2020-03-30,White House,1,13
+2020-03-30,World Trade Center,1,14
+2020-03-30,American Civil Liberties Union,2,2
+2020-03-30,Dakota Farmers Union,2,3
+2020-03-30,Veterans Administration Hospital In Fargo,3,1
+2020-03-31,American Civil Liberties Union,1,1
+2020-03-31,Dakota Farmers Union,1,2
+2020-03-31,Illinois Department Of Public Health,1,3
+2020-03-31,Veterans Administration Hospital In Fargo,1,4
+2020-04-01,Adamson,1,1
+2020-04-01,Boone County Public Health Administrator Amanda Mehl,1,2
+2020-04-01,Chateau Nursing Rehabilitation Center,1,3
+2020-04-01,Facebook,1,4
+2020-04-01,Health Department,1,5
+2020-04-01,Illinois Department Of Public Health,1,6
+2020-04-01,Northshore University Health System,1,7
+2020-04-01,Ogle County Public Health Administrator Kyle Auman,1,8
+2020-04-01,Walgreens,1,9
+2020-04-02,Center Mchenry,1,1
+2020-04-02,Centers For Disease,1,2
+2020-04-02,Emergency Management Agency,1,3
+2020-04-02,Fox Waterway Agency,1,4
+2020-04-02,Illinois Air National Guard,1,5
+2020-04-02,Illinois Department Of Employment Security,1,6
+2020-04-02,Illinois Department Of Public Health,1,7
+2020-04-02,Labor Department,1,8
+2020-04-02,Metrosouth Health Center,1,9
+2020-04-02,Us Army Corps Of Engineers,1,10
+2020-04-03,Community Development Block,1,2
+2020-04-03,Department Of Housing,1,3
+2020-04-03,Emergency Solutions,1,4
+2020-04-03,Emergency Solutions Grant,1,5
+2020-04-03,Revenue Services,1,6
+2020-04-03,Small Business Association,1,7
+2020-04-03,Community Development Block Grant,2,1
+2020-04-04,Durham School Services,1,1
+2020-04-05,Center Mchenry,1,1
+2020-04-05,Columbus High School,1,2
+2020-04-05,Don Bosco High School,1,3
+2020-04-05,Sears Holding Corp,1,4
+2020-04-05,Singlespeed Brewing Co,1,5
+2020-04-08,Nan,1,1
+2020-04-09,Nan,1,6
+2020-04-09,Cnn,2,1
+2020-04-09,Hills Police,2,2
+2020-04-09,Illinois Department Of Health,2,3
+2020-04-09,Mchenry Police,2,4
+2020-04-09,York Police Department Officers,2,5
+2020-04-10,Illinois Department Of Public Health,1,1
+2020-04-10,Illinois Sheriff Association,1,2
+2020-04-10,Illinois State Police,1,3
+2020-04-12,Center Mchenry,1,1
+2020-04-12,Cnn,1,2
+2020-04-12,Illinois Department Of Public Health,1,3
+2020-04-12,York City Police Department,1,4
+2020-04-13,College Of Dupage,1,1
+2020-04-13,Elgin Community College,1,2
+2020-04-13,Family Services,1,3
+2020-04-13,Illinois Department Of Children,1,4
+2020-04-13,Joliet Junior College,1,5
+2020-04-13,Kishwaukee College,1,6
+2020-04-13,Northern Illinois University,1,7
+2020-04-13,Waubonsee Community College,1,8
+2020-04-14,College Of Dupage,1,1
+2020-04-14,Elgin Community College,1,2
+2020-04-14,Joliet Junior College,1,3
+2020-04-14,Kishwaukee College,1,4
+2020-04-14,Northern Illinois University,1,5
+2020-04-14,Waubonsee Community College,1,6
+2020-04-15,Data Center Network,1,3
+2020-04-15,Health Department In Mchenry,1,4
+2020-04-15,Illinois Supreme Court,1,5
+2020-04-15,Mcrae,1,6
+2020-04-15,Office Of The Attorney,1,7
+2020-04-15,Youtube,1,8
+2020-04-15,Health Department,2,1
+2020-04-15,Health Insurance Portability,2,2
+2020-04-16,Associated Press,1,2
+2020-04-16,Calvert County Health Department On,1,3
+2020-04-16,Cnn,1,4
+2020-04-16,Department Of Justice,1,5
+2020-04-16,Emirates,1,6
+2020-04-16,Health Insurance Portability,1,7
+2020-04-16,Nan,1,8
+2020-04-16,New York Times,1,9
+2020-04-16,Temple Baptist Church,1,10
+2020-04-16,White House,1,11
+2020-04-16,Youtube,1,12
+2020-04-16,Health Department,2,1
+2020-04-17,Centers For Disease,1,1
+2020-04-17,Illinois Department Of Public Health,1,2
+2020-04-18,Aurora School District,1,1
+2020-04-18,Charles School District,1,2
+2020-04-18,Chicago School District,1,3
+2020-04-18,Coal City School District,1,4
+2020-04-18,Crystal Lake School District,1,5
+2020-04-18,Geneva School District,1,6
+2020-04-18,Huntley School District,1,7
+2020-04-18,Mchenry School District,1,8
+2020-04-18,Sycamore School District,1,9
+2020-04-20,Allendale Inc,1,2
+2020-04-20,Google,1,3
+2020-04-20,Health Department,1,4
+2020-04-20,Health Ranger,1,5
+2020-04-20,Health Ranger Report As Mike Adams,1,6
+2020-04-20,Health Insurance Portability,2,1
+2020-04-22,Hills Police,1,7
+2020-04-22,Illinois Department Of Public Health,1,8
+2020-04-22,Business Employment Skills Team,2,1
+2020-04-22,Directions Addiction Recovery Services In Mchenry,2,2
+2020-04-22,Facebook,2,3
+2020-04-22,Flawed Foundation,2,4
+2020-04-22,Northern Illinois Recovery Center,2,5
+2020-04-22,Sterling,2,6
+2020-04-23,Allendale Inc,1,1
+2020-04-23,American Civil Liberties Union,1,2
+2020-04-23,Association Of Chiefs Of Police,1,3
+2020-04-23,Detention Center,1,4
+2020-04-23,Google,1,5
+2020-04-23,Health Department,1,6
+2020-04-23,Health Insurance Portability,1,7
+2020-04-23,Illinois Department Of Public Health,1,8
+2020-04-23,National Immigrant Justice Center,1,9
+2020-04-23,Side Coalition Against Racism,1,10
+2020-04-24,Center Mchenry,1,1
+2020-04-24,Centers For Disease,1,2
+2020-04-24,College Of Lake,1,3
+2020-04-24,Departments Of Health,1,4
+2020-04-24,Filenko Department,1,5
+2020-04-24,Health Insurance Portability,1,6
+2020-04-24,Illinois Department Of Public Health,1,7
+2020-04-24,Lucy Flower High School,1,8
+2020-04-24,National Funeral Directors Association In Brookfield,1,9
+2020-04-24,Toyota,1,10
+2020-04-24,United States,1,11
+2020-04-24,Walter Reed National Military Medical Center,1,12
+2020-04-25,American Civil Liberties Union,1,5
+2020-04-25,Department Of Global Health At Emory University,1,6
+2020-04-25,Health Service Corps,1,7
+2020-04-25,Illinois Department Of Commerce Economic Opportunity,1,8
+2020-04-25,Illinois Department Of Correction,1,9
+2020-04-25,Illinois Department Of Public Health,1,10
+2020-04-25,Infectious Disease Society Of America On,1,11
+2020-04-25,Information Center,1,12
+2020-04-25,Jerome Combs Detention Center,1,13
+2020-04-25,Justice Foundation,1,14
+2020-04-25,Nan,1,15
+2020-04-25,National Immigrant Justice Center,1,16
+2020-04-25,Sidley Austin,1,17
+2020-04-25,Twitter,1,18
+2020-04-25,Uptown People Law Center,1,19
+2020-04-25,Illinois Department Of Commerce Economic,2,4
+2020-04-25,Best Western,3,1
+2020-04-25,Center Mchenry,3,2
+2020-04-25,Hospitality Emergency Grant Program,3,3
+2020-04-26,American Civil Liberties Union,1,1
+2020-04-26,Department Of Global Health At Emory University,1,2
+2020-04-26,Detention Center,1,3
+2020-04-26,Health Service Corps,1,4
+2020-04-26,Illinois Department Of Correction,1,5
+2020-04-26,Illinois Department Of Public Health,1,6
+2020-04-26,Infectious Disease Society Of America On,1,7
+2020-04-26,Information Center,1,8
+2020-04-26,Jerome Combs Detention Center,1,9
+2020-04-26,Justice Foundation,1,10
+2020-04-26,National Immigrant Justice Center,1,11
+2020-04-26,Prairieland Detention Center,1,12
+2020-04-26,Sidley Austin,1,13
+2020-04-26,Uptown People Law Center,1,14
+2020-04-28,Circuit Clerk Of The Court,1,1
+2020-04-28,Illinois Supreme Court Order,1,2
+2020-04-28,Judges In Supreme Court Order,1,3
+2020-04-28,Judicial Center,1,4
+2020-04-28,Traffic Safety School,1,5
+2020-04-29,Bureau Of Economic Analysis,1,3
+2020-04-29,Centers For Disease,1,4
+2020-04-29,Central Drug Task,1,5
+2020-04-29,Chippewa Valley Regional Computer Forensic Lab,1,6
+2020-04-29,City Council,1,7
+2020-04-29,Council Bluffs,1,8
+2020-04-29,Council Of Economic Advisors,1,9
+2020-04-29,Department Of Agriculture,1,10
+2020-04-29,Department Of Justice Division Of Criminal Investigation,1,11
+2020-04-29,Department Of Revenue,1,12
+2020-04-29,Department Of Revenue As Nestle,1,13
+2020-04-29,Emory University School Of Medicine,1,14
+2020-04-29,Enforcement Committee,1,15
+2020-04-29,Freedom Movement United States,1,16
+2020-04-29,Interagency Labor Committee For Monitoring,1,17
+2020-04-29,Japan Medical Association,1,18
+2020-04-29,Johns Hopkins University,1,19
+2020-04-29,Nestle,1,20
+2020-04-29,Oval Office,1,21
+2020-04-29,Robert Koch Institute,1,22
+2020-04-29,Times Union,1,23
+2020-04-29,Trump Administration,1,24
+2020-04-29,University Of Nebraska Medical Center,1,25
+2020-04-29,Walmart,1,26
+2020-04-29,Washington Post,1,27
+2020-04-29,White House,1,28
+2020-04-29,Wisconsin Tax Appeals Commission,1,29
+2020-04-29,Yahoo,1,30
+2020-04-29,Youtube,1,31
+2020-04-29,Facebook,2,1
+2020-04-29,United States,2,2
+2020-05-01,Center Mchenry,1,1
+2020-05-01,Illinois Department Of Natural Resources,1,2
+2020-05-01,National Weather Service,1,3
+2020-05-01,United States,1,4
+2020-05-03,Edward-Elmhurst Health,1,1
+2020-05-03,Illinois Department Of Public Health,1,2
+2020-05-03,Morris Hospital Healthcare Centers,1,3
+2020-05-03,Sterling,1,4
+2020-05-05,Fox Waterway Agency,1,1
+2020-05-05,Greenbelt Cultural Center,1,2
+2020-05-05,Il Police In Zion,1,3
+2020-05-05,Illinois Department Of Commerce,1,4
+2020-05-05,Illinois Department Of Public Health,1,5
+2020-05-05,Zion Police,1,6
+2020-05-06,Ali Branch,1,1
+2020-05-06,Bloomingdale,1,2
+2020-05-06,Brendan Namoff Loyola University,1,3
+2020-05-06,Centers For Disease,1,4
+2020-05-06,Community First Medical Center,1,5
+2020-05-06,Facebook,1,6
+2020-05-06,Foley,1,7
+2020-05-06,Franciscan Health,1,8
+2020-05-06,Health Alexian Brothers Medical Center,1,9
+2020-05-06,Health Asthma,1,10
+2020-05-06,Health Care,1,11
+2020-05-06,Howard Brown Health,1,12
+2020-05-06,Illinois Center,1,13
+2020-05-06,Illinois Department Of Public Health,1,14
+2020-05-06,Illinois Nurses Association,1,15
+2020-05-06,Infectious Disease Research,1,16
+2020-05-06,Kelly Ulrich Illinois Nurses Foundation,1,17
+2020-05-06,Lee Schmidt National Nurses United,1,18
+2020-05-06,Lisa Grandsard Illinois Nurses Foundation,1,19
+2020-05-06,Loyola School Of Nursing On,1,20
+2020-05-06,Loyola University,1,21
+2020-05-06,Memorial Health System,1,22
+2020-05-06,National Nurses Week,1,23
+2020-05-06,Nursing Department Of Financial,1,24
+2020-05-06,Proviso East High School In Maywood,1,25
+2020-05-06,Public Health,1,26
+2020-05-06,Rush Medical Center,1,27
+2020-05-06,Rush University Medical Center,1,28
+2020-05-06,Symphony Post Acute Network,1,29
+2020-05-06,Ui Health Hospital,1,30
+2020-05-06,Ui Health Mile Square Health Center,1,31
+2020-05-06,World Health Organization,1,32
+2020-05-11,Business Resource Center,1,1
+2020-05-11,Detroit Free,1,2
+2020-05-11,Detroit Free Press,1,3
+2020-05-11,Governor Office,1,4
+2020-05-11,Illinois Department Of Public Health,1,5
+2020-05-11,Metro Parent Inc,1,6
+2020-05-11,Soul Motor Co,1,7
+2020-05-11,Us Small Business Administration Coronavirus Relief Options,1,8
+2020-05-12,Illinois Department Of Public Health,1,1
+2020-05-12,Robert Wood Johnson Foundation,1,2
+2020-05-13,American Civil Liberties Union,1,10
+2020-05-13,Center Square,1,11
+2020-05-13,Circuit Court Clerk,1,12
+2020-05-13,Department Of Homeland Security,1,13
+2020-05-13,Emergency Medical Service Regions,1,14
+2020-05-13,Illinois Department Of Corrections,1,15
+2020-05-13,Illinois Health Regions,1,16
+2020-05-13,Illinois Municipal League,1,17
+2020-05-13,Board Of Health,2,4
+2020-05-13,Board Of Health On,2,5
+2020-05-13,Committee Of The,2,6
+2020-05-13,Mcherny Co,2,7
+2020-05-13,Public Health Administrator Melissa Adamson,2,8
+2020-05-13,Public Health Nursing,2,9
+2020-05-13,Adamson,3,2
+2020-05-13,Centers For Disease,3,3
+2020-05-13,Illinois Department Of Public Health,6,1
+2020-05-14,Department Properties,1,1
+2020-05-14,Lasalle,1,2
+2020-05-14,Morgan,1,3
+2020-05-14,Morrison,1,4
+2020-05-14,Nan,1,5
+2020-05-14,United States,1,6
+2020-05-15,Centers For Disease,1,2
+2020-05-15,Crossroads Care Center,1,3
+2020-05-15,Fair Oaks Health Care Center,1,4
+2020-05-15,Revere Court,1,5
+2020-05-15,Illinois Department Of Public Health,2,1
+2020-05-16,Centers For Disease,1,1
+2020-05-16,Crossroads Care Center,1,2
+2020-05-16,Fair Oaks Health Care Center,1,3
+2020-05-16,Illinois Department Of Public Health,1,4
+2020-05-16,Revere Court,1,5
+2020-05-18,Nan,1,1
+2020-05-19,American Civil Liberties Union,1,1
+2020-05-19,Facebook,1,2
+2020-05-19,Supreme Court,1,3
+2020-05-19,United States,1,4
+2020-05-19,White House,1,5
+2020-05-22,Associated Press,1,2
+2020-05-22,Cnn,1,3
+2020-05-22,Emergency Management Agency,1,4
+2020-05-22,Illinois Department Of Natural Resources,1,5
+2020-05-22,Illinois Department Of Public Health,1,6
+2020-05-22,Illinois Emergency Management Agency,1,7
+2020-05-22,Illinois Office Of Water Resources,1,8
+2020-05-22,Illinois State Water,1,9
+2020-05-22,National Flood Insurance Program,1,10
+2020-05-22,Nan,2,1
+2020-05-23,Nan,1,1
+2020-05-24,House Rules Committee,1,1
+2020-05-24,Huntley Area Public Library,1,2
+2020-05-24,Public Affairs,1,3
+2020-05-24,Shell,1,4
+2020-05-24,Smithsonian,1,5
+2020-05-24,University Of Illinoi Institute Of Government,1,6

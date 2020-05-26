@@ -1,0 +1,783 @@
+date,organization,count,rn
+2020-02-04,Alliance Defending Freedom,1,1
+2020-02-04,American Express,1,2
+2020-02-04,Clark Atlanta University,1,3
+2020-02-04,College Of Engineering,1,4
+2020-02-04,Delta Air Lines Foundation,1,5
+2020-02-04,Emory University,1,6
+2020-02-04,Georgia Gwinnett College,1,7
+2020-02-04,Georgia Piedmont Technical College,1,8
+2020-02-04,International Chapel Restoration,1,9
+2020-02-04,Kathryn Chenault To Morehouse College,1,10
+2020-02-04,Office Of Experiential,1,11
+2020-02-04,Senate Higher Education,1,12
+2020-02-04,Southern Company,1,13
+2020-02-04,Spelman College,1,14
+2020-02-04,Student Center,1,15
+2020-02-04,Technical College System Of Georgia,1,16
+2020-02-04,University Of Georgia,1,17
+2020-02-04,University System,1,18
+2020-02-04,University System Of Georgia,1,19
+2020-02-18,Alliance Defending Freedom,1,1
+2020-02-18,Bloomberg,1,2
+2020-02-18,Cnn,1,3
+2020-02-18,Colorado Convention Center,1,4
+2020-02-18,Democratic Party,1,5
+2020-02-18,Department Of Justice,1,6
+2020-02-18,Georgia Gwinnett College,1,7
+2020-02-18,Google,1,8
+2020-02-18,Harvard Law School,1,9
+2020-02-18,Justice Department,1,10
+2020-02-18,National Security Adviser Michael Flynn,1,11
+2020-02-18,Nevada State Democratic Party,1,12
+2020-02-18,Oxford Said Business School,1,13
+2020-02-18,United States,1,14
+2020-02-18,Utah Republican Party,1,15
+2020-02-18,White House,1,16
+2020-02-18,World Health Organization,1,17
+2020-02-27,Centers For Disease,1,1
+2020-02-27,Dekalb Emergency Management Agency,1,2
+2020-02-27,Georgia Department Of Education,1,3
+2020-02-27,Georgia Department Of Health,1,4
+2020-02-27,Georgia Department Of Public Health,1,5
+2020-02-27,United States,1,6
+2020-02-29,Cnn,1,1
+2020-02-29,Gwinnett Medical Center,1,2
+2020-02-29,Msnbc,1,3
+2020-02-29,National Institute Of Allergy,1,4
+2020-02-29,United States,1,5
+2020-03-03,American Chemistry Council,1,1
+2020-03-03,Assembly On,1,2
+2020-03-03,Environment Committee,1,3
+2020-03-03,Environmental Protection Division,1,4
+2020-03-03,Georgia Health News,1,5
+2020-03-03,Southern Environmental Law Center,1,6
+2020-03-03,United States,1,7
+2020-03-07,Centers For Disease,1,21
+2020-03-07,Cherokee Medical Center,1,22
+2020-03-07,Costco,1,23
+2020-03-07,Floyd Medical Center,1,24
+2020-03-07,Polk Medical Center,1,25
+2020-03-07,Preparedness Task,1,26
+2020-03-07,Redmond Regional Medical Center,1,27
+2020-03-07,Governor Kemp Office,2,20
+2020-03-07,Nan,3,18
+2020-03-07,Warnermedia Company,3,19
+2020-03-07,Arizona Department Of Public Health,6,3
+2020-03-07,Cnn,6,4
+2020-03-07,Department Of Health,6,5
+2020-03-07,Evergreen Health,6,6
+2020-03-07,Harborview Medical Center,6,7
+2020-03-07,Illinois Department Of Public Health,6,8
+2020-03-07,Madera Community Hospital,6,9
+2020-03-07,Oregon Health Authority,6,10
+2020-03-07,Rush University Medical Center,6,11
+2020-03-07,Southern Nevada Health District,6,12
+2020-03-07,Texas Department Of State Health Services,6,13
+2020-03-07,United States,6,14
+2020-03-07,University Of Nebraska Medical Center,6,15
+2020-03-07,Utah Department Of Health,6,16
+2020-03-07,Wisconsin Department Of Health Services,6,17
+2020-03-07,Department Of Public Health,7,2
+2020-03-07,Georgia Department Of Public Health,10,1
+2020-03-08,Cherokee Medical Center,1,20
+2020-03-08,Costco,1,21
+2020-03-08,District Health,1,22
+2020-03-08,Floyd Medical Center,1,23
+2020-03-08,Governor Kemp Office,1,24
+2020-03-08,Polk Medical Center,1,25
+2020-03-08,Preparedness Task,1,26
+2020-03-08,Redmond Regional Medical Center,1,27
+2020-03-08,Arizona Department Of Public Health,2,4
+2020-03-08,Cnn,2,5
+2020-03-08,Defense Department,2,6
+2020-03-08,Evergreen Health,2,7
+2020-03-08,Florida Department Of Health,2,8
+2020-03-08,Harborview Medical Center,2,9
+2020-03-08,Illinois Department Of Public Health,2,10
+2020-03-08,Madera Community Hospital,2,11
+2020-03-08,Oregon Health Authority,2,12
+2020-03-08,Rush University Medical Center,2,13
+2020-03-08,Southern Nevada Health District,2,14
+2020-03-08,Texas Department Of State Health Services,2,15
+2020-03-08,United States,2,16
+2020-03-08,University Of Nebraska Medical Center,2,17
+2020-03-08,Utah Department Of Health,2,18
+2020-03-08,Wisconsin Department Of Health Services,2,19
+2020-03-08,Department Of Health,3,2
+2020-03-08,Department Of Public Health,3,3
+2020-03-08,Georgia Department Of Public Health,4,1
+2020-03-09,Bear Creek Middle School,1,2
+2020-03-09,Centers For Disease,1,3
+2020-03-09,Creekside High School,1,4
+2020-03-09,Department Of Public Safety,1,5
+2020-03-09,District Health,1,6
+2020-03-09,Dobbins Air Reserve,1,7
+2020-03-09,Dobbins Air Reserve Base In Marietta,1,8
+2020-03-09,Douglas Public Health,1,9
+2020-03-09,Floyd Medical Center,1,10
+2020-03-09,Georgia Army National Guard,1,11
+2020-03-09,Lackland Air Force,1,12
+2020-03-09,Navy Operational Support Center,1,13
+2020-03-09,Redmond Regional Medical Center,1,14
+2020-03-09,United States,1,15
+2020-03-09,Woodland Middle School,1,16
+2020-03-09,White House,2,1
+2020-03-10,Dobbins Air Force,1,1
+2020-03-11,Dobbins Air,1,1
+2020-03-11,Dobbins Air Force,1,2
+2020-03-11,Nan,1,3
+2020-03-12,Board Of Health,1,2
+2020-03-12,Brenau University,1,3
+2020-03-12,Christ Place Church,1,4
+2020-03-12,Compass Prep Academy,1,5
+2020-03-12,Creekside High School,1,6
+2020-03-12,Dekalb Board Of Health,1,7
+2020-03-12,Dekalb Emergency Management Agency,1,8
+2020-03-12,Department Of Health,1,9
+2020-03-12,Episcopal Diocese Of Atlanta,1,10
+2020-03-12,Flowery Branch,1,11
+2020-03-12,Gainesville First Baptist Church,1,12
+2020-03-12,Gainesville First United Methodist Church,1,13
+2020-03-12,Georgia Convention Center,1,14
+2020-03-12,Georgia Department Of Health,1,15
+2020-03-12,Georgia World Congress Center,1,16
+2020-03-12,Grace Episcopal Church,1,17
+2020-03-12,John Paul Ii Catholic Mission,1,18
+2020-03-12,Lakewood Baptist Church,1,19
+2020-03-12,Living Science Academy,1,20
+2020-03-12,Maxwell High School Of Technology,1,21
+2020-03-12,Michael Catholic Church,1,22
+2020-03-12,Other School District Plans For Coronavirus,1,23
+2020-03-12,Prince Of Peace Catholic Church,1,24
+2020-03-12,World Health Organization,1,25
+2020-03-12,Centers For Disease,2,1
+2020-03-13,Centers For Disease,1,1
+2020-03-13,Georgia Department Of Education,1,2
+2020-03-13,Georgia Department Of Public Health,1,3
+2020-03-13,Kennesaw State University,1,4
+2020-03-13,School Meals,1,5
+2020-03-13,Technical College System,1,6
+2020-03-13,Town Center Mall,1,7
+2020-03-13,United States,1,8
+2020-03-13,University System Of Georgia,1,9
+2020-03-14,Abraham Baldwin Agricultural College,1,3
+2020-03-14,Agnes Scott College,1,4
+2020-03-14,Albany State University,1,5
+2020-03-14,Albertsons,1,6
+2020-03-14,Alcova Elementary School,1,7
+2020-03-14,Anderson-Livsey Elementary School,1,8
+2020-03-14,Annistown Elementary School,1,9
+2020-03-14,Arcado Elementary School,1,10
+2020-03-14,Augusta University,1,11
+2020-03-14,Baggett Elementary School,1,12
+2020-03-14,Beaver Ridge Elementary School,1,13
+2020-03-14,Benefield Elementary School,1,14
+2020-03-14,Berkeley Lake Elementary School,1,15
+2020-03-14,Berkmar High School,1,16
+2020-03-14,Berkmar Middle School,1,17
+2020-03-14,Bethesda Elementary School,1,18
+2020-03-14,Briarwood Recreation Center,1,19
+2020-03-14,Britt Elementary School,1,20
+2020-03-14,Cedar Hill Elementary School,1,21
+2020-03-14,Centerville Elementary School,1,22
+2020-03-14,Central Gwinnett High School,1,23
+2020-03-14,Chattahoochee Technical College Campus,1,24
+2020-03-14,Chesney Elementary School,1,25
+2020-03-14,Clayton State University,1,26
+2020-03-14,College Of Coastal Georgia,1,27
+2020-03-14,Columbus State University,1,28
+2020-03-14,Corley Elementary School,1,29
+2020-03-14,Coronavirus School Closings,1,30
+2020-03-14,Dalton State College,1,31
+2020-03-14,Department Of Community Services,1,32
+2020-03-14,Discovery High School,1,33
+2020-03-14,Dobbins Air Force,1,34
+2020-03-14,Duluth High School,1,35
+2020-03-14,Duluth Middle School,1,36
+2020-03-14,E Center,1,37
+2020-03-14,Ferguson Elementary School,1,38
+2020-03-14,Fort Valley State University,1,39
+2020-03-14,Georgia College State University,1,40
+2020-03-14,Georgia Department Of Corrections,1,41
+2020-03-14,Georgia Gwinnett College,1,42
+2020-03-14,Georgia Health Care Association,1,43
+2020-03-14,Georgia Highlands College,1,44
+2020-03-14,Georgia Institute Of Technology,1,45
+2020-03-14,Georgia Senior Living Association,1,46
+2020-03-14,Georgia Southwestern State University,1,47
+2020-03-14,Georgia State College,1,48
+2020-03-14,Georgia State University,1,49
+2020-03-14,Georgia Supreme Court,1,50
+2020-03-14,Emory University,2,1
+2020-03-14,University System Of Georgia,2,2
+2020-03-15,Adairsville Elementary School,1,1
+2020-03-15,Alonzo Crim High School,1,2
+2020-03-15,Banneker High School In College Park,1,3
+2020-03-15,Bunche Middle School,1,4
+2020-03-15,Cities High School,1,5
+2020-03-15,Cloverleaf Elementary School,1,6
+2020-03-15,Coronavirus School Closings,1,7
+2020-03-15,Delta Air Lines,1,8
+2020-03-15,Department Of Public Health,1,9
+2020-03-15,Dobbins Air Reserve Base In Marietta,1,10
+2020-03-15,Douglass High School,1,11
+2020-03-15,Elementary School,1,12
+2020-03-15,Emerson Elementary School,1,13
+2020-03-15,Georgia Department Of Education,1,14
+2020-03-15,Georgia National Guard,1,15
+2020-03-15,Hamilton Crossing Elementary School,1,16
+2020-03-15,Hasty Es Fine Arts Academy,1,17
+2020-03-15,Lake Forest Elementary School In Sandy,1,18
+2020-03-15,Langston Hughes High School In Fairburn,1,19
+2020-03-15,Maranatha Baptist Church,1,20
+2020-03-15,Noon At Canton Housing Authority,1,21
+2020-03-15,Nutrition Services,1,22
+2020-03-15,Oak Grove Es Fine Arts Academy,1,23
+2020-03-15,Phoenix Academy,1,24
+2020-03-15,Publix,1,25
+2020-03-15,School In Alpharetta,1,26
+2020-03-15,School Nutrition,1,27
+2020-03-15,School Nutrition Cruisin Cafe,1,28
+2020-03-15,Technical College System,1,29
+2020-03-15,Twitter,1,30
+2020-03-15,United States,1,31
+2020-03-15,University System Of Georgia,1,32
+2020-03-16,Blackwell,1,2
+2020-03-16,Democratic Party Of Georgia,1,3
+2020-03-16,Democratic Senate,1,4
+2020-03-16,Department Of Public Health,1,5
+2020-03-16,Emergency Management Agency,1,6
+2020-03-16,Georgia Health News,1,7
+2020-03-16,Georgia Supreme Court,1,8
+2020-03-16,Jude The Apostle Catholic Church,1,9
+2020-03-16,National Republican Senatorial Committee,1,10
+2020-03-16,Public Service Commission,1,11
+2020-03-16,Supreme Court,1,12
+2020-03-16,Traffic Center,1,13
+2020-03-16,White House,1,14
+2020-03-16,Twitter,2,1
+2020-03-17,Augusta University,1,2
+2020-03-17,Christ Community Health,1,3
+2020-03-17,Georgia Cyber Center,1,4
+2020-03-17,Society For Human Resources,1,5
+2020-03-17,Spherion Staffing Services In Augusta,1,6
+2020-03-17,Georgia Department Of Labor,2,1
+2020-03-18,First Baptist Church,1,1
+2020-03-18,Google,1,2
+2020-03-18,Nan,1,3
+2020-03-18,United States,1,4
+2020-03-19,Alliance Theatre,1,6
+2020-03-19,American Craft Council Atlanta,1,7
+2020-03-19,Centers For Disease,1,8
+2020-03-19,Emory University,1,9
+2020-03-19,Georgia Center,1,10
+2020-03-19,Georgia Labor Department On,1,11
+2020-03-19,Georgia Restaurant Association,1,12
+2020-03-19,Nan,1,13
+2020-03-19,National Restaurant Association,1,14
+2020-03-19,White House,1,15
+2020-03-19,Woodruff Arts Center,1,16
+2020-03-19,Career Centers,2,2
+2020-03-19,Labor Department,2,3
+2020-03-19,National Employment Law,2,4
+2020-03-19,Training Administration,2,5
+2020-03-19,Georgia Department Of Labor,3,1
+2020-03-20,Clements Middle School,1,1
+2020-03-20,Covington Fire Department,1,2
+2020-03-20,Georgia Department Of Public Health,1,3
+2020-03-20,Health Department,1,4
+2020-03-20,Hitachi,1,5
+2020-03-20,Hitachi Automotive Systems Americas Inc,1,6
+2020-03-21,Academic Enhancement Center,1,1
+2020-03-21,Georgia Department Of Public Health,1,2
+2020-03-21,Georgia Gwinnett College,1,3
+2020-03-22,Nan,1,1
+2020-03-23,Centers For Disease,1,2
+2020-03-23,Georgia Department Of Health,1,3
+2020-03-23,Office On,1,4
+2020-03-23,City Council,2,1
+2020-03-24,Bibb School District,1,12
+2020-03-24,Career Center,1,13
+2020-03-24,Department Of Labor,1,14
+2020-03-24,Online Services,1,15
+2020-03-24,Dobbins Air Reserve,2,7
+2020-03-24,Human Services,2,8
+2020-03-24,Senate District,2,9
+2020-03-24,Victory Fund,2,10
+2020-03-24,Victory Fund On,2,11
+2020-03-24,Georgia National Guard,3,6
+2020-03-24,Associated Press,5,2
+2020-03-24,Department Of Public Health,5,3
+2020-03-24,Department Of Public Health On,5,4
+2020-03-24,Georgia Municipal Association,5,5
+2020-03-24,Georgia Department Of Labor,6,1
+2020-03-25,Dobbins Air Force,1,1
+2020-03-25,Dobbins Air Force Base In Marietta,1,2
+2020-03-25,Dorris,1,3
+2020-03-25,Facebook,1,4
+2020-03-26,Brennan Center,1,4
+2020-03-26,College Park,1,5
+2020-03-26,Community Foundation Of Northeast Georgia,1,6
+2020-03-26,Department Of Public Health,1,7
+2020-03-26,Dobbins Air,1,8
+2020-03-26,Dobbins Air Force,1,9
+2020-03-26,Dobbins Air Force Base In Marietta,1,10
+2020-03-26,Dorris,1,11
+2020-03-26,Facebook,1,12
+2020-03-26,Georgia Department Of Health,1,13
+2020-03-26,Georgia Health News,1,14
+2020-03-26,Georgia Municipal Association On,1,15
+2020-03-26,Georgia Unemployment Insurance Program,1,16
+2020-03-26,Homeland Security Agency,1,17
+2020-03-26,National Vote At Home Institute,1,18
+2020-03-26,Revenue Service,1,19
+2020-03-26,Technical College System Of Georgia,1,20
+2020-03-26,Telemundo,1,21
+2020-03-26,University System Of Georgia,1,22
+2020-03-26,Vote At Home Institute,1,23
+2020-03-26,White House,1,24
+2020-03-26,Wsbtv,1,25
+2020-03-26,Georgia Department Of Labor,2,2
+2020-03-26,School Superintendent Richard Woods,2,3
+2020-03-26,Georgia Department Of Education,3,1
+2020-03-27,Brennan Center,1,4
+2020-03-27,Crestline Hotels,1,5
+2020-03-27,Department Of Labor,1,6
+2020-03-27,Department Of Public Health On,1,7
+2020-03-27,Dobbins Air Reserve,1,8
+2020-03-27,Fedex,1,9
+2020-03-27,Foundation Food Group In Gainesville,1,10
+2020-03-27,Georgia Department Of Public Health,1,11
+2020-03-27,Georgia Municipal Association,1,12
+2020-03-27,Georgia National Guard,1,13
+2020-03-27,Gwinnett Municipal Association,1,14
+2020-03-27,Human Services,1,15
+2020-03-27,Kroger,1,16
+2020-03-27,Labor Department,1,17
+2020-03-27,National Vote At Home Institute,1,18
+2020-03-27,Publix,1,19
+2020-03-27,Sam Club In Marietta,1,20
+2020-03-27,Training Administration,1,21
+2020-03-27,Vote At Home Institute,1,22
+2020-03-27,Winn Dixie,1,23
+2020-03-27,Department Of Public Health,2,1
+2020-03-27,Georgia Department Of Labor,2,2
+2020-03-27,Nan,2,3
+2020-03-28,American Civil Liberties Union,2,1
+2020-03-28,Ga Department Of Corrections,2,2
+2020-03-28,Georgia Department Of Corrections,2,3
+2020-03-28,Governor Office,2,4
+2020-03-30,American Civil Liberties Union Of Georgia,1,1
+2020-03-30,Department Of Community Supervision,1,2
+2020-03-30,Georgia Sheriff Association,1,3
+2020-03-30,Instagram,1,4
+2020-03-30,Southern Center,1,5
+2020-03-31,American Civil Liberties Union Of Georgia,1,1
+2020-03-31,Centers For Disease,1,2
+2020-03-31,Coronavirus Task,1,3
+2020-03-31,Costco,1,4
+2020-03-31,Drug Administration,1,5
+2020-03-31,Georgia Department Of Education,1,6
+2020-03-31,Kroger,1,7
+2020-03-31,Publix,1,8
+2020-03-31,Sam Club,1,9
+2020-03-31,School Superintendent Richard Woods,1,10
+2020-03-31,Technical College System Of Georgia,1,11
+2020-03-31,University System Of Georgia,1,12
+2020-03-31,Walmart,1,13
+2020-03-31,Whole Foods,1,14
+2020-03-31,World Health Organization,1,15
+2020-04-01,Department Of Public Health,1,2
+2020-04-01,First Baptist Church,1,3
+2020-04-01,Georgia Department Of Labor,1,4
+2020-04-01,Georgia Department Of Public Health,1,5
+2020-04-01,Georgia Press Association,1,6
+2020-04-01,Health Department,1,7
+2020-04-01,Maranatha Baptist Church,1,8
+2020-04-01,Neither The Georgia Department Of Health,1,9
+2020-04-01,Nan,2,1
+2020-04-02,American Civil Liberties Union Of Georgia,1,1
+2020-04-02,Andrew Church,1,2
+2020-04-02,Brendan The Navigator Church,1,3
+2020-04-02,Catholic Church,1,4
+2020-04-02,Department Of Community Supervision,1,5
+2020-04-02,Facebook,1,6
+2020-04-02,Flowery Branch,1,7
+2020-04-02,George Church,1,8
+2020-04-02,Georgia Department Of Labor,1,9
+2020-04-02,Georgia Sheriff Association,1,10
+2020-04-02,Holy Family Church,1,11
+2020-04-02,John Neumann Church,1,12
+2020-04-02,John Neumann Regional School,1,13
+2020-04-02,John Neumann School,1,14
+2020-04-02,Pius X Church,1,15
+2020-04-02,Prince Of Peace Church,1,16
+2020-04-02,Southern Center,1,17
+2020-04-02,Stephen The Martyr Church,1,18
+2020-04-03,Backpack Buddy Program,1,2
+2020-04-03,Banks Jackson Food Bank,1,3
+2020-04-03,Centers For Disease,1,4
+2020-04-03,Community Helping Place In Dahlonega,1,5
+2020-04-03,Department Of Public Health,1,6
+2020-04-03,Food Bank,1,7
+2020-04-03,Foundation Board Of Directors,1,8
+2020-04-03,Georgia Department Of Public Health,1,9
+2020-04-03,Georgia Mountain Food Bank,1,10
+2020-04-03,Hamilton Mill United Methodist Church Food Pantry,1,11
+2020-04-03,Lawrenceville Cooperative Ministry,1,12
+2020-04-03,Nan,1,13
+2020-04-03,New York Times,1,14
+2020-04-03,Public Health Emergency,1,15
+2020-04-03,Salvation Army,1,16
+2020-04-03,United States,1,17
+2020-04-03,Vincent De Paul Flowery Branch,1,18
+2020-04-03,World Health Organization,1,19
+2020-04-03,Georgia Department Of Labor,2,1
+2020-04-04,Associated Press,1,2
+2020-04-04,Department Of Labor,1,3
+2020-04-04,Frito Lay,1,4
+2020-04-04,Lilburn Police Department,1,5
+2020-04-04,Paycheck Protection Program,1,6
+2020-04-04,Pepsico,1,7
+2020-04-04,Philips,1,8
+2020-04-04,Pinterest,1,9
+2020-04-04,Revenue Service,1,10
+2020-04-04,Savannah Small Business Assistance Corporation,1,11
+2020-04-04,Taxation Bureau,1,12
+2020-04-04,Treasury Department,1,13
+2020-04-04,Us Department Of Labor,1,14
+2020-04-04,Us Small Business Administration,1,15
+2020-04-04,Walgreens,1,16
+2020-04-04,Walmart,1,17
+2020-04-04,Wells Fargo,1,18
+2020-04-04,White House,1,19
+2020-04-04,Georgia Department Of Labor,2,1
+2020-04-06,Cleveland Academy,1,4
+2020-04-06,Emory University Goizueta Business School,1,5
+2020-04-06,Family Child Care Alliance Of Georgia,1,6
+2020-04-06,Georgia Department Of Early Care,1,7
+2020-04-06,Georgia Early Education Alliance For Ready Students,1,8
+2020-04-06,Georgia Small Business Development Center,1,9
+2020-04-06,Government Affairs,1,10
+2020-04-06,Gwinnett Chamber,1,11
+2020-04-06,Publix,1,12
+2020-04-06,R Street Institute,1,13
+2020-04-06,Twitter,1,14
+2020-04-06,United States,1,15
+2020-04-06,World Health Organization,1,16
+2020-04-06,Young,1,17
+2020-04-06,Department Of Labor,2,1
+2020-04-06,Georgia Department Of Labor,2,2
+2020-04-06,Justice Network,2,3
+2020-04-08,American Community Food Bank,1,1
+2020-04-08,Atlanta Community Food Bank,1,2
+2020-04-08,Backpack Buddy Program,1,3
+2020-04-08,Banks Jackson Food Bank,1,4
+2020-04-08,Centers For Disease,1,5
+2020-04-08,Community Helping Place,1,6
+2020-04-08,Democratic Party,1,7
+2020-04-08,Democratic Party Of Georgia,1,8
+2020-04-08,Federal Reserve,1,9
+2020-04-08,Food Bank,1,10
+2020-04-08,Georgia Mountain Food Bank,1,11
+2020-04-08,Georgia State University,1,12
+2020-04-08,Hamilton Mill United Methodist Church Food Pantry,1,13
+2020-04-08,Lawrenceville Cooperative Ministry,1,14
+2020-04-08,Live Oak Bank,1,15
+2020-04-08,Peach State Bank Trust In Gainesville,1,16
+2020-04-08,Platinum Federal Credit Union In Duluth,1,17
+2020-04-08,Republican Party,1,18
+2020-04-08,Salvation Army,1,19
+2020-04-08,Small Business Administration,1,20
+2020-04-08,Vincent De Paul Flowery Branch,1,21
+2020-04-08,Wells Fargo,1,22
+2020-04-08,White House,1,23
+2020-04-09,Associated Press,1,1
+2020-04-09,Georgia Department Of Labor,1,2
+2020-04-09,Oxfam International,1,3
+2020-04-09,Twitter,1,4
+2020-04-09,United Nations,1,5
+2020-04-10,American Airlines,1,2
+2020-04-10,Association Of Flight Attendants,1,3
+2020-04-10,Central Baptist Church,1,4
+2020-04-10,Facebook,1,5
+2020-04-10,Labor Department,1,6
+2020-04-10,Lumpkin County High School,1,7
+2020-04-10,Small Business Administration Paycheck Protection Program,1,8
+2020-04-10,Georgia Department Of Labor,2,1
+2020-04-11,Association Of Georgia Educators,1,1
+2020-04-11,Georgia Department Of Education,1,2
+2020-04-11,Georgia Department Of Labor,1,3
+2020-04-11,Georgia Department Of Revenue,1,4
+2020-04-11,School Superintendent Richard Woods,1,5
+2020-04-11,Youtube,1,6
+2020-04-13,Backpack Buddy Program,1,1
+2020-04-13,Banks Jackson Food Bank,1,2
+2020-04-13,Community Helping Place,1,3
+2020-04-13,Food Bank,1,4
+2020-04-13,Georgia Mountain Food Bank,1,5
+2020-04-13,Hamilton Mill United Methodist Church Food Pantry,1,6
+2020-04-13,Lawrenceville Cooperative Ministry,1,7
+2020-04-13,Salvation Army,1,8
+2020-04-13,Vincent De Paul Flowery Branch,1,9
+2020-04-14,Asian American Advocacy Fund,1,1
+2020-04-14,Democratic Party,1,2
+2020-04-14,Dustin Inman Society,1,3
+2020-04-15,A Career Center,1,1
+2020-04-15,Georgia Department Of Labor,1,2
+2020-04-15,Nan,1,3
+2020-04-15,Revenue Service,1,4
+2020-04-15,Ui Customer Service,1,5
+2020-04-15,United States,1,6
+2020-04-16,Career Center,1,1
+2020-04-16,Centers For Disease,1,2
+2020-04-16,Department Of Community Health,1,3
+2020-04-16,Department Of Labor,1,4
+2020-04-16,Food Services,1,5
+2020-04-16,Georgia Department Of Labor,1,6
+2020-04-16,Georgia Department Of Public Health,1,7
+2020-04-16,Georgia National Guard,1,8
+2020-04-16,Georgia Public Defender Council,1,9
+2020-04-16,Georgia Supreme Court,1,10
+2020-04-16,Georgia World Congress Center,1,11
+2020-04-16,Health Care,1,12
+2020-04-16,Institute For Health Metrics,1,13
+2020-04-16,Kroger,1,14
+2020-04-16,Online Services,1,15
+2020-04-16,Phoebe Health,1,16
+2020-04-16,Phoebe Putney Health System,1,17
+2020-04-16,Publix,1,18
+2020-04-16,University Of Washington,1,19
+2020-04-17,Associated Press,1,3
+2020-04-17,Georgia Department Of Public Health,1,4
+2020-04-17,Georgia Emergency Management Agency,1,5
+2020-04-17,Nan,1,6
+2020-04-17,Refuge Coffee Co,1,7
+2020-04-17,Southeast Gwinnett Cooperative Ministry,1,8
+2020-04-17,Southeastern Gwinnett Cooperative Ministry,1,9
+2020-04-17,Defamation League,2,1
+2020-04-17,United States,2,2
+2020-04-18,Georgia Department Of Public Health,1,1
+2020-04-18,Instagram,1,2
+2020-04-18,Young,1,3
+2020-04-19,Georgia Department Of Public Health,1,1
+2020-04-19,Nan,1,2
+2020-04-20,Bloomberg,1,1
+2020-04-20,Centers For Disease,1,2
+2020-04-20,Central Ohio Transit Authority,1,3
+2020-04-20,City University Of New York,1,4
+2020-04-20,Cnn,1,5
+2020-04-20,Facebook,1,6
+2020-04-20,Georgia Department Of Public Health,1,7
+2020-04-20,Instagram,1,8
+2020-04-20,Msnbc,1,9
+2020-04-20,Regional Transit Authority,1,10
+2020-04-20,Time Magazine,1,11
+2020-04-20,Transit Union,1,12
+2020-04-20,Transportation Authority,1,13
+2020-04-20,United States,1,14
+2020-04-20,University Of Washington,1,15
+2020-04-20,Washington Metropolitan Area Transit Authority,1,16
+2020-04-20,Young,1,17
+2020-04-21,Georgia Department Of Public Health,1,1
+2020-04-21,Nan,1,2
+2020-04-22,Augusta University,1,2
+2020-04-22,Castellucci Hospitality Group,1,3
+2020-04-22,Department Of Labor,1,4
+2020-04-22,Department Of Public Health,1,5
+2020-04-22,Facebook,1,6
+2020-04-22,Georgia National Guard,1,7
+2020-04-22,Georgia World Congress Center,1,8
+2020-04-22,Hotel Clermont,1,9
+2020-04-22,Infinite Energy Centre In Duluth,1,10
+2020-04-22,Kemp Coronavirus Task,1,11
+2020-04-22,White House,1,12
+2020-04-22,Young,1,13
+2020-04-22,Georgia Department Of Labor,2,1
+2020-04-23,Association County Commissioners Of Georgia,1,2
+2020-04-23,City Council,1,3
+2020-04-23,Georgia Department Of Revenue,1,4
+2020-04-23,Georgia Municipal Association,1,5
+2020-04-23,Georgia State University,1,6
+2020-04-23,Google,1,7
+2020-04-23,Gwinnett Commission,1,8
+2020-04-23,Johns Hopkins University,1,9
+2020-04-23,Labor Department,1,10
+2020-04-23,United States,1,11
+2020-04-23,Georgia Department Of Labor,2,1
+2020-04-24,Associated Press,1,1
+2020-04-24,Georgia Department Of Labor,1,2
+2020-04-24,Johns Hopkins University,1,3
+2020-04-24,United States,1,4
+2020-04-25,Cnn,1,2
+2020-04-25,Georgia Department Of Labor,1,3
+2020-04-25,Labor Department,1,4
+2020-04-25,Lawrenceville Police Department,1,5
+2020-04-25,World Health Organization,1,6
+2020-04-25,Ymca,1,7
+2020-04-25,Department Of Labor,2,1
+2020-04-26,Facebook,1,1
+2020-04-26,National Federal Of Independent Business Georgia,1,2
+2020-04-27,Asian American Advocacy Fund,1,1
+2020-04-27,Atlanta Press Club,1,2
+2020-04-27,Cobb County Republican Women Club,1,3
+2020-04-27,Facebook,1,4
+2020-04-27,Georgia Department Of Labor,1,5
+2020-04-27,Public Service,1,6
+2020-04-28,Georgia National Guard,1,11
+2020-04-28,Cnn,2,1
+2020-04-28,Comedy Central,2,2
+2020-04-28,Department Of Public Health,2,3
+2020-04-28,Georgia Department Of Labor,2,4
+2020-04-28,Human Services,2,5
+2020-04-28,Senate Majority Leader Mitch Mcconnell,2,6
+2020-04-28,Senate Republican,2,7
+2020-04-28,Twitter,2,8
+2020-04-28,White House,2,9
+2020-04-28,World Health Organization,2,10
+2020-04-29,Georgia Department Of Labor,1,1
+2020-04-30,Department Of Labor,1,1
+2020-04-30,Georgia Department Of Community Health,1,2
+2020-04-30,Georgia Department Of Labor,1,3
+2020-04-30,Gwinnett Chamber,1,4
+2020-04-30,Gwinnett Chamber On,1,5
+2020-04-30,Infinite Energy Center,1,6
+2020-04-30,International Horse Park In Rockdale,1,7
+2020-05-01,A Union,1,2
+2020-05-01,Centers For Disease,1,3
+2020-05-01,Department Of Labor,1,4
+2020-05-01,Facebook,1,5
+2020-05-01,Georgia Coalition,1,6
+2020-05-01,Instagram,1,7
+2020-05-01,Paycheck Protection Program,1,8
+2020-05-01,United States,1,9
+2020-05-01,Georgia Department Of Labor,2,1
+2020-05-02,Lilburn Cooperative Ministries,1,1
+2020-05-02,Peach State Federal Credit Union,1,2
+2020-05-03,American Federation Of Teachers,1,3
+2020-05-03,Georgia Department Of Public Health,1,4
+2020-05-03,Nan,1,5
+2020-05-03,Georgia State University,2,1
+2020-05-03,Ibm,2,2
+2020-05-06,Kennesaw State University,1,1
+2020-05-06,New York Times,1,2
+2020-05-07,A Career Center,1,2
+2020-05-07,Aspen Institute Food,1,3
+2020-05-07,Castellucci Hospitality Group,1,4
+2020-05-07,College Park,1,5
+2020-05-07,Dining Bond Initiative,1,6
+2020-05-07,Georgia Association Of Educators,1,7
+2020-05-07,Georgia Restaurant Association,1,8
+2020-05-07,High Museum,1,9
+2020-05-07,James Beard Foundation,1,10
+2020-05-07,Lee Initiative,1,11
+2020-05-07,Miller Union,1,12
+2020-05-07,Restaurant Coalition,1,13
+2020-05-07,Society Program,1,14
+2020-05-07,Stability Network,1,15
+2020-05-07,Ui Customer Service,1,16
+2020-05-07,Yahoo,1,17
+2020-05-07,Georgia Department Of Labor,2,1
+2020-05-08,American Academy Of Pediatrics,1,2
+2020-05-08,Brunswick District Attorney Office,1,3
+2020-05-08,Civil Committee,1,4
+2020-05-08,Georgia Department Of Labor,1,5
+2020-05-08,Georgia Senate,1,6
+2020-05-08,Nan,1,7
+2020-05-08,Senate Judiciary Committee,1,8
+2020-05-08,Georgia Bureau Of Investigation,2,1
+2020-05-09,Cosmo Health Center,1,1
+2020-05-09,Infinite Energy Center,1,2
+2020-05-09,Pan Asian Community Services,1,3
+2020-05-09,Twitter,1,4
+2020-05-09,University Of Maryland,1,5
+2020-05-10,Bogan Park Community Center,1,1
+2020-05-10,Civil Committee,1,2
+2020-05-10,Democratic Party,1,3
+2020-05-10,Facebook,1,4
+2020-05-10,George Pierce Community Recreation Center,1,5
+2020-05-10,Georgia Bureau Of Investigation,1,6
+2020-05-10,Georgia Senate,1,7
+2020-05-10,Senate Judiciary Committee,1,8
+2020-05-10,Stewart Detention Center,1,9
+2020-05-11,Civil Committee,1,1
+2020-05-11,Georgia Bureau Of Investigation,1,2
+2020-05-11,Georgia Conference Of The United Methodist Church,1,3
+2020-05-11,Georgia News Lab,1,4
+2020-05-11,Georgia Senate,1,5
+2020-05-11,House Appropriations Committee,1,6
+2020-05-11,James United Methodist Church,1,7
+2020-05-11,Nan,1,8
+2020-05-11,National Center,1,9
+2020-05-11,Senate Judiciary Committee,1,10
+2020-05-12,Department Of Public Health,1,3
+2020-05-12,District Health,1,4
+2020-05-12,Georgia National Guard,1,5
+2020-05-12,Metro Health District,1,6
+2020-05-12,Senate Judiciary Committee,1,7
+2020-05-12,Georgia Nutritional Services,2,1
+2020-05-12,Georgia Nutritional Services Inc,2,2
+2020-05-13,Aviation Administration,1,7
+2020-05-13,Development Community Development Block Grant,1,8
+2020-05-13,Emergency Solutions Grant,1,9
+2020-05-13,Justice Department Criminal Division,1,10
+2020-05-13,Senate Judiciary Committee,1,11
+2020-05-13,Small Business Association Office Of Inspector,1,12
+2020-05-13,Transit Administration,1,13
+2020-05-13,Tribune Content Agency,1,14
+2020-05-13,Bureau Of Investigation,2,4
+2020-05-13,Federal Bureau Of Investigation,2,5
+2020-05-13,Small Business Administration,2,6
+2020-05-13,Paycheck Protection Program,3,1
+2020-05-13,Paycheck Protection Program Rule,3,2
+2020-05-13,United Community Bank,3,3
+2020-05-14,A Career Center,1,7
+2020-05-14,Associated Press,1,8
+2020-05-14,Federal Reserve,1,9
+2020-05-14,Georgia Department Of Labor,1,10
+2020-05-14,Instagram,1,11
+2020-05-14,Justice Department Criminal Division,1,12
+2020-05-14,New York Times,1,13
+2020-05-14,Small Business Association Office Of Inspector,1,14
+2020-05-14,Ui Customer Service,1,15
+2020-05-14,White House,1,16
+2020-05-14,Bogan Park Community Recreation Center,2,1
+2020-05-14,Department Of Public Health,2,2
+2020-05-14,George Pierce Community Recreation Center,2,3
+2020-05-14,Paycheck Protection Program,2,4
+2020-05-14,Paycheck Protection Program Rule,2,5
+2020-05-14,United Community Bank,2,6
+2020-05-15,Defamation League,1,1
+2020-05-15,Department Of Justice,1,2
+2020-05-15,Georgia Department Of Education,1,3
+2020-05-15,Georgia State University,1,4
+2020-05-15,Georgia Supreme Court,1,5
+2020-05-15,Senate Judiciary Committee,1,6
+2020-05-16,Asian American Action Fund,1,3
+2020-05-16,Berry College,1,4
+2020-05-16,Democratic Party,1,5
+2020-05-16,Elections Office,1,6
+2020-05-16,Georgia Technical College,1,7
+2020-05-16,Gwinnett College,1,8
+2020-05-16,High School Class,1,9
+2020-05-16,Mercer University,1,10
+2020-05-16,Rich For Congress,1,11
+2020-05-16,Senate District,1,12
+2020-05-16,University Of Georgia,1,13
+2020-05-16,University Of Pittsburgh,1,14
+2020-05-16,Bogan Park Community Recreation Center,2,1
+2020-05-16,George Pierce Park Community Recreation Center,2,2
+2020-05-17,Department Of Public Health,1,1
+2020-05-17,Georgia Department Of Public Health,1,2
+2020-05-17,Health Department,1,3
+2020-05-18,Georgia Chamber,1,1
+2020-05-18,House Code Revision Committee,1,2
+2020-05-19,Covington City Council,1,1
+2020-05-19,Gwinnett Communications,1,2
+2020-05-22,Nan,1,1
+2020-05-24,Good Shepherd Presbyterian Church,1,1
+2020-05-24,Lilburn Community,1,2
+2020-05-24,Suwanee Town Center,1,3
+2020-05-25,Emory University,1,1
+2020-05-25,Vermont League,1,2

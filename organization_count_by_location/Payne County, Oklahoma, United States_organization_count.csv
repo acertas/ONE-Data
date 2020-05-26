@@ -1,0 +1,410 @@
+date,organization,count,rn
+2020-02-28,Boeing,1,1
+2020-02-28,College Of Arts,1,2
+2020-02-28,Oklahoma State Department Of Health,1,3
+2020-02-28,Oklahoma State University,1,4
+2020-02-28,School Of Global,1,5
+2020-02-28,United States,1,6
+2020-02-28,University Health Services,1,7
+2020-02-28,University Of Oklahoma,1,8
+2020-02-28,University Of Tennessee Center,1,9
+2020-03-01,Disease Service,1,1
+2020-03-01,Oklahoma State Department Of Health,1,2
+2020-03-01,Public Health,1,3
+2020-03-01,United States,1,4
+2020-03-01,World Health Organization,1,5
+2020-03-11,College Of Arts,1,1
+2020-03-11,Faculty Council,1,2
+2020-03-11,Harvard University,1,3
+2020-03-11,Stanford University,1,4
+2020-03-11,Twitter,1,5
+2020-03-11,United States,1,6
+2020-03-11,University Of Oklahoma,1,7
+2020-03-15,Oklahoma State Department Of Health,1,1
+2020-03-15,Senior Activity Center,1,2
+2020-03-16,Department Of Emergency Management,1,4
+2020-03-16,Department Of Health,1,5
+2020-03-16,United States,1,6
+2020-03-16,Oklahoma State Department Of Health,2,2
+2020-03-16,Oklahoma State University,2,3
+2020-03-16,Centers For Disease,3,1
+2020-03-17,City Council,1,4
+2020-03-17,Council Hearing Room,1,5
+2020-03-17,Department Of Health,1,6
+2020-03-17,Oklahoma Department Of Health,1,7
+2020-03-17,Oklahoma Department Of Health Regional Administrative,1,8
+2020-03-17,Oklahoma Legislature,1,9
+2020-03-17,Youtube,1,10
+2020-03-17,Health Department,2,1
+2020-03-17,Oklahoma Health Department,2,2
+2020-03-17,Oklahoma State Department Of Health,2,3
+2020-03-18,Associated Press,1,2
+2020-03-18,Oklahoma Legislature,1,3
+2020-03-18,Oral Roberts University In Tulsa,1,4
+2020-03-18,Oklahoma State Department Of Health,2,1
+2020-03-19,Braum,1,2
+2020-03-19,Centers For Disease,1,3
+2020-03-19,Emergency Operations Center,1,4
+2020-03-19,Oklahoma Department Of Health,1,5
+2020-03-19,Oklahoma Employment Securities Commission,1,6
+2020-03-19,Oklahoma Health Department On,1,7
+2020-03-19,Oklahoma Hospital Association,1,8
+2020-03-19,Oklahoma Restaurant Association,1,9
+2020-03-19,Facebook,2,1
+2020-03-20,Additional Enid Chamber,1,1
+2020-03-20,Altus Air Force,1,2
+2020-03-20,Centers For Disease,1,3
+2020-03-20,Department Of Education,1,4
+2020-03-20,Department Of Emergency Management,1,5
+2020-03-20,Details On Small Business Administration,1,6
+2020-03-20,Enid Fire Department,1,7
+2020-03-20,Greater Enid Chamber,1,8
+2020-03-20,Health Department,1,9
+2020-03-20,Oklahoma State Department Of Emergency Management,1,10
+2020-03-20,Oklahoma State Department Of Health,1,11
+2020-03-20,Stride Bank Center,1,12
+2020-03-20,United States,1,13
+2020-03-20,University Of Oklahoma Norman,1,14
+2020-03-20,Vance Air Force Base In Enid,1,15
+2020-03-20,Waller Middle School,1,16
+2020-03-21,Additional Enid Chamber,1,1
+2020-03-21,Altus Air Force,1,2
+2020-03-21,Centers For Disease,1,3
+2020-03-21,Department Of Education,1,4
+2020-03-21,Department Of Emergency Management,1,5
+2020-03-21,Details On Small Business Administration,1,6
+2020-03-21,Enid Fire Department,1,7
+2020-03-21,Greater Enid Chamber,1,8
+2020-03-21,Health Department,1,9
+2020-03-21,Laboratory Of Oklahoma,1,10
+2020-03-21,Oklahoma State Department Of Emergency Management,1,11
+2020-03-21,Oklahoma State Department Of Health,1,12
+2020-03-21,Stride Bank Center,1,13
+2020-03-21,United States,1,14
+2020-03-21,University Of Oklahoma Norman,1,15
+2020-03-21,Vance Air Force Base In Enid,1,16
+2020-03-21,Waller Middle School,1,17
+2020-03-22,Additional Enid Chamber,1,1
+2020-03-22,Altus Air Force,1,2
+2020-03-22,Call Center,1,3
+2020-03-22,Centers For Disease,1,4
+2020-03-22,Department Of Education,1,5
+2020-03-22,Department Of Emergency Management,1,6
+2020-03-22,Details On Small Business Administration,1,7
+2020-03-22,Enid Fire Department,1,8
+2020-03-22,Greater Enid Chamber,1,9
+2020-03-22,Health Department,1,10
+2020-03-22,Laboratory Of Oklahoma,1,11
+2020-03-22,Oklahoma State Department Of Emergency Management,1,12
+2020-03-22,Oklahoma State Department Of Health,1,13
+2020-03-22,Stride Bank Center,1,14
+2020-03-22,United States,1,15
+2020-03-22,University Of Oklahoma Norman,1,16
+2020-03-22,Vance Air Force Base In Enid,1,17
+2020-03-22,Waller Middle School,1,18
+2020-03-23,Workforce Development Sean Kouplen,1,26
+2020-03-23,Public Health Laboratory,2,25
+2020-03-23,Additional Enid Chamber,4,2
+2020-03-23,Altus Air Force,4,3
+2020-03-23,Call Center,4,4
+2020-03-23,Department Of Education,4,5
+2020-03-23,Department Of Emergency Management,4,6
+2020-03-23,Details On Small Business Administration,4,7
+2020-03-23,Enid Fire Department,4,8
+2020-03-23,Governor Solution Task,4,9
+2020-03-23,Greater Enid Chamber,4,10
+2020-03-23,Health Department,4,11
+2020-03-23,Laboratory Of Oklahoma,4,12
+2020-03-23,National Guard,4,13
+2020-03-23,Oklahoma Army,4,14
+2020-03-23,Oklahoma Military Department,4,15
+2020-03-23,Oklahoma National Guard,4,16
+2020-03-23,Oklahoma National Guard Regional Training Institute,4,17
+2020-03-23,Oklahoma State Department Of Emergency Management,4,18
+2020-03-23,Oklahoma State Department Of Health,4,19
+2020-03-23,Stride Bank Center,4,20
+2020-03-23,United States,4,21
+2020-03-23,University Of Oklahoma Norman,4,22
+2020-03-23,Vance Air Force Base In Enid,4,23
+2020-03-23,Waller Middle School,4,24
+2020-03-23,Centers For Disease,5,1
+2020-03-24,Additional Enid Chamber,1,2
+2020-03-24,Altus Air Force,1,3
+2020-03-24,Call Center,1,4
+2020-03-24,Centers For Disease,1,5
+2020-03-24,Cushing Middle School,1,6
+2020-03-24,Department Of Education,1,7
+2020-03-24,Department Of Emergency Management,1,8
+2020-03-24,Details On Small Business Administration,1,9
+2020-03-24,Enid Fire Department,1,10
+2020-03-24,Governor Solution Task,1,11
+2020-03-24,Greater Enid Chamber,1,12
+2020-03-24,Health Department,1,13
+2020-03-24,Healthy Minds Positive Initiative,1,14
+2020-03-24,Laboratory Of Oklahoma,1,15
+2020-03-24,National Guard,1,16
+2020-03-24,Oklahoma Army,1,17
+2020-03-24,Oklahoma Military Department,1,18
+2020-03-24,Oklahoma National Guard,1,19
+2020-03-24,Oklahoma National Guard Regional Training Institute,1,20
+2020-03-24,Oklahoma State Department Of Emergency Management,1,21
+2020-03-24,Oklahoma State Department Of Health,1,22
+2020-03-24,Public Health Laboratory,1,23
+2020-03-24,Stride Bank Center,1,24
+2020-03-24,University Of Oklahoma Norman,1,25
+2020-03-24,Vance Air Force Base In Enid,1,26
+2020-03-24,Waller Middle School,1,27
+2020-03-24,White House,1,28
+2020-03-24,Yale Public Library,1,29
+2020-03-24,United States,2,1
+2020-03-25,Additional Enid Chamber,2,1
+2020-03-25,Altus Air Force,2,2
+2020-03-25,Call Center,2,3
+2020-03-25,Centers For Disease,2,4
+2020-03-25,Department Of Education,2,5
+2020-03-25,Department Of Emergency Management,2,6
+2020-03-25,Details On Small Business Administration,2,7
+2020-03-25,Enid Fire Department,2,8
+2020-03-25,Governor Solution Task,2,9
+2020-03-25,Greater Enid Chamber,2,10
+2020-03-25,Health Department,2,11
+2020-03-25,Laboratory Of Oklahoma,2,12
+2020-03-25,National Guard,2,13
+2020-03-25,Oklahoma Army,2,14
+2020-03-25,Oklahoma Military Department,2,15
+2020-03-25,Oklahoma National Guard,2,16
+2020-03-25,Oklahoma National Guard Regional Training Institute,2,17
+2020-03-25,Oklahoma State Department Of Emergency Management,2,18
+2020-03-25,Oklahoma State Department Of Health,2,19
+2020-03-25,Public Health Laboratory,2,20
+2020-03-25,Stride Bank Center,2,21
+2020-03-25,United States,2,22
+2020-03-25,University Of Oklahoma Norman,2,23
+2020-03-25,Vance Air Force Base In Enid,2,24
+2020-03-25,Waller Middle School,2,25
+2020-03-29,Advent Health Foundation,1,1
+2020-03-29,Facebook,1,2
+2020-03-29,Playhouse Development Consultant,1,3
+2020-03-29,Stillwater Medical Center,1,4
+2020-03-31,Facebook,1,3
+2020-03-31,Mcalester Regional Health Center,1,4
+2020-03-31,Oklahoma Society Of Directors Of Volunteer Services,1,5
+2020-03-31,Oklahoma State Department Of Health,1,6
+2020-03-31,Oklahoma State University,1,7
+2020-03-31,Oklahoma Department Of Libraries,2,1
+2020-03-31,Oklahoma Virtual Library,2,2
+2020-04-01,Governor Solution Task,1,3
+2020-04-01,Health Sciences,1,4
+2020-04-01,Medicaid Services,1,5
+2020-04-01,Twitter,1,6
+2020-04-01,United States,1,7
+2020-04-01,University Of Oklahoma,1,8
+2020-04-01,Oklahoma State Department Of Health,2,1
+2020-04-01,Oklahoma State University,2,2
+2020-04-02,Facebook,1,1
+2020-04-02,Mental Health Week,1,2
+2020-04-02,Office Of The Registrar,1,3
+2020-04-02,Student Government Association,1,4
+2020-04-02,Twitter,1,5
+2020-04-03,Division Of Agricultural Sciences,1,1
+2020-04-03,University Health Services,1,2
+2020-04-05,Division Of Agricultural Sciences,1,1
+2020-04-05,University Health Services,1,2
+2020-04-07,Nan,1,1
+2020-04-20,Nan,1,1
+2020-04-22,Aviation Administration Airport Improvement Program,1,1
+2020-04-22,City Council,1,2
+2020-04-22,Meridian Technology Center,1,3
+2020-04-22,Twitter,1,4
+2020-04-24,Cushing City Commission,1,1
+2020-04-24,Edmond City Council,1,2
+2020-04-24,White House,1,3
+2020-04-25,Health Gary Cox,1,1
+2020-04-25,Oklahoma State Department Of Health,1,2
+2020-04-25,Oklahoma State University,1,3
+2020-04-25,Ou Goddard Health Centerwill,1,4
+2020-04-26,Nan,1,1
+2020-04-27,Nan,1,1
+2020-04-29,A World Bank,1,1
+2020-04-29,Adidas,1,2
+2020-04-29,Gates Foundation,1,3
+2020-04-29,Global Ocean,1,4
+2020-04-29,Harvard Business School,1,5
+2020-04-29,International Rescue Committee,1,6
+2020-04-29,Leadership Initiative,1,7
+2020-04-29,World Bank,1,8
+2020-05-01,Edmond Memorial High School,1,1
+2020-05-01,Facebook,1,2
+2020-05-01,Nan,1,3
+2020-05-01,Oklahoma Music Educators Association Conference,1,4
+2020-05-01,Oklahoma State University,1,5
+2020-05-01,Public School Districts,1,6
+2020-05-02,Associated Press,1,1
+2020-05-02,Centers For Disease,1,2
+2020-05-02,Nan,1,3
+2020-05-03,Nan,2,17
+2020-05-03,Yale School Of Medicine,2,18
+2020-05-03,Health Ministry,3,12
+2020-05-03,Mexico Social Security Institute,3,13
+2020-05-03,National Institute Of Allergy,3,14
+2020-05-03,Oval Office Of The White House,3,15
+2020-05-03,White House,3,16
+2020-05-03,Texas Department Of State Health Services,4,11
+2020-05-03,Oklahoma State Department Of Health,5,10
+2020-05-03,Centers For Disease,6,9
+2020-05-03,Cnn,8,8
+2020-05-03,Facebook,11,7
+2020-05-03,Drug Administration,12,1
+2020-05-03,European Union,12,2
+2020-05-03,Gilead Sciences Inc,12,3
+2020-05-03,Johns Hopkins University,12,4
+2020-05-03,Swedish Medical Products Agency,12,5
+2020-05-03,United States,12,6
+2020-05-04,Centers For Disease,1,6
+2020-05-04,Drug Administration,1,7
+2020-05-04,European Union,1,8
+2020-05-04,Gilead Sciences Inc,1,9
+2020-05-04,Health Ministry,1,10
+2020-05-04,Justice Department,1,11
+2020-05-04,Lighthouse Fellowship Church,1,12
+2020-05-04,Mexico Social Security Institute,1,13
+2020-05-04,Nan,1,14
+2020-05-04,National Institute Of Allergy,1,15
+2020-05-04,Oklahoma State Department Of Health,1,16
+2020-05-04,Oval Office Of The White House,1,17
+2020-05-04,Swedish Medical Products Agency,1,18
+2020-05-04,World Trade Center,1,19
+2020-05-04,Yale School Of Medicine,1,20
+2020-05-04,Cnn,2,1
+2020-05-04,Facebook,2,2
+2020-05-04,Johns Hopkins University,2,3
+2020-05-04,United States,2,4
+2020-05-04,White House,2,5
+2020-05-05,Associated Press,1,22
+2020-05-05,Centers For Disease Control,1,23
+2020-05-05,Emory University Global Health,1,24
+2020-05-05,Family Dollar,1,25
+2020-05-05,Harvard University Public Health Professor Joseph Allen,1,26
+2020-05-05,Monmouth University,1,27
+2020-05-05,National Desk Staff,1,28
+2020-05-05,National Mall,1,29
+2020-05-05,Ohio State University,1,30
+2020-05-05,Us Senate Minority Leader Chuck Schumer,1,31
+2020-05-05,Centers For Disease,2,15
+2020-05-05,Department Of Justice,2,16
+2020-05-05,Dodge,2,17
+2020-05-05,National Emergencies,2,18
+2020-05-05,Supreme Court,2,19
+2020-05-05,United States District Court,2,20
+2020-05-05,Yale School Of Medicine,2,21
+2020-05-05,Honeywell,3,11
+2020-05-05,Oxford University Jenner Institute,3,12
+2020-05-05,Pfizer,3,13
+2020-05-05,Us National Institutes Of Health,3,14
+2020-05-05,Drug Administration,4,9
+2020-05-05,Oklahoma State Department Of Health,4,10
+2020-05-05,Johns Hopkins University,7,7
+2020-05-05,New York Times,7,8
+2020-05-05,Institute For Health Metrics,8,5
+2020-05-05,University Of Washington,8,6
+2020-05-05,World Health Organization,10,4
+2020-05-05,White House,11,3
+2020-05-05,United States,13,2
+2020-05-05,Cnn,14,1
+2020-05-06,Associated Press,1,27
+2020-05-06,Us Senate Minority Leader Chuck Schumer Democrats,1,28
+2020-05-06,A Chinese Lab,2,15
+2020-05-06,Global Health Law,2,16
+2020-05-06,Johns Hopkins University,2,17
+2020-05-06,Members Of The Los Angele Fire Department,2,18
+2020-05-06,Monmouth University,2,19
+2020-05-06,Seattle Center,2,20
+2020-05-06,University College London Genetics Institute,2,21
+2020-05-06,University Of Mississippi Medical Center,2,22
+2020-05-06,University Of Washington Institute For Health Metrics,2,23
+2020-05-06,Us Census Bureau,2,24
+2020-05-06,Us National Institutes Of Health,2,25
+2020-05-06,York City Department Of Parks Recreation,2,26
+2020-05-06,Honeywell International,3,13
+2020-05-06,Us Senate Minority Leader Chuck Schumer,3,14
+2020-05-06,Centers For Disease,4,9
+2020-05-06,Cnn,4,10
+2020-05-06,Oxford University Jenner Institute,4,11
+2020-05-06,Pfizer,4,12
+2020-05-06,Facebook,5,7
+2020-05-06,Whitman,5,8
+2020-05-06,New York Times,6,5
+2020-05-06,Oklahoma State University,6,6
+2020-05-06,World Health Organization,8,4
+2020-05-06,Honeywell,14,3
+2020-05-06,United States,15,2
+2020-05-06,White House,23,1
+2020-05-07,Centers For Disease,1,3
+2020-05-07,Democratic Party,1,4
+2020-05-07,Enbridge,1,5
+2020-05-07,Energy Information Administration,1,6
+2020-05-07,Honeywell,1,7
+2020-05-07,New York Times,1,8
+2020-05-07,Nuclear War,1,9
+2020-05-07,World Health Organization,1,10
+2020-05-07,Xi Jinping,1,11
+2020-05-07,White House,2,2
+2020-05-07,United States,3,1
+2020-05-08,American College Of Cardiology,1,13
+2020-05-08,Electronic Privacy Information Center,1,14
+2020-05-08,Facebook,1,15
+2020-05-08,Google,1,16
+2020-05-08,Government Technology Agency Govtech,1,17
+2020-05-08,Health Insurance Portability,1,18
+2020-05-08,Health Security,1,19
+2020-05-08,Johns Hopkins Center,1,20
+2020-05-08,Johns Hopkins University,1,21
+2020-05-08,Kaiser Family Foundation,1,22
+2020-05-08,Oklahoma Supreme Court,1,23
+2020-05-08,Oxford University,1,24
+2020-05-08,Pew Research Center,1,25
+2020-05-08,Rice University Medical Futures Lab,1,26
+2020-05-08,Tech Policy Lab,1,27
+2020-05-08,Twitter,1,28
+2020-05-08,United Kingdom National Health Service,1,29
+2020-05-08,University Of Colorado,1,30
+2020-05-08,White House,1,31
+2020-05-08,United States,2,12
+2020-05-08,Cnn,3,9
+2020-05-08,Members Of The National Nurses United,3,10
+2020-05-08,Michigan State Police,3,11
+2020-05-08,White House Coronavirus Task,6,8
+2020-05-08,Centers For Medicare,7,2
+2020-05-08,Dollar Tree,7,3
+2020-05-08,Family Dollar,7,4
+2020-05-08,Georgetown University,7,5
+2020-05-08,Medicaid Services,7,6
+2020-05-08,University Of Mississippi Medical Center,7,7
+2020-05-08,Centers For Disease,8,1
+2020-05-09,Oklahoma Supreme Court,1,1
+2020-05-09,Twitter,1,2
+2020-05-10,Centers For Disease,1,1
+2020-05-10,Family Dollar,1,2
+2020-05-10,United States,1,3
+2020-05-11,Centers For Disease,1,1
+2020-05-11,Family Dollar,1,2
+2020-05-11,United States,1,3
+2020-05-15,Nan,1,1
+2020-05-18,Centers For Disease,1,1
+2020-05-18,Courtesy National Institutes Of Health,1,2
+2020-05-18,Draft Brewing Company,1,3
+2020-05-18,Draft Brewing Company On,1,4
+2020-05-18,Nan,1,5
+2020-05-18,National Institutes Of Health,1,6
+2020-05-18,United States,1,7
+2020-05-18,University Of San Francisco,1,8
+2020-05-18,World Health Organization,1,9
+2020-05-19,Institute Of Molecular Virology,1,1
+2020-05-19,United States,1,2
+2020-05-19,University Of Minnesota,1,3
+2020-05-22,Centers For Disease,1,1
+2020-05-22,Costco,1,2
+2020-05-22,Instagram,1,3
+2020-05-25,Facebook,1,2
+2020-05-25,New York Times,1,3
+2020-05-25,Johns Hopkins University,2,1

@@ -1,0 +1,883 @@
+date,organization,count,rn
+2020-02-07,Princess Cruises,1,1
+2020-02-08,Associated Press,1,1
+2020-02-08,Facebook,1,2
+2020-02-08,Princess Cruises,1,3
+2020-02-08,Reuters,1,4
+2020-02-08,United States,1,5
+2020-02-08,World Health Organization Health Emergencies Program,1,6
+2020-02-09,Princess Cruises,1,1
+2020-02-09,United States,1,2
+2020-02-09,World Health Organization Health Emergencies Program,1,3
+2020-02-10,China National Health Commission,1,5
+2020-02-10,Cnn,1,6
+2020-02-10,Princess Cruises,1,7
+2020-02-10,World Health Organization Health Emergencies Program,1,8
+2020-02-10,United States,2,4
+2020-02-10,Associated Press,3,1
+2020-02-10,Japanese Health,3,2
+2020-02-10,Rivers Presbyterian Church,3,3
+2020-02-11,China National Health Commission,1,2
+2020-02-11,Cnn,1,3
+2020-02-11,Princess Cruises,1,4
+2020-02-11,World Health Organization Health Emergencies Program,1,5
+2020-02-11,United States,2,1
+2020-02-15,Australian Embassy,1,1
+2020-02-15,Centers For Disease,1,2
+2020-02-15,Reuters,1,3
+2020-02-15,United States,1,4
+2020-02-15,While The World Health Organization,1,5
+2020-02-16,Australian Embassy,2,2
+2020-02-16,Centers For Disease,2,3
+2020-02-16,Reuters,2,4
+2020-02-16,While The World Health Organization,2,5
+2020-02-16,United States,4,1
+2020-02-17,Department Of Health,2,1
+2020-02-17,Florida Department Of Health,2,2
+2020-02-17,Health Report Newsletter,2,3
+2020-02-17,United States,2,4
+2020-02-17,World Health Organization,2,5
+2020-02-19,Florida Department Of Health,1,1
+2020-02-19,United States,1,2
+2020-02-24,Lackland Air Force,1,1
+2020-02-28,Department Of Health Incident Management Team,1,7
+2020-02-28,Florida Department Of Health,1,8
+2020-02-28,Sisters Springs Visitor Center,4,4
+2020-02-28,United States,4,5
+2020-02-28,Walgreens,4,6
+2020-02-28,Centers For Disease,5,1
+2020-02-28,Department Of Health,5,2
+2020-02-28,World Health Organization,5,3
+2020-03-02,Auto Club Group,1,17
+2020-03-02,Centers For Disease Control,1,18
+2020-03-02,Florida Department,1,19
+2020-03-02,Lackland Air Force,1,20
+2020-03-02,World Of Health Organization,1,21
+2020-03-02,Call Center,2,6
+2020-03-02,Contact The Department Of Health,2,7
+2020-03-02,Florida Department Of Health Department,2,8
+2020-03-02,Florida Department Of Health Tampa Branch Laboratory,2,9
+2020-03-02,Health Healthyfla,2,10
+2020-03-02,Life Care Center,2,11
+2020-03-02,Public Health Emergency,2,12
+2020-03-02,Public Health Emergency Of International Concern,2,13
+2020-03-02,Trump Administration,2,14
+2020-03-02,United States,2,15
+2020-03-02,World Health Organization,2,16
+2020-03-02,Office Of The Governor,3,5
+2020-03-02,Centers For Disease Control In Atlanta,4,3
+2020-03-02,Department Of Health,4,4
+2020-03-02,Centers For Disease,9,1
+2020-03-02,Florida Department Of Health,9,2
+2020-03-03,Centers For Disease,1,1
+2020-03-03,Florida Department Of Health,1,2
+2020-03-05,Agency For Health Care Administration,1,3
+2020-03-05,Cnn,1,4
+2020-03-05,Department Of Health Sarasota,1,5
+2020-03-05,Florida Department Of Health,1,6
+2020-03-05,Health Security,1,7
+2020-03-05,Johns Hopkins Center,1,8
+2020-03-05,Public Health,1,9
+2020-03-05,Sarasota County Health Department,1,10
+2020-03-05,Small Business Administration,1,11
+2020-03-05,Starbucks,1,12
+2020-03-05,Suncoast News Network,1,13
+2020-03-05,United States,1,14
+2020-03-05,University Of California,1,15
+2020-03-05,University Of Nebraska Medical Center,1,16
+2020-03-05,White House,1,17
+2020-03-05,World Health Organization,1,18
+2020-03-05,Nan,2,2
+2020-03-05,Centers For Disease,3,1
+2020-03-06,Lackland Air Force,1,5
+2020-03-06,Crystal Springs Shopping Center,4,1
+2020-03-06,Disney,4,2
+2020-03-06,Facebook,4,3
+2020-03-06,Renaissance Center,4,4
+2020-03-07,Florida Department Of Health,1,1
+2020-03-07,Public Health,1,2
+2020-03-07,United States,1,3
+2020-03-10,Dade County School District,1,1
+2020-03-11,Centers For Disease,1,1
+2020-03-11,Emergency Management Agency,1,2
+2020-03-11,Florida Department Of Education,1,3
+2020-03-11,Florida Institute Of Technology,1,4
+2020-03-13,Church Without Walls In Lecanto,1,10
+2020-03-13,Coronavirus Care Team,1,11
+2020-03-13,Diocese Of St,1,12
+2020-03-13,Florida Department Of Education,1,13
+2020-03-13,Nan,1,14
+2020-03-13,Pastoral Care Team,1,15
+2020-03-13,Rivers Presbyterian Church,1,16
+2020-03-13,Club Of Homosassa,2,9
+2020-03-13,City Council,4,2
+2020-03-13,City Elementary School,4,3
+2020-03-13,National Emergency Number Association,4,4
+2020-03-13,Polite Gentlemen Group,4,5
+2020-03-13,Renaissance Center School In Lecanto,4,6
+2020-03-13,Roofing Gutters Inc,4,7
+2020-03-13,Wildlife Conservation Commission,4,8
+2020-03-13,Florida Department Of Health,5,1
+2020-03-14,Centers For Disease,1,1
+2020-03-14,Florida Department Of Education,1,2
+2020-03-14,News Service Of Florida,1,3
+2020-03-14,World Health Organization,1,4
+2020-03-15,Florida Department Of Agriculture,1,24
+2020-03-15,Florida Department Of Health Announces New Positive,1,25
+2020-03-15,Lee Health,1,26
+2020-03-15,Nan,1,27
+2020-03-15,Publix,1,28
+2020-03-15,White House,1,29
+2020-03-15,Facebook,2,22
+2020-03-15,Walmart,2,23
+2020-03-15,Agency For Health Care Administration,3,12
+2020-03-15,Department Of Education,3,13
+2020-03-15,Dobbins Air Reserve,3,14
+2020-03-15,Florida Department Of Corrections,3,15
+2020-03-15,Florida Department Of Education,3,16
+2020-03-15,Health Care Coalitions,3,17
+2020-03-15,Incident Management Team,3,18
+2020-03-15,Laboratory Guidance,3,19
+2020-03-15,Public Health Emergency,3,20
+2020-03-15,Public Health Laboratories,3,21
+2020-03-15,Department Of Health,4,7
+2020-03-15,Florida Division Of Emergency Management,4,8
+2020-03-15,Health Advisory,4,9
+2020-03-15,Metro Cruise Services,4,10
+2020-03-15,Metro Cruise Services At Port Everglades,4,11
+2020-03-15,Call Center,5,3
+2020-03-15,Centers For Disease,5,4
+2020-03-15,Health Department,5,5
+2020-03-15,Human Services,5,6
+2020-03-15,United States,7,2
+2020-03-15,Florida Department Of Health,12,1
+2020-03-16,Bayfront Health,1,22
+2020-03-16,Emergency Department,1,23
+2020-03-16,John Hopkins University,1,24
+2020-03-16,Lee Health,1,25
+2020-03-16,Nan,1,26
+2020-03-16,Us Centers For Disease,1,27
+2020-03-16,White House,1,28
+2020-03-16,Agency For Health Care Administration,3,14
+2020-03-16,Department Of Education,3,15
+2020-03-16,Dobbins Air Reserve,3,16
+2020-03-16,Florida Department Of Corrections,3,17
+2020-03-16,Florida Department Of Education,3,18
+2020-03-16,Health Care Coalitions,3,19
+2020-03-16,Laboratory Guidance,3,20
+2020-03-16,Public Health Laboratories,3,21
+2020-03-16,Call Center,4,6
+2020-03-16,Centers For Disease,4,7
+2020-03-16,Department Of Health,4,8
+2020-03-16,Florida Division Of Emergency Management,4,9
+2020-03-16,Incident Management Team,4,10
+2020-03-16,Metro Cruise Services,4,11
+2020-03-16,Metro Cruise Services At Port Everglades,4,12
+2020-03-16,Public Health Emergency,4,13
+2020-03-16,Health Advisory,5,3
+2020-03-16,Health Department,5,4
+2020-03-16,Human Services,5,5
+2020-03-16,United States,8,2
+2020-03-16,Florida Department Of Health,9,1
+2020-03-17,Agency For Health Care Administration,1,10
+2020-03-17,Call Center,1,11
+2020-03-17,Centers For Disease,1,12
+2020-03-17,Department Of Education,1,13
+2020-03-17,Dobbins Air Reserve,1,14
+2020-03-17,Florida Department Of Corrections,1,15
+2020-03-17,Florida Department Of Education,1,16
+2020-03-17,Florida Division Of Emergency Management,1,17
+2020-03-17,Health Advisory,1,18
+2020-03-17,Health Care Coalitions,1,19
+2020-03-17,Health Department,1,20
+2020-03-17,Human Services,1,21
+2020-03-17,Incident Management Team,1,22
+2020-03-17,Laboratory Guidance,1,23
+2020-03-17,Metro Cruise Services,1,24
+2020-03-17,Metro Cruise Services At Port Everglades,1,25
+2020-03-17,National Charity Foundation,1,26
+2020-03-17,Parliament House In Orlando,1,27
+2020-03-17,Public Health Emergency,1,28
+2020-03-17,Public Health Laboratories,1,29
+2020-03-17,World Health Organization,1,30
+2020-03-17,Centers Of Disease,2,5
+2020-03-17,Community Leadership,2,6
+2020-03-17,United States,2,7
+2020-03-17,University Of Florida,2,8
+2020-03-17,Ymca,2,9
+2020-03-17,Department Of Health,3,3
+2020-03-17,Facebook,3,4
+2020-03-17,Florida Department Of Health,5,1
+2020-03-17,Florida Department Of Health On,5,2
+2020-03-18,Americorps,10,35
+2020-03-18,Apalachicola National Estuarine Research,10,36
+2020-03-18,Clinical Contact Center,10,37
+2020-03-18,Community Corrections,10,38
+2020-03-18,Department Of Management Services,10,39
+2020-03-18,Department Of Revenue,10,40
+2020-03-18,Division Of Real Estate Development,10,41
+2020-03-18,Emergency Operations Center,10,42
+2020-03-18,Florida Department Of Corrections,10,43
+2020-03-18,Florida Department Of Economic Opportunity,10,44
+2020-03-18,Florida Department Of Juvenile Justice,10,45
+2020-03-18,Florida Department Of Law Enforcement,10,46
+2020-03-18,Florida Department Of Management Service,10,47
+2020-03-18,Florida Division Of Elections,10,48
+2020-03-18,Florida National Guard,10,49
+2020-03-18,Florida National Guardsmen,10,50
+2020-03-18,Area Agency For Aging,11,32
+2020-03-18,Health Insurance Needs Of Elders,11,33
+2020-03-18,Office Of Economic Self,11,34
+2020-03-18,Department Of Children,14,28
+2020-03-18,Disability Resource Centers,14,29
+2020-03-18,Office Of Child Welfare,14,30
+2020-03-18,Wellpath Recovery Solutions,14,31
+2020-03-18,Centers For Medicare,15,24
+2020-03-18,Florida Health Care Association,15,25
+2020-03-18,Health Care Coalitions,15,26
+2020-03-18,Reemployment Assistance Service Center,15,27
+2020-03-18,Florida Emergency Operations Center,17,23
+2020-03-18,Agency For Health Care Administration,18,5
+2020-03-18,Agency For Persons,18,6
+2020-03-18,Call Center,18,7
+2020-03-18,Centers For Disease Control,18,8
+2020-03-18,Department Of Economic Opportunity,18,9
+2020-03-18,Department Of Education,18,10
+2020-03-18,Division Of Emergency Management,18,11
+2020-03-18,Duke Energy,18,12
+2020-03-18,Florida Department Of Business Professional Management,18,13
+2020-03-18,Florida Medicaid Program,18,14
+2020-03-18,Health Departments,18,15
+2020-03-18,Incident Management Team,18,16
+2020-03-18,Information Center,18,17
+2020-03-18,Medicaid Services,18,18
+2020-03-18,National Guard,18,19
+2020-03-18,Public Health Emergency,18,20
+2020-03-18,Public Health Laboratories,18,21
+2020-03-18,Us Navy Mercy,18,22
+2020-03-18,Department Of Health,19,4
+2020-03-18,Centers For Disease,21,2
+2020-03-18,Florida Division Of Emergency Management,21,3
+2020-03-18,Florida Department Of Health,23,1
+2020-03-19,Administration For Community Living,1,29
+2020-03-19,Administration On Community Living,1,30
+2020-03-19,Adult Day Care Centers,1,31
+2020-03-19,Cape Coral Police Department,1,32
+2020-03-19,Clinical Contact Center,1,33
+2020-03-19,Department Of Business,1,34
+2020-03-19,Department Of Children,1,35
+2020-03-19,Department Of Veterans Affairs,1,36
+2020-03-19,Disability Resource Center,1,37
+2020-03-19,Florida Association Of Service Providers,1,38
+2020-03-19,Florida Department Of Business,1,39
+2020-03-19,Florida Healthcare Association,1,40
+2020-03-19,Florida South Georgia Veterans Health System,1,41
+2020-03-19,Marco Island Police Department,1,42
+2020-03-19,Napes Police Department,1,43
+2020-03-19,National Association Of State Ombudsman,1,44
+2020-03-19,Office Of Child Welfare,1,45
+2020-03-19,Office Of Economic Self,1,46
+2020-03-19,Term Care Ombudsman Program,1,47
+2020-03-19,Tobacco Division,1,48
+2020-03-19,United States,1,49
+2020-03-19,United States Department Of Agriculture,1,50
+2020-03-19,Agency For Health Care Administration,2,1
+2020-03-19,Agency For Persons,2,2
+2020-03-19,Call Center,2,3
+2020-03-19,Centers For Disease,2,4
+2020-03-19,Centers For Disease Control,2,5
+2020-03-19,Centers For Medicare,2,6
+2020-03-19,Centers For The Catholic Diocese Of St,2,7
+2020-03-19,Department Of Education,2,8
+2020-03-19,Department Of Health,2,9
+2020-03-19,Division Of Emergency Management,2,10
+2020-03-19,Facebook,2,11
+2020-03-19,Florida Department Of Education,2,12
+2020-03-19,Florida Department Of Health,2,13
+2020-03-19,Florida Division Of Emergency Management,2,14
+2020-03-19,Florida Emergency Operations Center,2,15
+2020-03-19,Florida Health Care Association,2,16
+2020-03-19,Florida Medicaid Program,2,17
+2020-03-19,Florida National Guard,2,18
+2020-03-19,Health Care Coalitions,2,19
+2020-03-19,Health Departments,2,20
+2020-03-19,Incident Management Team,2,21
+2020-03-19,Information Center,2,22
+2020-03-19,Medicaid Services,2,23
+2020-03-19,National Guard,2,24
+2020-03-19,Public Health Emergency,2,25
+2020-03-19,Public Health Laboratories,2,26
+2020-03-19,Rivers Christian School In Lecanto,2,27
+2020-03-19,Us Navy Mercy,2,28
+2020-03-20,Behavioral Health,1,4
+2020-03-20,Blake Medical Center,1,5
+2020-03-20,Business Damage Assessment,1,6
+2020-03-20,Condell Medical Center,1,7
+2020-03-20,Department Of Business,1,8
+2020-03-20,Department Of Health,1,9
+2020-03-20,Department Of Juvenile Justice,1,10
+2020-03-20,Emergency Department,1,11
+2020-03-20,Facebook,1,12
+2020-03-20,Florida Department Of Economic Opportunity,1,13
+2020-03-20,Health Department,1,14
+2020-03-20,Information Center,1,15
+2020-03-20,Instagram,1,16
+2020-03-20,Jetblue,1,17
+2020-03-20,Kosin University Gospel Hospital,1,18
+2020-03-20,Lackland Air Force,1,19
+2020-03-20,Loan Program,1,20
+2020-03-20,Nan,1,21
+2020-03-20,News Service Of Florida,1,22
+2020-03-20,Nursing Rehab Center,1,23
+2020-03-20,Seaside Resort Community,1,24
+2020-03-20,United States,1,25
+2020-03-20,Walmart,1,26
+2020-03-20,Citrus High School,2,2
+2020-03-20,Florida Department Of Education,2,3
+2020-03-20,Florida Department Of Health,3,1
+2020-03-21,Circuit Court,1,1
+2020-03-21,Condell Medical Center,1,2
+2020-03-21,Florida Department Of Health,1,3
+2020-03-21,Florida Health Department In Citrus,1,4
+2020-03-21,Florida Supreme Court,1,5
+2020-03-21,Information Center,1,6
+2020-03-21,Instagram,1,7
+2020-03-21,Kosin University Gospel Hospital,1,8
+2020-03-21,Lackland Air Force,1,9
+2020-03-21,United States,1,10
+2020-03-21,University Of Chicago,1,11
+2020-03-22,Condell Medical Center,1,1
+2020-03-22,Florida Department Of Health,1,2
+2020-03-22,Information Center,1,3
+2020-03-22,Instagram,1,4
+2020-03-22,Kosin University Gospel Hospital,1,5
+2020-03-22,Lackland Air Force,1,6
+2020-03-22,United States,1,7
+2020-03-22,University Of Chicago,1,8
+2020-03-23,Condell Medical Center,1,1
+2020-03-23,Florida Department Of Health,1,2
+2020-03-23,Information Center,1,3
+2020-03-23,Instagram,1,4
+2020-03-23,Kosin University Gospel Hospital,1,5
+2020-03-23,Lackland Air Force,1,6
+2020-03-23,Nan,1,7
+2020-03-23,United States,1,8
+2020-03-23,University Of Chicago,1,9
+2020-03-24,A Pilot Program Studying Cannabis Access,1,6
+2020-03-24,Condell Medical Center,1,7
+2020-03-24,Department Of Health,1,8
+2020-03-24,Florida Division Of Emergency Management,1,9
+2020-03-24,Instagram,1,10
+2020-03-24,Kosin University Gospel Hospital,1,11
+2020-03-24,Lackland Air Force,1,12
+2020-03-24,Public Health Emergency,1,13
+2020-03-24,United States,1,14
+2020-03-24,Duke Energy,2,3
+2020-03-24,Kiwanis Club Of Inverness,2,4
+2020-03-24,Withlacoochee Technical College,2,5
+2020-03-24,Florida Department Of Health,3,2
+2020-03-24,Centers For Disease,4,1
+2020-03-25,Advisory Council,1,8
+2020-03-25,Agency For Health Care Administration,1,9
+2020-03-25,Alzheimer Disease Advisory Committee,1,10
+2020-03-25,American Airlines,1,11
+2020-03-25,Army Combat Medic Specialists,1,12
+2020-03-25,Blind Services,1,13
+2020-03-25,Broward Sheriff Office,1,14
+2020-03-25,Call Center,1,15
+2020-03-25,Centers For Disease Control,1,16
+2020-03-25,Centers For Medicare,1,17
+2020-03-25,Clinical Contact Center,1,18
+2020-03-25,Coldwell Banker Investors Realty Of Citrus,1,19
+2020-03-25,Community Based Testing Sites,1,20
+2020-03-25,Community Corrections,1,21
+2020-03-25,Customers Of Supplemental Nutrition Assistance Program,1,22
+2020-03-25,Department Of Children,1,23
+2020-03-25,Department Of Economic Opportunity,1,24
+2020-03-25,Department Of Education,1,25
+2020-03-25,Department Of Revenue,1,26
+2020-03-25,Department Of Veterans Affairs,1,27
+2020-03-25,Division Of Emergency Management,1,28
+2020-03-25,Division Of Human Resource Management,1,29
+2020-03-25,Division Of Real Estate Development,1,30
+2020-03-25,Division Of State Group Insurance,1,31
+2020-03-25,Division Of State Technology,1,32
+2020-03-25,Emergency Operations Center,1,33
+2020-03-25,Evaluation Program,1,34
+2020-03-25,Florida Department Of Education,1,35
+2020-03-25,Florida Department Of Juvenile Justice,1,36
+2020-03-25,Florida Department Of Management Service,1,37
+2020-03-25,Florida Medicaid Program,1,38
+2020-03-25,Florida National Guard,1,39
+2020-03-25,Florida National Guardsmen,1,40
+2020-03-25,Florida Sheriff Association,1,41
+2020-03-25,Florida South Georgia Veterans Health System,1,42
+2020-03-25,Florida Trucking Association,1,43
+2020-03-25,Health Departments,1,44
+2020-03-25,Incident Management Team,1,45
+2020-03-25,Information Center,1,46
+2020-03-25,Instagram,1,47
+2020-03-25,Jetblue United Airlines,1,48
+2020-03-25,Logistics Branch,1,49
+2020-03-25,Logistics Readiness Center,1,50
+2020-03-25,Centers For Disease,2,1
+2020-03-25,Department Of Health,2,2
+2020-03-25,Department Of Homeland Security,2,3
+2020-03-25,Emergency Management Agency,2,4
+2020-03-25,Facebook,2,5
+2020-03-25,Florida Department Of Health,2,6
+2020-03-25,Public Health Emergency,2,7
+2020-03-26,Advisory Council,1,4
+2020-03-26,Agency For Health Care Administration,1,5
+2020-03-26,Alzheimer Disease Advisory Committee,1,6
+2020-03-26,Army Combat Medic Specialists,1,7
+2020-03-26,Blind Services,1,8
+2020-03-26,Broward Sheriff Office,1,9
+2020-03-26,Call Center,1,10
+2020-03-26,Centers For Disease,1,11
+2020-03-26,Centers For Disease Control,1,12
+2020-03-26,Centers For Medicare,1,13
+2020-03-26,Clinical Contact Center,1,14
+2020-03-26,Community Based Testing Sites,1,15
+2020-03-26,Community Corrections,1,16
+2020-03-26,Customers Of Supplemental Nutrition Assistance Program,1,17
+2020-03-26,Department Of Business,1,18
+2020-03-26,Department Of Children,1,19
+2020-03-26,Department Of Economic Opportunity,1,20
+2020-03-26,Department Of Education,1,21
+2020-03-26,Department Of Elder Affairs,1,22
+2020-03-26,Department Of Homeland Security,1,23
+2020-03-26,Department Of Revenue,1,24
+2020-03-26,Department Of Veterans Affairs,1,25
+2020-03-26,Division Of Emergency Management,1,26
+2020-03-26,Division Of Human Resource Management,1,27
+2020-03-26,Division Of Real Estate Development,1,28
+2020-03-26,Division Of State Group Insurance,1,29
+2020-03-26,Division Of State Technology,1,30
+2020-03-26,Emergency Operations Center,1,31
+2020-03-26,Evaluation Program,1,32
+2020-03-26,Facebook,1,33
+2020-03-26,Florida Department Of Education,1,34
+2020-03-26,Florida Department Of Health,1,35
+2020-03-26,Florida Department Of Juvenile Justice,1,36
+2020-03-26,Florida Department Of Management Service,1,37
+2020-03-26,Florida Medicaid Program,1,38
+2020-03-26,Florida National Guard,1,39
+2020-03-26,Florida National Guardsmen,1,40
+2020-03-26,Florida Sheriff Association,1,41
+2020-03-26,Florida South Georgia Veterans Health System,1,42
+2020-03-26,Florida Trucking Association,1,43
+2020-03-26,Health Departments,1,44
+2020-03-26,Incident Management Team,1,45
+2020-03-26,Information Center,1,46
+2020-03-26,Logistics Branch,1,47
+2020-03-26,Logistics Readiness Center,1,48
+2020-03-26,Medicaid Services,1,49
+2020-03-26,Mental Health,1,50
+2020-03-26,Department Of Health,2,1
+2020-03-26,Emergency Management Agency,2,2
+2020-03-26,White House,2,3
+2020-03-27,Centers For Disease,1,9
+2020-03-27,Langley Health Services,1,10
+2020-03-27,American Hospital Association,2,6
+2020-03-27,Community Health Systems,2,7
+2020-03-27,Strata Decision Technology,2,8
+2020-03-27,Disposal Services,3,2
+2020-03-27,Division Of Law Enforcement,3,3
+2020-03-27,Gulf To Lake Baptist Church,3,4
+2020-03-27,Wildlife Conservation Commission,3,5
+2020-03-27,Florida Department Of Health,4,1
+2020-03-28,Augustine Beach Police Department,1,1
+2020-03-28,Florida Department Of Economic Opportunity,1,2
+2020-03-28,Johns County Sheriff Office,1,3
+2020-03-29,Army Combat,1,1
+2020-03-29,Army National Guard,1,2
+2020-03-29,Army Pfc,1,3
+2020-03-29,Army Spc,1,4
+2020-03-29,Augustine Beach Police Department,1,5
+2020-03-29,Community Based Testing Sites,1,6
+2020-03-29,Current National Guard,1,7
+2020-03-29,Department Of Defense,1,8
+2020-03-29,Department Of Health,1,9
+2020-03-29,Emergency Management Agency,1,10
+2020-03-29,Emergency Operations Center,1,11
+2020-03-29,Emergency Operations Centers,1,12
+2020-03-29,Florida Department Of Health,1,13
+2020-03-29,Florida National Guard,1,14
+2020-03-29,Florida National Guardsmen,1,15
+2020-03-29,Glen Mills School,1,16
+2020-03-29,Hawaii Healthcare Emergency Management Coalition,1,17
+2020-03-29,Hawaii National Guard,1,18
+2020-03-29,Iowa Department Of Homeland Security,1,19
+2020-03-29,Iowa National Guard,1,20
+2020-03-29,Jacob Javits Center,1,21
+2020-03-29,Johns County Sheriff Office,1,22
+2020-03-29,Leia Tascarini Army,1,23
+2020-03-29,Logistics Readiness Center,1,24
+2020-03-29,Louisiana National Guard Soldiers,1,25
+2020-03-29,Members Of The Florida National Guard,1,26
+2020-03-29,National Guard,1,27
+2020-03-29,National Guard Bureau,1,28
+2020-03-29,National Guard Soldiers,1,29
+2020-03-29,National Guardsmen,1,30
+2020-03-29,Pennsylvania National Guardsmen,1,31
+2020-03-29,Police Company,1,32
+2020-03-29,Regional Support Group,1,33
+2020-03-29,Task Force,1,34
+2020-03-29,Transportation Company,1,35
+2020-03-29,United States,1,36
+2020-03-29,Virginia National Guard,1,37
+2020-03-29,York Army,1,38
+2020-03-29,York Army Guard,1,39
+2020-03-29,York Army National Guard,1,40
+2020-03-29,York Guard State Defense,1,41
+2020-03-29,York National Guard,1,42
+2020-03-30,Broward Health,1,1
+2020-03-30,Broward Sheriff Office,1,2
+2020-03-30,Centers For Disease,1,3
+2020-03-30,Disney,1,4
+2020-03-30,Florida Department Of Health,1,5
+2020-03-30,Jackson Health System,1,6
+2020-03-30,Langley Health Services,1,7
+2020-03-31,White House,1,7
+2020-03-31,Department Of Health,2,1
+2020-03-31,Florida Department Of Health,2,2
+2020-03-31,Va Health,2,3
+2020-03-31,Va Medical Center,2,4
+2020-03-31,Veterans Affairs Clinic,2,5
+2020-03-31,Veterans Affairs Clinic In Lecanto,2,6
+2020-04-01,Associated Press,1,10
+2020-04-01,Lee Health,1,11
+2020-04-01,National Coronavirus Coverage,1,12
+2020-04-01,Kaiser Family Foundation,2,8
+2020-04-01,White House,2,9
+2020-04-01,Department Of Health,3,6
+2020-04-01,White House Coronavirus Task,3,7
+2020-04-01,Division Of Emergency Management,4,3
+2020-04-01,Health Officer,4,4
+2020-04-01,Public Health Emergency,4,5
+2020-04-01,Centers For Disease,6,1
+2020-04-01,Florida Department Of Health,6,2
+2020-04-02,Centers For Disease,1,2
+2020-04-02,Department Of Financial Services,1,3
+2020-04-02,Division Of Emergency Management,1,4
+2020-04-02,Division Of Risk Management,1,5
+2020-04-02,Florida Department Of Health,1,6
+2020-04-02,Florida League,1,7
+2020-04-02,Florida Municipal Insurance,1,8
+2020-04-02,Florida National Guard,1,9
+2020-04-02,Google,1,10
+2020-04-02,Health Officer,1,11
+2020-04-02,Lee Health,1,12
+2020-04-02,Members Of The Florida National Guard,1,13
+2020-04-02,Office Of Communications,1,14
+2020-04-02,White House Coronavirus Task,1,15
+2020-04-02,Public Health Emergency,2,1
+2020-04-03,Florida Division Of Emergency Management,1,19
+2020-04-03,Instagram,1,20
+2020-04-03,Trump Administration,1,21
+2020-04-03,Twitter,1,22
+2020-04-03,City Council,2,5
+2020-04-03,City Council Of The City Of Perry,2,6
+2020-04-03,Clerk Of The City Council,2,7
+2020-04-03,Department Of Economic Opportunity,2,8
+2020-04-03,Department Of Health,2,9
+2020-04-03,Emergency Operations Center To Level,2,10
+2020-04-03,Florida Department Of Public Health,2,11
+2020-04-03,Health Officer,2,12
+2020-04-03,Human Services Agency,2,13
+2020-04-03,National State Of Emergency On,2,14
+2020-04-03,United States,2,15
+2020-04-03,United States Health,2,16
+2020-04-03,White House Coronavirus Task,2,17
+2020-04-03,World Health Organization,2,18
+2020-04-03,Centers For Disease,4,2
+2020-04-03,Florida Department Of Health,4,3
+2020-04-03,Public Health Emergency,4,4
+2020-04-03,Division Of Emergency Management,5,1
+2020-04-04,Florida Department Of Health,1,6
+2020-04-04,Bayfront Health,3,1
+2020-04-04,Bellam Medical Center,3,2
+2020-04-04,Centers For Disease,3,3
+2020-04-04,Clorox,3,4
+2020-04-04,White House,3,5
+2020-04-05,Florida Department Of Health,2,1
+2020-04-05,Gulf To Lake Baptist Church,2,2
+2020-04-06,Nan,1,6
+2020-04-06,United States,1,7
+2020-04-06,Florida Department Of Health,2,2
+2020-04-06,Gulf To Lake Baptist Church,2,3
+2020-04-06,Kmart,2,4
+2020-04-06,Publix,2,5
+2020-04-06,Wildlife Commission,3,1
+2020-04-07,American Sewing Guild,1,1
+2020-04-07,Centers For Disease,1,2
+2020-04-07,Citrus Friendship Quilters Guild,1,3
+2020-04-07,Columbia University,1,4
+2020-04-07,Facebook,1,5
+2020-04-07,National Charity Foundation,1,6
+2020-04-07,National Public Radio,1,7
+2020-04-07,Parliament House In Orlando,1,8
+2020-04-07,United States,1,9
+2020-04-07,World Health Organization,1,10
+2020-04-08,Facebook,1,1
+2020-04-09,Department Of Economic Opportunity,1,7
+2020-04-09,Southeast Consortium Unemployment Insurance Benefit Initiative,1,8
+2020-04-09,Twitter,1,9
+2020-04-09,United States,1,10
+2020-04-09,Bayfront Health,2,2
+2020-04-09,Centers For Disease,2,3
+2020-04-09,Community Health Systems Inc,2,4
+2020-04-09,Department Of Health,2,5
+2020-04-09,Human Services,2,6
+2020-04-09,Florida Department Of Health,3,1
+2020-04-10,Community Foundation Of North Central Florida,1,2
+2020-04-10,Coronavirus Forces Theaters,1,3
+2020-04-10,Dade League,1,4
+2020-04-10,Early Learning Coalition Of North Florida,1,5
+2020-04-10,Florida Department Of Law Enforcement On,1,6
+2020-04-10,Nan,1,7
+2020-04-10,National Federation Of Independent Business Bill Herrle,1,8
+2020-04-10,News Service Of Florida,1,9
+2020-04-10,Publix,1,10
+2020-04-10,Twitter,1,11
+2020-04-10,Florida Department Of Health,2,1
+2020-04-13,Epiphany Health Direct Primary Care,1,1
+2020-04-13,Facebook,1,2
+2020-04-14,Cultural Services,1,1
+2020-04-15,Big Cypress National,1,1
+2020-04-15,Broward Sheriff Office,1,2
+2020-04-15,City Council,1,3
+2020-04-15,Council On,1,4
+2020-04-15,Drummond Community Bank,1,5
+2020-04-15,Florida Infrastructure Repair Program,1,6
+2020-04-15,Florida State University,1,7
+2020-04-15,Florida Supreme Court,1,8
+2020-04-15,New York Times,1,9
+2020-04-15,News Service Of Florida,1,10
+2020-04-15,Pandemic Delays International Adoptions,1,11
+2020-04-15,Postal Service,1,12
+2020-04-15,Racial Disparities,1,13
+2020-04-15,School Board,1,14
+2020-04-15,Supreme Court,1,15
+2020-04-15,Trump Falsely Claimed Total Authority Over States,1,16
+2020-04-16,Heights Center,1,1
+2020-04-16,Heights Foundation,1,2
+2020-04-16,Labor Department,1,3
+2020-04-16,National Employment Law,1,4
+2020-04-16,United States,1,5
+2020-04-17,Blackrock,1,5
+2020-04-17,Sierra Club,1,6
+2020-04-17,Tribune Content Agency,1,7
+2020-04-17,Tribune News Service,1,8
+2020-04-17,Department Of Health,2,1
+2020-04-17,Kane Cattle Co,2,2
+2020-04-17,Publix,2,3
+2020-04-17,Walmart,2,4
+2020-04-19,Facebook,1,1
+2020-04-19,National Instant Criminal Background Check System,1,2
+2020-04-19,National Rifle Association,1,3
+2020-04-19,Stoneman Douglas High School,1,4
+2020-04-19,Twitter,1,5
+2020-04-19,United States,1,6
+2020-04-20,Administration Of Customs Ni Yuefeng,1,3
+2020-04-20,Allen Rae Co,1,4
+2020-04-20,Blackrock,1,5
+2020-04-20,Commerce Ministry,1,6
+2020-04-20,Department Of Special Investigation,1,7
+2020-04-20,District Administration Office Chitwan,1,8
+2020-04-20,Extension Office,1,9
+2020-04-20,Fruit Vendors Association,1,10
+2020-04-20,Idaho Potato Commission,1,11
+2020-04-20,Police Col,1,12
+2020-04-20,Thai Ministry Of Commerce,1,13
+2020-04-20,Vasco,1,14
+2020-04-20,Vegetables Trading Company,1,15
+2020-04-20,Vietnam Airlines Corporation,1,16
+2020-04-20,World Health Organisation,1,17
+2020-04-20,Walt Disney,2,2
+2020-04-20,Disney,4,1
+2020-04-21,College Of Engineering,1,1
+2020-04-21,Crown Court,1,2
+2020-04-21,Department Of Defense,1,3
+2020-04-21,Department Of Education Doed,1,4
+2020-04-21,Department Of Health,1,5
+2020-04-21,Department Of Ocean,1,6
+2020-04-21,Department Of Transportation,1,7
+2020-04-21,Disney,1,8
+2020-04-21,Drug Administration,1,9
+2020-04-21,Florida Department Of Health,1,10
+2020-04-21,Genesis Ii Church,1,11
+2020-04-21,Justice Department On,1,12
+2020-04-21,National Institutes Of Health,1,13
+2020-04-21,National Science Foundation,1,14
+2020-04-21,Walt Disney,1,15
+2020-04-22,Civil Authority,1,2
+2020-04-22,Department Of Labor,1,3
+2020-04-22,Department Of Treasury,1,4
+2020-04-22,Florida Department Of Emergency Management,1,5
+2020-04-22,Landau Law Group Of Boca Raton,1,6
+2020-04-22,Mace Marine Inc,1,7
+2020-04-22,Shark Group,1,8
+2020-04-22,Shark Group On,1,9
+2020-04-22,Sierra Club,1,10
+2020-04-22,Small Business Administration,1,11
+2020-04-22,Blackrock,2,1
+2020-04-23,Boeing,1,1
+2020-04-23,Florida Department Of Emergency Management Jared Moskowitz,1,2
+2020-04-23,John Shark Group,1,3
+2020-04-23,Kennedy Space Center,1,4
+2020-04-23,Shark Group,1,5
+2020-04-23,Spacex,1,6
+2020-04-23,United States,1,7
+2020-04-24,Centers For Disease,1,7
+2020-04-24,National Center,1,8
+2020-04-24,World Health Organization,1,9
+2020-04-24,Call Center,2,1
+2020-04-24,Division Of Unclaimed Property,2,2
+2020-04-24,Florida Department Of Agriculture,2,3
+2020-04-24,Florida Department Of Health,2,4
+2020-04-24,National Guard,2,5
+2020-04-24,Rehabilitation Center,2,6
+2020-04-25,Division Of Unclaimed Property,1,3
+2020-04-25,Facebook,2,1
+2020-04-25,Wildlife Conservation Commission,2,2
+2020-04-26,Daily Commercial Community Editor,1,1
+2020-04-26,Florida Department Of Health,1,2
+2020-04-26,Florida Medical Examiners Commission,1,3
+2020-04-27,College Of Central Florida,2,1
+2020-04-27,Facebook,2,2
+2020-04-27,Rivers Christian School In Lecanto,2,3
+2020-04-27,Withlacoochee Technical College,2,4
+2020-04-28,Oval Office,1,2
+2020-04-28,Florida Department Of Health,2,1
+2020-04-30,Agency For Health Care Administration,1,1
+2020-04-30,Centers For Disease,1,2
+2020-04-30,Chapters,1,3
+2020-04-30,Circuit Court,1,4
+2020-04-30,Department Of Business,1,5
+2020-04-30,Department Of Health,1,6
+2020-04-30,Department Of Transportation,1,7
+2020-04-30,Family Support Services Of North Florida,1,8
+2020-04-30,Florida Department Of Business,1,9
+2020-04-30,Florida Department Of Education,1,10
+2020-04-30,Florida Department Of Environmental Protection,1,11
+2020-04-30,Florida Department Of Health,1,12
+2020-04-30,Florida Supreme Court,1,13
+2020-04-30,Health Administration,1,14
+2020-04-30,Jewish Family Community Services,1,15
+2020-04-30,Nan,1,16
+2020-04-30,National Youth Advocate Program,1,17
+2020-04-30,Neither Circuit Court,1,18
+2020-04-30,Other Affected Business Services,1,19
+2020-04-30,Supreme Court,1,20
+2020-04-30,Task Force To Re,1,21
+2020-04-30,White House,1,22
+2020-05-01,Barry University,1,2
+2020-05-01,Broward College,1,3
+2020-05-01,Centers For Disease,1,4
+2020-05-01,Department Of Economic Opportunity,1,5
+2020-05-01,Department Of Health,1,6
+2020-05-01,Florida Department Of Corrections,1,7
+2020-05-01,Hardee,1,8
+2020-05-01,Health Department,1,9
+2020-05-01,Kitchen Law Firm,1,10
+2020-05-01,M B Products Inc,1,11
+2020-05-01,Paycheck Protection Program,1,12
+2020-05-01,Seminole Tribe Department,1,13
+2020-05-01,Southeast Milk Inc,1,14
+2020-05-01,United States,1,15
+2020-05-01,University Of Florida,1,16
+2020-05-01,Facebook,2,1
+2020-05-02,Walmart,1,1
+2020-05-03,Florida Department Of Health,1,1
+2020-05-03,Sheriff Office,1,2
+2020-05-04,Wendy,2,1
+2020-05-05,Advantage Direct Communications,1,1
+2020-05-05,Advantage Inc,1,2
+2020-05-05,City Council,1,3
+2020-05-05,Crossroads Media,1,4
+2020-05-05,Facebook,1,5
+2020-05-05,Florida Supreme Court,1,6
+2020-05-05,Google,1,7
+2020-05-05,Marijuana Treatment Centers,1,8
+2020-05-05,Republican National Committee,1,9
+2020-05-05,Republican Party,1,10
+2020-05-05,Senate Leadership Fund,1,11
+2020-05-05,Senate Republicans,1,12
+2020-05-05,Supreme Court,1,13
+2020-05-05,Trump Victory Team Member,1,14
+2020-05-05,White House,1,15
+2020-05-06,Bayfront Health,1,1
+2020-05-06,City Council,1,2
+2020-05-06,Community Health Systems,1,3
+2020-05-06,Florida Department Of Health,1,4
+2020-05-06,Florida Supreme Court,1,5
+2020-05-06,Hospital Corporation Of America,1,6
+2020-05-06,Marijuana Treatment Centers,1,7
+2020-05-06,Supreme Court,1,8
+2020-05-07,Department Of Health,1,1
+2020-05-07,Langley Health Services,1,2
+2020-05-08,Centers For Disease,1,2
+2020-05-08,Citrus Business Alliance,1,3
+2020-05-08,Explorida Adventure Center,1,4
+2020-05-08,Florida Department Of Transportation,1,5
+2020-05-08,Hogan Law Firm,1,6
+2020-05-08,Nan,1,7
+2020-05-08,News Service Of Florida,1,8
+2020-05-08,Citrus County Sheriff Office,2,1
+2020-05-09,Anthony,1,1
+2020-05-09,Florida Division Of Emergency Management,1,2
+2020-05-09,Rehabilitation Center,1,3
+2020-05-10,Anthony,1,1
+2020-05-10,Florida Division Of Emergency Management,1,2
+2020-05-10,Rehabilitation Center,1,3
+2020-05-12,Fl Department Of Education,1,1
+2020-05-12,Florida Department Of Education,1,2
+2020-05-12,Human Services,1,3
+2020-05-12,National Institute Of Allergy,1,4
+2020-05-12,School Board Youtube,1,5
+2020-05-12,School Districts,1,6
+2020-05-12,White House,1,7
+2020-05-13,Centers Of Disease,1,1
+2020-05-13,Florida Virtual School,1,2
+2020-05-14,Division Of Emergency Management,1,1
+2020-05-14,Drug Administration,1,2
+2020-05-14,Journal Of The American Medical Association,1,3
+2020-05-14,National Institutes Of Health,1,4
+2020-05-14,Teva Pharmaceutical Industries,1,5
+2020-05-14,University At Albany,1,6
+2020-05-15,Centers For Disease,1,1
+2020-05-15,Florida Department Of Children,1,2
+2020-05-15,Florida Department Of Health,1,3
+2020-05-15,Nature Coast Water Safety Coalition,1,4
+2020-05-15,Ymca,1,5
+2020-05-19,Department Of Business,1,1
+2020-05-19,Governor Office,1,2
+2020-05-19,Vacation Rental Management Association,1,3
+2020-05-22,American Health Care Association,1,1
+2020-05-22,Centers For Disease,1,2
+2020-05-22,Clerk Office,1,3
+2020-05-22,Department Of Economic Opportunity,1,4
+2020-05-22,Department Of Housing,1,5
+2020-05-22,Disney,1,6
+2020-05-22,Examiners Commission,1,7
+2020-05-22,Fannie Mae,1,8
+2020-05-22,Florida Department Of Health,1,9
+2020-05-22,Florida Health Care Association,1,10
+2020-05-22,Housing Administration,1,11
+2020-05-22,Housing Finance Agency,1,12
+2020-05-22,Human Services,1,13
+2020-05-22,National Center,1,14
+2020-05-22,News Service Of Florida Staff,1,15
+2020-05-22,Public Health Emergency,1,16
+2020-05-24,Database Development,1,1
+2020-05-24,Department Of Economic Opportunity,1,2
+2020-05-24,Disney,1,3
+2020-05-24,Florida Department Of Economic Opportunity Rebuild Florida,1,4
+2020-05-24,Florida Department Of Law Enforcement,1,5
+2020-05-24,Planning Support Program,1,6
+2020-05-25,City Council,1,1
+2020-05-25,Department Of Health,1,2
+2020-05-25,Florida Department Of Health,1,3
+2020-05-25,United States,1,4

@@ -1,0 +1,679 @@
+date,organization,count,rn
+2020-02-29,Centers For Disease,2,1
+2020-02-29,Ohio Department Of Health,2,2
+2020-02-29,Ohio Department Of Rehabilitation,2,3
+2020-02-29,Ohio Department Of Transportation,2,4
+2020-02-29,United States,2,5
+2020-02-29,World Health Organization,2,6
+2020-03-04,Kroger,1,1
+2020-03-04,Ohio Auto Club,1,2
+2020-03-04,Oil Price Information Service,1,3
+2020-03-04,Sunoco,1,4
+2020-03-07,Biocentury Research Farm,1,1
+2020-03-07,Bloomberg,1,2
+2020-03-07,Environmental Working Group,1,3
+2020-03-07,European Union,1,4
+2020-03-07,Illinois Farm Bureau,1,5
+2020-03-07,Iowa State University,1,6
+2020-03-07,John Deere,1,7
+2020-03-07,Nan,1,8
+2020-03-07,Samsung,1,9
+2020-03-07,White House,1,10
+2020-03-09,Carlisle School,1,1
+2020-03-09,Centers For Disease,1,2
+2020-03-09,Centers For Disease Control,1,3
+2020-03-09,Communications Organizational,1,4
+2020-03-09,Emergency Department,1,5
+2020-03-09,Pupil Personnel Services Felicia Preston,1,6
+2020-03-09,Sovah Health,1,7
+2020-03-09,Virginia Department Of Education,1,8
+2020-03-09,Virginia Department Of Health,1,9
+2020-03-09,Virginia Division Of Consolidated Laboratory Services,1,10
+2020-03-09,World Health Organization,1,11
+2020-03-10,Biocentury Research Farm,1,2
+2020-03-10,Bloomberg,1,3
+2020-03-10,Department Of Health,1,4
+2020-03-10,Department Of Public Health,1,5
+2020-03-10,Department Of Public Health In Henry,1,6
+2020-03-10,Environmental Working Group,1,7
+2020-03-10,European Union,1,8
+2020-03-10,Georgia Department Of Public Health,1,9
+2020-03-10,Illinois Farm Bureau,1,10
+2020-03-10,Iowa State University,1,11
+2020-03-10,John Deere,1,12
+2020-03-10,Samsung,1,13
+2020-03-10,School Superintendent Richard Woods,1,14
+2020-03-10,White House,1,15
+2020-03-10,Centers For Disease,2,1
+2020-03-12,Centers For Disease,1,1
+2020-03-12,Cnn,1,2
+2020-03-12,Ohio Department Of Health,1,3
+2020-03-12,Ohio Hospital Association,1,4
+2020-03-12,Oval Office,1,5
+2020-03-12,Republican Party,1,6
+2020-03-12,United States,1,7
+2020-03-12,World Health Organization,1,8
+2020-03-13,Department Of Public,1,1
+2020-03-13,Georgia Department Of Education,1,2
+2020-03-13,Holgate Local School,1,3
+2020-03-13,Holy Cross Catholic School,1,4
+2020-03-13,John Lutheran School In Defiance,1,5
+2020-03-13,Ohio Department Of Education,1,6
+2020-03-13,Ohio Department Of Health,1,7
+2020-03-14,Apple Bus Company,1,5
+2020-03-14,Budget Committee,1,6
+2020-03-14,Holden School District,1,7
+2020-03-14,Human Services,1,8
+2020-03-14,Missouri Department Of Elementary,1,9
+2020-03-14,Missouri Department Of Health Senior Services,1,10
+2020-03-14,Missouri State Public Health Laboratory,1,11
+2020-03-14,National Journalism Center,1,12
+2020-03-14,University Of Missouri,1,13
+2020-03-14,Winthrop University,1,14
+2020-03-14,Department Of Health,3,4
+2020-03-14,Centers For Disease,4,2
+2020-03-14,Missouri Department Of Health,4,3
+2020-03-14,Senior Services,5,1
+2020-03-15,Associated Press,1,4
+2020-03-15,Committee Of Psychologists,1,5
+2020-03-15,Department Of Health,1,6
+2020-03-15,Ferguson-Florissant School District,1,7
+2020-03-15,Missouri State Public Health Laboratory,1,8
+2020-03-15,National Institute Of Allergy,1,9
+2020-03-15,National Journalism Center,1,10
+2020-03-15,R Street Institute,1,11
+2020-03-15,Schnucks,1,12
+2020-03-15,Senate Professional Registration Committee,1,13
+2020-03-15,Winthrop University,1,14
+2020-03-15,World Health Organization,1,15
+2020-03-15,Centers For Disease,2,3
+2020-03-15,Missouri Department Of Health,4,2
+2020-03-15,Senior Services,5,1
+2020-03-16,Alcova Elementary School,2,1
+2020-03-16,Alexander High School,2,2
+2020-03-16,Alford Elementary Anderson-Livsey Elementary School,2,3
+2020-03-16,Alonzo Crim High School,2,4
+2020-03-16,Annistown Elementary School,2,5
+2020-03-16,Arcado Elementary School,2,6
+2020-03-16,Atlanta Community Food Bank,2,7
+2020-03-16,Baggett Elementary School,2,8
+2020-03-16,Baldwin Elementary Beaver Ridge Elementary School,2,9
+2020-03-16,Banneker High School,2,10
+2020-03-16,Benefield Elementary School,2,11
+2020-03-16,Berkeley Lake Elementary School,2,12
+2020-03-16,Berkmar High School,2,13
+2020-03-16,Berkmar Middle School,2,14
+2020-03-16,Bethesda Elementary School,2,15
+2020-03-16,Bethune Middle School,2,16
+2020-03-16,Britt Elementary School,2,17
+2020-03-16,Bunche Middle School,2,18
+2020-03-16,Cedar Hill Elementary School,2,19
+2020-03-16,Centerville Elementary School,2,20
+2020-03-16,Central Gwinnett High School,2,21
+2020-03-16,Chapel Hill High School,2,22
+2020-03-16,Chapel Hill Middle School,2,23
+2020-03-16,Chesney Elementary School,2,24
+2020-03-16,Cities High School,2,25
+2020-03-16,Clarkston High School,2,26
+2020-03-16,Clayton County Public School,2,27
+2020-03-16,Cobb County School District,2,28
+2020-03-16,Cobb Schools Foundation,2,29
+2020-03-16,Corley Elementary School,2,30
+2020-03-16,Cross Keys High School,2,31
+2020-03-16,Curbside Pickup During School Closures,2,32
+2020-03-16,Dekalb County School District,2,33
+2020-03-16,Discovery High School,2,34
+2020-03-16,Douglas County High School,2,35
+2020-03-16,Douglas County School Nutrition,2,36
+2020-03-16,Douglass High School,2,37
+2020-03-16,Duluth High School,2,38
+2020-03-16,Duluth Middle School,2,39
+2020-03-16,Early Learning Center,2,40
+2020-03-16,Eddie White Academy,2,41
+2020-03-16,Elementary School,2,42
+2020-03-16,Ferguson Elementary School,2,43
+2020-03-16,Forest Park Middle School,2,44
+2020-03-16,Grace Snell Middle School,2,45
+2020-03-16,Graves Elementary School,2,46
+2020-03-16,Gwinnett High School,2,47
+2020-03-16,Hampton Middle School,2,48
+2020-03-16,Harris Elementary School,2,49
+2020-03-16,High School,2,50
+2020-03-17,Associated Press,1,1
+2020-03-17,Buckeye Association Of School Administrators,1,2
+2020-03-17,Commissioners Association Of Ohio,1,3
+2020-03-17,Facebook,1,4
+2020-03-17,Henry Stark County Health Department,1,5
+2020-03-17,Mcdonald,1,6
+2020-03-17,Ohio Association Of School Business Officials,1,7
+2020-03-17,Ohio Department Of Health,1,8
+2020-03-17,Ohio School Boards Association,1,9
+2020-03-17,Ohio Supreme Court,1,10
+2020-03-18,Bruton Parish Episcopal Church,1,11
+2020-03-18,Centers The Disease,1,12
+2020-03-18,Demetrois Greek Orthodox Church Parish Council,1,13
+2020-03-18,Diocese Of Richmond,1,14
+2020-03-18,Episcopal Church,1,15
+2020-03-18,First Baptist Church,1,16
+2020-03-18,Glory Lutheran Church Lutheran Church Missouri Synod,1,17
+2020-03-18,Grace Covenant Presbyterian Church,1,18
+2020-03-18,Hellenic Center,1,19
+2020-03-18,Illinois Department Of Public Health,1,20
+2020-03-18,Jamestown Presbyterian Church,1,21
+2020-03-18,Luke Medical Center,1,22
+2020-03-18,Our Saviour Church,1,23
+2020-03-18,Our Saviour Lutheran Church,1,24
+2020-03-18,Smith Memorial Baptist Church,1,25
+2020-03-18,Stephen Church,1,26
+2020-03-18,Stephen Lutheran Church,1,27
+2020-03-18,Virginia Synod Of The Evangelical Lutheran Church,1,28
+2020-03-18,Walnut Hills Baptist Church,1,29
+2020-03-18,Family Services,4,6
+2020-03-18,Health Department,4,7
+2020-03-18,Liberty Center,4,8
+2020-03-18,Poggemeyer Design Group,4,9
+2020-03-18,Title Division,4,10
+2020-03-18,Associated Press,6,1
+2020-03-18,Facebook,6,2
+2020-03-18,Ohio Democratic Party,6,3
+2020-03-18,Ohio Department Of Health,6,4
+2020-03-18,Ohio Supreme Court,6,5
+2020-03-19,A University Of Washington,1,2
+2020-03-19,American Enterprise Institute,1,3
+2020-03-19,American Heart Association,1,4
+2020-03-19,American Library Association Executive Board,1,5
+2020-03-19,American Vascular Biology Organization,1,6
+2020-03-19,Association Of American Medical Colleges,1,7
+2020-03-19,Case Western Reserve University,1,8
+2020-03-19,Commission On Colleges,1,9
+2020-03-19,Communications Commission,1,10
+2020-03-19,Democratic Senate Minority Leader Chuck Schumer,1,11
+2020-03-19,Department Of Pathology,1,12
+2020-03-19,Educational Broadband Service,1,13
+2020-03-19,Facebook,1,14
+2020-03-19,First Baptist Church,1,15
+2020-03-19,First Presbyterian Church,1,16
+2020-03-19,First United Methodist Church,1,17
+2020-03-19,Fort Madison Community Hospital,1,18
+2020-03-19,Gordon Research Conference,1,19
+2020-03-19,Governors University,1,20
+2020-03-19,Grace Network,1,21
+2020-03-19,Great River Health,1,22
+2020-03-19,Great River Medical Center,1,23
+2020-03-19,Henry County Health Center,1,24
+2020-03-19,Iowa Department Of Public Health,1,25
+2020-03-19,Johns Hopkins University,1,26
+2020-03-19,Joseph Catholic Church,1,27
+2020-03-19,Libraries Broadband Coalition,1,28
+2020-03-19,Moody,1,29
+2020-03-19,Moody Investors Service,1,30
+2020-03-19,Mount Bethel United Methodist Church,1,31
+2020-03-19,Northshore University Healthsystem,1,32
+2020-03-19,Prison Ministry,1,33
+2020-03-19,Schwartz,1,34
+2020-03-19,Senate Democrats,1,35
+2020-03-19,Senate Dems Would Buy Down Student Loan,1,36
+2020-03-19,Senate Majority Leader Mitch Mcconnell,1,37
+2020-03-19,Senate Minority Leader Chuck Schumer,1,38
+2020-03-19,Senate Republicans,1,39
+2020-03-19,Service Fund,1,40
+2020-03-19,University Of California,1,41
+2020-03-19,University Of Chicago,1,42
+2020-03-19,University Of New York,1,43
+2020-03-19,University Of Pittsburgh Medical Center,1,44
+2020-03-19,University Of The People,1,45
+2020-03-19,University Of The People Courses Open To,1,46
+2020-03-19,Virginia Baptist State Convention,1,47
+2020-03-19,Washington University In St,1,48
+2020-03-19,Yale University,1,49
+2020-03-19,Youtube,1,50
+2020-03-19,Centers For Disease,2,1
+2020-03-20,Centers For Disease,1,1
+2020-03-20,Community Hospital Of Anderson,1,2
+2020-03-20,Community Hospital Of Anderson Madison,1,3
+2020-03-20,Health Care Coalition,1,4
+2020-03-20,Henry Community Health,1,5
+2020-03-20,Indiana State Department Of Health,1,6
+2020-03-20,Indiana State Health Department,1,7
+2020-03-20,Information Center,1,8
+2020-03-20,Iu Health,1,9
+2020-03-20,Iu Health Ball,1,10
+2020-03-20,Iu Health Ball Memorial Hospital,1,11
+2020-03-20,Iu Health East Central Region,1,12
+2020-03-20,Reid Health In Richmond,1,13
+2020-03-20,United States,1,14
+2020-03-21,Supplemental Nutrition Assistance Program,1,1
+2020-03-22,Iowa Department Of Public Health,1,1
+2020-03-22,Iowa Legislature,1,2
+2020-03-22,Iowa Wesleyan University,1,3
+2020-03-22,Public Health Disaster Emergency,1,4
+2020-03-22,Southeastern Community College,1,5
+2020-03-23,Facebook,1,1
+2020-03-23,Georgia Department Of Health,1,2
+2020-03-23,Instagram,1,3
+2020-03-23,Members Of The Stockbridge City Council,1,4
+2020-03-23,Stockbridge Business Services,1,5
+2020-03-24,City Council,1,2
+2020-03-24,Henry Community Health,1,3
+2020-03-24,Henry Community Health Hospital,1,4
+2020-03-24,Indiana State Department Of Health,1,5
+2020-03-24,Iu Health,1,6
+2020-03-24,Iu Health System,1,7
+2020-03-24,Jay County Health Department Administrator Heath Butz,1,8
+2020-03-24,Nan,1,9
+2020-03-24,Ohio Department Of Health,1,10
+2020-03-24,Star Press On,1,11
+2020-03-24,While Reid Health In Richmond,1,12
+2020-03-24,World Health Organization,1,13
+2020-03-24,Centers For Disease,2,1
+2020-03-26,Administration Building,1,1
+2020-03-26,Adult Protective Services,1,2
+2020-03-26,Building Department,1,3
+2020-03-26,Child Protective Services,1,4
+2020-03-26,Clerk Office,1,5
+2020-03-26,Convenience Center,1,6
+2020-03-26,Convenience Centers,1,7
+2020-03-26,Court Services,1,8
+2020-03-26,Department Of Social Services,1,9
+2020-03-26,Economic Development,1,10
+2020-03-26,Emergency Services,1,11
+2020-03-26,Environmental Health,1,12
+2020-03-26,Environmental Health Office,1,13
+2020-03-26,Extension Office,1,14
+2020-03-26,Farm Heritage Museum,1,15
+2020-03-26,Fluvanna Community Center,1,16
+2020-03-26,Health Department,1,17
+2020-03-26,Information Technology,1,18
+2020-03-26,Lab Water Sample Submittals,1,19
+2020-03-26,Probation Office,1,20
+2020-03-26,Sheriff Office Building,1,21
+2020-03-26,Virginia Department Of Elections,1,22
+2020-03-26,Virginia Department Of Health,1,23
+2020-03-27,Albia Community Choir,1,1
+2020-03-27,Illinois Department Of Health,1,2
+2020-03-27,Iowa Agribusiness Radio Network,1,3
+2020-03-27,Iowa State University,1,4
+2020-03-27,Trinity United Methodist Church,1,5
+2020-03-28,Associated Press,1,4
+2020-03-28,Centers For Disease,1,5
+2020-03-28,Chamber Ambassador Of The Year Award,1,6
+2020-03-28,Chamber Ambassadors,1,7
+2020-03-28,Cummins,1,8
+2020-03-28,Cummins Inc,1,9
+2020-03-28,First Baptist Church,1,10
+2020-03-28,Health Department,1,11
+2020-03-28,Health Department Administrator,1,12
+2020-03-28,Henry Co,1,13
+2020-03-28,Honda,1,14
+2020-03-28,Illinois Department Of Public Health,1,15
+2020-03-28,Industrial Development Advantage,1,16
+2020-03-28,News Service,1,17
+2020-03-28,Hospital Council Of Northwest Ohio,2,1
+2020-03-28,Ohio Department Of Health,2,2
+2020-03-28,Ohio Hospital Association,2,3
+2020-03-29,Chamber Ambassador Of The Year Award,1,1
+2020-03-29,Chamber Ambassadors,1,2
+2020-03-29,First Baptist Church,1,3
+2020-03-30,Emergency Management Agency,1,1
+2020-03-30,National Weather Service,1,2
+2020-03-31,First Baptist Church,1,2
+2020-03-31,First Presbyterian Church,1,3
+2020-03-31,First United Methodist Church,1,4
+2020-03-31,Georgia Department Of Public Heath,1,5
+2020-03-31,Grace Network,1,6
+2020-03-31,Hi Mcdonough Community,1,7
+2020-03-31,Joseph Catholic Church,1,8
+2020-03-31,Mount Bethel United Methodist Church,1,9
+2020-03-31,Prison Ministry,1,10
+2020-03-31,Team Members,1,11
+2020-03-31,Virginia Baptist State Convention,1,12
+2020-03-31,Youtube,1,13
+2020-03-31,Facebook,2,1
+2020-04-01,Emergency Operations Center,1,1
+2020-04-01,Georgia Press Association,1,2
+2020-04-03,Bassett High School,1,1
+2020-04-03,Centerpoint Medical Center,1,2
+2020-04-03,Corrections Center,1,3
+2020-04-03,Defiance Municipal Court,1,4
+2020-04-03,Louis County Department Of Public Health,1,5
+2020-04-03,Louis County Police,1,6
+2020-04-03,Missouri Hospital Association,1,7
+2020-04-03,Missouri State Emergency Management Agency,1,8
+2020-04-03,Ohio Supreme Court,1,9
+2020-04-03,School Board Vice,1,10
+2020-04-03,University Of Missouri,1,11
+2020-04-03,Virginia Department Of Education,1,12
+2020-04-03,Washington University,1,13
+2020-04-03,Webster University,1,14
+2020-04-04,Great River Medical Center,1,1
+2020-04-04,Iowa Correctional Institute For Women,1,2
+2020-04-04,Iowa Department Of Corrections,1,3
+2020-04-04,Iowa Supreme Court,1,4
+2020-04-06,Indiana State Department Of Health,1,16
+2020-04-06,John Hersey High School,1,17
+2020-04-06,Mark Gunther Service Over Self,1,18
+2020-04-06,Turkish American Society Of Chicago,1,19
+2020-04-06,Uzbek American Association Of Chicago,1,20
+2020-04-06,Veterans Memorial Committee Of Arlington Heights,1,21
+2020-04-06,American Diabetes Association,2,1
+2020-04-06,Department Of Homeland Security,2,2
+2020-04-06,Drug Administration,2,3
+2020-04-06,Exxonmobil,2,4
+2020-04-06,Gilead Sciences,2,5
+2020-04-06,Johns Hopkins University,2,6
+2020-04-06,Kaiser Health News,2,7
+2020-04-06,Lab Alley,2,8
+2020-04-06,Rite Aid,2,9
+2020-04-06,United States,2,10
+2020-04-06,University Hospitals Cleveland Medical Center,2,11
+2020-04-06,University Of California,2,12
+2020-04-06,Virginia Commonwealth University In Richmond,2,13
+2020-04-06,Walgreens,2,14
+2020-04-06,World Health Organization,2,15
+2020-04-07,Bethany Pointe Health Campus,1,3
+2020-04-07,Centers For Disease,1,4
+2020-04-07,Cookeville Regional Medical Center,1,5
+2020-04-07,Gallatin Center,1,6
+2020-04-07,Georgia Equine Rescue League,1,7
+2020-04-07,Health Department,1,8
+2020-04-07,Henry Moves Campaign,1,9
+2020-04-07,Ola High School Sofia Bobo,1,10
+2020-04-07,Sumner Regional Medical Center,1,11
+2020-04-07,Tennessee Department Of Health,1,12
+2020-04-07,Trilogy Health Services,1,13
+2020-04-07,Facebook,2,1
+2020-04-07,Walmart,2,2
+2020-04-09,American Express,1,1
+2020-04-09,Council On,1,2
+2020-04-09,Council On Aging Social Services,1,3
+2020-04-09,Department Of The Treasury,1,4
+2020-04-09,Facebook,1,5
+2020-04-09,Founders Of Global Impact Innovation,1,6
+2020-04-09,Galva City Administration,1,7
+2020-04-09,Gideons International In Nashville,1,8
+2020-04-09,Global Impact Innovation,1,9
+2020-04-09,Henry County Medical Center,1,10
+2020-04-09,Iowa Department Of Nature Resources,1,11
+2020-04-09,Labor Department,1,12
+2020-04-09,Orochem Technologies Inc,1,13
+2020-04-09,Senate Chuck Weaver,1,14
+2020-04-09,Trump Administration,1,15
+2020-04-09,United States,1,16
+2020-04-09,University Of Tennessee,1,17
+2020-04-10,Catholic Diocese Of Richmond,1,1
+2020-04-10,Centers For Disease,1,2
+2020-04-10,First Baptist Church,1,3
+2020-04-10,Junior,1,4
+2020-04-10,Saint Bede Catholic Church,1,5
+2020-04-10,Senior High School Principal Carrie Griffith,1,6
+2020-04-10,Tsena Commocko Baptist Church,1,7
+2020-04-10,Waters Edge Church,1,8
+2020-04-10,Wethersfield School Board,1,9
+2020-04-10,Youtube,1,10
+2020-04-11,Nan,1,1
+2020-04-12,Career Center,1,1
+2020-04-12,Community College In Archibold,1,2
+2020-04-12,Delaware Area Career Center,1,3
+2020-04-12,Ohio Association For Career,1,4
+2020-04-12,Ohio Department Of Health,1,5
+2020-04-12,Shell,1,6
+2020-04-12,Tolles Career Technical Center,1,7
+2020-04-12,Transportation Services,1,8
+2020-04-12,Washington Township Fire Department,1,9
+2020-04-13,Nan,1,1
+2020-04-13,United States,1,2
+2020-04-14,United States,1,1
+2020-04-15,Associated Press,1,3
+2020-04-15,Bereskin Gallery Art Academy,1,4
+2020-04-15,Bereskin Gallery Art Academy In Davenport,1,5
+2020-04-15,Defense Department,1,6
+2020-04-15,Democratic Party,1,7
+2020-04-15,Figge Art Museum,1,8
+2020-04-15,Johns Hopkins Bloomberg School Of Public Health,1,9
+2020-04-15,Member Of The Illinois Art Education Association,1,10
+2020-04-15,New York Post,1,11
+2020-04-15,Treasury Department,1,12
+2020-04-15,Twitter,1,13
+2020-04-15,United States Postal Service,1,14
+2020-04-15,White House,1,15
+2020-04-15,Wisconsin Supreme Court,1,16
+2020-04-15,Alabama Coronavirus Task,2,1
+2020-04-15,Centers For Disease,2,2
+2020-04-16,Department Of Health,1,1
+2020-04-16,Iowa Department Of Public Health,1,2
+2020-04-16,Nan,1,3
+2020-04-16,Sovah Health,1,4
+2020-04-16,University Of Virginia,1,5
+2020-04-16,Virginia Department Of Health,1,6
+2020-04-16,Wilton Retirement Community,1,7
+2020-04-17,Ford Motor Co,1,1
+2020-04-17,Kentucky State Police,1,2
+2020-04-18,Tyson Foods,1,5
+2020-04-18,Iowa Department Of Public Health On,2,3
+2020-04-18,Iowa National Guard On Friday In Johnston,2,4
+2020-04-18,Classification Center,3,1
+2020-04-18,Iowa Department Of Corrections,3,2
+2020-04-19,Alliance Healthcare,1,1
+2020-04-19,Facebook,1,2
+2020-04-19,New York Times,1,3
+2020-04-19,Rehabilitation Center,1,4
+2020-04-19,Schwartz,1,5
+2020-04-20,Bethany Pointe Health Campus,1,6
+2020-04-20,Bethany Pointe Health Campus In Anderson,1,7
+2020-04-20,Classification Center,1,8
+2020-04-20,Indiana State Department Of Health,1,9
+2020-04-20,Indiana State Department Of Health On,1,10
+2020-04-20,Iowa Department Of Corrections,1,11
+2020-04-20,National Bureau Of Economic Research,1,12
+2020-04-20,Paycheck Protection Program,1,13
+2020-04-20,Rehabilitation Center,1,14
+2020-04-20,Rehabilitation Centre,1,15
+2020-04-20,Tennessee Department Of Labor,1,16
+2020-04-20,Trilogy Health Services,1,17
+2020-04-20,Walmart,1,18
+2020-04-20,White House Coronavirus Task,1,19
+2020-04-20,Workforce Development,1,20
+2020-04-20,York Times Company,1,21
+2020-04-20,Alliance Healthcare,2,1
+2020-04-20,Facebook,2,2
+2020-04-20,National Guard,2,3
+2020-04-20,New York Times,2,4
+2020-04-20,Schwartz,2,5
+2020-04-21,Bethany Pointe Health Campus,1,3
+2020-04-21,Bethany Pointe Health Campus In Anderson,1,4
+2020-04-21,Centers For Disease,1,5
+2020-04-21,Classification Center,1,6
+2020-04-21,Coronavirus Task Force Overview,1,7
+2020-04-21,Department Of Public Health,1,8
+2020-04-21,Facebook,1,9
+2020-04-21,Georgia Emergency Management Agency,1,10
+2020-04-21,Health Department,1,11
+2020-04-21,Illinois Department Of Corrections,1,12
+2020-04-21,Illinois Department Of Public Health,1,13
+2020-04-21,Indiana State Department Of Health,1,14
+2020-04-21,Indiana State Department Of Health On,1,15
+2020-04-21,Public Health Administrator Duane Stevens,1,16
+2020-04-21,Trilogy Health Services,1,17
+2020-04-21,Human Services,3,1
+2020-04-21,Ohio Bureau Of Worker Compensation,3,2
+2020-04-23,Bethany Pointe Health Campus,1,1
+2020-04-23,Bethany Pointe Health Campus In Anderson,1,2
+2020-04-23,Emory University In Atlanta,1,3
+2020-04-23,Gilead Sciences,1,4
+2020-04-23,Indiana State Department Of Health,1,5
+2020-04-23,Indiana State Department Of Health On,1,6
+2020-04-23,National Institute Of Allergy,1,7
+2020-04-23,National Institutes,1,8
+2020-04-23,Trilogy Health Services,1,9
+2020-04-23,University Of Chicago,1,10
+2020-04-23,World Health Organization,1,11
+2020-04-24,Centers For Disease,1,1
+2020-04-24,City Council,1,2
+2020-04-24,Economic Development Authority,1,3
+2020-04-24,Emergency Management Agency,1,4
+2020-04-24,Georgia Department Of Public Health,1,5
+2020-04-24,Illinois Department Of Public Health,1,6
+2020-04-24,National Institute Of Allergy,1,7
+2020-04-24,Regional Commission,1,8
+2020-04-24,Rural Revolving Loan Fund,1,9
+2020-04-26,Alabama Association Of School Boards,1,1
+2020-04-26,Alabama Department Of Corrections,1,2
+2020-04-26,Alabama Legislature,1,3
+2020-04-26,Association Of County Commissions Of Alabama,1,4
+2020-04-26,Auburn University,1,5
+2020-04-26,Birmingham City Council,1,6
+2020-04-26,City Council,1,7
+2020-04-26,Department Of Public Health,1,8
+2020-04-26,Emergency Management Agency Of Huntsville,1,9
+2020-04-26,Facebook,1,10
+2020-04-26,Huntsville City Council,1,11
+2020-04-26,Montgomery City Council,1,12
+2020-04-26,National League,1,13
+2020-04-26,Southern Methodist University,1,14
+2020-04-26,United States,1,15
+2020-04-26,Youtube,1,16
+2020-04-27,Appalachian State University,1,1
+2020-04-27,Bassett High School,1,2
+2020-04-27,Foley,1,3
+2020-04-27,Instagram,1,4
+2020-04-27,Longwood University,1,5
+2020-04-27,Youtube,1,6
+2020-04-28,Appalachian Regional Commission,1,1
+2020-04-28,Children Services Act,1,2
+2020-04-28,Community Development,1,3
+2020-04-28,Department Of Housing,1,4
+2020-04-28,Engineering Services,1,5
+2020-04-28,Facebook,1,6
+2020-04-28,Illinois Department Of Public Health,1,7
+2020-04-28,Napoleon High School,1,8
+2020-04-28,Ohio Department Of Education,1,9
+2020-04-28,Ohio Department Of Health,1,10
+2020-04-28,Suffolk University Political Research Center,1,11
+2020-04-28,Suffolk University Poll,1,12
+2020-04-28,United States,1,13
+2020-04-28,Virginia Department Of Fire Programs,1,14
+2020-04-28,Virtual Graduation Center,1,15
+2020-04-28,White House,1,16
+2020-04-28,World Health Organization,1,17
+2020-04-30,Ohio Department Of Health,1,1
+2020-05-01,Carlisle School,1,1
+2020-05-01,Genesis Health System,1,2
+2020-05-01,Illinois Department Of Public Health,1,3
+2020-05-01,Iowa Department Of Public Health,1,4
+2020-05-01,Johns Hopkins University,1,5
+2020-05-01,Rock Island Health Department,1,6
+2020-05-01,Unitypoint Health,1,7
+2020-05-01,Virginia Department Of Health,1,8
+2020-05-04,Costco,1,1
+2020-05-04,Hormel Foods Corp,1,2
+2020-05-04,Jetblue,1,3
+2020-05-04,Johns Hopkins University,1,4
+2020-05-04,Magna Vista High School,1,5
+2020-05-04,Tyson Foods,1,6
+2020-05-04,United States,1,7
+2020-05-04,Virginia Department Of Health,1,8
+2020-05-05,Costco,1,1
+2020-05-05,Crestview Hills Town Center,1,2
+2020-05-05,Hormel Foods Corp,1,3
+2020-05-05,Jetblue,1,4
+2020-05-05,Kenwood Towne Center,1,5
+2020-05-05,Liberty Center,1,6
+2020-05-05,Nordstrom,1,7
+2020-05-05,Outback Steakhouse,1,8
+2020-05-05,Starbucks,1,9
+2020-05-05,Tyson Foods,1,10
+2020-05-05,United States,1,11
+2020-05-06,Heritage Baptist Church,1,1
+2020-05-06,Thomas More Society,1,2
+2020-05-07,Ag Communications,1,10
+2020-05-07,Cambridge High School,1,11
+2020-05-07,Facebook,1,12
+2020-05-07,Heritage Baptist Church,1,13
+2020-05-07,Illinoi Ag Communications Proficiency Contest,1,14
+2020-05-07,Illinois Department Of Public Health,1,15
+2020-05-07,Iowa State University,1,16
+2020-05-07,Napoleon Fire Department,2,1
+2020-05-07,Napoleon Police Department,2,2
+2020-05-07,Ohio Air National Guard,2,3
+2020-05-07,Ohio Association Of Secondary School Administrators,2,4
+2020-05-07,Ohio Department Of Education,2,5
+2020-05-07,Ohio Senate,2,6
+2020-05-07,Patrick Henry High School,2,7
+2020-05-07,Paul Lutheran Church Youth Center,2,8
+2020-05-07,Walker Police Department,2,9
+2020-05-08,Quad Cities Chamber,1,1
+2020-05-08,Walmart,1,2
+2020-05-09,Eastern Iowa Community Bond,1,1
+2020-05-09,First Presbyterian Church,1,2
+2020-05-09,Heritage Association,1,3
+2020-05-09,Heritage Baptist Church,1,4
+2020-05-09,National Endowment For The Humanities,1,5
+2020-05-11,Catholic Diocese Of Peoria,1,1
+2020-05-11,Centers For Disease,1,2
+2020-05-11,Holgate High School,1,3
+2020-05-11,Julie Billiart Catholic Church,1,4
+2020-05-11,Lasalle,1,5
+2020-05-11,Liberty Center,1,6
+2020-05-11,Marian Catholic High School,1,7
+2020-05-11,Napoleon Elementary School,1,8
+2020-05-11,Niles College Seminary Of Loyola University,1,9
+2020-05-11,Ohio Department Of Education,1,10
+2020-05-11,Ohio Department Of Health,1,11
+2020-05-11,Presbyteral Council Of The Archdiocese Of Chicago,1,12
+2020-05-11,Purdue University,1,13
+2020-05-11,United States,1,14
+2020-05-12,American Enterprise Institute,1,1
+2020-05-12,Cargill Inc,1,2
+2020-05-12,Centers For Disease,1,3
+2020-05-12,Drug Administration,1,4
+2020-05-12,Heritage Foundation,1,5
+2020-05-12,National Pork Producers Council,1,6
+2020-05-12,Roe Institute For Economic Policy,1,7
+2020-05-12,S Department Of Agriculture,1,8
+2020-05-12,Tyson Foods,1,9
+2020-05-12,United States,1,10
+2020-05-12,University Of Missouri,1,11
+2020-05-12,World Trade Organization,1,12
+2020-05-13,Associated Press,1,1
+2020-05-13,Department Of Corrections,1,2
+2020-05-14,Clifford Baptist Church,1,1
+2020-05-14,Costco,1,2
+2020-05-14,Department Properties,1,3
+2020-05-14,First Baptist Church,1,4
+2020-05-14,First Presbyterian Church,1,5
+2020-05-14,Hormel Foods Corp,1,6
+2020-05-14,Jetblue,1,7
+2020-05-14,Lasalle,1,8
+2020-05-14,Morgan,1,9
+2020-05-14,Morrison,1,10
+2020-05-14,National Community Church,1,11
+2020-05-14,Parkview Baptist Church,1,12
+2020-05-14,Tyson Foods,1,13
+2020-05-14,United States,1,14
+2020-05-14,Walmart,1,15
+2020-05-15,Auto Club Group,1,1
+2020-05-15,Facebook,1,2
+2020-05-15,Georgia Association Of Convenience Stores,1,3
+2020-05-15,Hartsfield-Jackson International Airport,1,4
+2020-05-15,Hyundai,1,5
+2020-05-15,Jim Ellis Automotive Group,1,6
+2020-05-15,Missouri Association Of County Clerks,1,7
+2020-05-15,Missouri Senate,1,8
+2020-05-15,Missouri Supreme Court,1,9
+2020-05-15,Neighborhood Technology,1,10
+2020-05-15,Paycheck Protection Program,1,11
+2020-05-15,Subaru,1,12
+2020-05-15,Tribune Content Agency,1,13
+2020-05-17,Illinois Department Of Public Health,1,1
+2020-05-17,Nan,1,2
+2020-05-18,Johns Hopkins University,1,3
+2020-05-18,Magna Vista High School,1,4
+2020-05-18,Virginia Department Of Health,1,5
+2020-05-18,Sterling,2,2
+2020-05-18,Illinois Department Of Public Health,3,1
+2020-05-19,American Meat Institute,1,1
+2020-05-19,Bloomberg,1,2
+2020-05-19,Cargill,1,3
+2020-05-19,Georgia Department Of Public Health,1,4
+2020-05-19,United States,1,5
+2020-05-23,Nan,2,1

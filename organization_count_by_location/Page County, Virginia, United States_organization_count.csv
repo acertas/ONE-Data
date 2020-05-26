@@ -1,0 +1,754 @@
+date,organization,count,rn
+2020-03-11,United States,1,3
+2020-03-11,Centers For Disease,2,1
+2020-03-11,Virginia Department Of Health,2,2
+2020-03-12,Centers For Disease,1,1
+2020-03-12,Iowa Public Health,1,2
+2020-03-12,Virginia Department Of Health,1,3
+2020-03-13,Centers For Disease,1,1
+2020-03-13,Johns Hopkins University,1,2
+2020-03-13,Marine Corps Base Quantico,1,3
+2020-03-13,Virginia Department Of Health,1,4
+2020-03-14,Department Of Social Services,1,1
+2020-03-14,Emergency Department,1,2
+2020-03-14,Lord Fairfax Health District,1,3
+2020-03-14,Valley Health,1,4
+2020-03-14,Virginia Department Of Health,1,5
+2020-03-14,Virginia Health Department,1,6
+2020-03-14,Walgreens,1,7
+2020-03-17,Iowa Funeral Directors Association,1,4
+2020-03-17,Nan,1,5
+2020-03-17,Optima Health,1,6
+2020-03-17,Rappahannock Electric,1,7
+2020-03-17,Call Center,2,1
+2020-03-17,Emergency Department,2,2
+2020-03-17,Virginia Department Of Health,2,3
+2020-03-18,Call Center,1,1
+2020-03-18,Emergency Department,1,2
+2020-03-18,Optima Health,1,3
+2020-03-18,Virginia Department Of Health,1,4
+2020-03-19,Centers For Disease,1,3
+2020-03-19,Christ Church Georgetown,1,4
+2020-03-19,Department Of Defense,1,5
+2020-03-19,Department Of Education,1,6
+2020-03-19,Division Of Consolidated Laboratory Services,1,7
+2020-03-19,Economic Development Brian Shull,1,8
+2020-03-19,Handley High School,1,9
+2020-03-19,Longwood University On,1,10
+2020-03-19,Lynbrook Elementary School,1,11
+2020-03-19,Peninsula Health District,1,12
+2020-03-19,Peninsula Health District On,1,13
+2020-03-19,Prince William Health Department,1,14
+2020-03-19,United States,1,15
+2020-03-19,Valley Health,1,16
+2020-03-19,Valley Health Urgent Care,1,17
+2020-03-19,Virginia Department Of Corrections,1,18
+2020-03-19,Virginia Department Of Health On,1,19
+2020-03-19,Virginia Employment Commission,1,20
+2020-03-19,Wellness Center,1,21
+2020-03-19,White House,1,22
+2020-03-19,Winchester Medical Center,1,23
+2020-03-19,World Health Organization,1,24
+2020-03-19,Rockingham Department Of Economic Development,2,2
+2020-03-19,Small Business Administration,4,1
+2020-03-20,Blue Ridge Area Food Bank,1,4
+2020-03-20,Christ Church Georgetown,1,5
+2020-03-20,Congregational Community Action Project,1,6
+2020-03-20,Corporation Commission,1,7
+2020-03-20,Department Of Defense,1,8
+2020-03-20,Department Of Education,1,9
+2020-03-20,Division Of Consolidated Laboratory Services,1,10
+2020-03-20,E Court St,1,11
+2020-03-20,Environmental Protection Agency,1,12
+2020-03-20,Food Bank,1,13
+2020-03-20,Longwood University On,1,14
+2020-03-20,Lynbrook Elementary School,1,15
+2020-03-20,Nan,1,16
+2020-03-20,National Guard,1,17
+2020-03-20,National Suicide Hotline,1,18
+2020-03-20,Office Of The Governor,1,19
+2020-03-20,Peninsula Health District On,1,20
+2020-03-20,Prince William Health Department,1,21
+2020-03-20,Representatives For The Virginia Department Of Health,1,22
+2020-03-20,Supreme Court,1,23
+2020-03-20,Thomas Jefferson Health District,1,24
+2020-03-20,United Methodist Early Learning Center,1,25
+2020-03-20,United States,1,26
+2020-03-20,Virginia Department Of Corrections,1,27
+2020-03-20,Virginia Department Of Health,1,28
+2020-03-20,Virginia Department Of Health On,1,29
+2020-03-20,Virginia Department Of Motor Vehicles,1,30
+2020-03-20,Virginia State Police,1,31
+2020-03-20,White House,1,32
+2020-03-20,World Health Organization,1,33
+2020-03-20,Peninsula Health District,2,1
+2020-03-20,Small Business Administration,2,2
+2020-03-20,Virginia Employment Commission,2,3
+2020-03-21,Christ Church Georgetown,1,4
+2020-03-21,Corporation Commission,1,5
+2020-03-21,Department Of Defense,1,6
+2020-03-21,Department Of Education,1,7
+2020-03-21,Division Of Consolidated Laboratory Services,1,8
+2020-03-21,Environmental Protection Agency,1,9
+2020-03-21,Longwood University On,1,10
+2020-03-21,Lynbrook Elementary School,1,11
+2020-03-21,National Guard,1,12
+2020-03-21,National Suicide Hotline,1,13
+2020-03-21,Office Of The Governor,1,14
+2020-03-21,Peninsula Health District On,1,15
+2020-03-21,Prince William Health Department,1,16
+2020-03-21,Public Health,1,17
+2020-03-21,Representatives For The Virginia Department Of Health,1,18
+2020-03-21,Shenandoah National Park,1,19
+2020-03-21,Supreme Court,1,20
+2020-03-21,Thomas Jefferson Health District,1,21
+2020-03-21,United States,1,22
+2020-03-21,Virginia Department Of Conservation,1,23
+2020-03-21,Virginia Department Of Corrections,1,24
+2020-03-21,Virginia Department Of Health,1,25
+2020-03-21,Virginia Department Of Health On,1,26
+2020-03-21,Virginia Department Of Motor Vehicles,1,27
+2020-03-21,Virginia State Police,1,28
+2020-03-21,White House,1,29
+2020-03-21,World Health Organization,1,30
+2020-03-21,Peninsula Health District,2,1
+2020-03-21,Small Business Administration,2,2
+2020-03-21,Virginia Employment Commission,2,3
+2020-03-22,Christ Church Georgetown,1,1
+2020-03-22,Department Of Defense,1,2
+2020-03-22,Department Of Education,1,3
+2020-03-22,Division Of Consolidated Laboratory Services,1,4
+2020-03-22,Longwood University On,1,5
+2020-03-22,Lynbrook Elementary School,1,6
+2020-03-22,Peninsula Health District,1,7
+2020-03-22,Peninsula Health District On,1,8
+2020-03-22,Prince William Health Department,1,9
+2020-03-22,Public Health,1,10
+2020-03-22,Shenandoah National Park,1,11
+2020-03-22,Small Business Administration,1,12
+2020-03-22,Virginia Department Of Conservation,1,13
+2020-03-22,Virginia Department Of Corrections,1,14
+2020-03-22,Virginia Department Of Health On,1,15
+2020-03-22,Virginia Employment Commission,1,16
+2020-03-22,White House,1,17
+2020-03-22,World Health Organization,1,18
+2020-03-23,Centers For Disease,1,1
+2020-03-23,Department Of Social Services,1,2
+2020-03-23,Facebook,1,3
+2020-03-23,Lord Fairfax Small Business Development Center,1,4
+2020-03-23,Small Business Administration,1,5
+2020-03-23,Top Of Virginia Regional Chamber,1,6
+2020-03-23,Virginia Department Of Conservation,1,7
+2020-03-23,Virginia Department Of Emergency Management,1,8
+2020-03-23,Virginia Department Of Small Business,1,9
+2020-03-25,Augusta Health,1,1
+2020-03-25,Augusta Health Emergency Operations,1,2
+2020-03-25,Augusta Health In Fishersville,1,3
+2020-03-25,Augusta Health Lisa Schwenk,1,4
+2020-03-25,Christ Church Georgetown,1,5
+2020-03-25,Communications Of Virginia Hospital,1,6
+2020-03-25,Department Of Defense,1,7
+2020-03-25,Department Of Education,1,8
+2020-03-25,Division Of Consolidated Laboratory Services,1,9
+2020-03-25,Economic Development Administration,1,10
+2020-03-25,Facebook,1,11
+2020-03-25,Health Department,1,12
+2020-03-25,Healthcare Association,1,13
+2020-03-25,Information Center,1,14
+2020-03-25,Longwood University On,1,15
+2020-03-25,Lynbrook Elementary School,1,16
+2020-03-25,Peninsula Health District,1,17
+2020-03-25,Peninsula Health District On,1,18
+2020-03-25,Prince William Health Department,1,19
+2020-03-25,Public Health,1,20
+2020-03-25,Region Healthcare Coalition,1,21
+2020-03-25,Small Business Administration,1,22
+2020-03-25,Small Business Development Center,1,23
+2020-03-25,Staunton City Council,1,24
+2020-03-25,Top Of Virginia Regional Chamber,1,25
+2020-03-25,Virginia Department Of Corrections,1,26
+2020-03-25,Virginia Department Of Health On,1,27
+2020-03-25,Virginia Employment Commission,1,28
+2020-03-25,Virginia Health Department,1,29
+2020-03-25,White House,1,30
+2020-03-25,World Health Organization,1,31
+2020-03-26,Care Health Center,1,2
+2020-03-26,Centers For Disease,1,3
+2020-03-26,Council Bluffs,1,4
+2020-03-26,Hygenic Lab,1,5
+2020-03-26,Hygienic Lab,1,6
+2020-03-26,Iowa Department Of Public Health,1,7
+2020-03-26,Lee Bh News Service In Shenandoah,1,8
+2020-03-26,Lord Fairfax Health District,1,9
+2020-03-26,Methodist Health System,1,10
+2020-03-26,Missouri State Public Health Labratory,1,11
+2020-03-26,National Park Service,1,12
+2020-03-26,Public Health,1,13
+2020-03-26,University Of Nebraska Medical Center,1,14
+2020-03-26,Virginia Department Of Health,2,1
+2020-03-27,Care Health Center,1,1
+2020-03-27,Centers For Disease,1,2
+2020-03-27,Council Bluffs,1,3
+2020-03-27,Hygenic Lab,1,4
+2020-03-27,Hygienic Lab,1,5
+2020-03-27,Iowa Department Of Public Health,1,6
+2020-03-27,Lee Bh News Service In Shenandoah,1,7
+2020-03-27,Lord Fairfax Health District,1,8
+2020-03-27,Methodist Health System,1,9
+2020-03-27,Public Health,1,10
+2020-03-27,University Of Nebraska Medical Center,1,11
+2020-03-27,Virginia Department Of Health,1,12
+2020-03-28,A Council Bluffs,1,1
+2020-03-28,Apple Distinguished School,1,2
+2020-03-28,Corporation Commission,1,3
+2020-03-28,Council Bluffs,1,4
+2020-03-28,F M Bank,1,5
+2020-03-28,Hygenic Lab,1,6
+2020-03-28,Iowa Department Of Public Health,1,7
+2020-03-28,Iowa National Guard,1,8
+2020-03-28,Launchpad Initiative,1,9
+2020-03-28,Methodist Health System,1,10
+2020-03-28,Our Community Place,1,11
+2020-03-28,Public Health,1,12
+2020-03-28,Public Health Administrator Brad Brake,1,13
+2020-03-28,Rockingham Department Of Economic Development,1,14
+2020-03-28,Small Business Administration,1,15
+2020-03-28,Southern Virginia University,1,16
+2020-03-28,Supreme Court,1,17
+2020-03-28,United States,1,18
+2020-03-28,University Apple,1,19
+2020-03-28,University Faculty Development Committee,1,20
+2020-03-28,University Of Nebraska Medical Center,1,21
+2020-03-28,Wellness Center,1,22
+2020-03-30,Faith Baptist Church,1,1
+2020-03-30,Pricewaterhousecoopers,1,2
+2020-03-30,Siegfried Group,1,3
+2020-03-30,United States Navy,1,4
+2020-03-31,Augusta Health,1,7
+2020-03-31,Care Health Center,1,8
+2020-03-31,Centers For Disease,1,9
+2020-03-31,Council Bluffs,1,10
+2020-03-31,Hygenic Lab,1,11
+2020-03-31,Hygienic Lab,1,12
+2020-03-31,Iowa Department Of Public Health,1,13
+2020-03-31,Lee Bh News Service In Shenandoah,1,14
+2020-03-31,Methodist Health System,1,15
+2020-03-31,Public Health,1,16
+2020-03-31,University Of Nebraska Medical Center,1,17
+2020-03-31,Filler,2,3
+2020-03-31,Lord Fairfax Health District,2,4
+2020-03-31,Virginia Department Of Transportation,2,5
+2020-03-31,Virginia Senate,2,6
+2020-03-31,Faith Baptist Church Pastor Eric Brown,3,2
+2020-03-31,Virginia Department Of Health,6,1
+2020-04-01,Blue Ridge Area Food Bank,1,4
+2020-04-01,Coalition To Protect America National Parks,1,5
+2020-04-01,Costco,1,6
+2020-04-01,Courtesy National Park Service,1,7
+2020-04-01,Facebook,1,8
+2020-04-01,Human Services,1,9
+2020-04-01,Kilo Wharf Of Naval Base Guam,1,10
+2020-04-01,Living Center,1,11
+2020-04-01,Lord Fairfax Health District,1,12
+2020-04-01,National Park Service,1,13
+2020-04-01,Rockbridge High School,1,14
+2020-04-01,Senior Interest Networking Group,1,15
+2020-04-01,Top Of Virginia Regional Chamber,1,16
+2020-04-01,Twitter,1,17
+2020-04-01,Virginia Department Of Behavioral Health Developmental Services,1,18
+2020-04-01,Youtube,1,19
+2020-04-01,Augusta Health,2,3
+2020-04-01,Centers For Disease,3,2
+2020-04-01,Virginia Department Of Health,6,1
+2020-04-02,Council Is,1,1
+2020-04-02,Culpeper Medical Center,1,2
+2020-04-02,Town Council,1,3
+2020-04-02,Virginia Department Of Health,1,4
+2020-04-02,Virginia Employment Commission,1,5
+2020-04-07,Gibson,1,1
+2020-04-07,Lord Fairfax Health District,1,2
+2020-04-07,United States,1,3
+2020-04-07,Virginia Department Of Health,1,4
+2020-04-08,Comcast,1,4
+2020-04-08,Department Of Education,1,5
+2020-04-08,Directv,1,6
+2020-04-08,National Park Service,1,7
+2020-04-08,Peaks Of Otter Lodge,1,8
+2020-04-08,Virginia Department Of Education,1,9
+2020-04-08,Virginia Foundation For Public Media,1,10
+2020-04-08,Youtube,1,11
+2020-04-08,Nan,2,2
+2020-04-08,Shenandoah National Park,2,3
+2020-04-08,Virginia Department Of Health,3,1
+2020-04-09,Academie Standing Committee On Emerging Infectious Diseases,1,4
+2020-04-09,American Petroleum Institute,1,5
+2020-04-09,Associated Press,1,6
+2020-04-09,Augusta Health,1,7
+2020-04-09,Augusta Medical Center,1,8
+2020-04-09,Century Health Threats,1,9
+2020-04-09,Chevron,1,10
+2020-04-09,Coalition To Protect America National Parks,1,11
+2020-04-09,Commerce Department,1,12
+2020-04-09,Communications Michael Parks,1,13
+2020-04-09,Community Foundation Of Central Blue Ridge,1,14
+2020-04-09,Costco,1,15
+2020-04-09,Covenant Presbyterian Church,1,16
+2020-04-09,Department Of Health,1,17
+2020-04-09,Environmental Defense Fund,1,18
+2020-04-09,Exxonmobil,1,19
+2020-04-09,Facebook,1,20
+2020-04-09,Falls Church,1,21
+2020-04-09,Google,1,22
+2020-04-09,House Natural Resources Committee,1,23
+2020-04-09,Human Services,1,24
+2020-04-09,Iowa Department Of Education,1,25
+2020-04-09,Jetblue,1,26
+2020-04-09,Johns Hopkins University,1,27
+2020-04-09,Kroger,1,28
+2020-04-09,Merrifield Plaza Shopping Center,1,29
+2020-04-09,National Academies Of Sciences,1,30
+2020-04-09,National Ocean Industries Association,1,31
+2020-04-09,National Parks Conservation Association,1,32
+2020-04-09,Organization Of The Petroleum Exporting Countries,1,33
+2020-04-09,Reagan National Airport,1,34
+2020-04-09,Republicans In Congress,1,35
+2020-04-09,Stanford University,1,36
+2020-04-09,Staunton Augusta Art Center,1,37
+2020-04-09,Strategic National,1,38
+2020-04-09,Sunrise Movement,1,39
+2020-04-09,Trader Joe,1,40
+2020-04-09,United States,1,41
+2020-04-09,University Of California At Davis,1,42
+2020-04-09,Virginia Food Industry Association,1,43
+2020-04-09,White House,1,44
+2020-04-09,Whole Foods,1,45
+2020-04-09,Shenandoah National Park,2,3
+2020-04-09,National Park Service,4,1
+2020-04-09,Virginia Department Of Health,4,2
+2020-04-10,Centers For Disease,1,1
+2020-04-10,Central London Criminal Court On,1,2
+2020-04-10,International Organisation For Migration,1,3
+2020-04-10,International Organisation Of Migration Libya,1,4
+2020-04-10,Republican Party,1,5
+2020-04-10,Virginia Department Of Health,1,6
+2020-04-11,A National Youth Sunday Idea,1,1
+2020-04-11,Ambler Pa Church,1,2
+2020-04-11,Brethren Mennonite Heritage Center,1,3
+2020-04-11,Brethren Office Of Ministry,1,4
+2020-04-11,Brethren Retirement Community,1,5
+2020-04-11,Brethren Retirement Community In Greenville,1,6
+2020-04-11,Centers For Disease Control Prevention,1,7
+2020-04-11,Cnn,1,8
+2020-04-11,Facebook,1,9
+2020-04-11,Family Foundation Of Virginia,1,10
+2020-04-11,Filler,1,11
+2020-04-11,Juniata College Dr,1,12
+2020-04-11,Living Stream Church,1,13
+2020-04-11,Mcpherson Kan College,1,14
+2020-04-11,Montezuma Church,1,15
+2020-04-11,National Rifle Association,1,16
+2020-04-11,National Youth,1,17
+2020-04-11,Office Of Peacebuilding,1,18
+2020-04-11,Pastoral Care Team At Bethany,1,19
+2020-04-11,Reproductive Health Protection,1,20
+2020-04-11,Senate Majority Leader Dick Saslaw,1,21
+2020-04-11,Time Church,1,22
+2020-04-11,Virginia Department Of Health,1,23
+2020-04-11,Virginia Firearms Transaction Center,1,24
+2020-04-11,World Health Organization,1,25
+2020-04-11,Young Adult Ministry,1,26
+2020-04-13,Nan,1,1
+2020-04-14,Department Of Health,1,2
+2020-04-14,Health Care In Henrico,1,3
+2020-04-14,Kroger,1,4
+2020-04-14,Lipton,1,5
+2020-04-14,University Of Virginia,1,6
+2020-04-14,University Of Washington,1,7
+2020-04-14,Virginia Department Of Corrections,1,8
+2020-04-14,Virginia Department Of Health,1,9
+2020-04-14,Virginia Employment Commission,1,10
+2020-04-14,Virginia Hospital Healthcare Association,1,11
+2020-04-14,Lord Fairfax Health District,2,1
+2020-04-15,Accordius Health,1,3
+2020-04-15,Accordius Health Harrisonburg,1,4
+2020-04-15,Canterbury Rehabilitation Healthcare Center,1,5
+2020-04-15,Department Of Health,1,6
+2020-04-15,Health Care In Henrico,1,7
+2020-04-15,Human Services,1,8
+2020-04-15,Lord Fairfax Health District,1,9
+2020-04-15,University Of Virginia,1,10
+2020-04-15,University Of Washington,1,11
+2020-04-15,Virginia Department Of Corrections,1,12
+2020-04-15,Virginia Employment Commission,1,13
+2020-04-15,Virginia Hospital Healthcare Association,1,14
+2020-04-15,Nan,2,1
+2020-04-15,Virginia Department Of Health,2,2
+2020-04-16,Center Square,1,1
+2020-04-16,Dewey Gottwald Center,1,2
+2020-04-16,Filler,1,3
+2020-04-16,Science Museum Of Virginia,1,4
+2020-04-16,Senate Minority Leader Todd Gilbert,1,5
+2020-04-16,Virginia Department Of Health,1,6
+2020-04-17,Accordius Health,1,1
+2020-04-17,Accordius Health In Harrisonburg,1,2
+2020-04-17,Virginia Department Of Health,1,3
+2020-04-20,Birmingham Strong Fund,1,1
+2020-04-20,Catholic Charities St,1,2
+2020-04-20,City Loan Program,1,3
+2020-04-20,Colorado Coalition For The Homeless,1,4
+2020-04-20,Colorado Coalition For The Homeless In Denver,1,5
+2020-04-20,Community Foundation For Greater Atlanta,1,6
+2020-04-20,Community Foundation Of Tampa Bay,1,7
+2020-04-20,Community Relations,1,8
+2020-04-20,Congregational Community Action Project,1,9
+2020-04-20,Emergency Action Fund For New Mexico,1,10
+2020-04-20,Gayle Greve Hunt School Of Nursing,1,11
+2020-04-20,Home Partnership Foundation In Boise,1,12
+2020-04-20,Idaho Child Care Provider Fund,1,13
+2020-04-20,Idaho Housing Rapid Response Fund,1,14
+2020-04-20,Institute Of Community Alliances,1,15
+2020-04-20,Landlord Mitigation Fund,1,16
+2020-04-20,Long Beach Economic Partnership,1,17
+2020-04-20,Neighborworks Housing Solutions In Quincy,1,18
+2020-04-20,Opportunity Fund,1,19
+2020-04-20,Pandemic Relief Fund,1,20
+2020-04-20,Paycheck Protection Program,1,21
+2020-04-20,Pinellas Community Foundation,1,22
+2020-04-20,Recovery Fund,1,23
+2020-04-20,Relief Fund,1,24
+2020-04-20,Texas Tech University Health Sciences Center,1,25
+2020-04-20,Thoma National Health Service,1,26
+2020-04-20,Valentino,1,27
+2020-04-20,Wells Fargo,1,28
+2020-04-20,Wells Fargo Company,1,29
+2020-04-20,Wells Fargo Foundation,1,30
+2020-04-22,Augusta Health,1,2
+2020-04-22,Lord Fairfax Health District,1,3
+2020-04-22,Nursing Center,1,4
+2020-04-22,Relief Fund,1,5
+2020-04-22,Science Museum Of Virginia,1,6
+2020-04-22,Senate Majority Leader Dick Saslaw,1,7
+2020-04-22,Senate Minority Leader Tommy Norment,1,8
+2020-04-22,Staunton-Augusta Health Department,1,9
+2020-04-22,Valley Health,1,10
+2020-04-22,Virginia Department Of Health,2,1
+2020-04-23,A National Restaurant Association,1,3
+2020-04-23,Coalition Of Small,1,4
+2020-04-23,Emergency Response Fund,1,5
+2020-04-23,Fauquier Health,1,6
+2020-04-23,Filler,1,7
+2020-04-23,Rappahannock Benevolent Fund,1,8
+2020-04-23,Rappahannock Lions Club,1,9
+2020-04-23,Science Museum Of Virginia,1,10
+2020-04-23,Senate Democrats,1,11
+2020-04-23,Senate Minority Leader Tommy Norment,1,12
+2020-04-23,Staunton High School,1,13
+2020-04-23,Televideo,1,14
+2020-04-23,United States,1,15
+2020-04-23,Virginia Poultry Federation,1,16
+2020-04-23,Facebook,2,1
+2020-04-23,Virginia Department Of Health,2,2
+2020-04-24,Facebook,1,1
+2020-04-24,Schwartz,1,2
+2020-04-24,Youtube,1,3
+2020-04-26,Bend Elementary School,1,3
+2020-04-26,Country Music Association,1,4
+2020-04-26,Emergency Department,1,5
+2020-04-26,Joseph Medical Center,1,6
+2020-04-26,Schwartz,1,7
+2020-04-26,University Of Maryland Medical Center,1,8
+2020-04-26,Facebook,2,1
+2020-04-26,Youtube,2,2
+2020-04-27,Harrisonburg Accordius Health,1,1
+2020-04-27,Lord Fairfax Health,1,2
+2020-04-27,Lord Fairfax Health District,1,3
+2020-04-27,Nan,1,4
+2020-04-27,Valley Health,1,5
+2020-04-27,Valley Health System,1,6
+2020-04-27,Virginia Department Of Health,1,7
+2020-04-28,Administration For Children Services,1,13
+2020-04-28,Bon Air Juvenile Correctional Center,1,14
+2020-04-28,Crossroads Juvenile Center,1,15
+2020-04-28,Horizon Juvenile Center,1,16
+2020-04-28,Legal Aid Justice Center Just Children Program,1,17
+2020-04-28,Louisiana Office Of Juvenile Justice,1,18
+2020-04-28,Manson Youth Institution,1,19
+2020-04-28,Maryland Court,1,20
+2020-04-28,Pennsylvania Supreme Court,1,21
+2020-04-28,Prisoner Health,1,22
+2020-04-28,Swanson Center,1,23
+2020-04-28,Tennessee Department Of Children Services,1,24
+2020-04-28,United States,1,25
+2020-04-28,Virginia Department,1,26
+2020-04-28,Virginia Department Of Juvenile Justice,1,27
+2020-04-28,Young,1,28
+2020-04-28,Accordius Health,2,1
+2020-04-28,Accordius Health Harrisonburg,2,2
+2020-04-28,Accordius Health Of Harrisonburg,2,3
+2020-04-28,Augusta Health,2,4
+2020-04-28,Information Center,2,5
+2020-04-28,Lord Fairfax Health District,2,6
+2020-04-28,Nw Healthcare Coalition,2,7
+2020-04-28,Regional Healthcare Coalition,2,8
+2020-04-28,Representatives Of Accordius Health,2,9
+2020-04-28,Sunnyside Retirement Community,2,10
+2020-04-28,Virginia Department Of Corrections,2,11
+2020-04-28,Virginia Department Of Health,2,12
+2020-04-29,Accordius Health Harrisonburg,1,2
+2020-04-29,Cargill,1,3
+2020-04-29,Centers For Disease,1,4
+2020-04-29,College Degree,1,5
+2020-04-29,Department Of Health,1,6
+2020-04-29,Farm Service Agency,1,7
+2020-04-29,Health Department,1,8
+2020-04-29,Healthcare Association,1,9
+2020-04-29,Information Technology,1,10
+2020-04-29,Lord Fairfax Community College,1,11
+2020-04-29,Lord Fairfax Health District,1,12
+2020-04-29,People Incorporated,1,13
+2020-04-29,Relief Fund,1,14
+2020-04-29,Thomas Jefferson Health District,1,15
+2020-04-29,Valley Health,1,16
+2020-04-29,Virginia Department Of Corrections,1,17
+2020-04-29,Virginia Hospital Healthcare Association,1,18
+2020-04-29,White House,1,19
+2020-04-29,Virginia Department Of Health,2,1
+2020-04-30,Accordius Health Harrisonburg,1,1
+2020-04-30,Brookings Institute,1,2
+2020-04-30,Bureau Of Prisons,1,3
+2020-04-30,Cargill,1,4
+2020-04-30,Department Of Health,1,5
+2020-04-30,George Mason University College Of Health,1,6
+2020-04-30,Health Department,1,7
+2020-04-30,Human Services,1,8
+2020-04-30,Lord Fairfax Health District,1,9
+2020-04-30,Thomas Jefferson Health District,1,10
+2020-04-30,University Of Iowa,1,11
+2020-04-30,Virginia Department Of Corrections,1,12
+2020-04-30,Virginia Department Of Health,1,13
+2020-04-30,Virginia Hospital Healthcare Association,1,14
+2020-04-30,White House,1,15
+2020-04-30,Workers Union,1,16
+2020-05-01,Accordius Health Harrisonburg,1,1
+2020-05-01,Brookings Institute,1,2
+2020-05-01,Bureau Of Prisons,1,3
+2020-05-01,Cargill,1,4
+2020-05-01,Department Of Health,1,5
+2020-05-01,George Mason University College Of Health,1,6
+2020-05-01,Health Department,1,7
+2020-05-01,Human Services,1,8
+2020-05-01,Lord Fairfax Health District,1,9
+2020-05-01,Thomas Jefferson Health District,1,10
+2020-05-01,University Of Iowa,1,11
+2020-05-01,Virginia Department Of Corrections,1,12
+2020-05-01,Virginia Department Of Health,1,13
+2020-05-01,Virginia Hospital Healthcare Association,1,14
+2020-05-01,White House,1,15
+2020-05-01,Workers Union,1,16
+2020-05-05,Accordius Health,2,1
+2020-05-05,Accordius Health Harrisonburg,2,2
+2020-05-05,Accordius Health In Harrisonburg,2,3
+2020-05-05,Accordius Health Of Harrisonburg,2,4
+2020-05-05,Augusta Health,2,5
+2020-05-05,Information Center,2,6
+2020-05-05,Lord Fairfax Health District,2,7
+2020-05-05,Nw Healthcare Coalition,2,8
+2020-05-05,Regional Healthcare Coalition,2,9
+2020-05-05,Representatives Of Accordius Health,2,10
+2020-05-05,Sunnyside Retirement Community,2,11
+2020-05-05,Virginia Department Of Corrections,2,12
+2020-05-05,Virginia Department Of Health,2,13
+2020-05-06,Atmospheric Administration,1,1
+2020-05-06,Bloomberg,1,2
+2020-05-06,Board Of Health,1,3
+2020-05-06,Cargill,1,4
+2020-05-06,Centers For Disease,1,5
+2020-05-06,Coalition To Protect America National Parks,1,6
+2020-05-06,Community Solidarity For Poultry Workers,1,7
+2020-05-06,Denali National Park,1,8
+2020-05-06,Diamondback Energy,1,9
+2020-05-06,Emergency Management Agency,1,10
+2020-05-06,European Union Copernicus Climate Change Service,1,11
+2020-05-06,House Natural Resources Committee,1,12
+2020-05-06,Imperial College London,1,13
+2020-05-06,Indian Affairs,1,14
+2020-05-06,Institute For Energy Economics Financial Analysis,1,15
+2020-05-06,Legal Aid Justice Center,1,16
+2020-05-06,Mountain National Park,1,17
+2020-05-06,National Oceanic,1,18
+2020-05-06,National Park Service,1,19
+2020-05-06,Park Service,1,20
+2020-05-06,Park Service Washington,1,21
+2020-05-06,Parsley Energy,1,22
+2020-05-06,Reuters,1,23
+2020-05-06,Shenandoah National Park,1,24
+2020-05-06,United States,1,25
+2020-05-06,Virginia Department Of Health,1,26
+2020-05-06,Virginia Department Of Labor,1,27
+2020-05-06,White House,1,28
+2020-05-07,Associated Press,1,2
+2020-05-07,Centers For Disease,1,3
+2020-05-07,Filler,1,4
+2020-05-07,Gang Task,1,5
+2020-05-07,Law Enforcement Overdose Intervention Program,1,6
+2020-05-07,Regional Adult Drug Treatment Court,1,7
+2020-05-07,Rehab Center,1,8
+2020-05-07,United States,1,9
+2020-05-07,University Of California Riverside Entomology Research Museum,1,10
+2020-05-07,University Of Delaware,1,11
+2020-05-07,Virginia Department Of Health,1,12
+2020-05-07,Lord Fairfax Health District,2,1
+2020-05-11,Cargill,1,1
+2020-05-11,National Guard,1,2
+2020-05-11,Virginia National Guard,1,3
+2020-05-12,Lord Fairfax Health District,1,1
+2020-05-12,Rehab Center,1,2
+2020-05-12,Virginia Department Of Health,1,3
+2020-05-13,George Mason University,1,3
+2020-05-13,Health Department,1,4
+2020-05-13,Lord Fairfax Health District,1,5
+2020-05-13,National Guard Armory,1,6
+2020-05-13,Partnership Program,1,7
+2020-05-13,Rehab Center,1,8
+2020-05-13,Task Force,1,9
+2020-05-13,Virginia Bureau For Public Health,1,10
+2020-05-13,Virginia National Guard,1,11
+2020-05-13,Virginia National Guard Armory,1,12
+2020-05-13,National Guard,2,1
+2020-05-13,Virginia Department Of Health,2,2
+2020-05-14,Accordius Health Harrisonburg,1,3
+2020-05-14,Augusta Health,1,4
+2020-05-14,Blue Ridge Community College,1,5
+2020-05-14,Cargill,1,6
+2020-05-14,Christ United Church,1,7
+2020-05-14,Clarinda City Council,1,8
+2020-05-14,Department Of Health,1,9
+2020-05-14,Facebook,1,10
+2020-05-14,George Mason University,1,11
+2020-05-14,Health Department,1,12
+2020-05-14,Lied Center,1,13
+2020-05-14,Lied Public Library,1,14
+2020-05-14,Lied Recreation Center,1,15
+2020-05-14,Lord Fairfax Small Business Development Center,1,16
+2020-05-14,Nan,1,17
+2020-05-14,Operations At Augusta Health,1,18
+2020-05-14,Page County Public Health Administrator Jessica Erdman,1,19
+2020-05-14,Rehabilitation Center,1,20
+2020-05-14,Staunton Downtown Development Association,1,21
+2020-05-14,Top Of Virginia Regional Chamber,1,22
+2020-05-14,Transit Advisory Committee,1,23
+2020-05-14,Virginia Department Of Corrections,1,24
+2020-05-14,Virginia Economic Development Partnership,1,25
+2020-05-14,Virginia Hospital Healthcare Association,1,26
+2020-05-14,Virginia State Police,1,27
+2020-05-14,Virginia Supreme Court,1,28
+2020-05-14,Visitors Bureau,1,29
+2020-05-14,Winchester Development Services,1,30
+2020-05-14,Lord Fairfax Health District,2,1
+2020-05-14,Virginia Department Of Health,2,2
+2020-05-15,Accordius Health Harrisonburg,1,3
+2020-05-15,Cargill,1,4
+2020-05-15,Clarinda United Methodist Church Education Building,1,5
+2020-05-15,Department Of Health,1,6
+2020-05-15,Drug Administration,1,7
+2020-05-15,George Mason University,1,8
+2020-05-15,Healthcare Association,1,9
+2020-05-15,Johns Hopkins University,1,10
+2020-05-15,Lord Fairfax Health District,1,11
+2020-05-15,Missouri State University In Maryville,1,12
+2020-05-15,Morris,1,13
+2020-05-15,National Institutes Of Health,1,14
+2020-05-15,Pearson,1,15
+2020-05-15,Trophy Club,1,16
+2020-05-15,Twitter,1,17
+2020-05-15,United States,1,18
+2020-05-15,Virginia Department Of Corrections,1,19
+2020-05-15,Virginia Health,1,20
+2020-05-15,Virginia Hospital Healthcare Association,1,21
+2020-05-15,Virginia State Police,1,22
+2020-05-15,Virginia Supreme Court,1,23
+2020-05-15,Health Department,2,1
+2020-05-15,Virginia Department Of Health,2,2
+2020-05-16,Accordius Health Harrisonburg,1,1
+2020-05-16,Cargill,1,2
+2020-05-16,Department Of Health,1,3
+2020-05-16,Health Department,1,4
+2020-05-16,Lord Fairfax Health District,1,5
+2020-05-16,Pearson,1,6
+2020-05-16,Trophy Club,1,7
+2020-05-16,United States,1,8
+2020-05-16,Virginia Department Of Corrections,1,9
+2020-05-16,Virginia Department Of Health,1,10
+2020-05-16,Virginia Hospital Healthcare Association,1,11
+2020-05-16,Virginia State Police,1,12
+2020-05-16,Virginia Supreme Court,1,13
+2020-05-18,Accordius Health Harrisonburg,1,1
+2020-05-18,Augusta Health,1,2
+2020-05-18,Human Services,1,3
+2020-05-18,Lord Fairfax Health District,1,4
+2020-05-18,Virginia Department Of Health,1,5
+2020-05-18,Virginia Hospital Healthcare Association,1,6
+2020-05-19,Accordius Health Harrisonburg,1,1
+2020-05-19,Augusta Health,1,2
+2020-05-19,Cargill,1,3
+2020-05-19,Department Of Health,1,4
+2020-05-19,George Mason University,1,5
+2020-05-19,Health Department,1,6
+2020-05-19,Lord Fairfax Health District,1,7
+2020-05-19,Virginia Department Of Health,1,8
+2020-05-19,Virginia Hospital Healthcare Association,1,9
+2020-05-19,Virginia State Police,1,10
+2020-05-19,Virginia Supreme Court,1,11
+2020-05-22,Accordius Health Harrisonburg,1,1
+2020-05-22,Augusta Health,1,2
+2020-05-22,Cargill,1,3
+2020-05-22,Department Of Health,1,4
+2020-05-22,Health Department,1,5
+2020-05-22,Legacy Wellness Center,1,6
+2020-05-22,Lord Fairfax Health District,1,7
+2020-05-22,Shenandoah National Park,1,8
+2020-05-22,Top Of Virginia Regional Chamber,1,9
+2020-05-22,Virginia Department Of Emergency Management,1,10
+2020-05-22,Virginia Department Of Health,1,11
+2020-05-22,Virginia Hospital Healthcare Association,1,12
+2020-05-22,Virginia State Police,1,13
+2020-05-22,Virginia Supreme Court,1,14
+2020-05-22,Walmart,1,15
+2020-05-23,Accordius Health Harrisonburg,1,1
+2020-05-23,Augusta Health,1,2
+2020-05-23,Cargill,1,3
+2020-05-23,Department Of Health,1,4
+2020-05-23,Health Department,1,5
+2020-05-23,Legacy Wellness Center,1,6
+2020-05-23,Lord Fairfax Health District,1,7
+2020-05-23,Shenandoah National Park,1,8
+2020-05-23,Top Of Virginia Regional Chamber,1,9
+2020-05-23,Virginia Department Of Emergency Management,1,10
+2020-05-23,Virginia Department Of Health,1,11
+2020-05-23,Virginia Hospital Healthcare Association,1,12
+2020-05-23,Virginia State Police,1,13
+2020-05-23,Virginia Supreme Court,1,14
+2020-05-23,Walmart,1,15
+2020-05-24,Accordius Health Harrisonburg,1,1
+2020-05-24,Augusta Health,1,2
+2020-05-24,Cargill,1,3
+2020-05-24,Department Of Health,1,4
+2020-05-24,Health Department,1,5
+2020-05-24,Lord Fairfax Health District,1,6
+2020-05-24,Virginia Department Of Emergency Management,1,7
+2020-05-24,Virginia Department Of Health,1,8
+2020-05-24,Virginia Hospital Healthcare Association,1,9
+2020-05-24,Virginia State Police,1,10
+2020-05-24,Virginia Supreme Court,1,11
+2020-05-25,Accordius Health Harrisonburg,1,3
+2020-05-25,Augusta Health,1,4
+2020-05-25,Cargill,1,5
+2020-05-25,Department Of Health,1,6
+2020-05-25,Fairfax Health District,1,7
+2020-05-25,Health Department,1,8
+2020-05-25,Lord Fairfax Health District,1,9
+2020-05-25,Virginia Department Of Emergency Management,1,10
+2020-05-25,Virginia State Police,1,11
+2020-05-25,Virginia Supreme Court,1,12
+2020-05-25,Virginia Department Of Health,2,1
+2020-05-25,Virginia Hospital Healthcare Association,2,2

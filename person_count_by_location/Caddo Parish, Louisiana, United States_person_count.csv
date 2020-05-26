@@ -1,0 +1,562 @@
+date,person,count,rn
+2020-02-17,Edward Moreno,1,1
+2020-02-17,Luis Obispo,1,2
+2020-02-18,Edward Moreno,1,1
+2020-02-18,Luis Obispo,1,2
+2020-03-07,Cami Geisman,1,3
+2020-03-07,Jason Rowland,1,4
+2020-03-07,John Bel Edwards,1,5
+2020-03-07,Mary Trammel,1,6
+2020-03-07,Pam Glorioso,1,7
+2020-03-07,Willis Knighton,1,8
+2020-03-07,Adrian Perkins,2,1
+2020-03-07,Martha Whyte,2,2
+2020-03-08,Mary Whitfill,1,1
+2020-03-08,Rose Dipietro,1,2
+2020-03-08,Todd Ellerin,1,3
+2020-03-09,Mardi Gras,1,1
+2020-03-09,Mary Whitfill,1,2
+2020-03-09,Meredith Mendez,1,3
+2020-03-09,Patrick Torcson,1,4
+2020-03-09,Rose Dipietro,1,5
+2020-03-09,Sam Caruso Jr,1,6
+2020-03-09,Todd Ellerin,1,7
+2020-03-11,Charlie Baker,1,1
+2020-03-11,Mary Whitfill,1,2
+2020-03-11,Marylou Sudders,1,3
+2020-03-11,Rose Dipietro,1,4
+2020-03-11,Steve Prator,1,5
+2020-03-11,Todd Ellerin,1,6
+2020-03-12,Martha Whyte,2,1
+2020-03-12,Steen Trawick,2,2
+2020-03-12,Steve Prator,2,3
+2020-03-13,Christina Stephens,1,1
+2020-03-13,Jerome Adams,1,2
+2020-03-13,John Bel Edwards,1,3
+2020-03-13,John Bell Edwards,1,4
+2020-03-13,Latoya Cantrell,1,5
+2020-03-13,Melinda Deslatte,1,6
+2020-03-13,Steve Prator,1,7
+2020-03-14,Bernie Sanders,1,1
+2020-03-14,Joe Biden,1,2
+2020-03-14,John Bel Edwards,1,3
+2020-03-14,Kyle Ardoin,1,4
+2020-03-14,Steve Prator,1,5
+2020-03-14,Xochitl Hinojosa,1,6
+2020-03-16,Adrian Perkins,1,1
+2020-03-16,Adrian Perkins Facebook,1,2
+2020-03-16,John Bel Edward,1,3
+2020-03-16,John Bel Edwards,1,4
+2020-03-16,Michael Nerren,1,5
+2020-03-17,Angelina Vicknair,1,1
+2020-03-17,Belle Chasse,1,2
+2020-03-17,Megan Kirchem,1,3
+2020-03-18,Ed Bush,1,8
+2020-03-18,Erica Bryant,1,9
+2020-03-18,Guillermo Maldonado,1,10
+2020-03-18,Jack Timmons,1,11
+2020-03-18,Josh King,1,12
+2020-03-18,Mario Chavez,1,13
+2020-03-18,Woodrow Wilson,1,14
+2020-03-18,Roger Corcoran,3,7
+2020-03-18,Clay Higgins,4,2
+2020-03-18,Donald Trump,4,3
+2020-03-18,Hillar Moore,4,4
+2020-03-18,Lillian Alexander,4,5
+2020-03-18,Woody Jenkins,4,6
+2020-03-18,John Bel Edwards,6,1
+2020-03-19,Greg Oliver,1,1
+2020-03-19,John Bel Edwards,1,2
+2020-03-20,Adam Blaqnmild Pigott,1,1
+2020-03-20,Arthur Ashe,1,2
+2020-03-20,Big Freedia,1,3
+2020-03-20,Greg Oliver,1,4
+2020-03-20,John Restrepo,1,5
+2020-03-20,Lil Wayne,1,6
+2020-03-20,Magnolia Shorty,1,7
+2020-03-20,Mardi Gras,1,8
+2020-03-20,Martha Whyte,1,9
+2020-03-20,Michael Mitchell,1,10
+2020-03-20,Steve Prator,1,11
+2020-03-21,Greg Oliver,1,1
+2020-03-26,Clay Higgins,1,2
+2020-03-26,Ed Bush,1,3
+2020-03-26,Hillar Moore,1,4
+2020-03-26,John Bel Edwards,1,5
+2020-03-26,Jonathan Lipow,1,6
+2020-03-26,Lillian Alexander,1,7
+2020-03-26,Roger Corcoran,1,8
+2020-03-26,Woody Jenkins,1,9
+2020-03-26,Donald Trump,2,1
+2020-03-27,Billie Carroll,1,1
+2020-03-27,Ronnie Hampton,1,2
+2020-03-27,Stephen Bradley,1,3
+2020-03-28,Adrian Perkins,1,1
+2020-03-28,Ben Raymond,1,2
+2020-03-28,John Bel Edward,1,3
+2020-03-28,John Bel Edwards,1,4
+2020-03-28,Martha Whyte,1,5
+2020-03-28,Steve Prator,1,6
+2020-03-28,Woodrow Wilson,1,7
+2020-03-29,Doug Ford,1,20
+2020-03-29,Helena Moreno,1,21
+2020-03-29,Sergei Sobyanin,1,22
+2020-03-29,Anthony Fauci,2,3
+2020-03-29,April Dunn,2,4
+2020-03-29,Dmitry Peskov,2,5
+2020-03-29,Fernando Simon,2,6
+2020-03-29,Gerald Herbert,2,7
+2020-03-29,Greg Abbott,2,8
+2020-03-29,Hassan Rouhani,2,9
+2020-03-29,Holland America,2,10
+2020-03-29,Justin Trudeau,2,11
+2020-03-29,Latoya Cantrell,2,12
+2020-03-29,Narendra Modi,2,13
+2020-03-29,Roger Corcoran,2,14
+2020-03-29,Shaun Ferguson,2,15
+2020-03-29,Sophie Gregoire Trudeau,2,16
+2020-03-29,Theresa Tam,2,17
+2020-03-29,Tim Beckett,2,18
+2020-03-29,Vladimir Putin,2,19
+2020-03-29,John Bel Edwards,4,2
+2020-03-29,Paul Quinn,6,1
+2020-03-30,Anthony Fauci,1,11
+2020-03-30,Augusta Waterville,1,12
+2020-03-30,Ava Louise,1,13
+2020-03-30,Ben Raymond,1,14
+2020-03-30,Daniel Burke,1,15
+2020-03-30,Dmitry Peskov,1,16
+2020-03-30,Doug Ford,1,17
+2020-03-30,Fernando Simon,1,18
+2020-03-30,Hassan Rouhani,1,19
+2020-03-30,Holland America,1,20
+2020-03-30,Jerry Falwell Jr,1,21
+2020-03-30,John Bel Edward,1,22
+2020-03-30,Justin Trudeau,1,23
+2020-03-30,Larry Hogan,1,24
+2020-03-30,Narendra Modi,1,25
+2020-03-30,Ruth Doreck,1,26
+2020-03-30,Sergei Sobyanin,1,27
+2020-03-30,Shawn Marshall Myers,1,28
+2020-03-30,Shawn Myers,1,29
+2020-03-30,Sophie Gregoire Trudeau,1,30
+2020-03-30,Steve Prator,1,31
+2020-03-30,Theresa Tam,1,32
+2020-03-30,Tim Beckett,1,33
+2020-03-30,Vladimir Putin,1,34
+2020-03-30,Donald Trump,2,9
+2020-03-30,Gerald Herbert,2,10
+2020-03-30,April Dunn,3,3
+2020-03-30,Greg Abbott,3,4
+2020-03-30,Helena Moreno,3,5
+2020-03-30,Latoya Cantrell,3,6
+2020-03-30,Roger Corcoran,3,7
+2020-03-30,Shaun Ferguson,3,8
+2020-03-30,John Bel Edwards,7,2
+2020-03-30,Paul Quinn,8,1
+2020-03-31,Adrian Perkins,1,5
+2020-03-31,Ava Louise,1,6
+2020-03-31,Ben Raymond,1,7
+2020-03-31,Helena Moreno,1,8
+2020-03-31,Howard Browne,1,9
+2020-03-31,Jerry Falwell Jr,1,10
+2020-03-31,John Bel Edward,1,11
+2020-03-31,Knox Andress,1,12
+2020-03-31,Larry Hogan,1,13
+2020-03-31,Latoya Cantrell,1,14
+2020-03-31,Les Funderberg,1,15
+2020-03-31,Marc Lipsitch,1,16
+2020-03-31,Mardi Gras,1,17
+2020-03-31,Martha Whyte,1,18
+2020-03-31,Mike Dewine,1,19
+2020-03-31,Paul Quinn,1,20
+2020-03-31,Ron Desantis,1,21
+2020-03-31,Shaun Ferguson,1,22
+2020-03-31,Shawn Marshall Myers,1,23
+2020-03-31,Shawn Myers,1,24
+2020-03-31,Steve Prator,1,25
+2020-03-31,Susan Hassig,1,26
+2020-03-31,Woodrow Wilson,1,27
+2020-03-31,John Bel Edwards,3,4
+2020-03-31,Daniel Burke,4,2
+2020-03-31,Rodney Howard-Browne,4,3
+2020-03-31,Donald Trump,7,1
+2020-04-01,Andrew Cuomo,1,3
+2020-04-01,Anthony Fauci,1,4
+2020-04-01,Bernie Sanders,1,5
+2020-04-01,Doug Jones,1,6
+2020-04-01,Joe Biden,1,7
+2020-04-01,John Bel Edward,1,8
+2020-04-01,Jonathan Karl,1,9
+2020-04-01,Kendall Karson,1,10
+2020-04-01,Lamar Goree,1,11
+2020-04-01,Lloyd Thompson,1,12
+2020-04-01,Mary Trammel,1,13
+2020-04-01,Rick Klein,1,14
+2020-04-01,Roy Moore,1,15
+2020-04-01,Scott Eisen Getty,1,16
+2020-04-01,Seth Meyers,1,17
+2020-04-01,Todd Ellerin,1,18
+2020-04-01,Donald Trump,2,1
+2020-04-01,John Bel Edwards,2,2
+2020-04-02,Ben Raymond,1,2
+2020-04-02,Jane Castor,1,3
+2020-04-02,John Bel Edwards,1,4
+2020-04-02,Patricia Whitlock,1,5
+2020-04-02,Randy Gobert,1,6
+2020-04-02,Rodney Adonica Howard-Browne,1,7
+2020-04-02,Rodney Adonica Howard-Browne Facebook,1,8
+2020-04-02,Rodney Howard-Browne,1,9
+2020-04-02,Roger Corcoran,1,10
+2020-04-02,Ron Desantis,1,11
+2020-04-02,Steve Prator,1,12
+2020-04-02,John Bel Edward,2,1
+2020-04-03,Heather Hunter,1,5
+2020-04-03,Tom Perry,1,6
+2020-04-03,Adrian Perkins,2,4
+2020-04-03,Ben Raymond,5,1
+2020-04-03,John Bel Edward,5,2
+2020-04-03,Steve Prator,5,3
+2020-04-04,Alistair Bell,1,2
+2020-04-04,Andrew Cuomo,1,3
+2020-04-04,Ann Saphir,1,4
+2020-04-04,Daniel Wallis,1,5
+2020-04-04,Donald Trump,1,6
+2020-04-04,Gabriella Borter,1,7
+2020-04-04,Greg Abbott,1,8
+2020-04-04,Heather Timmons,1,9
+2020-04-04,Helena Moreno,1,10
+2020-04-04,Jeff Mason,1,11
+2020-04-04,Nathan Layne,1,12
+2020-04-04,Paul Quinn,1,13
+2020-04-04,Rick Scott,1,14
+2020-04-04,Ryan Nelson,1,15
+2020-04-04,Shaun Ferguson,1,16
+2020-04-04,Steve Holland,1,17
+2020-04-04,John Bel Edwards,2,1
+2020-04-05,Anthony Fauci,1,36
+2020-04-05,Brian Smith,1,37
+2020-04-05,Governer Andrew Cuomo,1,38
+2020-04-05,Gretchen Whitmer,1,39
+2020-04-05,James Wilcox,1,40
+2020-04-05,Joshua Roberts,1,41
+2020-04-05,Robin Fretwell Wilson,1,42
+2020-04-05,Rodney Howard-Browne,1,43
+2020-04-05,Ron Desantis,1,44
+2020-04-05,Steve Prator,1,45
+2020-04-05,Lifeshare Wendell Jones,2,32
+2020-04-05,Neuer Inhalt,2,33
+2020-04-05,Peter Cooney,2,34
+2020-04-05,Wendell Jones,2,35
+2020-04-05,Andrew Kelly,3,22
+2020-04-05,Bobbye Mcinnis,3,23
+2020-04-05,Elizabeth Culliford,3,24
+2020-04-05,Gabriella Borter,3,25
+2020-04-05,Gina Raimondo,3,26
+2020-04-05,Jeff Mason,3,27
+2020-04-05,Joe Long,3,28
+2020-04-05,John Bel Edwards,3,29
+2020-04-05,Roger Corcoran,3,30
+2020-04-05,Tim Hampton,3,31
+2020-04-05,David Langston,4,20
+2020-04-05,Kevin Calhoun,4,21
+2020-04-05,Amanda Becker,5,12
+2020-04-05,Asa Hutchinson,5,13
+2020-04-05,Carlos Barria,5,14
+2020-04-05,Jay Inslee,5,15
+2020-04-05,Jerome Adams,5,16
+2020-04-05,Kate Lynn Blatt,5,17
+2020-04-05,Lisa Shumaker,5,18
+2020-04-05,Tom Wolf,5,19
+2020-04-05,Alistair Bell,6,7
+2020-04-05,Ann Saphir,6,8
+2020-04-05,Daniel Trotta,6,9
+2020-04-05,Heather Timmons,6,10
+2020-04-05,Steve Holland,6,11
+2020-04-05,Rick Scott,10,6
+2020-04-05,Nathan Layne,11,5
+2020-04-05,Daniel Wallis,12,3
+2020-04-05,Greg Abbott,12,4
+2020-04-05,Andrew Cuomo,15,2
+2020-04-05,Donald Trump,16,1
+2020-04-06,Adriana Gomez,1,21
+2020-04-06,Bobbye Mcinnis,1,22
+2020-04-06,Eduardo Munoz,1,23
+2020-04-06,Greg Abbott,1,24
+2020-04-06,Joe Long,1,25
+2020-04-06,John Bel Edwards,1,26
+2020-04-06,Lady Queen,1,27
+2020-04-06,Los Angeles,1,28
+2020-04-06,Neuer Inhalt,1,29
+2020-04-06,Rick Scott,1,30
+2020-04-06,Roger Corcoran,1,31
+2020-04-06,States Armys,1,32
+2020-04-06,Tim Hampton,1,33
+2020-04-06,Amanda Becker,2,10
+2020-04-06,Daniel Trotta,2,11
+2020-04-06,Daniel Wallis,2,12
+2020-04-06,Elizabeth Culliford,2,13
+2020-04-06,Gina Raimondo,2,14
+2020-04-06,Lifeshare Wendell Jones,2,15
+2020-04-06,Lisa Shumaker,2,16
+2020-04-06,Nathan Layne,2,17
+2020-04-06,Peter Cooney,2,18
+2020-04-06,Steve Prator,2,19
+2020-04-06,Wendell Jones,2,20
+2020-04-06,David Langston,4,8
+2020-04-06,Kevin Calhoun,4,9
+2020-04-06,Asa Hutchinson,6,3
+2020-04-06,Jay Inslee,6,4
+2020-04-06,Jerome Adams,6,5
+2020-04-06,Kate Lynn Blatt,6,6
+2020-04-06,Tom Wolf,6,7
+2020-04-06,Andrew Cuomo,7,1
+2020-04-06,Donald Trump,7,2
+2020-04-08,David Langston,1,1
+2020-04-08,Kevin Calhoun,1,2
+2020-04-08,Martha Whyte,1,3
+2020-04-08,Nan,1,4
+2020-04-08,Steve Prator,1,5
+2020-04-09,Angela Merkel,1,1
+2020-04-09,Canterbury Justin Welby,1,2
+2020-04-09,Clayton Cowart,1,3
+2020-04-09,Donald Trump,1,4
+2020-04-09,Eli Porter,1,5
+2020-04-09,Envor Moodley,1,6
+2020-04-09,Joe Long,1,7
+2020-04-09,John Greiner,1,8
+2020-04-09,Mary Ross Agosto,1,9
+2020-04-09,Pope Francis,1,10
+2020-04-09,Ron Desantis,1,11
+2020-04-09,Susan Wagle,1,12
+2020-04-10,Cedric Glover,2,1
+2020-04-10,George Dartois,2,2
+2020-04-10,Greg Tarver,2,3
+2020-04-10,Harry Blake,2,4
+2020-04-10,Martin Luther King Jr,2,5
+2020-04-11,James Wilcox,1,1
+2020-04-11,Steve Prator,1,2
+2020-04-12,Ammon Bundy,1,18
+2020-04-12,Andrea Buchanan Mcfarlain,1,19
+2020-04-12,Carletta Anthony Jones,1,20
+2020-04-12,Cathlean Gilmer Snyder,1,21
+2020-04-12,Cathlean Snyder,1,22
+2020-04-12,Christa Cunningham,1,23
+2020-04-12,Helena Moreno,1,24
+2020-04-12,Henrietta Wildsmith,1,25
+2020-04-12,Jennifer Babineaux,1,26
+2020-04-12,Jose Gomez,1,27
+2020-04-12,Los Angeles,1,28
+2020-04-12,Lucie Mesuch,1,29
+2020-04-12,Mark Burt,1,30
+2020-04-12,Neuer Inhalt,1,31
+2020-04-12,Paul Quinn,1,32
+2020-04-12,Raegan Abshire,1,33
+2020-04-12,Shaun Ferguson,1,34
+2020-04-12,Taylor Wallace,1,35
+2020-04-12,John Bel Edwards,2,15
+2020-04-12,Katie Paul,2,16
+2020-04-12,Tom Polansek,2,17
+2020-04-12,Barbara Goldberg,3,7
+2020-04-12,Christopher Bing,3,8
+2020-04-12,Daniel Wallis,3,9
+2020-04-12,Doina Chiacu,3,10
+2020-04-12,Ken Sullivan,3,11
+2020-04-12,Lisa Shumaker,3,12
+2020-04-12,Noeleen Walder,3,13
+2020-04-12,Ross Colvin,3,14
+2020-04-12,Anthony Fauci,4,1
+2020-04-12,Donald Trump,4,2
+2020-04-12,Kerri Kupac,4,3
+2020-04-12,Laura Kelly,4,4
+2020-04-12,Stephen Hahn,4,5
+2020-04-12,William Barr,4,6
+2020-04-13,Ammon Bundy,1,1
+2020-04-13,Diego Rodriguez,1,2
+2020-04-13,Greg Michel,1,3
+2020-04-13,Jamie Mayo,1,4
+2020-04-13,John Bel Edwards,1,5
+2020-04-13,Ron Phillips,1,6
+2020-04-13,Tate Reeves,1,7
+2020-04-14,Danny Mccormick,1,13
+2020-04-14,John Bel Edwards,1,14
+2020-04-14,Mark Wright,1,15
+2020-04-14,Richard Nelson,1,16
+2020-04-14,Thomas Paine,1,17
+2020-04-14,Adrian Perkins,2,4
+2020-04-14,Andrew Yurochko,2,5
+2020-04-14,Carroll Feist,2,6
+2020-04-14,Connie Arnold,2,7
+2020-04-14,David Raines,2,8
+2020-04-14,Mario Chavez,2,9
+2020-04-14,Martha Whyte,2,10
+2020-04-14,Martin Luther King,2,11
+2020-04-14,Woodrow Wilson,2,12
+2020-04-14,Ben Raymond,4,1
+2020-04-14,John Bel Edward,4,2
+2020-04-14,Steve Prator,4,3
+2020-04-16,Jeff Wittenbrink,1,1
+2020-04-16,Jon Bel Edwards,1,2
+2020-04-16,Roy Moore,1,3
+2020-04-17,Chris Graythen Getty,1,2
+2020-04-17,Jeff Wittenbrink,1,3
+2020-04-17,Jeffrey Wittenbrink,1,4
+2020-04-17,John Bel Edward,1,5
+2020-04-17,John Bel Edwards,1,6
+2020-04-17,Justice Roy Moore,1,7
+2020-04-17,Mother Teresa,1,8
+2020-04-17,Roger Corcoran,1,9
+2020-04-17,Roy Moore,1,10
+2020-04-17,Harold Orillion,2,1
+2020-04-18,Ben Raymond,1,2
+2020-04-18,Chris Graythen Getty,1,3
+2020-04-18,Hannah Adams,1,4
+2020-04-18,Harold Orillion,1,5
+2020-04-18,Jeffrey Wittenbrink,1,6
+2020-04-18,John Bel Edwards,1,7
+2020-04-18,Johnquil Kelley,1,8
+2020-04-18,Joshua Bruno,1,9
+2020-04-18,Sada Jones,1,10
+2020-04-18,Steve Prator,1,11
+2020-04-18,John Bel Edward,2,1
+2020-04-21,Carlos Barria,1,3
+2020-04-21,Jeff Wittenbrink,1,4
+2020-04-21,John Bel Edward,1,5
+2020-04-21,Joseph Long,1,6
+2020-04-21,Mike Pence,1,7
+2020-04-21,Samuel Smith,1,8
+2020-04-21,Tony Perkins,1,9
+2020-04-21,Roger Corcoran,2,1
+2020-04-21,Trey Bennett,2,2
+2020-04-22,Abbi Rocha,1,2
+2020-04-22,Chris Graythen Getty,1,3
+2020-04-22,Jesus Christ,1,4
+2020-04-22,John Bel Edwards,1,5
+2020-04-22,Moya Lothian-Mcleanin,1,6
+2020-04-22,Victor Blackwell,1,7
+2020-04-22,Trey Bennett,2,1
+2020-04-23,Barry Milligan,1,2
+2020-04-23,Bernie Sanders,1,3
+2020-04-23,Bob Mann,1,4
+2020-04-23,Catherine Mckinney,1,5
+2020-04-23,Chris Masingill,1,6
+2020-04-23,Jeff Wittenbrink,1,7
+2020-04-23,Joe Biden,1,8
+2020-04-23,John Bel Edward,1,9
+2020-04-23,Joseph Long,1,10
+2020-04-23,Kyle Ardoin,1,11
+2020-04-23,Mike Cooper,1,12
+2020-04-23,Mike Pence,1,13
+2020-04-23,Roger Corcoran,1,14
+2020-04-23,Samuel Smith,1,15
+2020-04-23,Stephanie Hilferty,1,16
+2020-04-23,Tony Perkins,1,17
+2020-04-23,Trey Bennett,1,18
+2020-04-23,John Bel Edwards,2,1
+2020-04-24,Ben Raymond,1,1
+2020-04-24,John Bel Edward,1,2
+2020-04-24,Steve Prator,1,3
+2020-04-28,Clay Schexnayder,1,2
+2020-04-28,D-New Orleans,1,3
+2020-04-28,Hillar Moore,1,4
+2020-04-28,Hillary Moore,1,5
+2020-04-28,Jesus Christ,1,6
+2020-04-28,Jimmy Harris,1,7
+2020-04-28,Page Cortez,1,8
+2020-04-28,Reggie Bagala,1,9
+2020-04-28,Sam Jenkins Jr,1,10
+2020-04-28,Ted James,1,11
+2020-04-28,Troy Carter,1,12
+2020-04-28,Victor Blackwell,1,13
+2020-04-28,John Bel Edwards,2,1
+2020-04-29,Nan,1,1
+2020-04-30,Andrew Cuomo,1,1
+2020-04-30,Aubrey Lurie,1,2
+2020-04-30,Barry Ivey,1,3
+2020-04-30,Barry Milligan,1,4
+2020-04-30,Brian Brox,1,5
+2020-04-30,Catherine Mckinney,1,6
+2020-04-30,Donald Trump,1,7
+2020-04-30,John Bel Edwards,1,8
+2020-04-30,Kyle Ardoin,1,9
+2020-04-30,Michael Henderson,1,10
+2020-04-30,Michael Mcdonald,1,11
+2020-04-30,Nan,1,12
+2020-04-30,Steve Prator,1,13
+2020-05-01,Andrew Cuomo,1,5
+2020-05-01,Barry Ivey,1,6
+2020-05-01,Barry Milligan,1,7
+2020-05-01,Bill Cassidy,1,8
+2020-05-01,Bodi White,1,9
+2020-05-01,Brian Brox,1,10
+2020-05-01,Catherine Mckinney,1,11
+2020-05-01,Clay Schexnayder,1,12
+2020-05-01,Donald Trump,1,13
+2020-05-01,Jamie Ostroff,1,14
+2020-05-01,Jay Luneau,1,15
+2020-05-01,Jim Donelon,1,16
+2020-05-01,Kenneth Haines,1,17
+2020-05-01,Kirk Talbot,1,18
+2020-05-01,Kyle Ardoin,1,19
+2020-05-01,Michael Mcdonald,1,20
+2020-05-01,Monika Gerhart,1,21
+2020-05-01,Page Cortez,1,22
+2020-05-01,Richard Piazza,1,23
+2020-05-01,Sharon Hewitt,1,24
+2020-05-01,Stephen Barnes,1,25
+2020-05-01,Steve Scalise,1,26
+2020-05-01,Alan Seabaugh,2,2
+2020-05-01,Constance Griffin,2,3
+2020-05-01,James Morris,2,4
+2020-05-01,John Bel Edwards,5,1
+2020-05-02,Andrew Cuomo,1,2
+2020-05-02,Barry Ivey,1,3
+2020-05-02,Barry Milligan,1,4
+2020-05-02,Brian Brox,1,5
+2020-05-02,Catherine Mckinney,1,6
+2020-05-02,Chuck Owen,1,7
+2020-05-02,Danny Mccormick,1,8
+2020-05-02,Donald Trump,1,9
+2020-05-02,Gavin Newsom,1,10
+2020-05-02,Kyle Ardoin,1,11
+2020-05-02,Los Angeles,1,12
+2020-05-02,Michael Mcdonald,1,13
+2020-05-02,John Bel Edwards,2,1
+2020-05-03,Andrew Cuomo,1,1
+2020-05-03,Barry Ivey,1,2
+2020-05-03,Barry Milligan,1,3
+2020-05-03,Brian Brox,1,4
+2020-05-03,Catherine Mckinney,1,5
+2020-05-03,Donald Trump,1,6
+2020-05-03,John Bel Edwards,1,7
+2020-05-03,Kyle Ardoin,1,8
+2020-05-03,Michael Mcdonald,1,9
+2020-05-04,Andrew Cuomo,1,1
+2020-05-04,Barry Ivey,1,2
+2020-05-04,Barry Milligan,1,3
+2020-05-04,Brian Brox,1,4
+2020-05-04,Catherine Mckinney,1,5
+2020-05-04,Donald Trump,1,6
+2020-05-04,John Bel Edwards,1,7
+2020-05-04,Kyle Ardoin,1,8
+2020-05-04,Michael Mcdonald,1,9
+2020-05-07,Blake Miguez,1,1
+2020-05-07,Courtney Phillips,1,2
+2020-05-07,Danny Mccormick,1,3
+2020-05-07,James Waskom,1,4
+2020-05-07,Jeremy Lacombe,1,5
+2020-05-07,John Bel Edward,1,6
+2020-05-07,Tanner Magee,1,7
+2020-05-10,Adrian Perkins,1,1
+2020-05-10,Brad Zagone,1,2
+2020-05-10,Henry Whitehorn,1,3
+2020-05-10,John Bel Edwards,1,4
+2020-05-11,Blake Miguez,1,1
+2020-05-11,Danny Mccormick,1,2
+2020-05-11,Elizabeth Nash,1,3
+2020-05-11,John Bel Edwards,1,4
+2020-05-12,Ben Raymond,2,1
+2020-05-12,Brent Hardy,2,2
+2020-05-12,Lakendrick Oneal,2,3
+2020-05-15,John Bel Edwards,1,1
+2020-05-25,Oretha Castle Haley,1,1

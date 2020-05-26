@@ -1,0 +1,877 @@
+date,organization,count,rn
+2020-02-13,Centers For Disease,1,1
+2020-02-13,Environmental Protection Agency,1,2
+2020-02-13,School Health Bureau,1,3
+2020-02-13,United States,1,4
+2020-02-28,Centers For Disease,1,1
+2020-03-03,Bloomberg,1,1
+2020-03-03,United States,1,2
+2020-03-09,Clorox,1,8
+2020-03-09,Facebook,1,9
+2020-03-09,Human Services,1,10
+2020-03-09,Loudoun International Youth Leadership Summit,1,11
+2020-03-09,Twitter,1,12
+2020-03-09,University Of Virginia,1,13
+2020-03-09,Christ Church Georgetown,2,4
+2020-03-09,Congress Sen,2,5
+2020-03-09,Marine Base Quantico,2,6
+2020-03-09,Medstar Georgetown University Hospital,2,7
+2020-03-09,Centers For Disease,3,3
+2020-03-09,School Without Walls High School,6,2
+2020-03-09,Virginia Department Of Health,12,1
+2020-03-10,Associated Press,1,12
+2020-03-10,Christ Church Georgetown,1,13
+2020-03-10,Falls Church,1,14
+2020-03-10,Marine Corps Base In Quantico,1,15
+2020-03-10,Marine Corps Base Quantico,1,16
+2020-03-10,Medstar Georgetown University,1,17
+2020-03-10,Nutrition Services,1,18
+2020-03-10,Public Health Department,1,19
+2020-03-10,School Without Walls High School,1,20
+2020-03-10,Schwartz,1,21
+2020-03-10,Service Division Of Consolidated Laboratory Services,1,22
+2020-03-10,Sherwood Community Center,1,23
+2020-03-10,Surgery In Falls Church,1,24
+2020-03-10,Virginia Department,1,25
+2020-03-10,Virginia Department Of Education,1,26
+2020-03-10,Virginia Department Of Health On,1,27
+2020-03-10,Walter Reed National Military Medical Center,1,28
+2020-03-10,District Georgetown Day School,2,3
+2020-03-10,Division Of Consolidated Laboratory Services In Richmond,2,4
+2020-03-10,Fairfax Health,2,5
+2020-03-10,Health Department,2,6
+2020-03-10,Marine Base Quantico,2,7
+2020-03-10,Medstar Georgetown University Hospital,2,8
+2020-03-10,Rappahannock Area Health,2,9
+2020-03-10,Rappahannock Area Health District,2,10
+2020-03-10,School Without Walls,2,11
+2020-03-10,Centers For Disease,3,2
+2020-03-10,Virginia Department Of Health,9,1
+2020-03-11,Catholic Church Basilica Of The National Shrine,1,3
+2020-03-11,Clorox,1,4
+2020-03-11,Consortium Of Endowed Episcopal Parishe,1,5
+2020-03-11,Coronavirus Case In Falls Church,1,6
+2020-03-11,Episcopal Church,1,7
+2020-03-11,Episcopal Diocese Of Virginia,1,8
+2020-03-11,Health Department,1,9
+2020-03-11,Marine Base Quantico,1,10
+2020-03-11,National Cathedral,1,11
+2020-03-11,Public Health Department,1,12
+2020-03-11,Surgery In Falls Church,1,13
+2020-03-11,Trinity Episcopal Church,1,14
+2020-03-11,Us Navy Bureau Of Medicine,1,15
+2020-03-11,Virginia Department Of Health,1,16
+2020-03-11,Virginia Department Of Rail,1,17
+2020-03-11,Washington Metropolitan Area Transit Authority,1,18
+2020-03-11,Washington National Cathedral,1,19
+2020-03-11,Centers For Disease,2,1
+2020-03-11,Falls Church,2,2
+2020-03-12,American Enterprise Institute,1,1
+2020-03-12,Carolina Department Of Health,1,2
+2020-03-12,Centers For Disease,1,3
+2020-03-12,Division Of Infectious Diseases,1,4
+2020-03-12,Drug Administration,1,5
+2020-03-12,House Oversight Committee,1,6
+2020-03-12,Human Services,1,7
+2020-03-12,Johns Hopkins University,1,8
+2020-03-12,Medstar Georgetown University Hospital,1,9
+2020-03-12,National Institute Of Allergy,1,10
+2020-03-12,Oval Office On,1,11
+2020-03-12,United States,1,12
+2020-03-12,University Of Alabama At Birmingham,1,13
+2020-03-12,Wake Forest School Of Medicine,1,14
+2020-03-12,Wisconsin Department Of Health Services,1,15
+2020-03-13,Amtrak,1,19
+2020-03-13,Carolina Department Of Health,1,20
+2020-03-13,Department Of Corrections,1,21
+2020-03-13,Department Of Human Resource Management,1,22
+2020-03-13,Department Of Medical Assistance Services,1,23
+2020-03-13,Department Of Rail,1,24
+2020-03-13,Emergency Communications Center,1,25
+2020-03-13,Facebook,1,26
+2020-03-13,House Oversight Committee,1,27
+2020-03-13,Human Services,1,28
+2020-03-13,Johns Hopkins University,1,29
+2020-03-13,National Institute Of Allergy,1,30
+2020-03-13,National Zoo,1,31
+2020-03-13,Office Of Personnel Management,1,32
+2020-03-13,Oval Office On,1,33
+2020-03-13,Public Health Emergency,1,34
+2020-03-13,United States,1,35
+2020-03-13,Wake Forest School Of Medicine,1,36
+2020-03-13,American Enterprise Institute,2,11
+2020-03-13,Department Of Education,2,12
+2020-03-13,Department Of Social Services,2,13
+2020-03-13,Division Of Infectious Diseases,2,14
+2020-03-13,Drug Administration,2,15
+2020-03-13,Medstar Georgetown University Hospital,2,16
+2020-03-13,University Of Alabama At Birmingham,2,17
+2020-03-13,Wisconsin Department Of Health Services,2,18
+2020-03-13,Virginia Department Of Education,3,10
+2020-03-13,Virginia Department Of Health,8,9
+2020-03-13,Associated Press,11,8
+2020-03-13,Defense Department,12,7
+2020-03-13,Centers For Disease,13,6
+2020-03-13,James Madison University,15,2
+2020-03-13,Longwood University,15,3
+2020-03-13,University Of Virginia,15,4
+2020-03-13,Virginia Commonwealth University,15,5
+2020-03-13,Arlington National Cemetery,17,1
+2020-03-14,Anacostia High School,1,3
+2020-03-14,Arlington National Cemetery,1,4
+2020-03-14,Associated Press,1,5
+2020-03-14,Ballou High School,1,6
+2020-03-14,Banneker High School,1,7
+2020-03-14,Benjamin Tasker Middle School,1,8
+2020-03-14,Brookland Middle School,1,9
+2020-03-14,Coolidge High School,1,10
+2020-03-14,Crestwood Middle School,1,11
+2020-03-14,Department Of Consolidated Laboratory Services In Richmond,1,12
+2020-03-14,Eastern High School,1,13
+2020-03-14,Fort Belvoir Community Hospital,1,14
+2020-03-14,Frederick Elementary School,1,15
+2020-03-14,Frederick High School,1,16
+2020-03-14,Freeman Middle School,1,17
+2020-03-14,Hillcrest Elementary School,1,18
+2020-03-14,James Madison University,1,19
+2020-03-14,Jefferson Middle School,1,20
+2020-03-14,Kelly Miller Middle School,1,21
+2020-03-14,Kenmoor Middle School,1,22
+2020-03-14,Kimball Elementary School,1,23
+2020-03-14,Lincoln Elementary School,1,24
+2020-03-14,Longwood University,1,25
+2020-03-14,Marine Base Quantico,1,26
+2020-03-14,Monocacy Elementary School,1,27
+2020-03-14,Nicholas Orem Middle School,1,28
+2020-03-14,Prince William Health Department,1,29
+2020-03-14,Prince William Health District,1,30
+2020-03-14,Stanton Elementary School,1,31
+2020-03-14,Stephen Decatur Middle School,1,32
+2020-03-14,Thurgood Marshall Middle School,1,33
+2020-03-14,University Of Virginia,1,34
+2020-03-14,Virginia Commonwealth University,1,35
+2020-03-14,Virginia Department Of Education,1,36
+2020-03-14,Waverley Elementary School,1,37
+2020-03-14,William Wirt Middle School,1,38
+2020-03-14,Woodson High School,1,39
+2020-03-14,Centers For Disease,2,2
+2020-03-14,Virginia Department Of Health,3,1
+2020-03-15,Centers For Disease,1,1
+2020-03-15,Department Of Consolidated Laboratory Services In Richmond,1,2
+2020-03-15,Fort Belvoir Community Hospital,1,3
+2020-03-15,Prince William Health Department,1,4
+2020-03-15,Prince William Health District,1,5
+2020-03-15,Virginia Department Of Health,1,6
+2020-03-16,Arlington National Cemetery,1,1
+2020-03-16,Facebook,1,2
+2020-03-16,First Presbyterian Church,1,3
+2020-03-16,James Madison University,1,4
+2020-03-16,Longwood University,1,5
+2020-03-16,Ohio Conference Of The United Methodist Church,1,6
+2020-03-16,Paul Lutheran Church,1,7
+2020-03-16,Touch Heaven Church,1,8
+2020-03-16,University Of Virginia,1,9
+2020-03-16,Virginia Commonwealth University,1,10
+2020-03-16,Virginia Department Of Health,1,11
+2020-03-17,Nan,1,1
+2020-03-17,Virginia Department Of Health,1,2
+2020-03-17,Virginia Department Of Health On,1,3
+2020-03-18,Macy Closes Stores,1,1
+2020-03-18,Marymount University,1,2
+2020-03-18,Peninsula Health District,1,3
+2020-03-18,Police Can Now Enforce State Crowd Ban,1,4
+2020-03-18,Restaurant Group Shutters Locations,1,5
+2020-03-18,Virginia Department Of Health,1,6
+2020-03-19,Amtrak,1,1
+2020-03-19,Christ Church Georgetown,1,2
+2020-03-19,Daily Fund Program,1,3
+2020-03-19,Department Of Defense,1,4
+2020-03-19,Department Of Education,1,5
+2020-03-19,Division Of Consolidated Laboratory Services,1,6
+2020-03-19,Facebook,1,7
+2020-03-19,First Baptist Church,1,8
+2020-03-19,First Presbyterian Church,1,9
+2020-03-19,First United Methodist Church,1,10
+2020-03-19,Grace Network,1,11
+2020-03-19,Joseph Catholic Church,1,12
+2020-03-19,Longwood University On,1,13
+2020-03-19,Lynbrook Elementary School,1,14
+2020-03-19,Medstar Georgetown University Hospital,1,15
+2020-03-19,Montgomery County Department Of Health,1,16
+2020-03-19,Mount Bethel United Methodist Church,1,17
+2020-03-19,Nan,1,18
+2020-03-19,Peninsula Health District,1,19
+2020-03-19,Peninsula Health District On,1,20
+2020-03-19,Prince William Health Department,1,21
+2020-03-19,Prison Ministry,1,22
+2020-03-19,Small Business Administration,1,23
+2020-03-19,United States,1,24
+2020-03-19,University Of Maryland Baltimore,1,25
+2020-03-19,Virginia Baptist State Convention,1,26
+2020-03-19,Virginia Department Of Corrections,1,27
+2020-03-19,Virginia Department Of Health On,1,28
+2020-03-19,Virginia Employment Commission,1,29
+2020-03-19,Virginia Hospital Center,1,30
+2020-03-19,White House,1,31
+2020-03-19,World Health Organization,1,32
+2020-03-19,Youtube,1,33
+2020-03-20,Christ Church Georgetown,1,1
+2020-03-20,Department Of Defense,1,2
+2020-03-20,Department Of Education,1,3
+2020-03-20,Division Of Consolidated Laboratory Services,1,4
+2020-03-20,Facebook,1,5
+2020-03-20,Longwood University On,1,6
+2020-03-20,Lynbrook Elementary School,1,7
+2020-03-20,Medstar Georgetown University Hospital,1,8
+2020-03-20,Nan,1,9
+2020-03-20,Peninsula Health District,1,10
+2020-03-20,Peninsula Health District On,1,11
+2020-03-20,Prince William Health Department,1,12
+2020-03-20,Small Business Administration,1,13
+2020-03-20,Virginia Department Of Corrections,1,14
+2020-03-20,Virginia Department Of Health,1,15
+2020-03-20,Virginia Department Of Health On,1,16
+2020-03-20,Virginia Employment Commission,1,17
+2020-03-20,Wendy,1,18
+2020-03-20,White House,1,19
+2020-03-20,World Health Organization,1,20
+2020-03-22,Christ Church A Georgetown,1,1
+2020-03-22,Diocese Of Washington,1,2
+2020-03-22,Lenten Season At Christ Church,1,3
+2020-03-22,Marymount University,1,4
+2020-03-22,Royal Army,1,5
+2020-03-23,Coronavirus Fraud Task Force,2,1
+2020-03-23,Customer Contact Center,2,2
+2020-03-23,Frontier Airlines,2,3
+2020-03-23,Marymount University,2,4
+2020-03-23,Reagan National Airport,2,5
+2020-03-23,Virginia Coronavirus Fraud Task,2,6
+2020-03-25,Alliance For Charitable Excellence Christie Herrera,1,2
+2020-03-25,American Civil Liberties Union,1,3
+2020-03-25,Centers For Disease,1,4
+2020-03-25,Charles Koch Foundation,1,5
+2020-03-25,Children National Hospital,1,6
+2020-03-25,Circuit Court,1,7
+2020-03-25,Citizens United Supreme Court,1,8
+2020-03-25,College Fix,1,9
+2020-03-25,George Mason University,1,10
+2020-03-25,George Mason University Foundation,1,11
+2020-03-25,Giant Food,1,12
+2020-03-25,Industrial Development Authority,1,13
+2020-03-25,Johns Hopkins University,1,14
+2020-03-25,Liquor Stores Limit Hours,1,15
+2020-03-25,Mason Foundation,1,16
+2020-03-25,Medstar Georgetown University Hospital,1,17
+2020-03-25,Scalia Law School,1,18
+2020-03-25,Supreme Court Justice Antonin Scalia,1,19
+2020-03-25,Virginia Alcoholic Beverage Control Authority,1,20
+2020-03-25,Virginia Hospital Center,1,21
+2020-03-25,Virginia Supreme Court,1,22
+2020-03-25,Arlington National Cemetery,2,1
+2020-03-26,Calvary Women Services,1,1
+2020-03-26,Cracker Barrel,1,2
+2020-03-26,Defense Department,1,3
+2020-03-26,Medstar Georgetown University Hospital,1,4
+2020-03-26,Montgomery Community Media,1,5
+2020-03-26,Twitter,1,6
+2020-03-26,University Of Maryland,1,7
+2020-03-26,Virginia Department Of Health,1,8
+2020-03-27,Health Data,1,1
+2020-03-27,Liberty High School,1,2
+2020-03-27,Virginia Hospital Center,1,3
+2020-03-28,Arlington National Cemetery,1,1
+2020-03-28,Early Childhood Development,1,2
+2020-03-28,Fort Bend Family Health Center,1,3
+2020-03-28,Fort Bend Historical Commission,1,4
+2020-03-28,John United Church,1,5
+2020-03-28,Marine Corps,1,6
+2020-03-28,Memorial Services,1,7
+2020-03-28,National Funeral Directors Association,1,8
+2020-03-28,National Funeral Directors Mortician Association,1,9
+2020-03-28,Parent Teacher Association,1,10
+2020-03-28,Rosenberg Railroad Museum,1,11
+2020-03-28,Women Guild,1,12
+2020-03-30,Medstar Georgetown University Hospital,1,1
+2020-03-30,Rector Of Georgetown Christ Church,1,2
+2020-03-31,Facebook,1,1
+2020-03-31,Falls Church,1,2
+2020-03-31,First Baptist Church,1,3
+2020-03-31,First Presbyterian Church,1,4
+2020-03-31,First United Methodist Church,1,5
+2020-03-31,Grace Network,1,6
+2020-03-31,Johns Hopkins University,1,7
+2020-03-31,Joseph Catholic Church,1,8
+2020-03-31,Mount Bethel United Methodist Church,1,9
+2020-03-31,Prison Ministry,1,10
+2020-03-31,Virginia Baptist State Convention,1,11
+2020-03-31,Virginia Department Of Health,1,12
+2020-03-31,Virginia Department Of Rail,1,13
+2020-03-31,Youtube,1,14
+2020-04-02,Facebook,1,1
+2020-04-02,Nan,1,2
+2020-04-06,Community Foundation Of Washington,1,2
+2020-04-06,Giant Food,1,3
+2020-04-06,Maryland Department Of Health,1,4
+2020-04-06,Virginia Department Of Health,1,5
+2020-04-06,Medstar Georgetown University Hospital,2,1
+2020-04-07,Arlington Dem School Board Caucus,1,2
+2020-04-07,Arlington School Board,1,3
+2020-04-07,Centers For Disease,1,4
+2020-04-07,Centers Of Disease,1,5
+2020-04-07,Dc Health,1,6
+2020-04-07,Giant Food,1,7
+2020-04-07,Health Data,1,8
+2020-04-07,Maryland Department Of Health,1,9
+2020-04-07,School Board,1,10
+2020-04-07,School Board Caucus,1,11
+2020-04-07,Virginia Department Of Elections,1,12
+2020-04-07,Virginia Department Of Health,1,13
+2020-04-07,Wharf Community Association,1,14
+2020-04-07,Medstar Georgetown University Hospital,2,1
+2020-04-08,Children National Hospital,1,8
+2020-04-08,Dc Department Of Corrections,1,9
+2020-04-08,Dc Health,2,2
+2020-04-08,Giant Food,2,3
+2020-04-08,Hutchison Farm Elementary School,2,4
+2020-04-08,Maryland Department Of Health,2,5
+2020-04-08,Virginia Department Of Health,2,6
+2020-04-08,Wharf Community Association,2,7
+2020-04-08,Medstar Georgetown University Hospital,3,1
+2020-04-09,Dc Health,1,2
+2020-04-09,District Economic Recovery Team,1,3
+2020-04-09,Hutchison Farm Elementary School,1,4
+2020-04-09,Johns Hopkins University,1,5
+2020-04-09,Liberty Elementary School,1,6
+2020-04-09,Maryland Department Of Health,1,7
+2020-04-09,Medstar Georgetown University Hospital,1,8
+2020-04-09,National Park Service,1,9
+2020-04-09,Safeway,1,10
+2020-04-09,Shenandoah National Park,1,11
+2020-04-09,Small Business Association Disaster Customer Service Hotline,1,12
+2020-04-09,Virginia Department Of Health,1,13
+2020-04-09,Wharf Community Association,1,14
+2020-04-09,Giant Food,2,1
+2020-04-10,Dc Health,1,1
+2020-04-10,District Contingency Cash Reserve Fund,1,2
+2020-04-10,District Economic Recovery Team,1,3
+2020-04-10,Giant Food,1,4
+2020-04-10,Hutchison Farm Elementary School,1,5
+2020-04-10,Liberty Elementary School,1,6
+2020-04-10,Maryland Department Of Health,1,7
+2020-04-10,Medstar Georgetown University Hospital,1,8
+2020-04-10,National Park Service,1,9
+2020-04-10,Shenandoah National Park,1,10
+2020-04-10,Small Business Association Disaster Customer Service Hotline,1,11
+2020-04-10,Virginia Department Of Health,1,12
+2020-04-10,Wharf Community Association,1,13
+2020-04-11,Canterbury Rehabilitation Healthcare Center,1,1
+2020-04-11,Dc Health,1,2
+2020-04-11,District Contingency Cash Reserve Fund,1,3
+2020-04-11,District Economic Recovery Team,1,4
+2020-04-11,Dulles Health Rehab,1,5
+2020-04-11,Giant Food,1,6
+2020-04-11,Hutchison Farm Elementary School,1,7
+2020-04-11,Kensington Falls Church,1,8
+2020-04-11,Liberty Elementary School,1,9
+2020-04-11,Maryland Department Of Health,1,10
+2020-04-11,Medstar Georgetown University Hospital,1,11
+2020-04-11,National Association Of Healthcare Assistants,1,12
+2020-04-11,National Park Service,1,13
+2020-04-11,Shenandoah National Park,1,14
+2020-04-11,Small Business Association Disaster Customer Service Hotline,1,15
+2020-04-11,University Of Maryland School Of Medicine,1,16
+2020-04-11,Virginia Department Of Corrections,1,17
+2020-04-11,Virginia Department Of Health,1,18
+2020-04-11,Wharf Community Association,1,19
+2020-04-12,Dc Department Of Corrections,1,1
+2020-04-12,Dc Health,1,2
+2020-04-12,District Contingency Cash Reserve Fund,1,3
+2020-04-12,District Economic Recovery Team,1,4
+2020-04-12,Giant Food,1,5
+2020-04-12,Hutchison Farm Elementary School,1,6
+2020-04-12,Liberty Elementary School,1,7
+2020-04-12,Maryland Department Of Health,1,8
+2020-04-12,Medstar Georgetown University Hospital,1,9
+2020-04-12,National Park Service,1,10
+2020-04-12,Shenandoah National Park,1,11
+2020-04-12,Small Business Association Disaster Customer Service Hotline,1,12
+2020-04-12,University Of Maryland School Of Medicine,1,13
+2020-04-12,Virginia Department Of Corrections,1,14
+2020-04-12,Virginia Department Of Health,1,15
+2020-04-12,Wharf Community Association,1,16
+2020-04-13,Arlington Health District,1,1
+2020-04-13,Brookdale Senior Living,1,2
+2020-04-13,Centers For Disease,1,3
+2020-04-13,Health Data,1,4
+2020-04-13,Human Services,1,5
+2020-04-13,Public Health Division,1,6
+2020-04-13,Sunrise Senior Living,1,7
+2020-04-13,United States,1,8
+2020-04-13,Virginia Department Of Health,1,9
+2020-04-14,A Maryland Health Department,1,1
+2020-04-14,Arlington Manor Care Health Services,1,2
+2020-04-14,Department Of Health,1,3
+2020-04-14,Health Data,1,4
+2020-04-14,Human Services Department,1,5
+2020-04-14,Manorcare Health Services,1,6
+2020-04-14,United States,1,7
+2020-04-14,Virginia Department Of Health,1,8
+2020-04-14,Youtube,1,9
+2020-04-15,American Alliance Of Museums,1,1
+2020-04-15,American Civil War Center,1,2
+2020-04-15,Arlington Arts Center,1,3
+2020-04-15,Centre Pompidou,1,4
+2020-04-15,International Council Of Museums,1,5
+2020-04-15,Journey At Reagan National Airport,1,6
+2020-04-15,Museum Of Art,1,7
+2020-04-15,Museum Transparency,1,8
+2020-04-15,United States,1,9
+2020-04-15,Vera List Center,1,10
+2020-04-15,Yorktown Foundation,1,11
+2020-04-16,Airborne Division,1,1
+2020-04-16,Airborne Division At Ft,1,2
+2020-04-16,American Aerospace Defense Command,1,3
+2020-04-16,Arlington National Cemetery,1,4
+2020-04-16,Army Aviation Brigade,1,5
+2020-04-16,Army Major,1,6
+2020-04-16,Army Priority Air Transportation,1,7
+2020-04-16,Army Special Reaction Team,1,8
+2020-04-16,Army Specialist,1,9
+2020-04-16,Bloomberg,1,10
+2020-04-16,Bon Air Juvenile Correctional Center,1,11
+2020-04-16,Cessna,1,12
+2020-04-16,Contingency Response,1,13
+2020-04-16,Corporate Communications,1,14
+2020-04-16,Defense Department,1,15
+2020-04-16,Defense Operations Center,1,16
+2020-04-16,Department Of Juvenile Justice,1,17
+2020-04-16,Directorate Of Emergency Services,1,18
+2020-04-16,Health Data,1,19
+2020-04-16,Health Insurance Portability,1,20
+2020-04-16,Illinois National Guard,1,21
+2020-04-16,Immediate Response,1,22
+2020-04-16,Instagram,1,23
+2020-04-16,Justchildren Program,1,24
+2020-04-16,Legal Aid Justice Center,1,25
+2020-04-16,Marine Corps Chemical Biological Incident Response Force,1,26
+2020-04-16,Memorial Affairs,1,27
+2020-04-16,Mississippi National,1,28
+2020-04-16,Mississippi National Guard,1,29
+2020-04-16,Nan,1,30
+2020-04-16,National Capital Region,1,31
+2020-04-16,National Guard,1,32
+2020-04-16,National Guard Bureau,1,33
+2020-04-16,National Mission,1,34
+2020-04-16,National Partnership For Juvenile Services,1,35
+2020-04-16,Pentagon Force Protection Agency,1,36
+2020-04-16,Police Company,1,37
+2020-04-16,Police Detachment,1,38
+2020-04-16,Rainbow Division,1,39
+2020-04-16,Reaction Team,1,40
+2020-04-16,Task Force National Capital Region,1,41
+2020-04-16,United States,1,42
+2020-04-16,Us Army,1,43
+2020-04-16,Virginia Department Of Health,1,44
+2020-04-16,Virginia Department Of Juvenile Justice,1,45
+2020-04-16,Virginia Hospital Center,1,46
+2020-04-16,Virginia State Police Departments,1,47
+2020-04-16,White House,1,48
+2020-04-16,White House Military Office,1,49
+2020-04-17,Airborne Division,1,1
+2020-04-17,Airborne Division At Ft,1,2
+2020-04-17,American Aerospace Defense Command,1,3
+2020-04-17,Arlington Community Corps,1,4
+2020-04-17,Arlington Public Health,1,5
+2020-04-17,Army Aviation Brigade,1,6
+2020-04-17,Army Major,1,7
+2020-04-17,Army Priority Air Transportation,1,8
+2020-04-17,Army Special Reaction Team,1,9
+2020-04-17,Army Specialist,1,10
+2020-04-17,Bloomberg,1,11
+2020-04-17,Cessna,1,12
+2020-04-17,Contingency Response,1,13
+2020-04-17,Defense Department,1,14
+2020-04-17,Defense Operations Center,1,15
+2020-04-17,Department Of Public Safety Communications,1,16
+2020-04-17,Directorate Of Emergency Services,1,17
+2020-04-17,Health Data,1,18
+2020-04-17,Illinois National Guard,1,19
+2020-04-17,Immediate Response,1,20
+2020-04-17,Marine Corps Chemical Biological Incident Response Force,1,21
+2020-04-17,Mississippi National,1,22
+2020-04-17,Mississippi National Guard,1,23
+2020-04-17,National Capital Region,1,24
+2020-04-17,National Guard,1,25
+2020-04-17,National Guard Bureau,1,26
+2020-04-17,National Mission,1,27
+2020-04-17,Pentagon Force Protection Agency,1,28
+2020-04-17,Police Company,1,29
+2020-04-17,Police Detachment,1,30
+2020-04-17,Public Health Division,1,31
+2020-04-17,Reaction Team,1,32
+2020-04-17,Task Force National Capital Region,1,33
+2020-04-17,United States,1,34
+2020-04-17,Virginia State Police Departments,1,35
+2020-04-17,White House,1,36
+2020-04-17,White House Military Office,1,37
+2020-04-18,Airborne Division,1,1
+2020-04-18,Airborne Division At Ft,1,2
+2020-04-18,American Aerospace Defense Command,1,3
+2020-04-18,Army Aviation Brigade,1,4
+2020-04-18,Army Major,1,5
+2020-04-18,Army Priority,1,6
+2020-04-18,Army Special Reaction Team,1,7
+2020-04-18,Army Specialist,1,8
+2020-04-18,Bloomberg,1,9
+2020-04-18,Capitol Police,1,10
+2020-04-18,Cessna,1,11
+2020-04-18,Contingency Response,1,12
+2020-04-18,Defense Department,1,13
+2020-04-18,Defense Operations Center,1,14
+2020-04-18,First Presbyterian Church,1,15
+2020-04-18,Immediate Response,1,16
+2020-04-18,Incident Response Force,1,17
+2020-04-18,Mississippi National,1,18
+2020-04-18,National Capital Region,1,19
+2020-04-18,National Guard,1,20
+2020-04-18,National Guard Bureau,1,21
+2020-04-18,National Mission,1,22
+2020-04-18,Police Company,1,23
+2020-04-18,Police Detachment,1,24
+2020-04-18,Protection Agency,1,25
+2020-04-18,Reaction Team,1,26
+2020-04-18,Task Force National,1,27
+2020-04-18,Task Force Prepares To,1,28
+2020-04-18,United States,1,29
+2020-04-18,Virginia Council Of Churches,1,30
+2020-04-18,Virginia State Police,1,31
+2020-04-18,White House,1,32
+2020-04-18,White House Military Office,1,33
+2020-04-19,Consulate Health Care,1,1
+2020-04-19,Consulate Health Care Of Windsor,1,2
+2020-04-19,Daily Press On,1,3
+2020-04-19,Department Of Health,1,4
+2020-04-19,Health Department,1,5
+2020-04-19,Riverside Health System,1,6
+2020-04-19,Riverside Healthy Living Community Of Smithfield,1,7
+2020-04-19,Tidewater Health District,1,8
+2020-04-19,Virginia Department Of Health,1,9
+2020-04-19,Wight Citizens Group,1,10
+2020-04-21,Airborne Division,1,2
+2020-04-21,Airborne Division At Ft,1,3
+2020-04-21,American Aerospace Defense Command,1,4
+2020-04-21,Arlington Virginia Hospital Center,1,5
+2020-04-21,Army Aviation Brigade,1,6
+2020-04-21,Army Major,1,7
+2020-04-21,Army Priority Air Transportation,1,8
+2020-04-21,Army Special Reaction Team,1,9
+2020-04-21,Army Specialist,1,10
+2020-04-21,Bloomberg,1,11
+2020-04-21,Cessna,1,12
+2020-04-21,Contingency Response,1,13
+2020-04-21,Defense Department,1,14
+2020-04-21,Defense Operations Center,1,15
+2020-04-21,Directorate Of Emergency Services,1,16
+2020-04-21,Illinois National Guard,1,17
+2020-04-21,Immediate Response,1,18
+2020-04-21,Marine Corps Chemical Biological Incident Response Force,1,19
+2020-04-21,Mississippi National,1,20
+2020-04-21,Mississippi National Guard,1,21
+2020-04-21,National Capital Region,1,22
+2020-04-21,National Guard,1,23
+2020-04-21,National Guard Bureau,1,24
+2020-04-21,National Mission,1,25
+2020-04-21,Pentagon Force Protection Agency,1,26
+2020-04-21,Police Company,1,27
+2020-04-21,Police Detachment,1,28
+2020-04-21,Reaction Team,1,29
+2020-04-21,Stonewall Middle School,1,30
+2020-04-21,Task Force National Capital Region,1,31
+2020-04-21,United States,1,32
+2020-04-21,Virginia Department Of Health,1,33
+2020-04-21,Virginia State Police Departments,1,34
+2020-04-21,White House,1,35
+2020-04-21,White House Military Office,1,36
+2020-04-21,Virginia Hospital Center,2,1
+2020-04-22,Anne Arundel Medical Center,1,2
+2020-04-22,Arlington Church,1,3
+2020-04-22,Capital Area Food Bank,1,4
+2020-04-22,Catholic Charities,1,5
+2020-04-22,Centremed Donor Center,1,6
+2020-04-22,Charles Drew Donation Center,1,7
+2020-04-22,Children National,1,8
+2020-04-22,Columbia Donation Center,1,9
+2020-04-22,Crisis Intervention Center,1,10
+2020-04-22,Dc Coalition Against Domestic Violence,1,11
+2020-04-22,Dulles Donor Center,1,12
+2020-04-22,Emergency Aid Fund,1,13
+2020-04-22,Fairlington Villages Management Office,1,14
+2020-04-22,Falls Church,1,15
+2020-04-22,Family Service Association,1,16
+2020-04-22,Fauquier Community Food Bank,1,17
+2020-04-22,Frederick Rescue Mission,1,18
+2020-04-22,Greater Dc Diaper Bank,1,19
+2020-04-22,Humane Rescue Alliance,1,20
+2020-04-22,John Adams Elementary School,1,21
+2020-04-22,Leonard Chick Armstrong Recreation Center,1,22
+2020-04-22,Manna Food Center,1,23
+2020-04-22,Maryland Food Bank,1,24
+2020-04-22,Maryland Network Against Domestic Violence,1,25
+2020-04-22,Northern Virginia Family Service,1,26
+2020-04-22,Peter Lutheran Church,1,27
+2020-04-22,Southern Maryland Center,1,28
+2020-04-22,Southern Maryland Food Bank Outreach Services,1,29
+2020-04-22,Sterling,1,30
+2020-04-22,United Community,1,31
+2020-04-22,Women Center,1,32
+2020-04-22,Woodburn Donor Center,1,33
+2020-04-22,Zion United Methodist Church,1,34
+2020-04-22,Arlington Food Assistance Center,2,1
+2020-04-23,Arlington Department Of Human Resources,1,1
+2020-04-23,Arlington National Cemetery,1,2
+2020-04-23,Homeland Security Naval Postgraduate School In Monterey,1,3
+2020-04-23,Tribune News Service,1,4
+2020-04-23,United States,1,5
+2020-04-24,Environmental Protection Agency,1,1
+2020-04-24,Georgetown Day School,1,2
+2020-04-24,John Hopkins University,1,3
+2020-04-24,Public Affairs Research,1,4
+2020-04-24,Reckitt Benckiser,1,5
+2020-04-24,United States,1,6
+2020-04-24,White House,1,7
+2020-04-27,Canterbury Rehabilitation Healthcare Center,1,3
+2020-04-27,Children National Hospital,1,4
+2020-04-27,Corporation Commission,1,5
+2020-04-27,Department Of Motor Vehicles,1,6
+2020-04-27,Fairfax Health District,1,7
+2020-04-27,Howard University Hospital,1,8
+2020-04-27,Jessup Correctional Institution,1,9
+2020-04-27,Johns Hopkins University,1,10
+2020-04-27,Marine Corps Base Quantico,1,11
+2020-04-27,Medstar Georgetown University Hospital,1,12
+2020-04-27,National Guard,1,13
+2020-04-27,National Harbor,1,14
+2020-04-27,Peninsula Acting Health,1,15
+2020-04-27,Peninsula Health District,1,16
+2020-04-27,Prince William Health District,1,17
+2020-04-27,Psychatric Institute Of Washington,1,18
+2020-04-27,Rappahannock Health District,1,19
+2020-04-27,Rappahannock-Rapidan Health District,1,20
+2020-04-27,Supreme Court,1,21
+2020-04-27,Trump Administration,1,22
+2020-04-27,United Medical Center,1,23
+2020-04-27,Virginia Department Of Health,1,24
+2020-04-27,Virginia Division Of Consolidated Laboratory Services,1,25
+2020-04-27,Virginia Employment Commission,1,26
+2020-04-27,Virginia Health,1,27
+2020-04-27,Virginia National Guard,1,28
+2020-04-27,Workforce Development Advisor Megan Healy,1,29
+2020-04-27,Centers For Disease,2,1
+2020-04-27,Falls Church,2,2
+2020-04-28,Arlington Community Federal Credit Union,1,1
+2020-04-28,Arlington Economic Development,1,2
+2020-04-28,Case Shuts Down Credit Union Branch,1,3
+2020-04-28,Creative Hairdressers Inc,1,4
+2020-04-28,Falls Church,1,5
+2020-04-28,Health Data,1,6
+2020-04-28,Human Services,1,7
+2020-04-28,More Contributions For Small Biz Grant Fund,1,8
+2020-04-28,Public Health Division,1,9
+2020-04-28,Systems Management Division,1,10
+2020-04-28,Virginia Hospital Center Flickr,1,11
+2020-04-29,Arlington Economic Development,1,1
+2020-04-29,Dulles International Airport,1,2
+2020-04-29,Falls Church,1,3
+2020-04-29,Industrial Development,1,4
+2020-04-29,National Landing,1,5
+2020-04-29,Resiliency Assets Near Term Program,1,6
+2020-05-01,Arlington Community Day,1,1
+2020-05-01,Courthouse Civic Federation,1,2
+2020-05-01,Courtland Towers Store To Become Apartments,1,3
+2020-05-01,Dominion Energy,1,4
+2020-05-01,Fashion Centre At Pentagon City,1,5
+2020-05-01,Hotel Donates Rooms To,1,6
+2020-05-01,Initiative Tackling Hunger,1,7
+2020-05-01,New York Stock Exchange,1,8
+2020-05-01,Roots Corp,1,9
+2020-05-01,Virginia Hospital Center,1,10
+2020-05-01,York Stock Exchange,1,11
+2020-05-02,Centers For Disease,1,1
+2020-05-02,Neighborhood Health,1,2
+2020-05-02,Virginia Department Of Health,1,3
+2020-05-03,Health System,1,1
+2020-05-03,Healthcare Association,1,2
+2020-05-03,Virginia Commonwealth University,1,3
+2020-05-03,Virginia Department Of Health,1,4
+2020-05-03,Virginia Hospital Center,1,5
+2020-05-04,Arlington Food Assistance Center,1,1
+2020-05-04,Dems Hold County Board Forum,1,2
+2020-05-04,Health System,1,3
+2020-05-04,Healthcare Association,1,4
+2020-05-04,Marymount University,1,5
+2020-05-04,Ronald Reagan Washington National Airport,1,6
+2020-05-04,Transportation Security Administration,1,7
+2020-05-04,Twitter,1,8
+2020-05-04,Virginia Commonwealth University,1,9
+2020-05-04,Virginia Department Of Health,1,10
+2020-05-04,Virginia Hospital Center,1,11
+2020-05-04,Workers Create Food Bank,1,12
+2020-05-06,Arlington Public Health,1,1
+2020-05-06,Department Of Human Services,1,2
+2020-05-06,Facebook,1,3
+2020-05-06,Field School,1,4
+2020-05-06,George Mason U Honors College Honorsmason,1,5
+2020-05-06,George Mason University,1,6
+2020-05-06,Georgetown Day School,1,7
+2020-05-06,Mckinley Elementary School,1,8
+2020-05-06,National Cathedral,1,9
+2020-05-06,National Cathedral School,1,10
+2020-05-06,New York Times,1,11
+2020-05-06,Paycheck Protection Program,1,12
+2020-05-06,Public Health,1,13
+2020-05-06,Ruth Chris Steak House,1,14
+2020-05-06,Small Business Administration Paycheck Protection Program,1,15
+2020-05-06,Twitter,1,16
+2020-05-06,Washington Post,1,17
+2020-05-07,American Campaign Medal,1,1
+2020-05-07,American Defense Service Medal,1,2
+2020-05-07,Arlington Circuit Court,1,3
+2020-05-07,Army Commendation Medal,1,4
+2020-05-07,Army In Stuttgart,1,5
+2020-05-07,Army Of Occupation Medal European,1,6
+2020-05-07,Army Ranger,1,7
+2020-05-07,City College,1,8
+2020-05-07,Commission District,1,9
+2020-05-07,Division A Congressional Gold Medal,1,10
+2020-05-07,Division Association,1,11
+2020-05-07,Division On Omaha Beach,1,12
+2020-05-07,Eastern Campaign Medal,1,13
+2020-05-07,Maryland National Guard,1,14
+2020-05-07,National Defense Service Medal,1,15
+2020-05-07,National Mall,1,16
+2020-05-07,Rehabilitation Center,1,17
+2020-05-07,Sheriff Office,1,18
+2020-05-07,War Department,1,19
+2020-05-11,American Public Transportation Association,1,1
+2020-05-11,Fort Totten To Navy Yard,1,2
+2020-05-11,Office Of Management,1,3
+2020-05-11,United States,1,4
+2020-05-12,Falls Church,1,1
+2020-05-12,Hyundai,1,2
+2020-05-12,Va State Police,1,3
+2020-05-12,Virginia Correctional Center,1,4
+2020-05-12,Virginia Department Of Health,1,5
+2020-05-12,Virginia Hospital Healthcare Association,1,6
+2020-05-12,Virginia State Police,1,7
+2020-05-13,American Telemedicine Association,1,18
+2020-05-13,Arlington National Cemetery,1,19
+2020-05-13,Calverton National Cemetery,1,20
+2020-05-13,Consumer Technology Association,1,21
+2020-05-13,Culpeper National Cemetery,1,22
+2020-05-13,Department Of The Army,1,23
+2020-05-13,Department Of Veterans Affairs,1,24
+2020-05-13,Health Data,1,25
+2020-05-13,Marymount University,1,26
+2020-05-13,National Cemetery Administration,1,27
+2020-05-13,Outpatient Lab,1,28
+2020-05-13,Quantico National Cemetery,1,29
+2020-05-13,Riverside National Cemetery,1,30
+2020-05-13,Senior Business Ambassador For Arlington Economic Development,1,31
+2020-05-13,Arlington Economic Development,2,4
+2020-05-13,Arlington Office Of Voter Registration Elections,2,5
+2020-05-13,Centers For Disease,2,6
+2020-05-13,During A Senate Health,2,7
+2020-05-13,Harvard University,2,8
+2020-05-13,Industrial Development Authority,2,9
+2020-05-13,National Institutes Of Health,2,10
+2020-05-13,Northern Virginia Regional Commission,2,11
+2020-05-13,Paycheck Protection Program,2,12
+2020-05-13,Paycheck Protection Program Improvement Proposal,2,13
+2020-05-13,Resiliency Assets Near Term Program,2,14
+2020-05-13,Trump Administration,2,15
+2020-05-13,United States,2,16
+2020-05-13,United States Postal Service,2,17
+2020-05-13,Arlington Mill Community Center,3,1
+2020-05-13,Arlington Public Health Director,3,2
+2020-05-13,Virginia Hospital Center,3,3
+2020-05-14,Virginia Department Of Health,1,4
+2020-05-14,Falls Church,2,1
+2020-05-14,Health Department,2,2
+2020-05-14,Healthcare Association,2,3
+2020-05-15,Defense Department,1,2
+2020-05-15,Department Of The Army,1,3
+2020-05-15,Derrick Crawford Army,1,4
+2020-05-15,Fort Richardson National Cemetery,1,5
+2020-05-15,Los Angeles National Cemetery,1,6
+2020-05-15,National Cemetery Visits On Memorial Day,1,7
+2020-05-15,National Memorial Day Observance,1,8
+2020-05-15,Veterans Affairs,1,9
+2020-05-15,Arlington National Cemetery,2,1
+2020-05-19,Northern Virginia Chamber,1,1
+2020-05-19,Virginia Department Of Health,1,2
+2020-05-20,Brookdale Senior Living,2,1
+2020-05-20,Public Health,2,2
+2020-05-20,Virginia Department Of Health,2,3
+2020-05-20,Virginia Latino Leaders Council,2,4
+2020-05-22,Arlington National Cemetery,1,1
+2020-05-22,Fort Mchenry National Monument,1,2
+2020-05-22,House Oversight Committee,1,3
+2020-05-22,Twitter,1,4
+2020-05-22,White House,1,5
+2020-05-22,Young,1,6
+2020-05-23,Consortium News,1,2
+2020-05-23,National Mall,1,3
+2020-05-23,Peace Movement,1,4
+2020-05-23,Tragedy Assistance Program For Survivors,1,5
+2020-05-23,Tv Cable Network,1,6
+2020-05-23,Arlington National Cemetery,2,1
+2020-05-25,Airmen Home National Cemetery,1,17
+2020-05-25,Arlington National Cemetery On,1,18
+2020-05-25,Army Third Infantry Regiment,1,19
+2020-05-25,Boy Scouts,1,20
+2020-05-25,Centers For Disease,1,21
+2020-05-25,Consortium News,1,22
+2020-05-25,Corporation Commission,1,23
+2020-05-25,Department Of Homeland Security,1,24
+2020-05-25,Department Of Motor Vehicles,1,25
+2020-05-25,Facebook,1,26
+2020-05-25,Fairfax Health District,1,27
+2020-05-25,Falls Church,1,28
+2020-05-25,Fauquier Health,1,29
+2020-05-25,Infantry Division,1,30
+2020-05-25,Los Angeles National Cemetery,1,31
+2020-05-25,Marine Corps Base Quantico,1,32
+2020-05-25,National Guard,1,33
+2020-05-25,National Guardsmen,1,34
+2020-05-25,National Mall,1,35
+2020-05-25,Peace Movement,1,36
+2020-05-25,Peninsula Acting Health,1,37
+2020-05-25,Peninsula Health District,1,38
+2020-05-25,Prince William Health District,1,39
+2020-05-25,Rappahannock Health District,1,40
+2020-05-25,Rappahannock-Rapidan Health District,1,41
+2020-05-25,Recreation Department,1,42
+2020-05-25,Spacex,1,43
+2020-05-25,Supreme Court,1,44
+2020-05-25,Transportation Security Administration,1,45
+2020-05-25,Trump Administration,1,46
+2020-05-25,Tv Cable Network,1,47
+2020-05-25,Veterans Administration,1,48
+2020-05-25,Virginia Department Of Health,1,49
+2020-05-25,Virginia Division Of Consolidated Laboratory Services,1,50
+2020-05-25,Cnn,2,9
+2020-05-25,Georgia Department Of Public Health,2,10
+2020-05-25,Johns Hopkins University Of Medicine,2,11
+2020-05-25,Maine Center,2,12
+2020-05-25,Maine Correctional Center,2,13
+2020-05-25,Maine Department Of Corrections,2,14
+2020-05-25,Republican National Convention,2,15
+2020-05-25,Young,2,16
+2020-05-25,Drug Administration On,3,7
+2020-05-25,Nan,3,8
+2020-05-25,Johns Hopkins University,4,5
+2020-05-25,World Health Organization,4,6
+2020-05-25,United States,6,3
+2020-05-25,White House,6,4
+2020-05-25,Associated Press,8,2
+2020-05-25,Arlington National Cemetery,21,1

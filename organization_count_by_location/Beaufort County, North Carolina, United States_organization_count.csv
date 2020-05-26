@@ -1,0 +1,557 @@
+date,organization,count,rn
+2020-02-27,Boeing,1,1
+2020-02-27,Clorox,1,2
+2020-02-27,Coastal Conservation League,1,3
+2020-02-27,Francis Marion Hotel,1,4
+2020-02-27,Gullah Geechee Fishing Association,1,5
+2020-02-27,Harris Teeter,1,6
+2020-02-27,Historic Hotels Of America,1,7
+2020-02-27,Mckinsey Co,1,8
+2020-02-27,Silver Airlines,1,9
+2020-03-01,United States,2,1
+2020-03-05,Carolina Department Of Education,1,1
+2020-03-05,Clorox,1,2
+2020-03-06,Carolina Department Of Education,1,1
+2020-03-06,Carolina Department Of Health,1,2
+2020-03-06,Clorox,1,3
+2020-03-06,Floyd Medical Center,1,4
+2020-03-06,Georgia Public Health Department,1,5
+2020-03-06,University Of South Carolina,1,6
+2020-03-06,White House,1,7
+2020-03-09,Carolina Department Of Health,3,1
+2020-03-09,Centers For Disease,3,2
+2020-03-09,New York Times,3,3
+2020-03-13,Army Training,1,1
+2020-03-13,Defense Department,1,2
+2020-03-13,Defense Health Agency,1,3
+2020-03-13,Doctrine Command Center,1,4
+2020-03-13,Facebook,1,5
+2020-03-13,Marine Corp,1,6
+2020-03-13,Oval Office,1,7
+2020-03-14,Associated Press,1,1
+2020-03-14,Lexington Medical Center,1,2
+2020-03-15,Administrative Center,1,1
+2020-03-15,Associated Press,1,2
+2020-03-15,Carolina Department Of Health,1,3
+2020-03-15,Carolina State University,1,4
+2020-03-15,Coastal Carolina University,1,5
+2020-03-15,Department Of Health,1,6
+2020-03-15,Furman University,1,7
+2020-03-15,Nan,1,8
+2020-03-15,University Of South Carolina,1,9
+2020-03-16,Administrative Center,1,1
+2020-03-16,Army Europe,1,2
+2020-03-16,Associated Press,1,3
+2020-03-16,Candidates School,1,4
+2020-03-16,Carolina State University,1,5
+2020-03-16,Coastal Carolina University,1,6
+2020-03-16,Department Of Health,1,7
+2020-03-16,Facebook,1,8
+2020-03-16,Furman University,1,9
+2020-03-16,Gregory The Great Catholic School,1,10
+2020-03-16,Hayden Center At Sheldon Park,1,11
+2020-03-16,Highlands Elementary School,1,12
+2020-03-16,Highlands High School,1,13
+2020-03-16,John Paul Ii Catholic School,1,14
+2020-03-16,Legacy Christian Academy,1,15
+2020-03-16,Nan,1,16
+2020-03-16,Polaris Tech Charter School,1,17
+2020-03-16,Senior High School,1,18
+2020-03-16,Step Of Faith Christian Academy,1,19
+2020-03-16,Thomas Heyward Academy,1,20
+2020-03-16,Twitter,1,21
+2020-03-16,United States,1,22
+2020-03-16,University Of South Carolina,1,23
+2020-03-16,Whale Branch Early College High,1,24
+2020-03-16,World Health Organization,1,25
+2020-03-17,Associated Press,1,3
+2020-03-17,Carolina State University,1,4
+2020-03-17,Coastal Carolina University,1,5
+2020-03-17,Department Of Health,1,6
+2020-03-17,Furman University,1,7
+2020-03-17,University Of South Carolina,1,8
+2020-03-17,Carolina Department Of Transportation,2,1
+2020-03-17,Town Council,2,2
+2020-03-18,African American Heritage Commission Greenbook,1,1
+2020-03-18,Aiken Readiness Center,1,2
+2020-03-18,Alessi,1,3
+2020-03-18,Arts Commission,1,4
+2020-03-18,Autism Research,1,5
+2020-03-18,Aviation Center,1,6
+2020-03-18,Capital Reserve Fund,1,7
+2020-03-18,Carolina Center,1,8
+2020-03-18,Carolina Department Of Health,1,9
+2020-03-18,Carolina Restaurant Association,1,10
+2020-03-18,Commission On Higher Education,1,11
+2020-03-18,Conservation Bank,1,12
+2020-03-18,Contingency Reserve Fund,1,13
+2020-03-18,Council For Workforce Development,1,14
+2020-03-18,Deal Closing Fund,1,15
+2020-03-18,Denmark Technical College,1,16
+2020-03-18,Department Of Administration,1,17
+2020-03-18,Department Of Agriculture,1,18
+2020-03-18,Department Of Alcohol,1,19
+2020-03-18,Department Of Archives,1,20
+2020-03-18,Department Of Commerce,1,21
+2020-03-18,Department Of Corrections,1,22
+2020-03-18,Department Of Disabilities,1,23
+2020-03-18,Department Of Education,1,24
+2020-03-18,Department Of Health,1,25
+2020-03-18,Department Of Juvenile Justice,1,26
+2020-03-18,Department Of Mental Health,1,27
+2020-03-18,Department Of Motor Vehicles,1,28
+2020-03-18,Department Of Parks,1,29
+2020-03-18,Department Of Public Safety,1,30
+2020-03-18,Department Of Social Services,1,31
+2020-03-18,Department Of Transportation,1,32
+2020-03-18,Division Of Aeronautics,1,33
+2020-03-18,Economic Development Closing Fund,1,34
+2020-03-18,Education Data Oversight Committee,1,35
+2020-03-18,Election Commission,1,36
+2020-03-18,Forestry Commission,1,37
+2020-03-18,Government Fund,1,38
+2020-03-18,Greenwood Genetic Center,1,39
+2020-03-18,Group Home Board Payments,1,40
+2020-03-18,Hospital Authority,1,41
+2020-03-18,Human Services,1,42
+2020-03-18,Jasper Ocean Terminal Port Facility Infrastructure Fund,1,43
+2020-03-18,Judicial Department,1,44
+2020-03-18,Law Enforcement Division,1,45
+2020-03-18,Means Committee,1,46
+2020-03-18,National Guard,1,47
+2020-03-18,Other Drug Abuse Services,1,48
+2020-03-18,Police Officers Retirement System,1,49
+2020-03-18,Ports Authority,1,50
+2020-03-19,African American Heritage Commission Greenbook,1,1
+2020-03-19,Aiken Readiness Center,1,2
+2020-03-19,Arts Commission,1,3
+2020-03-19,Autism Research,1,4
+2020-03-19,Aviation Center,1,5
+2020-03-19,Capital Reserve Fund,1,6
+2020-03-19,Carolina Center,1,7
+2020-03-19,Carolina Department Of Health,1,8
+2020-03-19,Commission On Higher Education,1,9
+2020-03-19,Conservation Bank,1,10
+2020-03-19,Contingency Reserve Fund,1,11
+2020-03-19,Council For Workforce Development,1,12
+2020-03-19,Deal Closing Fund,1,13
+2020-03-19,Denmark Technical College,1,14
+2020-03-19,Department Of Administration,1,15
+2020-03-19,Department Of Agriculture,1,16
+2020-03-19,Department Of Alcohol,1,17
+2020-03-19,Department Of Archives,1,18
+2020-03-19,Department Of Commerce,1,19
+2020-03-19,Department Of Corrections,1,20
+2020-03-19,Department Of Disabilities,1,21
+2020-03-19,Department Of Education,1,22
+2020-03-19,Department Of Health,1,23
+2020-03-19,Department Of Juvenile Justice,1,24
+2020-03-19,Department Of Mental Health,1,25
+2020-03-19,Department Of Motor Vehicles,1,26
+2020-03-19,Department Of Parks,1,27
+2020-03-19,Department Of Public Health,1,28
+2020-03-19,Department Of Public Safety,1,29
+2020-03-19,Department Of Social Services,1,30
+2020-03-19,Department Of Transportation,1,31
+2020-03-19,Division Of Aeronautics,1,32
+2020-03-19,Economic Development Closing Fund,1,33
+2020-03-19,Education Data Oversight Committee,1,34
+2020-03-19,Election Commission,1,35
+2020-03-19,Forestry Commission,1,36
+2020-03-19,Government Fund,1,37
+2020-03-19,Greenwood Genetic Center,1,38
+2020-03-19,Group Home Board Payments,1,39
+2020-03-19,Hospital Authority,1,40
+2020-03-19,Human Services,1,41
+2020-03-19,Jasper Ocean Terminal Port Facility Infrastructure Fund,1,42
+2020-03-19,Judicial Department,1,43
+2020-03-19,Law Enforcement Division,1,44
+2020-03-19,Means Committee,1,45
+2020-03-19,Other Drug Abuse Services,1,46
+2020-03-19,Police Officers Retirement System,1,47
+2020-03-19,Ports Authority,1,48
+2020-03-19,Public Works Committee,1,49
+2020-03-19,Ready Sc Program,1,50
+2020-03-20,Carolina Small Businesses Administration,1,5
+2020-03-20,Economic Injury Disaster Loan Program,1,6
+2020-03-20,Law Enforcement Division,1,7
+2020-03-20,Nan,1,8
+2020-03-20,Town Council,1,9
+2020-03-20,Center St,2,1
+2020-03-20,Centers For Disease,2,2
+2020-03-20,Palms City Council,2,3
+2020-03-20,Recreation Commission,2,4
+2020-03-21,Aetna,1,6
+2020-03-21,Brody School Of Medicine,1,7
+2020-03-21,Cigna,1,8
+2020-03-21,News Services,1,9
+2020-03-21,United Health,1,10
+2020-03-21,Facebook,2,2
+2020-03-21,Health Protection Condition Bravo,2,3
+2020-03-21,Public Health Emergency Officials,2,4
+2020-03-21,Sun City Community Association,2,5
+2020-03-21,Carolina Department Of Health,3,1
+2020-03-23,Tribune Content Agency,2,2
+2020-03-23,Sheriff Office,3,1
+2020-03-25,Bluffton Police Department,1,3
+2020-03-25,Campbell Community Kitchen,1,4
+2020-03-25,Defense Department,1,5
+2020-03-25,Marine Corp,1,6
+2020-03-25,Nan,1,7
+2020-03-25,Supreme Court,1,8
+2020-03-25,Facebook,2,1
+2020-03-25,University Of South Carolina Beaufort,2,2
+2020-03-26,Carolina Department Of Health,1,1
+2020-03-26,Centers For Disease,1,2
+2020-03-27,Associated Press,1,9
+2020-03-27,Chinese Communist Party,1,10
+2020-03-27,City Council,1,11
+2020-03-27,Department Of Health,1,12
+2020-03-27,Health Protection Condition Charlie,1,13
+2020-03-27,Hotel Company,1,14
+2020-03-27,Lowcountry Medical Group Primary Care,1,15
+2020-03-27,Loyola University New Orleans,1,16
+2020-03-27,Nan,1,17
+2020-03-27,Nellis Air Force,1,18
+2020-03-27,Senate Foreign Relations Committee,1,19
+2020-03-27,Shaw Air Force,1,20
+2020-03-27,Twitter,1,21
+2020-03-27,World Health Organization,1,22
+2020-03-27,World Trade Organization,1,23
+2020-03-27,Facebook,2,8
+2020-03-27,Ag Office,3,1
+2020-03-27,Cnn,3,2
+2020-03-27,Lupus Foundation Of America,3,3
+2020-03-27,Michigan Supreme Court,3,4
+2020-03-27,National Association Of Boards Of Pharmacy,3,5
+2020-03-27,New York Times,3,6
+2020-03-27,White House,3,7
+2020-03-28,Carolina Department Of Health,1,4
+2020-03-28,Loyola University New Orleans,1,5
+2020-03-28,Lupus Foundation Of America,3,1
+2020-03-28,National Association Of Boards Of Pharmacy,3,2
+2020-03-28,White House,3,3
+2020-03-29,Carolina Department Of Corrections,1,1
+2020-03-30,Associated Press,1,4
+2020-03-30,Bloomingdale,1,5
+2020-03-30,Carnival Corporation,1,6
+2020-03-30,Centers For Disease,1,7
+2020-03-30,Department Of Defense,1,8
+2020-03-30,Drug Administration,1,9
+2020-03-30,Jersey State Police,1,10
+2020-03-30,Johns Hopkins University,1,11
+2020-03-30,Loyola University New Orleans,1,12
+2020-03-30,Lupus Foundation Of America,1,13
+2020-03-30,Nan,1,14
+2020-03-30,National Association Of Boards Of Pharmacy,1,15
+2020-03-30,National Institute Of Allergy,1,16
+2020-03-30,New York Times,1,17
+2020-03-30,Olympics,1,18
+2020-03-30,United States,1,19
+2020-03-30,Us Army,1,20
+2020-03-30,Washington Post,1,21
+2020-03-30,Cnn,2,1
+2020-03-30,Hecht,2,2
+2020-03-30,White House,2,3
+2020-03-31,Cnn,1,32
+2020-03-31,Defense Department,1,33
+2020-03-31,Department Of Defense,1,34
+2020-03-31,Facebook,1,35
+2020-03-31,Health Protection Condition Charlie,1,36
+2020-03-31,Hillsborough County Emergency Policy Group,1,37
+2020-03-31,Hotel Company,1,38
+2020-03-31,Keesler Air Force,1,39
+2020-03-31,Like The Army,1,40
+2020-03-31,Loyola University New Orleans,1,41
+2020-03-31,Lupus Foundation Of America,1,42
+2020-03-31,Nan,1,43
+2020-03-31,National Association Of Boards Of Pharmacy,1,44
+2020-03-31,Nellis Air Force,1,45
+2020-03-31,River At Tampa Bay Church,1,46
+2020-03-31,Shaw Air Force,1,47
+2020-03-31,Us Army,1,48
+2020-03-31,York Police Department,1,49
+2020-03-31,Biomedical Advanced Research,2,20
+2020-03-31,Carolina Department Of Health,2,21
+2020-03-31,Department Of Health,2,22
+2020-03-31,Development Authority,2,23
+2020-03-31,Drug Administration,2,24
+2020-03-31,Easyjet,2,25
+2020-03-31,Holland America Line,2,26
+2020-03-31,International Committee Of The Red Cross,2,27
+2020-03-31,International Olympic Committee,2,28
+2020-03-31,National Institutes Of Health,2,29
+2020-03-31,Public Health Laboratory,2,30
+2020-03-31,Twitter,2,31
+2020-03-31,Associated Press,3,2
+2020-03-31,Civil Protection Agency,3,3
+2020-03-31,Gap Inc,3,4
+2020-03-31,Goodrich,3,5
+2020-03-31,Health Department,3,6
+2020-03-31,Human Services,3,7
+2020-03-31,Jersey Army National Guardsman,3,8
+2020-03-31,Johns Hopkins University,3,9
+2020-03-31,Montefiore Medical Center,3,10
+2020-03-31,National Guard,3,11
+2020-03-31,National Institute Of Allergy,3,12
+2020-03-31,Nordstrom,3,13
+2020-03-31,Norwegian Cruise Line,3,14
+2020-03-31,Royal Caribbean,3,15
+2020-03-31,School Safety Agent Sabrina Jefferson,3,16
+2020-03-31,Senior Police Administrative Aide Gwendolyn King,3,17
+2020-03-31,United States,3,18
+2020-03-31,York City Health Department,3,19
+2020-03-31,White House,4,1
+2020-04-01,Department Of Health,1,3
+2020-04-01,Jersey Army National Guard Capt,1,4
+2020-04-01,Loyola University New Orleans,1,5
+2020-04-01,Lupus Foundation Of America,1,6
+2020-04-01,Marine Corp West Coast,1,7
+2020-04-01,Marine Corps Public Health Center,1,8
+2020-04-01,Nan,1,9
+2020-04-01,National Association Of Boards Of Pharmacy,1,10
+2020-04-01,Navy Capt,1,11
+2020-04-01,Nuclear Nonproliferation Treaty,1,12
+2020-04-01,Tribune Content Agency,1,13
+2020-04-01,University Of South Carolina,1,14
+2020-04-01,White House,1,15
+2020-04-01,Centers For Disease,2,1
+2020-04-01,United States,2,2
+2020-04-02,Bluffton Police Department On,1,1
+2020-04-02,Blufton Police Department,1,2
+2020-04-02,Campbell Chapel African Methodist Episcopal Church Organizers,1,3
+2020-04-02,Lexington Police,1,4
+2020-04-02,Loyola University New Orleans,1,5
+2020-04-02,Lupus Foundation Of America,1,6
+2020-04-02,National Association Of Boards Of Pharmacy,1,7
+2020-04-02,Saluda County School Resource,1,8
+2020-04-02,White House,1,9
+2020-04-03,Carolina Department Of Health,1,1
+2020-04-03,Nan,1,2
+2020-04-03,Quest Diagnostics,1,3
+2020-04-04,Ap National Security Writer Robert Burns,1,7
+2020-04-04,Army Center,1,8
+2020-04-04,Nan,1,9
+2020-04-04,Army Recruiting,2,1
+2020-04-04,Army Staff Sgt,2,2
+2020-04-04,Defense Department,2,3
+2020-04-04,Instagram,2,4
+2020-04-04,National Guard,2,5
+2020-04-04,Youtube,2,6
+2020-04-05,Camille Graham Correctional Institute,1,1
+2020-04-05,Carolina Department Of Corrections,1,2
+2020-04-05,Carolina Department Of Health,1,3
+2020-04-05,Carolina Forest Service,1,4
+2020-04-05,Forest Service,1,5
+2020-04-05,Nan,1,6
+2020-04-05,Nantahala National Forest,1,7
+2020-04-05,Turbeville Correctional Institute,1,8
+2020-04-05,Us Forest Service,1,9
+2020-04-06,Army Gen,1,7
+2020-04-06,Army On,1,8
+2020-04-06,Fedex,1,9
+2020-04-06,Loyola University New Orleans,1,10
+2020-04-06,Lupus Foundation Of America,1,11
+2020-04-06,Nan,1,12
+2020-04-06,National Association Of Boards Of Pharmacy,1,13
+2020-04-06,Power Travel International,1,14
+2020-04-06,United States,1,15
+2020-04-06,White House,1,16
+2020-04-06,Defense Department,2,5
+2020-04-06,Department Of Defense,2,6
+2020-04-06,Centers For Disease,3,1
+2020-04-06,Quest Diagnostics,3,2
+2020-04-06,Tribune Content Agency,3,3
+2020-04-06,University Of South Carolina,3,4
+2020-04-07,Centers For Disease,1,1
+2020-04-07,Centers For Medicaid,1,2
+2020-04-07,Centers For Medicare,1,3
+2020-04-07,Healthcare Center,1,4
+2020-04-07,Medicaid Services,1,5
+2020-04-07,Medicare Services,1,6
+2020-04-07,Nan,1,7
+2020-04-07,National Health Care Corporation,1,8
+2020-04-07,New York Times,1,9
+2020-04-07,United Airlines,1,10
+2020-04-09,Associated Press,1,1
+2020-04-09,Carolina Legislature,1,2
+2020-04-09,Loyola University New Orleans,1,3
+2020-04-09,Lupus Foundation Of America,1,4
+2020-04-09,National Association Of Boards Of Pharmacy,1,5
+2020-04-09,Twitter,1,6
+2020-04-09,White House,1,7
+2020-04-10,Army Corps Of Engineers,3,1
+2020-04-10,Beaufort Middle School,3,2
+2020-04-10,Beaufort Port Royal Fire Division,3,3
+2020-04-10,Carolina Department Of Health,3,4
+2020-04-10,National Guard,3,5
+2020-04-11,Loyola University New Orleans,1,1
+2020-04-11,Lupus Foundation Of America,1,2
+2020-04-11,National Association Of Boards Of Pharmacy,1,3
+2020-04-11,White House,1,4
+2020-04-13,Beaufort Middle School,3,1
+2020-04-13,Google,3,2
+2020-04-13,Shell,3,3
+2020-04-13,Tribune Content Agency,3,4
+2020-04-13,Whale Branch Elementary,3,5
+2020-04-14,Centers For Disease,1,2
+2020-04-14,Election Commission,1,3
+2020-04-14,Google,1,4
+2020-04-14,Nan,1,5
+2020-04-14,Carolina Department Of Health,2,1
+2020-04-17,Walgreens,1,1
+2020-04-18,Department Of Employment,1,1
+2020-04-18,Department Of Labor,1,2
+2020-04-18,Tribune Content Agency,1,3
+2020-04-19,American Community,1,1
+2020-04-19,Carolina Department Of Health,1,2
+2020-04-19,Census Bureau,1,3
+2020-04-19,Hardee Help Center,1,4
+2020-04-19,Human Services,1,5
+2020-04-19,Johns Hopkins University,1,6
+2020-04-19,Larson Dairy Inc,1,7
+2020-04-19,Paycheck Protection Program,1,8
+2020-04-19,Publix,1,9
+2020-04-19,Supplemental Nutrition Assistance Program,1,10
+2020-04-19,Tribune Content Agency,1,11
+2020-04-20,Loyola University New Orleans,1,1
+2020-04-20,Lupus Foundation Of America,1,2
+2020-04-20,Nan,1,3
+2020-04-20,National Association Of Boards Of Pharmacy,1,4
+2020-04-20,White House,1,5
+2020-04-21,Blue Ribbon Campaign,1,2
+2020-04-21,Nan,3,1
+2020-04-22,Facebook,1,1
+2020-04-22,Twitter,1,2
+2020-04-23,Atlantic Treaty Organization,1,2
+2020-04-23,Cabinet For Health,1,3
+2020-04-23,Centers For Medicare,1,4
+2020-04-23,Centers For Medicare Medicaid Services,1,5
+2020-04-23,Europe As Russian Federation,1,6
+2020-04-23,Family Services,1,7
+2020-04-23,Heartland Health,1,8
+2020-04-23,Medicaid Services,1,9
+2020-04-23,Midland Health,1,10
+2020-04-23,National Guard,1,11
+2020-04-23,Nursing Center,1,12
+2020-04-23,Rehabilitation Care Center,1,13
+2020-04-23,United States,1,14
+2020-04-23,Rehabilitation Center,2,1
+2020-04-24,Department Of Natural Resources,1,1
+2020-04-24,Sumter Police Department,1,2
+2020-04-25,Carolina Department Of Health,1,1
+2020-04-25,Center Square,1,2
+2020-04-25,Department Of Health,1,3
+2020-04-25,Facebook,1,4
+2020-04-25,Marine Corps Combat Development,1,5
+2020-04-25,United States,1,6
+2020-04-25,University Of South Carolina,1,7
+2020-04-26,United States,1,1
+2020-04-27,Loyola University New Orleans,1,1
+2020-04-27,Lupus Foundation Of America,1,2
+2020-04-27,Marine Corps Martial Arts Program,1,3
+2020-04-27,National Association Of Boards Of Pharmacy,1,4
+2020-04-27,White House,1,5
+2020-04-28,Bravo Company,1,2
+2020-04-28,Candidates School,1,3
+2020-04-28,Carolina Department Of Health,1,4
+2020-04-28,Nan,1,5
+2020-04-28,National Defense Authorization,1,6
+2020-04-28,New York Stock Exchange,1,7
+2020-04-28,New York Times,1,8
+2020-04-28,United States,1,9
+2020-04-28,York Stock Exchange,1,10
+2020-04-28,Facebook,2,1
+2020-04-29,Capitol Police,1,1
+2020-04-29,Health Departments,1,2
+2020-04-29,Office Of The Governor,1,3
+2020-04-29,United States,1,4
+2020-04-29,Vidant Health System,1,5
+2020-04-29,Wake Forest Baptist Health In Winston-Salem,1,6
+2020-04-30,Nan,1,1
+2020-05-01,Nan,1,1
+2020-05-02,Nan,1,1
+2020-05-03,Nan,1,1
+2020-05-04,Memorial Hermann Texas Medical Center,1,4
+2020-05-04,Twitter,1,5
+2020-05-04,Carolina Water Recreational Resources Fund,2,1
+2020-05-04,Critical Lands Program,2,2
+2020-05-04,Union Army,2,3
+2020-05-05,Health Departments,1,1
+2020-05-05,Lenox Company In Kinston,1,2
+2020-05-05,Office Of The Governor,1,3
+2020-05-05,United States,1,4
+2020-05-05,Vidant Health System,1,5
+2020-05-06,Coastal Conservation League,3,1
+2020-05-06,Geechee Sea Island Coalition,3,2
+2020-05-06,International Ecotourism Society,3,3
+2020-05-06,National Audubon Society,3,4
+2020-05-07,Association For Professionals,1,5
+2020-05-07,Centers For Disease,1,6
+2020-05-07,College Of Nursing,1,7
+2020-05-07,Commerce Department,1,8
+2020-05-07,Department Of Commerce,1,9
+2020-05-07,George Washington University,1,10
+2020-05-07,Marine Corp,1,11
+2020-05-07,Milken Institute School Of Public Health,1,12
+2020-05-07,National Defense Authorization,1,13
+2020-05-07,Public Health At Adelphi University,1,14
+2020-05-07,Resistance Action Center,1,15
+2020-05-07,University Of Minnesota School Of Public Health,1,16
+2020-05-07,Coastal Conservation League,3,1
+2020-05-07,Geechee Sea Island Coalition,3,2
+2020-05-07,International Ecotourism Society,3,3
+2020-05-07,National Audubon Society,3,4
+2020-05-12,Carolina Healthcare Association,1,1
+2020-05-12,Department Of Health,1,2
+2020-05-12,Georgia Regional Medical Center,1,3
+2020-05-12,Memorial Health University Medical Center,1,4
+2020-05-12,Nan,1,5
+2020-05-12,National Healthcare Corporation,1,6
+2020-05-12,Pruitt Health In Moncks Corner,1,7
+2020-05-14,Georgia Regional Medical Center,1,1
+2020-05-14,Memorial Health University Medical Center,1,2
+2020-05-14,Pruitt Health In Moncks Corner,1,3
+2020-05-15,Associated Press,2,2
+2020-05-15,Carolina Commission On Higher Education,4,1
+2020-05-16,Communications Commission,1,5
+2020-05-16,Francis Marion National Forest,1,6
+2020-05-16,Verizon,1,7
+2020-05-16,Associated Press,2,2
+2020-05-16,Department Of Employment,2,3
+2020-05-16,Tribune Content Agency,2,4
+2020-05-16,Carolina Commission On Higher Education,4,1
+2020-05-18,Anmed Health,1,5
+2020-05-18,Nan,1,6
+2020-05-18,Anmed Health Medical Center,2,1
+2020-05-18,Centers For Disease,2,2
+2020-05-18,Department Of Health,2,3
+2020-05-18,United States,2,4
+2020-05-19,Advertisement American Airlines,1,1
+2020-05-19,American Airlines,1,2
+2020-05-19,Canadair,1,3
+2020-05-19,International Airport,1,4
+2020-05-19,Save The Summer Campaign,1,5
+2020-05-19,Sky Harbor International Airport,1,6
+2020-05-19,Skywest,1,7
+2020-05-19,United Airlines,1,8
+2020-05-22,Arlington National Cemetery,1,1
+2020-05-22,Beaufort National Cemetery,1,2
+2020-05-22,Broadmouth Baptist Church,1,3
+2020-05-22,Jockey Club,1,4
+2020-05-22,Marine Corps League,1,5
+2020-05-22,National Park Service,1,6
+2020-05-22,United States,1,7
+2020-05-22,Veterans Motorcycle Association,1,8
+2020-05-24,Nan,1,9
+2020-05-24,American Conservative Union,2,2
+2020-05-24,Carolina Hospital Association,2,3
+2020-05-24,Facebook,2,4
+2020-05-24,Means Committee,2,5
+2020-05-24,National Conference Of State Legislatures,2,6
+2020-05-24,Technical College Of The Lowcountry,2,7
+2020-05-24,University Of South Carolina Beaufort,2,8
+2020-05-24,Tribune Content Agency,3,1
+2020-05-25,Holiday Inn,1,1
+2020-05-25,Nan,1,2
+2020-05-25,Palms Police,1,3

@@ -1,0 +1,337 @@
+date,person,count,rn
+2020-03-06,Bill Roper,1,1
+2020-03-06,Dan Forest,1,2
+2020-03-06,Greg Lindberg,1,3
+2020-03-06,John Gray,1,4
+2020-03-06,Mike Causey,1,5
+2020-03-06,Roy Cooper,1,6
+2020-03-06,Terry Van Duyn,1,7
+2020-03-06,Van Duyn,1,8
+2020-03-06,Wayne Goodwin,1,9
+2020-03-06,Yvonne Lewis Holley,1,10
+2020-03-10,Anthony Frank Jr,1,1
+2020-03-13,Rebecca Bova,1,1
+2020-03-13,Roxanne Powell,1,2
+2020-03-16,Larry Putnam,2,1
+2020-03-16,Lisa Moore,2,2
+2020-03-16,Michael Helmick,2,3
+2020-03-16,Roy Cooper,2,4
+2020-03-17,Andrew Whisnant,1,13
+2020-03-17,Christie Mcmahon,1,14
+2020-03-17,Marshall Jolly,1,15
+2020-03-17,Mike Chandler,1,16
+2020-03-17,Buddy Armour,2,2
+2020-03-17,Cheryl Shuffler,2,3
+2020-03-17,David Fonseca,2,4
+2020-03-17,Don Hemstreet,2,5
+2020-03-17,Geoff Coltrane,2,6
+2020-03-17,Larry Putnam,2,7
+2020-03-17,Mandy Cohen,2,8
+2020-03-17,Mark Johnson,2,9
+2020-03-17,Mike Willis,2,10
+2020-03-17,Rachel Hale,2,11
+2020-03-17,Rebecca Mcleod,2,12
+2020-03-17,Roy Cooper,3,1
+2020-03-18,Bari Golin-Blaugrund,1,1
+2020-03-18,Curtis Tate,1,2
+2020-03-18,David Oliver,1,3
+2020-03-18,Ellis Barker,1,4
+2020-03-18,Jonathon Fishman,1,5
+2020-03-18,Lisa Moore,1,6
+2020-03-18,Melanie Honeycutt,1,7
+2020-03-18,Vance Gulliksen,1,8
+2020-03-19,Dennis Seavers,1,2
+2020-03-19,Mark Blake,1,3
+2020-03-19,Maureen Mo Schwind,1,4
+2020-03-19,Michael Chatham,1,5
+2020-03-19,Roy Cooper,2,1
+2020-03-20,Lisa Moore,1,1
+2020-03-24,Abby Nelson,1,1
+2020-03-24,Alan Duncan,1,2
+2020-03-24,Cheryl Shuffler,1,3
+2020-03-24,Hickory Metro,1,4
+2020-03-24,Howard Dennis,1,5
+2020-03-24,James Nathan Schroder,1,6
+2020-03-24,Jean Liu,1,7
+2020-03-24,Jean Liu Woodard,1,8
+2020-03-24,Justice Cheri Beasley,1,9
+2020-03-24,Louie Zelenka,1,10
+2020-03-24,Mandy Cohen,1,11
+2020-03-24,Marie Williamson,1,12
+2020-03-24,Mark Johnson,1,13
+2020-03-24,Roy Cooper,1,14
+2020-03-24,William Lyons,1,15
+2020-03-25,Joel Welch,1,1
+2020-03-25,Marcia Meredith,1,2
+2020-03-25,Michael Helmick,1,3
+2020-03-25,Nan,1,4
+2020-03-25,Rebecca Mcleod,1,5
+2020-03-25,Roy Cooper,1,6
+2020-03-27,Amy Mccauley,1,6
+2020-03-27,Ian Richardson,1,7
+2020-03-27,Lillian Koontz,1,8
+2020-03-27,Roy Cooper,1,9
+2020-03-27,Sarah Greene,1,10
+2020-03-27,Sharon Myers,1,11
+2020-03-27,Sherrills Ford-Terrell,1,12
+2020-03-27,Josh Petrie,2,5
+2020-03-27,Georges Benjamin,3,4
+2020-03-27,Luis Ostrosky,4,3
+2020-03-27,Bonnie Powell,6,1
+2020-03-27,Donna Lee Collier,6,2
+2020-03-28,Bonnie Powell,1,3
+2020-03-28,Donna Lee Collier,1,4
+2020-03-28,Georges Benjamin,1,5
+2020-03-28,Josh Petrie,1,6
+2020-03-28,Luis Ostrosky,1,7
+2020-03-28,Lisa Moore,2,2
+2020-03-28,Rebecca Mcleod,3,1
+2020-03-29,Bonnie Powell,1,1
+2020-03-29,Danny Britt,1,2
+2020-03-29,Donna Lee Collier,1,3
+2020-03-29,Georges Benjamin,1,4
+2020-03-29,Gerald Baker,1,5
+2020-03-29,Josh Petrie,1,6
+2020-03-29,Luis Ostrosky,1,7
+2020-03-29,Tim Moore,1,8
+2020-03-29,Warren Daniel,1,9
+2020-03-30,Bonnie Powell,1,1
+2020-03-30,Danny Britt,1,2
+2020-03-30,Donna Lee Collier,1,3
+2020-03-30,Georges Benjamin,1,4
+2020-03-30,Gerald Baker,1,5
+2020-03-30,Josh Petrie,1,6
+2020-03-30,Luis Ostrosky,1,7
+2020-03-30,Tim Moore,1,8
+2020-03-30,Warren Daniel,1,9
+2020-03-31,Bonnie Powell,1,1
+2020-03-31,Donna Lee Collier,1,2
+2020-03-31,Georges Benjamin,1,3
+2020-03-31,Josh Petrie,1,4
+2020-03-31,Lisa Moore,1,5
+2020-03-31,Luis Ostrosky,1,6
+2020-03-31,Rebecca Mcleod,1,7
+2020-04-04,Kelsey Webb,1,1
+2020-04-04,Larayne Quale,1,2
+2020-04-04,Mark Quale,1,3
+2020-04-04,Tim Webb,1,4
+2020-04-05,Bonnie Powell,1,1
+2020-04-05,Donna Lee Collier,1,2
+2020-04-05,Georges Benjamin,1,3
+2020-04-05,Josh Petrie,1,4
+2020-04-05,Luis Ostrosky,1,5
+2020-04-06,Abby Nelson,1,1
+2020-04-06,Alex Mckay Waynesville,1,2
+2020-04-06,Ann Dergara Brevard,1,3
+2020-04-06,Anthony Copeland,1,4
+2020-04-06,Beverly Maniscalco Hendersonville,1,5
+2020-04-06,Bob Barker Cherryville,1,6
+2020-04-06,Charlotte Eidson,1,7
+2020-04-06,Clark Erwin,1,8
+2020-04-06,Clyde Eskridge,1,9
+2020-04-06,David White Shelby,1,10
+2020-04-06,Ed Jones,1,11
+2020-04-06,Jerry Norvell,1,12
+2020-04-06,Judy Willis,1,13
+2020-04-06,Julie Owens Hickory,1,14
+2020-04-06,Keith Suttles,1,15
+2020-04-06,Liz Parham,1,16
+2020-04-06,Lynn Henderson,1,17
+2020-04-06,Mel Cohen,1,18
+2020-04-06,Mike Crotts,1,19
+2020-04-06,Mike Fincher,1,20
+2020-04-06,Neal Powell Newton,1,21
+2020-04-06,Steve Hill Statesville,1,22
+2020-04-06,Warren Ormiston Rutherfordton,1,23
+2020-04-08,Lisa Moore,1,1
+2020-04-08,Mandy Cohen,1,2
+2020-04-08,Rebecca Mcleod,1,3
+2020-04-08,Roy Cooper,1,4
+2020-04-12,Bonnie Powell,1,1
+2020-04-12,Donna Lee Collier,1,2
+2020-04-12,Georges Benjamin,1,3
+2020-04-12,Josh Petrie,1,4
+2020-04-12,Luis Ostrosky,1,5
+2020-04-13,Bonnie Powell,1,1
+2020-04-13,Donna Lee Collier,1,2
+2020-04-13,Georges Benjamin,1,3
+2020-04-13,Josh Petrie,1,4
+2020-04-13,Luis Ostrosky,1,5
+2020-04-14,Andrew Brenner,1,1
+2020-04-14,Ashley Kremer,1,2
+2020-04-14,Ashley Smith,1,3
+2020-04-14,Ben Mack,1,4
+2020-04-14,Brenna Hudson,1,5
+2020-04-14,Gretchen Whitmer,1,6
+2020-04-14,Hudson Bartow,1,7
+2020-04-14,Jean Hartzog,1,8
+2020-04-14,John Bull,1,9
+2020-04-14,John Hoeven,1,10
+2020-04-14,Justin Amash,1,11
+2020-04-14,Michael Dennis,1,12
+2020-04-14,Mike Dewine,1,13
+2020-04-14,Nadine Boe,1,14
+2020-04-14,Randy Stefanson,1,15
+2020-04-14,Rosanne Ponkowski,1,16
+2020-04-14,Roy Cooper,1,17
+2020-04-14,Shelley Bartow,1,18
+2020-04-15,Aiman Hussein,1,9
+2020-04-15,Ashley Smith,1,10
+2020-04-15,Dennis Burgard,1,11
+2020-04-15,Kerry Thomas,1,12
+2020-04-15,Leonard Harrison,1,13
+2020-04-15,Michael Ryan Morgan,1,14
+2020-04-15,Nell Crosby,1,15
+2020-04-15,Roy Cooper,1,16
+2020-04-15,Ryen Frazier,1,17
+2020-04-15,Andy Lang,2,1
+2020-04-15,Dalton Walters,2,2
+2020-04-15,Don Hemstreet,2,3
+2020-04-15,Elizabeth Furr,2,4
+2020-04-15,Louis Garrou,2,5
+2020-04-15,Louise Garrou,2,6
+2020-04-15,Sam Pearson,2,7
+2020-04-15,Wendy Callahan,2,8
+2020-04-16,Dan Forest,1,1
+2020-04-16,Danny Britt,1,2
+2020-04-16,Mandy Cohen,1,3
+2020-04-16,Morganton Ashley Smith,1,4
+2020-04-16,Roy Cooper,1,5
+2020-04-16,Warren Daniel,1,6
+2020-04-17,Nan,1,1
+2020-04-20,Joe Delmar,1,9
+2020-04-20,Julie Fedorchak,1,10
+2020-04-20,Karen Powell,1,11
+2020-04-20,Ken Schrad,1,12
+2020-04-20,Kevin Kamps,1,13
+2020-04-20,Mandy Cohen,1,14
+2020-04-20,Matt Schilling,1,15
+2020-04-20,Nan,1,16
+2020-04-20,Neil Chatterjee,1,17
+2020-04-20,Norman Rockwell,1,18
+2020-04-20,Phil Murphy,1,19
+2020-04-20,Rebecca Mcleod,1,20
+2020-04-20,Sarah Mills,1,21
+2020-04-20,Tori Leonard,1,22
+2020-04-20,Nathan Redinger,3,6
+2020-04-20,Robert Willett,3,7
+2020-04-20,Troy Bullard,3,8
+2020-04-20,William Mckinney,4,5
+2020-04-20,Todd Ishee,7,4
+2020-04-20,Ashley Smith,8,1
+2020-04-20,Dan Bishop,8,2
+2020-04-20,Roy Cooper,8,3
+2020-04-21,Christine Robinson,1,12
+2020-04-21,Mark Daddona,1,13
+2020-04-21,Melissa Estep,2,7
+2020-04-21,Nathan Redinger,2,8
+2020-04-21,Rebecca Mcleod,2,9
+2020-04-21,Robert Willett,2,10
+2020-04-21,Troy Bullard,2,11
+2020-04-21,Mandy Cohen,3,6
+2020-04-21,William Mckinney,5,5
+2020-04-21,Ashley Smith,7,2
+2020-04-21,Dan Bishop,7,3
+2020-04-21,Roy Cooper,7,4
+2020-04-21,Todd Ishee,8,1
+2020-04-24,Lisa Moore,1,2
+2020-04-24,Mandy Cohen,1,3
+2020-04-24,Mark Johnson,1,4
+2020-04-24,Roy Cooper,2,1
+2020-04-25,Adam Sholar,1,1
+2020-04-25,Helen Chickering,1,2
+2020-04-25,John Robinson,1,3
+2020-04-25,Mark Johnson,1,4
+2020-04-25,Matt Stover,1,5
+2020-04-25,Rose Hoban,1,6
+2020-04-25,Roy Cooper,1,7
+2020-04-25,Thomas Goldsmith,1,8
+2020-04-26,Bacilio Castro,1,1
+2020-04-26,Francisco Risso,1,2
+2020-04-26,Maureen Dougher,1,3
+2020-04-27,Barack Obama,1,4
+2020-04-27,Bernie Sanders,1,5
+2020-04-27,David Paleologos,1,6
+2020-04-27,Donald Trump,1,7
+2020-04-27,Elizabeth Warren,1,8
+2020-04-27,Eric Haenfler,1,9
+2020-04-27,Joe Biden,1,10
+2020-04-27,Kamala Harris,1,11
+2020-04-27,Kate Elliott,1,12
+2020-04-27,Mercedes Nazarian,1,13
+2020-04-27,Pete Buttigieg,1,14
+2020-04-27,Stacey Abrams,1,15
+2020-04-27,Val Demings,1,16
+2020-04-27,Lisa Moore,2,1
+2020-04-27,Mandy Cohen,2,2
+2020-04-27,Mark Benson,2,3
+2020-04-28,Ashley Smith,1,1
+2020-04-28,Audrey Whitlock,1,2
+2020-04-28,Lisa Todd,1,3
+2020-04-28,Roy Cooper,1,4
+2020-04-28,Wendy Macasieb,1,5
+2020-04-29,Ashley Elaina Smith,1,9
+2020-04-29,Jonathan Dane Warren,1,10
+2020-04-29,Wendy Kath Macasieb,1,11
+2020-04-29,Gerry Broome,2,6
+2020-04-29,Lisa Todd,2,7
+2020-04-29,Wendy Macasieb,2,8
+2020-04-29,Audrey Whitlock,3,5
+2020-04-29,Phil Berger,4,3
+2020-04-29,Tim Moore,4,4
+2020-04-29,Ashley Smith,6,2
+2020-04-29,Roy Cooper,7,1
+2020-05-02,Johnnie Carswell,1,1
+2020-05-06,Ashley Smith,1,1
+2020-05-06,Audrey Whitlock,1,2
+2020-05-06,Carl Ford,1,3
+2020-05-06,Dan Forest,1,4
+2020-05-06,Donald Trump,1,5
+2020-05-06,Phil Berger,1,6
+2020-05-06,Roy Cooper,1,7
+2020-05-06,Vickie Sawyer,1,8
+2020-05-06,Warren Daniel,1,9
+2020-05-08,Allison Adams,1,1
+2020-05-08,Barry Farber,1,2
+2020-05-08,Billy Ball,1,3
+2020-05-08,Brady Dennis,1,4
+2020-05-08,Eldon Jamison,1,5
+2020-05-08,Gregoria Riva,1,6
+2020-05-08,Kay Oxendine,1,7
+2020-05-08,Louis Dejoy,1,8
+2020-05-08,Lynn Good,1,9
+2020-05-08,Mark Jerrell,1,10
+2020-05-08,Marshal Tito,1,11
+2020-05-08,Michelle Galloway,1,12
+2020-05-08,Norfolk Virginian,1,13
+2020-05-08,Richard Burr,1,14
+2020-05-08,Roy Cooper,1,15
+2020-05-08,Sannie Purdie,1,16
+2020-05-08,Vilma Leake,1,17
+2020-05-08,Warren Daniel,1,18
+2020-05-09,Marybe Mcmillan,1,1
+2020-05-09,Roy Cooper,1,2
+2020-05-13,Felicia Simmons,1,1
+2020-05-13,Google Chromebooks,1,2
+2020-05-13,Kelly Haight Connor,1,3
+2020-05-13,Larry Putnam,1,4
+2020-05-13,Lenovo Libby Richards,1,5
+2020-05-13,Melanie Honeycutt,1,6
+2020-05-13,Roy Cooper,1,7
+2020-05-13,Zack Moore,1,8
+2020-05-15,Hunter Ogletree,1,1
+2020-05-15,Juvencio Peralta,1,2
+2020-05-15,Ken Noland,1,3
+2020-05-15,Keri Brown,1,4
+2020-05-15,Mandy Cohen,1,5
+2020-05-15,Tyson Wilkesboro,1,6
+2020-05-25,Adam Smith,1,1
+2020-05-25,Ashley Smith,1,2
+2020-05-25,Dan Bishop,1,3
+2020-05-25,Dan Forest,1,4
+2020-05-25,James Madison,1,5
+2020-05-25,Larry Pittman,1,6
+2020-05-25,Mark Robinson,1,7
+2020-05-25,Mike Causey,1,8
+2020-05-25,Roy Cooper,1,9
+2020-05-25,Stephen Wagner,1,10

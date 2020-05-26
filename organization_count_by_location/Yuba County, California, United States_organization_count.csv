@@ -1,0 +1,407 @@
+date,organization,count,rn
+2020-02-20,Washington Times,1,9
+2020-02-20,Associated Press,2,8
+2020-02-20,Science Department,7,7
+2020-02-20,Amerispeak Panel,9,5
+2020-02-20,Public Affairs Research,9,6
+2020-02-20,Health Security In Baltimore,11,3
+2020-02-20,Johns Hopkins Center,11,4
+2020-02-20,Centers For Disease,13,1
+2020-02-20,United States,13,2
+2020-02-21,Associated Press,1,8
+2020-02-21,Science Department,2,7
+2020-02-21,Amerispeak Panel,3,6
+2020-02-21,Public Affairs Research,4,5
+2020-02-21,Centers For Disease,5,1
+2020-02-21,Health Security In Baltimore,5,2
+2020-02-21,Johns Hopkins Center,5,3
+2020-02-21,United States,5,4
+2020-02-22,Associated Press,2,7
+2020-02-22,Science Department,2,8
+2020-02-22,Amerispeak Panel,3,6
+2020-02-22,Public Affairs Research,4,5
+2020-02-22,Centers For Disease,5,1
+2020-02-22,Health Security In Baltimore,5,2
+2020-02-22,Johns Hopkins Center,5,3
+2020-02-22,United States,5,4
+2020-02-23,Centers For Disease,1,1
+2020-02-23,Health Security In Baltimore,1,2
+2020-02-23,Johns Hopkins Center,1,3
+2020-02-23,Public Affairs Research,1,4
+2020-02-23,United States,1,5
+2020-02-24,Centers For Disease,1,1
+2020-02-24,Health Security In Baltimore,1,2
+2020-02-24,Johns Hopkins Center,1,3
+2020-02-24,Public Affairs Research,1,4
+2020-02-24,United States,1,5
+2020-02-28,Bothell High School,1,1
+2020-02-28,Branch Davidian,1,2
+2020-02-28,Bureau Of Alcohol,1,3
+2020-02-28,Hood National Forest,1,4
+2020-02-28,Oregon Legislature,1,5
+2020-02-28,Oregon State Park Foundation,1,6
+2020-02-29,Amerispeak Panel,1,1
+2020-02-29,Centers For Disease,1,2
+2020-02-29,Health Security In Baltimore,1,3
+2020-02-29,Johns Hopkins Center,1,4
+2020-02-29,Public Affairs Research,1,5
+2020-02-29,Science Department,1,6
+2020-02-29,United States,1,7
+2020-03-02,Amerispeak Panel,1,1
+2020-03-02,Centers For Disease,1,2
+2020-03-02,Health Security In Baltimore,1,3
+2020-03-02,Johns Hopkins Center,1,4
+2020-03-02,Public Affairs Research,1,5
+2020-03-02,United States,1,6
+2020-03-03,Adventist Health,2,1
+2020-03-03,Adventist Health Rideout,2,2
+2020-03-03,California Department Of Education,2,3
+2020-03-03,California Department Of Public Health,2,4
+2020-03-03,Centers For Disease,2,5
+2020-03-03,Department Of Health,2,6
+2020-03-03,Human Services,2,7
+2020-03-03,Office Of Emergency Services,2,8
+2020-03-03,World Health Organization,2,9
+2020-03-06,Texas Southern University,1,2
+2020-03-06,United States,2,1
+2020-03-10,Adventist Health Rideout,1,1
+2020-03-10,Adventist Health Rideout Communications,1,2
+2020-03-10,California Department Of Public Health,1,3
+2020-03-10,Centers For Disease,1,4
+2020-03-10,Health Department,1,5
+2020-03-11,Centers For Disease,1,1
+2020-03-11,University Club,1,2
+2020-03-11,World Health Organization,1,3
+2020-03-14,Centers For Disease,1,1
+2020-03-14,Public Health,1,2
+2020-03-17,Grove Church,1,1
+2020-03-18,Bride Church,2,1
+2020-03-18,California Department Of Fish,2,2
+2020-03-18,Colusa Firefighter Association,2,3
+2020-03-18,Live Oak City Council,2,4
+2020-03-18,Reuse Center,2,5
+2020-03-18,Uc Cooperative Extension,2,6
+2020-03-18,Williams City Council,2,7
+2020-03-18,Yuba County Library,2,8
+2020-03-18,Yuba-Sutter Farm Bureau,2,9
+2020-03-19,Hotel California,1,1
+2020-03-19,Inman Police,1,2
+2020-03-19,Inman Police Department,1,3
+2020-03-19,Spartanburg County Sheriff Office,1,4
+2020-03-19,Spartanburg School District,1,5
+2020-03-21,Nan,2,1
+2020-03-22,Measure Cwas A Yuba Community College District,2,1
+2020-03-22,Wheatland Union High School,2,2
+2020-03-22,Yuba College,2,3
+2020-03-22,Yuba Community College District,2,4
+2020-03-23,America Health,1,1
+2020-03-23,Call Center,1,2
+2020-03-23,Census Bureau,1,3
+2020-03-23,Democratic Party,1,4
+2020-03-23,Department Of Public Health,1,5
+2020-03-23,Departments Of Public Health For Yuba,1,6
+2020-03-23,George Mason University,1,7
+2020-03-23,Kaiser Family Foundation,1,8
+2020-03-23,New York Times,1,9
+2020-03-23,Public Health,1,10
+2020-03-23,Republicans In Congress,1,11
+2020-03-23,Robert Wood Johnson Foundation,1,12
+2020-03-23,Supreme Court,1,13
+2020-03-23,Treasury Department,1,14
+2020-03-23,Unitedhealth Group,1,15
+2020-03-23,White House,1,16
+2020-03-23,Yuba-Sutter Health,1,17
+2020-03-25,American Civil Liberties Union,1,1
+2020-03-25,Processing Center,1,2
+2020-03-26,Nan,1,1
+2020-03-27,Detention Center,1,1
+2020-03-27,Enforcement Center,1,2
+2020-03-27,Processing Center,1,3
+2020-03-27,Southern Poverty Law Center,1,4
+2020-04-01,Nan,1,1
+2020-04-03,Andrew Presbyterian Church,1,1
+2020-04-03,California Department Of Fish,1,2
+2020-04-03,Facebook,1,3
+2020-04-03,First Lutheran Church,1,4
+2020-04-03,Hard Rock Hotel,1,5
+2020-04-03,Health Services,1,6
+2020-04-03,Human Services,1,7
+2020-04-03,Museum Of The Forgotten Warriors,1,8
+2020-04-03,Presbyterian Church,1,9
+2020-04-03,Redemption Church,1,10
+2020-04-03,Regional Waste Management Authority,1,11
+2020-04-03,Relentless Church,1,12
+2020-04-03,Resource Center,1,13
+2020-04-03,Reuse Center,1,14
+2020-04-03,Ron Carpenter Of Redemption Church,1,15
+2020-04-03,Student Services,1,16
+2020-04-03,Uc Cooperative Extension,1,17
+2020-04-03,United States,1,18
+2020-04-03,Veterans Resource Center,1,19
+2020-04-03,World Health Organization,1,20
+2020-04-03,Yuba College,1,21
+2020-04-03,Yuba-Sutter Chamber,1,22
+2020-04-08,Beale Air Force,1,1
+2020-04-08,Mission Control Element,1,2
+2020-04-08,Test Center,1,3
+2020-04-09,American Civil Liberties Union,1,3
+2020-04-09,Centers For Disease,1,4
+2020-04-09,Foundation Of Southern California,1,5
+2020-04-09,Processing Center,1,6
+2020-04-09,Bay City News Service,2,1
+2020-04-09,Nan,2,2
+2020-04-12,Broadcasting Inc,1,7
+2020-04-12,Santa Cruz Police,1,8
+2020-04-12,Associated Press,2,3
+2020-04-12,California Health,2,4
+2020-04-12,Human Services Agency,2,5
+2020-04-12,Republican Party,2,6
+2020-04-12,Johns Hopkins University,3,1
+2020-04-12,Public Health,3,2
+2020-04-14,Alliance Defending Freedom,1,1
+2020-04-14,Department Of Justice,1,2
+2020-04-14,Facebook,1,3
+2020-04-14,Facebook Temple Baptist Church,1,4
+2020-04-14,House Appropriations Committee Commerce,1,5
+2020-04-14,Justice Department,1,6
+2020-04-14,Temple Baptist Church,1,7
+2020-04-14,United States,1,8
+2020-04-15,Processing Center,1,1
+2020-04-15,Public Health Order,1,2
+2020-04-15,United States,1,3
+2020-04-16,Alliance Defending Freedom,1,1
+2020-04-16,Campaign For Immigrant Detention Reform,1,2
+2020-04-16,Centers For Disease Control,1,3
+2020-04-16,Community Corrections,1,4
+2020-04-16,Department Of Homeland Security,1,5
+2020-04-16,Department Of Justice,1,6
+2020-04-16,Facebook,1,7
+2020-04-16,Facebook Temple Baptist Church,1,8
+2020-04-16,Foundation Of Northern California,1,9
+2020-04-16,House Appropriations Committee Commerce,1,10
+2020-04-16,Justice Department,1,11
+2020-04-16,Mission District,1,12
+2020-04-16,Pangea Legal Services,1,13
+2020-04-16,Temple Baptist Church,1,14
+2020-04-16,Twitter,1,15
+2020-04-16,United States,1,16
+2020-04-17,Courtesy Pangea Legal Services,1,1
+2020-04-17,Courtesy Pangea Legal Services Oumar Yaide,1,2
+2020-04-17,Girl Meets Oil She,1,3
+2020-04-17,Pangea Legal Services,1,4
+2020-04-17,Pillar Of The Community,1,5
+2020-04-17,United States,1,6
+2020-04-19,Nan,1,1
+2020-04-21,California Health Care Foundation,1,10
+2020-04-21,Department Of Homeland Security,1,11
+2020-04-21,Facebook,1,12
+2020-04-21,Foundation Of Southern California,1,13
+2020-04-21,Syracuse University,1,14
+2020-04-21,Courtesy Pangea Legal Services,2,6
+2020-04-21,Courtesy Pangea Legal Services Oumar Yaide,2,7
+2020-04-21,Mission District,2,8
+2020-04-21,Pangea Legal Services,2,9
+2020-04-21,Immigration Court,3,3
+2020-04-21,Lawyers Committee For Civil Rights,3,4
+2020-04-21,Syracuse University Transactional Records Access Clearinghouse,3,5
+2020-04-21,Lakin Wille,4,2
+2020-04-21,United States,5,1
+2020-04-22,California Health Care Foundation,1,1
+2020-04-22,Courtesy Pangea Legal Services,1,2
+2020-04-22,Courtesy Pangea Legal Services Oumar Yaide,1,3
+2020-04-22,Facebook,1,4
+2020-04-22,Foundation Of Southern California,1,5
+2020-04-22,Lakin Wille,1,6
+2020-04-22,Mission District,1,7
+2020-04-22,Pangea Legal Services,1,8
+2020-04-22,Tribune Content Agency,1,9
+2020-04-22,Twitter,1,10
+2020-04-22,United States,1,11
+2020-04-24,Alliance Defending Freedom,1,1
+2020-04-24,City Council,1,2
+2020-04-24,Fire Authority,1,3
+2020-04-24,Justice Department,1,4
+2020-04-24,National Bond Fund,1,5
+2020-04-24,National Weather Service,1,6
+2020-04-24,Pacific Gas Electric Co,1,7
+2020-04-24,Processing Center,1,8
+2020-04-25,Alliance Defending Freedom,1,1
+2020-04-25,City Council,1,2
+2020-04-25,Justice Department,1,3
+2020-04-25,Nan,1,4
+2020-04-25,National Bond Fund,1,5
+2020-04-27,National Bond Fund,1,1
+2020-04-28,David Douglas School Board,1,1
+2020-04-28,Democratic Party Of Oregon,1,2
+2020-04-28,Oregon Education Association,1,3
+2020-04-28,Republican Party,1,4
+2020-04-28,Revenue Committee,1,5
+2020-04-28,Service Employees International Union,1,6
+2020-04-29,Centers For Disease,1,1
+2020-04-29,Department Of Veterans Affairs,1,2
+2020-04-29,Infectious Diseases Society Of America,1,3
+2020-04-29,John Deere,1,4
+2020-04-29,National Bond Fund,1,5
+2020-04-30,Adventist Health Rideout,1,3
+2020-04-30,American Civil Liberties Union,1,4
+2020-04-30,Lawyer Committee For Civil Rights,1,5
+2020-04-30,World Health Organization,1,6
+2020-04-30,Yuba Sutter Chamber,1,7
+2020-04-30,Centers For Disease,2,1
+2020-04-30,Processing Center,2,2
+2020-05-01,California National Primate Research Center,1,1
+2020-05-01,City Council,1,2
+2020-05-01,David Douglas School Board,1,3
+2020-05-01,Democratic Party Of Oregon,1,4
+2020-05-01,Drug Administration,1,5
+2020-05-01,Economic Policy Institute,1,6
+2020-05-01,Health Science,1,7
+2020-05-01,Johns Hopkins University,1,8
+2020-05-01,Mary Episcopal Church,1,9
+2020-05-01,Oregon Education Association,1,10
+2020-05-01,Republican Party,1,11
+2020-05-01,Revenue Committee,1,12
+2020-05-01,Senate Republicans,1,13
+2020-05-01,Service Employees International Union,1,14
+2020-05-01,Uc Davi Mouse Biology Program,1,15
+2020-05-01,University Of California,1,16
+2020-05-01,White House,1,17
+2020-05-03,Nan,1,1
+2020-05-04,Air Canada,1,8
+2020-05-04,Education Department,1,9
+2020-05-04,European Union,1,10
+2020-05-04,Information Center,1,11
+2020-05-04,Nan,1,12
+2020-05-04,National News,1,13
+2020-05-04,United States,1,14
+2020-05-04,Associated Press,2,7
+2020-05-04,European Centre For Disease Prevention,3,4
+2020-05-04,Health Ministry,3,5
+2020-05-04,Institute Of Health,3,6
+2020-05-04,Ministry Of Home Affairs On,4,1
+2020-05-04,Philippe,4,2
+2020-05-04,World Health Organization,4,3
+2020-05-05,Nan,1,1
+2020-05-06,Associated Press,2,2
+2020-05-06,Walmart,4,1
+2020-05-07,Nan,1,3
+2020-05-07,Associated Press,2,2
+2020-05-07,Walmart,4,1
+2020-05-08,United States,1,1
+2020-05-09,California State Association Of Counties,1,3
+2020-05-09,Facebook,1,4
+2020-05-09,Governor Office Of Emergency Services,1,5
+2020-05-09,Nan,1,6
+2020-05-09,Beale Air Force,2,1
+2020-05-09,Public Health,2,2
+2020-05-12,Ap National News,1,1
+2020-05-12,Associated Press,1,2
+2020-05-12,California Department Of Public Health,1,3
+2020-05-12,European Centre For Disease Prevention,1,4
+2020-05-12,Health Ministry,1,5
+2020-05-12,Institute Of Health,1,6
+2020-05-12,Johns Hopkins University,1,7
+2020-05-12,Ministry Of Home Affairs On,1,8
+2020-05-12,Newsom Office Of Emergency Services,1,9
+2020-05-12,Office Of Emergency Services,1,10
+2020-05-12,Philippe,1,11
+2020-05-12,World Health Organization,1,12
+2020-05-13,American Federation Of Teachers,1,2
+2020-05-13,Beale Air Force,1,3
+2020-05-13,Butler University,1,4
+2020-05-13,California Department Of Public Health,1,5
+2020-05-13,Columbia University,1,6
+2020-05-13,Department Of Forestry,1,7
+2020-05-13,Department Of Immunology,1,8
+2020-05-13,Facebook,1,9
+2020-05-13,Galveston National Laboratory,1,10
+2020-05-13,Human Services Agency,1,11
+2020-05-13,Institute For Health Metrics,1,12
+2020-05-13,Johns Hopkins University,1,13
+2020-05-13,Legislature Do,1,14
+2020-05-13,National Institute Of Allergy,1,15
+2020-05-13,Oregon Department Of Justice,1,16
+2020-05-13,Oregon Education Association,1,17
+2020-05-13,Oregon Medical Association,1,18
+2020-05-13,Oregon Sunshine Committee,1,19
+2020-05-13,Oregon Trial Lawyers Association,1,20
+2020-05-13,Researchers At Oxford University,1,21
+2020-05-13,Scripps Research Institute In La Jolla,1,22
+2020-05-13,Service Employees International Union,1,23
+2020-05-13,Testimony At Senate,1,24
+2020-05-13,University Of Iowa,1,25
+2020-05-13,University Of Texas Medical Branch In Galveston,1,26
+2020-05-13,University Of Washington,1,27
+2020-05-13,Workers Union,1,28
+2020-05-13,World Health Organization,1,29
+2020-05-13,United States,3,1
+2020-05-14,American Federation Of Government,1,2
+2020-05-14,Bureau Of Labor Statistics,1,3
+2020-05-14,Chico Enloe Medical Center,1,4
+2020-05-14,Columbia University,1,5
+2020-05-14,Education Center,1,6
+2020-05-14,Elizabeth Community Hospital,1,7
+2020-05-14,Enloe Medical Center,1,8
+2020-05-14,Facebook,1,9
+2020-05-14,Health Corp,1,10
+2020-05-14,Heroes Fund,1,11
+2020-05-14,Instagram,1,12
+2020-05-14,International Brotherhood Of Teamster,1,13
+2020-05-14,Kroger,1,14
+2020-05-14,Kroger Co,1,15
+2020-05-14,Marshall Medical Center,1,16
+2020-05-14,Mercy Medical Center,1,17
+2020-05-14,Public Health,1,18
+2020-05-14,Shaw Associates,1,19
+2020-05-14,Travis Air Force,1,20
+2020-05-14,Veterans Affairs Medical Center,1,21
+2020-05-14,Walmart Inc,1,22
+2020-05-14,Willis Towers Watson Plc,1,23
+2020-05-14,Yuba-Sutter Food Bank,1,24
+2020-05-14,Beale Air Force,2,1
+2020-05-15,American Federation Of Government,1,1
+2020-05-15,Bloomberg,1,2
+2020-05-15,Bureau Of Labor Statistics,1,3
+2020-05-15,Columbia University,1,4
+2020-05-15,Health Corp,1,5
+2020-05-15,Heroes Fund,1,6
+2020-05-15,International Brotherhood Of Teamster,1,7
+2020-05-15,Kroger,1,8
+2020-05-15,Kroger Co,1,9
+2020-05-15,Veterans Affairs Medical Center,1,10
+2020-05-15,Walmart Inc,1,11
+2020-05-15,Willis Towers Watson Plc,1,12
+2020-05-16,Columbia City Council,1,1
+2020-05-18,Associated Press,1,3
+2020-05-18,Oregon Supreme Court,3,1
+2020-05-18,Wisconsin Supreme Court,3,2
+2020-05-19,Associated Press,1,5
+2020-05-19,Peoples Church,2,3
+2020-05-19,Supreme Court,2,4
+2020-05-19,Oregon Supreme Court,4,1
+2020-05-19,Wisconsin Supreme Court,4,2
+2020-05-22,Facebook,1,1
+2020-05-22,Hard Rock Hotel Casino,1,2
+2020-05-22,Judicial Council Of California,1,3
+2020-05-24,Centers For Disease,1,1
+2020-05-24,George Mason University In Fairfax,1,2
+2020-05-24,National Institute For Occupational Safety,1,3
+2020-05-24,University Of Iowa,1,4
+2020-05-25,The New York Times,2,18
+2020-05-25,Arlington National Cemetery,3,8
+2020-05-25,Department Of Health,3,9
+2020-05-25,European Union,3,10
+2020-05-25,Human Services,3,11
+2020-05-25,Johnson Conservative Party,3,12
+2020-05-25,Journal Of The American Medical Association,3,13
+2020-05-25,Pioneer Theater Company,3,14
+2020-05-25,Providence Health System,3,15
+2020-05-25,Steppenwolf Theater Company,3,16
+2020-05-25,United States,3,17
+2020-05-25,New York Times,4,5
+2020-05-25,White House,4,6
+2020-05-25,York Times Company,4,7
+2020-05-25,Centers For Disease,7,2
+2020-05-25,George Mason University In Fairfax,7,3
+2020-05-25,National Institute For Occupational Safety,7,4
+2020-05-25,University Of Iowa,10,1

@@ -1,0 +1,510 @@
+date,person,count,rn
+2020-02-22,Cecil Underwood,1,1
+2020-02-22,Charles Clements,1,2
+2020-02-22,Jim Butler,1,3
+2020-02-22,Jim Justice,1,4
+2020-02-22,John Perdue,1,5
+2020-02-22,Mardi Gras,1,6
+2020-02-22,Mark Muchow,1,7
+2020-02-22,Michael Maroney,1,8
+2020-02-22,Mitch Carmichael,1,9
+2020-02-22,Santa Claus,1,10
+2020-03-06,Brenda Issac,1,1
+2020-03-06,Cathy Slemp,1,2
+2020-03-06,Jake Flatley,1,3
+2020-03-06,Ron Duerring,1,4
+2020-03-08,Allison Adler,1,1
+2020-03-08,Dave Taube,1,2
+2020-03-08,Jim Justice,1,3
+2020-03-08,Leah Tolliver,1,4
+2020-03-08,Tracy Smith,1,5
+2020-03-09,Allison Adler,1,1
+2020-03-09,Cathy Slemp,1,2
+2020-03-09,Dave Taube,1,3
+2020-03-09,Jim Justice,1,4
+2020-03-09,Leah Tolliver,1,5
+2020-03-09,Tracy Smith,1,6
+2020-03-12,Anthony Jenkins,1,1
+2020-03-12,Clayton Burch,1,2
+2020-03-12,Jake Flatley,1,3
+2020-03-12,Jim Justice,1,4
+2020-03-12,Lawrence Messina,1,5
+2020-03-12,Michael Kilkenny,1,6
+2020-03-13,Joe Manchin,1,3
+2020-03-13,Lawrence Messina,1,4
+2020-03-13,Ralph Northam,1,5
+2020-03-13,Sam Runyon,1,6
+2020-03-13,Sonny Perdue,1,7
+2020-03-13,Tim Bishop,1,8
+2020-03-13,Clayton Burch,2,1
+2020-03-13,Jim Justice,2,2
+2020-03-14,Donald Trump,1,1
+2020-03-14,Jim Justice,1,2
+2020-03-14,Lawrence Messina,1,3
+2020-03-15,Dale Lee,1,1
+2020-03-15,Jay Oneal,1,2
+2020-03-15,Jim Justice,1,3
+2020-03-15,Karli Nelson,1,4
+2020-03-15,Kellee Shuttleworth,1,5
+2020-03-15,Monika Jaensson,1,6
+2020-03-16,Angie Tackett,1,6
+2020-03-16,Easter Eggstravganza,1,7
+2020-03-16,Greg Ingram,1,8
+2020-03-16,Hugh Dingess,1,9
+2020-03-16,Justin Smith,1,10
+2020-03-16,Kristie Ojeda,1,11
+2020-03-16,Andy Beshear,2,5
+2020-03-16,Donald Trump,3,1
+2020-03-16,Jim Justice,3,2
+2020-03-16,Joe Armstrong,3,3
+2020-03-16,Lawrence Messina,3,4
+2020-03-17,Amanda Shumaker,2,1
+2020-03-17,Amira Sexton,2,2
+2020-03-17,Brenda Morris,2,3
+2020-03-17,Briana Warner,2,4
+2020-03-17,Jim Justice,2,5
+2020-03-17,Tammy Fisher,2,6
+2020-03-18,Amy Goodwin,1,3
+2020-03-18,Ben Salago,1,4
+2020-03-18,Ben Salango,1,5
+2020-03-18,Bob Evans,1,6
+2020-03-18,Dale Witte,1,7
+2020-03-18,Daniel Linville,1,8
+2020-03-18,Donald Trump,1,9
+2020-03-18,Joanna Tabit,1,10
+2020-03-18,John Hutchison,1,11
+2020-03-18,John Mandt Jr,1,12
+2020-03-18,Justice John Hutchison,1,13
+2020-03-18,Justice Tim Armstead,1,14
+2020-03-18,Kent Carper,1,15
+2020-03-18,Mark Bates,1,16
+2020-03-18,Melissa Mclaughlin,1,17
+2020-03-18,Michael Brumage,1,18
+2020-03-18,Roman Stauffer,1,19
+2020-03-18,Shelley Moore Capito,1,20
+2020-03-18,Tim Armstead,1,21
+2020-03-18,Jim Justice,2,1
+2020-03-18,Joe Manchin,2,2
+2020-03-20,Allison Adler,1,1
+2020-03-20,Joe Manchin,1,2
+2020-03-20,Tony Cardia,1,3
+2020-03-21,Amy Goodwin,1,2
+2020-03-21,Amy Shuler Goodwin,1,3
+2020-03-21,Ben Salango,1,4
+2020-03-21,Bill Crouch,1,5
+2020-03-21,Dale Witte,1,6
+2020-03-21,Jim Justice,1,7
+2020-03-21,Nan,1,8
+2020-03-21,Sherri Young,2,1
+2020-03-22,Jim Justice,1,1
+2020-03-22,Sherri Young,1,2
+2020-03-23,Brad Mcelhinny,1,14
+2020-03-23,Chris Dorst Charleston,1,15
+2020-03-23,Clayton Burch,1,16
+2020-03-23,Justice Beth Walker,1,17
+2020-03-23,Steven Allen Adams,1,18
+2020-03-23,Anthony Fauci,2,9
+2020-03-23,Anthony Izaguirre,2,10
+2020-03-23,Jay Rockefeller,2,11
+2020-03-23,Mackenzie Spencer,2,12
+2020-03-23,Rick Barbero,2,13
+2020-03-23,Bill Crouch,3,6
+2020-03-23,Joe Manchin,3,7
+2020-03-23,Justice Tim Armstead,3,8
+2020-03-23,Sherri Young,5,5
+2020-03-23,Ben Salango,9,3
+2020-03-23,Jim Justice,9,4
+2020-03-23,Amy Shuler Goodwin,11,1
+2020-03-23,Kent Carper,11,2
+2020-03-24,Anthony Iaaguirre,1,6
+2020-03-24,Briana Warner,1,7
+2020-03-24,Clayton Burch,1,8
+2020-03-24,Doug Copenhaver,1,9
+2020-03-24,Joe White,1,10
+2020-03-24,Justice Tim Armstead,1,11
+2020-03-24,Ron Duerring,1,12
+2020-03-24,Ryan White,1,13
+2020-03-24,Jim Justice,2,4
+2020-03-24,Rick Barbero,2,5
+2020-03-24,Amy Shuler Goodwin,6,1
+2020-03-24,Ben Salango,6,2
+2020-03-24,Kent Carper,6,3
+2020-03-25,Beth Scioneaux,1,5
+2020-03-25,Betti Wiggins,1,6
+2020-03-25,Cathy Piluso,1,7
+2020-03-25,Corey Mitchell,1,8
+2020-03-25,Gretchen Whitmer,1,9
+2020-03-25,Ian Williams,1,10
+2020-03-25,John Bel Edwards,1,11
+2020-03-25,Joris Ray,1,12
+2020-03-25,Justice Tim Armstead,1,13
+2020-03-25,Matt Rourke,1,14
+2020-03-25,Sherri Young,1,15
+2020-03-25,Amy Shuler Goodwin,2,1
+2020-03-25,Ben Salango,2,2
+2020-03-25,Jim Justice,2,3
+2020-03-25,Kent Carper,2,4
+2020-03-26,Bill Crouch,1,3
+2020-03-26,Cathy Slemp,1,4
+2020-03-26,Chad Morrison,1,5
+2020-03-26,Craig Hammond,1,6
+2020-03-26,Cynthia Kirkhart,1,7
+2020-03-26,Jason Quintrell,1,8
+2020-03-26,Joshua Lohnes,1,9
+2020-03-26,Linda Mckinney,1,10
+2020-03-26,Mason Mingo,1,11
+2020-03-26,Melissa Collens,1,12
+2020-03-26,James Hoyer,2,1
+2020-03-26,Jim Justice,2,2
+2020-03-27,Amy Shuler Goodwin,2,1
+2020-03-27,Ben Salango,2,2
+2020-03-27,Justice Tim Armstead,2,3
+2020-03-27,Kent Carper,2,4
+2020-03-27,Mike Rutherford,2,5
+2020-03-27,Sherri Young,2,6
+2020-03-29,Jim Justice,2,7
+2020-03-29,Steven Allen Adams,2,8
+2020-03-29,Ben Salango,4,1
+2020-03-29,Donald Trump,4,2
+2020-03-29,Mac Warner,4,3
+2020-03-29,Roman Stauffer,4,4
+2020-03-29,Ron Stollings,4,5
+2020-03-29,Stephen Smith,4,6
+2020-03-30,Ben Salango,1,10
+2020-03-30,Chris Ritchie,1,11
+2020-03-30,Mac Warner,1,12
+2020-03-30,Roman Stauffer,1,13
+2020-03-30,Ron Stollings,1,14
+2020-03-30,Stephen Smith,1,15
+2020-03-30,Bill Crouch,2,3
+2020-03-30,James Hoyer,2,4
+2020-03-30,Jeff Jenkins,2,5
+2020-03-30,Jim Justice Wvgovernor,2,6
+2020-03-30,Joe Diffie,2,7
+2020-03-30,Kent Carper,2,8
+2020-03-30,Sherri Young,2,9
+2020-03-30,Donald Trump,5,2
+2020-03-30,Jim Justice,7,1
+2020-03-31,James Hoyer,1,4
+2020-03-31,Jeff Jenkins,1,5
+2020-03-31,Mac Warner,1,6
+2020-03-31,Metronews Talkline,1,7
+2020-03-31,Patrick Morrisey,1,8
+2020-03-31,Donald Trump,2,1
+2020-03-31,Jim Justice,2,2
+2020-03-31,Kent Carper,2,3
+2020-04-01,Brad Mcelhinny,1,6
+2020-04-01,Isaac Sponaugle,1,7
+2020-04-01,Jim Justice,1,8
+2020-04-01,Jordan Hill,1,9
+2020-04-01,Mac Warner,1,10
+2020-04-01,Mitch Carmichael,1,11
+2020-04-01,Patrick Morrisey,1,12
+2020-04-01,Tim Miley,1,13
+2020-04-01,Amy Shuler Goodwin,2,2
+2020-04-01,Ben Salango,2,3
+2020-04-01,Justice Tim Armstead,2,4
+2020-04-01,Sherri Young,2,5
+2020-04-01,Kent Carper,3,1
+2020-04-03,Bill Crouch,1,6
+2020-04-03,Dan Lauffer,1,7
+2020-04-03,James Hoyer,1,8
+2020-04-03,Jim Justice,1,9
+2020-04-03,Amy Shuler Goodwin,2,1
+2020-04-03,Ben Salango,2,2
+2020-04-03,Justice Tim Armstead,2,3
+2020-04-03,Kent Carper,2,4
+2020-04-03,Sherri Young,2,5
+2020-04-04,Dan Lauffer,1,5
+2020-04-04,Steven Allen Adams,2,4
+2020-04-04,Bill Crouch,4,1
+2020-04-04,James Hoyer,4,2
+2020-04-04,Jim Justice,4,3
+2020-04-05,Amy Shuler Goodwin,1,1
+2020-04-05,Ben Salango,1,2
+2020-04-05,Brian Belcher,1,3
+2020-04-05,Jim Justice,1,4
+2020-04-05,Nick Keller,1,5
+2020-04-05,Sherri Young,1,6
+2020-04-05,Tom Cochran,1,7
+2020-04-06,Ann Jacobs,1,10
+2020-04-06,Brian Kemp,1,11
+2020-04-06,Charles King,1,12
+2020-04-06,Chris Jackson,1,13
+2020-04-06,Grete Porteous,1,14
+2020-04-06,Jared Kushner,1,15
+2020-04-06,Jill Montag,1,16
+2020-04-06,Kathleen Sebelius,1,17
+2020-04-06,Mark Esper,1,18
+2020-04-06,Mark Thomsen,1,19
+2020-04-06,Mike Rutherford,1,20
+2020-04-06,Robin Vos,1,21
+2020-04-06,Scott Fitzgerald,1,22
+2020-04-06,Tony Evers,1,23
+2020-04-06,Amy Shuler Goodwin,2,2
+2020-04-06,Ben Salango,2,3
+2020-04-06,Brett Crozier,2,4
+2020-04-06,Kent Carper,2,5
+2020-04-06,Sherri Young,2,6
+2020-04-06,Theodore Roosevelt,2,7
+2020-04-06,Thomas Modly,2,8
+2020-04-06,Tommy Davis,2,9
+2020-04-06,Jim Justice,3,1
+2020-04-07,Charles King,1,3
+2020-04-07,Jim Justice,1,4
+2020-04-07,Julie Appleby,1,5
+2020-04-07,Lora Cole,1,6
+2020-04-07,Matt Hahn,1,7
+2020-04-07,Mike Rutherford,1,8
+2020-04-07,Sherri Young,1,9
+2020-04-07,Ben Salango,2,1
+2020-04-07,Kent Carper,2,2
+2020-04-08,Andrew Gunnoe,1,1
+2020-04-08,Ben Salango,1,2
+2020-04-08,Jim Justice,1,3
+2020-04-08,Kent Carper,1,4
+2020-04-09,John Law,1,1
+2020-04-10,Allen Loughry,1,2
+2020-04-10,Barbara Mccartney,1,3
+2020-04-10,Ben Salango,1,4
+2020-04-10,Brad Mcelhinny,1,5
+2020-04-10,Brad Mcelhinny Bradmcelhinny,1,6
+2020-04-10,Brian Lilly,1,7
+2020-04-10,Dan Lauffer,1,8
+2020-04-10,Dave Miller,1,9
+2020-04-10,David Hummel,1,10
+2020-04-10,Gus Douglass,1,11
+2020-04-10,Isaac Sponaugle,1,12
+2020-04-10,Jim Douglas,1,13
+2020-04-10,Joanna Tabit,1,14
+2020-04-10,Justice John Hutchison,1,15
+2020-04-10,Justice Tim Armstead,1,16
+2020-04-10,Kent Leonhardt,1,17
+2020-04-10,Kris Raynes,1,18
+2020-04-10,Lora Dyer,1,19
+2020-04-10,Menis Ketchum,1,20
+2020-04-10,Patrick Morrisey,1,21
+2020-04-10,Richard Neely,1,22
+2020-04-10,Ron Stollings,1,23
+2020-04-10,Roy Ramey,1,24
+2020-04-10,Samuel Petsonk,1,25
+2020-04-10,Stephen Smith,1,26
+2020-04-10,Steve Allen Adams,1,27
+2020-04-10,William Keplinger,1,28
+2020-04-10,William Schwartz,1,29
+2020-04-10,Jim Justice,2,1
+2020-04-11,Allen Loughry,1,3
+2020-04-11,Ben Salango,1,4
+2020-04-11,Dave Miller,1,5
+2020-04-11,David Hummel,1,6
+2020-04-11,Gus Douglass,1,7
+2020-04-11,Isaac Sponaugle,1,8
+2020-04-11,Jim Douglas,1,9
+2020-04-11,Joanna Tabit,1,10
+2020-04-11,Justice John Hutchison,1,11
+2020-04-11,Justice Tim Armstead,1,12
+2020-04-11,Kent Leonhardt,1,13
+2020-04-11,Kris Rayne,1,14
+2020-04-11,Lora Dyer,1,15
+2020-04-11,Menis Ketchum,1,16
+2020-04-11,Patrick Morrisey,1,17
+2020-04-11,Richard Neely,1,18
+2020-04-11,Ron Stollings,1,19
+2020-04-11,Roy Ramey,1,20
+2020-04-11,Samuel Petsonk,1,21
+2020-04-11,Stephen Smith,1,22
+2020-04-11,Steve Allen Adams,1,23
+2020-04-11,William Keplinger,1,24
+2020-04-11,William Schwartz,1,25
+2020-04-11,Donald Trump,3,2
+2020-04-11,Jim Justice,4,1
+2020-04-13,Ben Salango,1,1
+2020-04-13,Charles King,1,2
+2020-04-13,Jim Justice,1,3
+2020-04-13,Mike Rutherford,1,4
+2020-04-13,Sherri Young,1,5
+2020-04-14,Betsy Devos,1,1
+2020-04-14,Briana Warner,1,2
+2020-04-17,Bill Crouch,1,10
+2020-04-17,Brad Mcelhinny,1,11
+2020-04-17,Jim Douglas,1,12
+2020-04-17,John Law,1,13
+2020-04-17,Justice Tim Armstead,1,14
+2020-04-17,Metronew Talkline,1,15
+2020-04-17,Metronews Wvmetronews,1,16
+2020-04-17,Shelley Moore Capito,1,17
+2020-04-17,Alex Mclaughlin,2,1
+2020-04-17,Calwell Luce,2,2
+2020-04-17,Deputy Brandon Kay,2,3
+2020-04-17,Deputy Jamie Miller,2,4
+2020-04-17,Eric Toon,2,5
+2020-04-17,Jim Justice,2,6
+2020-04-17,Rick Keglor,2,7
+2020-04-17,Sherri Young,2,8
+2020-04-17,Taylor Quinn,2,9
+2020-04-18,Bill Crouch,1,4
+2020-04-18,Jim Justice,1,5
+2020-04-18,Jessica Mccolley,2,1
+2020-04-18,Sarah Hansen,2,2
+2020-04-18,Stacy Norris,2,3
+2020-04-19,Anthony Paranzino,1,1
+2020-04-19,Dale Witt,1,2
+2020-04-19,Donald Trump,1,3
+2020-04-19,Gary Easley,1,4
+2020-04-19,Greg Litvin,1,5
+2020-04-19,Jack Whitley,1,6
+2020-04-19,Jessica Mccolley,1,7
+2020-04-19,Jim Justice,1,8
+2020-04-19,Katrina Wright,1,9
+2020-04-19,Larry Levitt,1,10
+2020-04-19,Mike Pence,1,11
+2020-04-19,Sarah Hansen,1,12
+2020-04-19,Stacy Norris,1,13
+2020-04-20,Anthony Paranzino,1,1
+2020-04-20,Dale Witt,1,2
+2020-04-20,Donald Trump,1,3
+2020-04-20,Gary Easley,1,4
+2020-04-20,Greg Litvin,1,5
+2020-04-20,Jack Whitley,1,6
+2020-04-20,Jim Justice,1,7
+2020-04-20,Katrina Wright,1,8
+2020-04-20,Larry Levitt,1,9
+2020-04-20,Mike Pence,1,10
+2020-04-22,Bob Eggleton,1,5
+2020-04-22,Matthew Umstead,1,6
+2020-04-22,Earl Ray Tomblin,2,1
+2020-04-22,Jennifer Bailey,2,2
+2020-04-22,Mitch Carmichael,2,3
+2020-04-22,Patrick Morrisey,2,4
+2020-04-24,Allison Adler,1,1
+2020-04-24,Bill Crouch,1,2
+2020-04-24,Cathy Slemp,1,3
+2020-04-24,Jim Justice,1,4
+2020-04-24,Marty Wright,1,5
+2020-04-24,Richard Feifer,1,6
+2020-04-24,Ripley Eldercare,1,7
+2020-04-26,Mark Curtis,1,2
+2020-04-26,Jim Justice,2,1
+2020-04-27,Allie Reid,1,1
+2020-04-27,Corey Williams,1,2
+2020-04-27,Erica Skiddle,1,3
+2020-04-27,Jim Justice,1,4
+2020-04-27,Mandi Bryant,1,5
+2020-04-27,Mark Curtis,1,6
+2020-04-29,Bobby Criner,1,2
+2020-04-29,Bruce Hockensmith,1,3
+2020-04-29,Earl Ray Tomblin,1,4
+2020-04-29,Jeffery Fleck,1,5
+2020-04-29,Jennifer Bailey,1,6
+2020-04-29,Jim Justice,1,7
+2020-04-29,Joe Manchin,1,8
+2020-04-29,Joyce Gibson,1,9
+2020-04-29,Justice John Hutchison,1,10
+2020-04-29,Larry Harvey,1,11
+2020-04-29,Mitch Carmichael,1,12
+2020-04-29,Rob Alsop,1,13
+2020-04-29,Patrick Morrisey,2,1
+2020-04-30,Casey Neill Tracy,1,1
+2020-04-30,Cynthia Nava Chavez,1,2
+2020-04-30,Deborah Walker,1,3
+2020-04-30,Gardner Liza,1,4
+2020-04-30,Gardner Mary,1,5
+2020-04-30,Janet Gardner,1,6
+2020-04-30,Karl Debreczeny Tita,1,7
+2020-04-30,Lindsay Elizabeth Gardner,1,8
+2020-04-30,Los Angeles,1,9
+2020-04-30,Noam Chomsky,1,10
+2020-04-30,Rosie Braden Helge,1,11
+2020-04-30,Steven Pinker,1,12
+2020-04-30,Yuval Noah Harari,1,13
+2020-05-01,Dustin Fitzwater,1,1
+2020-05-01,Sarah Williams,1,2
+2020-05-01,Tom Dawson,1,3
+2020-05-02,Jim Justice,1,1
+2020-05-05,Bob Wise,1,1
+2020-05-05,Carmine Dalessio,1,2
+2020-05-05,Cecil Underwood,1,3
+2020-05-05,Italo Dalessio,1,4
+2020-05-05,Jackie Lewis,1,5
+2020-05-05,Jay Rockefeller,1,6
+2020-05-05,Jim Justice,1,7
+2020-05-05,Nichole Casto,1,8
+2020-05-05,Sam Mcbride,1,9
+2020-05-05,Scott Spencer,1,10
+2020-05-05,Toni Morrison,1,11
+2020-05-06,Nan,1,3
+2020-05-06,Jim Justice,4,2
+2020-05-06,Sherri Young,5,1
+2020-05-07,Lisa Haddox-Heston,1,3
+2020-05-07,Pamela Alderman,1,4
+2020-05-07,Robert Gunter,1,5
+2020-05-07,Samuel Litteral,1,6
+2020-05-07,Jim Justice,3,2
+2020-05-07,Sherri Young,5,1
+2020-05-08,Nan,1,1
+2020-05-09,Jim Justice,1,1
+2020-05-09,Sherri Young,1,2
+2020-05-10,Noelle Bissell,1,2
+2020-05-10,Sherri Young,1,3
+2020-05-10,Jim Justice,2,1
+2020-05-12,Jim Justice,1,1
+2020-05-13,Christopher Mookie Walker,1,1
+2020-05-16,Jim Justice,1,8
+2020-05-16,Bnai Jacob,3,1
+2020-05-16,Chevra Kadisha,3,2
+2020-05-16,Cindy Briggs-Biondi,3,3
+2020-05-16,Derick Biondi,3,4
+2020-05-16,Ibtesam Barazi,3,5
+2020-05-16,James Jackson,3,6
+2020-05-16,Victor Urecki,3,7
+2020-05-17,Jim Justice,1,18
+2020-05-17,Mark Dimondstein,1,19
+2020-05-17,Michael Dimondstein,2,17
+2020-05-17,Benjamin Franklin,3,1
+2020-05-17,Colson Hudson,3,2
+2020-05-17,Donald Trump,3,3
+2020-05-17,Donna Dewitt,3,4
+2020-05-17,Evan Kalish,3,5
+2020-05-17,George Cole,3,6
+2020-05-17,Gerry Connolly,3,7
+2020-05-17,Henrietta Dixon,3,8
+2020-05-17,Jason Saal,3,9
+2020-05-17,Jeff Bezos,3,10
+2020-05-17,Louis Dejoy,3,11
+2020-05-17,Megan Brennan,3,12
+2020-05-17,Sharae Cunningham,3,13
+2020-05-17,Steven Mnuchin,3,14
+2020-05-17,Susan Williams,3,15
+2020-05-17,Tom Quinn,3,16
+2020-05-18,Nan,1,18
+2020-05-18,Rene Colson Hudson,1,19
+2020-05-18,Donald Trump,4,14
+2020-05-18,Evan Kalish,4,15
+2020-05-18,Gerry Connolly,4,16
+2020-05-18,Tom Quinn,4,17
+2020-05-18,Benjamin Franklin,6,1
+2020-05-18,Colson Hudson,6,2
+2020-05-18,Donna Dewitt,6,3
+2020-05-18,George Cole,6,4
+2020-05-18,Henrietta Dixon,6,5
+2020-05-18,Jason Saal,6,6
+2020-05-18,Jeff Bezos,6,7
+2020-05-18,Louis Dejoy,6,8
+2020-05-18,Mark Dimondstein,6,9
+2020-05-18,Megan Brennan,6,10
+2020-05-18,Sharae Cunningham,6,11
+2020-05-18,Steven Mnuchin,6,12
+2020-05-18,Susan Williams,6,13
+2020-05-19,Nan,1,1
+2020-05-22,Allen Whitt,1,1
+2020-05-22,Dave Perry,1,2
+2020-05-22,Jay Rockefeller,1,3
+2020-05-22,Jeff Kelley,1,4
+2020-05-22,Joe Manchin,1,5
+2020-05-22,Johnnalynn Davis,1,6
+2020-05-22,Kanawha Horace Mann,1,7
+2020-05-22,Paula Jean Swearengin,1,8
+2020-05-22,Richard Ojeda,1,9
+2020-05-22,Richie Robb,1,10
+2020-05-22,Shelley Moore Capito,1,11
+2020-05-22,Steve Priestley,1,12

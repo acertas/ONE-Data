@@ -1,0 +1,470 @@
+date,organization,count,rn
+2020-02-02,Civil Rights Movement,1,1
+2020-02-02,Cnn,1,2
+2020-02-02,New York Times,1,3
+2020-02-28,Bc Centre For Disease Control,1,1
+2020-02-28,Bc Ferries,1,2
+2020-02-28,Edmonton International Airport,1,3
+2020-02-28,Facebook,1,4
+2020-02-28,Halifax Stanfield International Airport,1,5
+2020-02-28,Instagram,1,6
+2020-02-28,Island Health,1,7
+2020-02-28,Pierre Elliott Trudeau International Airport,1,8
+2020-02-28,Public Health,1,9
+2020-02-28,Public Health Agency Of Canada,1,10
+2020-02-28,Quebec City Jean Lesage International Airport,1,11
+2020-02-28,United States,1,12
+2020-02-29,Bc Centre For Disease Control,1,1
+2020-02-29,Bc Ferries,1,2
+2020-02-29,Edmonton International Airport,1,3
+2020-02-29,Facebook,1,4
+2020-02-29,Halifax Stanfield International Airport,1,5
+2020-02-29,Instagram,1,6
+2020-02-29,Island Health,1,7
+2020-02-29,Pierre Elliott Trudeau International Airport,1,8
+2020-02-29,Public Health,1,9
+2020-02-29,Public Health Agency Of Canada,1,10
+2020-02-29,Quebec City Jean Lesage International Airport,1,11
+2020-02-29,United States,1,12
+2020-03-02,Facebook,1,12
+2020-03-02,Instagram,1,13
+2020-03-02,Bc Centre For Disease Control,2,1
+2020-03-02,Bc Ferries,2,2
+2020-03-02,Celebrity Cruises,2,3
+2020-03-02,Edmonton International Airport,2,4
+2020-03-02,Halifax Stanfield International Airport,2,5
+2020-03-02,Island Health,2,6
+2020-03-02,Pierre Elliott Trudeau International Airport,2,7
+2020-03-02,Public Health,2,8
+2020-03-02,Public Health Agency Of Canada,2,9
+2020-03-02,Quebec City Jean Lesage International Airport,2,10
+2020-03-02,United States,2,11
+2020-03-04,Centers For Disease,1,1
+2020-03-04,Emergency Operations Center,1,2
+2020-03-04,Facebook,1,3
+2020-03-04,Health Services Brent Simcosky,1,4
+2020-03-04,Human Service,1,5
+2020-03-04,Kingston High School,1,6
+2020-03-04,Kirkland Life Care Center,1,7
+2020-03-04,Olympic Medical Center,1,8
+2020-03-07,American Cancer Society,1,1
+2020-03-07,Apple Valley Firefighter Foundation,1,2
+2020-03-07,Centers For Disease,1,3
+2020-03-07,Columbia Center,1,4
+2020-03-07,Daily Press On,1,5
+2020-03-07,District Stair Climb Team Captain David Martinez,1,6
+2020-03-07,Facebook,1,7
+2020-03-07,Leukemia Lymphoma Society Firefighter Stairclimb,1,8
+2020-03-07,New York Times,1,9
+2020-03-07,Regional Public Safety Training Center,1,10
+2020-03-07,Walmart Distribution Center,1,11
+2020-03-11,Emergency Operations Center,3,1
+2020-03-11,Lee Field Of Senior Services Of America,3,2
+2020-03-11,Olympic Library System,3,3
+2020-03-11,Olympic Medical Center,3,4
+2020-03-11,Senior Services Of America,3,5
+2020-03-11,Visitor Information Center,3,6
+2020-03-13,Cnn,1,1
+2020-03-13,Education Department,1,2
+2020-03-13,Lower Hudson Council Of School Superintendents,1,3
+2020-03-13,United States,1,4
+2020-03-13,World Health Organisation,1,5
+2020-03-13,York State Education Department,1,6
+2020-03-14,Greywolf Elementary School,1,1
+2020-03-14,Nan,1,2
+2020-03-14,Office Of The Superintendent Of Public Instruction,1,3
+2020-03-14,World Health Organization,1,4
+2020-03-16,White House,1,1
+2020-03-17,American Association Of School Superintendents,1,1
+2020-03-17,Assembly Of God Church,1,2
+2020-03-17,Cascades Institute,1,3
+2020-03-17,Cascades National Park,1,4
+2020-03-17,Centers For Disease,1,5
+2020-03-17,Consortium For School Networking,1,6
+2020-03-17,Disney,1,7
+2020-03-17,Downtown School,1,8
+2020-03-17,Gates Foundation,1,9
+2020-03-17,Golden Gate National Recreation Area,1,10
+2020-03-17,Google,1,11
+2020-03-17,Lake Crescent In Olympic National Park,1,12
+2020-03-17,Melinda Gates Foundation,1,13
+2020-03-17,Nan,1,14
+2020-03-17,National Nordic Museum In Ballard,1,15
+2020-03-17,Team Read,1,16
+2020-03-17,United States,1,17
+2020-03-17,Yosemite National Parks,1,18
+2020-03-18,Federal Reserve,1,1
+2020-03-18,Johns Hopkins University,1,2
+2020-03-18,Nan,1,3
+2020-03-18,Walmart,1,4
+2020-03-18,While Congress,1,5
+2020-03-18,White House,1,6
+2020-03-18,Wynn Resorts,1,7
+2020-03-20,Congressional Research Service,1,1
+2020-03-20,Emergency Management Agency,1,2
+2020-03-20,Facebook,1,3
+2020-03-20,Morgan,1,4
+2020-03-20,National Security Council,1,5
+2020-03-20,National Security Council On Twitter,1,6
+2020-03-20,Princeton University,1,7
+2020-03-20,United States,1,8
+2020-03-20,University Of Texas School Of Law,1,9
+2020-03-20,White House,1,10
+2020-03-21,Department Of Public Health,1,1
+2020-03-21,San Bernardino County Department Of Public Health,1,2
+2020-03-23,Cnn,1,1
+2020-03-23,Corrections Industries,1,2
+2020-03-23,Defense Health Agency,1,3
+2020-03-23,Department Of Corrections,1,4
+2020-03-23,Department Of Health,1,5
+2020-03-23,Health System Response Management,1,6
+2020-03-23,Johns Hopkins University Applied Physics Laboratory,1,7
+2020-03-23,Life Care Center,1,8
+2020-03-23,National Institute Of Allergy,1,9
+2020-03-23,Small Business Administration Emergency Grant Program,1,10
+2020-03-23,United States,1,11
+2020-03-23,Us National Guard,1,12
+2020-03-23,Washington Corrections Center,1,13
+2020-03-23,White House,1,14
+2020-03-24,Clallam County Health,1,1
+2020-03-24,Jefferson County Public Health,1,2
+2020-03-24,Olympic National Park,1,3
+2020-03-24,Port Angeles Police,1,4
+2020-03-25,Columbia University,1,1
+2020-03-25,Gateway Church,1,2
+2020-03-25,Moon Candle Company,1,3
+2020-03-25,Mumbai St Xavier College,1,4
+2020-03-25,Olympic Area Agency On,1,5
+2020-03-25,Revenue Service,1,6
+2020-03-25,Rockefeller Center,1,7
+2020-03-25,Rodda Paint Company,1,8
+2020-03-25,Sergio Mexican Restaurant Inc,1,9
+2020-03-25,Staff At Sunny Farms Supplement,1,10
+2020-03-25,Strongpoints Fitness,1,11
+2020-03-25,Sun Valley Realty,1,12
+2020-03-25,Sunny Farms Supplement,1,13
+2020-03-25,Sunny Spa,1,14
+2020-03-25,Toastmasters International,1,15
+2020-03-25,Treasury Department,1,16
+2020-03-25,Union Square Hospitality,1,17
+2020-03-27,Centers For Disease,1,1
+2020-03-27,John Academy,1,2
+2020-03-27,National Parks Conservation Association,1,3
+2020-03-27,Smithsonian,1,4
+2020-03-27,White House,1,5
+2020-03-27,Yavapai Lodge,1,6
+2020-03-31,A Park Service,1,3
+2020-03-31,Coalition To Protect America National Parks,1,4
+2020-03-31,Golden Gate National Recreation Area,1,5
+2020-03-31,Great Smoky Mountains National Park,1,6
+2020-03-31,Members Of Congress,1,7
+2020-03-31,National Parks Conservation Association,1,8
+2020-03-31,Natural Resources Committee,1,9
+2020-03-31,Neither The Interior Department,1,10
+2020-03-31,Senate Energy,1,11
+2020-03-31,Washington Post,1,12
+2020-03-31,Washington Times,1,13
+2020-03-31,Yavapai Lodge,1,14
+2020-03-31,National Park Service,2,1
+2020-03-31,Park Service,2,2
+2020-04-01,A Park Service,1,2
+2020-04-01,Alaska Klondike Goldrush Historic National Park,1,3
+2020-04-01,Golden Gate National Recreation Area,1,4
+2020-04-01,Great Smoky Mountains National Park,1,5
+2020-04-01,National Park Service,1,6
+2020-04-01,National Park Service National Park Service,1,7
+2020-04-01,National Parks Conservation Association,1,8
+2020-04-01,National Parks Service,1,9
+2020-04-01,Natural Resources Committee,1,10
+2020-04-01,Park Service,1,11
+2020-04-01,Senate Energy,1,12
+2020-04-01,Twitter,1,13
+2020-04-01,Washington Post,1,14
+2020-04-01,Zion National Park,1,15
+2020-04-01,White House,2,1
+2020-04-02,American Petroleum Institute,1,4
+2020-04-02,Bloomberg,1,5
+2020-04-02,Chevron,1,6
+2020-04-02,Community Resource Database,1,7
+2020-04-02,Datapoint,1,8
+2020-04-02,Department Of Health,1,9
+2020-04-02,Department Of The,1,10
+2020-04-02,Department Of Treasury,1,11
+2020-04-02,Duke Energy Convention Center,1,12
+2020-04-02,Energy Committee,1,13
+2020-04-02,Energy Department,1,14
+2020-04-02,Glacier National Park,1,15
+2020-04-02,Health Ministry,1,16
+2020-04-02,Health Resources,1,17
+2020-04-02,Income Home Energy Assistance Program,1,18
+2020-04-02,Indian Affairs Tara Sweeney,1,19
+2020-04-02,Indian Health Service,1,20
+2020-04-02,Mental Health Services Administration,1,21
+2020-04-02,Montana Free,1,22
+2020-04-02,Morning Energy,1,23
+2020-04-02,Murray Energy,1,24
+2020-04-02,National Congress,1,25
+2020-04-02,National Guard,1,26
+2020-04-02,National Indian Health Board,1,27
+2020-04-02,National Park Service,1,28
+2020-04-02,National Science Foundation,1,29
+2020-04-02,Occidental Petroleum,1,30
+2020-04-02,Office Of Inspector General,1,31
+2020-04-02,Office Of Management,1,32
+2020-04-02,Olympic Medical Center,1,33
+2020-04-02,Park Service,1,34
+2020-04-02,Peninsula College,1,35
+2020-04-02,Pirate Pantry Student Food Bank,1,36
+2020-04-02,Pro Energy,1,37
+2020-04-02,Public Works Committee,1,38
+2020-04-02,Republican Senate Majority Leader,1,39
+2020-04-02,Senate Committee On Indian Affairs,1,40
+2020-04-02,Senate Republicans,1,41
+2020-04-02,Services Administration,1,42
+2020-04-02,Small Business Administration,1,43
+2020-04-02,Strategic Petroleum,1,44
+2020-04-02,Supreme Court,1,45
+2020-04-02,Traffic Safety Administration,1,46
+2020-04-02,United Nations,1,47
+2020-04-02,United Nations Framework Convention On Climate,1,48
+2020-04-02,University Of Washington Institute For Health Metrics,1,49
+2020-04-02,Washington Times,1,50
+2020-04-02,Centers For Disease,2,1
+2020-04-02,Human Services,2,2
+2020-04-02,White House,2,3
+2020-04-03,American Finance Officers Association,1,1
+2020-04-03,American Gaming Association,1,2
+2020-04-03,Bay Mills Indian Community,1,3
+2020-04-03,Centers For Disease,1,4
+2020-04-03,City Council,1,5
+2020-04-03,Coronavirus Paycheck Protection Program,1,6
+2020-04-03,Department Of The Treasury,1,7
+2020-04-03,Falls Church City Council,1,8
+2020-04-03,Falls Church Farmers Market,1,9
+2020-04-03,Falls Church Farmers Market To Go,1,10
+2020-04-03,Glacier National Park,1,11
+2020-04-03,Indian Health Service,1,12
+2020-04-03,Montana Free,1,13
+2020-04-03,National Congress,1,14
+2020-04-03,National Indian Gaming Association,1,15
+2020-04-03,National Mall,1,16
+2020-04-03,National Museum Of Natural History,1,17
+2020-04-03,Paycheck Protection Program,1,18
+2020-04-03,Small Business Administration,1,19
+2020-04-03,Smithsonian,1,20
+2020-04-03,Smithsonian Natural History Museum,1,21
+2020-04-03,Supreme Court,1,22
+2020-04-03,Tribal Advisory Committee,1,23
+2020-04-03,Verizon,1,24
+2020-04-03,Virtual City Council Meeting,1,25
+2020-04-03,Yellowstone National Park,1,26
+2020-04-04,Food Service,1,1
+2020-04-04,Food Service Department,1,2
+2020-04-04,Food Services,1,3
+2020-04-06,Cnn,1,1
+2020-04-06,National Institute Of Allergy,1,2
+2020-04-06,New York Times,1,3
+2020-04-06,White House,1,4
+2020-04-09,Bureau Of Land Management Utah,1,1
+2020-04-09,Centers For Disease,1,2
+2020-04-09,Washington Times,1,3
+2020-04-13,Carestl Health,1,7
+2020-04-13,Cnn,1,8
+2020-04-13,Coalition To Protect America National Parks,1,9
+2020-04-13,Facebook,1,10
+2020-04-13,Health Centers,1,11
+2020-04-13,Morgan,1,12
+2020-04-13,National Institute Of Allergy,1,13
+2020-04-13,National Park,1,14
+2020-04-13,National Park Service,1,15
+2020-04-13,News Network,1,16
+2020-04-13,Tuskegee Institute,1,17
+2020-04-13,United States,1,18
+2020-04-13,University Institute Of Social Justice,1,19
+2020-04-13,Washington Times,1,20
+2020-04-13,Chelan-Douglas Health District In Wenatchee,2,2
+2020-04-13,Department Of Labor,2,3
+2020-04-13,Drug Administration,2,4
+2020-04-13,King Fire Rescue Department,2,5
+2020-04-13,Tennessee Department Of Correction,2,6
+2020-04-13,Centers For Disease,4,1
+2020-04-14,Bureau Of Indian Affairs,1,1
+2020-04-14,Bureau Of Indian Education,1,2
+2020-04-14,Bureau Of Land Management,1,3
+2020-04-14,Bureau Of Reclamation,1,4
+2020-04-14,Bureau Of Safety,1,5
+2020-04-14,Centers For Disease,1,6
+2020-04-14,Chelan-Douglas Health District In Wenatchee,1,7
+2020-04-14,Department Of Labor,1,8
+2020-04-14,Department Of The,1,9
+2020-04-14,Drug Administration,1,10
+2020-04-14,King Fire Rescue Department,1,11
+2020-04-14,National Park Service,1,12
+2020-04-14,Office Of Public Health,1,13
+2020-04-14,Office Of The Solicitor,1,14
+2020-04-14,Park Service,1,15
+2020-04-14,Tennessee Department Of Correction,1,16
+2020-04-14,Transportation Security Administration,1,17
+2020-04-14,Washington National Mall,1,18
+2020-04-14,Wildlife Service,1,19
+2020-04-17,Credit Tim Pfarr Washington State Hospital Association,1,1
+2020-04-17,Washington State Hospital Association,1,2
+2020-04-20,Chehali Dayspring Baptist Church,1,11
+2020-04-20,Facebook,1,12
+2020-04-20,Health Department,1,13
+2020-04-20,National Guard,1,14
+2020-04-20,Boeing,2,2
+2020-04-20,Department Of Fish,2,3
+2020-04-20,Department Of Health,2,4
+2020-04-20,Employment Security Department,2,5
+2020-04-20,Health Services,2,6
+2020-04-20,Residential Care Services,2,7
+2020-04-20,University District,2,8
+2020-04-20,University Of Washington,2,9
+2020-04-20,Washington State Hospital Association,2,10
+2020-04-20,Washington State Department Of Health,3,1
+2020-04-22,Accenture,1,1
+2020-04-22,Big Oil,1,2
+2020-04-22,Duke University,1,3
+2020-04-22,Fast Company,1,4
+2020-04-22,United States,1,5
+2020-04-26,A State Department,1,1
+2020-04-26,Bloomberg,1,2
+2020-04-26,Centers For Disease,1,3
+2020-04-26,Department Of Health,1,4
+2020-04-26,Heritage Foundation,1,5
+2020-04-26,Human Services,1,6
+2020-04-26,International Crisis Group,1,7
+2020-04-26,International Health Regulations,1,8
+2020-04-26,United Nations Security Council,1,9
+2020-04-26,United States,1,10
+2020-04-26,White House,1,11
+2020-04-26,World Health Organization,1,12
+2020-04-27,Food Service,1,1
+2020-04-27,Food Service Workers,1,2
+2020-04-27,Food Services,1,3
+2020-04-27,Information Services,1,4
+2020-04-27,Persell Middle School,1,5
+2020-04-29,Centers For Disease,1,1
+2020-04-29,Fire Department Of New York,1,2
+2020-04-29,Johns Hopkins University,1,3
+2020-04-29,Oval Office,1,4
+2020-04-29,Senate Majority Leader Mitch Mcconnell,1,5
+2020-04-29,United States,1,6
+2020-04-29,Wisconsin Department Of Health Services,1,7
+2020-04-30,Alliance For Aging Research Sue Peschin,1,1
+2020-04-30,American Medical Association,1,2
+2020-04-30,British National Health Service,1,3
+2020-04-30,Centers For Disease,1,4
+2020-04-30,Cnn,1,5
+2020-04-30,District Of Columbia Department Of Health,1,6
+2020-04-30,Drug Administration,1,7
+2020-04-30,Edelman Trust Barometer,1,8
+2020-04-30,European Union,1,9
+2020-04-30,Health Crisis,1,10
+2020-04-30,Mckinsey Global Institute,1,11
+2020-04-30,Pfizer,1,12
+2020-04-30,Twitter,1,13
+2020-04-30,United States,1,14
+2020-04-30,Veterans Affairs,1,15
+2020-04-30,Washington Post,1,16
+2020-04-30,White House,1,17
+2020-04-30,World Health Organization,1,18
+2020-05-01,Alliance For Aging Research Sue Peschin,1,1
+2020-05-01,American Medical Association,1,2
+2020-05-01,British National Health Service,1,3
+2020-05-01,Centers For Disease,1,4
+2020-05-01,Cnn,1,5
+2020-05-01,District Of Columbia Department Of Health,1,6
+2020-05-01,Drug Administration,1,7
+2020-05-01,Edelman Trust Barometer,1,8
+2020-05-01,European Union,1,9
+2020-05-01,Health Crisis,1,10
+2020-05-01,Mckinsey Global Institute,1,11
+2020-05-01,Nan,1,12
+2020-05-01,Pfizer,1,13
+2020-05-01,Twitter,1,14
+2020-05-01,United States,1,15
+2020-05-01,Veterans Affairs,1,16
+2020-05-01,Washington Post,1,17
+2020-05-01,White House,1,18
+2020-05-01,World Health Organization,1,19
+2020-05-02,Food Service,1,1
+2020-05-02,Food Service Workers,1,2
+2020-05-02,Futuros Latinos Club Advisor Emily Naetzker,1,3
+2020-05-02,Information Services,1,4
+2020-05-02,Persell Middle School,1,5
+2020-05-02,Ring Elementary School,1,6
+2020-05-02,School Lunch Hero Day,1,7
+2020-05-02,School Lunch Heroes Day,1,8
+2020-05-02,Washington Middle School Counselor Sam Restivo,1,9
+2020-05-03,Department Of Labor,1,1
+2020-05-03,Economic Policy Institute,1,2
+2020-05-03,Labor Department,1,3
+2020-05-03,United States,1,4
+2020-05-04,Department Of Labor,1,1
+2020-05-04,Economic Policy Institute,1,2
+2020-05-04,Forks High School,1,3
+2020-05-04,Labor Department,1,4
+2020-05-05,Middletown Press,1,5
+2020-05-05,Sebastian Church,2,4
+2020-05-05,Common Council Majority Leader,3,1
+2020-05-05,Facebook,3,2
+2020-05-05,Italian Society,3,3
+2020-05-06,Costco,1,1
+2020-05-06,Hank Greenspun School Of Journalism Media,1,2
+2020-05-06,Kroger,1,3
+2020-05-06,Nan,1,4
+2020-05-06,Nevada Broadcaster Foundation,1,5
+2020-05-06,University Of Nevada,1,6
+2020-05-09,Food Service,1,1
+2020-05-09,Futuros Latinos Club,1,2
+2020-05-09,Persell Middle School,1,3
+2020-05-09,Washington Middle School,1,4
+2020-05-10,Facebook,1,1
+2020-05-10,Health John Wiesman,1,2
+2020-05-12,Members Of Congress,1,1
+2020-05-12,National Park,1,2
+2020-05-12,Water Conservation Fund,1,3
+2020-05-13,Members Of Congress,1,1
+2020-05-13,National Park,1,2
+2020-05-13,Water Conservation Fund,1,3
+2020-05-15,Bloomberg,1,1
+2020-05-15,College Presidents Want Their Campuses To,1,2
+2020-05-15,Senate Majority Leader Mitch Moscow Mcconnell,1,3
+2020-05-15,Us Geological,1,4
+2020-05-15,Welcome To Pandemic University,1,5
+2020-05-15,White House,1,6
+2020-05-16,California State University,1,1
+2020-05-16,Fox Business Network,1,2
+2020-05-16,Labor Department It,1,3
+2020-05-16,Monetary Policy,1,4
+2020-05-16,New York Times,1,5
+2020-05-16,Saint Mary College Of California,1,6
+2020-05-16,Senate Republicans,1,7
+2020-05-16,United States,1,8
+2020-05-16,Washington Post,1,9
+2020-05-17,Global Development,1,1
+2020-05-17,Migration Policy Institute,1,2
+2020-05-17,National Bureau Of Economic Research,1,3
+2020-05-17,United States,1,4
+2020-05-17,World Bank,1,5
+2020-05-19,Jefferson High School,1,1
+2020-05-19,Jefferson Post Office,1,2
+2020-05-19,Sterling,1,3
+2020-05-19,United States Postal Service,1,4
+2020-05-19,Washington Post,1,5
+2020-05-23,Long Beach Peninsula Visitors Bureau,2,2
+2020-05-23,Washington Times,2,3
+2020-05-23,Washington Department Of Fish,6,1
+2020-05-25,Department Of Health,1,2
+2020-05-25,Department Of Justice,1,3
+2020-05-25,Johns Hopkins University,1,4
+2020-05-25,National Forests,1,5
+2020-05-25,New York Times,1,6
+2020-05-25,Progressive Animal Welfare Society,1,7
+2020-05-25,United States,1,8
+2020-05-25,University District,1,9
+2020-05-25,University Of Washington Seattle,1,10
+2020-05-25,White House,1,11
+2020-05-25,Washington Department Of Fish,3,1

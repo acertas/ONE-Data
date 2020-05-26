@@ -1,0 +1,466 @@
+date,organization,count,rn
+2020-02-11,Buick,1,1
+2020-02-11,Detroit Hamtramck Assembly,1,2
+2020-02-11,United States,1,3
+2020-02-29,Nan,1,1
+2020-03-07,Boy Scouts,1,1
+2020-03-07,Facebook,1,2
+2020-03-10,Holiday Inn,1,1
+2020-03-11,Allegheny Health Network,1,7
+2020-03-11,Howland Middle School,1,8
+2020-03-11,Kent State University At Trumbull,1,9
+2020-03-11,Labrae Middle School,1,10
+2020-03-11,Mercy Health,1,11
+2020-03-11,Ohio Virtual Academy,1,12
+2020-03-11,Public Library,1,13
+2020-03-11,Scripps National Spelling Bee,1,14
+2020-03-11,Steward Health Care,1,15
+2020-03-11,Trumbull Regional Medical Center,1,16
+2020-03-11,United States,1,17
+2020-03-11,Department Of Health,2,1
+2020-03-11,Kent State University,2,2
+2020-03-11,Ohio Department Of Education,2,3
+2020-03-11,Ohio Department Of Health,2,4
+2020-03-11,Ohio State University,2,5
+2020-03-11,University Of Akron,2,6
+2020-03-12,Center Square,1,2
+2020-03-12,Centers For Disease,1,3
+2020-03-12,Mercy Health,1,4
+2020-03-12,Mercy Health Medical Center,1,5
+2020-03-12,World Health Organization,1,6
+2020-03-12,Ohio Department Of Health,3,1
+2020-03-13,Army Corp Pittsburgh District,1,3
+2020-03-13,Army Corps,1,4
+2020-03-13,Army Corps Of Engineers,1,5
+2020-03-13,Ohio Environmental Protection Agency,1,6
+2020-03-13,Twitter,1,7
+2020-03-13,Nan,2,1
+2020-03-13,Ohio Department Of Health,2,2
+2020-03-14,Area Agency On,1,2
+2020-03-14,Facebook Group,1,3
+2020-03-14,Health Amy Acton,1,4
+2020-03-14,His Service,1,5
+2020-03-14,Ohio Department Of Health,1,6
+2020-03-14,Youtube,1,7
+2020-03-14,Zoning Office,1,8
+2020-03-14,Facebook,2,1
+2020-03-15,Associated Press,2,1
+2020-03-15,Health Amy Acton,2,2
+2020-03-15,Ohio Health,2,3
+2020-03-15,University Hospital,2,4
+2020-03-15,University Hospitals,2,5
+2020-03-16,Blanchard Coffee Roasting Co,1,2
+2020-03-16,Compuware,1,3
+2020-03-16,Dutch Company,1,4
+2020-03-16,Family Services,1,5
+2020-03-16,Hitachi,1,6
+2020-03-16,Hotel Greene,1,7
+2020-03-16,Insight Venture Partners,1,8
+2020-03-16,Kenwood Towne Center,1,9
+2020-03-16,Koch Industries,1,10
+2020-03-16,Macquarie Infrastructure,1,11
+2020-03-16,Moody,1,12
+2020-03-16,Ohio Health Department,1,13
+2020-03-16,Perry Township Police,1,14
+2020-03-16,Senate Seat,1,15
+2020-03-16,United States,1,16
+2020-03-16,Visa,1,17
+2020-03-16,Facebook,3,1
+2020-03-17,Centers For Disease,1,4
+2020-03-17,Common Pleas Court,1,5
+2020-03-17,Ohio Department Of Health,1,6
+2020-03-17,Cortland Bank,2,1
+2020-03-17,Gibson,2,2
+2020-03-17,Liberty High School,2,3
+2020-03-18,Lincoln Elementary School,1,2
+2020-03-18,Mercy Health St,1,3
+2020-03-18,Facebook,2,1
+2020-03-19,Administration Building,1,1
+2020-03-19,Child Support Enforcement Agency,1,2
+2020-03-19,Family Services,1,3
+2020-03-19,Johns Hopkins University,1,4
+2020-03-19,Mercy Health St,1,5
+2020-03-19,Ohio Department Of Health,1,6
+2020-03-22,Department Of Health,1,1
+2020-03-22,Nan,1,2
+2020-03-22,National Sunshine Week,1,3
+2020-03-22,Ohio Department Of Health,1,4
+2020-03-23,Department Of Energy,1,1
+2020-03-23,Honeywell,1,2
+2020-03-23,Ibm,1,3
+2020-03-23,Kroger,1,4
+2020-03-23,Meijer,1,5
+2020-03-23,National Emergency Disaster,1,6
+2020-03-23,National Guard,1,7
+2020-03-23,Walmart,1,8
+2020-03-24,Ford Motor Co,1,1
+2020-03-25,Detroit Free Press,1,3
+2020-03-25,Renaissance Center,1,4
+2020-03-25,Tribune Content Agency,1,5
+2020-03-25,Detroit Free,2,1
+2020-03-25,Ford Motor Co,2,2
+2020-03-26,Nan,1,1
+2020-03-27,Airbus,1,29
+2020-03-27,Case Western Reserve University,1,30
+2020-03-27,Centers For Disease,1,31
+2020-03-27,Cnn,1,32
+2020-03-27,Dyson Institute,1,33
+2020-03-27,Facebook,1,34
+2020-03-27,General Motors,1,35
+2020-03-27,Gm Authority,1,36
+2020-03-27,Gm Department,1,37
+2020-03-27,Henry Ford Health System,1,38
+2020-03-27,Human Services Department,1,39
+2020-03-27,Labor Department,1,40
+2020-03-27,Marion Metal Center,1,41
+2020-03-27,Motors Components Holdings,1,42
+2020-03-27,Oval Office,1,43
+2020-03-27,Oval Office On,1,44
+2020-03-27,Us Senate,1,45
+2020-03-27,Weatherhead School Of Management,1,46
+2020-03-27,Wharton School Of Business,1,47
+2020-03-27,York City Emergency Management Department,1,48
+2020-03-27,Ford Motor Co,2,19
+2020-03-27,Human Service Office For Civil Rights,2,20
+2020-03-27,Human Services,2,21
+2020-03-27,Motors Orion Assembly,2,22
+2020-03-27,Ohio Department Of Health,2,23
+2020-03-27,Ohio Department Of Health On,2,24
+2020-03-27,Ohio School Boards Association,2,25
+2020-03-27,Ohio Senate,2,26
+2020-03-27,Schwartz,2,27
+2020-03-27,Washington Times,2,28
+2020-03-27,Department Of Health,3,14
+2020-03-27,Google,3,15
+2020-03-27,Senate On,3,16
+2020-03-27,Washington Post,3,17
+2020-03-27,World Health Organization,3,18
+2020-03-27,Member Of Congress,4,13
+2020-03-27,Emergency Management Agency,5,10
+2020-03-27,Nan,5,11
+2020-03-27,Republican Party,5,12
+2020-03-27,Associated Press,7,8
+2020-03-27,Department Of Labor,7,9
+2020-03-27,Save Our Workers Bill In Congress,8,7
+2020-03-27,Ge Healthcare,10,5
+2020-03-27,United States,10,6
+2020-03-27,Ge Health Care,16,4
+2020-03-27,White House,17,3
+2020-03-27,New York Times,20,2
+2020-03-27,Twitter,36,1
+2020-03-28,Army Corps,1,7
+2020-03-28,Brooklyn Hospital Center,1,8
+2020-03-28,Buick,1,9
+2020-03-28,Caterpillar,1,10
+2020-03-28,Department Of Labor,1,11
+2020-03-28,Dodge,1,12
+2020-03-28,Donald Trump Issues Order To,1,13
+2020-03-28,European Union,1,14
+2020-03-28,Human Services,1,15
+2020-03-28,International Harvester,1,16
+2020-03-28,Motorola,1,17
+2020-03-28,My Administration,1,18
+2020-03-28,Nan,1,19
+2020-03-28,Office Of The Press Secretary,1,20
+2020-03-28,Pratt Whitney,1,21
+2020-03-28,Republican Party,1,22
+2020-03-28,Save Our Workers Bill In Congress,1,23
+2020-03-28,Strategic National Stockpile,1,24
+2020-03-28,Team Trump,1,25
+2020-03-28,Toyota,1,26
+2020-03-28,Ge Health Care,3,6
+2020-03-28,Ge Healthcare,7,4
+2020-03-28,Twitter,7,5
+2020-03-28,United States,8,3
+2020-03-28,New York Times,10,2
+2020-03-28,White House,12,1
+2020-03-29,Emergency Management Agency,1,1
+2020-03-29,Ge Health Care,1,2
+2020-03-29,Gm Authority,1,3
+2020-03-29,Nan,1,4
+2020-03-29,New York Times,1,5
+2020-03-29,Twitter,1,6
+2020-03-30,American Electric Power,1,5
+2020-03-30,American Media Inc,1,6
+2020-03-30,Big Lots,1,7
+2020-03-30,Bloom Energy On,1,8
+2020-03-30,Bloom Energy Sunnyvale,1,9
+2020-03-30,Emergency Management Agency,1,10
+2020-03-30,Facebook,1,11
+2020-03-30,Gannett,1,12
+2020-03-30,Ge Health Care,1,13
+2020-03-30,National Sentinel,1,14
+2020-03-30,Technology Vehicles Manufacturing Loan Program,1,15
+2020-03-30,White House,1,16
+2020-03-30,Aerospace Manufacturing,2,2
+2020-03-30,Ge Healthcare,2,3
+2020-03-30,Toyota,2,4
+2020-03-30,Twitter,3,1
+2020-03-31,Emergency Management Agency,1,1
+2020-03-31,General Motors,1,2
+2020-03-31,Motors Components Holdings,1,3
+2020-03-31,New York Times,1,4
+2020-03-31,Twitter,1,5
+2020-03-31,United States,1,6
+2020-03-31,White House,1,7
+2020-04-01,Aerospace Manufacturing,1,3
+2020-04-01,Emergency Management Agency,1,4
+2020-04-01,Ford Motor Co,1,5
+2020-04-01,Ge Healthcare,1,6
+2020-04-01,General Motors,1,7
+2020-04-01,New York Times,1,8
+2020-04-01,United States,1,9
+2020-04-01,University Of Michigan Ross School Of Business,1,10
+2020-04-01,White House,1,11
+2020-04-01,Toyota,2,1
+2020-04-01,Twitter,2,2
+2020-04-02,Biomedical Advanced Research,1,3
+2020-04-02,Department Of Health,1,4
+2020-04-02,Development Authority,1,5
+2020-04-02,Drug Administration,1,6
+2020-04-02,Human Services,1,7
+2020-04-02,Medtronic,1,8
+2020-04-02,Philips,1,9
+2020-04-02,Strategic National,1,10
+2020-04-02,University Of Georgia,1,11
+2020-04-02,Joseph Medical Center,2,1
+2020-04-02,Niles Council,2,2
+2020-04-03,Harvard Global Health Institute,1,1
+2020-04-03,Institute For Health Metrics,1,2
+2020-04-03,Kettering Health Network,1,3
+2020-04-03,National Guard,1,4
+2020-04-03,Ohio Department Of Health,1,5
+2020-04-03,Ohio Department Of Health On,1,6
+2020-04-03,Ohio Health,1,7
+2020-04-03,Ohio Health Department,1,8
+2020-04-03,Ohio National Guard,1,9
+2020-04-03,Ohio Public Health,1,10
+2020-04-03,Ohio State University,1,11
+2020-04-03,Republican Party,1,12
+2020-04-03,Soin Medical Center,1,13
+2020-04-03,Supreme Court,1,14
+2020-04-03,Twitter,1,15
+2020-04-03,United States,1,16
+2020-04-03,University Of Washington,1,17
+2020-04-04,Health Ohio,1,1
+2020-04-04,Services Administration,1,2
+2020-04-05,Ohio Legislature,1,1
+2020-04-06,Champion Township Trustees,1,1
+2020-04-06,Champion Trustees,1,2
+2020-04-06,Cortland City Council,1,3
+2020-04-06,Cortland Council,1,4
+2020-04-06,Facebook,1,5
+2020-04-06,Fraud Task,1,6
+2020-04-06,Health Department,1,7
+2020-04-06,Meijer,1,8
+2020-04-06,Ohio Department Of Health,1,9
+2020-04-06,Ohio Department Of Transportation,1,10
+2020-04-06,Pennsylvania Department Of Health,1,11
+2020-04-06,Reemployment Services,1,12
+2020-04-06,Revenue Service Criminal Investigation,1,13
+2020-04-06,Treasury Department,1,14
+2020-04-06,Youtube,1,15
+2020-04-07,Alphabet Inc,1,1
+2020-04-07,Apple Inc,1,2
+2020-04-07,Ford Motor Co,1,3
+2020-04-07,Google,1,4
+2020-04-07,Honeywell International Inc,1,5
+2020-04-07,Human Services Inspector,1,6
+2020-04-07,Jockey International Global Inc,1,7
+2020-04-07,Johns Hopkins University,1,8
+2020-04-07,Motors Corp,1,9
+2020-04-07,My Pillow Inc,1,10
+2020-04-07,New York Times,1,11
+2020-04-07,Oracle,1,12
+2020-04-07,Oracle Corp,1,13
+2020-04-07,Pernod Ricard,1,14
+2020-04-07,Procter Gamble Co,1,15
+2020-04-07,Strategic National,1,16
+2020-04-07,United Parcel Service Inc,1,17
+2020-04-07,United Technologies Corp,1,18
+2020-04-07,Walmart,1,19
+2020-04-07,White House,1,20
+2020-04-08,American International Auto Show,1,1
+2020-04-08,Ford Motor Co,1,2
+2020-04-08,Ge Healthcare,1,3
+2020-04-08,Human Services,1,4
+2020-04-08,Strategic National,1,5
+2020-04-08,Toyota Motor Co,1,6
+2020-04-08,Twitter,1,7
+2020-04-08,Youtube,1,8
+2020-04-09,Branch Plan,1,1
+2020-04-09,Cnn,1,2
+2020-04-09,Department Of Defense,1,3
+2020-04-09,Emergency Management Agency,1,4
+2020-04-09,Johns Hopkins University,1,5
+2020-04-09,Members Of The New York Army,1,6
+2020-04-09,National Guard,1,7
+2020-04-09,Ohio Department Of Health,1,8
+2020-04-09,Oval Office Of The White House,1,9
+2020-04-09,Reuters,1,10
+2020-04-09,Twitter,1,11
+2020-04-09,United States,1,12
+2020-04-10,Associated Press,1,6
+2020-04-10,Coalition On Homelessness,2,1
+2020-04-10,Dayton Art Institute,2,2
+2020-04-10,Department Of Job,2,3
+2020-04-10,Family Services,2,4
+2020-04-10,Marion Correctional Institution,2,5
+2020-04-12,American International Auto Show,1,1
+2020-04-14,Cleveland Public Library,1,7
+2020-04-14,Ohio National Guardsman,1,8
+2020-04-14,Rapid Response Fund,1,9
+2020-04-14,University Of Washington,1,10
+2020-04-14,Willowood Care Center,1,11
+2020-04-14,Correctional Institution At Elkton,3,6
+2020-04-14,Mary Alzheimer Center,5,2
+2020-04-14,Masternick Memorial Health Care Center,5,3
+2020-04-14,Obrien Memorial Health Care Center,5,4
+2020-04-14,Windsor House Inc,5,5
+2020-04-14,Ohio Department Of Health,6,1
+2020-04-15,Boardman Police,1,1
+2020-04-15,Estes Engineering Center,1,2
+2020-04-15,Global Battery Systems Lab,1,3
+2020-04-15,Gm Battery Lab In Warren,1,4
+2020-04-15,Gm Technical Center,1,5
+2020-04-15,Hummer,1,6
+2020-04-15,Nan,1,7
+2020-04-15,Ohio Health,1,8
+2020-04-15,United States,1,9
+2020-04-15,Walmart,1,10
+2020-04-16,Ohio Supreme Court,1,1
+2020-04-21,American International Auto Show In Detroit,1,1
+2020-04-21,Elkton Federal Correctional Institution,1,2
+2020-04-21,Nan,1,3
+2020-04-21,Ohio Department Of Health,1,4
+2020-04-21,Ohio State University,1,5
+2020-04-22,American International Auto Show,1,1
+2020-04-22,Emergency Management Agency,1,2
+2020-04-24,Tribune Content Agency,1,3
+2020-04-24,Ohio Department Of Health,2,1
+2020-04-24,Ohio Elections Officials Association,2,2
+2020-04-25,Hotel Ashtabula,1,4
+2020-04-25,Life Learning Center,1,5
+2020-04-25,National Institute On Drug Abuse,1,6
+2020-04-25,National Safety Council,1,7
+2020-04-25,Reuters,1,8
+2020-04-25,Signature Health In Ashtabula,1,9
+2020-04-25,University Of Chicago,1,10
+2020-04-25,University Of Chicago Ny Post Mike Guillen,1,11
+2020-04-25,Centers For Disease,2,1
+2020-04-25,Emergency Management Agency,2,2
+2020-04-25,Relief Fund,2,3
+2020-04-27,Cafaro Foundation,1,1
+2020-04-27,Mercy Health Foundation Of Mahoning Valley,1,2
+2020-04-27,Ohio Living Foundation,1,3
+2020-04-27,Warren Family Mission,1,4
+2020-04-29,Asian American Hotel Owners Association,1,1
+2020-04-29,Bureau Of Prisons,1,2
+2020-04-29,Claire,1,3
+2020-04-29,Democratic National Convention,1,4
+2020-04-29,Health District,1,5
+2020-04-29,Means Committee,1,6
+2020-04-29,Nan,1,7
+2020-04-29,National Bobblehead Hall,1,8
+2020-04-29,New York Times,1,9
+2020-04-29,Ohio Department Of Education,1,10
+2020-04-29,Ohio Health Department,1,11
+2020-04-29,Ohio Hospital Association,1,12
+2020-04-29,Ohio Senate,1,13
+2020-04-29,Republican State Leadership Committee,1,14
+2020-04-29,Senate District,1,15
+2020-04-29,Success Group,1,16
+2020-04-30,Pennsylvania Department Of Health On,1,1
+2020-05-01,Anthony,1,1
+2020-05-01,Giant Eagle,1,2
+2020-05-01,Johnson Johnson,1,3
+2020-05-01,Ohio Public Works Commission,1,4
+2020-05-01,Purdue Pharma,1,5
+2020-05-01,Rite Aid,1,6
+2020-05-01,Salvation Army,1,7
+2020-05-01,Society For The Improvement Of Conditions,1,8
+2020-05-01,Walgreens,1,9
+2020-05-01,Walmart,1,10
+2020-05-01,Ywca,1,11
+2020-05-04,High School Principal John Crowder,1,1
+2020-05-04,Ohio Department Of Education,1,2
+2020-05-04,School Superintendent Paul Woodard,1,3
+2020-05-07,Aultman Alliance Community Hospital,1,1
+2020-05-07,Hillside Rehabilitation Center,1,2
+2020-05-07,Salem Regional Medical Center,1,3
+2020-05-07,Sharon Regional Medical Center,1,4
+2020-05-07,Trumbull Regional Medical Center,1,5
+2020-05-07,University Hospitals Portage Medical Center,1,6
+2020-05-08,Carnegie Mellon University,1,1
+2020-05-08,Health Dr,1,2
+2020-05-08,Pennsylvania Supreme Court,1,3
+2020-05-08,Supreme Court,1,4
+2020-05-09,Carnegie Mellon University,1,1
+2020-05-09,Health Dr,1,2
+2020-05-09,Pennsylvania Supreme Court,1,3
+2020-05-09,Supreme Court,1,4
+2020-05-10,Associated Press,1,1
+2020-05-10,Congress On,1,2
+2020-05-10,Department Of Health,1,3
+2020-05-10,Ford Motor Co,1,4
+2020-05-10,Ge Healthcare,1,5
+2020-05-10,Human Services,1,6
+2020-05-10,Nan,1,7
+2020-05-10,Reform Committee,1,8
+2020-05-10,Strategic National,1,9
+2020-05-10,Twitter,1,10
+2020-05-10,United States,1,11
+2020-05-10,University Of Chicago Booth School Of Business,1,12
+2020-05-10,White House,1,13
+2020-05-10,Zoll Medical Corp,1,14
+2020-05-11,Department Of Education,1,1
+2020-05-11,Department Of Health,1,2
+2020-05-11,Keystone Education Center,1,3
+2020-05-11,Ohio Department Of Health,1,4
+2020-05-11,Rite Aid,1,5
+2020-05-11,Super Kids Organization,1,6
+2020-05-12,Motors Co,1,1
+2020-05-12,Propulsion Technologies Ltd,1,2
+2020-05-12,Workhorse Group Inc,1,3
+2020-05-13,Centers For Disease,1,1
+2020-05-13,Department Of Health,1,2
+2020-05-13,Fellowship Community,1,3
+2020-05-13,Health Administration,1,4
+2020-05-13,National Guard,1,5
+2020-05-13,Ohio Department Of Transit Urban Transit Program,1,6
+2020-05-13,Pennsylvania Department Of Health,1,7
+2020-05-13,Pennsylvania Health Care Association,1,8
+2020-05-15,Alzheimer Association,1,1
+2020-05-15,Community Resource Finder,1,2
+2020-05-15,Drake Landing Banquet Center,1,3
+2020-05-15,Edison Intermediate Larson Middle School,1,4
+2020-05-15,Holy Family Seniors Group,1,5
+2020-05-15,Jewish Family Services,1,6
+2020-05-15,Liberty Township Senior Watch Program,1,7
+2020-05-15,Needs Registry Program,1,8
+2020-05-15,Ohio Department Of Public Safety Division,1,9
+2020-05-15,Ohio Injury Prevention Partnership,1,10
+2020-05-15,Ohio State University,1,11
+2020-05-15,Stevenson Elementary School,1,12
+2020-05-15,Trumbull Office Of Elderly Affairs,1,13
+2020-05-18,Edison Intermediate Larson Middle School,1,1
+2020-05-18,Girard Free Library,1,2
+2020-05-18,Mckinley Memorial Library In Niles,1,3
+2020-05-18,Ohio Library Council,1,4
+2020-05-18,Ohio State University,1,5
+2020-05-18,Public Library,1,6
+2020-05-18,Stevenson Elementary School,1,7
+2020-05-22,Gibbons Lang Co,1,1
+2020-05-22,Ultium Cells,1,2
+2020-05-22,United States,1,3
+2020-05-23,Clorox,1,1
+2020-05-23,Cnn,1,2
+2020-05-23,Main Library,1,3
+2020-05-23,Nan,1,4
+2020-05-23,Ohio Health,1,5
+2020-05-23,Public Library Of Youngstown,1,6
+2020-05-23,Rite Aid,1,7
+2020-05-23,Supreme Court Justice Brett Kavanaugh,1,8
+2020-05-23,United States,1,9
+2020-05-23,White House,1,10
+2020-05-23,World Health Organization,1,11

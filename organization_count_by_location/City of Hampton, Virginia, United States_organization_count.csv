@@ -1,0 +1,568 @@
+date,organization,count,rn
+2020-03-11,Department Of Education,1,1
+2020-03-11,Department Of Emergency Management,1,2
+2020-03-11,Health Department,1,3
+2020-03-11,Virginia Department Of Health,1,4
+2020-03-12,Nan,1,1
+2020-03-12,Rehabilitation Centers,1,2
+2020-03-12,Sentara Nursing Centers,1,3
+2020-03-12,Virginia Department Of Health,1,4
+2020-03-13,Convention Center,1,1
+2020-03-13,Governor Office,1,2
+2020-03-13,Virginia Department Of Health,1,3
+2020-03-15,Colonial Downs Group,1,1
+2020-03-15,Education Solution Services,1,2
+2020-03-15,Peninsula Health District,1,3
+2020-03-15,Virginia Department Of Health,1,4
+2020-03-16,Centers For Disease,1,6
+2020-03-16,Colonial Downs Group,1,7
+2020-03-16,Innovation Group,1,8
+2020-03-16,Newport News Circuit Court,1,9
+2020-03-16,Power Plant Shopping Center,1,10
+2020-03-16,Supreme Court,1,11
+2020-03-16,Virginia Supreme Court,1,12
+2020-03-16,Walmart,1,13
+2020-03-16,Peninsula Health District Call Center,2,5
+2020-03-16,Hampton Peninsula Health District,3,4
+2020-03-16,Virginia Department Of Health,6,3
+2020-03-16,Peninsula Health District,7,2
+2020-03-16,Peninsula Health Department,8,1
+2020-03-17,Call Center,1,29
+2020-03-17,College Board,1,30
+2020-03-17,Department Of Elections,1,31
+2020-03-17,Supreme Court,1,32
+2020-03-17,Virginia Alcoholic Beverage Control Authority,1,33
+2020-03-17,Virginia Department Of Elections,1,34
+2020-03-17,Catholic Diocese Of Richmond,2,25
+2020-03-17,Department Of Motor Vehicle,2,26
+2020-03-17,Vcu Health,2,27
+2020-03-17,Virginia Department Of Health On,2,28
+2020-03-17,Peninsula Health District Call Center,3,24
+2020-03-17,Department Of Motor Vehicles,4,22
+2020-03-17,Virginia Health,4,23
+2020-03-17,Richmond Community Hospital,6,21
+2020-03-17,Bon Secours Health System,8,14
+2020-03-17,Francis Medical Center,8,15
+2020-03-17,Health Department,8,16
+2020-03-17,Johnston Willis Medical Center,8,17
+2020-03-17,Memorial Regional Medical Center,8,18
+2020-03-17,University Of Richmond,8,19
+2020-03-17,Virginia Commonwealth University,8,20
+2020-03-17,Centers For Disease,9,9
+2020-03-17,Health System,9,10
+2020-03-17,Thomas Jefferson Health District,9,11
+2020-03-17,Virginia Department Of Emergency Management,9,12
+2020-03-17,World Health Organization,9,13
+2020-03-17,Corporation Commission,10,5
+2020-03-17,Dominion Energy,10,6
+2020-03-17,Security Administration,10,7
+2020-03-17,Senate Minority Leader Tommy Norment,10,8
+2020-03-17,Health In Richmond,12,4
+2020-03-17,Peninsula Health District,17,3
+2020-03-17,Peninsula Health Department,18,1
+2020-03-17,Virginia Department Of Health,18,2
+2020-03-18,Colonial Downs Group,1,24
+2020-03-18,Innovation Group,1,25
+2020-03-18,Power Plant Shopping Center,1,26
+2020-03-18,Senate Minority Leader Tommy Norment,1,27
+2020-03-18,Vcu Health,1,28
+2020-03-18,Corporation Commission,2,21
+2020-03-18,Dominion Energy,2,22
+2020-03-18,Richmond Health District,2,23
+2020-03-18,Bon Secours Health System,3,1
+2020-03-18,Centers For Disease,3,2
+2020-03-18,Department Of Motor Vehicles,3,3
+2020-03-18,Francis Medical Center,3,4
+2020-03-18,Health Department,3,5
+2020-03-18,Health In Richmond,3,6
+2020-03-18,Health System,3,7
+2020-03-18,Johnston Willis Medical Center,3,8
+2020-03-18,Memorial Regional Medical Center,3,9
+2020-03-18,Peninsula Health Department,3,10
+2020-03-18,Peninsula Health District,3,11
+2020-03-18,Richmond Community Hospital,3,12
+2020-03-18,Security Administration,3,13
+2020-03-18,Thomas Jefferson Health District,3,14
+2020-03-18,University Of Richmond,3,15
+2020-03-18,Virginia Commonwealth University,3,16
+2020-03-18,Virginia Department Of Emergency Management,3,17
+2020-03-18,Virginia Department Of Health,3,18
+2020-03-18,Virginia Health,3,19
+2020-03-18,World Health Organization,3,20
+2020-03-19,Centers For Disease,1,1
+2020-03-19,Circuit Court,1,2
+2020-03-19,Gilbert Branch,1,3
+2020-03-19,Jonathon Gruenke Daily,1,4
+2020-03-19,Nan,1,5
+2020-03-19,Virginia Supreme Court,1,6
+2020-03-19,White House,1,7
+2020-03-19,Young,1,8
+2020-03-20,Nan,1,1
+2020-03-22,Virginia Department Of Education,1,1
+2020-03-23,Brian Perdue Community Impact Newspaper,1,1
+2020-03-23,Community Impact Newspaper,1,2
+2020-03-23,Episcopal Church,1,3
+2020-03-23,Facebook,1,4
+2020-03-23,Luke Episcopal Church,1,5
+2020-03-23,Peninsula Health District,1,6
+2020-03-23,Virginia Department Of Health,1,7
+2020-03-24,Maclean,1,2
+2020-03-24,Nan,1,3
+2020-03-24,National Institute For Mental Health,1,4
+2020-03-24,Purpose Built Families Foundation In Pembroke Pines,1,5
+2020-03-24,Department Of Veterans Affairs,2,1
+2020-03-25,Census Committee,1,1
+2020-03-25,Christopher Newport University,1,2
+2020-03-25,Citizen Unity Commission,1,3
+2020-03-25,College Of William Mary,1,4
+2020-03-25,Eastern Virginia Medical School,1,5
+2020-03-25,Facebook,1,6
+2020-03-25,Harmony Senior Services,1,7
+2020-03-25,Liberty University In Lynchburg,1,8
+2020-03-25,Norfolk State University,1,9
+2020-03-25,Old Dominion University,1,10
+2020-03-25,Prevention Working Group,1,11
+2020-03-25,Regent University,1,12
+2020-03-25,Thomas Nelson Community College,1,13
+2020-03-25,Tidewater Community College,1,14
+2020-03-25,Virginia Department Of Health,1,15
+2020-03-25,Virginia Peninsula Food Bank,1,16
+2020-03-25,Virginia Wesleyan University,1,17
+2020-03-26,Ericsson,1,11
+2020-03-26,Hurdlesastria Health,1,12
+2020-03-26,International Association Of Fire Fighters,1,13
+2020-03-26,Newport News Fire Department,1,14
+2020-03-26,Sheriff Office,1,15
+2020-03-26,Virginia State Police,1,16
+2020-03-26,Astria Health,2,1
+2020-03-26,Astria Regional Medical Center,2,2
+2020-03-26,Harmony Senior Services,2,3
+2020-03-26,Health Care Wellness Committee,2,4
+2020-03-26,Health John Wiesman,2,5
+2020-03-26,National Guard,2,6
+2020-03-26,Office Of Superintendent Of Public Instruction,2,7
+2020-03-26,Providence Yakima Medical Center,2,8
+2020-03-26,Vincent Medical Center,2,9
+2020-03-26,Virginia Department Of Health,2,10
+2020-03-27,Howard University,1,5
+2020-03-27,Tribune Content Agency,1,6
+2020-03-27,University Of California,1,7
+2020-03-27,University Of Pacific,1,8
+2020-03-27,Wesleyan University,1,9
+2020-03-27,Young,1,10
+2020-03-27,Aviation Administration,2,1
+2020-03-27,Aviation Institute Of Maintenance,2,2
+2020-03-27,Boeing,2,3
+2020-03-27,Delta Airlines,2,4
+2020-03-28,District Court,1,1
+2020-03-28,Hampton Health Department,1,2
+2020-03-28,Sheriff Office,1,3
+2020-03-29,Circuit Court,1,1
+2020-03-29,Commonwealth Attorney Office,1,2
+2020-03-29,Department Of Corrections,1,3
+2020-03-29,Virginia Supreme Court,1,4
+2020-03-30,Facebook,1,1
+2020-03-30,Family Center,1,2
+2020-03-30,Harris Teeter,1,3
+2020-03-30,Kroger,1,4
+2020-03-30,Memorial Foundation,1,5
+2020-03-30,Naval Medical Center Portsmouth,1,6
+2020-03-30,Referral Center,1,7
+2020-03-30,Selah School District,1,8
+2020-03-30,Trading Co,1,9
+2020-03-30,Union Gap,1,10
+2020-03-30,University Of Washington,1,11
+2020-03-30,Walmart,1,12
+2020-03-30,Washington State Nurses Association,1,13
+2020-03-31,College Of William Mary,1,1
+2020-03-31,Department Of Defense,1,2
+2020-03-31,Facebook,1,3
+2020-03-31,Liberty University,1,4
+2020-03-31,Rivers Health District,1,5
+2020-03-31,Rosie Cares Community Heroes Meal,1,6
+2020-03-31,Student Assembly,1,7
+2020-03-31,Vanguard Is Threat Tec,1,8
+2020-03-31,Virginia Department Of Health,1,9
+2020-04-01,Bon Secours Mercy Health,1,1
+2020-04-01,Christopher Newport University,1,2
+2020-04-01,Department Of Veterans Affairs,1,3
+2020-04-01,Exxon Mobil,1,4
+2020-04-01,Facebook,1,5
+2020-04-01,Indian Creek Correctional Center,1,6
+2020-04-01,Virginia Correctional Center,1,7
+2020-04-01,Virginia Department Of Corrections,1,8
+2020-04-02,Biloxi Freezing Processing Inc,1,1
+2020-04-02,Communications Gabe Watkins,1,2
+2020-04-02,Community Development Block Grant,1,3
+2020-04-02,Daily Press Of Newport News,1,4
+2020-04-02,Emergency Solutions Grants,1,5
+2020-04-02,Kennedy Center,1,6
+2020-04-02,Liberty University,1,7
+2020-04-02,Performance Food Group,1,8
+2020-04-02,United States Department Of Housing,1,9
+2020-04-02,While Riverence Holdings,1,10
+2020-04-02,White House,1,11
+2020-04-02,Whole Foods Market,1,12
+2020-04-03,Army Corps Of Engineers,1,13
+2020-04-03,Associated Press,1,14
+2020-04-03,Convention Center Facebook,1,15
+2020-04-03,Convention Center Wydaily,1,16
+2020-04-03,Department Of Defense,1,17
+2020-04-03,Department Of Veterans Affairs,1,18
+2020-04-03,Healthcare Association,1,19
+2020-04-03,Imperial College Of London,1,20
+2020-04-03,Naval Medical Center Portsmouth,1,21
+2020-04-03,Portsmouth Naval Medical Center,1,22
+2020-04-03,University Of Pennsylvania,1,23
+2020-04-03,University Of Virginia,1,24
+2020-04-03,University Of Washington,1,25
+2020-04-03,Virginia Employment Commission,1,26
+2020-04-03,Clerk Office,2,8
+2020-04-03,Daily Press,2,9
+2020-04-03,District Court Clerk Office,2,10
+2020-04-03,Exxonmobil,2,11
+2020-04-03,Virginia Department Of Health,2,12
+2020-04-03,Convention Center,3,6
+2020-04-03,Dulles Expo Center,3,7
+2020-04-03,Daily Press On,4,2
+2020-04-03,District Court,4,3
+2020-04-03,District Court Clerk Barbara Fagley,4,4
+2020-04-03,Virginia Supreme Court,4,5
+2020-04-03,Peninsula Health District,5,1
+2020-04-04,American Federation Of Government Workers,1,1
+2020-04-04,Centers For Disease,1,2
+2020-04-04,Nan,1,3
+2020-04-04,Veterans Health Administration,1,4
+2020-04-05,Coalition For Justice,1,1
+2020-04-05,Elbit Systems,1,2
+2020-04-05,George Episcopal Church,1,3
+2020-04-05,Hampton University,1,4
+2020-04-05,Health Administration,1,5
+2020-04-05,Lockheed Martin,1,6
+2020-04-05,National Labor Relations,1,7
+2020-04-05,Workers For The Legal Aid Justice Center,1,8
+2020-04-06,Animal Vision Center,1,2
+2020-04-06,City Council,1,3
+2020-04-06,Clorox,1,4
+2020-04-06,Domestic Violence Action Alliance,1,5
+2020-04-06,Dominion Energy,1,6
+2020-04-06,Morgan,1,7
+2020-04-06,Virginia Department Of Health,1,8
+2020-04-06,Peninsula Health District,2,1
+2020-04-07,Canterbury Rehabilitation Healthcare Center,1,1
+2020-04-07,Centers For Disease,1,2
+2020-04-07,Community Foundation,1,3
+2020-04-07,Convention Center,1,4
+2020-04-07,Dulles Expo Center,1,5
+2020-04-07,United States,1,6
+2020-04-08,Day Fund,1,1
+2020-04-08,Disney,1,2
+2020-04-08,Facebook,1,3
+2020-04-08,Food Truck Association,1,4
+2020-04-08,George Mason University,1,5
+2020-04-08,Harris Teeter,1,6
+2020-04-08,Healthcare Association,1,7
+2020-04-08,Master Police,1,8
+2020-04-08,Police In Chesapeake,1,9
+2020-04-08,United States,1,10
+2020-04-08,Virginia Department Of Health,1,11
+2020-04-08,Walmart,1,12
+2020-04-10,Circa,1,1
+2020-04-10,Convention Center,1,2
+2020-04-10,Dulles Expo Center,1,3
+2020-04-10,Emergency Management Agency,1,4
+2020-04-10,Facebook,1,5
+2020-04-10,Fedex,1,6
+2020-04-10,Instagram,1,7
+2020-04-10,Sangjib Min Daily,1,8
+2020-04-10,Virginia Beer Co,1,9
+2020-04-10,Virginia Department Of Emergency Management,1,10
+2020-04-11,Convention Center,1,1
+2020-04-11,Dulles Expo Center,1,2
+2020-04-11,Emergency Management Agency,1,3
+2020-04-11,Firearms Transaction Center,1,4
+2020-04-11,National Rifle Association,1,5
+2020-04-11,Virginia Department Of Emergency Management,1,6
+2020-04-11,Virginia Firearms Transaction Center,1,7
+2020-04-11,Virginia State Police,1,8
+2020-04-15,Aberdeen Elementary School,1,1
+2020-04-15,Achievable Dream Academy,1,2
+2020-04-15,Aqueduct Community,1,3
+2020-04-15,Bassette Elementary School,1,4
+2020-04-15,Canterbury Rehabilitation Healthcare Center,1,5
+2020-04-15,Cary Elementary School,1,6
+2020-04-15,Centers For Disease,1,7
+2020-04-15,Coronavirus Community Relief Act,1,8
+2020-04-15,Coronavirus Community Support,1,9
+2020-04-15,Courthouse Way Community,1,10
+2020-04-15,Courthouse Way Community Center,1,11
+2020-04-15,Doris Miller Community Center,1,12
+2020-04-15,Epes Elementary School,1,13
+2020-04-15,Firearms Transaction Center,1,14
+2020-04-15,Front Of Rental Office,1,15
+2020-04-15,Girls Club,1,16
+2020-04-15,Hampton University,1,17
+2020-04-15,Heritage High School,1,18
+2020-04-15,Hogan Drive City Center Area,1,19
+2020-04-15,Human Services,1,20
+2020-04-15,Ivy Baptist Church,1,21
+2020-04-15,Lee Mill Community,1,22
+2020-04-15,Marshall Courts Recreation Center,1,23
+2020-04-15,Mcintosh Elementary School,1,24
+2020-04-15,Morrison Family Learning Center,1,25
+2020-04-15,Moton Early Childhood Center,1,26
+2020-04-15,National Rifle Association,1,27
+2020-04-15,New York Times,1,28
+2020-04-15,Newsome Park Elementary School,1,29
+2020-04-15,Palmer Elementary School,1,30
+2020-04-15,Peninsula Health District,1,31
+2020-04-15,Response Initiative,1,32
+2020-04-15,Rite Aid,1,33
+2020-04-15,Riverside Health System,1,34
+2020-04-15,Syms Middle School,1,35
+2020-04-15,Tabb High School,1,36
+2020-04-15,Tarrant Middle School,1,37
+2020-04-15,Tillerson Community,1,38
+2020-04-15,Twitter,1,39
+2020-04-15,Veterans Affairs,1,40
+2020-04-15,Virginia Department Of Health,1,41
+2020-04-15,Virginia Firearms Transaction Center,1,42
+2020-04-15,Virginia Hospital Healthcare Association,1,43
+2020-04-15,Virginia State Police,1,44
+2020-04-15,Warwick High School,1,45
+2020-04-15,World Health Organization,1,46
+2020-04-15,York High School,1,47
+2020-04-16,Peninsula Health District,1,1
+2020-04-17,Davita Kidney Care Center,1,1
+2020-04-17,Family Dollar,1,2
+2020-04-17,Food Truck Association,1,3
+2020-04-17,Natalie Joseph Daily,1,4
+2020-04-17,Old Navy,1,5
+2020-04-17,Sam Club,1,6
+2020-04-17,Sherwin Williams,1,7
+2020-04-17,Small Business Administration,1,8
+2020-04-17,Virginia Beer Co,1,9
+2020-04-19,Children Services,1,1
+2020-04-19,Claire,1,2
+2020-04-19,Faison Center,1,3
+2020-04-19,Health Services,1,4
+2020-04-19,Matt Jones Daily,1,5
+2020-04-19,Oyster Point Academy,1,6
+2020-04-19,Peninsula School,1,7
+2020-04-19,Virginia Department Of Education,1,8
+2020-04-19,Virginia Office Of Children Services,1,9
+2020-04-20,Commonwealth Cyber Initiative,1,1
+2020-04-20,Department Of Conservation,1,2
+2020-04-20,Department Of Transportation,1,3
+2020-04-20,Science Museum Of Virginia,1,4
+2020-04-20,Virginia Innovation Partnership Authority,1,5
+2020-04-21,Commonwealth Cyber Initiative,1,1
+2020-04-21,Department Of Conservation,1,2
+2020-04-21,Department Of Transportation,1,3
+2020-04-21,Science Museum Of Virginia,1,4
+2020-04-21,Virginia Innovation Partnership Authority,1,5
+2020-04-23,Coalition To Stop Gun Violence,1,1
+2020-04-23,El Camino College Art Gallery,1,2
+2020-04-23,Manhattan Beach Art Center,1,3
+2020-04-23,Newport News Police,1,4
+2020-04-23,Palos Verdes Art Center,1,5
+2020-04-23,Virginia Institute Of Marine Science,1,6
+2020-04-23,Yorktown Foundation,1,7
+2020-04-24,Community Impact Newspaper,1,1
+2020-04-24,Glenn High School,1,2
+2020-04-24,Hope High School,1,3
+2020-04-24,Parkside Elementary School,1,4
+2020-04-24,Peninsula Health District,1,5
+2020-04-24,Reed Elementary School,1,6
+2020-04-24,Rouse High School,1,7
+2020-04-24,Steiner Ranch Elementary School,1,8
+2020-04-24,Tarvin Elementary School,1,9
+2020-04-24,Virginia Department Of Health,1,10
+2020-04-26,Science Museum In Richmond,1,1
+2020-04-26,Virginia Department Of Elections,1,2
+2020-04-26,Virginia Senate,1,3
+2020-04-28,Centers For Disease,1,1
+2020-04-28,Healthcare Association,1,2
+2020-04-28,Mental Health Services Administration,1,3
+2020-04-28,United States,1,4
+2020-04-28,Virginia Department Of Health,1,5
+2020-04-28,White House,1,6
+2020-04-29,Virginia Department Of Elections,1,1
+2020-04-30,Army Corps Of Engineers,1,1
+2020-04-30,Biocomplexity Institute,1,2
+2020-04-30,Centers For Disease,1,3
+2020-04-30,Christopher Newport University,1,4
+2020-04-30,College Of Arts,1,5
+2020-04-30,Community Development,1,6
+2020-04-30,Convention Center,1,7
+2020-04-30,Convention Center To Be,1,8
+2020-04-30,Eastern Shore Health District,1,9
+2020-04-30,Emergency Management Agency,1,10
+2020-04-30,Emergency Management Team,1,11
+2020-04-30,Facebook,1,12
+2020-04-30,Governor Calls Out Liberty University,1,13
+2020-04-30,Hampton University,1,14
+2020-04-30,Health Dan Carey,1,15
+2020-04-30,Health Dr,1,16
+2020-04-30,Healthcare Association,1,17
+2020-04-30,Human Services,1,18
+2020-04-30,Liberty University,1,19
+2020-04-30,Mental Health Services Administration,1,20
+2020-04-30,Naval Medical Center Portsmouth,1,21
+2020-04-30,Newport News Shipbuilding,1,22
+2020-04-30,Norfolk State University,1,23
+2020-04-30,Old Dominion University,1,24
+2020-04-30,Population Health,1,25
+2020-04-30,Portsmouth Health Department,1,26
+2020-04-30,Public Health Policy Task,1,27
+2020-04-30,Richmond Convention Center,1,28
+2020-04-30,Service Division Of Consolidated Laboratory Services,1,29
+2020-04-30,Small Business Administration,1,30
+2020-04-30,Tidewater Health District,1,31
+2020-04-30,University Of Virginia,1,32
+2020-04-30,Virginia Dental Association,1,33
+2020-04-30,Virginia Department,1,34
+2020-04-30,Virginia Department Of Corrections,1,35
+2020-04-30,Virginia Department Of Health,1,36
+2020-04-30,Virginia Department Of Housing,1,37
+2020-04-30,Virginia Health,1,38
+2020-04-30,White House,1,39
+2020-05-01,American Academy Of Pediatrics,1,2
+2020-05-01,Children Services,1,3
+2020-05-01,Claire,1,4
+2020-05-01,Department Of Veterans Affairs,1,5
+2020-05-01,Facebook,1,6
+2020-05-01,Faison Center,1,7
+2020-05-01,Health Services,1,8
+2020-05-01,Healthcare Association,1,9
+2020-05-01,National Summary,1,10
+2020-05-01,Newport News Shipbuilding,1,11
+2020-05-01,Oyster Point Academy,1,12
+2020-05-01,Pediatric Diagnostic Center,1,13
+2020-05-01,Peninsula Health District,1,14
+2020-05-01,Peninsula Health District As Newport News,1,15
+2020-05-01,Peninsula School,1,16
+2020-05-01,Riverside Regional Medical Center,1,17
+2020-05-01,Virginia Department Of Education,1,18
+2020-05-01,Virginia Office Of Children Services,1,19
+2020-05-01,Virginia Department Of Health,2,1
+2020-05-02,Aviation Intermediate Maintenance Department,1,1
+2020-05-02,Riddle Aeronautical University,1,2
+2020-05-02,Truman Carrier Strike Group,1,3
+2020-05-06,Brian Perdue Community Impact Newspaper,1,1
+2020-05-06,Community Impact Newspaper,1,2
+2020-05-06,Glenn High School,1,3
+2020-05-06,Key Club,1,4
+2020-05-06,Thomas More Catholic Church,1,5
+2020-05-07,Virginia Department Of Health,1,1
+2020-05-07,Virginia Hospital Healthcare Association,1,2
+2020-05-08,Demo Team,1,1
+2020-05-08,Heritage Flight,1,2
+2020-05-08,Heritage Flight Foundation,1,3
+2020-05-08,Raptor Demo Team,1,4
+2020-05-08,Raptor Demonstration Team,1,5
+2020-05-08,Virginia Air National Guard,1,6
+2020-05-09,Boys Girls Club,1,1
+2020-05-09,Christian Broadcasting Company,1,2
+2020-05-10,Blocker Foundation,1,1
+2020-05-10,Business Task,1,2
+2020-05-10,Coalition Against Domestic Violence,1,3
+2020-05-10,Community Foundation,1,4
+2020-05-10,Coronavirus Recovery Fund,1,5
+2020-05-10,Curtis Group,1,6
+2020-05-10,Design Firm,1,7
+2020-05-10,Design Firm Of The Year,1,8
+2020-05-10,Dollar Tree,1,9
+2020-05-10,Dominion Energy,1,10
+2020-05-10,Families Foundation,1,11
+2020-05-10,Geico,1,12
+2020-05-10,Midatlantic Top Design Firm,1,13
+2020-05-10,National Volunteer Week,1,14
+2020-05-10,Newport News Shipbuilding,1,15
+2020-05-10,Riverside Regional Medical Center,1,16
+2020-05-10,Sandler Center,1,17
+2020-05-10,Sandler Center Foundation,1,18
+2020-05-10,Tidewater Community College Lucy Obrien,1,19
+2020-05-10,Truist Charitable Fund,1,20
+2020-05-10,Washington Lee University,1,21
+2020-05-10,Waters Edge Church,1,22
+2020-05-10,Wells Fargo,1,23
+2020-05-11,Centers For Disease,1,2
+2020-05-11,Gibson,1,3
+2020-05-11,Mercer University,1,4
+2020-05-11,Mercer University In Atlanta,1,5
+2020-05-11,World Health Organization,1,6
+2020-05-11,United States,2,1
+2020-05-12,Catholic Diocese Of Richmond,1,1
+2020-05-12,City Council,1,2
+2020-05-12,Committee To Unleash Prosperity,1,3
+2020-05-12,Facebook,1,4
+2020-05-12,Peninsula Islamic Community Center,1,5
+2020-05-12,Saint Bede Catholic Church,1,6
+2020-05-13,Bureau Of Prison,1,1
+2020-05-13,Bureau Of Prisons,1,2
+2020-05-13,Centers For Disease,1,3
+2020-05-13,Facebook,1,4
+2020-05-13,Falls Church,1,5
+2020-05-13,Health Dan Carey,1,6
+2020-05-13,Healthcare Association,1,7
+2020-05-13,Medicaid Service,1,8
+2020-05-13,Nan,1,9
+2020-05-13,Newport News City Council,1,10
+2020-05-13,Service Of Remembrance,1,11
+2020-05-13,Virginia Department Of Health,1,12
+2020-05-14,American Lung Association,1,1
+2020-05-14,United States,1,2
+2020-05-16,City Center Blvd,1,1
+2020-05-16,Crosswalk Church,1,2
+2020-05-16,Drug Administration,1,3
+2020-05-16,Liberty Live Church,1,4
+2020-05-16,Stonehouse Presbyerian Church,1,5
+2020-05-16,United Jewish Community Of The Virginia Peninsula,1,6
+2020-05-16,Visitors Center Drive In Williamsburg,1,7
+2020-05-16,Waters Edge Church,1,8
+2020-05-16,Woodlands Conference Center,1,9
+2020-05-17,Howard University,3,4
+2020-05-17,Morehouse College,3,5
+2020-05-17,Morgan,3,6
+2020-05-17,United States,3,7
+2020-05-17,Ivy League,5,1
+2020-05-17,Jp Morgan Chase,5,2
+2020-05-17,Youtube,5,3
+2020-05-18,Carolina Department Of Health,1,8
+2020-05-18,Christopher Newport University,1,9
+2020-05-18,Healthcare Association,1,10
+2020-05-18,Human Services,1,11
+2020-05-18,Sheriff Office,1,12
+2020-05-18,Supreme Court,1,13
+2020-05-18,Virginia Department Of Health,1,14
+2020-05-18,Virginia Marine Resources Commission,1,15
+2020-05-18,Howard University,2,1
+2020-05-18,Ivy League,2,2
+2020-05-18,Jp Morgan Chase,2,3
+2020-05-18,Morehouse College,2,4
+2020-05-18,Morgan,2,5
+2020-05-18,United States,2,6
+2020-05-18,Youtube,2,7
+2020-05-19,District Court,1,1
+2020-05-19,Poverty Law Center,1,2
+2020-05-19,Princeton University Eviction Lab,1,3
+2020-05-19,Virginia Poverty Law Center,1,4
+2020-05-19,Virginia Supreme Court,1,5
+2020-05-22,Catholic Charities Of Eastern Virginia,1,1
+2020-05-22,Cato Corp,1,2
+2020-05-22,Children Health Investment Program,1,3
+2020-05-22,Coronavirus Recovery Fund,1,4
+2020-05-22,Department Of Defense,1,5
+2020-05-22,Dollar Tree,1,6
+2020-05-22,Dragas Center,1,7
+2020-05-22,Economic Development Investment Program,1,8
+2020-05-22,Macarthur Center,1,9
+2020-05-22,Old Dominion University,1,10
+2020-05-22,Team Better Block,1,11
+2020-05-22,Valkyrie Enterprises Inc,1,12
+2020-05-22,Work Program Architects,1,13
+2020-05-22,Yard Co,1,14
+2020-05-23,Department Of Veterans Affairs,1,1
+2020-05-23,National Association For Black Veterans,1,2
+2020-05-23,Netflix,1,3

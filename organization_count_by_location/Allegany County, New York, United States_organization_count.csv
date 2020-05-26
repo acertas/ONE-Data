@@ -1,0 +1,778 @@
+date,organization,count,rn
+2020-02-13,Healthwatch,1,1
+2020-02-13,Russian Academy Of Medical Sciences,1,2
+2020-02-13,Stern,1,3
+2020-02-13,Then The Centers For Disease,1,4
+2020-02-13,Trademark Office,1,5
+2020-02-13,World Health,1,6
+2020-02-13,World Health Organization,1,7
+2020-02-14,American Society For Microbiology,1,1
+2020-02-14,Shasta Cascade Health Centers,1,2
+2020-02-14,Wildlife Conservation Society,1,3
+2020-02-20,Reuters,1,1
+2020-02-20,Thomson Reuters Trust Principles,1,2
+2020-02-20,United States,1,3
+2020-02-28,Bloomberg,1,2
+2020-02-28,Carolina Hospital Association,1,3
+2020-02-28,Centers For Disease,1,4
+2020-02-28,Division Of Public Health,1,5
+2020-02-28,White House,1,6
+2020-02-28,World Trade Center,1,7
+2020-02-28,United States,2,1
+2020-02-29,Oval Office,1,9
+2020-02-29,Cnn,2,6
+2020-02-29,National Institutes Of Health,2,7
+2020-02-29,White House,2,8
+2020-02-29,Associated Press,3,4
+2020-02-29,World Health Organization,3,5
+2020-02-29,United States,5,3
+2020-02-29,Centers For Disease,6,2
+2020-02-29,Bloomberg,8,1
+2020-03-01,Democratic Party,1,12
+2020-03-01,National Institutes Of Health,1,13
+2020-03-01,New York Post,1,14
+2020-03-01,Oval Office,1,15
+2020-03-01,Senate Trump,2,11
+2020-03-01,Norfolk State University,3,7
+2020-03-01,University Of South Carolina,3,8
+2020-03-01,Virginia Wesleyan University,3,9
+2020-03-01,World Health Organization,3,10
+2020-03-01,Centers For Disease,4,6
+2020-03-01,White House,5,5
+2020-03-01,Associated Press,7,3
+2020-03-01,United States,7,4
+2020-03-01,Cnn,8,2
+2020-03-01,Bloomberg,11,1
+2020-03-02,Bloomberg,1,5
+2020-03-02,Centers For Disease,1,6
+2020-03-02,National Institutes Of Health,1,7
+2020-03-02,New York Times,1,8
+2020-03-02,Obama Administration,1,9
+2020-03-02,Oval Office,1,10
+2020-03-02,Department Of Health,2,1
+2020-03-02,Emergency Management Agency,2,2
+2020-03-02,Human Services,2,3
+2020-03-02,White House,2,4
+2020-03-03,Bloomberg,1,1
+2020-03-03,Nan,1,2
+2020-03-03,New York Post,1,3
+2020-03-03,Oval Office,1,4
+2020-03-03,Transportation Authority,1,5
+2020-03-03,United States,1,6
+2020-03-06,Alfred State College,1,1
+2020-03-06,Bonaventure University,1,2
+2020-03-06,Council For Christian Colleges,1,3
+2020-03-06,Division Of Global,1,4
+2020-03-06,Emergency Management Team,1,5
+2020-03-06,Hershey School Of Medicine At Penn,1,6
+2020-03-06,Houghton College,1,7
+2020-03-06,National Institute Of Health,1,8
+2020-03-06,United States,1,9
+2020-03-06,University Of New York,1,10
+2020-03-06,University Of Pittsburgh,1,11
+2020-03-06,Walter Reed Army Medical Center,1,12
+2020-03-06,White House,1,13
+2020-03-10,Centers For Disease,1,1
+2020-03-10,Fire Department,1,2
+2020-03-10,Hope Center,1,3
+2020-03-10,Mission Genesee Valley,1,4
+2020-03-10,Port Authority Of New York,1,5
+2020-03-10,World Health Organization,1,6
+2020-03-11,American Legion,1,3
+2020-03-11,Board Of Trustees,1,4
+2020-03-11,Catholic Diocese Of Lexington,1,5
+2020-03-11,Crisis Action Task,1,6
+2020-03-11,Department Of Homeland Security,1,7
+2020-03-11,Emergency Management Agency,1,8
+2020-03-11,Episcopal Diocese Of Lexington,1,9
+2020-03-11,Facebook,1,10
+2020-03-11,Human Services,1,11
+2020-03-11,Human Services Department,1,12
+2020-03-11,Immanuel Baptist Church,1,13
+2020-03-11,Lexington Diocese,1,14
+2020-03-11,Marsh Mclennan Companies,1,15
+2020-03-11,National Guard,1,16
+2020-03-11,New York Times,1,17
+2020-03-11,Operations Center,1,18
+2020-03-11,Reuters,1,19
+2020-03-11,Senate Minority Leader Chuck Schumer,1,20
+2020-03-11,Tribune Content Agency,1,21
+2020-03-11,Twitter,1,22
+2020-03-11,United Methodist Church,1,23
+2020-03-11,United States,1,24
+2020-03-11,White House,1,25
+2020-03-11,World Health Organization,1,26
+2020-03-11,Centers For Disease,2,1
+2020-03-11,Cnn,2,2
+2020-03-12,Bonaventure University,1,1
+2020-03-12,Bradford Regional Medical Center,1,2
+2020-03-12,Health Department,1,3
+2020-03-12,Upper Allegheny Health System,1,4
+2020-03-13,Allegany College,1,4
+2020-03-13,Allegany College Of Maryland,1,5
+2020-03-13,Call Center,1,6
+2020-03-13,Department Of Education,1,7
+2020-03-13,Florida Department Of Health,1,8
+2020-03-13,Florida Health Department,1,9
+2020-03-13,Frostburg State University,1,10
+2020-03-13,Garrett College,1,11
+2020-03-13,Health Advisory,1,12
+2020-03-13,History Of International,1,13
+2020-03-13,Maryland Department Of Health On,1,14
+2020-03-13,Maryland Emergency Management Agency,1,15
+2020-03-13,Metro Cruise Services,1,16
+2020-03-13,Metro Cruise Services At Port Everglades,1,17
+2020-03-13,National Guard,1,18
+2020-03-13,No Known History Of International,1,19
+2020-03-13,Number Of People Under Public Health Monitoring,1,20
+2020-03-13,Office Of Emergency Services,1,21
+2020-03-13,Oval Office,1,22
+2020-03-13,People Under Public Health Monitoring,1,23
+2020-03-13,Ron Desantis Holds Press Conference Regarding,1,24
+2020-03-13,Virginia Bureau Of Public Health,1,25
+2020-03-13,White House,1,26
+2020-03-13,World Health Organization On,1,27
+2020-03-13,Health Department,2,1
+2020-03-13,Nan,2,2
+2020-03-13,United States,2,3
+2020-03-14,Agency For Health Care,1,9
+2020-03-14,Agency For Health Care Administration,1,10
+2020-03-14,Associated Press,1,11
+2020-03-14,Braddock Medical Group,1,12
+2020-03-14,Cnn,1,13
+2020-03-14,Commission On,1,14
+2020-03-14,Community Supervision,1,15
+2020-03-14,Department Of Education,1,16
+2020-03-14,Department Of Homeland Security,1,17
+2020-03-14,Emergency Management Agency,1,18
+2020-03-14,Episcopal Diocese Of Indianapolis,1,19
+2020-03-14,Extension Group,1,20
+2020-03-14,Florida Department,1,21
+2020-03-14,Florida Department Of Education,1,22
+2020-03-14,Florida Division Of Emergency Management,1,23
+2020-03-14,Florida Health Department,1,24
+2020-03-14,Florida Virtual School,1,25
+2020-03-14,Girl Scouts,1,26
+2020-03-14,Governor Office,1,27
+2020-03-14,History Of International,1,28
+2020-03-14,Human Services,1,29
+2020-03-14,Incident Management Team,1,30
+2020-03-14,Laboratory Guidance,1,31
+2020-03-14,Mark Church,1,32
+2020-03-14,Maryland Department Of Health,1,33
+2020-03-14,Maryland Emergency Department,1,34
+2020-03-14,Maryland Public Health Laboratory In Baltimore,1,35
+2020-03-14,Metro Cruise Services At Port,1,36
+2020-03-14,Metro Cruise Services At Port Everglades,1,37
+2020-03-14,National Emergencies,1,38
+2020-03-14,National Emergencies Act,1,39
+2020-03-14,New York Post,1,40
+2020-03-14,No Known History Of International,1,41
+2020-03-14,Number Of People Under Public Health Monitoring,1,42
+2020-03-14,Orleans Counties Departments Of Health,1,43
+2020-03-14,People Under Public Health Monitoring,1,44
+2020-03-14,Public Health Emergency,1,45
+2020-03-14,Public Health Laboratories,1,46
+2020-03-14,Purdue University,1,47
+2020-03-14,White House,1,48
+2020-03-14,York State Department Of Corrections,1,49
+2020-03-14,York State Department Of Health,1,50
+2020-03-14,Call Center,2,5
+2020-03-14,Health Advisory,2,6
+2020-03-14,Health Department,2,7
+2020-03-14,Metro Cruise Services,2,8
+2020-03-14,Centers For Disease,3,3
+2020-03-14,Florida Department Of Health,3,4
+2020-03-14,Department Of Health,4,1
+2020-03-14,United States,4,2
+2020-03-15,Florida Department Of Health Announces New Positive,1,30
+2020-03-15,Florida Health Department,1,31
+2020-03-15,History Of International,1,32
+2020-03-15,Lee Health,1,33
+2020-03-15,Little League,1,34
+2020-03-15,No Known History Of International,1,35
+2020-03-15,Number Of People Under Public Health Monitoring,1,36
+2020-03-15,People Under Public Health Monitoring,1,37
+2020-03-15,Public Health,1,38
+2020-03-15,Cnn,2,22
+2020-03-15,Community Supervision,2,23
+2020-03-15,Episcopal Diocese Of Indianapolis,2,24
+2020-03-15,Girl Scouts,2,25
+2020-03-15,Mark Church,2,26
+2020-03-15,Orleans Counties Departments Of Health,2,27
+2020-03-15,York State Department Of Corrections,2,28
+2020-03-15,York State Department Of Health,2,29
+2020-03-15,Agency For Health Care Administration,3,12
+2020-03-15,Department Of Education,3,13
+2020-03-15,Florida Department Of Corrections,3,14
+2020-03-15,Florida Department Of Education,3,15
+2020-03-15,Florida Division Of Emergency Management,3,16
+2020-03-15,Health Care Coalitions,3,17
+2020-03-15,Incident Management Team,3,18
+2020-03-15,Laboratory Guidance,3,19
+2020-03-15,Public Health Emergency,3,20
+2020-03-15,Public Health Laboratories,3,21
+2020-03-15,Call Center,4,4
+2020-03-15,Dobbins Air Reserve,4,5
+2020-03-15,Florida Department Of Health,4,6
+2020-03-15,Health Advisory,4,7
+2020-03-15,Human Services,4,8
+2020-03-15,Metro Cruise Services,4,9
+2020-03-15,Metro Cruise Services At Port Everglades,4,10
+2020-03-15,United States,4,11
+2020-03-15,Centers For Disease,5,1
+2020-03-15,Department Of Health,5,2
+2020-03-15,Health Department,5,3
+2020-03-16,Agency For Health Care Administration,1,11
+2020-03-16,Army Corps Of Engineers,1,12
+2020-03-16,Call Center,1,13
+2020-03-16,Department Of Education,1,14
+2020-03-16,Disaster Relief Fund,1,15
+2020-03-16,Dobbins Air Reserve,1,16
+2020-03-16,Drug Administration,1,17
+2020-03-16,Facebook,1,18
+2020-03-16,Florida Department Of Corrections,1,19
+2020-03-16,Florida Department Of Education,1,20
+2020-03-16,Florida Department Of Health,1,21
+2020-03-16,Florida Division Of Emergency Management,1,22
+2020-03-16,Health Advisory,1,23
+2020-03-16,Health Care Coalitions,1,24
+2020-03-16,Incident Management Team,1,25
+2020-03-16,Infrastructure Subcommittee On Economic Development,1,26
+2020-03-16,Instagram,1,27
+2020-03-16,Intergovernmental Panel On Climate Change,1,28
+2020-03-16,It Not A Plan For National Quarantine,1,29
+2020-03-16,Laboratory Guidance,1,30
+2020-03-16,Lee Health,1,31
+2020-03-16,Maryland State Police,1,32
+2020-03-16,Members Of Congress,1,33
+2020-03-16,Metro Cruise Services,1,34
+2020-03-16,Metro Cruise Services At Port Everglades,1,35
+2020-03-16,Nan,1,36
+2020-03-16,National Emergencies Act,1,37
+2020-03-16,National Weather Service,1,38
+2020-03-16,Police Department,1,39
+2020-03-16,Public Health Emergency,1,40
+2020-03-16,Public Health Laboratories,1,41
+2020-03-16,Public Health Service,1,42
+2020-03-16,Renee Cho At Columbia University Earth Institute,1,43
+2020-03-16,Twitter,1,44
+2020-03-16,Village Clerk Office,1,45
+2020-03-16,White House,1,46
+2020-03-16,World Health Organization,1,47
+2020-03-16,Centers For Disease,2,8
+2020-03-16,Health Department,2,9
+2020-03-16,York State Department Of Health,2,10
+2020-03-16,Department Of Health,3,3
+2020-03-16,Human Services,3,4
+2020-03-16,National Emergencies,3,5
+2020-03-16,National Guard,3,6
+2020-03-16,National Security Council,3,7
+2020-03-16,Emergency Management Agency,4,1
+2020-03-16,United States,4,2
+2020-03-17,Bard College,1,2
+2020-03-17,Cary Institute Of Ecosystem,1,3
+2020-03-17,Cary Institute Of Ecosystem Studies In Millbrook,1,4
+2020-03-17,Congregate Centers,1,5
+2020-03-17,Department Of Environmental Sciences,1,6
+2020-03-17,Department Of Treasury,1,7
+2020-03-17,Emory University,1,8
+2020-03-17,Federal Reserve,1,9
+2020-03-17,Flickr,1,10
+2020-03-17,Global Health,1,11
+2020-03-17,Institute Of Infection,1,12
+2020-03-17,Intergovernmental Panel On Climate Change,1,13
+2020-03-17,International Livestock Research Institute,1,14
+2020-03-17,Legal Forum,1,15
+2020-03-17,Maryland Transportation Authority,1,16
+2020-03-17,Motor Vehicle Administration,1,17
+2020-03-17,New York Times,1,18
+2020-03-17,Renee Cho At Columbia University Earth Institute,1,19
+2020-03-17,Reuters,1,20
+2020-03-17,Senior Forum,1,21
+2020-03-17,University Of California,1,22
+2020-03-17,University Of Liverpool,1,23
+2020-03-17,World Health Organization,1,24
+2020-03-17,Ymca,1,25
+2020-03-17,York State Office For The,1,26
+2020-03-17,United States,2,1
+2020-03-18,A State Department,1,9
+2020-03-18,Atlantic Health Newton Medical Center,1,10
+2020-03-18,Centers For Disease,1,11
+2020-03-18,Department Of Environmental Sciences,1,12
+2020-03-18,Department Of Health,1,13
+2020-03-18,Emergency Department,1,14
+2020-03-18,Emergency Management Agency,1,15
+2020-03-18,Emory University,1,16
+2020-03-18,Emory University Department,1,17
+2020-03-18,Facebook,1,18
+2020-03-18,Institute Of Infection,1,19
+2020-03-18,Nan,1,20
+2020-03-18,National Security Council,1,21
+2020-03-18,Newton Medical Center,1,22
+2020-03-18,States Center,1,23
+2020-03-18,Thomson Reuters Trust Principles,1,24
+2020-03-18,University Of Liverpool,1,25
+2020-03-18,University Of Liverpool Institute Of Infection,1,26
+2020-03-18,Us Centers For Disease,1,27
+2020-03-18,White House,1,28
+2020-03-18,World Health Organization,1,29
+2020-03-18,Ymca,1,30
+2020-03-18,Bard College,2,2
+2020-03-18,Cary Institute Of Ecosystem Studies In Millbrook,2,3
+2020-03-18,Global Health,2,4
+2020-03-18,International Livestock Research Institute,2,5
+2020-03-18,Twitter,2,6
+2020-03-18,United States,2,7
+2020-03-18,University Of California,2,8
+2020-03-18,New York Times,3,1
+2020-03-19,Centers For Disease,1,11
+2020-03-19,National Guard,1,12
+2020-03-19,Public Health Service,1,13
+2020-03-19,Selective Service,1,14
+2020-03-19,Supreme Court,1,15
+2020-03-19,Supreme Court Justice Robert Jackson,1,16
+2020-03-19,Twitter,1,17
+2020-03-19,United States,1,18
+2020-03-19,Washington Post,1,19
+2020-03-19,White House,1,20
+2020-03-19,World Health Organization,1,21
+2020-03-19,Bard College,2,5
+2020-03-19,Cary Institute Of Ecosystem Studies In Millbrook,2,6
+2020-03-19,Department Of Environmental Sciences,2,7
+2020-03-19,Emory University,2,8
+2020-03-19,International Livestock Research Institute,2,9
+2020-03-19,University Of California,2,10
+2020-03-19,Global Health,3,1
+2020-03-19,Institute Of Infection,3,2
+2020-03-19,New York Times,3,3
+2020-03-19,University Of Liverpool,3,4
+2020-03-20,Bard College,1,1
+2020-03-20,Cary Institute Of Ecosystem Studies In Millbrook,1,2
+2020-03-20,Emory University Department Of Environmental Sciences,1,3
+2020-03-20,Global Health,1,4
+2020-03-20,International Livestock Research Institute,1,5
+2020-03-20,Massachusetts Legislature,1,6
+2020-03-20,National Guard,1,7
+2020-03-20,New York Times,1,8
+2020-03-20,Public Health Service,1,9
+2020-03-20,Selective Service,1,10
+2020-03-20,Supreme Court,1,11
+2020-03-20,Supreme Court Justice Robert Jackson,1,12
+2020-03-20,Times Union New York Coronavirus Tracker,1,13
+2020-03-20,United States,1,14
+2020-03-20,University At Albany Police Department,1,15
+2020-03-20,University Of California,1,16
+2020-03-20,University Of Liverpool Institute Of Infection,1,17
+2020-03-21,Allegany College Of Maryland,1,1
+2020-03-21,Appalachian Regional Commission,1,2
+2020-03-21,Boynton Church,1,3
+2020-03-21,Calvary United Methodist Church,1,4
+2020-03-21,Economy Wholesale Co,1,5
+2020-03-21,Facebook,1,6
+2020-03-21,Greater Pittsburgh Community Food Bank,1,7
+2020-03-21,Maryland Technology Development Corp,1,8
+2020-03-21,Massachusetts Legislature,1,9
+2020-03-21,National Guard,1,10
+2020-03-21,National Institute Of Metalworking Skills,1,11
+2020-03-21,National Jet Corp,1,12
+2020-03-21,Northrop Grumman,1,13
+2020-03-21,Paul Church,1,14
+2020-03-21,Pennsylvania Department Of Education,1,15
+2020-03-21,Public Health Service,1,16
+2020-03-21,Scalp Level Fire Department,1,17
+2020-03-21,Selective Service,1,18
+2020-03-21,Small Business Administration,1,19
+2020-03-21,Supreme Court,1,20
+2020-03-21,Supreme Court Justice Robert Jackson,1,21
+2020-03-21,Twitter,1,22
+2020-03-21,United States,1,23
+2020-03-21,Verso Corp,1,24
+2020-03-22,Cnn,1,1
+2020-03-22,White House,1,2
+2020-03-24,Associated Press,1,1
+2020-03-24,Bard College,1,2
+2020-03-24,Cary Institute Of Ecosystem Studies In Millbrook,1,3
+2020-03-24,Congressional Research Service,1,4
+2020-03-24,Disaster Relief Fund,1,5
+2020-03-24,Emergency Management Agency,1,6
+2020-03-24,Emory University Department Of Environmental Sciences,1,7
+2020-03-24,Global Health,1,8
+2020-03-24,International Livestock Research Institute,1,9
+2020-03-24,Members Of Massachusett Asian American Commission,1,10
+2020-03-24,New York Times,1,11
+2020-03-24,United States,1,12
+2020-03-24,University Of California,1,13
+2020-03-24,University Of Liverpool Institute Of Infection,1,14
+2020-03-24,White House,1,15
+2020-03-24,World Health Organization,1,16
+2020-03-25,Association Of Cemeteries,1,1
+2020-03-25,Bard College,1,2
+2020-03-25,Cary Institute Of Ecosystem Studies In Millbrook,1,3
+2020-03-25,Department Of Environmental Sciences,1,4
+2020-03-25,Emory University,1,5
+2020-03-25,Global Health,1,6
+2020-03-25,Institute Of Infection,1,7
+2020-03-25,International Livestock Research Institute,1,8
+2020-03-25,New York Times,1,9
+2020-03-25,University Of California,1,10
+2020-03-25,University Of Liverpool,1,11
+2020-03-25,York State Division Of Cemeteries,1,12
+2020-03-25,York State Funeral Directors Association,1,13
+2020-03-26,African Centre For Biodiversity,1,2
+2020-03-26,Centers For Disease,1,3
+2020-03-26,Ethiopian Airlines,1,4
+2020-03-26,European Center,1,5
+2020-03-26,Facebook,1,6
+2020-03-26,Foreign Affairs,1,7
+2020-03-26,Johns Hopkins University Coronavirus Resource Center,1,8
+2020-03-26,National Guard,1,9
+2020-03-26,Republican Party,1,10
+2020-03-26,Reuters,1,11
+2020-03-26,Twitter,1,12
+2020-03-26,United Nations,1,13
+2020-03-26,Washington Post,1,14
+2020-03-26,World Health Organization,1,15
+2020-03-26,Youtube,1,16
+2020-03-26,United States,2,1
+2020-03-27,American Hotel,1,3
+2020-03-27,Associated Press,1,4
+2020-03-27,Bradford Regional Medical Center,1,5
+2020-03-27,Centers For Disease,1,6
+2020-03-27,Department Of Health,1,7
+2020-03-27,Facebook,1,8
+2020-03-27,Hoosier Harvest Church,1,9
+2020-03-27,Kaleida Health,1,10
+2020-03-27,Maryland Hospitals Association,1,11
+2020-03-27,Maryland Lodging Tourism Association,1,12
+2020-03-27,Mildred Milliman Outpatient Surgery Center,1,13
+2020-03-27,Patrick Church,1,14
+2020-03-27,Small Business Assistance Fund,1,15
+2020-03-27,Solid Rock Baptist Church,1,16
+2020-03-27,Star Church,1,17
+2020-03-27,University Of Baltimore,1,18
+2020-03-27,Upper Allegheny Health System,1,19
+2020-03-27,Upper Allegheny Health Systems,1,20
+2020-03-27,Health Department,2,1
+2020-03-27,Youtube,2,2
+2020-03-28,Bradford Regional Medical Center,1,1
+2020-03-28,Nan,1,2
+2020-03-28,Upper Allegheny Health System,1,3
+2020-03-31,Centers For Disease,1,3
+2020-03-31,Health Department,1,4
+2020-03-31,Kaleida Health,1,5
+2020-03-31,Mildred Milliman Outpatient Surgery Center,1,6
+2020-03-31,Mount Carmel Church,1,7
+2020-03-31,Nan,1,8
+2020-03-31,Outpatient Surgery Center,1,9
+2020-03-31,Russian Academy Of Medical Sciences,1,10
+2020-03-31,Then The Centers For Disease,1,11
+2020-03-31,Trademark Office,1,12
+2020-03-31,United States,1,13
+2020-03-31,Upper Allegheny Health Systems,1,14
+2020-03-31,World Health,1,15
+2020-03-31,World Health Organization,1,16
+2020-03-31,Bradford Regional Medical Center,3,1
+2020-03-31,Upper Allegheny Health System,3,2
+2020-04-01,Allegany Business Center,1,1
+2020-04-01,Amethyst Technologies,1,2
+2020-04-01,Frostburg State University,1,3
+2020-04-01,Russian Academy Of Medical Sciences,1,4
+2020-04-01,Then The Centers For Disease,1,5
+2020-04-01,Trademark Office,1,6
+2020-04-01,University Of Maryland Baltimore,1,7
+2020-04-01,World Health,1,8
+2020-04-01,World Health Organization,1,9
+2020-04-02,Alfred State College,1,1
+2020-04-02,Alfred University,1,2
+2020-04-02,Catholic Center,1,3
+2020-04-02,Diocese Of Buffalo,1,4
+2020-04-02,Diocese Of Gallup,1,5
+2020-04-02,Diocese Of Trenton,1,6
+2020-04-02,United States,1,7
+2020-04-02,Westminster Choir College,1,8
+2020-04-03,American Hospital Association,1,1
+2020-04-03,Centers For Disease,1,2
+2020-04-03,Maryland Health System,1,3
+2020-04-03,Maryland Hospital Association,1,4
+2020-04-03,Nan,1,5
+2020-04-03,University Of Manitoba,1,6
+2020-04-04,Nan,1,1
+2020-04-06,Centers For Disease,1,1
+2020-04-06,Columbia University,1,2
+2020-04-06,Division Of Pediatric Infectious Diseases At Vanderbilt,1,3
+2020-04-06,Gates Foundation,1,4
+2020-04-06,Glaxosmithkline,1,5
+2020-04-06,Howard Hughes Medical Institute,1,6
+2020-04-06,Maryland Scenic Railroad,1,7
+2020-04-06,Mastercard,1,8
+2020-04-06,Melinda Gates Foundation,1,9
+2020-04-06,Research Center,1,10
+2020-04-06,University Of Iowa,1,11
+2020-04-06,University Of North Carolina,1,12
+2020-04-06,University Of Texas At Austin,1,13
+2020-04-06,Wellcome,1,14
+2020-04-06,World Health Organization,1,15
+2020-04-08,Cumberland Police,1,7
+2020-04-08,Alfred University,2,1
+2020-04-08,Ladder Co,2,2
+2020-04-08,Ladder Company,2,3
+2020-04-08,University Cabinet,2,4
+2020-04-08,University Division Of Performing Arts,2,5
+2020-04-08,University Office Of Marketing,2,6
+2020-04-09,American Bat Monitoring Program,1,1
+2020-04-09,Fort Collins Science Center,1,2
+2020-04-09,University Of Akron,1,3
+2020-04-09,Us Geological,1,4
+2020-04-09,Us National Park,1,5
+2020-04-09,Wildlife Service,1,6
+2020-04-09,York State Department Of Environmental Conservation,1,7
+2020-04-10,Maryland Department Of Budget,1,1
+2020-04-10,Mineral County Health Department,1,2
+2020-04-10,World Health Organization,1,3
+2020-04-11,Canandaigua Chamber,1,1
+2020-04-11,Canandaigua Chamber Facebook Page,1,2
+2020-04-11,Credit Union,1,3
+2020-04-11,Mineral County Health Department,1,4
+2020-04-11,School No,1,5
+2020-04-11,Visa,1,6
+2020-04-13,Mineral County Health Department,1,1
+2020-04-13,Office Of Emergency Services,1,2
+2020-04-13,Public Safety Telecommunications Week,1,3
+2020-04-13,York State Police,1,4
+2020-04-14,Cattaraugus-Allegany Workforce Development Board,1,1
+2020-04-14,Communicare Family Of Companies,1,2
+2020-04-14,Cumberland Healthcare Center,1,3
+2020-04-14,Cumberland Healthcare Center On,1,4
+2020-04-14,Health Insurance Portability,1,5
+2020-04-14,Human Services,1,6
+2020-04-14,Mineral County Health Department,1,7
+2020-04-14,Nursing Center,1,8
+2020-04-14,Office For Civil Rights,1,9
+2020-04-14,Office Of Emergency Services,1,10
+2020-04-14,Public Safety Telecommunications Week,1,11
+2020-04-14,Sheriff Office,1,12
+2020-04-14,York State Community Development Block Grant,1,13
+2020-04-15,Communicare Family Of Companies,1,1
+2020-04-15,Cumberland Healthcare Center,1,2
+2020-04-15,Cumberland Healthcare Center On,1,3
+2020-04-15,Health Insurance Portability,1,4
+2020-04-15,Human Services,1,5
+2020-04-15,Office For Civil Rights,1,6
+2020-04-15,Tribune Content Agency,1,7
+2020-04-16,Human Services On,1,17
+2020-04-16,Mineral County Health Department,1,18
+2020-04-16,Nan,1,19
+2020-04-16,Police On,1,20
+2020-04-16,Rehab Center Stefan Jeremiah Reuters,1,21
+2020-04-16,Jersey Department Of Health,2,15
+2020-04-16,Johns Hopkins University,2,16
+2020-04-16,Associated Press,3,10
+2020-04-16,Emergency Management Agency,3,11
+2020-04-16,National Guard,3,12
+2020-04-16,Rehabilitation Centre,3,13
+2020-04-16,United States,3,14
+2020-04-16,Time Warner Company,5,9
+2020-04-16,Facebook,6,8
+2020-04-16,Department Of Health,7,7
+2020-04-16,Rehab Centers,12,6
+2020-04-16,Rehab Center,13,5
+2020-04-16,Cnn,16,4
+2020-04-16,Newton Medical Center,17,3
+2020-04-16,Rehabilitation Center,22,2
+2020-04-16,New York Times,32,1
+2020-04-17,Centers For Disease,1,7
+2020-04-17,Cnn,1,8
+2020-04-17,Communicare Family Of Companies,1,9
+2020-04-17,Cumberland Healthcare Center,1,10
+2020-04-17,Department Of Emergency Services,1,11
+2020-04-17,Emergency Management Agency,1,12
+2020-04-17,Facebook,1,13
+2020-04-17,Kings Harbor Multicare Center,1,14
+2020-04-17,Mineral Health Administrator A Jay Root,1,15
+2020-04-17,Msnbc,1,16
+2020-04-17,National Guard,1,17
+2020-04-17,Newton Medical Center,1,18
+2020-04-17,Rehabilitation Center On,1,19
+2020-04-17,Rehabilitation Centers,1,20
+2020-04-17,Society For,1,21
+2020-04-17,Twitter,1,22
+2020-04-17,Alliance Heathcare Holdings,2,3
+2020-04-17,Centers For Medicaid,2,4
+2020-04-17,Department Of Health,2,5
+2020-04-17,United States,2,6
+2020-04-17,New York Times,4,2
+2020-04-17,Rehabilitation Center,5,1
+2020-04-18,Adult Child Protective Services,1,4
+2020-04-18,Al Jazeera,1,5
+2020-04-18,Associated Press,1,6
+2020-04-18,Business Administration At Southern New Hampshire University,1,7
+2020-04-18,Communicare Family Of Companies,1,8
+2020-04-18,Communications Center,1,9
+2020-04-18,Cumberland Fire Department,1,10
+2020-04-18,Cumberland Healthcare Center,1,11
+2020-04-18,Cumberland Police Department,1,12
+2020-04-18,Cumberland Water Department,1,13
+2020-04-18,Daher Companies,1,14
+2020-04-18,Department Of Interior,1,15
+2020-04-18,Department Of National Resources,1,16
+2020-04-18,Emergency Services,1,17
+2020-04-18,Francisco Cruz Ambassador Club,1,18
+2020-04-18,Gift Card Program,1,19
+2020-04-18,Greater Haverhill Chamber,1,20
+2020-04-18,International Academy Of Emergency Police,1,21
+2020-04-18,Jersey Department Of Health,1,22
+2020-04-18,Jersey Health,1,23
+2020-04-18,Kings Harbor Multicare Center,1,24
+2020-04-18,Life Care Center,1,25
+2020-04-18,London School Of Economics,1,26
+2020-04-18,Maryland National Guard,1,27
+2020-04-18,Maryland State Medical Examiner Office,1,28
+2020-04-18,Merrimack Valley Credit Union,1,29
+2020-04-18,Methuen,1,30
+2020-04-18,Mortgage Network Danvers,1,31
+2020-04-18,Mv Credit Union,1,32
+2020-04-18,Nan,1,33
+2020-04-18,National Institute Of Health,1,34
+2020-04-18,National Public Safety Telecommunicators Week,1,35
+2020-04-18,National Union Of Private Homes,1,36
+2020-04-18,National Weather Storm Ready,1,37
+2020-04-18,Office Of Emergency Management,1,38
+2020-04-18,Parker Institute,1,39
+2020-04-18,Parker Jewish Institute,1,40
+2020-04-18,Proceedings Of The Royal Society,1,41
+2020-04-18,Research Scientist,1,42
+2020-04-18,Reuters News Agency,1,43
+2020-04-18,Salem State College,1,44
+2020-04-18,Trump Administration,1,45
+2020-04-18,Twitter,1,46
+2020-04-18,Union Of Concerned Scientists,1,47
+2020-04-18,United States Agency For International Development,1,48
+2020-04-18,University Of Massachusetts At Lowell Innovation Hub,1,49
+2020-04-18,University Of New South Wales,1,50
+2020-04-18,New York Times,2,2
+2020-04-18,United States,2,3
+2020-04-18,Rehabilitation Center,3,1
+2020-04-19,Democrat Party,1,1
+2020-04-19,Ecohusky Club,1,2
+2020-04-19,New York Times,1,3
+2020-04-19,Twitter,1,4
+2020-04-19,University Of Connecticut Avery Point,1,5
+2020-04-20,National Guard,1,1
+2020-04-20,New York Times,1,2
+2020-04-20,Rehabilitation Center,1,3
+2020-04-21,America Blood Centers,1,1
+2020-04-21,Blood Centers Of America,1,2
+2020-04-21,Community Blood Bank,1,3
+2020-04-21,Interorganizational Task,1,4
+2020-04-21,Nan,1,5
+2020-04-21,United States,1,6
+2020-04-22,Department Of Emergency Medicine,1,1
+2020-04-22,Department Of Health,1,2
+2020-04-22,Healthcare Association,1,3
+2020-04-22,Maryland Health System,1,4
+2020-04-22,Maryland Public Health,1,5
+2020-04-22,Noyes Health,1,6
+2020-04-22,Noyes Health In Dansville,1,7
+2020-04-22,Roswell Park Cancer Institute In Buffalo,1,8
+2020-04-22,United States,1,9
+2020-04-22,University Of Pittsburgh,1,10
+2020-04-22,University Of Pittsburgh Medical Center,1,11
+2020-04-22,York Health Plan Association,1,12
+2020-04-23,City Health Department,1,3
+2020-04-23,Columbia Mailman School Of Public Health,1,4
+2020-04-23,Hunter College School Of Public Health,1,5
+2020-04-23,Northeastern University,1,6
+2020-04-23,Associated Press,2,1
+2020-04-23,New York Times,2,2
+2020-04-24,Communicare Family Of Companies,1,1
+2020-04-24,Cumberland Healthcare Center,1,2
+2020-04-24,Maryland Health Department,1,3
+2020-04-25,Abbott Diagnostics Division,1,1
+2020-04-25,Abbott Diagnostics Division In Irving,1,2
+2020-04-25,Abbott Laboratories,1,3
+2020-04-25,Abbott Medical Affairs,1,4
+2020-04-25,Alfred University,1,5
+2020-04-25,Drug Administration On,1,6
+2020-04-25,United States,1,7
+2020-04-25,University Of Rochester,1,8
+2020-04-29,City Council,1,1
+2020-04-29,City Mission,1,2
+2020-04-29,Department Of Health,1,3
+2020-04-29,Health Care,1,4
+2020-04-29,Hometown Health Centers,1,5
+2020-04-29,Mont Pleasant Middle School,1,6
+2020-04-29,Robert Wood Johnson Foundation,1,7
+2020-04-29,Schenectady County Action Program,1,8
+2020-04-29,Schenectady County Public Health Services,1,9
+2020-04-29,Washington Irving Education Center,1,10
+2020-04-30,Centers For Disease,1,1
+2020-04-30,New York Times,1,2
+2020-04-30,Ohio State University,1,3
+2020-04-30,Rehabilitation Center,1,4
+2020-04-30,United States,1,5
+2020-05-01,Bureau Of Prisons,1,1
+2020-05-01,Center On Rural Innovation,1,2
+2020-05-01,World Health Organization,1,3
+2020-05-04,Community Eligibility Provision,1,1
+2020-05-04,Department Of Education,1,2
+2020-05-04,Department Of Health,1,3
+2020-05-04,Supplemental Nutrition Assistance Program,1,4
+2020-05-05,Community Eligibility Provision,1,1
+2020-05-05,Department Of Education,1,2
+2020-05-05,Department Of Health,1,3
+2020-05-05,Supplemental Nutrition Assistance Program,1,4
+2020-05-06,Community Eligibility Provision,1,1
+2020-05-06,Department Of Education,1,2
+2020-05-06,Department Of Health,1,3
+2020-05-06,Supplemental Nutrition Assistance Program,1,4
+2020-05-07,Centers For Disease,1,1
+2020-05-08,Centers For Disease,1,1
+2020-05-08,Centers For Medicare,1,2
+2020-05-08,Health Department,1,3
+2020-05-08,Human Services,1,4
+2020-05-08,Medicaid Services,1,5
+2020-05-08,New York Times,1,6
+2020-05-10,Alliance Healthcare,1,1
+2020-05-10,Centers For Medicare,1,2
+2020-05-10,Community Health System,1,3
+2020-05-10,Facebook,1,4
+2020-05-10,Health System,1,5
+2020-05-10,Hospital Upper Allegheny Health System,1,6
+2020-05-10,Houghton College,1,7
+2020-05-10,Human Services,1,8
+2020-05-10,Jersey National Guard To Subacute,1,9
+2020-05-10,Kaleida Health,1,10
+2020-05-10,Medicaid Services,1,11
+2020-05-10,Orleans Community Health,1,12
+2020-05-10,Twitter,1,13
+2020-05-10,United Memorial Medical Center,1,14
+2020-05-10,United States,1,15
+2020-05-10,White House,1,16
+2020-05-13,Can It Increase,1,4
+2020-05-13,Facebook,1,5
+2020-05-13,Health Security,1,6
+2020-05-13,Indiana University,1,7
+2020-05-13,Johns Hopkins Center,1,8
+2020-05-13,National Institutes Of Health,1,9
+2020-05-13,Andover High School,2,3
+2020-05-13,Collings Center,3,1
+2020-05-13,Copeland,3,2
+2020-05-15,Allegany Health Nursing,1,1
+2020-05-16,Department Of Health,1,1
+2020-05-16,Jefferson Day Report Center,1,2
+2020-05-16,Morgan,1,3
+2020-05-16,National Historic Park,1,4
+2020-05-16,National Park In Harpers Ferry,1,5
+2020-05-16,Senate Public Health,1,6
+2020-05-16,United States,1,7
+2020-05-22,Grow West Cannabis Co,1,1
+2020-05-22,Maryland Food Bank,1,2
+2020-05-22,Maryland Medical Marijuana Commission,1,3
+2020-05-23,Facebook,1,1
+2020-05-24,Capital Health Care Network,1,1
+2020-05-24,Capital Healthcare Network,1,2
+2020-05-24,Ohio Department Of Health,1,3
+2020-05-25,Cumberland Healthcare Center,1,1
+2020-05-25,Health Department,1,2
+2020-05-25,Mountain City Center,1,3

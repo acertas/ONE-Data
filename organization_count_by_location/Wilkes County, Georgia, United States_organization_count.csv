@@ -1,0 +1,273 @@
+date,organization,count,rn
+2020-02-01,Nan,1,1
+2020-02-27,Nan,1,6
+2020-02-27,California Department Of Public Health,2,1
+2020-02-27,Centers For Disease,2,2
+2020-02-27,Sheriff Office,2,3
+2020-02-27,Twitter,2,4
+2020-02-27,White House,2,5
+2020-03-04,Georgetown University,1,1
+2020-03-04,Global Health Science,1,2
+2020-03-04,Human Services,1,3
+2020-03-04,Lexington Regional Health Center,1,4
+2020-03-04,Minnesota Department Of Health,1,5
+2020-03-13,Wilkes Health Department,1,3
+2020-03-13,United States,2,2
+2020-03-13,Wilkes Community College,3,1
+2020-03-14,Nan,1,1
+2020-03-17,Celebration Church,3,1
+2020-03-17,Episcopal Diocese Of Western North Carolina,3,2
+2020-03-17,Facebook,3,3
+2020-03-17,First Baptist Church,3,4
+2020-03-17,Paul Episcopal Church,3,5
+2020-03-17,Services On,3,6
+2020-03-17,Young,3,7
+2020-03-18,Human Services,1,1
+2020-03-18,Laboratory Of Public Health,1,2
+2020-03-18,Wilkes Health Department,1,3
+2020-03-19,Carolina Prison Legal Services,1,2
+2020-03-19,Department Of Public Safety,1,3
+2020-03-19,Division Of Prisons,1,4
+2020-03-19,Tyson Foods,1,5
+2020-03-19,Wilkes Correctional Center,1,6
+2020-03-19,Human Services,2,1
+2020-03-20,Wilkes Early College High School,2,1
+2020-03-20,Wilkes Partnership For Children,2,2
+2020-03-20,Wilkes School Superintendent Mark Byrd,2,3
+2020-03-24,Appalachian State University,1,1
+2020-03-24,Wilkes Communications,1,2
+2020-03-24,Wilkes Community College,1,3
+2020-03-24,Wilkes Economic Development Corp,1,4
+2020-03-26,Baptist Church,1,1
+2020-03-26,Carolina Department Of Health,1,2
+2020-03-26,Centers For Disease,1,3
+2020-03-26,Department Of Health,1,4
+2020-03-26,Facebook,1,5
+2020-03-26,Human Services,1,6
+2020-03-28,Au Health,1,1
+2020-03-28,Au Health System,1,2
+2020-03-28,Carolina Department Of Health,1,3
+2020-03-28,Charlie Norwood Va Medical Center,1,4
+2020-03-28,Georgia Department Of Public Health,1,5
+2020-03-28,University Hospital,1,6
+2020-03-30,Wilkes Early College High School,2,1
+2020-03-30,Wilkes Health,2,2
+2020-03-30,Wilkes Health Department,2,3
+2020-03-30,Wilkes Medical Center,2,4
+2020-03-30,Wilkes Partnership For Children,2,5
+2020-03-30,Wilkes School Superintendent Mark Byrd,2,6
+2020-03-31,Wilkes Health,2,1
+2020-03-31,Wilkes Health Department,2,2
+2020-03-31,Wilkes Medical Center,2,3
+2020-04-01,Health Department,2,1
+2020-04-01,Human Service,2,2
+2020-04-01,Wake Forest Baptist Health,2,3
+2020-04-01,Wilkes Health Department,2,4
+2020-04-01,Wilkes Medical Center,2,5
+2020-04-08,Centers For Disease Control,1,1
+2020-04-08,Health Foundation,1,2
+2020-04-11,Cargill Meat Solutions,1,1
+2020-04-11,New York Times,1,2
+2020-04-11,Tyson Foods,1,3
+2020-04-11,United States,1,4
+2020-04-12,Facebook,1,1
+2020-04-12,Google,1,2
+2020-04-12,Lowe Companies Inc,1,3
+2020-04-12,National Capital Investment,1,4
+2020-04-12,Payroll Protection Program,1,5
+2020-04-12,Tyson Foods Inc,1,6
+2020-04-12,Walmart,1,7
+2020-04-12,Wilkes Chamber,1,8
+2020-04-12,Wilkes Communications,1,9
+2020-04-12,Wilkes Community College,1,10
+2020-04-12,Wilkes Economic Development Corp,1,11
+2020-04-12,Wilkes Health Department,1,12
+2020-04-12,Wilkes Medical Center,1,13
+2020-04-12,Wilkes Small Business Center,1,14
+2020-04-13,Facebook,1,1
+2020-04-13,Google,1,2
+2020-04-13,Lowe Companies Inc,1,3
+2020-04-13,National Capital Investment,1,4
+2020-04-13,Payroll Protection Program,1,5
+2020-04-13,Tyson Foods Inc,1,6
+2020-04-13,Walmart,1,7
+2020-04-13,Wilkes Chamber,1,8
+2020-04-13,Wilkes Communications,1,9
+2020-04-13,Wilkes Community College,1,10
+2020-04-13,Wilkes Economic Development Corp,1,11
+2020-04-13,Wilkes Health Department,1,12
+2020-04-13,Wilkes Medical Center,1,13
+2020-04-13,Wilkes Small Business Center,1,14
+2020-04-15,Facebook,1,1
+2020-04-15,Google,1,2
+2020-04-15,Lowe Companies Inc,1,3
+2020-04-15,National Capital Investment,1,4
+2020-04-15,Payroll Protection Program,1,5
+2020-04-15,Tyson Foods Inc,1,6
+2020-04-15,Walmart,1,7
+2020-04-15,Wilkes Chamber,1,8
+2020-04-15,Wilkes Communications,1,9
+2020-04-15,Wilkes Community College,1,10
+2020-04-15,Wilkes Economic Development Corp,1,11
+2020-04-15,Wilkes Health Department,1,12
+2020-04-15,Wilkes Medical Center,1,13
+2020-04-15,Wilkes Sheriff Office,1,14
+2020-04-15,Wilkes Small Business Center,1,15
+2020-04-29,Education Working Group,1,7
+2020-04-29,Wilkes Early College High School,1,8
+2020-04-29,Wilkes School Superintendent Mark Byrd,1,9
+2020-04-29,Drug Administration,2,1
+2020-04-29,Human Services,2,2
+2020-04-29,National Institute Of Occupational Safety,2,3
+2020-04-29,Tyson Foods,2,4
+2020-04-29,Tyson Foods Inc,2,5
+2020-04-29,Wilkes Health Department,2,6
+2020-05-03,Centers For Disease,1,1
+2020-05-03,Financial Services Group,1,2
+2020-05-03,Heritage Foundation,1,3
+2020-05-03,Human Services,1,4
+2020-05-03,John Locke Foundation,1,5
+2020-05-03,National Association Of Manufacturers,1,6
+2020-05-03,National Federation Of Independent Business,1,7
+2020-05-03,Reuters,1,8
+2020-05-03,Senate Republican,1,9
+2020-05-03,Tyson Foods,1,10
+2020-05-03,United States,1,11
+2020-05-03,Wake Forest Baptist Health,1,12
+2020-05-04,Daytona International Speedway In Daytona Beach,1,1
+2020-05-04,Health Department,1,2
+2020-05-04,Hendrick Motorsports,1,3
+2020-05-04,Nan,1,4
+2020-05-04,Tyson Foods,1,5
+2020-05-04,Wake Forest Baptist Medical Center,1,6
+2020-05-05,Health Department,1,1
+2020-05-05,Tyson Foods,1,2
+2020-05-05,Wake Forest Baptist Medical Center,1,3
+2020-05-08,Human Services,1,1
+2020-05-08,Tyson Foods,1,2
+2020-05-08,Wilkes Health Department,1,3
+2020-05-08,Wilkes Health Department At Tyson,1,4
+2020-05-10,Carolina Workers Center,1,2
+2020-05-10,Centers For Disease,1,3
+2020-05-10,China Task,1,4
+2020-05-10,Cnn,1,5
+2020-05-10,Duke University,1,6
+2020-05-10,Human Services,1,7
+2020-05-10,Matrix Medical Network,1,8
+2020-05-10,National Institute Of Allergy,1,9
+2020-05-10,Shaw University,1,10
+2020-05-10,Sheetz Store Front,1,11
+2020-05-10,Tribune Content Agency,1,12
+2020-05-10,White House,1,13
+2020-05-10,Tyson Foods,2,1
+2020-05-11,Atrium Health Carolinas Medical Center,1,1
+2020-05-11,Buncombe County Schools Central Office,1,2
+2020-05-11,Carolina Department Of Public Safety,1,3
+2020-05-11,Community Testing Site Opens In Buncombe,1,4
+2020-05-11,Department Of Health,1,5
+2020-05-11,Health Officials Keeping Close Watch On Phase,1,6
+2020-05-11,Hillcrest Community Center,1,7
+2020-05-11,Human Services,1,8
+2020-05-11,Nc Police In Smithfield,1,9
+2020-05-11,Neuse Correctional Institution,1,10
+2020-05-11,Novant Health Presbyterian Medical Center,1,11
+2020-05-11,Scooters Back With Limited Availability,1,12
+2020-05-11,Simon Property Group,1,13
+2020-05-11,University Parkway,1,14
+2020-05-11,Wake Forest Baptist Health,1,15
+2020-05-11,Wendy,1,16
+2020-05-12,Carolina Correctional Institution For Women,1,10
+2020-05-12,Harris Teeter,1,11
+2020-05-12,Neuse Correctional Institution In Goldsboro,1,12
+2020-05-12,Walgreen,1,13
+2020-05-12,Walmart,1,14
+2020-05-12,Humans Services,2,9
+2020-05-12,Campbell University,3,7
+2020-05-12,Drug Administration,3,8
+2020-05-12,Carolina Department Of Health,4,1
+2020-05-12,Carolina Division Of Employment Security,4,2
+2020-05-12,Centers For Disease,4,3
+2020-05-12,Human Services,4,4
+2020-05-12,White House,4,5
+2020-05-12,World Health Organization,4,6
+2020-05-13,Actor Group In Winston-Salem,1,24
+2020-05-13,Alexander White Agency,1,25
+2020-05-13,Goldberg Bagel Company Deli,1,26
+2020-05-13,Netflix,1,27
+2020-05-13,Twitter,1,28
+2020-05-13,Union City,1,29
+2020-05-13,Wilkes Central High School,1,30
+2020-05-13,Wilkes Medical Center,1,31
+2020-05-13,Health Department Director,2,16
+2020-05-13,Senate Leader Phil Berger,2,17
+2020-05-13,Tyson Foods,2,18
+2020-05-13,Tyson Foods Inc,2,19
+2020-05-13,Wilkes Health,2,20
+2020-05-13,Wilkes Health Department,2,21
+2020-05-13,Wilkes Health Rehab,2,22
+2020-05-13,Wilkes Health Rehabilitation,2,23
+2020-05-13,Campbell University,4,2
+2020-05-13,Carolina Correctional Institution For Women,4,3
+2020-05-13,Carolina Department Of Health,4,4
+2020-05-13,Carolina Division Of Employment Security,4,5
+2020-05-13,Centers For Disease,4,6
+2020-05-13,Drug Administration,4,7
+2020-05-13,Harris Teeter,4,8
+2020-05-13,Human Services,4,9
+2020-05-13,Humans Services,4,10
+2020-05-13,Living Center,4,11
+2020-05-13,Neuse Correctional Institution In Goldsboro,4,12
+2020-05-13,Walgreen,4,13
+2020-05-13,Walmart,4,14
+2020-05-13,World Health Organization,4,15
+2020-05-13,White House,6,1
+2020-05-15,Association Of Mexicans,1,1
+2020-05-15,Carolina Department Of Health,1,2
+2020-05-15,Carolina Worker Center,1,3
+2020-05-15,Human Services,1,4
+2020-05-15,Walmart,1,5
+2020-05-16,Human Services,1,1
+2020-05-16,Matrix Medical Network,1,2
+2020-05-16,Tyson Foods Inc,1,3
+2020-05-16,Wilkes Health Department,1,4
+2020-05-22,University Of North Carolina,1,20
+2020-05-22,Department Of Employment Security,2,13
+2020-05-22,Health Administration,2,14
+2020-05-22,Hormel,2,15
+2020-05-22,Labor Department,2,16
+2020-05-22,Michaels,2,17
+2020-05-22,Morgan,2,18
+2020-05-22,Purdue University,2,19
+2020-05-22,Associated Press,3,11
+2020-05-22,Wilkes County Health Department,3,12
+2020-05-22,Carolina State University,4,9
+2020-05-22,Facebook,4,10
+2020-05-22,Carolina Department Of Health,5,3
+2020-05-22,Department Of Health,5,4
+2020-05-22,Hormel Foods,5,5
+2020-05-22,Nc State University,5,6
+2020-05-22,Triangle Town Center,5,7
+2020-05-22,United States,5,8
+2020-05-22,Human Services,9,2
+2020-05-22,Tyson Foods,14,1
+2020-05-23,Carolina Department Of Health,1,4
+2020-05-23,Department Of Employment Security,1,5
+2020-05-23,Department Of Health,1,6
+2020-05-23,Facebook,1,7
+2020-05-23,Human Services,1,8
+2020-05-23,Nc State University,1,9
+2020-05-23,Triangle Town Center,1,10
+2020-05-23,United States,1,11
+2020-05-23,Hormel Foods,2,2
+2020-05-23,Wilkes County Health Department,2,3
+2020-05-23,Tyson Foods,3,1
+2020-05-24,Carolina Department Of Health,1,1
+2020-05-24,Department Of Employment Security,1,2
+2020-05-24,Department Of Health,1,3
+2020-05-24,Facebook,1,4
+2020-05-24,Human Services,1,5
+2020-05-24,Nc State University,1,6
+2020-05-24,Triangle Town Center,1,7
+2020-05-24,Tyson Foods,1,8
+2020-05-24,United States,1,9
+2020-05-25,Nan,1,1

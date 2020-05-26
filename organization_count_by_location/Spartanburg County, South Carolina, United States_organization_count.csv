@@ -1,0 +1,794 @@
+date,organization,count,rn
+2020-02-12,Nan,2,1
+2020-02-13,Nan,2,1
+2020-02-28,Administration For Children,1,1
+2020-02-28,Bloomberg,1,2
+2020-02-28,Cnn,1,3
+2020-02-28,Democratic Party,1,4
+2020-02-28,Department Of Health,1,5
+2020-02-28,Human Services,1,6
+2020-02-28,New York Times,1,7
+2020-02-28,United States,1,8
+2020-02-29,A Monmouth University,1,4
+2020-02-29,Arts Center,1,5
+2020-02-29,Centers For Disease,1,6
+2020-02-29,Iowa Democratic Party,1,7
+2020-02-29,National Action Network,1,8
+2020-02-29,Pew Research,1,9
+2020-02-29,Political Data Inc,1,10
+2020-02-29,Twitter,1,11
+2020-02-29,University Of California Berkeley,1,12
+2020-02-29,University Of Houston,1,13
+2020-02-29,White House,1,14
+2020-02-29,Bloomberg,2,2
+2020-02-29,Cnn,2,3
+2020-02-29,United States,3,1
+2020-03-01,Cnn,1,1
+2020-03-01,National Security Council Under John Bolton,1,2
+2020-03-01,Union They,1,3
+2020-03-01,White House,1,4
+2020-03-01,Wofford University,1,5
+2020-03-03,Bmw,1,5
+2020-03-03,Carolina Ports Authority,1,6
+2020-03-03,Gray Court,1,7
+2020-03-03,Reuters,1,8
+2020-03-03,Sc Alliance,1,9
+2020-03-03,United States Centers For Disease,1,10
+2020-03-03,World Health Organization,1,11
+2020-03-03,Centers For Disease,2,3
+2020-03-03,Public Health Laboratory,2,4
+2020-03-03,Associated Press,3,1
+2020-03-03,Nan,3,2
+2020-03-04,Centers For Disease,1,1
+2020-03-04,Department Of Health,1,2
+2020-03-04,Public Health Laboratory,1,3
+2020-03-04,United States,1,4
+2020-03-04,White House,1,5
+2020-03-05,Bmw,1,1
+2020-03-05,Carolina Manufacturers Alliance,1,2
+2020-03-05,Tietex International,1,3
+2020-03-05,United States,1,4
+2020-03-06,Bloomberg,1,1
+2020-03-06,Bylaws Of The Democratic Party,1,2
+2020-03-06,Centers For Disease,1,3
+2020-03-06,Council Bluffs,1,4
+2020-03-06,Democratic Party,1,5
+2020-03-06,National Convention,1,6
+2020-03-06,Organizers Of The Democratic National Convention,1,7
+2020-03-06,Republican National Convention Spokeswoman,1,8
+2020-03-06,Standing Committee On,1,9
+2020-03-06,United States,1,10
+2020-03-06,White House,1,11
+2020-03-06,World Health Organization,1,12
+2020-03-07,Bmw,1,1
+2020-03-07,Michelin,1,2
+2020-03-07,Sc Alliance,1,3
+2020-03-08,Nan,1,1
+2020-03-09,Carolina Department Of Education,1,45
+2020-03-09,Centers For Disease Control,1,46
+2020-03-09,Environmental Services,1,47
+2020-03-09,International Conference,1,48
+2020-03-09,International Conference Exposition,1,49
+2020-03-09,Mecklenburg County Health,1,50
+2020-03-09,Centers Of Disease,2,41
+2020-03-09,Clemson University,2,42
+2020-03-09,Indiana State Department Of Health,2,43
+2020-03-09,University Of South Carolina,2,44
+2020-03-09,Arizona Department Of Public Health,3,14
+2020-03-09,Associated Press,3,15
+2020-03-09,Carolina Emergency Operations Center,3,16
+2020-03-09,Cnn,3,17
+2020-03-09,Defense Department,3,18
+2020-03-09,Department Of Public Health,3,19
+2020-03-09,Department Of Public Health On,3,20
+2020-03-09,Evergreen Health Medical Center,3,21
+2020-03-09,Florida Department Of Health,3,22
+2020-03-09,Georgia Department Of Public Health,3,23
+2020-03-09,Harborview Medical Center,3,24
+2020-03-09,Illinois Department Of Public Health,3,25
+2020-03-09,Iowa Department Of Public Health,3,26
+2020-03-09,Life Care Center,3,27
+2020-03-09,Madera Community Hospital,3,28
+2020-03-09,Nebraska Department Of Health,3,29
+2020-03-09,Oregon Health Authority,3,30
+2020-03-09,Public Health,3,31
+2020-03-09,Rush University Medical Center,3,32
+2020-03-09,School District,3,33
+2020-03-09,Southern Nevada Health District,3,34
+2020-03-09,Texas Department Of State Health Services,3,35
+2020-03-09,University Of Nebraska Medical Center,3,36
+2020-03-09,Utah Department Of Health,3,37
+2020-03-09,Virginia Department Of Health,3,38
+2020-03-09,Wisconsin Department Of Health Services,3,39
+2020-03-09,World Health Organization,3,40
+2020-03-09,Charlotte Douglas International Airport On,4,11
+2020-03-09,Credit Centers,4,12
+2020-03-09,Lufthansa,4,13
+2020-03-09,Human Services,5,9
+2020-03-09,Nan,5,10
+2020-03-09,Charlotte Douglas International Airport,6,8
+2020-03-09,Camden High School,7,6
+2020-03-09,Central High School,7,7
+2020-03-09,Ritrama Inc,10,4
+2020-03-09,United States,10,5
+2020-03-09,Carolina Department Of Health,16,3
+2020-03-09,Department Of Health,17,2
+2020-03-09,Centers For Disease,23,1
+2020-03-10,Biogen In Research Triangle Park,1,19
+2020-03-10,Biogen Research Triangle Park,1,20
+2020-03-10,Clorox,1,21
+2020-03-10,Community Relations Mary Anne Byrd,1,22
+2020-03-10,Community Spread In Camden,1,23
+2020-03-10,Durham Va Health Care System,1,24
+2020-03-10,Facebook,1,25
+2020-03-10,Human Services,1,26
+2020-03-10,Human Services Alex Azar,1,27
+2020-03-10,Indiana State Department Of Health,1,28
+2020-03-10,New York Stock Exchange,1,29
+2020-03-10,New York Times,1,30
+2020-03-10,U S Centers For Disease,1,31
+2020-03-10,Wake County Public Health Division,1,32
+2020-03-10,York Stock Exchange,1,33
+2020-03-10,Associated Press,2,14
+2020-03-10,Charlotte Douglas International Airport On,2,15
+2020-03-10,Clemson University,2,16
+2020-03-10,Johns Hopkins University,2,17
+2020-03-10,Ritrama Inc,2,18
+2020-03-10,Centers Of Disease,3,7
+2020-03-10,Charlotte Douglas International Airport,3,8
+2020-03-10,Prisma Health,3,9
+2020-03-10,Prisma Health Richland Hospital,3,10
+2020-03-10,Public Health Laboratory,3,11
+2020-03-10,Tribune Content Agency,3,12
+2020-03-10,United States,3,13
+2020-03-10,School District,4,5
+2020-03-10,World Health Organization,4,6
+2020-03-10,University Of South Carolina,5,4
+2020-03-10,Department Of Health,6,3
+2020-03-10,Carolina Department Of Health,7,2
+2020-03-10,Centers For Disease,14,1
+2020-03-11,Centers For Disease,1,1
+2020-03-11,United States,1,2
+2020-03-11,World Health Organization,1,3
+2020-03-12,Board Of Trustees,1,14
+2020-03-12,Centers Of Disease,1,15
+2020-03-12,Clemson University,1,16
+2020-03-12,Community Spread In Camden,1,17
+2020-03-12,Department Of Education,1,18
+2020-03-12,Human Services Alex Azar,1,19
+2020-03-12,National Educators Association,1,20
+2020-03-12,Public Health Laboratory,1,21
+2020-03-12,Technical College,1,22
+2020-03-12,United States,1,23
+2020-03-12,Winthrop University,1,24
+2020-03-12,Anmed Health In Anderson,2,6
+2020-03-12,Centers For Medicare Medicaid,2,7
+2020-03-12,Cherokee Medical Center,2,8
+2020-03-12,Francis Health System,2,9
+2020-03-12,Health West Ashley Medical Pavilion,2,10
+2020-03-12,Prisma Health,2,11
+2020-03-12,Union Medical Center,2,12
+2020-03-12,Virtual Health,2,13
+2020-03-12,Centers For Disease,3,5
+2020-03-12,Carolina Department Of Health,4,1
+2020-03-12,Ellen Sagar Nursing Center,4,2
+2020-03-12,Pelham Medical Center,4,3
+2020-03-12,University Of South Carolina,4,4
+2020-03-13,Centers For Disease,1,1
+2020-03-13,Gaffney Fire Department,1,2
+2020-03-15,Carolina Emergency Management Division,1,1
+2020-03-15,Centers For Disease,1,2
+2020-03-15,Charlotte Douglas International Airport,1,3
+2020-03-15,Contingency Reserve Fund,1,4
+2020-03-15,Department Of Education,1,5
+2020-03-15,Drug Administration,1,6
+2020-03-15,Emergency Operations Center,1,7
+2020-03-15,Kershaw Family Court,1,8
+2020-03-15,Office Of Health,1,9
+2020-03-15,Office Of Regulatory Staff,1,10
+2020-03-15,Oval Office,1,11
+2020-03-15,Public Health Laboratory,1,12
+2020-03-15,Supreme Court,1,13
+2020-03-15,University Of South Carolina,1,14
+2020-03-15,Youtube,1,15
+2020-03-16,Anmed Health,1,18
+2020-03-16,Anmed Health Cannon,1,19
+2020-03-16,Carolina Department Of Health,1,20
+2020-03-16,Columbia Prisma Health Baptist Parkridge Hospital,1,21
+2020-03-16,Columbia Prisma Health Children Hospital,1,22
+2020-03-16,Columbia Prisma Health Hillcrest Hospital,1,23
+2020-03-16,Columbia Prisma Health Tuomey Hospital,1,24
+2020-03-16,Easley Prisma Health Baptist Hospital,1,25
+2020-03-16,Emergency Department,1,26
+2020-03-16,Greer Prisma Health Heart Hospital,1,27
+2020-03-16,Laurens Prisma Health Lila Doyle,1,28
+2020-03-16,Prisma Health,1,29
+2020-03-16,Prisma Health Baptist Easley Hospital,1,30
+2020-03-16,Seneca Prisma Health Patewood Hospital,1,31
+2020-03-16,Simpsonville Prisma Health Laurens County Hospital,1,32
+2020-03-16,Travelers Rest Prisma Health Oconee Memorial Hospital,1,33
+2020-03-16,Carolina Emergency Management Division,2,2
+2020-03-16,Centers For Disease,2,3
+2020-03-16,Charlotte Douglas International Airport,2,4
+2020-03-16,Contingency Reserve Fund,2,5
+2020-03-16,Department Of Education,2,6
+2020-03-16,Drug Administration,2,7
+2020-03-16,Emergency Operations Center,2,8
+2020-03-16,Environmental Control Public Health Laboratory,2,9
+2020-03-16,House Physicians Office,2,10
+2020-03-16,Kershaw Family Court,2,11
+2020-03-16,Office Of Health,2,12
+2020-03-16,Office Of Regulatory Staff,2,13
+2020-03-16,Oval Office,2,14
+2020-03-16,Supreme Court,2,15
+2020-03-16,University Of South Carolina,2,16
+2020-03-16,Youtube,2,17
+2020-03-16,Public Health Laboratory,4,1
+2020-03-17,Nan,1,3
+2020-03-17,Carolina Small Business Chamber,2,1
+2020-03-17,Mcdonald,2,2
+2020-03-18,Camden High School,1,15
+2020-03-18,Carolina Department Of Health,1,16
+2020-03-18,Centers For Disease,1,17
+2020-03-18,Centers Of Disease,1,18
+2020-03-18,Central High School,1,19
+2020-03-18,Health Department,1,20
+2020-03-18,Officials At Summerville Medical Center,1,21
+2020-03-18,Public Health Laboratory,1,22
+2020-03-18,Summerville Medical Center,1,23
+2020-03-18,University Of South Carolina,1,24
+2020-03-18,Ford Motor,2,13
+2020-03-18,Toyota Motor Corp North American,2,14
+2020-03-18,Kia Motors Corp,3,12
+2020-03-18,Reuters,4,11
+2020-03-18,Toyota Motor Corp,7,10
+2020-03-18,Thomson Reuters Trust Principles,8,9
+2020-03-18,Automotive Research In Ann Arbor,9,7
+2020-03-18,Korea Hyundai Motor Co,9,8
+2020-03-18,Bmw,10,4
+2020-03-18,Ford Motor Co,10,5
+2020-03-18,Motors Co,10,6
+2020-03-18,Honda Motor Co,12,2
+2020-03-18,Tesla Inc,12,3
+2020-03-18,United States,13,1
+2020-03-19,Drug Administration,1,30
+2020-03-19,Home Care Day Centers,1,31
+2020-03-19,Honda,1,32
+2020-03-19,National Public Radio,1,33
+2020-03-19,Prisma Health System,1,34
+2020-03-19,Senior Communications,1,35
+2020-03-19,Southside Medical Center,1,36
+2020-03-19,Spartanburg Area Mental Health Center,1,37
+2020-03-19,Toyota,1,38
+2020-03-19,Young,1,39
+2020-03-19,American Civil Liberties Union,2,20
+2020-03-19,Centers For Disease,2,21
+2020-03-19,Department Of Health,2,22
+2020-03-19,Emergency Health Powers,2,23
+2020-03-19,Gm Flint Assembly Plant In Flint,2,24
+2020-03-19,Hyundai Motor Co,2,25
+2020-03-19,Nan,2,26
+2020-03-19,Sitel Group,2,27
+2020-03-19,Toyota Motor Corp North American,2,28
+2020-03-19,World Health Organization,2,29
+2020-03-19,Emergency Operations Center,3,16
+2020-03-19,Mercedes,3,17
+2020-03-19,Prisma Health,3,18
+2020-03-19,University Of South Carolina,3,19
+2020-03-19,Thomson Reuters Trust Principles,4,15
+2020-03-19,Carolina Department Of Health,5,11
+2020-03-19,Nissan,5,12
+2020-03-19,Nissan Motor Co,5,13
+2020-03-19,Reuters,5,14
+2020-03-19,Kia Motors Corp,7,8
+2020-03-19,Korea Hyundai Motor Co,7,9
+2020-03-19,Toyota Motor Corp,7,10
+2020-03-19,Tesla Inc,8,7
+2020-03-19,Automotive Research In Ann Arbor,10,2
+2020-03-19,Bmw,10,3
+2020-03-19,Ford Motor Co,10,4
+2020-03-19,Honda Motor Co,10,5
+2020-03-19,Motors Co,10,6
+2020-03-19,United States,11,1
+2020-03-20,Anderson University,1,6
+2020-03-20,Apple Distinguished School,1,7
+2020-03-20,Automotive Research In Ann Arbor,1,8
+2020-03-20,Carolina Court Administration,1,9
+2020-03-20,Carolina Department Of Health,1,10
+2020-03-20,Centers For Disease,1,11
+2020-03-20,Chapman Cultural Center,1,12
+2020-03-20,Circuit Court,1,13
+2020-03-20,Circuit Solicitor Office,1,14
+2020-03-20,Department Of Health,1,15
+2020-03-20,Department Of Public Safety,1,16
+2020-03-20,Detention Center,1,17
+2020-03-20,Emergency Operations Center,1,18
+2020-03-20,Ford Motor Co,1,19
+2020-03-20,Honda Motor Co,1,20
+2020-03-20,Kia Motors Corp,1,21
+2020-03-20,Korea Hyundai Motor Co,1,22
+2020-03-20,Motors Co,1,23
+2020-03-20,National League,1,24
+2020-03-20,Nissan,1,25
+2020-03-20,Nissan Motor Co,1,26
+2020-03-20,Prisma Health,1,27
+2020-03-20,Supreme Court,1,28
+2020-03-20,Tesla Inc,1,29
+2020-03-20,Thomson Reuters Trust Principles,1,30
+2020-03-20,Toyota Motor Corp,1,31
+2020-03-20,United States,1,32
+2020-03-20,University Of South Carolina,1,33
+2020-03-20,Bmw,2,2
+2020-03-20,Democratic Party,2,3
+2020-03-20,Twitter,2,4
+2020-03-20,Wofford College,2,5
+2020-03-20,Young,3,1
+2020-03-21,Sitel Group,1,4
+2020-03-21,Hotel California,2,2
+2020-03-21,Sitel Corp,2,3
+2020-03-21,Inman Police Department,3,1
+2020-03-22,Associated Press,1,1
+2020-03-22,Bloomberg,1,2
+2020-03-22,Bmw,1,3
+2020-03-22,Carolina Department Of Health,1,4
+2020-03-22,Chinese Communist Party,1,5
+2020-03-22,Department Of Health,1,6
+2020-03-22,Honda,1,7
+2020-03-22,Hyundai,1,8
+2020-03-22,Inman Police,1,9
+2020-03-22,Johns Hopkins University,1,10
+2020-03-22,Mercedes,1,11
+2020-03-22,Nissan,1,12
+2020-03-22,Sitel Corporation In Inman,1,13
+2020-03-22,Strategic National,1,14
+2020-03-22,Subaru,1,15
+2020-03-22,Toyota,1,16
+2020-03-22,United States,1,17
+2020-03-22,Volkswagen,1,18
+2020-03-22,Volvo,1,19
+2020-03-23,Nan,1,2
+2020-03-23,Sc Commission On Higher Education,1,3
+2020-03-23,Sc State University,1,4
+2020-03-23,Student Affairs,1,5
+2020-03-23,United States,1,6
+2020-03-23,National Alliance On Mental Illness Piedmont Tri,2,1
+2020-03-24,Fedex,1,1
+2020-03-24,International Amazon Workers Voice,1,2
+2020-03-25,Bmw,1,3
+2020-03-25,Coroner Office,1,4
+2020-03-25,Coroners Association,1,5
+2020-03-25,Federal Reserve Bank,1,6
+2020-03-25,Michelin,1,7
+2020-03-25,Winthrop University,1,8
+2020-03-25,Wofford College,1,9
+2020-03-25,World Health Organization,1,10
+2020-03-25,Centers For Disease,2,1
+2020-03-25,Nan,2,2
+2020-03-27,Carolina Department Of Health,2,1
+2020-03-31,Ag Office,1,1
+2020-03-31,City Council,1,2
+2020-04-01,Carolina Department Of Motor Vehicles,1,1
+2020-04-01,High Point Academy,1,2
+2020-04-01,Strategic Communications Community Affairs,1,3
+2020-04-02,Nan,1,1
+2020-04-03,American Airlines,1,1
+2020-04-03,Carolina Department Of Health,1,2
+2020-04-03,Food Bank,1,3
+2020-04-03,Public Health,1,4
+2020-04-03,Second Harvest Food Bank,1,5
+2020-04-03,United States,1,6
+2020-04-04,United States,1,1
+2020-04-05,Camille Graham Correctional Institute,1,1
+2020-04-05,Carolina Department Of Corrections,1,2
+2020-04-05,Carolina Department Of Health,1,3
+2020-04-05,Centers For Medicare Medicaid Services,1,4
+2020-04-05,City Council,1,5
+2020-04-05,Facebook,1,6
+2020-04-05,New York Times,1,7
+2020-04-05,Turbeville Correctional Institute,1,8
+2020-04-05,University Of California,1,9
+2020-04-05,University Of Florida,1,10
+2020-04-05,University Of Michigan,1,11
+2020-04-05,University Of South Carolina,1,12
+2020-04-06,American Baptist College In Nashville,1,1
+2020-04-06,Babylon Senior High School,1,2
+2020-04-06,Bmw,1,3
+2020-04-06,Carolina Department Of Health,1,4
+2020-04-06,Centers For Disease,1,5
+2020-04-06,City Council,1,6
+2020-04-06,Empire State Missionary Baptist Convention,1,7
+2020-04-06,Facebook,1,8
+2020-04-06,Holy Trinity Baptist Church,1,9
+2020-04-06,Johns Hopkins University,1,10
+2020-04-06,Macedonia Baptist Church,1,11
+2020-04-06,New York Times,1,12
+2020-04-06,Prisma Health,1,13
+2020-04-06,Tabernacle Of Joy Church,1,14
+2020-04-06,Tribune Content Agency,1,15
+2020-04-06,United Baptist Association,1,16
+2020-04-06,United States,1,17
+2020-04-06,University Of California,1,18
+2020-04-06,University Of Florida,1,19
+2020-04-06,University Of Michigan,1,20
+2020-04-06,Volvo,1,21
+2020-04-08,Carolina Department Of Health,1,1
+2020-04-08,Nan,1,2
+2020-04-08,Public Health Laboratory,1,3
+2020-04-09,Children Advocacy Center,1,1
+2020-04-09,Dorman High School,1,2
+2020-04-09,Lower School,1,3
+2020-04-09,National Domestic Violence Awareness,1,4
+2020-04-09,National Institute Of Alcohol Abuse,1,5
+2020-04-09,National Parent Helpline,1,6
+2020-04-09,Rape Crisis Coalition,1,7
+2020-04-09,Union Counties,1,8
+2020-04-09,United States,1,9
+2020-04-09,Youtube,1,10
+2020-04-10,Nan,2,1
+2020-04-11,Department Of Health,2,1
+2020-04-12,Catholic Church,1,2
+2020-04-12,Catholic University Of America,1,3
+2020-04-12,Mary Help Of Christians Catholic School,1,4
+2020-04-12,Missionaries Of Charity,1,5
+2020-04-12,Missionaries Of Charity Sisters,1,6
+2020-04-12,Pontifical Gregorian University,1,7
+2020-04-12,United States,1,8
+2020-04-12,University Of America,1,9
+2020-04-12,University Of Dallas,1,10
+2020-04-12,Department Of Health,2,1
+2020-04-13,Arkwright First Baptist Church,1,1
+2020-04-13,Bethlehem Baptist Church,1,2
+2020-04-13,Carver Middle School,1,3
+2020-04-13,Cedar Spring Baptist Church,1,4
+2020-04-13,Cleveland Chapel Baptist Church,1,5
+2020-04-13,David Houston Center,1,6
+2020-04-13,Department Of Health,1,7
+2020-04-13,Drayton Mills Elementary School,1,8
+2020-04-13,Mccracken Middle School,1,9
+2020-04-13,Westminster Presbyterian Church,1,10
+2020-04-15,Aiken Regional Medical Center,1,3
+2020-04-15,Al Cannon Detention Center,1,4
+2020-04-15,Anmed Health In Anderson,1,5
+2020-04-15,Carolina Department Of Health,1,6
+2020-04-15,Department Of Corrections,1,7
+2020-04-15,Department Of Health,1,8
+2020-04-15,Health Marion,1,9
+2020-04-15,Kershaw Health In Camden,1,10
+2020-04-15,Lexington Medical Center,1,11
+2020-04-15,Mccleod Health In Clarendon,1,12
+2020-04-15,Mcdonald,1,13
+2020-04-15,Nan,1,14
+2020-04-15,Regional Medical Center,1,15
+2020-04-15,Cnn,2,1
+2020-04-15,Office Of Private Sector,2,2
+2020-04-16,Anderson Anmed Health,1,1
+2020-04-16,Centers For Disease,1,2
+2020-04-16,Department Of Health,1,3
+2020-04-16,Drug Administration,1,4
+2020-04-16,Francis Health System,1,5
+2020-04-16,Laboratory Services,1,6
+2020-04-16,University Of South Carolina,1,7
+2020-04-17,Harvest Hope Food Bank,1,1
+2020-04-17,Instagram,1,2
+2020-04-17,Laurens School District,1,3
+2020-04-17,Olympics,1,4
+2020-04-17,Pharmacy School,1,5
+2020-04-17,Physician Assistant Program,1,6
+2020-04-17,Service Day,1,7
+2020-04-17,Special Olympics,1,8
+2020-04-18,Columbia University,1,1
+2020-04-18,Nan,1,2
+2020-04-18,Twitter,1,3
+2020-04-19,Carolina Department Of Health,1,5
+2020-04-19,Emergency Response Team Joint Information Center,1,6
+2020-04-19,Environmental Services,1,7
+2020-04-19,Facebook,1,8
+2020-04-19,Henry Mcmaster Office,1,9
+2020-04-19,Nan,1,10
+2020-04-19,Department Of Health,2,2
+2020-04-19,Institute For Health Metrics,2,3
+2020-04-19,Twitter,2,4
+2020-04-19,University Of Washington,3,1
+2020-04-20,Associated Press,1,6
+2020-04-20,City Council,1,7
+2020-04-20,Gannett,1,8
+2020-04-20,Nan,1,9
+2020-04-20,Centers For Disease,2,5
+2020-04-20,Carolina Department Of Health,3,1
+2020-04-20,Facebook,3,2
+2020-04-20,Henry Mcmaster Office,3,3
+2020-04-20,University Of Washington,3,4
+2020-04-21,Benedict College,1,2
+2020-04-21,Carolina Department Motor Vehicle,1,3
+2020-04-21,Carolina Department Of Health,1,4
+2020-04-21,Clemson University,1,5
+2020-04-21,Council Of State Chambers,1,6
+2020-04-21,First Citizens Bank,1,7
+2020-04-21,Francis Marion University,1,8
+2020-04-21,Hopkins Defender Services,1,9
+2020-04-21,Hughes Development Corporation,1,10
+2020-04-21,Nan,1,11
+2020-04-21,National Association Of Convenience Stores,1,12
+2020-04-21,Nephron Pharmaceuticals,1,13
+2020-04-21,Prisma Health,1,14
+2020-04-21,Public Health Laboratory,1,15
+2020-04-21,Schaeffler Group,1,16
+2020-04-21,Surfside Realty Company,1,17
+2020-04-21,Thompson Construction Group,1,18
+2020-04-21,Trident Technical College,1,19
+2020-04-21,University Of South Carolina,1,20
+2020-04-21,Price Store For Men,2,1
+2020-04-22,Dawkins Middle School In District,2,1
+2020-04-22,High Point Academy,2,2
+2020-04-22,Woodland Heights Elementary School,2,3
+2020-04-23,American Civil Liberties Union,1,1
+2020-04-23,Better Business Bureau,1,2
+2020-04-23,Bio Business Solutions,1,3
+2020-04-23,Brex,1,4
+2020-04-23,Bureau Of Justice Statistics,1,5
+2020-04-23,Business Solutions,1,6
+2020-04-23,Community Matters,1,7
+2020-04-23,Federal Reserve,1,8
+2020-04-23,Harvest Hope Food Bank,1,9
+2020-04-23,House Judiciary Committee,1,10
+2020-04-23,Instagram,1,11
+2020-04-23,Laurens School District,1,12
+2020-04-23,Life Sciences Cost,1,13
+2020-04-23,Office Depot,1,14
+2020-04-23,Olympics,1,15
+2020-04-23,Pharmacy School,1,16
+2020-04-23,Physician Assistant Program,1,17
+2020-04-23,Service Day,1,18
+2020-04-23,Special Olympics,1,19
+2020-04-24,Small Business Alliance,2,1
+2020-04-26,Bmw,1,1
+2020-04-26,Emergency Management Agency,1,2
+2020-04-26,Science Applications International Corp,1,3
+2020-04-26,United States,1,4
+2020-04-26,University Of South Carolina,1,5
+2020-04-27,Associated Press,1,1
+2020-04-27,Eau Claire High School,1,2
+2020-04-27,Governor Office,1,3
+2020-04-27,Public Affairs Research,1,4
+2020-04-27,University Of South Carolina,1,5
+2020-04-28,Carolina Department Of Motor Vehicle,1,1
+2020-04-28,Facebook,1,2
+2020-04-28,Strategic Communications Community Affairs Julie Roy,1,3
+2020-04-29,Department Of Labor,3,1
+2020-04-29,Mary Black School Of Nursing,3,2
+2020-04-29,Spartanburg Community College,3,3
+2020-04-30,Department Of Health,1,1
+2020-05-01,Au Health System,1,2
+2020-05-01,Census Bureau,1,3
+2020-05-01,Francis Health System,1,4
+2020-05-01,Georgia Department Of Behavioral Health Developmental Disabilities,1,5
+2020-05-01,Georgia Department Of Public Health,1,6
+2020-05-01,Mountain View Baptist Church,1,7
+2020-05-01,Prisma Health,1,8
+2020-05-01,University Hospital,1,9
+2020-05-01,Nan,2,1
+2020-05-02,Action Center,1,1
+2020-05-02,Athena Coalition,1,2
+2020-05-02,Democratic Party,1,3
+2020-05-02,Forward Network,1,4
+2020-05-02,George Soros Open Society,1,5
+2020-05-02,International Amazon Worker Voice,1,6
+2020-05-02,International Amazon Workers Voice,1,7
+2020-05-02,Nan,1,8
+2020-05-02,Warehouse Worker Resource Center,1,9
+2020-05-02,Whole Foods,1,10
+2020-05-03,Andrews High School,1,1
+2020-05-03,Anmed Health Medical Center,1,2
+2020-05-03,Carolina Press Association,1,3
+2020-05-03,College Of Charleston,1,4
+2020-05-03,Democratic National Convention,1,5
+2020-05-03,Facebook,1,6
+2020-05-03,Food Lion,1,7
+2020-05-03,Heartland Health,1,8
+2020-05-03,Marquette University,1,9
+2020-05-03,Nan,1,10
+2020-05-03,Rehabilitation Care Center,1,11
+2020-05-03,Sc Peace Resource Center,1,12
+2020-05-03,School Of Nursing,1,13
+2020-05-03,Territorial Health Officials,1,14
+2020-05-03,Tribune Content Agency,1,15
+2020-05-03,Triumph Church House Ministries,1,16
+2020-05-03,United States,1,17
+2020-05-03,University Of South Carolina,1,18
+2020-05-04,Chapman Cultural Center,1,2
+2020-05-04,Daniel Morgan Technology Center,1,3
+2020-05-04,Instagram,1,4
+2020-05-04,School Of Pacolet,1,5
+2020-05-04,Young,1,6
+2020-05-04,Facebook,2,1
+2020-05-05,Bmw,1,1
+2020-05-05,Carolina State Election Commission,1,2
+2020-05-05,European Delivery Program,1,3
+2020-05-05,Governor Office,1,4
+2020-05-05,M School,1,5
+2020-05-05,Moriah Baptist Church,1,6
+2020-05-05,Nan,1,7
+2020-05-05,Performance Center,1,8
+2020-05-05,Public Health Laboratory,1,9
+2020-05-05,United States,1,10
+2020-05-05,University Of South Carolina,1,11
+2020-05-05,Zentrum Museum,1,12
+2020-05-06,Denny Corp,1,2
+2020-05-06,Denny Corporation,1,3
+2020-05-06,Exchange Commission,1,4
+2020-05-06,Nan,1,5
+2020-05-06,Paycheck Protection Program,1,6
+2020-05-06,Small Business Administration,1,7
+2020-05-06,Department Of Health,2,1
+2020-05-08,Broome High School,2,1
+2020-05-08,Twitter,2,2
+2020-05-09,Anmed Health,1,1
+2020-05-09,Department Of Health,1,2
+2020-05-09,Regenesis Health Care,1,3
+2020-05-09,University Of South Carolina Upstate Greenville,1,4
+2020-05-11,Carolina Commission For Minority Affairs,1,1
+2020-05-11,Carolina Department Of Health,1,2
+2020-05-11,Central Midlands Regional Transit Authority,1,3
+2020-05-11,Community Outreach,1,4
+2020-05-11,Community Partnerships,1,5
+2020-05-11,David Academy,1,6
+2020-05-11,Facebook,1,7
+2020-05-11,Nan,1,8
+2020-05-11,Office Of Rural Health,1,9
+2020-05-11,Public Health Laboratory,1,10
+2020-05-11,Society Hill,1,11
+2020-05-11,Twitter,1,12
+2020-05-12,Carolina Commission For Minority Affairs,1,4
+2020-05-12,Carolina Department Of Health,1,5
+2020-05-12,Carolina Healthcare Association,1,6
+2020-05-12,Central Midlands Regional Transit Authority,1,7
+2020-05-12,Community Outreach,1,8
+2020-05-12,Community Partnerships,1,9
+2020-05-12,David Academy,1,10
+2020-05-12,Facebook,1,11
+2020-05-12,Office Of Rural Health,1,12
+2020-05-12,Public Health Laboratory,1,13
+2020-05-12,Society Hill,1,14
+2020-05-12,Twitter,1,15
+2020-05-12,Foster Grove Baptist Church,2,1
+2020-05-12,Moriah Baptist Church,2,2
+2020-05-12,University Of South Carolina,2,3
+2020-05-13,Carolina Commission For Minority Affairs,1,1
+2020-05-13,Carolina Department Of Health,1,2
+2020-05-13,Carolina Healthcare Association,1,3
+2020-05-13,Central Midlands Regional Transit Authority,1,4
+2020-05-13,Community Outreach,1,5
+2020-05-13,Community Partnerships,1,6
+2020-05-13,David Academy,1,7
+2020-05-13,Department Of Employment,1,8
+2020-05-13,Facebook,1,9
+2020-05-13,Office Of Rural Health,1,10
+2020-05-13,Public Health Laboratory,1,11
+2020-05-13,Society Hill,1,12
+2020-05-13,Twitter,1,13
+2020-05-14,Harris Teeter,1,17
+2020-05-14,Carolina Commission For Minority Affairs,2,1
+2020-05-14,Carolina Department Of Health,2,2
+2020-05-14,Carolina Healthcare Association,2,3
+2020-05-14,Central Midlands Regional Transit Authority,2,4
+2020-05-14,Community Crisis Response,2,5
+2020-05-14,Community Outreach,2,6
+2020-05-14,Community Partnerships,2,7
+2020-05-14,David Academy,2,8
+2020-05-14,Department Of Mental Health,2,9
+2020-05-14,Facebook,2,10
+2020-05-14,Kroger Health,2,11
+2020-05-14,Mental Health Month,2,12
+2020-05-14,Office Of Rural Health,2,13
+2020-05-14,Public Health Laboratory,2,14
+2020-05-14,Society Hill,2,15
+2020-05-14,Twitter,2,16
+2020-05-15,Carolina Commission For Minority Affairs,1,1
+2020-05-15,Carolina Department Of Health,1,2
+2020-05-15,Carolina Healthcare Association,1,3
+2020-05-15,Carolina Hospital Association,1,4
+2020-05-15,Central Midlands Regional Transit Authority,1,5
+2020-05-15,Community Crisis Response,1,6
+2020-05-15,Community Outreach,1,7
+2020-05-15,Community Partnerships,1,8
+2020-05-15,David Academy,1,9
+2020-05-15,Department Of Mental Health,1,10
+2020-05-15,Facebook,1,11
+2020-05-15,Harris Teeter,1,12
+2020-05-15,Kroger Health,1,13
+2020-05-15,Mental Health Month,1,14
+2020-05-15,National Hospital Week,1,15
+2020-05-15,Office Of Rural Health,1,16
+2020-05-15,Public Health Laboratory,1,17
+2020-05-15,Saluda Regional Medical Center,1,18
+2020-05-15,Society Hill,1,19
+2020-05-15,Twitter,1,20
+2020-05-16,Armed Forces Proxy Marriages,1,1
+2020-05-16,Carolina Commission For Minority Affairs,1,2
+2020-05-16,Carolina Department Of Health,1,3
+2020-05-16,Carolina Health Centers,1,4
+2020-05-16,Carolina Healthcare Association,1,5
+2020-05-16,Carolina Hospital Association,1,6
+2020-05-16,Central Midlands Regional Transit Authority,1,7
+2020-05-16,Community Crisis Response,1,8
+2020-05-16,Community Outreach,1,9
+2020-05-16,Community Partnerships,1,10
+2020-05-16,David Academy,1,11
+2020-05-16,Department Of Mental Health,1,12
+2020-05-16,Facebook,1,13
+2020-05-16,Harris Teeter,1,14
+2020-05-16,Kroger Health,1,15
+2020-05-16,Lackland Air Force,1,16
+2020-05-16,Mental Health Month,1,17
+2020-05-16,Mount Carmel Baptist Church,1,18
+2020-05-16,Msnbc,1,19
+2020-05-16,National Hospital Week,1,20
+2020-05-16,Nursing Center,1,21
+2020-05-16,Office Of Rural Health,1,22
+2020-05-16,Public Health Laboratory,1,23
+2020-05-16,Saluda Regional Medical Center,1,24
+2020-05-16,Society Hill,1,25
+2020-05-16,Twitter,1,26
+2020-05-16,Us Air,1,27
+2020-05-16,York State Health Department,1,28
+2020-05-17,Boeing,1,1
+2020-05-17,Department Of Health,1,2
+2020-05-17,Facebook,1,3
+2020-05-17,Harris Teeter,1,4
+2020-05-17,Harvard University,1,5
+2020-05-17,Northeastern University,1,6
+2020-05-17,Publix,1,7
+2020-05-17,Rutgers University,1,8
+2020-05-17,Whole Foods Market,1,9
+2020-05-18,Carolina Commission For Minority Affairs,1,1
+2020-05-18,Carolina Department Of Health,1,2
+2020-05-18,Carolina Health Centers,1,3
+2020-05-18,Carolina Healthcare Association,1,4
+2020-05-18,Carolina Hospital Association,1,5
+2020-05-18,Central Midlands Regional Transit Authority,1,6
+2020-05-18,Clemson University Sullivan Center,1,7
+2020-05-18,Community Crisis Response,1,8
+2020-05-18,Community Outreach,1,9
+2020-05-18,Community Partnerships,1,10
+2020-05-18,David Academy,1,11
+2020-05-18,Department Of Mental Health,1,12
+2020-05-18,Facebook,1,13
+2020-05-18,Fair Oak Youth Center,1,14
+2020-05-18,Harris Teeter,1,15
+2020-05-18,Johnston Elementary School,1,16
+2020-05-18,Kroger Health,1,17
+2020-05-18,Kroger Health Harris Teeter,1,18
+2020-05-18,Mental Health Month,1,19
+2020-05-18,Mims Recreation Center,1,20
+2020-05-18,National Hospital Week,1,21
+2020-05-18,Office Of Rural Health,1,22
+2020-05-18,Public Health Laboratory,1,23
+2020-05-18,Salem First Baptist Church,1,24
+2020-05-18,Saluda Primary School,1,25
+2020-05-18,Saluda Regional Medical Center,1,26
+2020-05-18,School House Rd,1,27
+2020-05-18,Society Hill,1,28
+2020-05-18,Twitter,1,29
+2020-05-19,Democrat Party,1,1
+2020-05-19,Election Commission,1,2
+2020-05-19,Second Harvest Food Bank,1,3
+2020-05-22,Byrnes High School,2,1
+2020-05-22,Carolina Department Of Health,2,2
+2020-05-22,Department Of Diversity,2,3
+2020-05-22,Diocese Of Charleston,2,4
+2020-05-22,Friendship Baptist Church,2,5
+2020-05-22,Google,2,6
+2020-05-23,Nan,1,1
+2020-05-25,Afghanistan Campaign Medal,1,1
+2020-05-25,Army Achievement Medal,1,2
+2020-05-25,Army Commendation Medal,1,3
+2020-05-25,Army Reserve Component Achievement Medal,1,4
+2020-05-25,Army Service Ribbon,1,5
+2020-05-25,Carolina National Guard,1,6
+2020-05-25,Department Of Defense,1,7
+2020-05-25,Dorman High School,1,8
+2020-05-25,Dorman High School In Spartanburg,1,9
+2020-05-25,Dover Air Force,1,10
+2020-05-25,National Defense Service Medal,1,11
+2020-05-25,Rifle Team Commander,1,12
+2020-05-25,United States Army,1,13

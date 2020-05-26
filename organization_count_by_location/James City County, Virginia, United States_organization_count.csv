@@ -1,0 +1,513 @@
+date,organization,count,rn
+2020-03-11,Department Of Education,1,1
+2020-03-11,Department Of Emergency Management,1,2
+2020-03-11,Google,1,3
+2020-03-11,Health Department,1,4
+2020-03-11,International Women Day,1,5
+2020-03-11,James Beard Foundation,1,6
+2020-03-11,New York Post,1,7
+2020-03-11,Society Of Memorial Sloan Kettering,1,8
+2020-03-11,Virginia Department Of Health,1,9
+2020-03-12,Community Building,1,2
+2020-03-12,During Thursday City Council,1,3
+2020-03-12,Nan,1,4
+2020-03-12,Peninsula Health District,1,5
+2020-03-12,Quarterpath Recreation Center,1,6
+2020-03-12,Sentara Williamsburg Regional Medical Center,1,7
+2020-03-12,Stryker Center,1,8
+2020-03-12,Twitter,1,9
+2020-03-12,United States,1,10
+2020-03-12,World Health Organization,1,11
+2020-03-12,Virginia Department Of Health,2,1
+2020-03-15,Centers For Disease,1,8
+2020-03-15,Chesterfield Health District,1,9
+2020-03-15,College Of William Mary,1,10
+2020-03-15,Department Of Emergency Management,1,11
+2020-03-15,Department Of Emergency Management In Midlothian,1,12
+2020-03-15,Emergency Operations Center,1,13
+2020-03-15,Fort Belvoir Community Hospital,1,14
+2020-03-15,Lynbrook Elementary School,1,15
+2020-03-15,Nan,1,16
+2020-03-15,Prince William Health District,1,17
+2020-03-15,Twitter,1,18
+2020-03-15,Virginia Department Of Education,1,19
+2020-03-15,Virginia Health Department,1,20
+2020-03-15,Centers Of Disease,2,4
+2020-03-15,Larrick Student Center,2,5
+2020-03-15,Virginia Commonwealth University,2,6
+2020-03-15,Virginia Department Of Emergency Management,2,7
+2020-03-15,Division Of Consolidated Laboratory Services,3,3
+2020-03-15,Peninsula Health District,10,2
+2020-03-15,Virginia Department Of Health,11,1
+2020-03-16,College Of William Mary,1,5
+2020-03-16,Head Of The State Health Department,1,6
+2020-03-16,Nan,1,7
+2020-03-16,Peninsula Health District Call Center,1,8
+2020-03-16,Riverside Health System,1,9
+2020-03-16,Virginia Department Of Health On,1,10
+2020-03-16,Ymca,1,11
+2020-03-16,Peninsula Health Department,2,4
+2020-03-16,Department Of Health,3,3
+2020-03-16,Peninsula Health District,5,2
+2020-03-16,Virginia Department Of Health,6,1
+2020-03-17,Bon Secours Health System,1,3
+2020-03-17,Centers For Disease,1,4
+2020-03-17,Community Resource Center,1,5
+2020-03-17,Corporation Commission,1,6
+2020-03-17,Department Of Motor Vehicles,1,7
+2020-03-17,Dominion Energy,1,8
+2020-03-17,Facebook,1,9
+2020-03-17,Francis Medical Center,1,10
+2020-03-17,Health Department,1,11
+2020-03-17,Health In Richmond,1,12
+2020-03-17,Health Insurance Portability,1,13
+2020-03-17,Health System,1,14
+2020-03-17,Information Technology Department,1,15
+2020-03-17,James Blair Middle School,1,16
+2020-03-17,Johnston Willis Medical Center,1,17
+2020-03-17,Lunchbox Program,1,18
+2020-03-17,Matthew Whaley Elementary School,1,19
+2020-03-17,Memorial Regional Medical Center,1,20
+2020-03-17,Nan,1,21
+2020-03-17,Peninsula Health Department,1,22
+2020-03-17,Richmond Community Hospital,1,23
+2020-03-17,Security Administration,1,24
+2020-03-17,Senate Minority Leader Tommy Norment,1,25
+2020-03-17,Services Department,1,26
+2020-03-17,Thomas Jefferson Health District,1,27
+2020-03-17,United Way Emergency Fund,1,28
+2020-03-17,University Of Richmond,1,29
+2020-03-17,Vcu Health,1,30
+2020-03-17,Virginia Commonwealth University,1,31
+2020-03-17,Virginia Department Of Education,1,32
+2020-03-17,Virginia Department Of Emergency Management,1,33
+2020-03-17,Virginia Health,1,34
+2020-03-17,Warhill High School,1,35
+2020-03-17,World Health Organization,1,36
+2020-03-17,Youtube,1,37
+2020-03-17,Peninsula Health District,2,2
+2020-03-17,Virginia Department Of Health,3,1
+2020-03-18,Health Insurance Portability,1,27
+2020-03-18,Information Technology Department,1,28
+2020-03-18,Matthew Whaley Elementary School,1,29
+2020-03-18,Senate Republican,1,30
+2020-03-18,Senate Rules Committee,1,31
+2020-03-18,Services Department,1,32
+2020-03-18,Virginia Senate,1,33
+2020-03-18,Youtube,1,34
+2020-03-18,Bon Secours Health System,2,15
+2020-03-18,Division Of Consolidated Laboratory Services,2,16
+2020-03-18,Francis Medical Center,2,17
+2020-03-18,Health In Richmond,2,18
+2020-03-18,Health System,2,19
+2020-03-18,Johnston Willis Medical Center,2,20
+2020-03-18,Memorial Regional Medical Center,2,21
+2020-03-18,Peninsula Health Department,2,22
+2020-03-18,Richmond Community Hospital,2,23
+2020-03-18,Thomas Jefferson Health District,2,24
+2020-03-18,Virginia Department Of Emergency Management,2,25
+2020-03-18,Virginia Department To Health,2,26
+2020-03-18,Catholic Diocese Of Richmond,3,12
+2020-03-18,Nan,3,13
+2020-03-18,National Guard,3,14
+2020-03-18,Peninsula Health District,4,10
+2020-03-18,World Health Organization,4,11
+2020-03-18,Centers For Disease,6,3
+2020-03-18,Department Of Motor Vehicles,6,4
+2020-03-18,Richmond Health District,6,5
+2020-03-18,Security Administration,6,6
+2020-03-18,University Of Richmond,6,7
+2020-03-18,Virginia Commonwealth University,6,8
+2020-03-18,Virginia Health,6,9
+2020-03-18,Health Department,9,2
+2020-03-18,Virginia Department Of Health,12,1
+2020-03-19,Centers For Disease,1,7
+2020-03-19,Christ Church Georgetown,1,8
+2020-03-19,Corporation Commission,1,9
+2020-03-19,Department Of Defense,1,10
+2020-03-19,Department Of Education,1,11
+2020-03-19,Department Of Motor Vehicles,1,12
+2020-03-19,Department Of Social Services,1,13
+2020-03-19,Division Of Consolidated Laboratory Services,1,14
+2020-03-19,Langley Air Force,1,15
+2020-03-19,Longwood University On,1,16
+2020-03-19,Lynbrook Elementary School,1,17
+2020-03-19,Mcdonald Army Health Center At Fort Eustis,1,18
+2020-03-19,Officials At Joint Base Langley-Eustis On,1,19
+2020-03-19,Peninsula Health District,1,20
+2020-03-19,Peninsula Health District On,1,21
+2020-03-19,Prince William Health Department,1,22
+2020-03-19,Prince William Health District,1,23
+2020-03-19,Public Health Department,1,24
+2020-03-19,Rivers Health District,1,25
+2020-03-19,Small Business Administration,1,26
+2020-03-19,Supreme Court,1,27
+2020-03-19,Twitter,1,28
+2020-03-19,Virginia Department,1,29
+2020-03-19,Virginia Department Of Corrections,1,30
+2020-03-19,Virginia Department Of Health On,1,31
+2020-03-19,Virginia Health,1,32
+2020-03-19,Virginia State Health,1,33
+2020-03-19,White House,1,34
+2020-03-19,Virginia Employment Commission,2,5
+2020-03-19,World Health Organization,2,6
+2020-03-19,Catholic Diocese Of Richmond,3,2
+2020-03-19,Health Department,3,3
+2020-03-19,James Madison University,3,4
+2020-03-19,Virginia Department Of Health,5,1
+2020-03-20,Call National Suicide Prevention Hotline,1,6
+2020-03-20,Catholic Diocese Of Richmond,1,7
+2020-03-20,Centers For Disease,1,8
+2020-03-20,Christ Church Georgetown,1,9
+2020-03-20,Corporation Commission,1,10
+2020-03-20,Department Of Defense,1,11
+2020-03-20,Department Of Education,1,12
+2020-03-20,Department Of Health,1,13
+2020-03-20,Department Of Motor Vehicles,1,14
+2020-03-20,Division Of Consolidated Laboratory Services,1,15
+2020-03-20,Health Department,1,16
+2020-03-20,Incident Management Team,1,17
+2020-03-20,James Madison University,1,18
+2020-03-20,Longwood University On,1,19
+2020-03-20,Lynbrook Elementary School,1,20
+2020-03-20,Operations Center,1,21
+2020-03-20,Peninsula Health District On,1,22
+2020-03-20,Prince William Health Department,1,23
+2020-03-20,Prince William Health District,1,24
+2020-03-20,Public Health Department,1,25
+2020-03-20,Quest Diagnostics,1,26
+2020-03-20,Rivers Health District,1,27
+2020-03-20,Small Business Administration,1,28
+2020-03-20,Supreme Court,1,29
+2020-03-20,United States,1,30
+2020-03-20,Virginia Department Of Corrections,1,31
+2020-03-20,Virginia Department Of Health On,1,32
+2020-03-20,Virginia Division Of Consolidated Laboratory Services,1,33
+2020-03-20,Virginia Health,1,34
+2020-03-20,Virginia National Guard,1,35
+2020-03-20,White House,1,36
+2020-03-20,Workforce Development Advisor Megan Healy,1,37
+2020-03-20,World Health Organization,1,38
+2020-03-20,Facebook,2,2
+2020-03-20,National Guard,2,3
+2020-03-20,Peninsula Health District,2,4
+2020-03-20,Virginia Employment Commission,2,5
+2020-03-20,Virginia Department Of Health,4,1
+2020-03-21,Christ Church Georgetown,1,1
+2020-03-21,Department Of Defense,1,2
+2020-03-21,Department Of Education,1,3
+2020-03-21,Division Of Consolidated Laboratory Services,1,4
+2020-03-21,Longwood University On,1,5
+2020-03-21,Lynbrook Elementary School,1,6
+2020-03-21,Peninsula Health District,1,7
+2020-03-21,Peninsula Health District On,1,8
+2020-03-21,Prince William Health Department,1,9
+2020-03-21,Public Health,1,10
+2020-03-21,Small Business Administration,1,11
+2020-03-21,Virginia Department Of Corrections,1,12
+2020-03-21,Virginia Department Of Health On,1,13
+2020-03-21,Virginia Employment Commission,1,14
+2020-03-21,White House,1,15
+2020-03-21,World Health Organization,1,16
+2020-03-22,Christ Church Georgetown,1,5
+2020-03-22,Corporation Commission,1,6
+2020-03-22,Department Of Defense,1,7
+2020-03-22,Department Of Education,1,8
+2020-03-22,Department Of Motor Vehicles,1,9
+2020-03-22,Division Of Consolidated Laboratory Services,1,10
+2020-03-22,Longwood University On,1,11
+2020-03-22,Lynbrook Elementary School,1,12
+2020-03-22,Marine Corps Base Quantico,1,13
+2020-03-22,National Guard,1,14
+2020-03-22,Peninsula Acting Health,1,15
+2020-03-22,Peninsula Health District On,1,16
+2020-03-22,Population Health Laurie Forlano,1,17
+2020-03-22,Prince William Health Department,1,18
+2020-03-22,Prince William Health District,1,19
+2020-03-22,Public Health,1,20
+2020-03-22,Senate Republican,1,21
+2020-03-22,Senate Rules Committee,1,22
+2020-03-22,Services Division Of Consolidated Laboratory Services,1,23
+2020-03-22,Small Business Administration,1,24
+2020-03-22,Supreme Court,1,25
+2020-03-22,Virginia Department Of Corrections,1,26
+2020-03-22,Virginia Department Of Emergency Management,1,27
+2020-03-22,Virginia Department Of Health On,1,28
+2020-03-22,Virginia Division Of Consolidated Laboratory Services,1,29
+2020-03-22,Virginia National Guard,1,30
+2020-03-22,Virginia Peninsula Health District,1,31
+2020-03-22,Virginia Senate,1,32
+2020-03-22,White House,1,33
+2020-03-22,Workforce Development Advisor Megan Healy,1,34
+2020-03-22,World Health Organization,1,35
+2020-03-22,Virginia Employment Commission,2,3
+2020-03-22,Virginia Health,2,4
+2020-03-22,Peninsula Health District,3,2
+2020-03-22,Virginia Department Of Health,4,1
+2020-03-23,Department Of Veterans Affairs In Hampton,1,2
+2020-03-23,Facebook,1,3
+2020-03-23,Peninsula Acting Health,1,4
+2020-03-23,Regional Greenhouse Gas Initiative,1,5
+2020-03-23,United States,1,6
+2020-03-23,Virginia Department Of Health,1,7
+2020-03-23,Peninsula Health District,2,1
+2020-03-24,Community Building,1,3
+2020-03-24,Facebook,1,4
+2020-03-24,Newport News Shipbuilding,1,5
+2020-03-24,Quarterpath Recreation Center,1,6
+2020-03-24,Riverside Foundation,1,7
+2020-03-24,Riverside Fund,1,8
+2020-03-24,Riverside Make A Difference Fund,1,9
+2020-03-24,Team Member Help Fund,1,10
+2020-03-24,Peninsula Health District,2,2
+2020-03-24,Virginia Department Of Health,3,1
+2020-03-25,Christ Church Georgetown,1,1
+2020-03-25,Department Of Defense,1,2
+2020-03-25,Department Of Education,1,3
+2020-03-25,Division Of Consolidated Laboratory Services,1,4
+2020-03-25,Health Department,1,5
+2020-03-25,Longwood University On,1,6
+2020-03-25,Lynbrook Elementary School,1,7
+2020-03-25,Peninsula Health District,1,8
+2020-03-25,Peninsula Health District On,1,9
+2020-03-25,Prince William Health Department,1,10
+2020-03-25,Public Health,1,11
+2020-03-25,Small Business Administration,1,12
+2020-03-25,Virginia Department Of Corrections,1,13
+2020-03-25,Virginia Department Of Health,1,14
+2020-03-25,Virginia Department Of Health On,1,15
+2020-03-25,Virginia Employment Commission,1,16
+2020-03-25,Virginia Health Department,1,17
+2020-03-25,White House,1,18
+2020-03-25,World Health Organization,1,19
+2020-03-26,Community Services Boards,1,1
+2020-03-26,Department Of Behavioral Health,1,2
+2020-03-26,Department Of Health On,1,3
+2020-03-26,Developmental Services,1,4
+2020-03-26,Virginia Department Of Health,1,5
+2020-03-27,Anheuser Busch,1,1
+2020-03-27,Army Corps Of Engineers,1,2
+2020-03-27,Department Of Corrections,1,3
+2020-03-27,Dominion Energy,1,4
+2020-03-27,Facebook,1,5
+2020-03-27,Fairfax Health District,1,6
+2020-03-27,Moody,1,7
+2020-03-27,Peninsula Health District,1,8
+2020-03-27,Virginia Alcoholic Beverage Control Authority,1,9
+2020-03-27,Virginia Department Of Health,1,10
+2020-03-27,Virginia National Guard,1,11
+2020-03-29,Huntington Ingalls Industries,1,1
+2020-03-29,Newport News Shipbuilding,1,2
+2020-03-29,Peninsula Health District,1,3
+2020-03-29,Virginia Department Of Health,1,4
+2020-03-30,Arlington Health District,1,1
+2020-03-30,Crater Health District,1,2
+2020-03-30,Peninsula Acting Health,1,3
+2020-03-30,Peninsula Health District,1,4
+2020-03-30,Prince William Health District,1,5
+2020-03-30,Tidewater Health District,1,6
+2020-03-30,Virginia Department Of Health,1,7
+2020-03-31,Aeronautical Administration,1,2
+2020-03-31,City Council,1,3
+2020-03-31,Maine Department Of Environmental Protection,1,4
+2020-03-31,Maine Maritime Museum,1,5
+2020-03-31,Morgan,1,6
+2020-03-31,National Oceanographic,1,7
+2020-03-31,Facebook,2,1
+2020-04-06,City Council,1,2
+2020-04-06,Dominion Energy,1,3
+2020-04-06,Morgan,1,4
+2020-04-06,Virginia Department Of Health,1,5
+2020-04-06,Peninsula Health District,2,1
+2020-04-07,Nan,1,1
+2020-04-08,Economic Industry Disaster Loan Program,1,1
+2020-04-08,Facebook,1,2
+2020-04-08,International School American Section,1,3
+2020-04-08,Lower School Teacher,1,4
+2020-04-08,Paycheck Protection Program,1,5
+2020-04-08,Payroll Protection Program,1,6
+2020-04-08,Small Business Administration,1,7
+2020-04-08,Trump Administration,1,8
+2020-04-08,Virginia Tourism Corp,1,9
+2020-04-08,Youtube,1,10
+2020-04-09,National Child Abuse Prevention Month,1,1
+2020-04-09,Services Department,1,2
+2020-04-09,Transitions Family Services,1,3
+2020-04-09,Transitions Family Violence Services,1,4
+2020-04-09,Virginia Child Protective Services,1,5
+2020-04-09,Virginia Child Protective Services Hotline,1,6
+2020-04-09,York-Poquoson Child Protective Services,1,7
+2020-04-11,American Revolution Museum In Yorktown,1,1
+2020-04-11,Community Facilities,1,2
+2020-04-11,Emergency Management Agency Administrator Peter Gaynor On,1,3
+2020-04-11,Floor In Bank,1,4
+2020-04-11,Healthcare Association,1,5
+2020-04-11,Mcguire Va Medical Center,1,6
+2020-04-11,Virginia Alcoholic Beverage Control Authority,1,7
+2020-04-11,Virginia Department Of Environmental Quality,1,8
+2020-04-11,Virginia Department Of Health,1,9
+2020-04-11,Virginia Employment Commission,1,10
+2020-04-11,Yorktown Foundation,1,11
+2020-04-16,Ericsson,1,1
+2020-04-16,Office Of The Commonwealth Attorney,1,2
+2020-04-16,Peninsula Health District,1,3
+2020-04-16,Virginia Beach Police Department,1,4
+2020-04-16,Virginia Department Of Health,1,5
+2020-04-17,Davita Kidney Care Center,1,1
+2020-04-17,Family Dollar,1,2
+2020-04-17,Food Truck Association,1,3
+2020-04-17,Natalie Joseph Daily,1,4
+2020-04-17,Old Navy,1,5
+2020-04-17,Sam Club,1,6
+2020-04-17,Sherwin Williams,1,7
+2020-04-17,Small Business Administration,1,8
+2020-04-17,Virginia Beer Co,1,9
+2020-04-21,Emergency Management Agency,1,1
+2020-04-21,Emergency Medical Service,1,2
+2020-04-21,Virginia Department Of Emergency Management,1,3
+2020-04-21,Virginia Health,1,4
+2020-04-24,Museum Of Virginia,1,1
+2020-04-24,Peninsula Health District,1,2
+2020-04-24,Virginia Department Of Health,1,3
+2020-04-30,City Council,1,1
+2020-04-30,College Of Arts,1,2
+2020-04-30,Healthcare Association,1,3
+2020-04-30,Public Health Policy Task,1,4
+2020-04-30,Taxpayer Assistance Program,1,5
+2020-04-30,United States,1,6
+2020-04-30,University Of Virginia,1,7
+2020-04-30,White House,1,8
+2020-05-02,Centers For Disease,1,1
+2020-05-02,Corporation Commission,1,2
+2020-05-02,Department Of Motor Vehicles,1,3
+2020-05-02,Fairfax Health District,1,4
+2020-05-02,Falls Church,1,5
+2020-05-02,Marine Corps Base Quantico,1,6
+2020-05-02,National Guard,1,7
+2020-05-02,Peninsula Acting Health,1,8
+2020-05-02,Peninsula Health District,1,9
+2020-05-02,Prince William Health District,1,10
+2020-05-02,Prince William Health District On,1,11
+2020-05-02,Rappahannock Health District,1,12
+2020-05-02,Rappahannock-Rapidan Health District,1,13
+2020-05-02,Supreme Court,1,14
+2020-05-02,Trump Administration,1,15
+2020-05-02,Virginia Department Of Health,1,16
+2020-05-02,Virginia Division Of Consolidated Laboratory Services,1,17
+2020-05-02,Virginia Employment Commission,1,18
+2020-05-02,Virginia Health,1,19
+2020-05-02,Virginia National Guard,1,20
+2020-05-02,Workforce Development Advisor Megan Healy,1,21
+2020-05-03,Centers For Disease,1,1
+2020-05-03,Corporation Commission,1,2
+2020-05-03,Department Of Motor Vehicles,1,3
+2020-05-03,Fairfax Health District,1,4
+2020-05-03,Falls Church,1,5
+2020-05-03,Fauquier Health,1,6
+2020-05-03,Marine Corps Base Quantico,1,7
+2020-05-03,National Guard,1,8
+2020-05-03,Peninsula Acting Health,1,9
+2020-05-03,Peninsula Health District,1,10
+2020-05-03,Prince William Health District,1,11
+2020-05-03,Rappahannock Health District,1,12
+2020-05-03,Rappahannock-Rapidan Health District,1,13
+2020-05-03,Supreme Court,1,14
+2020-05-03,Trump Administration,1,15
+2020-05-03,Virginia Department Of Health,1,16
+2020-05-03,Virginia Division Of Consolidated Laboratory Services,1,17
+2020-05-03,Virginia Employment Commission,1,18
+2020-05-03,Virginia Health,1,19
+2020-05-03,Virginia Health Department,1,20
+2020-05-03,Virginia National Guard,1,21
+2020-05-03,Workforce Development Advisor Megan Healy,1,22
+2020-05-04,Fauquier Health,1,21
+2020-05-04,National Hurricane Preparedness,1,22
+2020-05-04,National Hurricane Preparedness Week,1,23
+2020-05-04,National Weather Service,1,24
+2020-05-04,Prince William Health District On,1,25
+2020-05-04,Virginia Department Of Emergency Management,1,26
+2020-05-04,Virginia Health Department,1,27
+2020-05-04,Weather Service,1,28
+2020-05-04,Centers For Disease,2,1
+2020-05-04,Corporation Commission,2,2
+2020-05-04,Department Of Motor Vehicles,2,3
+2020-05-04,Fairfax Health District,2,4
+2020-05-04,Falls Church,2,5
+2020-05-04,Marine Corps Base Quantico,2,6
+2020-05-04,National Guard,2,7
+2020-05-04,Peninsula Acting Health,2,8
+2020-05-04,Peninsula Health District,2,9
+2020-05-04,Prince William Health District,2,10
+2020-05-04,Rappahannock Health District,2,11
+2020-05-04,Rappahannock-Rapidan Health District,2,12
+2020-05-04,Supreme Court,2,13
+2020-05-04,Trump Administration,2,14
+2020-05-04,Virginia Department Of Health,2,15
+2020-05-04,Virginia Division Of Consolidated Laboratory Services,2,16
+2020-05-04,Virginia Employment Commission,2,17
+2020-05-04,Virginia Health,2,18
+2020-05-04,Virginia National Guard,2,19
+2020-05-04,Workforce Development Advisor Megan Healy,2,20
+2020-05-05,Centers For Disease,1,1
+2020-05-05,Corporation Commission,1,2
+2020-05-05,Department Of Motor Vehicles,1,3
+2020-05-05,Fairfax Health District,1,4
+2020-05-05,Falls Church,1,5
+2020-05-05,Fauquier Health,1,6
+2020-05-05,Marine Corps Base Quantico,1,7
+2020-05-05,National Guard,1,8
+2020-05-05,Peninsula Acting Health,1,9
+2020-05-05,Peninsula Health District,1,10
+2020-05-05,Prince William Health District,1,11
+2020-05-05,Rappahannock Health District,1,12
+2020-05-05,Rappahannock-Rapidan Health District,1,13
+2020-05-05,Supreme Court,1,14
+2020-05-05,Trump Administration,1,15
+2020-05-05,Virginia Department Of Health,1,16
+2020-05-05,Virginia Division Of Consolidated Laboratory Services,1,17
+2020-05-05,Virginia Employment Commission,1,18
+2020-05-05,Virginia Health,1,19
+2020-05-05,Virginia Health Department,1,20
+2020-05-05,Virginia National Guard,1,21
+2020-05-05,Workforce Development Advisor Megan Healy,1,22
+2020-05-06,Centers For Disease,1,1
+2020-05-06,Division Of Consolidated Laboratory Services,1,2
+2020-05-06,National Guard,1,3
+2020-05-06,Rite Aid,1,4
+2020-05-06,University Of Virginia,1,5
+2020-05-06,Virginia Commonwealth University,1,6
+2020-05-06,Virginia Department Of Health,1,7
+2020-05-07,Centers For Disease,1,1
+2020-05-07,Corporation Commission,1,2
+2020-05-07,Department Of Motor Vehicles,1,3
+2020-05-07,Fairfax Health District,1,4
+2020-05-07,Falls Church,1,5
+2020-05-07,Fauquier Health,1,6
+2020-05-07,Marine Corps Base Quantico,1,7
+2020-05-07,National Guard,1,8
+2020-05-07,Peninsula Acting Health,1,9
+2020-05-07,Peninsula Health District,1,10
+2020-05-07,Prince William Health District,1,11
+2020-05-07,Rappahannock Health District,1,12
+2020-05-07,Rappahannock-Rapidan Health District,1,13
+2020-05-07,Supreme Court,1,14
+2020-05-07,Trump Administration,1,15
+2020-05-07,Virginia Department Of Health,1,16
+2020-05-07,Virginia Division Of Consolidated Laboratory Services,1,17
+2020-05-07,Virginia Employment Commission,1,18
+2020-05-07,Virginia Health,1,19
+2020-05-07,Virginia Health Department,1,20
+2020-05-07,Virginia National Guard,1,21
+2020-05-07,Workforce Development Advisor Megan Healy,1,22
+2020-05-08,School Board,1,1
+2020-05-11,Appalachian State University,2,1
+2020-05-11,Jamestown High School,2,2
+2020-05-11,Lafayette High School,2,3
+2020-05-11,Savannah College Of The Arts,2,4
+2020-05-11,School Board,2,5
+2020-05-11,Students Deserve A High School Graduation,2,6
+2020-05-11,Thomas Nelson Community College,2,7
+2020-05-19,Heritage Flight,1,1
+2020-05-19,Norge Post Office,1,2
+2020-05-19,Raptor Demonstration Team,1,3
+2020-05-19,Walmart,1,4

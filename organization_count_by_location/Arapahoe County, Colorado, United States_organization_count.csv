@@ -1,0 +1,649 @@
+date,organization,count,rn
+2020-02-24,Barrick Gold Corp,1,1
+2020-02-24,Bloomberg,1,2
+2020-02-24,Caterpillar Inc,1,3
+2020-02-24,Newmont Corp,1,4
+2020-02-26,Barrick Gold Corp,1,1
+2020-02-26,Bloomberg,1,2
+2020-02-26,Caterpillar Inc,1,3
+2020-02-26,Newmont Corp,1,4
+2020-03-02,Centers For Disease,1,1
+2020-03-02,Department Of Health,1,2
+2020-03-02,House Appropriation Committee,1,3
+2020-03-02,Human Services,1,4
+2020-03-02,York State Department Of Health,1,5
+2020-03-04,Centers For Disease,1,1
+2020-03-04,Courtesy University Of Michigan,1,2
+2020-03-04,Department Of Health,1,3
+2020-03-04,House Appropriation Committee,1,4
+2020-03-04,Human Services,1,5
+2020-03-04,Metro State University Of Denver,1,6
+2020-03-04,University Of Michigan,1,7
+2020-03-04,York State Department Of Health,1,8
+2020-03-05,Bureau Of Labor Statistics,1,1
+2020-03-05,Colorado Department Of Public Health,1,2
+2020-03-05,National Jewish Health,1,3
+2020-03-05,United States,1,4
+2020-03-05,Yeshiva University,1,5
+2020-03-07,A Centura Health,1,1
+2020-03-07,Centers For Disease,1,2
+2020-03-07,Centura Health,1,3
+2020-03-07,Colorado Department Of Public Health,1,4
+2020-03-07,Pueblo Department Of Public Health,1,5
+2020-03-07,Twitter,1,6
+2020-03-07,United States,1,7
+2020-03-07,World Health Organization,1,8
+2020-03-08,Colorado Democratic Party,1,1
+2020-03-08,Mcauliffe International School,1,2
+2020-03-08,Thomas Jefferson High School,1,3
+2020-03-09,Assembly Of God,1,1
+2020-03-09,Catholic Diocese Of Pueblo,1,2
+2020-03-09,Colorado Department Of Public Health,1,3
+2020-03-09,Francis Xavier Church,1,4
+2020-03-09,Twitter,1,5
+2020-03-10,Colorado Department Of Public Health,1,1
+2020-03-10,Colorado Department Of Public Safety,1,2
+2020-03-10,Colorado Hotel,1,3
+2020-03-10,Colorado Office Of Emergency Management,1,4
+2020-03-10,Colorado Restaurant Association,1,5
+2020-03-10,Democrats In Congress,1,6
+2020-03-10,Department Of Labor,1,7
+2020-03-10,United States,1,8
+2020-03-11,Cnn,1,3
+2020-03-11,Colorado College,1,4
+2020-03-11,Colorado Department Of Health,1,5
+2020-03-11,Colorado Department Of Public Health,1,6
+2020-03-11,Counseling Center,1,7
+2020-03-11,Department Of Public Health,1,8
+2020-03-11,University Memorial Center,1,9
+2020-03-11,University Of Colorado,1,10
+2020-03-11,University Of Colorado Boulder,1,11
+2020-03-11,University Of Denver,1,12
+2020-03-11,Wardenburg Health Center,1,13
+2020-03-11,World Health Organization,1,14
+2020-03-11,World Health Organization On,1,15
+2020-03-11,Campus Middle School,2,1
+2020-03-11,Centers For Disease,2,2
+2020-03-18,Colorado Supreme Court,1,1
+2020-03-18,Echostar Satellite,1,2
+2020-03-18,Faegre Drinker Biddle Reath,1,3
+2020-03-18,World Trade Center,1,4
+2020-03-19,Centers For Disease,1,1
+2020-03-19,Colorado Crisis Services,1,2
+2020-03-19,Mental Health Colorado,1,3
+2020-03-19,Nan,1,4
+2020-03-19,Rose Medical Center,1,5
+2020-03-19,School Of Professional Psychology,1,6
+2020-03-19,University Of Denver,1,7
+2020-03-19,Yale School Of Medicine,1,8
+2020-03-20,George Washington National Forest,1,1
+2020-03-20,Group Inc,1,2
+2020-03-20,Rural School Health Education,1,3
+2020-03-20,Virtual Solutions,1,4
+2020-03-21,George Washington National Forest,1,1
+2020-03-21,Group Inc,1,2
+2020-03-21,Rural School Health Education,1,3
+2020-03-21,Virtual Solutions,1,4
+2020-03-22,Group Inc,1,1
+2020-03-22,Rural School Health Education,1,2
+2020-03-22,Virtual Solutions,1,3
+2020-03-23,Edward The Confessor Catholic Church,1,1
+2020-03-23,Julia Van Etten Rutgers University,1,2
+2020-03-23,Memorial Sloan Kettering Cancer Center,1,3
+2020-03-23,Mission Viejo,1,4
+2020-03-23,Rutgers University,1,5
+2020-03-23,York University,1,6
+2020-03-24,California Company Test Provides,1,3
+2020-03-24,Health Organization,1,4
+2020-03-24,Microbiology Laboratory At University Hospital,1,5
+2020-03-24,Reuters,1,6
+2020-03-24,Rino Support Fund,1,7
+2020-03-24,Wake Forest School Of Medicine,1,8
+2020-03-24,Nan,2,1
+2020-03-24,National Jewish Health,2,2
+2020-03-25,Amtrak,1,1
+2020-03-25,Arapahoe County Sheriff Department,1,2
+2020-03-25,Colorado Muslim Society,1,3
+2020-03-25,Colorado Muslim Society In Glendale,1,4
+2020-03-25,Earth Alliance,1,5
+2020-03-25,Facebook,1,6
+2020-03-25,First Plymouth Congregational Church,1,7
+2020-03-25,Health Department,1,8
+2020-03-25,Illinois Department Of Corrections,1,9
+2020-03-25,Illinois Holocaust Museum,1,10
+2020-03-25,Immigration Services,1,11
+2020-03-25,Interfaith Alliance Of Colorado,1,12
+2020-03-25,Supreme Court,1,13
+2020-03-25,Supreme Court Justice Ruth Bader Ginsburg,1,14
+2020-03-25,University Of Connecticut,1,15
+2020-03-25,University Of North Carolina,1,16
+2020-03-25,University Of North Carolina System,1,17
+2020-03-25,White House,1,18
+2020-03-26,Forbes Partnership,1,1
+2020-03-26,Steele St,1,2
+2020-03-27,Beverly Center,1,1
+2020-03-27,Cheesecake Factory,1,2
+2020-03-27,Cherry Creek Shopping Center,1,3
+2020-03-27,Costar Group,1,4
+2020-03-27,Rose Andom Center,1,5
+2020-03-27,Simon Property Group,1,6
+2020-03-27,Taubman Centers,1,7
+2020-03-27,United States,1,8
+2020-03-28,Beverly Center,1,9
+2020-03-28,Cheesecake Factory,1,10
+2020-03-28,Cherry Creek Shopping Center,1,11
+2020-03-28,Cnn,1,12
+2020-03-28,Colorado Northwest Surgery Center,1,13
+2020-03-28,Costar Group,1,14
+2020-03-28,Harvard Kennedy School,1,15
+2020-03-28,Rose Medical Center,1,16
+2020-03-28,Simon Property Group,1,17
+2020-03-28,Society Of Jesus,1,18
+2020-03-28,Surgery Center,1,19
+2020-03-28,Taubman Centers,1,20
+2020-03-28,Thomson Reuters Trust Principles,2,8
+2020-03-28,American Civil Liberties Union,3,2
+2020-03-28,Bureau Of Prisons,3,3
+2020-03-28,Department Of Correction,3,4
+2020-03-28,Hamilton County Justice Center,3,5
+2020-03-28,Reuters,3,6
+2020-03-28,York City Department Of Correction,3,7
+2020-03-28,United States,4,1
+2020-03-29,A Dearth Of Research On Coronavirus,1,15
+2020-03-29,Us Bureau Of Justice Statistics,1,16
+2020-03-29,Claire,2,10
+2020-03-29,Facebook,2,11
+2020-03-29,Photo Services,2,12
+2020-03-29,Pregnancy Support Center,2,13
+2020-03-29,Thomson Reuters Trust Principles,2,14
+2020-03-29,Cnn,4,8
+2020-03-29,Rose Medical Center,4,9
+2020-03-29,Hamilton County Justice Center,6,7
+2020-03-29,American Civil Liberties Union,7,1
+2020-03-29,Bureau Of Prisons,7,2
+2020-03-29,Department Of Correction,7,3
+2020-03-29,Reuters,7,4
+2020-03-29,United States,7,5
+2020-03-29,York City Department Of Correction,7,6
+2020-03-30,Rose Medical Center,1,8
+2020-03-30,Thomson Reuters Trust Principles,1,9
+2020-03-30,Us Bureau Of Justice Statistics,1,10
+2020-03-30,American Civil Liberties Union,4,1
+2020-03-30,Bureau Of Prisons,4,2
+2020-03-30,Department Of Correction,4,3
+2020-03-30,Hamilton County Justice Center,4,4
+2020-03-30,Reuters,4,5
+2020-03-30,United States,4,6
+2020-03-30,York City Department Of Correction,4,7
+2020-03-31,American Civil Liberties Union,1,1
+2020-03-31,Apartment Association Of Metro Denver,1,2
+2020-03-31,Bureau Of Prisons,1,3
+2020-03-31,Centers For Disease,1,4
+2020-03-31,Department Of Correction,1,5
+2020-03-31,Hamilton County Justice Center,1,6
+2020-03-31,Johns Hopkins University,1,7
+2020-03-31,Reuters,1,8
+2020-03-31,United States,1,9
+2020-03-31,University Of Denver,1,10
+2020-03-31,Us Bureau Of Justice Statistics,1,11
+2020-03-31,World Health Organization,1,12
+2020-03-31,York City Department Of Correction,1,13
+2020-04-01,Associated Press,1,2
+2020-04-01,Service Academy,1,3
+2020-04-01,University Of Denver,2,1
+2020-04-02,Academy District,1,1
+2020-04-02,Colorado Community Media,1,2
+2020-04-02,Colorado Freedom Of Information Coalition,1,3
+2020-04-02,District Of Columbia Council,1,4
+2020-04-02,Reporters Committee,1,5
+2020-04-02,Reporters Committee For Freedom Of The,1,6
+2020-04-02,University Of Denver,1,7
+2020-04-02,Wisconsin Department Of Health Services,1,8
+2020-04-03,Board Of Health,1,1
+2020-04-03,Centers For Disease,1,2
+2020-04-03,Civic Center,1,3
+2020-04-03,Colorado Department Of Health,1,4
+2020-04-03,Fort Logan National Cemetery,1,5
+2020-04-04,Centers For Disease,1,1
+2020-04-04,College Of Community Association Lawyers,1,2
+2020-04-04,Community Associations Institute,1,3
+2020-04-04,Rose Medical Center,1,4
+2020-04-08,Penrose Library,1,1
+2020-04-09,Emergency Medical Services,1,1
+2020-04-09,Nan,1,2
+2020-04-09,National Jewish Health,1,3
+2020-04-09,Oxford University,1,4
+2020-04-09,United States,1,5
+2020-04-09,White House Office Of Management,1,6
+2020-04-09,World Health Organization,1,7
+2020-04-10,Ace Hardware,1,4
+2020-04-10,Associated Press,1,5
+2020-04-10,Colorado Office Of Economic Development,1,6
+2020-04-10,Johnson Depression Center,1,7
+2020-04-10,Paycheck Protection Program,1,8
+2020-04-10,University Of Denver,1,9
+2020-04-10,Facebook,3,1
+2020-04-10,National Jewish Health,3,2
+2020-04-10,University Of Colorado Anschutz Medical Campus,3,3
+2020-04-11,Centennial Healthcare Center,1,5
+2020-04-11,Cherry Nursing Center,1,6
+2020-04-11,Colorado Department Of Public Health,1,7
+2020-04-11,Columbia University,1,8
+2020-04-11,Doctors Without Borders,1,9
+2020-04-11,Fedex,1,10
+2020-04-11,Gilead Sciences,1,11
+2020-04-11,Johns Hopkins University,1,12
+2020-04-11,Northwestern University Feinberg School Of Medicine,1,13
+2020-04-11,Samaritan Purse International,1,14
+2020-04-11,School Of Medicine,1,15
+2020-04-11,Senior Pastor At First Plymouth Congregational Church,1,16
+2020-04-11,Swedish Medical Center,1,17
+2020-04-11,Twitter,1,18
+2020-04-11,United States,1,19
+2020-04-11,White House,1,20
+2020-04-11,Associated Press,2,3
+2020-04-11,University Of Colorado Anschutz Medical Campus,2,4
+2020-04-11,Facebook,3,1
+2020-04-11,National Jewish Health,3,2
+2020-04-12,Facebook,1,1
+2020-04-12,National Jewish Health,1,2
+2020-04-12,University Of Colorado Anschutz Medical Campus,1,3
+2020-04-13,Associated Press,1,4
+2020-04-13,Luke Medical Center,1,5
+2020-04-13,University Of Colorado Hospital,1,6
+2020-04-13,Facebook,3,2
+2020-04-13,University Of Colorado Anschutz Medical Campus,3,3
+2020-04-13,National Jewish Health,5,1
+2020-04-14,American Vaping Association,1,19
+2020-04-14,Banner Health On,1,20
+2020-04-14,Bloomberg,1,21
+2020-04-14,Campaign For Tobacco,1,22
+2020-04-14,Centennial Healthcare Center,1,23
+2020-04-14,Centers For Disease,1,24
+2020-04-14,Colorado Department Of Public Health,1,25
+2020-04-14,Colorado Health Care Association,1,26
+2020-04-14,Colorado Medical Center,1,27
+2020-04-14,Drug Administration,1,28
+2020-04-14,Facebook,1,29
+2020-04-14,National Jewish Health,1,30
+2020-04-14,New York Times,1,31
+2020-04-14,Union Demands Testing,2,18
+2020-04-14,Aztlan Center,3,1
+2020-04-14,Cargill,3,2
+2020-04-14,Churches Hold Easter Sunday Services,3,3
+2020-04-14,Colorado Council Of Churche,3,4
+2020-04-14,Colorado Immigrant Rights Coalition,3,5
+2020-04-14,Colorado National Guard,3,6
+2020-04-14,Community United Church,3,7
+2020-04-14,Faith Bible Chapel International In Arvada,3,8
+2020-04-14,Iliff School Of Theology,3,9
+2020-04-14,Morgan,3,10
+2020-04-14,Park Hill United Methodist Church,3,11
+2020-04-14,Red Rocks Church,3,12
+2020-04-14,Relief Fund,3,13
+2020-04-14,Relief Fund Offering Grants To Community Organizations,3,14
+2020-04-14,Sunrise Service,3,15
+2020-04-14,Uc Health,3,16
+2020-04-14,United States,3,17
+2020-04-15,Aztlan Center,1,2
+2020-04-15,Banner Health On,1,3
+2020-04-15,Cargill,1,4
+2020-04-15,Churches Hold Easter Sunday Services,1,5
+2020-04-15,Colorado Council Of Churche,1,6
+2020-04-15,Colorado Immigrant Rights Coalition,1,7
+2020-04-15,Colorado Medical Center,1,8
+2020-04-15,Colorado National Guard,1,9
+2020-04-15,Community United Church,1,10
+2020-04-15,Facebook,1,11
+2020-04-15,Faith Bible Chapel International In Arvada,1,12
+2020-04-15,Iliff School Of Theology,1,13
+2020-04-15,Medicaid Services,1,14
+2020-04-15,Morgan,1,15
+2020-04-15,National Jewish Health,1,16
+2020-04-15,Park Hill United Methodist Church,1,17
+2020-04-15,Red Rocks Church,1,18
+2020-04-15,Relief Fund,1,19
+2020-04-15,Relief Fund Offering Grants To Community Organizations,1,20
+2020-04-15,Sunrise Service,1,21
+2020-04-15,Uc Health,1,22
+2020-04-15,Union Demands Testing,1,23
+2020-04-15,University Of Colorado Anschutz Medical Campus,1,24
+2020-04-15,University Of Denver,1,25
+2020-04-15,Wendy,1,26
+2020-04-15,United States,2,1
+2020-04-16,Aztlan Center,1,4
+2020-04-16,Banner Health On,1,5
+2020-04-16,Barrick Gold,1,6
+2020-04-16,Bloomberg,1,7
+2020-04-16,Cargill,1,8
+2020-04-16,Churches Hold Easter Sunday Services,1,9
+2020-04-16,Colorado Coalition For The Homeless,1,10
+2020-04-16,Colorado Council Of Churche,1,11
+2020-04-16,Colorado Immigrant Rights Coalition,1,12
+2020-04-16,Colorado Medical Center,1,13
+2020-04-16,Colorado National Guard,1,14
+2020-04-16,Community United Church,1,15
+2020-04-16,Faith Bible Chapel International In Arvada,1,16
+2020-04-16,Iliff School Of Theology,1,17
+2020-04-16,Morgan,1,18
+2020-04-16,National Western,1,19
+2020-04-16,Park Hill United Methodist Church,1,20
+2020-04-16,Red Rocks Church,1,21
+2020-04-16,Relief Fund,1,22
+2020-04-16,Relief Fund Offering Grants To Community Organizations,1,23
+2020-04-16,Sunrise Service,1,24
+2020-04-16,Uc Health,1,25
+2020-04-16,Union Demands Testing,1,26
+2020-04-16,United States,1,27
+2020-04-16,Barrick Gold Corp,2,2
+2020-04-16,Newmont Corp,2,3
+2020-04-16,Goldcorp Inc,3,1
+2020-04-17,American Family Insurance,1,2
+2020-04-17,American Medical Response,1,3
+2020-04-17,Aztlan Center,1,4
+2020-04-17,Banner Health On,1,5
+2020-04-17,Cargill,1,6
+2020-04-17,Churches Hold Easter Sunday Services,1,7
+2020-04-17,Colorado Coalition For The Homeless,1,8
+2020-04-17,Colorado Council Of Churche,1,9
+2020-04-17,Colorado Department Of Public Health,1,10
+2020-04-17,Colorado Immigrant Rights Coalition,1,11
+2020-04-17,Colorado Medical Center,1,12
+2020-04-17,Colorado National Guard,1,13
+2020-04-17,Colorado School Of Public Health,1,14
+2020-04-17,Community Health Center,1,15
+2020-04-17,Community United Church,1,16
+2020-04-17,Department Of Labor,1,17
+2020-04-17,Faith Bible Chapel International In Arvada,1,18
+2020-04-17,H R Block,1,19
+2020-04-17,Hobby Lobby,1,20
+2020-04-17,Iliff School Of Theology,1,21
+2020-04-17,Johns Hopkins University,1,22
+2020-04-17,Morgan,1,23
+2020-04-17,National Jewish,1,24
+2020-04-17,National Western,1,25
+2020-04-17,Park Hill United Methodist Church,1,26
+2020-04-17,Red Rocks Church,1,27
+2020-04-17,Relief Fund,1,28
+2020-04-17,Relief Fund Offering Grants To Community Organizations,1,29
+2020-04-17,Sunrise Service,1,30
+2020-04-17,Swedish Medical Center,1,31
+2020-04-17,Uc Health,1,32
+2020-04-17,Union Demands Testing,1,33
+2020-04-17,United States,1,34
+2020-04-17,National Jewish Health,2,1
+2020-04-18,Facebook,1,1
+2020-04-18,National Jewish Health,1,2
+2020-04-18,Rose Medical Center,1,3
+2020-04-18,University Of Colorado Anschutz Medical Campus,1,4
+2020-04-18,University Of Maryland Medical Center,1,5
+2020-04-18,University Of Maryland School Of Medicine,1,6
+2020-04-19,Libertarian Party Of Colorado,1,29
+2020-04-19,Facebook,2,27
+2020-04-19,Pew Research Center,2,28
+2020-04-19,Aztlan Center,3,1
+2020-04-19,Banner Health On,3,2
+2020-04-19,Cargill,3,3
+2020-04-19,Churches Hold Easter Sunday Services,3,4
+2020-04-19,Colorado Coalition For The Homeless,3,5
+2020-04-19,Colorado Council Of Churche,3,6
+2020-04-19,Colorado Department Of Public Health,3,7
+2020-04-19,Colorado Immigrant Rights Coalition,3,8
+2020-04-19,Colorado Medical Center,3,9
+2020-04-19,Colorado National Guard,3,10
+2020-04-19,Community United Church,3,11
+2020-04-19,Department Of Labor,3,12
+2020-04-19,Faith Bible Chapel International In Arvada,3,13
+2020-04-19,Iliff School Of Theology,3,14
+2020-04-19,Morgan,3,15
+2020-04-19,National Western,3,16
+2020-04-19,Park Hill United Methodist Church,3,17
+2020-04-19,Red Rocks Church,3,18
+2020-04-19,Relief Fund,3,19
+2020-04-19,Relief Fund Offering Grants To Community Organizations,3,20
+2020-04-19,Sunrise Service,3,21
+2020-04-19,Thunderbirds On,3,22
+2020-04-19,Uc Health,3,23
+2020-04-19,Union Demands Testing,3,24
+2020-04-19,United States,3,25
+2020-04-19,United States Air Force Academy,3,26
+2020-04-20,Bethel College,1,1
+2020-04-20,Mennonite Disaster Service,1,2
+2020-04-20,Qualitative Research,1,3
+2020-04-20,University Of Denver,1,4
+2020-04-20,University Of Kansas,1,5
+2020-04-21,Allebach Communications,1,1
+2020-04-21,Center On American Politics,1,2
+2020-04-21,Columbia University,1,3
+2020-04-21,George Washington University,1,4
+2020-04-21,Morgan State University,1,5
+2020-04-21,Nan,1,6
+2020-04-21,Planters,1,7
+2020-04-21,Taco Bell,1,8
+2020-04-21,Twitter,1,9
+2020-04-21,University Of Denver,1,10
+2020-04-21,Wendy,1,11
+2020-04-22,University Of Denver,1,1
+2020-04-23,Centennial Healthcare Center,1,1
+2020-04-23,Julia Temple Healthcare Center,1,2
+2020-04-23,Nan,1,3
+2020-04-23,Public Health,1,4
+2020-04-23,Winslow Court,1,5
+2020-04-25,Aurora Medical Center,1,1
+2020-04-25,Google,1,2
+2020-04-25,Swedish Medical Center,1,3
+2020-04-25,University Of Denver,1,4
+2020-04-26,Avery Parsons Elementary School,1,1
+2020-04-26,Centers For Disease,1,2
+2020-04-26,Emergency Operations Center,1,3
+2020-04-26,Intercultural Resource Alliance,1,4
+2020-04-26,Morris Elementary School,1,5
+2020-04-26,National Jewish Health,1,6
+2020-04-26,Office Of The Colorado State Public Defender,1,7
+2020-04-26,Paycheck Protection Program,1,8
+2020-04-26,Senate Majority Leader Mitch Mcconnell,1,9
+2020-04-26,Sheriff Office,1,10
+2020-04-26,Sheriff Office On,1,11
+2020-04-26,Sheriff Office The El Paso,1,12
+2020-04-26,Success Preparatory Learning Center,1,13
+2020-04-26,Swedish Medical Center,1,14
+2020-04-26,United States,1,15
+2020-04-26,Venture For Success Preparatory Learning Center,1,16
+2020-04-26,Youtube,1,17
+2020-04-27,Downtown Detention Center,1,1
+2020-04-27,Google,1,2
+2020-04-27,High School,1,3
+2020-04-27,National Jewish Health,1,4
+2020-04-27,University Of Denver,1,5
+2020-04-28,Sky Ridge Medical Center,1,1
+2020-04-28,University Of Colorado Boulder,1,2
+2020-04-28,University Of Denver,1,3
+2020-04-29,Burrell Behavioral Health,1,1
+2020-04-29,Centers For Disease,1,2
+2020-04-29,National Jewish Health,1,3
+2020-04-30,Aspen Center,1,2
+2020-04-30,Colorado Health Facilities Authority,1,3
+2020-04-30,Colorado State Laboratory,1,4
+2020-04-30,Committee Chairperson,1,5
+2020-04-30,Exchange Commission,1,6
+2020-04-30,Facebook,1,7
+2020-04-30,Financial Services,1,8
+2020-04-30,Fitch Australia Pty Ltd,1,9
+2020-04-30,Fitch Ratings,1,10
+2020-04-30,Fitch Ratings Ltd,1,11
+2020-04-30,Granby Medical Center,1,12
+2020-04-30,Health Systems Rating Criteria,1,13
+2020-04-30,Jefferson Health Philadelphia,1,14
+2020-04-30,National Jewish Health,1,15
+2020-04-30,New York Times,1,16
+2020-04-30,Outpatient Health,1,17
+2020-04-30,Rose Medical Center,1,18
+2020-04-30,Sisters Of Charity Of Leavenworth Health System,1,19
+2020-04-30,Statistical Rating Organization,1,20
+2020-04-30,Thomson Reuters Trust Principles,1,21
+2020-04-30,Women Health,1,22
+2020-04-30,World Health Organization,1,23
+2020-04-30,United States,2,1
+2020-05-01,Montview High School,1,7
+2020-05-01,Montview Middle School,1,8
+2020-05-01,Nick Ut Associated,1,9
+2020-05-01,Drug Administration,2,1
+2020-05-01,Sinai Medical Center,2,2
+2020-05-01,Technology Program,2,3
+2020-05-01,Twitter,2,4
+2020-05-01,Wayne State University,2,5
+2020-05-01,Youtube,2,6
+2020-05-03,Budget Committee,1,1
+2020-05-03,Colorado Supreme Court,1,2
+2020-05-03,Division Of Insurance,1,3
+2020-05-03,Employer Services In Englewood,1,4
+2020-05-03,National Federation Of Independent Business,1,5
+2020-05-04,Budget Committee,1,1
+2020-05-04,Colorado Supreme Court,1,2
+2020-05-04,Division Of Insurance,1,3
+2020-05-04,Employer Services In Englewood,1,4
+2020-05-04,National Federation Of Independent Business,1,5
+2020-05-05,Nan,1,8
+2020-05-05,Technology Blvd,1,9
+2020-05-05,Television Critics Association,1,10
+2020-05-05,Television Journalists Association,1,11
+2020-05-05,Economic Development,2,6
+2020-05-05,Office Of The Vice,2,7
+2020-05-05,Center On American Politics,4,2
+2020-05-05,College Of Letters,4,3
+2020-05-05,Department Of Political Science,4,4
+2020-05-05,Montana State University,4,5
+2020-05-05,University Of Denver,5,1
+2020-05-06,Aurora Police Department,1,8
+2020-05-06,Express,1,9
+2020-05-06,Health Department,1,10
+2020-05-06,News Service,1,11
+2020-05-06,Center On American Politics,2,1
+2020-05-06,College Of Letters,2,2
+2020-05-06,Department Of Political Science,2,3
+2020-05-06,Economic Development,2,4
+2020-05-06,Montana State University,2,5
+2020-05-06,Office Of The Vice,2,6
+2020-05-06,University Of Denver,2,7
+2020-05-07,Center On American Politics,1,1
+2020-05-07,College Of Letters,1,2
+2020-05-07,Department Of Political Science,1,3
+2020-05-07,Economic Development,1,4
+2020-05-07,Montana State University,1,5
+2020-05-07,News Service,1,6
+2020-05-07,Office Of The Vice,1,7
+2020-05-07,University Of Denver,1,8
+2020-05-08,Mountain Va Medical Center,1,11
+2020-05-08,United States,2,10
+2020-05-08,Australia Peninsula Energy,4,1
+2020-05-08,Columbia Business School,4,2
+2020-05-08,Energy Fuels,4,3
+2020-05-08,Energy Fuels Inc,4,4
+2020-05-08,Exchange Commission,4,5
+2020-05-08,Institute On Taxation,4,6
+2020-05-08,Paycheck Protection Program,4,7
+2020-05-08,Strata Energy,4,8
+2020-05-08,Youtube,4,9
+2020-05-09,Australia Peninsula Energy,1,1
+2020-05-09,Columbia Business School,1,2
+2020-05-09,Energy Fuels,1,3
+2020-05-09,Energy Fuels Inc,1,4
+2020-05-09,Exchange Commission,1,5
+2020-05-09,Google,1,6
+2020-05-09,Institute On Taxation,1,7
+2020-05-09,Medianews Group,1,8
+2020-05-09,Metro State University Of Denver,1,9
+2020-05-09,Paycheck Protection Program,1,10
+2020-05-09,School Highlands Ranch,1,11
+2020-05-09,Strata Energy,1,12
+2020-05-09,Youtube,1,13
+2020-05-10,Department Of Health,1,10
+2020-05-10,Department Of Public Health,1,11
+2020-05-10,Diocese Of Colorado,1,12
+2020-05-10,Maricopa Banner Health In Peoria,1,13
+2020-05-10,Mass At Holy Ghost Church On,1,14
+2020-05-10,Medianews Group,1,15
+2020-05-10,Redirect Health In Glendale,1,16
+2020-05-10,School Highlands Ranch,1,17
+2020-05-10,National News,2,9
+2020-05-10,A Senate,4,2
+2020-05-10,Associated Press,4,3
+2020-05-10,Cnn,4,4
+2020-05-10,Health Ministry,4,5
+2020-05-10,National Institute Of Allergy,4,6
+2020-05-10,White House,4,7
+2020-05-10,World Health Organization,4,8
+2020-05-10,Holy Ghost Church,5,1
+2020-05-11,Colorado State University,1,15
+2020-05-11,Diocese Of Colorado,1,16
+2020-05-11,High School Valedictorian Isla Anderson,1,17
+2020-05-11,Jefferson High School,1,18
+2020-05-11,Mass At Holy Ghost Church On,1,19
+2020-05-11,Nan,2,13
+2020-05-11,National News,2,14
+2020-05-11,A Senate,5,11
+2020-05-11,National Institute Of Allergy,5,12
+2020-05-11,Alaska Airlines,8,7
+2020-05-11,Los Angeles International Airport,8,8
+2020-05-11,Philadelphia International Airport,8,9
+2020-05-11,Transportation Security Administration,8,10
+2020-05-11,Associated Press,10,2
+2020-05-11,Cnn,10,3
+2020-05-11,Health Ministry,10,4
+2020-05-11,White House,10,5
+2020-05-11,World Health Organization,10,6
+2020-05-11,Holy Ghost Church,11,1
+2020-05-13,Center On American Politics,1,1
+2020-05-13,College Of Letters,1,2
+2020-05-13,Department Of Political Science,1,3
+2020-05-13,Economic Development,1,4
+2020-05-13,Montana State University,1,5
+2020-05-13,Morgan,1,6
+2020-05-13,Mountain National Park,1,7
+2020-05-13,News Service,1,8
+2020-05-13,Office Of The Vice,1,9
+2020-05-13,University Of Denver,1,10
+2020-05-14,A Senate,1,1
+2020-05-14,Alaska Airlines,1,2
+2020-05-14,Associated Press,1,3
+2020-05-14,Cnn,1,4
+2020-05-14,Health Ministry,1,5
+2020-05-14,Holy Ghost Church,1,6
+2020-05-14,Los Angeles International Airport,1,7
+2020-05-14,Nan,1,8
+2020-05-14,National Institute Of Allergy,1,9
+2020-05-14,Philadelphia International Airport,1,10
+2020-05-14,Transportation Security Administration,1,11
+2020-05-14,University Of Denver,1,12
+2020-05-14,White House,1,13
+2020-05-14,World Health Organization,1,14
+2020-05-15,United States,1,1
+2020-05-15,University Of Denver,1,2
+2020-05-15,York Times Company,1,3
+2020-05-16,College Of Business,1,1
+2020-05-16,Colorado State University,1,2
+2020-05-16,Department Of Corrections,1,3
+2020-05-16,Sturm College Of Law,1,4
+2020-05-16,University Of Denver,1,5
+2020-05-16,University Of Florida,1,6
+2020-05-17,Colorado Department Of Public Health,1,1
+2020-05-19,City Council,1,1
+2020-05-19,Colfax Community,1,2
+2020-05-19,Colfax Neighborhood Association,1,3
+2020-05-19,Colorado State University,1,4
+2020-05-19,Congress Park,1,5
+2020-05-19,Costco,1,6
+2020-05-19,Kroger,1,7
+2020-05-19,Neighborhood Planning Initiative,1,8
+2020-05-19,Ralphs,1,9
+2020-05-19,Rose Medical Center,1,10
+2020-05-19,Stabilization Team,1,11
+2020-05-19,University Of Colorado,1,12
+2020-05-19,University Of Denver,1,13
+2020-05-19,Workers International Union,1,14
+2020-05-22,Nan,1,1
+2020-05-23,Centers Of Excellence,1,1
+2020-05-23,Cu School Of Medicine,1,2
+2020-05-23,National Institute Of Allergy,1,3
+2020-05-23,National Jewish Health,1,4
+2020-05-23,Washington University School Of Medicine,1,5

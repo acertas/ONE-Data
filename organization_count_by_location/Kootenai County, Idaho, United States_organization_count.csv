@@ -1,0 +1,703 @@
+date,organization,count,rn
+2020-02-27,Best Western,1,2
+2020-02-27,Centers For Disease,1,3
+2020-02-27,Idaho Department Of Health,1,4
+2020-02-27,Kootenai Health,1,5
+2020-02-27,Panhandle Health,1,6
+2020-02-27,World Health Organization,1,7
+2020-02-27,Panhandle Health District,2,1
+2020-02-29,Idaho Housing Coalition,1,1
+2020-02-29,Spokane County Medical Examiner Office,1,2
+2020-03-06,Albertsons,1,1
+2020-03-06,Intermountain Division Kathy Holland,1,2
+2020-03-06,Office On,1,3
+2020-03-06,Safeway,1,4
+2020-03-06,Veterans Affairs,1,5
+2020-03-06,Veterans Affairs Medical Center,1,6
+2020-03-06,Walmart National Media Relations,1,7
+2020-03-14,Central Public Health District,4,7
+2020-03-14,Gritman Medical Center,4,8
+2020-03-14,College Of Eastern Idaho,8,1
+2020-03-14,College Of Southern Idaho,8,2
+2020-03-14,College Of Western Idaho,8,3
+2020-03-14,Idaho College,8,4
+2020-03-14,Idaho State University,8,5
+2020-03-14,University Of Idaho,8,6
+2020-03-15,Central District Health Department,2,8
+2020-03-15,Gritman Medical Center,2,9
+2020-03-15,Central Public Health District,4,1
+2020-03-15,College Of Eastern Idaho,4,2
+2020-03-15,College Of Southern Idaho,4,3
+2020-03-15,College Of Western Idaho,4,4
+2020-03-15,Idaho College,4,5
+2020-03-15,Idaho State University,4,6
+2020-03-15,University Of Idaho,4,7
+2020-03-18,Whitman,1,1
+2020-03-19,Associated Press,1,1
+2020-03-19,Flights To Salt Lake International Airport,1,2
+2020-03-19,Idaho Bureau Of Laboratories,1,3
+2020-03-19,Idaho Department Of Health,1,4
+2020-03-19,Kootenai Health,1,5
+2020-03-19,Laboratory Operations,1,6
+2020-03-19,Nan,1,7
+2020-03-19,Panhandle Health,1,8
+2020-03-19,Panhandle Health District,1,9
+2020-03-19,Physician Executive At Kootenai Health Karen Cabell,1,10
+2020-03-19,United States,1,11
+2020-03-19,Utah Division Of Emergency Management,1,12
+2020-03-20,Associated Press,1,2
+2020-03-20,Catholic Shrine Church,1,3
+2020-03-20,Centers For Disease,1,4
+2020-03-20,Christ The King Church,1,5
+2020-03-20,Department Of Health,1,6
+2020-03-20,Diocese Of Orange,1,7
+2020-03-20,Girl Scouts,1,8
+2020-03-20,Lewis-Clark Wildlife Club Public Shooting,1,9
+2020-03-20,National Guard,1,10
+2020-03-20,Neill Public Library At Pullman,1,11
+2020-03-20,Pastor Of Blessed Virgin Mary Church,1,12
+2020-03-20,Prairie River Library,1,13
+2020-03-20,Public Health,1,14
+2020-03-20,Saint Francis Catholic Church,1,15
+2020-03-20,Service Academy Days,1,16
+2020-03-20,United States,1,17
+2020-03-20,Visitor Center,1,18
+2020-03-20,Whitman,1,19
+2020-03-20,World Health Organization,1,20
+2020-03-20,Idaho Department Of Health,2,1
+2020-03-22,Central District Health Department,1,1
+2020-03-22,Central Public Health District,1,2
+2020-03-22,College Of Eastern Idaho,1,3
+2020-03-22,College Of Southern Idaho,1,4
+2020-03-22,College Of Western Idaho,1,5
+2020-03-22,Idaho College,1,6
+2020-03-22,Idaho State University,1,7
+2020-03-22,University Of Idaho,1,8
+2020-03-23,Central District Health Department,1,1
+2020-03-23,Central Public Health District,1,2
+2020-03-23,College Of Eastern Idaho,1,3
+2020-03-23,College Of Southern Idaho,1,4
+2020-03-23,College Of Western Idaho,1,5
+2020-03-23,Idaho College,1,6
+2020-03-23,Idaho State University,1,7
+2020-03-23,University Of Idaho,1,8
+2020-03-25,Idaho Department Of Lands,1,1
+2020-03-25,Nan,1,2
+2020-03-25,Parks Department,1,3
+2020-03-26,Community Action Partnership Food Bank,1,1
+2020-03-26,Department Of Homeland Security,1,2
+2020-03-26,Sheriff Office,1,3
+2020-03-29,Centers For Disease,1,1
+2020-03-29,Central District Health,1,2
+2020-03-29,Central District Health Department,1,3
+2020-03-29,Central Health District,1,4
+2020-03-29,Central Public Health,1,5
+2020-03-29,Central Public Health District,1,6
+2020-03-29,Central Public Health District Confirms First Case,1,7
+2020-03-29,District Health,1,8
+2020-03-29,Eastern Idaho Public Health,1,9
+2020-03-29,Eastern Idaho Public Health District,1,10
+2020-03-29,Idaho Bureau Of Laboratories,1,11
+2020-03-29,Idaho Department Of Health,1,12
+2020-03-29,Idaho Health Officials Confirm First Coronavirus Deaths,1,13
+2020-03-29,Idaho North Central Health District,1,14
+2020-03-29,Idaho North Central Public Health District,1,15
+2020-03-29,Idaho State University,1,16
+2020-03-29,Kootenai Health,1,17
+2020-03-29,Panhandle Health District,1,18
+2020-03-29,Southeastern Idaho Public Health,1,19
+2020-03-29,Teton Valley Health,1,20
+2020-03-29,Transportation Security Administration,1,21
+2020-03-30,Altar Church,1,1
+2020-03-30,Associated Press,1,2
+2020-03-30,Centers For Disease,1,3
+2020-03-30,Central District Health,1,4
+2020-03-30,Central District Health Department,1,5
+2020-03-30,Central Health District,1,6
+2020-03-30,Central Public Health,1,7
+2020-03-30,Central Public Health District,1,8
+2020-03-30,Central Public Health District Confirms First Case,1,9
+2020-03-30,Dear Altar Church,1,10
+2020-03-30,District Health,1,11
+2020-03-30,Eastern Idaho Public Health,1,12
+2020-03-30,Eastern Idaho Public Health District,1,13
+2020-03-30,Idaho Bureau Of Laboratories,1,14
+2020-03-30,Idaho Department Of Health,1,15
+2020-03-30,Idaho Health Officials Confirm First Coronavirus Deaths,1,16
+2020-03-30,Idaho North Central Health District,1,17
+2020-03-30,Idaho North Central Public Health District,1,18
+2020-03-30,Idaho State University,1,19
+2020-03-30,Johns Hopkins University,1,20
+2020-03-30,Kootenai Health,1,21
+2020-03-30,Nan,1,22
+2020-03-30,Panhandle Health District,1,23
+2020-03-30,Southeastern Idaho Public Health,1,24
+2020-03-30,Teton Valley Health,1,25
+2020-03-30,Transportation Security Administration,1,26
+2020-03-31,Associated Press,1,3
+2020-03-31,Centers For Disease,1,4
+2020-03-31,Central District Health,1,5
+2020-03-31,Central District Health Department,1,6
+2020-03-31,Central Health District,1,7
+2020-03-31,Central Public Health,1,8
+2020-03-31,Central Public Health District,1,9
+2020-03-31,Central Public Health District Confirms First Case,1,10
+2020-03-31,District Health,1,11
+2020-03-31,Eastern Idaho Public Health,1,12
+2020-03-31,Eastern Idaho Public Health District,1,13
+2020-03-31,Idaho Bureau Of Laboratories,1,14
+2020-03-31,Idaho Department Of Health,1,15
+2020-03-31,Idaho Health Officials Confirm First Coronavirus Deaths,1,16
+2020-03-31,Idaho North Central Health District,1,17
+2020-03-31,Idaho North Central Public Health District,1,18
+2020-03-31,Idaho State University,1,19
+2020-03-31,Johns Hopkins University,1,20
+2020-03-31,Kootenai Health,1,21
+2020-03-31,Nan,1,22
+2020-03-31,Panhandle Health,1,23
+2020-03-31,Panhandle Health District,1,24
+2020-03-31,Southeastern Idaho Public Health,1,25
+2020-03-31,Teton Valley Health,1,26
+2020-03-31,Transportation Security Administration,1,27
+2020-03-31,Altar Church,2,1
+2020-03-31,Youtube,2,2
+2020-04-01,Centers For Disease,1,1
+2020-04-01,Central District Health,1,2
+2020-04-01,Central District Health Department,1,3
+2020-04-01,Central Health District,1,4
+2020-04-01,Central Public Health,1,5
+2020-04-01,Central Public Health District,1,6
+2020-04-01,Central Public Health District Confirms First Case,1,7
+2020-04-01,District Health,1,8
+2020-04-01,Eastern Idaho Public Health,1,9
+2020-04-01,Eastern Idaho Public Health District,1,10
+2020-04-01,Idaho Bureau Of Laboratories,1,11
+2020-04-01,Idaho Department Of Health,1,12
+2020-04-01,Idaho Health Officials Confirm First Coronavirus Deaths,1,13
+2020-04-01,Idaho North Central Health District,1,14
+2020-04-01,Idaho North Central Public Health District,1,15
+2020-04-01,Idaho State University,1,16
+2020-04-01,Kootenai Health,1,17
+2020-04-01,Panhandle Health District,1,18
+2020-04-01,Southeastern Idaho Public Health,1,19
+2020-04-01,Teton Valley Health,1,20
+2020-04-01,Transportation Security Administration,1,21
+2020-04-02,Centers For Disease,1,1
+2020-04-02,Central District Health,1,2
+2020-04-02,Central District Health Department,1,3
+2020-04-02,Central Health District,1,4
+2020-04-02,Central Public Health,1,5
+2020-04-02,Central Public Health District,1,6
+2020-04-02,Central Public Health District Confirms First Case,1,7
+2020-04-02,District Health,1,8
+2020-04-02,Eastern Idaho Public Health,1,9
+2020-04-02,Eastern Idaho Public Health District,1,10
+2020-04-02,Idaho Bureau Of Laboratories,1,11
+2020-04-02,Idaho Department Of Health,1,12
+2020-04-02,Idaho Health Officials Confirm First Coronavirus Deaths,1,13
+2020-04-02,Idaho North Central Health District,1,14
+2020-04-02,Idaho North Central Public Health District,1,15
+2020-04-02,Idaho State University,1,16
+2020-04-02,Kootenai Health,1,17
+2020-04-02,Panhandle Health District,1,18
+2020-04-02,Southeastern Idaho Public Health,1,19
+2020-04-02,Teton Valley Health,1,20
+2020-04-02,Transportation Security Administration,1,21
+2020-04-03,Altar Church,1,1
+2020-04-03,Centers For Disease,1,2
+2020-04-03,Central District Health,1,3
+2020-04-03,Central District Health Department,1,4
+2020-04-03,Central Health District,1,5
+2020-04-03,Central Public Health,1,6
+2020-04-03,Central Public Health District,1,7
+2020-04-03,Central Public Health District Confirms First Case,1,8
+2020-04-03,District Health,1,9
+2020-04-03,Eastern Idaho Public Health,1,10
+2020-04-03,Eastern Idaho Public Health District,1,11
+2020-04-03,Facebook,1,12
+2020-04-03,Idaho Bureau Of Laboratories,1,13
+2020-04-03,Idaho Department Of Health,1,14
+2020-04-03,Idaho Health Officials Confirm First Coronavirus Deaths,1,15
+2020-04-03,Idaho North Central Health District,1,16
+2020-04-03,Idaho North Central Public Health District,1,17
+2020-04-03,Idaho State University,1,18
+2020-04-03,Kootenai Health,1,19
+2020-04-03,Panhandle Health,1,20
+2020-04-03,Panhandle Health District,1,21
+2020-04-03,Southeastern Idaho Public Health,1,22
+2020-04-03,Teton Valley Health,1,23
+2020-04-03,Transportation Security Administration,1,24
+2020-04-03,Youtube,1,25
+2020-04-04,Centers For Disease,1,1
+2020-04-04,Central District Health,1,2
+2020-04-04,Central District Health Department,1,3
+2020-04-04,Central Health District,1,4
+2020-04-04,Central Public Health,1,5
+2020-04-04,Central Public Health District,1,6
+2020-04-04,Central Public Health District Confirms First Case,1,7
+2020-04-04,District Health,1,8
+2020-04-04,Eastern Idaho Public Health,1,9
+2020-04-04,Eastern Idaho Public Health District,1,10
+2020-04-04,Idaho Bureau Of Laboratories,1,11
+2020-04-04,Idaho Department Of Health,1,12
+2020-04-04,Idaho Health Officials Confirm First Coronavirus Deaths,1,13
+2020-04-04,Idaho North Central Health District,1,14
+2020-04-04,Idaho North Central Public Health District,1,15
+2020-04-04,Idaho State University,1,16
+2020-04-04,Kootenai Health,1,17
+2020-04-04,Panhandle Health District,1,18
+2020-04-04,Southeastern Idaho Public Health,1,19
+2020-04-04,Teton Valley Health,1,20
+2020-04-04,Transportation Security Administration,1,21
+2020-04-06,Coldwell Banker Schneidmiller Realty,1,1
+2020-04-07,Altar Church,1,1
+2020-04-07,Associated Press,1,2
+2020-04-07,Centers For Disease,1,3
+2020-04-07,Central District Health,1,4
+2020-04-07,Central District Health Department,1,5
+2020-04-07,Central Health District,1,6
+2020-04-07,Central Public Health,1,7
+2020-04-07,Central Public Health District,1,8
+2020-04-07,Central Public Health District Confirms First Case,1,9
+2020-04-07,Department Of Health,1,10
+2020-04-07,District Health,1,11
+2020-04-07,Eastern Idaho Public Health,1,12
+2020-04-07,Eastern Idaho Public Health District,1,13
+2020-04-07,Idaho Bureau Of Laboratories,1,14
+2020-04-07,Idaho Department Of Health,1,15
+2020-04-07,Idaho Health Officials Confirm First Coronavirus Deaths,1,16
+2020-04-07,Idaho North Central Health District,1,17
+2020-04-07,Idaho North Central Public Health District,1,18
+2020-04-07,Idaho Public Television,1,19
+2020-04-07,Idaho State University,1,20
+2020-04-07,Johns Hopkins University,1,21
+2020-04-07,Kootenai Health,1,22
+2020-04-07,Kootenai Health In Coeur,1,23
+2020-04-07,Oregon Health Authority,1,24
+2020-04-07,Panhandle Health District,1,25
+2020-04-07,Public Health,1,26
+2020-04-07,Southeastern Idaho Public Health,1,27
+2020-04-07,Teton Valley Health,1,28
+2020-04-07,Transportation Security Administration,1,29
+2020-04-07,University Of Washington,1,30
+2020-04-07,Whitman,1,31
+2020-04-07,Youtube,1,32
+2020-04-08,Centers For Disease,1,1
+2020-04-08,Central District Health,1,2
+2020-04-08,Central District Health Department,1,3
+2020-04-08,Central Health District,1,4
+2020-04-08,Central Public Health,1,5
+2020-04-08,Central Public Health District,1,6
+2020-04-08,Central Public Health District Confirms First Case,1,7
+2020-04-08,Department Of Health,1,8
+2020-04-08,District Health,1,9
+2020-04-08,Eastern Idaho Public Health,1,10
+2020-04-08,Eastern Idaho Public Health District,1,11
+2020-04-08,Idaho Bureau Of Laboratories,1,12
+2020-04-08,Idaho Department Of Health,1,13
+2020-04-08,Idaho Health Officials Confirm First Coronavirus Deaths,1,14
+2020-04-08,Idaho North Central Health District,1,15
+2020-04-08,Idaho North Central Public Health District,1,16
+2020-04-08,Idaho Public Television,1,17
+2020-04-08,Idaho State University,1,18
+2020-04-08,Kootenai Health,1,19
+2020-04-08,Oregon Health Authority,1,20
+2020-04-08,Panhandle Health District,1,21
+2020-04-08,Paycheck Protection Program,1,22
+2020-04-08,Public Health,1,23
+2020-04-08,Southeastern Idaho Public Health,1,24
+2020-04-08,Teton Valley Health,1,25
+2020-04-08,Transportation Security Administration,1,26
+2020-04-08,University Of Washington,1,27
+2020-04-08,Whitman,1,28
+2020-04-09,Centers For Disease,1,1
+2020-04-09,Central District Health,1,2
+2020-04-09,Central District Health Department,1,3
+2020-04-09,Central District Public Health,1,4
+2020-04-09,Central Health District,1,5
+2020-04-09,Central Public Health,1,6
+2020-04-09,Central Public Health District,1,7
+2020-04-09,Central Public Health District Confirms First Case,1,8
+2020-04-09,Department Of Health,1,9
+2020-04-09,District Health,1,10
+2020-04-09,Eastern Idaho Public Health,1,11
+2020-04-09,Eastern Idaho Public Health District,1,12
+2020-04-09,Health Care Workers Make Up Most,1,13
+2020-04-09,Idaho Bureau Of Laboratories,1,14
+2020-04-09,Idaho Department Of Health,1,15
+2020-04-09,Idaho Health Officials Confirm First Coronavirus Deaths,1,16
+2020-04-09,Idaho North Central Health District,1,17
+2020-04-09,Idaho North Central Public Health District,1,18
+2020-04-09,Idaho Public Television,1,19
+2020-04-09,Idaho State University,1,20
+2020-04-09,Kootenai Health,1,21
+2020-04-09,Oregon Health Authority,1,22
+2020-04-09,Panhandle Health District,1,23
+2020-04-09,Southeastern Idaho Public Health,1,24
+2020-04-09,Teton Valley Health,1,25
+2020-04-09,Transportation Security Administration,1,26
+2020-04-09,University Of Washington,1,27
+2020-04-10,Centers For Disease,1,1
+2020-04-10,Central District Health,1,2
+2020-04-10,Central District Health Department,1,3
+2020-04-10,Central District Public Health,1,4
+2020-04-10,Central Health District,1,5
+2020-04-10,Central Public Health,1,6
+2020-04-10,Central Public Health District,1,7
+2020-04-10,Central Public Health District Confirms First Case,1,8
+2020-04-10,Department Of Health,1,9
+2020-04-10,District Health,1,10
+2020-04-10,Eastern Idaho Public Health,1,11
+2020-04-10,Eastern Idaho Public Health District,1,12
+2020-04-10,Health Care Workers Make Up Most,1,13
+2020-04-10,Idaho Bureau Of Laboratories,1,14
+2020-04-10,Idaho Department Of Health,1,15
+2020-04-10,Idaho Health Officials Confirm First Coronavirus Deaths,1,16
+2020-04-10,Idaho North Central Health District,1,17
+2020-04-10,Idaho North Central Public Health District,1,18
+2020-04-10,Idaho Public Television,1,19
+2020-04-10,Idaho State University,1,20
+2020-04-10,Kootenai Health,1,21
+2020-04-10,Oregon Health Authority,1,22
+2020-04-10,Panhandle Health District,1,23
+2020-04-10,Southeastern Idaho Public Health,1,24
+2020-04-10,Teton Valley Health,1,25
+2020-04-10,Transportation Security Administration,1,26
+2020-04-10,University Of Washington,1,27
+2020-04-11,Associated Press,1,2
+2020-04-11,Centers For Disease,1,3
+2020-04-11,Central District Health,1,4
+2020-04-11,Central District Health Department,1,5
+2020-04-11,Central District Public Health,1,6
+2020-04-11,Central Health District,1,7
+2020-04-11,Central Public Health,1,8
+2020-04-11,Central Public Health District,1,9
+2020-04-11,Central Public Health District Confirms First Case,1,10
+2020-04-11,District Health,1,11
+2020-04-11,Eastern Idaho Public Health,1,12
+2020-04-11,Eastern Idaho Public Health District,1,13
+2020-04-11,Health Care Workers Make Up Most,1,14
+2020-04-11,Idaho Bureau Of Laboratories,1,15
+2020-04-11,Idaho Department Of Health,1,16
+2020-04-11,Idaho Health Officials Confirm First Coronavirus Deaths,1,17
+2020-04-11,Idaho North Central Health District,1,18
+2020-04-11,Idaho North Central Public Health District,1,19
+2020-04-11,Idaho Public Television,1,20
+2020-04-11,Idaho State University,1,21
+2020-04-11,Kootenai Health,1,22
+2020-04-11,Malheur National Wildlife Refuge,1,23
+2020-04-11,Oregon Health Authority,1,24
+2020-04-11,Panhandle Health District,1,25
+2020-04-11,Southeastern Idaho Public Health,1,26
+2020-04-11,Spokane Police,1,27
+2020-04-11,Spokane Police Department,1,28
+2020-04-11,Teton Valley Health,1,29
+2020-04-11,Transportation Security Administration,1,30
+2020-04-11,University Of Washington,1,31
+2020-04-11,Verizon,1,32
+2020-04-11,Department Of Health,2,1
+2020-04-13,Centers For Disease,1,22
+2020-04-13,Central Public Health District Confirms First Case,1,23
+2020-04-13,Health Care Workers Make Up Most,1,24
+2020-04-13,Idaho Health Officials Confirm First Coronavirus Deaths,1,25
+2020-04-13,Idaho State University,1,26
+2020-04-13,Teton Valley Health,1,27
+2020-04-13,Central District Health,2,1
+2020-04-13,Central District Health Department,2,2
+2020-04-13,Central District Public Health,2,3
+2020-04-13,Central Health District,2,4
+2020-04-13,Central Public Health,2,5
+2020-04-13,Central Public Health District,2,6
+2020-04-13,Department Of Health,2,7
+2020-04-13,District Health,2,8
+2020-04-13,Eastern Idaho Public Health,2,9
+2020-04-13,Eastern Idaho Public Health District,2,10
+2020-04-13,Idaho Bureau Of Laboratories,2,11
+2020-04-13,Idaho Department Of Health,2,12
+2020-04-13,Idaho North Central Health District,2,13
+2020-04-13,Idaho North Central Public Health District,2,14
+2020-04-13,Idaho Public Television,2,15
+2020-04-13,Kootenai Health,2,16
+2020-04-13,Oregon Health Authority,2,17
+2020-04-13,Panhandle Health District,2,18
+2020-04-13,Southeastern Idaho Public Health,2,19
+2020-04-13,Transportation Security Administration,2,20
+2020-04-13,University Of Washington,2,21
+2020-04-15,Central District Health,1,1
+2020-04-15,Central District Health Department,1,2
+2020-04-15,Central District Public Health,1,3
+2020-04-15,Central Health District,1,4
+2020-04-15,Central Public Health,1,5
+2020-04-15,Central Public Health District,1,6
+2020-04-15,Department Of Health,1,7
+2020-04-15,District Health,1,8
+2020-04-15,Eastern Idaho Public Health,1,9
+2020-04-15,Eastern Idaho Public Health District,1,10
+2020-04-15,Idaho Bureau Of Laboratories,1,11
+2020-04-15,Idaho Department Of Health,1,12
+2020-04-15,Idaho North Central Health District,1,13
+2020-04-15,Idaho North Central Public Health District,1,14
+2020-04-15,Idaho Public Television,1,15
+2020-04-15,Kootenai Health,1,16
+2020-04-15,Oregon Health Authority,1,17
+2020-04-15,Panhandle Health District,1,18
+2020-04-15,Southeastern Idaho Public Health,1,19
+2020-04-15,Transportation Security Administration,1,20
+2020-04-15,University Of Washington,1,21
+2020-04-16,Central District Health,1,1
+2020-04-16,Central District Health Department,1,2
+2020-04-16,Central District Public Health,1,3
+2020-04-16,Central Health District,1,4
+2020-04-16,Central Public Health,1,5
+2020-04-16,Central Public Health District,1,6
+2020-04-16,Department Of Health,1,7
+2020-04-16,District Health,1,8
+2020-04-16,Eastern Idaho Public Health,1,9
+2020-04-16,Eastern Idaho Public Health District,1,10
+2020-04-16,Idaho Bureau Of Laboratories,1,11
+2020-04-16,Idaho Department Of Health,1,12
+2020-04-16,Idaho North Central Health District,1,13
+2020-04-16,Idaho North Central Public Health District,1,14
+2020-04-16,Idaho Public Television,1,15
+2020-04-16,Kootenai Health,1,16
+2020-04-16,Oregon Health Authority,1,17
+2020-04-16,Panhandle Health District,1,18
+2020-04-16,Southeastern Idaho Public Health,1,19
+2020-04-16,Transportation Security Administration,1,20
+2020-04-16,University Of Washington,1,21
+2020-04-17,Centers For Disease,1,1
+2020-04-17,Central District Health,1,2
+2020-04-17,Central District Health Department,1,3
+2020-04-17,Central District Public Health,1,4
+2020-04-17,Central Health District,1,5
+2020-04-17,Central Public Health,1,6
+2020-04-17,Central Public Health District,1,7
+2020-04-17,Central Public Health District Confirms First Case,1,8
+2020-04-17,Department Of Health,1,9
+2020-04-17,District Health,1,10
+2020-04-17,Eastern Idaho Public Health,1,11
+2020-04-17,Eastern Idaho Public Health District,1,12
+2020-04-17,Facebook,1,13
+2020-04-17,Health Care Workers Make Up Most,1,14
+2020-04-17,Idaho Bureau Of Laboratories,1,15
+2020-04-17,Idaho Department Of Health,1,16
+2020-04-17,Idaho Health Officials Confirm First Coronavirus Deaths,1,17
+2020-04-17,Idaho North Central Health District,1,18
+2020-04-17,Idaho North Central Public Health District,1,19
+2020-04-17,Idaho Public Television,1,20
+2020-04-17,Idaho State University,1,21
+2020-04-17,Kootenai Health,1,22
+2020-04-17,Oregon Health Authority,1,23
+2020-04-17,Panhandle Health District,1,24
+2020-04-17,Southeastern Idaho Public Health,1,25
+2020-04-17,Teton Valley Health,1,26
+2020-04-17,Transportation Security Administration,1,27
+2020-04-17,University Of Washington,1,28
+2020-04-18,Nan,1,1
+2020-04-18,Sheriff Office,1,2
+2020-04-19,Facebook,1,1
+2020-04-19,Nan,1,2
+2020-04-20,Altar Church,1,3
+2020-04-20,Elko Daily Free,1,4
+2020-04-20,Johns Hopkins University,1,5
+2020-04-20,Panhandle Health District,1,6
+2020-04-20,Thomson,1,7
+2020-04-20,Idaho Freedom Foundation,2,1
+2020-04-20,United States,2,2
+2020-04-21,Appropriations Committee,1,1
+2020-04-21,Bingham Mechanical Inc,1,2
+2020-04-21,Centers For Disease,1,3
+2020-04-21,Eastern Idaho Public Health,1,4
+2020-04-21,Facebook,1,5
+2020-04-21,House Agricultural Affairs,1,6
+2020-04-21,House State Affairs Committee,1,7
+2020-04-21,Idaho Community Hospital,1,8
+2020-04-21,Idaho Freedom Foundation,1,9
+2020-04-21,Idaho Freedom Foundation Freedom Index,1,10
+2020-04-21,Idaho Legislature,1,11
+2020-04-21,Idaho National Lab,1,12
+2020-04-21,Idaho Senate,1,13
+2020-04-21,Intermountain Paper Company,1,14
+2020-04-21,Kooteani County Republican Central Committee,1,15
+2020-04-21,Nan,1,16
+2020-04-21,Republican Party,1,17
+2020-04-21,Rigby,1,18
+2020-04-21,Senate State Affairs Committee,1,19
+2020-04-21,Water Conservation Commission,1,20
+2020-04-22,Central District Health Department,1,3
+2020-04-22,Hotel Mysterythree,1,4
+2020-04-22,Idaho State Police,1,5
+2020-04-22,Meridian Police Department,1,6
+2020-04-22,Middleton Fitness Center,1,7
+2020-04-22,Middleton Police Department,1,8
+2020-04-22,Nan,1,9
+2020-04-22,Rathdrum Police Department,1,10
+2020-04-22,Tribune Content Agency,1,11
+2020-04-22,Idaho Freedom Foundation,2,2
+2020-04-22,Facebook,3,1
+2020-04-23,Associated Press,2,1
+2020-04-23,Verizon,2,2
+2020-04-24,Centers For Disease,1,26
+2020-04-24,Central Public Health District Confirms First Case,1,27
+2020-04-24,Eastern Washington University,1,28
+2020-04-24,Gonzaga University,1,29
+2020-04-24,Health Care Workers Make Up Most,1,30
+2020-04-24,Idaho College,1,31
+2020-04-24,Idaho Health Officials Confirm First Coronavirus Deaths,1,32
+2020-04-24,Idaho State University,1,33
+2020-04-24,Spokane Community College,1,34
+2020-04-24,Spokane Falls Community College,1,35
+2020-04-24,Teton Valley Health,1,36
+2020-04-24,University Of Idaho,1,37
+2020-04-24,Washington State University,1,38
+2020-04-24,Whitworth University,1,39
+2020-04-24,Central District Health,2,2
+2020-04-24,Central District Health Department,2,3
+2020-04-24,Central District Public Health,2,4
+2020-04-24,Central Health District,2,5
+2020-04-24,Central Public Health,2,6
+2020-04-24,Central Public Health District,2,7
+2020-04-24,Department Of Health,2,8
+2020-04-24,District Health,2,9
+2020-04-24,Eastern Idaho Public Health,2,10
+2020-04-24,Eastern Idaho Public Health District,2,11
+2020-04-24,Idaho Bureau Of Laboratories,2,12
+2020-04-24,Idaho Department Of Health,2,13
+2020-04-24,Idaho Freedom Foundation,2,14
+2020-04-24,Idaho North Central Health District,2,15
+2020-04-24,Idaho North Central Public Health District,2,16
+2020-04-24,Idaho Public Television,2,17
+2020-04-24,Kootenai Health,2,18
+2020-04-24,Kootenai Health On,2,19
+2020-04-24,Oregon Health Authority,2,20
+2020-04-24,Panhandle Health District,2,21
+2020-04-24,Rathdrum Police,2,22
+2020-04-24,Rathdrum Police On,2,23
+2020-04-24,Southeastern Idaho Public Health,2,24
+2020-04-24,Transportation Security Administration,2,25
+2020-04-24,University Of Washington,3,1
+2020-04-25,Idaho Freedom Foundation,2,1
+2020-04-25,Kootenai Health On,2,2
+2020-04-26,Associated Press,2,1
+2020-04-26,Verizon,2,2
+2020-04-27,Idaho Department Of Labor,1,1
+2020-04-29,Centers For Disease,1,1
+2020-04-29,Central District Health,1,2
+2020-04-29,Central District Health Department,1,3
+2020-04-29,Central District Public Health,1,4
+2020-04-29,Central Health District,1,5
+2020-04-29,Central Public Health,1,6
+2020-04-29,Central Public Health District,1,7
+2020-04-29,Central Public Health District Confirms First Case,1,8
+2020-04-29,Department Of Health,1,9
+2020-04-29,District Health,1,10
+2020-04-29,Eastern Idaho Public Health,1,11
+2020-04-29,Eastern Idaho Public Health District,1,12
+2020-04-29,Health Care Workers Make Up Most,1,13
+2020-04-29,Idaho Bureau Of Laboratories,1,14
+2020-04-29,Idaho Department Of Health,1,15
+2020-04-29,Idaho Health Officials Confirm First Coronavirus Deaths,1,16
+2020-04-29,Idaho North Central Health District,1,17
+2020-04-29,Idaho North Central Public Health District,1,18
+2020-04-29,Idaho Public Television,1,19
+2020-04-29,Idaho State University,1,20
+2020-04-29,Kootenai Health,1,21
+2020-04-29,Oregon Health Authority,1,22
+2020-04-29,Panhandle Health District,1,23
+2020-04-29,Southeastern Idaho Public Health,1,24
+2020-04-29,Teton Valley Health,1,25
+2020-04-29,Transportation Security Administration,1,26
+2020-04-29,University Of Washington,1,27
+2020-04-30,Central District Health,1,1
+2020-04-30,Central District Health Department,1,2
+2020-04-30,Central District Public Health,1,3
+2020-04-30,Central Health District,1,4
+2020-04-30,Central Public Health,1,5
+2020-04-30,Central Public Health District,1,6
+2020-04-30,Department Of Health,1,7
+2020-04-30,District Health,1,8
+2020-04-30,Eastern Idaho Public Health,1,9
+2020-04-30,Eastern Idaho Public Health District,1,10
+2020-04-30,Idaho Bureau Of Laboratories,1,11
+2020-04-30,Idaho Department Of Health,1,12
+2020-04-30,Idaho North Central Health District,1,13
+2020-04-30,Idaho North Central Public Health District,1,14
+2020-04-30,Idaho Public Television,1,15
+2020-04-30,Kootenai Health,1,16
+2020-04-30,Kootenai Medical Center,1,17
+2020-04-30,Life Care Center,1,18
+2020-04-30,Oregon Health Authority,1,19
+2020-04-30,Panhandle Health District,1,20
+2020-04-30,Paycheck Protection Program,1,21
+2020-04-30,Southeastern Idaho Public Health,1,22
+2020-04-30,Transportation Security Administration,1,23
+2020-04-30,University Of Washington,1,24
+2020-05-01,Community United Methodist Church,1,1
+2020-05-01,Costco,1,2
+2020-05-01,Heart Of The City Church,1,3
+2020-05-01,Idaho Panhandle Health District,1,4
+2020-05-01,Lake City Church,1,5
+2020-05-01,Real Life Ministry,1,6
+2020-05-01,Real Life Ministry Post Falls,1,7
+2020-05-01,While Community Of Christ Church,1,8
+2020-05-03,Bishop Kelly High School,1,1
+2020-05-03,Eagle High School,1,2
+2020-05-03,Facebook,1,3
+2020-05-03,High School Art Exhibition,1,4
+2020-05-03,Instagram,1,5
+2020-05-03,Jacksons Food Stores,1,6
+2020-05-03,National Recognition Program,1,7
+2020-05-03,Office Of Alumni Relations,1,8
+2020-05-03,Republic Service,1,9
+2020-05-03,Republic Services,1,10
+2020-05-03,Timberline High School,1,11
+2020-05-03,White House,1,12
+2020-05-03,Youtube,1,13
+2020-05-05,Challis National Forest,1,1
+2020-05-05,Forest Service,1,2
+2020-05-05,Forest Service Intermountain Region,1,3
+2020-05-06,Cnn,1,1
+2020-05-06,Express,1,2
+2020-05-06,Idaho Bankers Association,1,3
+2020-05-06,Idaho First Bank,1,4
+2020-05-06,Paycheck Protection Program,1,5
+2020-05-06,Small Business Administration,1,6
+2020-05-06,Swiftsure Ranch Therapeutic Equestrian Center,1,7
+2020-05-06,Wells Fargo,1,8
+2020-05-08,Panhandle Health,1,1
+2020-05-08,Panhandle Health District,1,2
+2020-05-09,Imagination Initiative,1,1
+2020-05-09,University Of Idaho Coeur,1,2
+2020-05-09,Walla Walla Community College,1,3
+2020-05-12,Christian School,1,1
+2020-05-12,Cornerstone Academy,1,2
+2020-05-12,Fall Cornerstone Academy,1,3
+2020-05-12,Panhandle Health District,1,4
+2020-05-12,Young,1,5
+2020-05-13,Nan,1,1
+2020-05-14,Nan,1,1
+2020-05-15,College Of Eastern Idaho,1,1
+2020-05-15,College Of Idaho,1,2
+2020-05-15,College Of Southern Idaho,1,3
+2020-05-15,College Of Western Idaho,1,4
+2020-05-15,Idaho College,1,5
+2020-05-15,Idaho State University,1,6
+2020-05-15,Nazarene University,1,7
+2020-05-15,Public Health,1,8
+2020-05-15,University Of Idaho,1,9
+2020-05-15,Youtube,1,10
+2020-05-16,College Of Eastern Idaho,1,2
+2020-05-16,College Of Idaho,1,3
+2020-05-16,College Of Southern Idaho,1,4
+2020-05-16,College Of Western Idaho,1,5
+2020-05-16,Helens Institute,1,6
+2020-05-16,Helens Lodge At Spirit Lake,1,7
+2020-05-16,Helens National Volcanic Monument,1,8
+2020-05-16,Idaho College,1,9
+2020-05-16,Idaho State University,1,10
+2020-05-16,Nazarene University,1,11
+2020-05-16,Pacific Northwest Seismic Network,1,12
+2020-05-16,Public Health,1,13
+2020-05-16,University Of Idaho,1,14
+2020-05-16,University Of Washington,1,15
+2020-05-16,Youtube,2,1

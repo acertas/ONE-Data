@@ -1,0 +1,549 @@
+date,organization,count,rn
+2020-03-16,Aflac,1,1
+2020-03-16,Assurance Co,1,2
+2020-03-16,Bloomsouth Flooring Corp,1,3
+2020-03-16,Chubb Corp,1,4
+2020-03-16,Civil Authority,1,5
+2020-03-16,Clarendon National Insurance Co,1,6
+2020-03-16,Dickie Brennan Co,1,7
+2020-03-16,Ronald Reagan National Airport,1,8
+2020-03-16,See First Specialty Insurance Corp,1,9
+2020-03-16,United Airlines,1,10
+2020-03-16,Vn Hotel Group,1,11
+2020-03-16,Wakefern Food Corp,1,12
+2020-03-22,Mcdowell Associated,2,15
+2020-03-22,Correctional Health Services,3,10
+2020-03-22,Department Of Correction,3,11
+2020-03-22,Department Of Corrections,3,12
+2020-03-22,World Health Organization,3,13
+2020-03-22,York City Department Of Correction,3,14
+2020-03-22,Bureau Prisons,4,9
+2020-03-22,Associated Press,9,8
+2020-03-22,Law Center,11,5
+2020-03-22,Prisoner Legal Services Of Massachusetts,11,6
+2020-03-22,Uptown People Law Center,11,7
+2020-03-22,Bureau Of Prisons,14,1
+2020-03-22,Detention Center,14,2
+2020-03-22,Morris,14,3
+2020-03-22,United States,14,4
+2020-03-23,Bureau Prisons,3,9
+2020-03-23,Associated Press,4,8
+2020-03-23,Morris,8,7
+2020-03-23,Bureau Of Prisons,11,1
+2020-03-23,Detention Center,11,2
+2020-03-23,Law Center,11,3
+2020-03-23,Prisoner Legal Services Of Massachusetts,11,4
+2020-03-23,United States,11,5
+2020-03-23,Uptown People Law Center,11,6
+2020-03-26,Bureau Of Prisons,1,1
+2020-03-26,Emergency Operations Center,1,2
+2020-03-26,Wendy,1,3
+2020-03-29,Al Jazeera,1,15
+2020-03-29,American Civil Liberties Union,1,16
+2020-03-29,American International Auto Show,1,17
+2020-03-29,California Retailers Association,1,18
+2020-03-29,China National Health Commission,1,19
+2020-03-29,Correctional Institution Oakdale,1,20
+2020-03-29,Department Of Health,1,21
+2020-03-29,Emergency Management Administration,1,22
+2020-03-29,Faith Fellowship Church,1,23
+2020-03-29,Kingsland Baptist Church,1,24
+2020-03-29,Louisiana State Police,1,25
+2020-03-29,National Health Commission,1,26
+2020-03-29,Neither Central Police,1,27
+2020-03-29,Office Of Disability Affairs,1,28
+2020-03-29,World Health Organization,1,29
+2020-03-29,York International Auto Show,1,30
+2020-03-29,Bloom Energy,2,9
+2020-03-29,Justice Department,2,10
+2020-03-29,Massachusett Department Of Children,2,11
+2020-03-29,Nan,2,12
+2020-03-29,York City Department Of Health,2,13
+2020-03-29,York Police Department,2,14
+2020-03-29,Cnn,4,6
+2020-03-29,Mount Sinai Health System,4,7
+2020-03-29,United Nations,4,8
+2020-03-29,Centers For Disease,6,3
+2020-03-29,Reuters,6,4
+2020-03-29,United States,6,5
+2020-03-29,Associated Press,7,2
+2020-03-29,Bureau Of Prisons,11,1
+2020-03-30,Bureau Of Federal Prisons,1,15
+2020-03-30,Centers For Disease,1,16
+2020-03-30,Chinese Communist Party,1,17
+2020-03-30,Cnn,1,18
+2020-03-30,Drug Administration,1,19
+2020-03-30,Emergency Management Agency,1,20
+2020-03-30,Galveston County Health District,1,21
+2020-03-30,House Judiciary Committee On,1,22
+2020-03-30,Johns Hopkins University,1,23
+2020-03-30,Judiciary Committee,1,24
+2020-03-30,National Flood Insurance Program,1,25
+2020-03-30,National Institute Of Allergy,1,26
+2020-03-30,Oakdale Federal Correctional Institution,1,27
+2020-03-30,Service Lance Knippers,1,28
+2020-03-30,Singapore Prison Service,1,29
+2020-03-30,Texas Division Of Emergency Management,1,30
+2020-03-30,White House,1,31
+2020-03-30,World Health Organization,1,32
+2020-03-30,Xinhua News Agency,1,33
+2020-03-30,Correction Officers Benevolent Association,2,3
+2020-03-30,Correctional Institution,2,4
+2020-03-30,Department Of Correction,2,5
+2020-03-30,Department Of Health,2,6
+2020-03-30,Louisiana State Police,2,7
+2020-03-30,Nan,2,8
+2020-03-30,Neither Central Police,2,9
+2020-03-30,Office Of Disability Affairs,2,10
+2020-03-30,Prison Bureau,2,11
+2020-03-30,Prisons Bureau,2,12
+2020-03-30,Prisons Bureau On,2,13
+2020-03-30,United States,2,14
+2020-03-30,Associated Press,3,2
+2020-03-30,Bureau Of Prisons,8,1
+2020-03-31,American International Auto Show,1,6
+2020-03-31,Bloom Energy,1,7
+2020-03-31,California Retailers Association,1,8
+2020-03-31,Emergency Management Administration,1,9
+2020-03-31,Fix The Court,1,10
+2020-03-31,Judiciary Committee,1,11
+2020-03-31,Justice Department,1,12
+2020-03-31,Nan,1,13
+2020-03-31,Senate Minority Leader Chuck Schumer,1,14
+2020-03-31,Singapore Prison Service,1,15
+2020-03-31,Twitter,1,16
+2020-03-31,York City Department Of Health,1,17
+2020-03-31,York International Auto Show,1,18
+2020-03-31,York Police Department,1,19
+2020-03-31,Associated Press,2,2
+2020-03-31,Centers For Disease,2,3
+2020-03-31,Department Of Justice,2,4
+2020-03-31,House Judiciary Committee,2,5
+2020-03-31,Bureau Of Prisons,4,1
+2020-04-01,Allen Correctional Center,1,15
+2020-04-01,American International Auto Show,1,16
+2020-04-01,Bloom Energy,1,17
+2020-04-01,California Retailers Association,1,18
+2020-04-01,Correctional Center,1,19
+2020-04-01,Department Of Probation,1,20
+2020-04-01,Department Of Public Safety,1,21
+2020-04-01,Dixon Correctional Institute,1,22
+2020-04-01,Emergency Management Administration,1,23
+2020-04-01,Louisiana Department Of Corrections,1,24
+2020-04-01,Louisiana District Attorneys Association,1,25
+2020-04-01,Louisiana Office Of Juvenile Justice,1,26
+2020-04-01,Promise Of Justice Initiative,1,27
+2020-04-01,Raymond Laborde Correctional Center,1,28
+2020-04-01,University Medical Center,1,29
+2020-04-01,York City Department Of Health,1,30
+2020-04-01,York International Auto Show,1,31
+2020-04-01,York Police Department,1,32
+2020-04-01,Bureau Of Prisons On,2,10
+2020-04-01,Correctional Institute Oakdale,2,11
+2020-04-01,Correctional Service Of Canada,2,12
+2020-04-01,Louisiana Department Of Health,2,13
+2020-04-01,Twitter,2,14
+2020-04-01,Centers For Disease,3,9
+2020-04-01,Louisiana American Civil Liberties Union,6,8
+2020-04-01,Associated Press,7,6
+2020-04-01,Thomson Reuters Trust Principles,7,7
+2020-04-01,Justice Department,9,5
+2020-04-01,American Federation Of Government Employees,11,3
+2020-04-01,Reuters,11,4
+2020-04-01,Morris,14,2
+2020-04-01,Bureau Of Prisons,25,1
+2020-04-02,American International Auto Show,1,24
+2020-04-02,Bloom Energy,1,25
+2020-04-02,California Retailers Association,1,26
+2020-04-02,Dayton Daily News,1,27
+2020-04-02,Emergency Management Administration,1,28
+2020-04-02,Facebook,1,29
+2020-04-02,Louisiana Detention Center,1,30
+2020-04-02,Southern Poverty Law Center,1,31
+2020-04-02,York City Department Of Health,1,32
+2020-04-02,York International Auto Show,1,33
+2020-04-02,York Police Department,1,34
+2020-04-02,American Federation Of Government Employees,2,16
+2020-04-02,Justice Action Network,2,17
+2020-04-02,Lincoln Center,2,18
+2020-04-02,New York Times,2,19
+2020-04-02,Reuters,2,20
+2020-04-02,Thomson Reuters Trust Principles,2,21
+2020-04-02,Twitter,2,22
+2020-04-02,United States,2,23
+2020-04-02,Correctional Institute Oakdale,4,15
+2020-04-02,Department Of Corrections,5,9
+2020-04-02,Louisiana Center,5,10
+2020-04-02,Office Of Juvenile Justice,5,11
+2020-04-02,Office Of Public Health,5,12
+2020-04-02,Promise Of Justice Initiative,5,13
+2020-04-02,Tulane University,5,14
+2020-04-02,Associated Press,7,6
+2020-04-02,Elayn Hunt Correctional Center,7,7
+2020-04-02,Louisiana American Civil Liberties Union,7,8
+2020-04-02,Department Of Public Safety,8,4
+2020-04-02,Louisiana Department Of Health,8,5
+2020-04-02,Centers For Disease,10,3
+2020-04-02,Morris,12,2
+2020-04-02,Bureau Of Prisons,21,1
+2020-04-03,City Center,1,8
+2020-04-03,Department Of Corrections,1,9
+2020-04-03,Dixon Correctional Institute,1,10
+2020-04-03,Elayn Hunt Correctional Center,1,11
+2020-04-03,Louisiana Department Of Corrections,1,12
+2020-04-03,Louisiana Supreme Court,1,13
+2020-04-03,Louisiana Supreme Court Landry,1,14
+2020-04-03,Office Of Juvenile Justice,1,15
+2020-04-03,Orleans Justice Center,1,16
+2020-04-03,Supreme Court,1,17
+2020-04-03,Us Bureau Of Justice Statistics,1,18
+2020-04-03,Us Justice Department,1,19
+2020-04-03,Thomson Reuters Trust Principles,2,7
+2020-04-03,Correctional Institution,3,6
+2020-04-03,John Locke Foundation,5,2
+2020-04-03,Justice Department,5,3
+2020-04-03,Reuters,5,4
+2020-04-03,United States,5,5
+2020-04-03,Bureau Of Prisons,7,1
+2020-04-04,Department Of Health,1,11
+2020-04-04,Department Of Public Safety,1,12
+2020-04-04,John Locke Foundation,1,13
+2020-04-04,Justice Department,1,14
+2020-04-04,Louisiana Ag Office,1,15
+2020-04-04,Louisiana Department Of Health,1,16
+2020-04-04,Louisiana Supreme Court,1,17
+2020-04-04,Nan,1,18
+2020-04-04,Thomson Reuters Trust Principles,1,19
+2020-04-04,United States,1,20
+2020-04-04,White House,1,21
+2020-04-04,World Bank Group,1,22
+2020-04-04,Associated Press,2,7
+2020-04-04,Correctional Center,2,8
+2020-04-04,Haven Correctional Center,2,9
+2020-04-04,York Correctional Center,2,10
+2020-04-04,Department Of Correction,3,6
+2020-04-04,Danbury Federal Correction Institution,4,5
+2020-04-04,American Civil Liberties Union Of Connecticut,5,3
+2020-04-04,Correctional Institution In Danbury,5,4
+2020-04-04,Reuters,8,2
+2020-04-04,Bureau Of Prisons,14,1
+2020-04-05,Bureau Of Prisons,1,1
+2020-04-05,Correctional Institution At Oakdale,1,2
+2020-04-05,Justice Department,1,3
+2020-04-06,American Civil Liberties Union Of Louisiana,1,12
+2020-04-06,Correctional Institution,1,13
+2020-04-06,Department Of Health,1,14
+2020-04-06,Johns Hopkins University,1,15
+2020-04-06,Means Committee,1,16
+2020-04-06,National Institute Of Allergy,1,17
+2020-04-06,United States,1,18
+2020-04-06,White House,1,19
+2020-04-06,York City Emergency Medical Service,1,20
+2020-04-06,A Bureau Of Prisons,2,7
+2020-04-06,Associated Press,2,8
+2020-04-06,Centers For Disease,2,9
+2020-04-06,National Guard,2,10
+2020-04-06,Ohio National Guard,2,11
+2020-04-06,Bureau Of Prisons On,3,5
+2020-04-06,Cnn,3,6
+2020-04-06,Morris,6,4
+2020-04-06,Metrowest Detention Center,8,3
+2020-04-06,American Civil Liberties Union,9,2
+2020-04-06,Bureau Of Prisons,12,1
+2020-04-07,Allen Correctional Center,1,13
+2020-04-07,American Civil Liberties Union Of Louisiana,1,14
+2020-04-07,Centers For Disease,1,15
+2020-04-07,City Center,1,16
+2020-04-07,Correction Institute Oakdale,1,17
+2020-04-07,Correctional Institution,1,18
+2020-04-07,Department Of Corrections,1,19
+2020-04-07,Department Of Veterans Affairs,1,20
+2020-04-07,Drug Administration,1,21
+2020-04-07,Health Administration,1,22
+2020-04-07,John Locher,1,23
+2020-04-07,Louisiana Department Of Public Safety,1,24
+2020-04-07,Macarthur Justice Center,1,25
+2020-04-07,Office Of Juvenile Justice,1,26
+2020-04-07,Office Of Personnel Management,1,27
+2020-04-07,Office Of The Vice,1,28
+2020-04-07,Premium Rx National,1,29
+2020-04-07,Processing Center,1,30
+2020-04-07,Promise Of Justice Initiative,1,31
+2020-04-07,Rayburn Correctional Center,1,32
+2020-04-07,Sheriff Association,1,33
+2020-04-07,Sheriff Office,1,34
+2020-04-07,Supreme Court,1,35
+2020-04-07,Us Marshals Service,1,36
+2020-04-07,White House,1,37
+2020-04-07,World Health Organization,1,38
+2020-04-07,American Federation Of Government,2,11
+2020-04-07,Louisiana Department Of Health,2,12
+2020-04-07,Bureau Of Prisons On,3,7
+2020-04-07,Cnn,3,8
+2020-04-07,National Guard,3,9
+2020-04-07,Ohio National Guard,3,10
+2020-04-07,A Bureau Of Prisons,4,5
+2020-04-07,Associated Press,4,6
+2020-04-07,Metrowest Detention Center,6,4
+2020-04-07,Morris,8,3
+2020-04-07,American Civil Liberties Union,10,2
+2020-04-07,Bureau Of Prisons,19,1
+2020-04-08,Centers For Disease,1,4
+2020-04-08,Correctional Institution,1,5
+2020-04-08,Referral Centers,1,6
+2020-04-08,American Federation Of Government Employees,2,3
+2020-04-08,Bureau Of Prisons,3,2
+2020-04-08,Morris,4,1
+2020-04-09,American Civil Liberties Union,1,3
+2020-04-09,Centers For Disease,1,4
+2020-04-09,City Center,1,5
+2020-04-09,Facebook,1,6
+2020-04-09,Katten Muchin Rosenman,1,7
+2020-04-09,Louisiana Department Of Corrections,1,8
+2020-04-09,Louisiana Department Of Public Safety,1,9
+2020-04-09,National Guard,1,10
+2020-04-09,Office Of Juvenile Justice,1,11
+2020-04-09,Office Of Juvenile Justice On,1,12
+2020-04-09,U S Bureau Of Prisons,1,13
+2020-04-09,Bureau Of Prisons,2,1
+2020-04-09,Louisiana Department Of Health,2,2
+2020-04-10,American Civil Liberties Union Of Kansas,1,4
+2020-04-10,Associated Press,1,5
+2020-04-10,Bureau Of Prison,1,6
+2020-04-10,Cnn,1,7
+2020-04-10,Department Of Corrections,1,8
+2020-04-10,Department Of Corrections Washington,1,9
+2020-04-10,Justice Department,1,10
+2020-04-10,Kansas Department,1,11
+2020-04-10,Kansas Department Of Corrections,1,12
+2020-04-10,Morris,1,13
+2020-04-10,National Guard,1,14
+2020-04-10,Prison Industries,1,15
+2020-04-10,Sheriff Office,1,16
+2020-04-10,Stateville Correctional Center,1,17
+2020-04-10,Texas Department Of Criminal Justice,1,18
+2020-04-10,York Department Of Corrections,1,19
+2020-04-10,American Civil Liberties Union,2,2
+2020-04-10,New York Times,2,3
+2020-04-10,Bureau Of Prisons,3,1
+2020-04-11,Warnermedia Company,1,7
+2020-04-11,Cnn,2,5
+2020-04-11,Justice Department,2,6
+2020-04-11,Bureau Of Prison,3,1
+2020-04-11,Bureau Of Prisons,3,2
+2020-04-11,Morris,3,3
+2020-04-11,World Health Organization,3,4
+2020-04-12,Nan,1,1
+2020-04-13,American Civil Liberties Union Of Louisiana,1,9
+2020-04-13,Centers For Disease,1,10
+2020-04-13,Louisiana Department Of Health,1,11
+2020-04-13,Associated Press,2,8
+2020-04-13,Department Of Corrections,3,7
+2020-04-13,Correctional Institution In Oakdale,4,6
+2020-04-13,Cnn,5,4
+2020-04-13,Justice Department,5,5
+2020-04-13,American Civil Liberties Union,8,2
+2020-04-13,Bureau Of Prison,8,3
+2020-04-13,Bureau Of Prisons,13,1
+2020-04-14,Airport Grant Program,1,11
+2020-04-14,Airport Improvement Program,1,12
+2020-04-14,American Civil Liberties Union Of Connecticut,1,13
+2020-04-14,American Civil Liberties Union Of Louisiana,1,14
+2020-04-14,Aviation Administration,1,15
+2020-04-14,Connecticut Department Of Corrections,1,16
+2020-04-14,Correctional Services,1,17
+2020-04-14,Department Of Corrections,1,18
+2020-04-14,Department Of Public Safety,1,19
+2020-04-14,Jessup Correctional Institution,1,20
+2020-04-14,Johns Hopkins School Of Public Health,1,21
+2020-04-14,Johns Hopkins University,1,22
+2020-04-14,Maryland Court,1,23
+2020-04-14,Office Of Airports,1,24
+2020-04-14,Trump Administration,1,25
+2020-04-14,Correctional Institution In Oakdale,2,7
+2020-04-14,Correctional Institution Oakdale,2,8
+2020-04-14,Metrowest Detention Center,2,9
+2020-04-14,Morris,2,10
+2020-04-14,Associated Press,4,6
+2020-04-14,Cnn,5,4
+2020-04-14,Justice Department,5,5
+2020-04-14,Bureau Of Prison,8,3
+2020-04-14,American Civil Liberties Union,10,1
+2020-04-14,Bureau Of Prisons,10,2
+2020-04-15,Associated Press,1,6
+2020-04-15,Center Square,1,7
+2020-04-15,Justice Department,1,8
+2020-04-15,American Civil Liberties Union,2,2
+2020-04-15,Furlough Review Panel,2,3
+2020-04-15,Louisiana Department Of Public Safety,2,4
+2020-04-15,Promise Of Justice Initiative,2,5
+2020-04-15,Bureau Of Prisons,3,1
+2020-04-20,Louisiana Department Of Public Safety,1,1
+2020-04-20,Office Of Juvenile Justice,1,2
+2020-04-20,Raymond Labored Correctional Center,1,3
+2020-04-21,Central Louisiana Technical Community College,1,1
+2020-04-21,Department Of Corrections,1,2
+2020-04-21,Louisiana Department Of Public Safety,1,3
+2020-04-21,Office Of Juvenile Justice,1,4
+2020-04-21,Raymond Laborde Correctional Center Warden Sandy Mccain,1,5
+2020-04-22,Associated Press,1,1
+2020-04-22,Bank Account,1,2
+2020-04-22,Boston University,1,3
+2020-04-22,Constant Positive Airway Pressure,1,4
+2020-04-22,Department Of Corrections,1,5
+2020-04-22,Exxon Mobil Corp,1,6
+2020-04-22,Lake Regional Medical Center,1,7
+2020-04-22,Louisiana Correctional Institute For Women,1,8
+2020-04-22,Mises Institute,1,9
+2020-04-22,Ohio Department Of Health,1,10
+2020-04-22,Police In Westport,1,11
+2020-04-22,Promise Of Justice Initiative,1,12
+2020-04-22,Promise Of Justice Initiative Mercedes Montagnes,1,13
+2020-04-22,Reuters,1,14
+2020-04-22,Supreme Court,1,15
+2020-04-22,Twitter,1,16
+2020-04-22,United States,1,17
+2020-04-22,United States Navy,1,18
+2020-04-22,Xinhua,1,19
+2020-04-22,Youtube,1,20
+2020-04-24,Bureau Of Prisons,1,1
+2020-04-25,Associated Press,1,1
+2020-04-25,Bureau Of Prison,1,2
+2020-04-25,Bureau Of Prisons,1,3
+2020-04-25,Centers For Disease,1,4
+2020-04-25,Department Of Justice,1,5
+2020-04-25,Department Of Justice Inspector,1,6
+2020-04-25,Neither The Bureau Of Prisons,1,7
+2020-04-25,New York Daily News,1,8
+2020-04-27,Bureau Of Prison,1,1
+2020-04-27,Bureau Of Prisons,1,2
+2020-04-27,Centers For Disease,1,3
+2020-04-27,Correctional Institution,1,4
+2020-04-27,Department Of Justice,1,5
+2020-04-27,Neither The Bureau Of Prisons,1,6
+2020-04-27,United States,1,7
+2020-04-30,Bureau Of Prison,1,1
+2020-04-30,Bureau Of Prisons,1,2
+2020-04-30,Centers For Disease,1,3
+2020-04-30,Department Of Justice,1,4
+2020-04-30,Department Of Justice Inspector,1,5
+2020-04-30,Neither The Bureau Of Prisons,1,6
+2020-05-03,Bureau Of Prisons,1,1
+2020-05-03,White House,1,2
+2020-05-09,Bernadette Catholic Church,1,1
+2020-05-09,Bureau Of Prison,1,2
+2020-05-09,Bureau Of Prisons,1,3
+2020-05-09,Flowers United Church,1,4
+2020-05-09,Pine Grove Missionary Baptist Church,1,5
+2020-05-09,Vandenberg Air Force,1,6
+2020-05-10,American Civil Liberties Union,1,2
+2020-05-10,Bernadette Catholic Church,1,3
+2020-05-10,Bureau Of Prison,1,4
+2020-05-10,Bureau Of Prisons On,1,5
+2020-05-10,Centers For Disease,1,6
+2020-05-10,Correctional Institution I Oakdale,1,7
+2020-05-10,Correctional Institution In Oakdale,1,8
+2020-05-10,Flowers United Church,1,9
+2020-05-10,Louisiana Workforce Commission,1,10
+2020-05-10,Pine Grove Missionary Baptist Church,1,11
+2020-05-10,University Of Louisiana Lafayette,1,12
+2020-05-10,Vandenberg Air Force,1,13
+2020-05-10,Bureau Of Prisons,2,1
+2020-05-11,America Health,1,5
+2020-05-11,Bureau Of Prisons,1,6
+2020-05-11,Centers For Disease,1,7
+2020-05-11,Health Department,1,8
+2020-05-11,Healthcare Center,1,9
+2020-05-11,National Guard,1,10
+2020-05-11,New York Times,1,11
+2020-05-11,Occupational Health,1,12
+2020-05-11,Safety Administration,1,13
+2020-05-11,Tyson Foods,1,14
+2020-05-11,Bureau Of Prisons On,2,1
+2020-05-11,Correctional Institution I Oakdale,2,2
+2020-05-11,Louisiana Workforce Commission,2,3
+2020-05-11,University Of Louisiana Lafayette,2,4
+2020-05-12,American Civil Liberties Union,1,1
+2020-05-12,Bureau Of Prisons On,1,2
+2020-05-12,Centers For Disease,1,3
+2020-05-12,Committee On Parole,1,4
+2020-05-12,Correctional Institution I Oakdale,1,5
+2020-05-12,Department Of Public Safety,1,6
+2020-05-12,Department Of Public Safety Correction,1,7
+2020-05-12,Department Of Safety,1,8
+2020-05-12,District Court,1,9
+2020-05-12,Elayn Hunt Correctional Center,1,10
+2020-05-12,Jetson Center,1,11
+2020-05-12,Louisiana Correctional Institute For Women,1,12
+2020-05-12,Louisiana Department Of Public Safety,1,13
+2020-05-12,Louisiana State University,1,14
+2020-05-12,Louisiana Workforce Commission,1,15
+2020-05-12,National Council For,1,16
+2020-05-12,Promise Of Justice Initiative,1,17
+2020-05-12,Southern Poverty Law Center,1,18
+2020-05-12,University Of Louisiana Lafayette,1,19
+2020-05-13,America Health,1,3
+2020-05-13,Centers For Disease,1,4
+2020-05-13,Health Department,1,5
+2020-05-13,Healthcare Center,1,6
+2020-05-13,Interactive Inc,1,7
+2020-05-13,National Guard,1,8
+2020-05-13,New York Times,1,9
+2020-05-13,Occupational Health,1,10
+2020-05-13,Safety Administration,1,11
+2020-05-13,Tyson Foods,1,12
+2020-05-13,Correctional Institution,2,2
+2020-05-13,Bureau Of Prisons,4,1
+2020-05-14,Bureau Of Prison,1,1
+2020-05-14,Bureau Of Prisons,1,2
+2020-05-14,Centers For Disease,1,3
+2020-05-14,Department Of Justice,1,4
+2020-05-14,Department Of Justice Inspector,1,5
+2020-05-14,Neither The Bureau Of Prisons,1,6
+2020-05-15,Department Of Public Safety Corrections Acting Deputy,1,1
+2020-05-15,Law Center,1,2
+2020-05-15,Office Of Juvenile Justice,1,3
+2020-05-15,Promise Of Justice Initiative,1,4
+2020-05-15,Swanson Center,1,5
+2020-05-19,Buckingham Correctional Center,1,1
+2020-05-19,Cbs News,1,2
+2020-05-19,Facebook,1,3
+2020-05-19,Oakdale High School,1,4
+2020-05-22,Central Regional Office,1,14
+2020-05-22,Correctional Institution,1,15
+2020-05-22,Morris,1,16
+2020-05-22,Associated Press,2,7
+2020-05-22,Community Outreach,2,8
+2020-05-22,Detroit Free,2,9
+2020-05-22,Detroit Free Press,2,10
+2020-05-22,National Baptist Convention Of America,2,11
+2020-05-22,National Business League,2,12
+2020-05-22,Twitter,2,13
+2020-05-22,Ford Motor Co,3,4
+2020-05-22,Justice Department,3,5
+2020-05-22,Pontiac,3,6
+2020-05-22,White House,4,3
+2020-05-22,Bureau Of Prisons,8,1
+2020-05-22,Ebony Foundation,8,2
+2020-05-23,Associated Press,1,3
+2020-05-23,Central Regional Office,1,4
+2020-05-23,Community Outreach,1,5
+2020-05-23,Department Of Justice,1,6
+2020-05-23,Ebony Foundation,1,7
+2020-05-23,Ford Motor Co,1,8
+2020-05-23,Justice Department,1,9
+2020-05-23,Morris,1,10
+2020-05-23,National Baptist Convention Of America,1,11
+2020-05-23,National Business League,1,12
+2020-05-23,Pontiac,1,13
+2020-05-23,White House,2,2
+2020-05-23,Bureau Of Prisons,3,1
+2020-05-24,Central Regional Office,1,7
+2020-05-24,Justice Department,1,8
+2020-05-24,Morris,1,9
+2020-05-24,Associated Press,2,6
+2020-05-24,Ebony Foundation,3,2
+2020-05-24,Ford Motor Co,3,3
+2020-05-24,Pontiac,3,4
+2020-05-24,White House,3,5
+2020-05-24,Bureau Of Prisons,4,1

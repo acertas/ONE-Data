@@ -1,0 +1,142 @@
+date,organization,count,rn
+2020-03-11,Clorox,1,1
+2020-03-11,Delta Air Lines,1,2
+2020-03-11,Frontier Airlines,1,3
+2020-03-11,Port Authority,1,4
+2020-03-11,Stony Brook University,1,5
+2020-03-16,Berryville Institute Of Machine Learning Co,1,1
+2020-03-16,Brewing Company,1,2
+2020-03-16,Caktus Group,1,3
+2020-03-16,Carolina Biotech Center,1,4
+2020-03-16,Carolina Clean Energy Plan,1,5
+2020-03-16,Charlotte Convention Center,1,6
+2020-03-16,Crosscomm Senior Software Engineer Ben Berry,1,7
+2020-03-16,Duke Incubation Fund,1,8
+2020-03-16,Energy Conference,1,9
+2020-03-16,Family Legacy Financial Solutions,1,10
+2020-03-16,First Flight Venture Center,1,11
+2020-03-16,Gillings School Of Global Public Health,1,12
+2020-03-16,Government Vendor Network,1,13
+2020-03-16,Highland Brewing Company,1,14
+2020-03-16,Immersive Web Development,1,15
+2020-03-16,Innovation Entrepreneurship Center,1,16
+2020-03-16,Institute For Emerging,1,17
+2020-03-16,Mckimmon Conference Training Center,1,18
+2020-03-16,Nc Chamber,1,19
+2020-03-16,Nc State College Of Engineering,1,20
+2020-03-16,Nc Sustainable Energy Association,1,21
+2020-03-16,Regional Transportation Alliance Innovations,1,22
+2020-03-16,Service Year,1,23
+2020-03-16,Solutions Forum,1,24
+2020-03-16,Wake Forest University,1,25
+2020-03-16,Wells Fargo Capitol Center,1,26
+2020-03-16,Wireless Research Center,1,27
+2020-03-24,Florida National Guard,1,3
+2020-03-24,Hollywood International Airport,1,4
+2020-03-24,Miami International Airport,1,5
+2020-03-24,Senate Majority Leader Mitch Mcconnell,1,6
+2020-03-24,United States,2,2
+2020-03-24,White House,3,1
+2020-03-25,Army Corps Of Engineers,1,4
+2020-03-25,Boeing,1,5
+2020-03-25,Catawba Valley Medical Center,1,6
+2020-03-25,Chinese Communist Party,1,7
+2020-03-25,Federal Reserve,1,8
+2020-03-25,Ford Motor Company,1,9
+2020-03-25,Frye Regional Medical Center,1,10
+2020-03-25,Ge Health,1,11
+2020-03-25,Human Services,1,12
+2020-03-25,Interfaith Alliance,1,13
+2020-03-25,Javits Center,1,14
+2020-03-25,Johns Hopkins University,1,15
+2020-03-25,Mcdonald,1,16
+2020-03-25,National Guard,1,17
+2020-03-25,National Response Center,1,18
+2020-03-25,Oval Office,1,19
+2020-03-25,Treasury Emergency Fund,1,20
+2020-03-25,Treasury Exchange Stabilization,1,21
+2020-03-25,White House Coronavirus Task,1,22
+2020-03-25,National Institute Of Allergy,3,3
+2020-03-25,United States,5,2
+2020-03-25,White House,7,1
+2020-03-26,Catawba County Department Of Social Services,1,5
+2020-03-26,Catawba County Health,1,6
+2020-03-26,Catawba County Public Health,1,7
+2020-03-26,Digital Health Articles,1,8
+2020-03-26,Digital Health Pro,1,9
+2020-03-26,Frye Regional Medical Center,1,10
+2020-03-26,Human Services,1,11
+2020-03-26,Nan,1,12
+2020-03-26,Nutrition Services,1,13
+2020-03-26,Amtrak,2,2
+2020-03-26,New York Times,2,3
+2020-03-26,United States,2,4
+2020-03-26,White House,3,1
+2020-03-27,Centers For Disease,1,1
+2020-03-27,Texas Department Of Public Safety,1,2
+2020-03-27,White House,1,3
+2020-03-28,Adventist Health Tillamook,1,1
+2020-03-28,White House,1,2
+2020-03-28,Whole Foods,1,3
+2020-03-30,Atrium Health,1,1
+2020-03-30,Carolina Department Of Employment Security,1,2
+2020-03-30,Human Services,1,3
+2020-03-30,Investigations Division,1,4
+2020-03-30,Kirk Air Base On,1,5
+2020-03-30,Mission Hospital,1,6
+2020-03-30,Nc Police In Raleigh,1,7
+2020-03-30,Running Into Police Cruiser,1,8
+2020-03-30,Trinity Lutheran Church,1,9
+2020-03-30,Westgate Regional Shopping Center,1,10
+2020-03-30,Whole Foods,1,11
+2020-04-01,Catawba County Department Of Social Services,1,1
+2020-04-01,Catawba County Health,1,2
+2020-04-01,Catawba County Public Health,1,3
+2020-04-01,Frye Regional Medical Center,1,4
+2020-04-01,Human Services,1,5
+2020-04-01,Nutrition Services,1,6
+2020-04-01,White House,1,7
+2020-04-06,Access Center,1,1
+2020-04-06,Brewing Company,1,2
+2020-04-06,Capitol Broadcasting Company,1,3
+2020-04-06,Carolina Biotech Center,1,4
+2020-04-06,Carolina Small Business Development Fund,1,5
+2020-04-06,Flatiron School,1,6
+2020-04-06,Injury Disaster Loan Program,1,7
+2020-04-06,Institute For Emerging,1,8
+2020-04-06,Linkedin,1,9
+2020-04-06,Paycheck Protection Program,1,10
+2020-04-06,Piedmont Triad Regional Council,1,11
+2020-04-06,Research Triangle Cleantech Cluster,1,12
+2020-04-06,Service Year,1,13
+2020-04-09,Blue Man Group,1,1
+2020-04-09,New York Times,1,2
+2020-04-15,United States,1,1
+2020-04-23,Fedex,1,1
+2020-05-05,Carolina Department Of Health,1,1
+2020-05-05,Davis Regional Medical Center,1,2
+2020-05-05,Human Services,1,3
+2020-05-05,Iredell Health System,1,4
+2020-05-07,A Metro Transit Authority,1,1
+2020-05-07,City Health,1,2
+2020-05-07,Massachusetts Institute Of Technology,1,3
+2020-05-07,New York Times,1,4
+2020-05-07,United States,1,5
+2020-05-07,World Health Organization,1,6
+2020-05-12,Downtown Newton Development Association,1,1
+2020-05-12,Fire Department,1,2
+2020-05-12,Newton Fire Department,1,3
+2020-05-12,Newton Police Department,1,4
+2020-05-12,Planning Department,1,5
+2020-05-12,Police Department,1,6
+2020-05-12,Recreation Department,1,7
+2020-05-12,Utilities Department,1,8
+2020-05-12,Zoning Department,1,9
+2020-05-15,Human Services,1,1
+2020-05-15,Senate Intel Committee,1,2
+2020-05-15,Senate Leader Phil Berger,1,3
+2020-05-16,Facebook,1,1
+2020-05-16,Liftofftrump Space,1,2
+2020-05-16,Twitter,1,3
+2020-05-18,Capitol Bureau,1,1
+2020-05-18,Division Of Employment Security,1,2

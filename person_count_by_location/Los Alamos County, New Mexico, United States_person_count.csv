@@ -1,0 +1,398 @@
+date,person,count,rn
+2020-02-14,Gerardo Mart,1,1
+2020-02-14,Yongmei Lu,1,2
+2020-02-15,Gerardo Mart,1,1
+2020-02-15,Yongmei Lu,1,2
+2020-03-01,Gerardo Mart,1,1
+2020-03-01,Yongmei Lu,1,2
+2020-03-12,Bill Gates,2,1
+2020-03-12,Ed Markey,2,2
+2020-03-12,Elon Musk,2,3
+2020-03-12,Massachusett Brookline,2,4
+2020-03-15,Brad Bennett,1,1
+2020-03-15,Harry Eberts,1,2
+2020-03-15,Kathy Kunkel,1,3
+2020-03-15,Lee Walters,1,4
+2020-03-15,Neil Amswych,1,5
+2020-03-15,Talitha Arnold,1,6
+2020-03-16,Alan Webber,1,1
+2020-03-16,Bennett Baur,1,2
+2020-03-16,Katherine Miller,1,3
+2020-03-16,Kathy Kunkel,1,4
+2020-03-16,Lujan Grisham,1,5
+2020-03-16,Matt Nerzig,1,6
+2020-03-16,Meyers Sackett,1,7
+2020-03-16,Michelle Lujan Grisham,1,8
+2020-03-16,Nora Meyers Sackett,1,9
+2020-03-16,Tripp Stelnicki,1,10
+2020-03-19,Aaron Cummins,1,1
+2020-03-19,Astrid Galvan,1,2
+2020-03-19,Billy Hobbs,1,3
+2020-03-19,Brenden Wysynski,1,4
+2020-03-19,Charmian Schaller,1,5
+2020-03-19,Cheryl Pongratz,1,6
+2020-03-19,Chris Ross,1,7
+2020-03-19,Cindy Eaton,1,8
+2020-03-19,Daniel Soliz,1,9
+2020-03-19,Harry Shapiro,1,10
+2020-03-19,Jennifer Mccumber,1,11
+2020-03-19,Lisa Huval,1,12
+2020-03-19,Martin Moore,1,13
+2020-03-19,Michelle Lujan Grisham,1,14
+2020-03-19,Morgan Lee,1,15
+2020-03-19,Rodrigo Aguirre,1,16
+2020-03-19,Susan Montoya Bryan,1,17
+2020-03-24,Brian Williams,1,1
+2020-03-24,Lujan Grisham,1,2
+2020-03-24,Michelle Lujan Grisham,1,3
+2020-03-25,Alan Webber,1,4
+2020-03-25,Bennett Baur,1,5
+2020-03-25,Brian Williams,1,6
+2020-03-25,D-Santa Fe,1,7
+2020-03-25,Katherine Miller,1,8
+2020-03-25,Kathy Kunkel,1,9
+2020-03-25,Lillian Montoya,1,10
+2020-03-25,Matt Nerzig,1,11
+2020-03-25,Meyers Sackett,1,12
+2020-03-25,Nora Meyers Sackett,1,13
+2020-03-25,Shannon Pinto,1,14
+2020-03-25,Lujan Grisham,2,1
+2020-03-25,Michelle Lujan Grisham,2,2
+2020-03-25,Tripp Stelnicki,2,3
+2020-03-29,Amanda Martinez,2,1
+2020-03-29,Amy Christian,2,2
+2020-03-29,Chris Schroeder,2,3
+2020-03-29,Cindy Ferrero,2,4
+2020-03-29,Danielle Prokop,2,5
+2020-03-29,Denise Vermeulen,2,6
+2020-03-29,Don Cordova,2,7
+2020-03-29,Eva Birnbaum,2,8
+2020-03-29,Jacob Calles,2,9
+2020-03-29,Joe Dudziak,2,10
+2020-03-29,Joe Jordan,2,11
+2020-03-29,Julie Soucek,2,12
+2020-03-29,Justin Greene,2,13
+2020-03-29,Karin Thron,2,14
+2020-03-29,Laura Moore,2,15
+2020-03-29,Lauren Reichelt,2,16
+2020-03-29,Michael Gerstein,2,17
+2020-03-29,Olivia Harlow,2,18
+2020-03-29,Orlando Hurtado,2,19
+2020-03-29,Phaedra Haywood,2,20
+2020-03-29,Phill Casaus,2,21
+2020-03-29,Rick Cdebaca,2,22
+2020-03-29,Robert Nott,2,23
+2020-03-29,Ron Cdebaca,2,24
+2020-03-29,Santa Feans,2,25
+2020-03-29,Saraswati Khalsa,2,26
+2020-03-29,Scott Wyland,2,27
+2020-03-29,Susan Tarver,2,28
+2020-03-29,Teya Vitu,2,29
+2020-03-29,Tyler Huss,2,30
+2020-03-30,Lujan Grisham,1,1
+2020-03-30,Michelle Lujan Grisham,1,2
+2020-03-31,Bennett Baur,1,5
+2020-03-31,Brian Williams,1,6
+2020-03-31,D-Santa Fe,1,7
+2020-03-31,Donald Trump,1,8
+2020-03-31,Edward Archuleta,1,9
+2020-03-31,Katherine Miller,1,10
+2020-03-31,Kathy Kunkel,1,11
+2020-03-31,Kyra Ochoa,1,12
+2020-03-31,Lilia Chacon,1,13
+2020-03-31,Lillian Montoya,1,14
+2020-03-31,Matt Nerzig,1,15
+2020-03-31,Meyers Sackett,1,16
+2020-03-31,Nora Meyers Sackett,1,17
+2020-03-31,Shannon Pinto,1,18
+2020-03-31,Alan Webber,2,3
+2020-03-31,Tripp Stelnicki,2,4
+2020-03-31,Lujan Grisham,3,1
+2020-03-31,Michelle Lujan Grisham,3,2
+2020-04-03,Susan Montoyo Bryan,1,6
+2020-04-03,Thomas Herbert,1,7
+2020-04-03,Donavan Mager,2,1
+2020-04-03,Jay Coghlan,2,2
+2020-04-03,Maria Cantwell,2,3
+2020-04-03,Martin Heinrich,2,4
+2020-04-03,Tom Udall,2,5
+2020-04-04,Antonio Maggiore,1,1
+2020-04-04,David Izraelevitz,1,2
+2020-04-04,Harry Burgess,1,3
+2020-04-04,Lujan Grisham,1,4
+2020-04-04,Michelle Lujan Grisham,1,5
+2020-04-04,Pete Sheehey,1,6
+2020-04-04,Ryan Stewart,1,7
+2020-04-04,Sara Scott,1,8
+2020-04-04,Steven Horak,1,9
+2020-04-06,Bill Foster,1,1
+2020-04-06,Charles Rath,1,2
+2020-04-06,Jeff Alcalde,1,3
+2020-04-06,Mike Ault,1,4
+2020-04-06,Natalie Sommer,1,5
+2020-04-06,Phil Fraher,1,6
+2020-04-06,Simon Goldfine,1,7
+2020-04-09,Christine Chandler,2,1
+2020-04-09,D-Los Alamos,2,2
+2020-04-09,David Scrase,2,3
+2020-04-09,Jeffrey Mitchell,2,4
+2020-04-09,Liz Stefanics,2,5
+2020-04-09,Lujan Grisham,2,6
+2020-04-09,Michelle Lujan Grisham,2,7
+2020-04-09,Wayne Johnson,2,8
+2020-04-10,Alexandra Perry Trimble,1,1
+2020-04-10,Andrew Cuomo,1,2
+2020-04-10,Anthony Fauci,1,3
+2020-04-10,Brooke Remmert,1,4
+2020-04-10,Consuelo Rojas,1,5
+2020-04-10,David Scrase,1,6
+2020-04-10,Donald Trump,1,7
+2020-04-10,Donna Thiersch,1,8
+2020-04-10,Jane Bates,1,9
+2020-04-10,John Lambert,1,10
+2020-04-10,Kathyleen Kunkel,1,11
+2020-04-10,Laura Montoya,1,12
+2020-04-10,Lujan Grisham,1,13
+2020-04-10,Nicholas Kristof,1,14
+2020-04-10,Steve Cary,1,15
+2020-04-11,Donavan Mager,1,1
+2020-04-11,Jay Coghlan,1,2
+2020-04-11,Jonathan Evans,1,3
+2020-04-11,Maria Cantwell,1,4
+2020-04-11,Martin Heinrich,1,5
+2020-04-11,Susan Montoya Bryan,1,6
+2020-04-15,Jim Fischer,1,1
+2020-04-15,John Mchale,1,2
+2020-04-15,Kenny Kimball,1,3
+2020-04-15,Michelle Lujan Grisham,1,4
+2020-04-15,Ricky Chhina,1,5
+2020-04-16,Brittany Dowd,1,1
+2020-04-16,David Jolly,1,2
+2020-04-16,Elizabeth Hargraves,1,3
+2020-04-16,John Whiteside,1,4
+2020-04-16,Katy Korkos,1,5
+2020-04-16,Nora Lamartine,1,6
+2020-04-16,Terry Foxx,1,7
+2020-04-16,Winnie Lamartine,1,8
+2020-04-17,Bradley Dickerson,1,1
+2020-04-17,David Scrase,1,2
+2020-04-17,Kathryn Hanley,1,3
+2020-04-17,Lujan Grisham,1,4
+2020-04-17,Michelle Lujan Grisham,1,5
+2020-04-19,Chabad Lubavitch,1,11
+2020-04-19,Patrick Breen,1,12
+2020-04-19,Rachel Leingang,1,13
+2020-04-19,Ashley Wooldridge,2,1
+2020-04-19,Brian Kruckenberg,2,2
+2020-04-19,Doug Ducey,2,3
+2020-04-19,Jennifer Wheeler,2,4
+2020-04-19,Jesus Christ,2,5
+2020-04-19,Levi Levertov,2,6
+2020-04-19,Nathan Bentley,2,7
+2020-04-19,Terry Crist,2,8
+2020-04-19,Usama Shami,2,9
+2020-04-19,William Lyons,2,10
+2020-04-21,Amanda Schoenberg,1,1
+2020-04-21,Arturo Delgado,1,2
+2020-04-21,Elizabeth Bailey,1,3
+2020-04-21,Las Vegas,1,4
+2020-04-21,Telesfor Ted Benavidez,1,5
+2020-04-23,Ahmet Yildiz,1,1
+2020-04-23,Arvind Ramanathan,1,2
+2020-04-23,Irene Qualters,1,3
+2020-04-23,Katherine Riley,1,4
+2020-04-23,Mahantesh Halappanavar,1,5
+2020-04-23,Mert Gehr,1,6
+2020-04-23,Paul Dabbar,1,7
+2020-04-23,Rachel Berkowitz,1,8
+2020-04-23,Stratos Davlos,1,9
+2020-04-24,Bryce Pittenger,1,4
+2020-04-24,Carrie Monroe,1,5
+2020-04-24,Larrissa Campbell,1,6
+2020-04-24,Lujan Grisham,1,7
+2020-04-24,Mark Brown,1,8
+2020-04-24,Mike Pence,1,9
+2020-04-24,Mitch Smith,1,10
+2020-04-24,Patsy Romero,1,11
+2020-04-24,Ranger Joshua Herron,1,12
+2020-04-24,Roslyn Pursley,1,13
+2020-04-24,Santa Maria El,1,14
+2020-04-24,Stefanie Juliano,1,15
+2020-04-24,Stephanie Herrera,1,16
+2020-04-24,Stephanie Juliano,1,17
+2020-04-24,Steve Pearce,1,18
+2020-04-24,Steve Smothermon,1,19
+2020-04-24,Wendy Linebrink-Allison,1,20
+2020-04-24,Carrie Manore,2,2
+2020-04-24,Dan Boyd,2,3
+2020-04-24,Michelle Lujan Grisham,5,1
+2020-04-25,A Santa Fean,1,1
+2020-04-25,Amy Van Winkle,1,2
+2020-04-25,Arlene Siegel,1,3
+2020-04-25,Barbara Allen Kenney,1,4
+2020-04-25,Barney Magrath,1,5
+2020-04-25,Brian Goldbeck,1,6
+2020-04-25,Donald Trump,1,7
+2020-04-25,James Melonas,1,8
+2020-04-25,James Murphy,1,9
+2020-04-25,Kevin Freking,1,10
+2020-04-25,Lindsay Conover,1,11
+2020-04-25,Michelle Lujan Grisham,1,12
+2020-04-25,Roger Carasso,1,13
+2020-04-25,Valerie Plame,1,14
+2020-04-26,Beverley Simpson,1,1
+2020-04-26,David Reagor,1,2
+2020-04-26,Harry Burgess,1,3
+2020-04-26,Lisa Shin,1,4
+2020-04-26,Lujan Grisham,1,5
+2020-04-26,Martin Hicks,1,6
+2020-04-26,Michelle Lujan Grisham,1,7
+2020-04-26,Nan,1,8
+2020-04-26,Paul Gessing,1,9
+2020-04-27,Bryce Pittenger,1,1
+2020-04-27,David Scrase,1,2
+2020-04-27,Jason Mitchell,1,3
+2020-04-27,Larrissa Campbell,1,4
+2020-04-27,Larry Behrens,1,5
+2020-04-27,Michelle Lujan Grisham,1,6
+2020-04-27,Patsy Romero,1,7
+2020-04-27,Roslyn Pursley,1,8
+2020-04-27,Santa Maria El,1,9
+2020-04-27,Stefanie Juliano,1,10
+2020-04-27,Stephanie Juliano,1,11
+2020-04-27,Wendy Linebrink-Allison,1,12
+2020-04-28,Don Hancock,1,1
+2020-04-28,James Kenney,1,2
+2020-04-28,Maddy Hayden,1,3
+2020-04-28,Thomas Herbert,1,4
+2020-04-29,Don Hancock,1,1
+2020-04-29,James Kenney,1,2
+2020-04-29,Maddy Hayden,1,3
+2020-04-29,Thomas Herbert,1,4
+2020-05-01,Bob Pettit,1,1
+2020-05-01,Henry Mcmaster,1,2
+2020-05-01,Jason Stapleton,1,3
+2020-05-01,Jay Coghlan,1,4
+2020-05-01,Jennifer Nelson,1,5
+2020-05-01,Joe Wilson,1,6
+2020-05-01,Julie Whitesell,1,7
+2020-05-01,Rick Allen,1,8
+2020-05-01,Rick Osbon,1,9
+2020-05-01,Sharon Rodgers,1,10
+2020-05-01,Tom Clements,1,11
+2020-05-04,Bob Pettit,1,1
+2020-05-04,Henry Mcmaster,1,2
+2020-05-04,Jason Stapleton,1,3
+2020-05-04,Jay Coghlan,1,4
+2020-05-04,Jennifer Nelson,1,5
+2020-05-04,Joe Wilson,1,6
+2020-05-04,Julie Whitesell,1,7
+2020-05-04,Rick Allen,1,8
+2020-05-04,Rick Osbon,1,9
+2020-05-04,Sharon Rodgers,1,10
+2020-05-04,Tom Clements,1,11
+2020-05-05,A Los Alamos,1,3
+2020-05-05,Belo Horizonte,1,4
+2020-05-05,Sante Fe,1,5
+2020-05-05,Turab Lookman,1,6
+2020-05-05,Bette Korber,2,1
+2020-05-05,Michelle Lujan Grisham,2,2
+2020-05-06,Kirsten Taylor-Mccabe,1,3
+2020-05-06,Los Alamo,1,4
+2020-05-06,Nan,1,5
+2020-05-06,Nick Hengartner,1,6
+2020-05-06,Oscar Maclean,1,7
+2020-05-06,Thom Mason,1,8
+2020-05-06,Eddie Moore Albuquerque,2,2
+2020-05-06,Bette Korber,3,1
+2020-05-07,Adriana Heguy,1,1
+2020-05-07,Robert Gallo,1,2
+2020-05-07,William Schaffner,1,3
+2020-05-08,Adriana Heguy,1,1
+2020-05-08,Bette Korber,1,2
+2020-05-08,John Rose,1,3
+2020-05-08,Mark Schleiss,1,4
+2020-05-11,Andrew Rambaut,1,1
+2020-05-11,Francois Balloux,1,2
+2020-05-11,Ian Jones,1,3
+2020-05-11,Lawrence Young,1,4
+2020-05-11,Oscar Maclean,1,5
+2020-05-11,William Hanage,1,6
+2020-05-13,Lisa Gordon-Hagerty,1,1
+2020-05-13,Tom Clements,1,2
+2020-05-14,Ellen Ben-Naim,1,1
+2020-05-14,Kurt Steinhaus,1,2
+2020-05-14,Teresa Gatewood,1,3
+2020-05-17,El Monte Carlo,1,1
+2020-05-17,Kristina Ortez,1,2
+2020-05-17,Las Vegas,1,3
+2020-05-17,Linda Calhoun,1,4
+2020-05-17,Lujan Grisham,1,5
+2020-05-17,Mark Gallegos,1,6
+2020-05-17,Martin Heinrich,1,7
+2020-05-17,Michelle Lujan Grisham,1,8
+2020-05-17,Paul Anthony Martinez,1,9
+2020-05-17,Susana Martinez,1,10
+2020-05-18,Aaron Morales,1,2
+2020-05-18,Carrie Hamblen,1,3
+2020-05-18,Clemente Sanchez,1,4
+2020-05-18,Connie Trujillo,1,5
+2020-05-18,Conoco Phillips,1,6
+2020-05-18,Correa Hemphill,1,7
+2020-05-18,Gabriel Gabe Ramos,1,8
+2020-05-18,Howie Morales,1,9
+2020-05-18,John Blair,1,10
+2020-05-18,Jonathan Nez,1,11
+2020-05-18,Joseph Sanchez,1,12
+2020-05-18,Kyle Tisdel,1,13
+2020-05-18,Las Cruceans,1,14
+2020-05-18,Las Vegas,1,15
+2020-05-18,Laura Montoya,1,16
+2020-05-18,Leger Fernandez,1,17
+2020-05-18,Leo Jaramillo,1,18
+2020-05-18,Lonna Atkeson,1,19
+2020-05-18,Lujan Grisham,1,20
+2020-05-18,Marco Serna,1,21
+2020-05-18,Marshall Martinez,1,22
+2020-05-18,Martin Heinrich Facebook,1,23
+2020-05-18,Mary Kay Papen,1,24
+2020-05-18,Nan,1,25
+2020-05-18,Neomi Martinez-Parra,1,26
+2020-05-18,Noreen Kelly,1,27
+2020-05-18,Pam Cordova,1,28
+2020-05-18,Pete Campos,1,29
+2020-05-18,Peter Goodman,1,30
+2020-05-18,Richard Martinez,1,31
+2020-05-18,Siah Correa Hemphill,1,32
+2020-05-18,Teresa Leger Fernandez,1,33
+2020-05-18,Tracy Perry,1,34
+2020-05-18,Tripp Stelnicki,1,35
+2020-05-18,Valerie Plame,1,36
+2020-05-18,Walt Rubel,1,37
+2020-05-18,Michelle Lujan Grisham,2,1
+2020-05-19,Clay Pearson,1,1
+2020-05-19,Gavekal Dragonomics,1,2
+2020-05-19,Irina Faskianos,1,3
+2020-05-19,Joel Hicks,1,4
+2020-05-19,Joy Garrett,1,5
+2020-05-19,Marilyn Ryan,1,6
+2020-05-19,Michael Radtke,1,7
+2020-05-19,Nan,1,8
+2020-05-19,Nelson Dollar,1,9
+2020-05-19,Pete Sheehey,1,10
+2020-05-19,Rowan Kane,1,11
+2020-05-19,Tim Moore,1,12
+2020-05-19,Timothy Horrigan,1,13
+2020-05-22,Josh Schachter,1,1
+2020-05-22,Juliet Dodds,1,2
+2020-05-22,Julius Schlosburg,1,3
+2020-05-22,Mabel Rivera,1,4
+2020-05-22,Patrick Kelly,1,5
+2020-05-22,Savannah Laporte,1,6
+2020-05-22,Svea Anderson,1,7
+2020-05-22,Yarrow King,1,8
+2020-05-23,Ivanka Trump,1,1
+2020-05-23,Leighton Cornish,1,2
+2020-05-23,Nancy Rodriguez,1,3
+2020-05-23,Scott Milenski,1,4
+2020-05-25,Patrick Sullivan,1,1

@@ -1,0 +1,570 @@
+date,organization,count,rn
+2020-02-20,Reuters,1,4
+2020-02-20,Thomson Reuters Trust Principles,1,5
+2020-02-20,Centers For Disease,2,1
+2020-02-20,Dun Bradstreet,2,2
+2020-02-20,United States,2,3
+2020-02-25,News Network,1,5
+2020-02-25,Agriculture Transportation Coalition,2,1
+2020-02-25,Anna King Northwest News Network,2,2
+2020-02-25,Seaport Alliance,2,3
+2020-02-25,Washington State Fruit Commission,2,4
+2020-02-27,Centers For Disease,2,1
+2020-02-27,Department Of Health,2,2
+2020-02-27,Sousley Sound Communications,2,3
+2020-02-27,Yakima Buddhist Church,2,4
+2020-02-27,Yakima Health District,2,5
+2020-02-27,Yakima Valley Museum,2,6
+2020-03-03,Emergency Management Agency,1,1
+2020-03-03,United States,1,2
+2020-03-03,White House,1,3
+2020-03-07,Associated Press,1,2
+2020-03-07,Bureau Of Immigration,1,3
+2020-03-07,Bureau Of Investigation,1,4
+2020-03-07,Cnn,1,5
+2020-03-07,Department Of Health,1,6
+2020-03-07,Evergreenhealth Medical Center,1,7
+2020-03-07,Facebook,1,8
+2020-03-07,Iran Fars News Agency,1,9
+2020-03-07,Iran Tasnim News Agency,1,10
+2020-03-07,Johns Hopkins University,1,11
+2020-03-07,New York Times,1,12
+2020-03-07,Philippines Department Of Health,1,13
+2020-03-07,Princess Cruises,1,14
+2020-03-07,Public Health Emergency,1,15
+2020-03-07,Reuters,1,16
+2020-03-07,United States,1,17
+2020-03-07,United States Forces Korea,1,18
+2020-03-07,Washington Post,1,19
+2020-03-07,World Health Organization,2,1
+2020-03-08,Associated Press,1,6
+2020-03-08,Democratic Party,1,7
+2020-03-08,Drug Administration,1,8
+2020-03-08,Facebook,1,9
+2020-03-08,Human Services,1,10
+2020-03-08,New York Times,1,11
+2020-03-08,Washington Post,1,12
+2020-03-08,World Health Organization,1,13
+2020-03-08,Centers For Disease,2,1
+2020-03-08,Department Of Health,2,2
+2020-03-08,Greece National Public Health Organization,2,3
+2020-03-08,Milton Keynes University Hospital,2,4
+2020-03-08,United States,2,5
+2020-03-09,Centers For Disease,1,2
+2020-03-09,Congress Passes Coronavirus Supplemental Appropriations Legislation,1,3
+2020-03-09,Egypt Health,1,4
+2020-03-09,Luxor Egypt Health,1,5
+2020-03-09,National Institutes Of Health,1,6
+2020-03-09,Washington Post,1,7
+2020-03-09,United States,2,1
+2020-03-11,Cnn,1,2
+2020-03-11,Crisis Action Task,1,3
+2020-03-11,Department Of Homeland Security,1,4
+2020-03-11,Emergency Management Agency,1,5
+2020-03-11,Google,1,6
+2020-03-11,Human Services,1,7
+2020-03-11,Human Services Department,1,8
+2020-03-11,Marsh Mclennan Companies,1,9
+2020-03-11,National Guard,1,10
+2020-03-11,Operations Center,1,11
+2020-03-11,Senate Minority Leader Chuck Schumer,1,12
+2020-03-11,United States,1,13
+2020-03-11,White House,1,14
+2020-03-11,World Health Organization,1,15
+2020-03-11,Centers For Disease,2,1
+2020-03-12,Centers For Disease,1,1
+2020-03-12,Cnn,1,2
+2020-03-12,Crisis Action Task,1,3
+2020-03-12,Department Of Homeland Security,1,4
+2020-03-12,Emergency Management Agency,1,5
+2020-03-12,Human Services,1,6
+2020-03-12,Human Services Department,1,7
+2020-03-12,Marsh Mclennan Companies,1,8
+2020-03-12,National Guard,1,9
+2020-03-12,Operations Center,1,10
+2020-03-12,Senate Minority Leader Chuck Schumer,1,11
+2020-03-12,White House,1,12
+2020-03-13,Oval Office Of The White House,1,8
+2020-03-13,Reuters,1,9
+2020-03-13,Thomson Reuters Trust Principles,1,10
+2020-03-13,Time Warner Company,1,11
+2020-03-13,Warnermedia Company,1,12
+2020-03-13,White House,1,13
+2020-03-13,Centers For Disease,3,2
+2020-03-13,Cnn,3,3
+2020-03-13,Department Of Homeland Security,3,4
+2020-03-13,Human Services Department,3,5
+2020-03-13,Marsh Mclennan Companies,3,6
+2020-03-13,Senate Minority Leader Chuck Schumer,3,7
+2020-03-13,Emergency Management Agency,5,1
+2020-03-14,Centers For Disease,1,2
+2020-03-14,Cnn,1,3
+2020-03-14,Democrats In Congress,1,4
+2020-03-14,Department Of Homeland Security,1,5
+2020-03-14,Department Of The Treasury,1,6
+2020-03-14,Emergency Management Agency,1,7
+2020-03-14,Emergency Management Agency Fema,1,8
+2020-03-14,European Union,1,9
+2020-03-14,Human Services Department,1,10
+2020-03-14,International Monetary Fund,1,11
+2020-03-14,Marsh Mclennan Companies,1,12
+2020-03-14,Senate Minority Leader Chuck Schumer,1,13
+2020-03-14,Treasury Department,1,14
+2020-03-14,United States,1,15
+2020-03-14,Us Health,1,16
+2020-03-14,World Bank,1,17
+2020-03-14,White House,2,1
+2020-03-15,Astria Health,1,1
+2020-03-15,Department Of Health,1,2
+2020-03-15,Facebook,1,3
+2020-03-15,Safeway,1,4
+2020-03-15,Washington Food Industry Association,1,5
+2020-03-15,Yakima Health District,1,6
+2020-03-15,Yakima Union Gospel Mission,1,7
+2020-03-16,Antietam National Battlefield,1,1
+2020-03-16,Bemiss Elementary School,1,2
+2020-03-16,Boys Girls Club Of Snohomish,1,3
+2020-03-16,Clorox,1,4
+2020-03-16,Edmonds-Woodway High School,1,5
+2020-03-16,Garfield Elementary School,1,6
+2020-03-16,Hallett Elementary School,1,7
+2020-03-16,Human Development Council,1,8
+2020-03-16,Shell,1,9
+2020-03-16,Spokane County Health,1,10
+2020-03-16,Spokane Regional Health District,1,11
+2020-03-16,Twitter,1,12
+2020-03-16,Walmart,1,13
+2020-03-16,Ymca,1,14
+2020-03-17,Adams School District,1,4
+2020-03-17,Grandview Middle School,1,5
+2020-03-17,Harrison Middle School,1,6
+2020-03-17,Hilton Elementary School,1,7
+2020-03-17,Kirkwood Elementary School,1,8
+2020-03-17,Mcclure Elementary School,1,9
+2020-03-17,Naches Valley Middle School,1,10
+2020-03-17,Naches Valley School District,1,11
+2020-03-17,Selah School District,1,12
+2020-03-17,Sierra Vista Middle School,1,13
+2020-03-17,Simcoe Elementary School,1,14
+2020-03-17,Sunnyside High School,1,15
+2020-03-17,Tampico Community Church,1,16
+2020-03-17,Thomson Reuters Trust Principles,1,17
+2020-03-17,Valley School District,1,18
+2020-03-17,Valley View Elementary School,1,19
+2020-03-17,Yakima School District,1,20
+2020-03-17,Yakima School District On,1,21
+2020-03-17,Zillah School District,1,22
+2020-03-17,Reuters,2,3
+2020-03-17,Federal Reserve,3,1
+2020-03-17,United States,3,2
+2020-03-18,A State Department,1,20
+2020-03-18,Adams School District,1,21
+2020-03-18,Administrator Of The Centers For Medicare,1,22
+2020-03-18,Associated Press,1,23
+2020-03-18,Centers For Disease,1,24
+2020-03-18,Columbia University,1,25
+2020-03-18,Discovery Lab,1,26
+2020-03-18,Facebook,1,27
+2020-03-18,Grandview Middle School,1,28
+2020-03-18,Harrison Middle School,1,29
+2020-03-18,Health Security,1,30
+2020-03-18,Hilton Elementary School,1,31
+2020-03-18,Johns Hopkins University Center,1,32
+2020-03-18,Kirkwood Elementary School,1,33
+2020-03-18,Massachusetts Medical Society,1,34
+2020-03-18,Mcclure Elementary School,1,35
+2020-03-18,Medicaid Services Seema Verma,1,36
+2020-03-18,Melinda Gates Foundation,1,37
+2020-03-18,Naches Valley Middle School,1,38
+2020-03-18,Naches Valley School District,1,39
+2020-03-18,National Council Of Asian Americans,1,40
+2020-03-18,National Security Council,1,41
+2020-03-18,Princeton University,1,42
+2020-03-18,Rutgers University,1,43
+2020-03-18,Selah School District,1,44
+2020-03-18,Sierra Vista Middle School,1,45
+2020-03-18,Simcoe Elementary School,1,46
+2020-03-18,Stanton Academy,1,47
+2020-03-18,States Center,1,48
+2020-03-18,Sunnyside High School,1,49
+2020-03-18,Syracuse University,1,50
+2020-03-18,America Better Life Lab,2,5
+2020-03-18,Berman Law Group,2,6
+2020-03-18,China National Health Commission,2,7
+2020-03-18,Chinese Communist Party,2,8
+2020-03-18,Dc Kincare Alliance,2,9
+2020-03-18,Heritage Foundation On,2,10
+2020-03-18,Institute For Corea,2,11
+2020-03-18,International Security,2,12
+2020-03-18,New York Times,2,13
+2020-03-18,Office Of The Superintendent Of Public Instruction,2,14
+2020-03-18,Reagan Administration,2,15
+2020-03-18,Staff In Yakima School District,2,16
+2020-03-18,Superintendent Of Educational Service District,2,17
+2020-03-18,White House,2,18
+2020-03-18,Xinhua,2,19
+2020-03-18,Washington Post,3,3
+2020-03-18,World Health Organization,3,4
+2020-03-18,Twitter,4,2
+2020-03-18,United States,7,1
+2020-03-19,Federal Reserve,1,2
+2020-03-19,National Council Of Asian Americans,1,3
+2020-03-19,Princeton University,1,4
+2020-03-19,Thomson Reuters Trust Principles,1,5
+2020-03-19,Twitter,1,6
+2020-03-19,World Health Organization,1,7
+2020-03-19,United States,2,1
+2020-03-20,Denver Police Department,1,1
+2020-03-20,Department Of Health,1,2
+2020-03-20,Educational Service District,1,3
+2020-03-20,Medtronic,1,4
+2020-03-20,Memorial Foundation,1,5
+2020-03-20,Mental Health,1,6
+2020-03-20,Office Of The Superintendent Of Public Instruction,1,7
+2020-03-20,Police Superintendent Woodrow Jones,1,8
+2020-03-20,Resmed Inc,1,9
+2020-03-20,Selah School District,1,10
+2020-03-20,United States,1,11
+2020-03-20,Yakima School District,1,12
+2020-03-21,Centers For Disease,1,1
+2020-03-21,Central District Health,1,2
+2020-03-21,Idaho County Free Press Grangeville,1,3
+2020-03-21,Idaho State Police,1,4
+2020-03-21,Mccall City Council On,1,5
+2020-03-21,Mccall Police,1,6
+2020-03-21,Trustees Rebecca Warden,1,7
+2020-03-22,Cnn,1,1
+2020-03-22,White House,1,2
+2020-03-23,Clorox,1,6
+2020-03-23,Washington Post,1,7
+2020-03-23,Wilmington Fire Department,1,8
+2020-03-23,Wilmington Firefighters Association,1,9
+2020-03-23,Cornell University,3,1
+2020-03-23,Johns Hopkins University,3,2
+2020-03-23,Jolla Institute For Immunology,3,3
+2020-03-23,National Institute Of Allergy,3,4
+2020-03-23,University Of Texas Medical Branch,3,5
+2020-03-24,Facebook,1,1
+2020-03-24,Union Gap,1,2
+2020-03-24,Yakima County Police Department,1,3
+2020-03-24,Yakima Health District,1,4
+2020-03-25,Astria Regional Medical Center,1,1
+2020-03-25,National Guard,1,2
+2020-03-25,National Guard Armory,1,3
+2020-03-25,Toppenish Community Hospital,1,4
+2020-03-25,Yakima Health District,1,5
+2020-03-25,Yakima Training Center,1,6
+2020-03-25,Yakima Valley Office Of Emergency Management,1,7
+2020-03-26,Department Of Corrections,1,9
+2020-03-26,Good Shepherd Food Bank,1,10
+2020-03-26,Harrison Food Bank,1,11
+2020-03-26,Hurdlesastria Health,1,12
+2020-03-26,Salvation Army,1,13
+2020-03-26,Salvation Army Dorthea Dix Soup,1,14
+2020-03-26,Union Gap,1,15
+2020-03-26,Yakima County Sheriff Office,1,16
+2020-03-26,Astria Health,2,1
+2020-03-26,Astria Regional Medical Center,2,2
+2020-03-26,Health Care Wellness Committee,2,3
+2020-03-26,Health John Wiesman,2,4
+2020-03-26,National Guard,2,5
+2020-03-26,Office Of Superintendent Of Public Instruction,2,6
+2020-03-26,Providence Yakima Medical Center,2,7
+2020-03-26,Vincent Medical Center,2,8
+2020-03-27,Astria Health,1,1
+2020-03-27,Astria Regional Medical Center,1,2
+2020-03-27,Brooking Institution,1,3
+2020-03-27,Brookings Institution,1,4
+2020-03-27,Champions Foundation,1,5
+2020-03-27,Facebook,1,6
+2020-03-27,Health Services,1,7
+2020-03-27,Hyatt,1,8
+2020-03-27,National Guard Armory On Airport,1,9
+2020-03-27,Single Hill Brewing Co,1,10
+2020-03-27,Twitter,1,11
+2020-03-27,Washington Health Care Association,1,12
+2020-03-27,Yakima Health District,1,13
+2020-03-30,Astria Health,1,1
+2020-03-30,Astria Regional Medical Center,1,2
+2020-03-30,Centurylink Field Event Center,1,3
+2020-03-30,Department Of Enterprise Services,1,4
+2020-03-30,National Guard Armory,1,5
+2020-03-31,Agribusiness Association,1,1
+2020-03-31,Brooking Institution,1,2
+2020-03-31,Brookings Institution,1,3
+2020-03-31,Champions Foundation,1,4
+2020-03-31,Department Of Health,1,5
+2020-03-31,Department Of Homeland Security,1,6
+2020-03-31,Facebook,1,7
+2020-03-31,Single Hill Brewing Co,1,8
+2020-03-31,Twitter,1,9
+2020-04-01,Department Of Corrections,1,1
+2020-04-01,Union Gap,1,2
+2020-04-01,Yakima County Sheriff Office,1,3
+2020-04-02,Ashley Furniture Industries,1,1
+2020-04-02,Astria Health,1,2
+2020-04-02,Astria Regional Medical Center,1,3
+2020-04-02,Department Of Health,1,4
+2020-04-02,Department Of Labor,1,5
+2020-04-02,Emergency Management Agency,1,6
+2020-04-02,National Guard Armory,1,7
+2020-04-02,Washington Military Department,1,8
+2020-04-02,Yakima Health District,1,9
+2020-04-02,Ymca,1,10
+2020-04-04,Beltrami County Sheriff Office,1,4
+2020-04-04,Community College,1,5
+2020-04-04,Facebook,1,6
+2020-04-04,Human Services Department,1,7
+2020-04-04,Public Health Department,1,8
+2020-04-04,Sheriff Office,1,9
+2020-04-04,White House,1,10
+2020-04-04,Paycheck Protection Program,2,1
+2020-04-04,Printing Solutions In Tempe,2,2
+2020-04-04,Small Business Administration,2,3
+2020-04-05,American Conservative Union,1,1
+2020-04-05,Centers For Disease,1,2
+2020-04-05,Cornell Medical College,1,3
+2020-04-05,Facebook,1,4
+2020-04-05,National Institute Of Allergy,1,5
+2020-04-05,National Institutes Of Health,1,6
+2020-04-05,United States,1,7
+2020-04-05,Washington Post,1,8
+2020-04-05,White House,1,9
+2020-04-05,White House Task,1,10
+2020-04-06,Airway Heights,1,1
+2020-04-06,Coronavirus Paycheck Protection Program,1,2
+2020-04-06,Paycheck Protection Program,1,3
+2020-04-06,Printing Solutions In Tempe,1,4
+2020-04-06,Small Business Administration,1,5
+2020-04-07,Airway Heights,1,1
+2020-04-07,Centurylink Field Event Center,1,2
+2020-04-07,China National Radio,1,3
+2020-04-07,Chinese Communist Party,1,4
+2020-04-07,Cnn,1,5
+2020-04-07,Department Of Corrections,1,6
+2020-04-07,Freedom House,1,7
+2020-04-07,Hoover Institution At Stanford University,1,8
+2020-04-07,Huawei,1,9
+2020-04-07,Paycheck Protection Program,1,10
+2020-04-07,People Liberation Army,1,11
+2020-04-07,Printing Solutions In Tempe,1,12
+2020-04-07,Small Business Administration,1,13
+2020-04-07,United States,1,14
+2020-04-08,Associated Press,1,2
+2020-04-08,Charles County Department Of Public Health,1,3
+2020-04-08,Correctional Center,1,4
+2020-04-08,Frontier Health Rehabilitation In St,1,5
+2020-04-08,Louis Metropolitan Pandemic Task,1,6
+2020-04-08,Missouri Department Of Health,1,7
+2020-04-08,Missouri Department Of Transportation,1,8
+2020-04-08,Missouri National Guard Adjutant,1,9
+2020-04-08,Senior Services,1,10
+2020-04-08,Transportation Department,1,11
+2020-04-08,Johns Hopkins University,2,1
+2020-04-09,Associated Press,1,1
+2020-04-09,Bellin Health,1,2
+2020-04-09,Dave Buster,1,3
+2020-04-09,Johns Hopkins University,1,4
+2020-04-09,Lodge Kohler,1,5
+2020-04-09,Louis Metropolitan Pandemic Task,1,6
+2020-04-09,Missouri National Guard Adjutant,1,7
+2020-04-09,Mulva Cultural Center,1,8
+2020-04-09,Radue Homes Inc,1,9
+2020-04-09,Resch Expo Center,1,10
+2020-04-09,United Health,1,11
+2020-04-09,Unitedhealth Group,1,12
+2020-04-13,Facebook,1,5
+2020-04-13,International Haiku Poetry Day On,1,6
+2020-04-13,High School,3,2
+2020-04-13,Yakima Eisenhower High School,3,3
+2020-04-13,Yakima School District,3,4
+2020-04-13,Yakima Health District,4,1
+2020-04-16,Frontier Health Rehabilitation,1,8
+2020-04-16,Johns Hopkins University Center,1,9
+2020-04-16,Latino Civic Alliance,1,10
+2020-04-16,Louis Metropolitan Pandemic Task,1,11
+2020-04-16,Twitter,1,12
+2020-04-16,Tribune Content Agency,2,7
+2020-04-16,Central Area Senior Center,3,2
+2020-04-16,Leschi Community Council,3,3
+2020-04-16,University Of California,3,4
+2020-04-16,White Center,3,5
+2020-04-16,Youtube,3,6
+2020-04-16,Facebook,4,1
+2020-04-17,Joshua Green Foundation,1,1
+2020-04-17,Wa Food Fund,1,2
+2020-04-20,Central Area Senior Center,1,1
+2020-04-20,Facebook,1,2
+2020-04-20,Leschi Community Council,1,3
+2020-04-20,University Of California,1,4
+2020-04-20,White Center,1,5
+2020-04-20,Youtube,1,6
+2020-04-21,European Centre For Disease Prevention,1,1
+2020-04-21,European Union,1,2
+2020-04-21,International Health Regulations,1,3
+2020-04-21,Sungkyunkwan University,1,4
+2020-04-21,United States,1,5
+2020-04-21,White House,1,6
+2020-04-21,World Health Organization,1,7
+2020-04-23,Facebook,2,6
+2020-04-23,Oregon Health,2,7
+2020-04-23,Police Chiefs,2,8
+2020-04-23,Republican Party,2,9
+2020-04-23,Science University In Portland,2,10
+2020-04-23,Tea Party,2,11
+2020-04-23,United States,2,12
+2020-04-23,Washington Association Of Sheriffs,2,13
+2020-04-23,Department Of Health,4,1
+2020-04-23,Department Of Labor,4,2
+2020-04-23,Latino Civic Alliance,4,3
+2020-04-23,Tree Fruit Association,4,4
+2020-04-23,Washington State Tree Fruit Association,4,5
+2020-04-24,Facebook,1,1
+2020-04-24,Opportunities Industrialization Center,1,2
+2020-04-24,Pizza Hut,1,3
+2020-04-24,Salvation Army,1,4
+2020-04-24,Selah Civic Center,1,5
+2020-04-24,Selah Food Bank,1,6
+2020-04-24,Washington Food Bank,1,7
+2020-04-27,Food Service,1,1
+2020-04-27,Food Service Workers,1,2
+2020-04-27,Food Services,1,3
+2020-04-27,Information Services,1,4
+2020-04-27,Persell Middle School,1,5
+2020-04-29,Arizona Health,1,1
+2020-04-29,Banner Health,1,2
+2020-04-30,Arizona Department Of Health Services,1,1
+2020-04-30,Arizona Health,1,2
+2020-04-30,Banner Health,1,3
+2020-04-30,Banner Health Clinic On,1,4
+2020-04-30,Peoria City Council,1,5
+2020-05-02,Arizona Department Of Health Services,1,1
+2020-05-02,Arizona Health,1,2
+2020-05-02,Banner Health,1,3
+2020-05-02,Banner Health Clinic On,1,4
+2020-05-02,Department Of Labor,1,5
+2020-05-02,Food Service,1,6
+2020-05-02,Food Service Workers,1,7
+2020-05-02,Futuros Latinos Club Advisor Emily Naetzker,1,8
+2020-05-02,Information Services,1,9
+2020-05-02,Latino Civic Alliance,1,10
+2020-05-02,Persell Middle School,1,11
+2020-05-02,Ring Elementary School,1,12
+2020-05-02,School Lunch Hero Day,1,13
+2020-05-02,School Lunch Heroes Day,1,14
+2020-05-02,Washington Department Of Health,1,15
+2020-05-02,Washington Middle School Counselor Sam Restivo,1,16
+2020-05-03,Department Of Labor,1,4
+2020-05-03,Latino Civic Alliance,1,5
+2020-05-03,Washington Department Of Health,1,6
+2020-05-03,Centers For Disease,2,1
+2020-05-03,Salle High School,2,2
+2020-05-03,Yakima Health District,2,3
+2020-05-05,Facebook,1,1
+2020-05-05,Legends Casino Hotel,1,2
+2020-05-05,National Indigenous Women Resource Center,1,3
+2020-05-05,Rutgers University,1,4
+2020-05-05,Yakama Nation Police Department,1,5
+2020-05-05,Yakama Nation Tribal School,1,6
+2020-05-05,Yakima Valley Community Foundation,1,7
+2020-05-07,Department Of Agriculture,1,1
+2020-05-07,Emergency Food Assistance Program,1,2
+2020-05-07,Emergency Management Agency,1,3
+2020-05-07,Harvard Health,1,4
+2020-05-07,Office Of Financial Management,1,5
+2020-05-07,Sunrise Outreach Center,1,6
+2020-05-07,United Nation Environment Program,1,7
+2020-05-07,Wa Food Fund,1,8
+2020-05-07,Wa Food Fund On,1,9
+2020-05-07,Washington State Department Of Agriculture,1,10
+2020-05-07,World Health Organization,1,11
+2020-05-09,Health Systems Inc,1,1
+2020-05-09,Missouri Baptist Medical Center,1,2
+2020-05-12,Centers For Disease,1,5
+2020-05-12,United States,1,6
+2020-05-12,American Heart Association,2,1
+2020-05-12,American Heart Association News,2,2
+2020-05-12,Society Of Vascular,2,3
+2020-05-12,Washington Post,2,4
+2020-05-14,Mercer Family Vineyards,1,1
+2020-05-14,Michelle Wine Estates Wine Science Center,1,2
+2020-05-14,Walter Clore Wine Culinary Center,1,3
+2020-05-14,Washington State University,1,4
+2020-05-14,Washington Wine Commission,1,5
+2020-05-14,Wine Press,1,6
+2020-05-15,Arkansas Department Of Health On,1,6
+2020-05-15,Department Of Natural Resources,1,7
+2020-05-15,National Drought Mitigation Center,1,8
+2020-05-15,National Guard,1,9
+2020-05-15,Rudy Duck Club,1,10
+2020-05-15,Yakima Health District,1,11
+2020-05-15,Faraji Department,3,1
+2020-05-15,Reuters,3,2
+2020-05-15,Utah Department Of Agriculture,3,3
+2020-05-15,Vespa,3,4
+2020-05-15,World Health Organization,3,5
+2020-05-16,American Heart Association,1,1
+2020-05-16,Community Health Of Central Washington,1,2
+2020-05-16,Neighborhood Health,1,3
+2020-05-16,Paycheck Protection Program,1,4
+2020-05-16,Society Of Vascular,1,5
+2020-05-16,Washington Association Of Community Health,1,6
+2020-05-16,Washington Post,1,7
+2020-05-16,Yakima Health District,1,8
+2020-05-16,Yakima Neighborhood Health Services,1,9
+2020-05-19,America Building Trades Union,1,1
+2020-05-19,Asian Pacific Islander Coalition,1,2
+2020-05-19,Census Bureau,1,3
+2020-05-19,Cities Development Council,1,4
+2020-05-19,Department Of Energy,1,5
+2020-05-19,Energy Communities Alliance,1,6
+2020-05-19,Key Bank,1,7
+2020-05-19,Latino Community Fund,1,8
+2020-05-19,Metal Trades Department,1,9
+2020-05-19,Naah Illahee Fund,1,10
+2020-05-19,Office Of Financial Management Census Education,1,11
+2020-05-19,Office Of Inspector,1,12
+2020-05-19,Tribune Content Agency,1,13
+2020-05-19,Washington Census Alliance,1,14
+2020-05-19,Washington Progress Fund,1,15
+2020-05-19,Yakima School District,1,16
+2020-05-22,Eisenhower High School,1,1
+2020-05-22,Franklin Middle School,1,2
+2020-05-22,Lincoln Elementary School,1,3
+2020-05-22,Office Of The Superintendent Of Public Instruction,1,4
+2020-05-22,Pasco School District,1,5
+2020-05-22,Washington Middle School,1,6
+2020-05-22,Yakima Health District,1,7
+2020-05-22,Yakima School District,1,8
+2020-05-22,Yakima School District Washington Middle School,1,9
+2020-05-23,Alliance To Combat Extremism Fund,1,8
+2020-05-23,Associated Press,1,9
+2020-05-23,Chaco Culture National Historical Park,1,10
+2020-05-23,Democratic Party Of New Mexico,1,11
+2020-05-23,Facebook,1,12
+2020-05-23,Health Department,1,13
+2020-05-23,Health Department On,1,14
+2020-05-23,Health Officials Focus On Young People As,1,15
+2020-05-23,Instagram,1,16
+2020-05-23,Mexico Department Of Homeland Security,1,17
+2020-05-23,National Indian Gaming Commission,1,18
+2020-05-23,Republican Party Of New Mexico,1,19
+2020-05-23,Twitter,1,20
+2020-05-23,Xcel Energy Sagamore Wind,1,21
+2020-05-23,Community To Community Development In Bellingham,3,5
+2020-05-23,Department Of Labor,3,6
+2020-05-23,Washington State Labor Council,3,7
+2020-05-23,Astria Health,5,1
+2020-05-23,Department Of Health,5,2
+2020-05-23,Stanford University,5,3
+2020-05-23,Yakima Health District,5,4
+2020-05-25,Centers For Disease,1,1
+2020-05-25,Department Of Health,1,2
+2020-05-25,Fund For Community Health,1,3
+2020-05-25,Jefferson School,1,4
+2020-05-25,National Association Of Community Health Centers,1,5
+2020-05-25,Neighborhood Health,1,6
+2020-05-25,Trapp Industries,1,7
+2020-05-25,United States,1,8
+2020-05-25,Yakima Health District,1,9
+2020-05-25,Yakima Neighborhood Health,1,10

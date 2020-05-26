@@ -1,0 +1,769 @@
+date,organization,count,rn
+2020-02-12,Georgia Department Of Public Health,1,1
+2020-02-12,Health District,1,2
+2020-02-12,Moody Air Force,1,3
+2020-03-03,New York Times,1,5
+2020-03-03,York Times Company,1,6
+2020-03-03,Centers For Disease,2,1
+2020-03-03,Life Care Center,2,2
+2020-03-03,United States,2,3
+2020-03-03,University Of Michigan School Of Public Health,2,4
+2020-03-05,United States,1,1
+2020-03-07,Economic Club Of Southwestern Michigan,1,1
+2020-03-07,H Club,1,2
+2020-03-07,Mendel Center,1,3
+2020-03-11,Emergency Operations Center,1,1
+2020-03-11,Emergency Response Team,1,2
+2020-03-11,Human Services,1,3
+2020-03-11,Michigan Department Of Health,1,4
+2020-03-11,Michigan State Police,1,5
+2020-03-11,Nan,1,6
+2020-03-12,Georgia Department Of Public Health,1,1
+2020-03-12,Health Protection Condition,1,2
+2020-03-12,Moody,1,3
+2020-03-12,Moody Air Force,1,4
+2020-03-12,Public Health Emergency,1,5
+2020-03-12,Team Moody Tricare,1,6
+2020-03-13,Amazon Web Services,1,4
+2020-03-13,Army Gen,1,5
+2020-03-13,Associated Press,1,6
+2020-03-13,Boeing,1,7
+2020-03-13,Centers For Disease,1,8
+2020-03-13,Cnn,1,9
+2020-03-13,Continental Army,1,10
+2020-03-13,Defense Department,1,11
+2020-03-13,Department Of Defense,1,12
+2020-03-13,Department Of Education,1,13
+2020-03-13,Epi Reference Lab,1,14
+2020-03-13,Facebook,1,15
+2020-03-13,House Armed Services Readiness Subcommittee,1,16
+2020-03-13,International Monetary Fund On,1,17
+2020-03-13,Macdill Air Force,1,18
+2020-03-13,Madison Area Technical College,1,19
+2020-03-13,Member Day Senate Armed Services Committee,1,20
+2020-03-13,Microsoft,1,21
+2020-03-13,Most University Of Wisconsin System,1,22
+2020-03-13,National Security Council,1,23
+2020-03-13,Northrop Grumman,1,24
+2020-03-13,Senate Majority Leader Mitch Mcconnell,1,25
+2020-03-13,Space Expo At Laughlin Air Force,1,26
+2020-03-13,Strategic Forces Subcommittee,1,27
+2020-03-13,Training At Joint Base San Antonio-Lackland,1,28
+2020-03-13,Training School At Maxwell Air Force,1,29
+2020-03-13,Twitter,1,30
+2020-03-13,United States,1,31
+2020-03-13,University Housing,1,32
+2020-03-13,University Of North Carolina At Chapel Hill,1,33
+2020-03-13,Us Department Of Agriculture,1,34
+2020-03-13,Wisconsin Army National Guard,1,35
+2020-03-13,World Health Organization,1,36
+2020-03-13,Altus Air Force,2,2
+2020-03-13,Moody Air Force,2,3
+2020-03-13,Supplemental Nutrition Assistance Program,3,1
+2020-03-14,Cornerstone Alliance,1,1
+2020-03-14,Cornerstone Alliance Twitter,1,2
+2020-03-14,Facebook,1,3
+2020-03-14,I M Customer Operations Center,1,4
+2020-03-14,Meijer,1,5
+2020-03-14,Sea Party,1,6
+2020-03-14,Small Business Administration,1,7
+2020-03-14,Watermark Brewing Company,1,8
+2020-03-16,Joseph County Public Library,1,13
+2020-03-16,Spectrum Health,1,14
+2020-03-16,Ymca,1,15
+2020-03-16,Bridgman High School,3,2
+2020-03-16,Bridgman Public Library,3,3
+2020-03-16,Centers For Disease,3,4
+2020-03-16,Coloma Community Schools,3,5
+2020-03-16,First Church,3,6
+2020-03-16,Human Services,3,7
+2020-03-16,Lincoln School,3,8
+2020-03-16,Michigan Department Of Health,3,9
+2020-03-16,Ministerial Alliance,3,10
+2020-03-16,Overflow Church,3,11
+2020-03-16,Spectrum Health In Grand Rapids,3,12
+2020-03-16,Spectrum Health Lakeland,4,1
+2020-03-17,Facebook,1,1
+2020-03-17,Ora Lee W Community Center,1,2
+2020-03-17,Robert Jenkins-Hudson Dockett Community Center,1,3
+2020-03-17,Sl Mason Elementary School,1,4
+2020-03-18,Aaron,1,22
+2020-03-18,Associated Press,1,23
+2020-03-18,British Airways,1,24
+2020-03-18,Carnival Corp,1,25
+2020-03-18,Celebrity Cruises,1,26
+2020-03-18,Commonwealth Office,1,27
+2020-03-18,Constituency Development,1,28
+2020-03-18,Cruise Line International Association,1,29
+2020-03-18,Curious Kid Museum,1,30
+2020-03-18,Development Operations Specialist,1,31
+2020-03-18,Dobbins Air Reserve,1,32
+2020-03-18,E Free Church,1,33
+2020-03-18,Emergency Operations Center,1,34
+2020-03-18,Human Service,1,35
+2020-03-18,Joseph Pubic Library,1,36
+2020-03-18,Michigan Department Of Health,1,37
+2020-03-18,Michigan Library Association,1,38
+2020-03-18,Nan,1,39
+2020-03-18,Princess Cruises,1,40
+2020-03-18,Royal Caribbean,1,41
+2020-03-18,Travis Air Force,1,42
+2020-03-18,United States,1,43
+2020-03-18,Centers For Disease,2,20
+2020-03-18,Constituency Development At No Kid Hungry,2,21
+2020-03-18,America Charities,3,3
+2020-03-18,America Charities Coronavirus Response Fund,3,4
+2020-03-18,Centers For Disease Control,3,5
+2020-03-18,Children Foundation,3,6
+2020-03-18,Coronavirus Resource Center,3,7
+2020-03-18,Deaf Community,3,8
+2020-03-18,Drug Administration,3,9
+2020-03-18,Friends Animal Society,3,10
+2020-03-18,Johns Hopkins Children Center,3,11
+2020-03-18,Legal Services,3,12
+2020-03-18,Lorton Community Action Center,3,13
+2020-03-18,Miriam Kitchen Emergency Flex Fund,3,14
+2020-03-18,National Association Of The Deaf,3,15
+2020-03-18,Response Fund,3,16
+2020-03-18,Scholar Emergency Fund,3,17
+2020-03-18,Their Lifesaving Centers,3,18
+2020-03-18,Thurgood Marshall College Fund,3,19
+2020-03-18,Department Of Health,4,1
+2020-03-18,Human Services,4,2
+2020-03-19,America Charities,1,1
+2020-03-19,America Charities Coronavirus Response Fund,1,2
+2020-03-19,Centers For Disease Control,1,3
+2020-03-19,Children Foundation,1,4
+2020-03-19,Community Healing Centers,1,5
+2020-03-19,Constituency Development,1,6
+2020-03-19,Coronavirus Resource Center,1,7
+2020-03-19,Deaf Community,1,8
+2020-03-19,Department Of Health,1,9
+2020-03-19,Development Operations Specialist,1,10
+2020-03-19,Drug Administration,1,11
+2020-03-19,Facebook,1,12
+2020-03-19,Friends Animal Society,1,13
+2020-03-19,Human Services,1,14
+2020-03-19,Johns Hopkins Children Center,1,15
+2020-03-19,Legal Services,1,16
+2020-03-19,Lorton Community Action Center,1,17
+2020-03-19,Miriam Kitchen Emergency Flex Fund,1,18
+2020-03-19,National Association Of The Deaf,1,19
+2020-03-19,Response Fund,1,20
+2020-03-19,Scholar Emergency Fund,1,21
+2020-03-19,Their Lifesaving Centers,1,22
+2020-03-19,Thurgood Marshall College Fund,1,23
+2020-03-20,Autozone,1,1
+2020-03-20,Exxon Mobil,1,2
+2020-03-20,Facebook,1,3
+2020-03-20,Google,1,4
+2020-03-20,Health Department,1,5
+2020-03-20,Health Department Facebook,1,6
+2020-03-20,Intelligence Committee,1,7
+2020-03-20,Michigan Regional Chamber,1,8
+2020-03-20,Nan,1,9
+2020-03-20,New York Stock Exchange,1,10
+2020-03-20,Park Hotels,1,11
+2020-03-20,Prairie Academy,1,12
+2020-03-20,Ross Stores,1,13
+2020-03-20,Tar Heel Club,1,14
+2020-03-20,United States,1,15
+2020-03-20,Wyndham Hotels,1,16
+2020-03-20,York Stock Exchange,1,17
+2020-03-20,Youtube,1,18
+2020-03-21,Associated Press,1,1
+2020-03-21,Berrien Community Foundation,1,2
+2020-03-21,Census Bureau,1,3
+2020-03-21,Central Michigan University,1,4
+2020-03-21,Cities Area Transportation Authority,1,5
+2020-03-21,Community Colleges,1,6
+2020-03-21,Eastside Neighborhood Association,1,7
+2020-03-21,Ferris State University,1,8
+2020-03-21,Foundation Scholars,1,9
+2020-03-21,Human Services,1,10
+2020-03-21,Kalamazoo Valley Community College,1,11
+2020-03-21,Kellogg Community College,1,12
+2020-03-21,Lake Michigan College,1,13
+2020-03-21,Lake Superior State University,1,14
+2020-03-21,Mendel Center,1,15
+2020-03-21,Michigan College,1,16
+2020-03-21,Michigan Department Of Education,1,17
+2020-03-21,Michigan Department Of Health,1,18
+2020-03-21,Michigan Planning Commission,1,19
+2020-03-21,Michigan State University,1,20
+2020-03-21,Michigan Technological University,1,21
+2020-03-21,Michigan University,1,22
+2020-03-21,Muskegon Community College,1,23
+2020-03-21,Northern Michigan University,1,24
+2020-03-21,Oakland University,1,25
+2020-03-21,Rapids Community College,1,26
+2020-03-21,Research Day,1,27
+2020-03-21,Saginaw Valley University,1,28
+2020-03-21,School Closures,1,29
+2020-03-21,University Of Michigan Ann Arbor,1,30
+2020-03-21,Upton Foundation,1,31
+2020-03-21,Wayne State University,1,32
+2020-03-21,Westnedge School,1,33
+2020-03-21,Whirlpool Corp,1,34
+2020-03-22,Sandi Patty At Andrews University,1,1
+2020-03-23,Lakeland Medical Center,1,1
+2020-03-23,Nan,1,2
+2020-03-23,Sandi Patty At Andrews University,1,3
+2020-03-23,Spectrum Health,1,4
+2020-03-23,Spectrum Health Lakeland,1,5
+2020-03-23,Spectrum Health Regional Laboratory,1,6
+2020-03-24,Cornerstone Alliance,1,1
+2020-03-24,Department Of Agriculture,1,2
+2020-03-24,Michigan Chamber,1,3
+2020-03-24,Rural Development,1,4
+2020-03-24,Spectrum Health Lakeland,1,5
+2020-03-25,Berrien Community Foundation,1,4
+2020-03-25,Customer Service Center,1,5
+2020-03-25,Cybersecurity Infrastructure Security Agency,1,6
+2020-03-25,Facebook,1,7
+2020-03-25,Finnegan Rv Center,1,8
+2020-03-25,Harbert Community Church,1,9
+2020-03-25,Human Services,1,10
+2020-03-25,Michigan Department Of Health,1,11
+2020-03-25,Old Stone Church,1,12
+2020-03-25,Revenue Service,1,13
+2020-03-25,Sam Club,1,14
+2020-03-25,Stateline Community Foundation,1,15
+2020-03-25,Walmart,1,16
+2020-03-25,Wisconsin Department Of Health Services,1,17
+2020-03-25,Wisconsin Economic Development Corporation,1,18
+2020-03-25,Beer Church,2,1
+2020-03-25,Harbor Country Vacation Rental Association,2,2
+2020-03-25,Michigan Economic Development Corporation,2,3
+2020-03-26,American Electric Power Foundation,1,3
+2020-03-26,Army Corps,1,4
+2020-03-26,Atmospheric Administration In Ann Arbor,1,5
+2020-03-26,Berrien Community Foundation,1,6
+2020-03-26,Facebook,1,7
+2020-03-26,Hanson Family Foundation,1,8
+2020-03-26,Henry Ford Health System,1,9
+2020-03-26,International Joint Commission,1,10
+2020-03-26,Lawrence River Alliance,1,11
+2020-03-26,Meijer,1,12
+2020-03-26,Michigan Cares Fund,1,13
+2020-03-26,Michigan Municipal League,1,14
+2020-03-26,Nan,1,15
+2020-03-26,National Oceanic,1,16
+2020-03-26,Ontario Power Generation,1,17
+2020-03-26,Our Water International,1,18
+2020-03-26,Public Health,1,19
+2020-03-26,Spectrum Health Lakeland Hospital,1,20
+2020-03-26,Trinity Health,1,21
+2020-03-26,United States,1,22
+2020-03-26,University Of Michigan,1,23
+2020-03-26,Whirlpool Corp,1,24
+2020-03-26,York Power Authority St,1,25
+2020-03-26,Spectrum Health,2,2
+2020-03-26,Spectrum Health Lakeland,3,1
+2020-03-27,Human Services,1,1
+2020-03-27,Michigan Department Of Health,1,2
+2020-03-27,Spectrum Health,1,3
+2020-03-27,Spectrum Health Lakeland,1,4
+2020-03-27,United States,1,5
+2020-03-28,Berrien Community Foundation,1,9
+2020-03-28,Hanson Family Foundation,1,10
+2020-03-28,Human Services,1,11
+2020-03-28,Johns Hopkins University,1,12
+2020-03-28,Meijer,1,13
+2020-03-28,Michigan Cares Fund,1,14
+2020-03-28,Michigan Department Of Health,1,15
+2020-03-28,Spectrum Health Lakeland,1,16
+2020-03-28,Whirlpool Corp,1,17
+2020-03-28,College Board,2,1
+2020-03-28,Facebook,2,2
+2020-03-28,Indiana Department Of Education,2,3
+2020-03-28,Lake Michigan College,2,4
+2020-03-28,Lakeshore High School,2,5
+2020-03-28,Lakeshore High School In Stevensville,2,6
+2020-03-28,Mars Elementary School In Berrien,2,7
+2020-03-28,Netflix Party,2,8
+2020-03-29,American International Auto Show,1,1
+2020-03-29,Cobo Center,1,2
+2020-03-29,Department Of Health,1,3
+2020-03-29,Human Services,1,4
+2020-03-29,Michigan University,1,5
+2020-03-29,Nan,1,6
+2020-03-30,Beaumont Health,1,1
+2020-03-30,Centers For Disease,1,2
+2020-03-30,Community Information,1,3
+2020-03-30,Human Services,1,4
+2020-03-30,Indiana State Department Of Health,1,5
+2020-03-30,Outpatient Services,1,6
+2020-03-30,Spectrum Health,1,7
+2020-03-30,Spectrum Health Lakeland,1,8
+2020-03-31,Indiana State Department Of Health,1,7
+2020-03-31,Community Information,2,3
+2020-03-31,Outpatient Services,2,4
+2020-03-31,Outpatient Services In St,2,5
+2020-03-31,Van Buren Cass District Health Department,2,6
+2020-03-31,Spectrum Health,4,1
+2020-03-31,Spectrum Health Lakeland,4,2
+2020-04-01,Coloma Community Schools,1,10
+2020-04-01,Justice Department,1,11
+2020-04-01,Menasha Packaging Co,1,12
+2020-04-01,Old Rugged Cross Church,1,13
+2020-04-01,Orion Center,1,14
+2020-04-01,Senate Republican Caucus,1,15
+2020-04-01,Small Business Administration,1,16
+2020-04-01,Union Pier,1,17
+2020-04-01,White House,1,18
+2020-04-01,Children Leukemia Foundation Of Michigan,2,1
+2020-04-01,Day Foundation,2,2
+2020-04-01,Dunkin Joy In Childhood Foundation,2,3
+2020-04-01,Office Building,2,4
+2020-04-01,Pontiac,2,5
+2020-04-01,Rochester Community House,2,6
+2020-04-01,Salvation Army,2,7
+2020-04-01,Salvation Army Eastern Michigan Division,2,8
+2020-04-01,Salvation Army Of Metro Detroit,2,9
+2020-04-02,Berrien Community Foundation,1,4
+2020-04-02,Cnn,1,5
+2020-04-02,Cornerstone Alliance,1,6
+2020-04-02,Human Services,1,7
+2020-04-02,Medicaid Program,1,8
+2020-04-02,Michigan Department Of Health,1,9
+2020-04-02,Michigan Economic Development Corporation,1,10
+2020-04-02,School Funding Research Collaborative,1,11
+2020-04-02,Senate Majority Leader Mike Shirkey,1,12
+2020-04-02,Southwestern Michigan Tourist Council,1,13
+2020-04-02,Summer Food Service Program,1,14
+2020-04-02,World Health Organization,1,15
+2020-04-02,Menards,2,1
+2020-04-02,Michigan Department Of Attorney,2,2
+2020-04-02,Michigan Department Of Education,2,3
+2020-04-03,Centers For Disease,1,3
+2020-04-03,Clorox,1,4
+2020-04-03,Community Development Block Grant,1,5
+2020-04-03,Menards,1,6
+2020-04-03,Menasha Packaging Co,1,7
+2020-04-03,Michigan Department Of Education,1,8
+2020-04-03,School Funding Research Collaborative,1,9
+2020-04-03,Twitter,1,10
+2020-04-03,Community Development Block,2,1
+2020-04-03,Emergency Solutions,2,2
+2020-04-04,Beaumont Health,1,1
+2020-04-04,Centers For Disease,1,2
+2020-04-04,Centers For Medicare Medicaid Services,1,3
+2020-04-04,City Baptist School In Allen Park,1,4
+2020-04-04,Department Of Health,1,5
+2020-04-04,Employee Health,1,6
+2020-04-04,Free Press,1,7
+2020-04-04,Free Press On,1,8
+2020-04-04,Henry Ford Health System,1,9
+2020-04-04,Human Services,1,10
+2020-04-04,United States,1,11
+2020-04-05,Mercy Health,1,1
+2020-04-05,Steward Health Care,1,2
+2020-04-05,United States,1,3
+2020-04-06,Beaumont Health,1,1
+2020-04-06,Centers For Disease,1,2
+2020-04-06,Centers For Medicare Medicaid Services,1,3
+2020-04-06,City Baptist School In Allen Park,1,4
+2020-04-06,Department Of Health,1,5
+2020-04-06,Employee Health,1,6
+2020-04-06,Facebook,1,7
+2020-04-06,Free Press,1,8
+2020-04-06,Free Press On,1,9
+2020-04-06,Henry Ford Health System,1,10
+2020-04-06,Human Services,1,11
+2020-04-06,Indiana State Department Of Health,1,12
+2020-04-06,Lakeland Medical Center,1,13
+2020-04-06,Tobacco Commission,1,14
+2020-04-06,United States,1,15
+2020-04-06,Youtube,1,16
+2020-04-07,Airman Eugene Oliver Air,1,1
+2020-04-07,Defense Department,1,2
+2020-04-07,Department Of Veterans Affairs,1,3
+2020-04-07,Families At Syracuse University,1,4
+2020-04-07,Institute For Veterans,1,5
+2020-04-07,Moody Air Force,1,6
+2020-04-07,National Guard,1,7
+2020-04-07,Syracuse University,1,8
+2020-04-07,United States,1,9
+2020-04-07,Veterans Health Administration,1,10
+2020-04-07,White House,1,11
+2020-04-08,Revenue Service,1,1
+2020-04-09,Nan,1,2
+2020-04-09,Spectrum Health Lakeland,3,1
+2020-04-10,Beaumont Health,1,4
+2020-04-10,Beaumont Service Center,1,5
+2020-04-10,Children Leukemia Foundation Of Michigan,1,6
+2020-04-10,Day Foundation,1,7
+2020-04-10,Department Of Public Safety,1,8
+2020-04-10,Dunkin Joy In Childhood Foundation,1,9
+2020-04-10,Eastern Michigan University,1,10
+2020-04-10,Emergency Needs Fund,1,11
+2020-04-10,Facebook,1,12
+2020-04-10,Henry Ford Health System,1,13
+2020-04-10,Kroger Co,1,14
+2020-04-10,Nan,1,15
+2020-04-10,Office Building,1,16
+2020-04-10,Orion Center,1,17
+2020-04-10,Pontiac,1,18
+2020-04-10,Rochester Community House,1,19
+2020-04-10,Salvation Army,1,20
+2020-04-10,Salvation Army Eastern Michigan Division,1,21
+2020-04-10,Salvation Army Of Metro Detroit,1,22
+2020-04-10,Human Services,2,1
+2020-04-10,Michigan Department Of Health,2,2
+2020-04-10,Pandemic Electronic Benefit Transfer Program,2,3
+2020-04-11,Berrien Community Foundation,1,1
+2020-04-11,Community Information,1,2
+2020-04-11,Cora Lamping Center,1,3
+2020-04-11,Facebook,1,4
+2020-04-11,Health Department,1,5
+2020-04-11,Joseph Township Police,1,6
+2020-04-11,Michigan Cares Fund,1,7
+2020-04-11,Obstruction A Police,1,8
+2020-04-11,Outpatient Services,1,9
+2020-04-11,Spectrum Health,1,10
+2020-04-11,Spectrum Health Lakeland,1,11
+2020-04-11,Youtube,1,12
+2020-04-13,Associated Press,1,2
+2020-04-13,Berrien Community Foundation,1,3
+2020-04-13,Community Information,1,4
+2020-04-13,Facebook,1,5
+2020-04-13,Hallmark Living Center,1,6
+2020-04-13,Health Department,1,7
+2020-04-13,Indiana State Department Of Health,1,8
+2020-04-13,Michigan Cares Fund,1,9
+2020-04-13,Obstruction A Police,1,10
+2020-04-13,Outpatient Services,1,11
+2020-04-13,Spectrum Health,1,12
+2020-04-13,Timothy Community Church,1,13
+2020-04-13,Youtube,1,14
+2020-04-13,Spectrum Health Lakeland,2,1
+2020-04-14,American Electric Power,1,6
+2020-04-14,Berrien Community Foundation,1,7
+2020-04-14,Centers For Disease Control,1,8
+2020-04-14,Community Information,1,9
+2020-04-14,Cook Nuclear Plant,1,10
+2020-04-14,Health Department,1,11
+2020-04-14,Michigan Cares Fund,1,12
+2020-04-14,Outpatient Services,1,13
+2020-04-14,Spectrum Health,1,14
+2020-04-14,Human Services,2,3
+2020-04-14,Intercare Community Health Network,2,4
+2020-04-14,Michigan Department Of Health,2,5
+2020-04-14,Hallmark Living Center,3,1
+2020-04-14,Spectrum Health Lakeland,3,2
+2020-04-15,American Electric Power,1,13
+2020-04-15,Berrien Community Foundation,1,14
+2020-04-15,Centers For Disease Control,1,15
+2020-04-15,Community Information,1,16
+2020-04-15,Cook Nuclear Plant,1,17
+2020-04-15,Hallmark Living Center,1,18
+2020-04-15,Health Department,1,19
+2020-04-15,Michigan Cares Fund,1,20
+2020-04-15,Nan,1,21
+2020-04-15,Outpatient Services,1,22
+2020-04-15,Spectrum Health,1,23
+2020-04-15,Spectrum Health Lakeland,1,24
+2020-04-15,A Women Bible Study At Lighthouse Church,2,1
+2020-04-15,American Legion,2,2
+2020-04-15,Club Of Harbor Country,2,3
+2020-04-15,Episcopal Church,2,4
+2020-04-15,Facebook,2,5
+2020-04-15,Google,2,6
+2020-04-15,Harbert Community Church Helping Hands,2,7
+2020-04-15,Pastor Jim Bouslog At Bible Baptist Church,2,8
+2020-04-15,River Valley Senior Center,2,9
+2020-04-15,Senior Center,2,10
+2020-04-15,Senior Nutrition Services Meals On Wheels,2,11
+2020-04-15,Water Edge Church,2,12
+2020-04-16,Joseph Mercy Brighton Health Center,1,1
+2020-04-16,Trinity Health,1,2
+2020-04-16,Warde Medical Laboratory,1,3
+2020-04-17,American Electric Power,1,1
+2020-04-17,Ametek Inc,1,2
+2020-04-17,Arizona Instrument,1,3
+2020-04-17,Berrien Community Foundation,1,4
+2020-04-17,Centers For Disease Control,1,5
+2020-04-17,Community Information,1,6
+2020-04-17,Cook Nuclear Plant,1,7
+2020-04-17,Emerson Electric Company,1,8
+2020-04-17,Hach Company,1,9
+2020-04-17,Hallmark Living Center,1,10
+2020-04-17,Health Department,1,11
+2020-04-17,Honeywell International Inc,1,12
+2020-04-17,Instrument Technologies Inc,1,13
+2020-04-17,Instruments Inc,1,14
+2020-04-17,Joseph Mercy Brighton Health Center,1,15
+2020-04-17,Michigan Cares Fund,1,16
+2020-04-17,Nan,1,17
+2020-04-17,Office Hours Call,1,18
+2020-04-17,Outpatient Services,1,19
+2020-04-17,Spectrum Health,1,20
+2020-04-17,Spectrum Health Lakeland,1,21
+2020-04-17,Trinity Health,1,22
+2020-04-17,United States,1,23
+2020-04-17,Warde Medical Laboratory,1,24
+2020-04-18,Homeland Security Committee,1,1
+2020-04-18,Spectrum Health Lakeland,1,2
+2020-04-18,Whirlpool Corp,1,3
+2020-04-18,White House,1,4
+2020-04-20,Cnn,1,1
+2020-04-20,Human Services,1,2
+2020-04-20,Michigan Department Of Health,1,3
+2020-04-20,Pew Research Center,1,4
+2020-04-20,United States,1,5
+2020-04-20,White House,1,6
+2020-04-23,Brite Eyes Brewing Co,1,1
+2020-04-23,Facebook,1,2
+2020-04-23,Gonzo,1,3
+2020-04-23,Gravity Brewing Company,1,4
+2020-04-23,Guardian Brewing Company,1,5
+2020-04-23,Instagram,1,6
+2020-04-23,Lucky Girl Brewing Co,1,7
+2020-04-23,Lucky Girl Brewing Company,1,8
+2020-04-23,Mango Oberon,1,9
+2020-04-23,Michigan Brewers Guild,1,10
+2020-04-23,Michigan Cares Fund,1,11
+2020-04-23,Paw Paw Brewing Company,1,12
+2020-04-23,Pier Brewing Company,1,13
+2020-04-23,Police Officers,1,14
+2020-04-23,Presidential Brewing Company,1,15
+2020-04-23,Silver Harbor Brewing Company,1,16
+2020-04-23,Twitter,1,17
+2020-04-23,Waypost Brewing Co,1,18
+2020-04-24,American Legion,1,3
+2020-04-24,Centers For Medicare,1,4
+2020-04-24,Facebook,1,5
+2020-04-24,Human Services,1,6
+2020-04-24,Indiana State Health,1,7
+2020-04-24,Intercare Community Health Network,1,8
+2020-04-24,Lake Catholic Church,1,9
+2020-04-24,Lawrence High School,1,10
+2020-04-24,Medicaid Services,1,11
+2020-04-24,Nursing Center,1,12
+2020-04-24,Versiti Blood Center,1,13
+2020-04-24,Kinexus Group,2,1
+2020-04-24,Michigan Department Of Transportation,2,2
+2020-04-25,American Electric Power,1,2
+2020-04-25,Berrien Community Foundation,1,3
+2020-04-25,Community Information,1,4
+2020-04-25,Cook Nuclear Plant,1,5
+2020-04-25,Health Department,1,6
+2020-04-25,Michigan Cares Fund,1,7
+2020-04-25,Nursing Center,1,8
+2020-04-25,Outpatient Services,1,9
+2020-04-25,Spectrum Health,1,10
+2020-04-25,Union Pier,1,11
+2020-04-25,Spectrum Health Lakeland,2,1
+2020-04-26,American Electric Power,1,1
+2020-04-26,Berrien Community Foundation,1,2
+2020-04-26,Community Information,1,3
+2020-04-26,Cook Nuclear Plant,1,4
+2020-04-26,Health Department,1,5
+2020-04-26,Michigan Cares Fund,1,6
+2020-04-26,Nursing Center,1,7
+2020-04-26,Outpatient Services,1,8
+2020-04-26,Spectrum Health,1,9
+2020-04-26,Spectrum Health Lakeland,1,10
+2020-04-26,Union Pier,1,11
+2020-04-27,American Electric Power,1,1
+2020-04-27,Berrien Community Foundation,1,2
+2020-04-27,Community Information,1,3
+2020-04-27,Cook Nuclear Plant,1,4
+2020-04-27,Health Department,1,5
+2020-04-27,Michigan Cares Fund,1,6
+2020-04-27,Nursing Center,1,7
+2020-04-27,Outpatient Services,1,8
+2020-04-27,Spectrum Health,1,9
+2020-04-27,Spectrum Health Lakeland,1,10
+2020-04-27,Suffolk University Political Research Center,1,11
+2020-04-27,Suffolk University Poll,1,12
+2020-04-27,Union Pier,1,13
+2020-04-27,United States,1,14
+2020-04-27,White House,1,15
+2020-04-28,American Electric Power,1,1
+2020-04-28,Amtrak,1,2
+2020-04-28,Berrien Community Foundation,1,3
+2020-04-28,Buffalo Business Association Board,1,4
+2020-04-28,Community Facebook Live,1,5
+2020-04-28,Community Information,1,6
+2020-04-28,Cook Nuclear Plant,1,7
+2020-04-28,Facebook,1,8
+2020-04-28,Health Department,1,9
+2020-04-28,Michigan Cares Fund,1,10
+2020-04-28,Nursing Center,1,11
+2020-04-28,Outpatient Services,1,12
+2020-04-28,Paycheck Protection Program,1,13
+2020-04-28,Small Business Administration,1,14
+2020-04-28,Spectrum Health,1,15
+2020-04-28,Spectrum Health Lakeland,1,16
+2020-04-28,Union Pier,1,17
+2020-04-29,Associated Press,1,8
+2020-04-29,Beaumont Health,1,9
+2020-04-29,Bloomingdale,1,10
+2020-04-29,Consumer Protection Team,1,11
+2020-04-29,Emergency Operations Center,1,12
+2020-04-29,Food Bank Council,1,13
+2020-04-29,Food Bank Council Of Michigan,1,14
+2020-04-29,Gilead Sciences,1,15
+2020-04-29,Henry Ford Health System,1,16
+2020-04-29,Holy Trinity Church,1,17
+2020-04-29,Human Services,1,18
+2020-04-29,Jennifer Granholm At Holy Trinity Church,1,19
+2020-04-29,Macy Inc,1,20
+2020-04-29,Meijer,1,21
+2020-04-29,Michigan Department Of Health,1,22
+2020-04-29,Neiman Marcus,1,23
+2020-04-29,Sears,1,24
+2020-04-29,Senate Majority Leader Mitch Mcconnell,1,25
+2020-04-29,Simon Property Group,1,26
+2020-04-29,Town Center At Cobb,1,27
+2020-04-29,Tribune Content Agency,1,28
+2020-04-29,Holy Trinity Institutional Church,2,2
+2020-04-29,Man Ministry,2,3
+2020-04-29,Midwest Theological University,2,4
+2020-04-29,Trinity Nonprofit Housing Corporation,2,5
+2020-04-29,United States,2,6
+2020-04-29,Valley Academy,2,7
+2020-04-29,Nan,3,1
+2020-04-30,American College Of Obstetrics,1,2
+2020-04-30,Berrien Community Foundation,1,3
+2020-04-30,Centers For Disease,1,4
+2020-04-30,Greenleaf Health Campus,1,5
+2020-04-30,Greenleaf Health Campus In Elkhart,1,6
+2020-04-30,Health Department,1,7
+2020-04-30,Holy Trinity Institutional Church,1,8
+2020-04-30,Human Services,1,9
+2020-04-30,Intercare Community Health Network,1,10
+2020-04-30,Joe Medical Group,1,11
+2020-04-30,Man Ministry,1,12
+2020-04-30,Michigan Cares Fund,1,13
+2020-04-30,Michigan Department Of Health,1,14
+2020-04-30,Midwest Theological University,1,15
+2020-04-30,Nan,1,16
+2020-04-30,Outpatient Services,1,17
+2020-04-30,Spectrum Health,1,18
+2020-04-30,Spectrum Health In Grand Rapids,1,19
+2020-04-30,Spectrum Health Lakeland,1,20
+2020-04-30,Spectrum Health Regional Lab In Grand Rapids,1,21
+2020-04-30,Tribune Content Agency,1,22
+2020-04-30,Trilogy Health Services,1,23
+2020-04-30,Trinity Nonprofit Housing Corporation,1,24
+2020-04-30,Union Pier,1,25
+2020-04-30,University Medical Specialties,1,26
+2020-04-30,Valley Academy,1,27
+2020-04-30,United States,2,1
+2020-05-01,A State Department,1,1
+2020-05-01,Apple Association,1,2
+2020-05-01,Belk Department,1,3
+2020-05-01,Centers For Disease,1,4
+2020-05-01,Community Family Life Center,1,5
+2020-05-01,Community Testing,1,6
+2020-05-01,Department Of Homeland Security,1,7
+2020-05-01,Department Of Public Health,1,8
+2020-05-01,Dillard,1,9
+2020-05-01,Georgia School Boards Association,1,10
+2020-05-01,Governor Office Of Planning,1,11
+2020-05-01,Health Department,1,12
+2020-05-01,Human Services,1,13
+2020-05-01,Michigan Department Of Health,1,14
+2020-05-01,National Council Of Agricultural Employers,1,15
+2020-05-01,Packard Health,1,16
+2020-05-01,Pepsico,1,17
+2020-05-01,Perry Early Learning Center,1,18
+2020-05-01,Senate House Appropriations,1,19
+2020-05-01,Simon Property Group,1,20
+2020-05-01,United States,1,21
+2020-05-01,You Partnership,1,22
+2020-05-01,Ypsilanti Community Schools,1,23
+2020-05-01,Ypsilanti Township Community Center,1,24
+2020-05-02,Berrien Community Foundation,1,1
+2020-05-02,Health Department,1,2
+2020-05-02,Intercare Community Health Network,1,3
+2020-05-02,Michigan Cares Fund,1,4
+2020-05-02,Outpatient Services,1,5
+2020-05-02,Spectrum Health,1,6
+2020-05-02,Spectrum Health In Grand Rapids,1,7
+2020-05-02,Spectrum Health Lakeland,1,8
+2020-05-02,Spectrum Health Regional Lab In Grand Rapids,1,9
+2020-05-02,Union Pier,1,10
+2020-05-02,University Medical Specialties,1,11
+2020-05-04,Berrien Community Foundation,1,1
+2020-05-04,First Commerce Credit Union,1,2
+2020-05-04,First Federal Bank,1,3
+2020-05-04,Health Department,1,4
+2020-05-04,Intercare Community Health Network,1,5
+2020-05-04,Michigan Cares Fund,1,6
+2020-05-04,Outpatient Services,1,7
+2020-05-04,Spectrum Health,1,8
+2020-05-04,Spectrum Health In Grand Rapids,1,9
+2020-05-04,Spectrum Health Lakeland,1,10
+2020-05-04,Spectrum Health Regional Lab In Grand Rapids,1,11
+2020-05-04,Union Pier,1,12
+2020-05-04,University Medical Specialties,1,13
+2020-05-05,Facebook,1,1
+2020-05-05,Health Department,1,2
+2020-05-05,Health Department On,1,3
+2020-05-05,Health Lakeland,1,4
+2020-05-05,Intercare Community Health Network,1,5
+2020-05-05,Outpatient Services,1,6
+2020-05-05,Spectrum Health,1,7
+2020-05-05,Spectrum Health In Grand Rapids,1,8
+2020-05-05,Spectrum Health Lakeland,1,9
+2020-05-05,Spectrum Health Regional Lab In Grand Rapids,1,10
+2020-05-05,Union Pier,1,11
+2020-05-05,University Medical Specialties,1,12
+2020-05-07,Facebook,1,1
+2020-05-07,Health Department,1,2
+2020-05-07,Health Department On,1,3
+2020-05-07,Health Lakeland,1,4
+2020-05-07,Intercare Community Health Network,1,5
+2020-05-07,Outpatient Services,1,6
+2020-05-07,Spectrum Health,1,7
+2020-05-07,Spectrum Health In Grand Rapids,1,8
+2020-05-07,Spectrum Health Lakeland,1,9
+2020-05-07,Spectrum Health Regional Lab In Grand Rapids,1,10
+2020-05-07,Union Pier,1,11
+2020-05-07,University Medical Specialties,1,12
+2020-05-09,Appellate Defenders Office,2,1
+2020-05-09,Supreme Court,2,2
+2020-05-13,Michigan Association Of Ambulance Services,1,1
+2020-05-15,Georgia Air National Guard,1,5
+2020-05-15,Georgia Air National Guard Medical Groups,1,6
+2020-05-15,Georgia Army National Guard Medical Groups,1,7
+2020-05-15,Medgar Evers College In Brooklyn,1,8
+2020-05-15,Moody Air Force,1,9
+2020-05-15,Nan,1,10
+2020-05-15,National Guard,1,11
+2020-05-15,Phoebe Sumter Medical Center,1,12
+2020-05-15,Phoebe Worth Medical Center,1,13
+2020-05-15,Robbins Air Force,1,14
+2020-05-15,Michigan Department Of Health,2,1
+2020-05-15,Oregon Department Of Human Services,2,2
+2020-05-15,Oregon Health Authority,2,3
+2020-05-15,United States,2,4
+2020-05-21,Association Of American Physicians,1,1
+2020-05-21,Baylor College Of Medicine,1,2
+2020-05-21,Centers For Disease,1,3
+2020-05-21,Department Of Health,1,4
+2020-05-21,Drug Administration,1,5
+2020-05-21,Facebook,1,6
+2020-05-21,Ferrari,1,7
+2020-05-21,Human Services,1,8
+2020-05-21,National Institute Of Allergy,1,9
+2020-05-21,Pennsylvania State University,1,10
+2020-05-21,Twitter,1,11
+2020-05-21,University Of Washington,1,12
+2020-05-21,Washington Post,1,13
+2020-05-21,White House,1,14
+2020-05-21,Yougov,1,15
+2020-05-22,Beaumont Foundation,1,1
+2020-05-22,Best Buy,1,2
+2020-05-22,Cheesecake Factory,1,3
+2020-05-22,Georgia Department Of Public Safety,1,4
+2020-05-22,Simon Property Group,1,5
+2020-05-22,Territorial Health Officials,1,6
+2020-05-22,Town Center At Cobb,1,7
+2020-05-23,Berrien Community Foundation,1,1
+2020-05-23,Census Bureau,1,2
+2020-05-23,Development Fund,1,3

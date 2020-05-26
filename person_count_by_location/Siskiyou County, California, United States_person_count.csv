@@ -1,0 +1,890 @@
+date,person,count,rn
+2020-02-14,Christian Walzer,1,1
+2020-02-14,Typhoid Mary,1,2
+2020-02-17,Anthony Fauci,2,1
+2020-02-17,Cheryl Molesky,2,2
+2020-02-17,Matthew Smith,2,3
+2020-02-17,Paul Molesky,2,4
+2020-02-17,Taro Kono,2,5
+2020-02-26,Nan,2,1
+2020-02-28,Nan,1,1
+2020-03-04,Ron Mccloud,1,1
+2020-03-04,Sonia Angell,1,2
+2020-03-04,Stephen Kolpacoff,1,3
+2020-03-04,Yreka Walmart,1,4
+2020-03-05,Nan,1,1
+2020-03-13,Brandon Utpon,1,1
+2020-03-13,Jim Justice,1,2
+2020-03-13,Sandra Hassenpflug,1,3
+2020-03-16,John Koeberer,1,1
+2020-03-16,Karen Elliott,1,2
+2020-03-16,Lisa Mangat,1,3
+2020-03-16,Nate Rangel,1,4
+2020-03-16,Tom Stienstra,1,5
+2020-03-17,Gavin Newsom,1,1
+2020-03-17,Julie Leopo Edsource,1,2
+2020-03-17,Kermith Walters,1,3
+2020-03-17,Patty Gunderson,1,4
+2020-03-17,Peter Birdsall,1,5
+2020-03-17,Ray Kellar,1,6
+2020-03-17,Shelley Cain,1,7
+2020-03-17,Tony Thurmond,1,8
+2020-03-18,Chatham Kent,1,9
+2020-03-18,Christine Elliott,1,10
+2020-03-18,Haliburton Kawartha Pineridge,1,11
+2020-03-18,Justin Trudeau,1,12
+2020-03-18,Las Vegas,1,13
+2020-03-18,Simcoe Muskoka,1,14
+2020-03-18,Sophie Gregoire Trudeau,1,15
+2020-03-18,Bari Golin-Blaugrund,2,2
+2020-03-18,Curtis Tate,2,3
+2020-03-18,David Oliver,2,4
+2020-03-18,Ellis Barker,2,5
+2020-03-18,Gavin Newsom,2,6
+2020-03-18,Jonathon Fishman,2,7
+2020-03-18,Vance Gulliksen,2,8
+2020-03-18,Stephen Kolpacoff,3,1
+2020-03-19,Chatham Kent,1,1
+2020-03-19,Christine Elliott,1,2
+2020-03-19,Haliburton Kawartha Pineridge,1,3
+2020-03-19,Justin Trudeau,1,4
+2020-03-19,Las Vegas,1,5
+2020-03-19,Simcoe Muskoka,1,6
+2020-03-19,Sophie Gregoire Trudeau,1,7
+2020-03-20,Chatham Kent,1,1
+2020-03-20,Christine Elliott,1,2
+2020-03-20,Haliburton Kawartha Pineridge,1,3
+2020-03-20,Justin Trudeau,1,4
+2020-03-20,Las Vegas,1,5
+2020-03-20,Simcoe Muskoka,1,6
+2020-03-20,Sophie Gregoire Trudeau,1,7
+2020-03-21,Chatham Kent,1,1
+2020-03-21,Christine Elliott,1,2
+2020-03-21,Gavin Newsom,1,3
+2020-03-21,Haliburton Kawartha,1,4
+2020-03-21,Haliburton Kawartha Pineridge,1,5
+2020-03-21,Justin Trudeau,1,6
+2020-03-21,Las Vegas,1,7
+2020-03-21,Nicole Costantino,1,8
+2020-03-21,Robert Grant,1,9
+2020-03-21,Shea King,1,10
+2020-03-21,Simcoe Muskoka,1,11
+2020-03-21,Sophie Gregoire Trudeau,1,12
+2020-03-22,Windsor Essex,1,9
+2020-03-22,Chatham Kent,2,1
+2020-03-22,Christine Elliott,2,2
+2020-03-22,Haliburton Kawartha,2,3
+2020-03-22,Haliburton Kawartha Pineridge,2,4
+2020-03-22,Justin Trudeau,2,5
+2020-03-22,Las Vegas,2,6
+2020-03-22,Simcoe Muskoka,2,7
+2020-03-22,Sophie Gregoire Trudeau,2,8
+2020-03-23,Chatham Kent,1,1
+2020-03-23,Christine Elliott,1,2
+2020-03-23,Haliburton Kawartha,1,3
+2020-03-23,Haliburton Kawartha Pineridge,1,4
+2020-03-23,Justin Trudeau,1,5
+2020-03-23,Las Vegas,1,6
+2020-03-23,Simcoe Muskoka,1,7
+2020-03-23,Sophie Gregoire Trudeau,1,8
+2020-03-23,Windsor Essex,1,9
+2020-03-24,Antoinette Balta,1,4
+2020-03-24,Chatham Kent,1,5
+2020-03-24,Christine Elliott,1,6
+2020-03-24,Haliburton Kawartha,1,7
+2020-03-24,Haliburton Kawartha Pineridge,1,8
+2020-03-24,John Carr,1,9
+2020-03-24,Justin Trudeau,1,10
+2020-03-24,Kerri Schuette,1,11
+2020-03-24,Las Vegas,1,12
+2020-03-24,Mark Mitchelson,1,13
+2020-03-24,Robert Folden,1,14
+2020-03-24,Santa Clara,1,15
+2020-03-24,Simcoe Muskoka,1,16
+2020-03-24,Sophie Gregoire Trudeau,1,17
+2020-03-24,Windsor Essex,1,18
+2020-03-24,Arthur Sullivan,2,2
+2020-03-24,Eric Seiler,2,3
+2020-03-24,Gavin Newsom,3,1
+2020-03-25,Chatham Kent,1,1
+2020-03-25,Christine Elliott,1,2
+2020-03-25,Haliburton Kawartha,1,3
+2020-03-25,Haliburton Kawartha Pineridge,1,4
+2020-03-25,Justin Trudeau,1,5
+2020-03-25,Las Vegas,1,6
+2020-03-25,Simcoe Muskoka,1,7
+2020-03-25,Sophie Gregoire Trudeau,1,8
+2020-03-25,Windsor Essex,1,9
+2020-03-26,Chatham Kent,1,1
+2020-03-26,Christine Elliott,1,2
+2020-03-26,Haliburton Kawartha,1,3
+2020-03-26,Haliburton Kawartha Pineridge,1,4
+2020-03-26,Justin Trudeau,1,5
+2020-03-26,Las Vegas,1,6
+2020-03-26,Satsuki Ina,1,7
+2020-03-26,Simcoe Muskoka,1,8
+2020-03-26,Sophie Gregoire Trudeau,1,9
+2020-03-26,Windsor Essex,1,10
+2020-03-27,Aaron Stutz,1,5
+2020-03-27,Chatham Kent,1,6
+2020-03-27,Christine Elliott,1,7
+2020-03-27,Eric Magrini,1,8
+2020-03-27,Gavin Newsom,1,9
+2020-03-27,Haliburton Kawartha,1,10
+2020-03-27,Haliburton Kawartha Pineridge,1,11
+2020-03-27,Jim Tomlin,1,12
+2020-03-27,Johns Hopkins,1,13
+2020-03-27,Judy Flores,1,14
+2020-03-27,Justin Trudeau,1,15
+2020-03-27,Karen Ramstrom,1,16
+2020-03-27,Las Vegas,1,17
+2020-03-27,Los Angeles,1,18
+2020-03-27,Simcoe Muskoka,1,19
+2020-03-27,Sophie Gregoire Trudeau,1,20
+2020-03-27,Steve Bullock,1,21
+2020-03-27,Windsor Essex,1,22
+2020-03-27,Donald Trump,2,1
+2020-03-27,Pete King,2,2
+2020-03-27,Pete King Reppeteking,2,3
+2020-03-27,Thomas Massie,2,4
+2020-03-28,Chatham Kent,1,3
+2020-03-28,Christine Elliott,1,4
+2020-03-28,Haliburton Kawartha,1,5
+2020-03-28,Haliburton Kawartha Pineridge,1,6
+2020-03-28,Justin Trudeau,1,7
+2020-03-28,Kirk Andrus,1,8
+2020-03-28,Las Vegas,1,9
+2020-03-28,Scott Tomlin,1,10
+2020-03-28,Simcoe Muskoka,1,11
+2020-03-28,Sophie Gregoire Trudeau,1,12
+2020-03-28,Windsor Essex,1,13
+2020-03-28,Jim Tomlin,2,1
+2020-03-28,Steve Bullock,2,2
+2020-03-29,Chatham Kent,1,1
+2020-03-29,Christine Elliott,1,2
+2020-03-29,Haliburton Kawartha,1,3
+2020-03-29,Haliburton Kawartha Pineridge,1,4
+2020-03-29,Justin Trudeau,1,5
+2020-03-29,Las Vegas,1,6
+2020-03-29,Simcoe Muskoka,1,7
+2020-03-29,Sophie Gregoire Trudeau,1,8
+2020-03-29,Windsor Essex,1,9
+2020-03-30,Amy Cordalis,1,1
+2020-03-30,Chatham Kent,1,2
+2020-03-30,Christine Elliott,1,3
+2020-03-30,Haliburton Kawartha,1,4
+2020-03-30,Haliburton Kawartha Pineridge,1,5
+2020-03-30,Justin Trudeau,1,6
+2020-03-30,Las Vegas,1,7
+2020-03-30,Simcoe Muskoka,1,8
+2020-03-30,Sophie Gregoire Trudeau,1,9
+2020-03-30,Windsor Essex,1,10
+2020-03-31,Aaron Stutz,1,1
+2020-03-31,Chatham Kent,1,2
+2020-03-31,Christine Elliott,1,3
+2020-03-31,Haliburton Kawartha,1,4
+2020-03-31,Haliburton Kawartha Pineridge,1,5
+2020-03-31,Justin Trudeau,1,6
+2020-03-31,Las Vegas,1,7
+2020-03-31,Simcoe Muskoka,1,8
+2020-03-31,Sophie Gregoire Trudeau,1,9
+2020-03-31,Windsor Essex,1,10
+2020-04-01,Aaron Stutz,1,11
+2020-04-01,Andrew Cuomo,1,12
+2020-04-01,Bobbie Altman,1,13
+2020-04-01,Chatham Kent,1,14
+2020-04-01,Christine Elliott,1,15
+2020-04-01,Dave Hicks,1,16
+2020-04-01,Dave Marshall,1,17
+2020-04-01,David Weintraub,1,18
+2020-04-01,Doug Carter,1,19
+2020-04-01,Francisco Castillo,1,20
+2020-04-01,Haliburton Kawartha,1,21
+2020-04-01,Haliburton Kawartha Pineridge,1,22
+2020-04-01,Karen Roorda,1,23
+2020-04-01,Mackenzie Richmond Hill,1,24
+2020-04-01,Marisol Echevarria,1,25
+2020-04-01,Matt Romaine,1,26
+2020-04-01,Nancy Pelosi,1,27
+2020-04-01,Simcoe Muskoka,1,28
+2020-04-01,Theodore Dreiser,1,29
+2020-04-01,Tom Stienstra,1,30
+2020-04-01,Umberto Davila,1,31
+2020-04-01,Veronica Eghdami,1,32
+2020-04-01,Windsor Essex,1,33
+2020-04-01,Christine Lindquist,2,1
+2020-04-01,Justin Trudeau,2,2
+2020-04-01,Katie Madinger,2,3
+2020-04-01,Las Vegas,2,4
+2020-04-01,Mike Matlock,2,5
+2020-04-01,Nicole Lamoureux,2,6
+2020-04-01,Ron Yee,2,7
+2020-04-01,Sophie Gregoire Trudeau,2,8
+2020-04-01,Stephanie Garris,2,9
+2020-04-01,Thomas Tighe,2,10
+2020-04-02,Chatham Kent,1,1
+2020-04-02,Christine Elliott,1,2
+2020-04-02,Haliburton Kawartha,1,3
+2020-04-02,Haliburton Kawartha Pineridge,1,4
+2020-04-02,Justin Trudeau,1,5
+2020-04-02,Las Vegas,1,6
+2020-04-02,Simcoe Muskoka,1,7
+2020-04-02,Sophie Gregoire Trudeau,1,8
+2020-04-02,Windsor Essex,1,9
+2020-04-03,Chatham Kent,1,1
+2020-04-03,Christine Elliott,1,2
+2020-04-03,Haliburton Kawartha,1,3
+2020-04-03,Haliburton Kawartha Pineridge,1,4
+2020-04-03,Justin Trudeau,1,5
+2020-04-03,Las Vegas,1,6
+2020-04-03,Simcoe Muskoka,1,7
+2020-04-03,Sophie Gregoire Trudeau,1,8
+2020-04-03,Windsor Essex,1,9
+2020-04-04,Chatham Kent,1,1
+2020-04-04,Christine Elliott,1,2
+2020-04-04,Dave Hicks,1,3
+2020-04-04,Dave Marshall,1,4
+2020-04-04,Doug Carter,1,5
+2020-04-04,Haliburton Kawartha,1,6
+2020-04-04,Haliburton Kawartha Pineridge,1,7
+2020-04-04,Justin Trudeau,1,8
+2020-04-04,Las Vegas,1,9
+2020-04-04,Matt Romaine,1,10
+2020-04-04,Simcoe Muskoka,1,11
+2020-04-04,Sophie Gregoire Trudeau,1,12
+2020-04-04,Tom Stienstra,1,13
+2020-04-04,Wikimedia Commons,1,14
+2020-04-04,Windsor Essex,1,15
+2020-04-05,Chatham Kent,1,1
+2020-04-05,Christine Elliott,1,2
+2020-04-05,Haliburton Kawartha,1,3
+2020-04-05,Haliburton Kawartha Pineridge,1,4
+2020-04-05,Justin Trudeau,1,5
+2020-04-05,Las Vegas,1,6
+2020-04-05,Simcoe Muskoka,1,7
+2020-04-05,Sophie Gregoire Trudeau,1,8
+2020-04-05,Windsor Essex,1,9
+2020-04-06,Chatham Kent,1,5
+2020-04-06,Christine Elliott,1,6
+2020-04-06,Haliburton Kawartha,1,7
+2020-04-06,Haliburton Kawartha Pineridge,1,8
+2020-04-06,Justin Trudeau,1,9
+2020-04-06,Las Vegas,1,10
+2020-04-06,Simcoe Muskoka,1,11
+2020-04-06,Sophie Gregoire Trudeau,1,12
+2020-04-06,Windsor Essex,1,13
+2020-04-06,Alpesh Amin,3,1
+2020-04-06,Arun Sanyal,3,2
+2020-04-06,Babafemi Taiwo,3,3
+2020-04-06,Libby Hohmann,3,4
+2020-04-07,Chatham Kent,1,1
+2020-04-07,Christine Elliott,1,2
+2020-04-07,Haliburton Kawartha,1,3
+2020-04-07,Haliburton Kawartha Pineridge,1,4
+2020-04-07,Justin Trudeau,1,5
+2020-04-07,Las Vegas,1,6
+2020-04-07,Simcoe Muskoka,1,7
+2020-04-07,Sophie Gregoire Trudeau,1,8
+2020-04-07,Windsor Essex,1,9
+2020-04-08,Chatham Kent,1,1
+2020-04-08,Christine Elliott,1,2
+2020-04-08,Haliburton Kawartha,1,3
+2020-04-08,Haliburton Kawartha Pineridge,1,4
+2020-04-08,Justin Trudeau,1,5
+2020-04-08,Las Vegas,1,6
+2020-04-08,Simcoe Muskoka,1,7
+2020-04-08,Sophie Gregoire Trudeau,1,8
+2020-04-08,Windsor Essex,1,9
+2020-04-09,Chatham Kent,1,1
+2020-04-09,Christine Elliott,1,2
+2020-04-09,Haliburton Kawartha,1,3
+2020-04-09,Haliburton Kawartha Pineridge,1,4
+2020-04-09,John Chen,1,5
+2020-04-09,Justin Trudeau,1,6
+2020-04-09,Kendall Vanhook Bumpass,1,7
+2020-04-09,Las Vegas,1,8
+2020-04-09,Simcoe Muskoka,1,9
+2020-04-09,Sophie Gregoire Trudeau,1,10
+2020-04-09,Windsor Essex,1,11
+2020-04-10,Chatham Kent,1,1
+2020-04-10,Christine Elliott,1,2
+2020-04-10,Haliburton Kawartha,1,3
+2020-04-10,Haliburton Kawartha Pineridge,1,4
+2020-04-10,Justin Trudeau,1,5
+2020-04-10,Las Vegas,1,6
+2020-04-10,Simcoe Muskoka,1,7
+2020-04-10,Sophie Gregoire Trudeau,1,8
+2020-04-10,Windsor Essex,1,9
+2020-04-11,Chatham Kent,1,13
+2020-04-11,Christine Elliott,1,14
+2020-04-11,Haliburton Kawartha,1,15
+2020-04-11,Haliburton Kawartha Pineridge,1,16
+2020-04-11,Justin Trudeau,1,17
+2020-04-11,Las Vegas,1,18
+2020-04-11,Simcoe Muskoka,1,19
+2020-04-11,Sophie Gregoire Trudeau,1,20
+2020-04-11,Windsor Essex,1,21
+2020-04-11,Adrianna Rodriguez,2,1
+2020-04-11,Andy Beshear,2,2
+2020-04-11,Anthony Fauci,2,3
+2020-04-11,Deborah Birx,2,4
+2020-04-11,Donald Trump,2,5
+2020-04-11,Dwight Henninger,2,6
+2020-04-11,John Fritze,2,7
+2020-04-11,Kelly Tyko,2,8
+2020-04-11,Kristine Phillips,2,9
+2020-04-11,Rebecca Morin,2,10
+2020-04-11,Suzanne Hirt,2,11
+2020-04-11,Troy Wellman,2,12
+2020-04-12,Alfred Lambremont Webre,1,2
+2020-04-12,Chatham Kent,1,3
+2020-04-12,Christine Elliott,1,4
+2020-04-12,David Wilcox,1,5
+2020-04-12,Haliburton Kawartha,1,6
+2020-04-12,Haliburton Kawartha Pineridge,1,7
+2020-04-12,Horace Carby-Samuels,1,8
+2020-04-12,Las Vegas,1,9
+2020-04-12,Michael Salla,1,10
+2020-04-12,Peter Tremblay,1,11
+2020-04-12,Raymond Keller,1,12
+2020-04-12,Simcoe Muskoka,1,13
+2020-04-12,Simon Schuster,1,14
+2020-04-12,Sophie Gregoire Trudeau,1,15
+2020-04-12,Windsor Essex,1,16
+2020-04-12,Justin Trudeau,2,1
+2020-04-13,Chatham Kent,1,1
+2020-04-13,Christine Elliott,1,2
+2020-04-13,Haliburton Kawartha,1,3
+2020-04-13,Haliburton Kawartha Pineridge,1,4
+2020-04-13,Joan Mackenzie,1,5
+2020-04-13,Justin Trudeau,1,6
+2020-04-13,Las Vegas,1,7
+2020-04-13,Nicholas Mackenzie,1,8
+2020-04-13,Simcoe Muskoka,1,9
+2020-04-13,Sophie Gregoire Trudeau,1,10
+2020-04-13,Windsor Essex,1,11
+2020-04-14,Billy Lulloff,1,22
+2020-04-14,Bo Bevis,1,23
+2020-04-14,Chatham Kent,1,24
+2020-04-14,Christine Elliott,1,25
+2020-04-14,Dave Hinman,1,26
+2020-04-14,Haliburton Kawartha,1,27
+2020-04-14,Haliburton Kawartha Pineridge,1,28
+2020-04-14,Hinman Angus,1,29
+2020-04-14,Jack Lambert,1,30
+2020-04-14,John Hoeven,1,31
+2020-04-14,Justin Trudeau,1,32
+2020-04-14,Kelly Mccracken,1,33
+2020-04-14,Kevin Cramer,1,34
+2020-04-14,Kristi Noem,1,35
+2020-04-14,Las Vegas,1,36
+2020-04-14,Mike Rounds,1,37
+2020-04-14,Simcoe Muskoka,1,38
+2020-04-14,Sonny Perdue,1,39
+2020-04-14,Sophie Gregoire Trudeau,1,40
+2020-04-14,Steve Bullock,1,41
+2020-04-14,Steve Daines,1,42
+2020-04-14,Teddy Crowley,1,43
+2020-04-14,Travis Buck,1,44
+2020-04-14,Windsor Essex,1,45
+2020-04-14,Ali Wentworth,2,1
+2020-04-14,Amy Haneline,2,2
+2020-04-14,Andrew Cuomo,2,3
+2020-04-14,Anthony Fauci,2,4
+2020-04-14,Ashish Jha,2,5
+2020-04-14,Brent Charnigo,2,6
+2020-04-14,Dal Colleto,2,7
+2020-04-14,David Jackson,2,8
+2020-04-14,Deanna Lorraine,2,9
+2020-04-14,Dennis Wagner,2,10
+2020-04-14,Donald Trump,2,11
+2020-04-14,George Stephanopoulos,2,12
+2020-04-14,Gina Dal Colleto,2,13
+2020-04-14,Hogan Gidley,2,14
+2020-04-14,Lorenzo Reyes,2,15
+2020-04-14,Nancy Pelosi,2,16
+2020-04-14,Ogbonnaya Omenka,2,17
+2020-04-14,Shinzo Abe,2,18
+2020-04-14,Susan Page,2,19
+2020-04-14,Theodore Roosevelt,2,20
+2020-04-14,Tom Vanden Brook,2,21
+2020-04-15,Chatham Kent,1,1
+2020-04-15,Christine Elliott,1,2
+2020-04-15,Haliburton Kawartha,1,3
+2020-04-15,Haliburton Kawartha Pineridge,1,4
+2020-04-15,Justin Trudeau,1,5
+2020-04-15,Las Vegas,1,6
+2020-04-15,Simcoe Muskoka,1,7
+2020-04-15,Sophie Gregoire Trudeau,1,8
+2020-04-15,Windsor Essex,1,9
+2020-04-16,Chatham Kent,1,1
+2020-04-16,Christine Elliott,1,2
+2020-04-16,Haliburton Kawartha,1,3
+2020-04-16,Haliburton Kawartha Pineridge,1,4
+2020-04-16,Justin Trudeau,1,5
+2020-04-16,Las Vegas,1,6
+2020-04-16,Simcoe Muskoka,1,7
+2020-04-16,Sophie Gregoire Trudeau,1,8
+2020-04-16,Windsor Essex,1,9
+2020-04-17,Chatham Kent,1,1
+2020-04-17,Christine Elliott,1,2
+2020-04-17,Haliburton Kawartha,1,3
+2020-04-17,Haliburton Kawartha Pineridge,1,4
+2020-04-17,Justin Trudeau,1,5
+2020-04-17,Las Vegas,1,6
+2020-04-17,Simcoe Muskoka,1,7
+2020-04-17,Sophie Gregoire Trudeau,1,8
+2020-04-17,Windsor Essex,1,9
+2020-04-18,Chatham Kent,1,1
+2020-04-18,Christine Elliott,1,2
+2020-04-18,Haliburton Kawartha,1,3
+2020-04-18,Haliburton Kawartha Pineridge,1,4
+2020-04-18,Justin Trudeau,1,5
+2020-04-18,Las Vegas,1,6
+2020-04-18,Simcoe Muskoka,1,7
+2020-04-18,Sophie Gregoire Trudeau,1,8
+2020-04-18,Windsor Essex,1,9
+2020-04-19,Chatham Kent,1,1
+2020-04-19,Christine Elliott,1,2
+2020-04-19,Haliburton Kawartha,1,3
+2020-04-19,Haliburton Kawartha Pineridge,1,4
+2020-04-19,Justin Trudeau,1,5
+2020-04-19,Las Vegas,1,6
+2020-04-19,Simcoe Muskoka,1,7
+2020-04-19,Sophie Gregoire Trudeau,1,8
+2020-04-19,Windsor Essex,1,9
+2020-04-20,Chatham Kent,1,1
+2020-04-20,Christine Elliott,1,2
+2020-04-20,Haliburton Kawartha,1,3
+2020-04-20,Haliburton Kawartha Pineridge,1,4
+2020-04-20,Justin Trudeau,1,5
+2020-04-20,Las Vegas,1,6
+2020-04-20,Simcoe Muskoka,1,7
+2020-04-20,Sophie Gregoire Trudeau,1,8
+2020-04-20,Windsor Essex,1,9
+2020-04-21,Alice Chung-Maccoubrey,1,1
+2020-04-21,Carolyn Cole Los Angeles,1,2
+2020-04-21,Chatham Kent,1,3
+2020-04-21,Chris Starr,1,4
+2020-04-21,Christine Elliott,1,5
+2020-04-21,Haliburton Kawartha,1,6
+2020-04-21,Haliburton Kawartha Pineridge,1,7
+2020-04-21,Justin Trudeau,1,8
+2020-04-21,Las Vegas,1,9
+2020-04-21,Simcoe Muskoka,1,10
+2020-04-21,Sophie Gregoire Trudeau,1,11
+2020-04-21,Windsor Essex,1,12
+2020-04-22,Chatham Kent,1,1
+2020-04-22,Christine Elliott,1,2
+2020-04-22,Haliburton Kawartha,1,3
+2020-04-22,Haliburton Kawartha Pineridge,1,4
+2020-04-22,Justin Trudeau,1,5
+2020-04-22,Las Vegas,1,6
+2020-04-22,Simcoe Muskoka,1,7
+2020-04-22,Sophie Gregoire Trudeau,1,8
+2020-04-22,Windsor Essex,1,9
+2020-04-23,Chatham Kent,1,1
+2020-04-23,Christine Elliott,1,2
+2020-04-23,Haliburton Kawartha,1,3
+2020-04-23,Haliburton Kawartha Pineridge,1,4
+2020-04-23,Justin Trudeau,1,5
+2020-04-23,Las Vegas,1,6
+2020-04-23,Simcoe Muskoka,1,7
+2020-04-23,Sophie Gregoire Trudeau,1,8
+2020-04-23,Windsor Essex,1,9
+2020-04-24,Chatham Kent,1,1
+2020-04-24,Christine Elliott,1,2
+2020-04-24,Haliburton Kawartha,1,3
+2020-04-24,Haliburton Kawartha Pineridge,1,4
+2020-04-24,Justin Trudeau,1,5
+2020-04-24,Las Vegas,1,6
+2020-04-24,Simcoe Muskoka,1,7
+2020-04-24,Sophie Gregoire Trudeau,1,8
+2020-04-24,Windsor Essex,1,9
+2020-04-25,Chatham Kent,1,1
+2020-04-25,Christine Elliott,1,2
+2020-04-25,Haliburton Kawartha,1,3
+2020-04-25,Haliburton Kawartha Pineridge,1,4
+2020-04-25,Justin Trudeau,1,5
+2020-04-25,Las Vegas,1,6
+2020-04-25,Simcoe Muskoka,1,7
+2020-04-25,Sophie Gregoire Trudeau,1,8
+2020-04-25,Windsor Essex,1,9
+2020-04-26,Chatham Kent,1,1
+2020-04-26,Christine Elliott,1,2
+2020-04-26,Gavin Newsom,1,3
+2020-04-26,Haliburton Kawartha,1,4
+2020-04-26,Haliburton Kawartha Pineridge,1,5
+2020-04-26,Justin Trudeau,1,6
+2020-04-26,Las Vegas,1,7
+2020-04-26,Los Angeles,1,8
+2020-04-26,Shelly Davis,1,9
+2020-04-26,Simcoe Muskoka,1,10
+2020-04-26,Sophie Gregoire Trudeau,1,11
+2020-04-26,Windsor Essex,1,12
+2020-04-27,Chatham Kent,1,14
+2020-04-27,Christine Elliott,1,15
+2020-04-27,Haliburton Kawartha,1,16
+2020-04-27,Haliburton Kawartha Pineridge,1,17
+2020-04-27,Justin Trudeau,1,18
+2020-04-27,Las Vegas,1,19
+2020-04-27,Simcoe Muskoka,1,20
+2020-04-27,Sophie Gregoire Trudeau,1,21
+2020-04-27,Windsor Essex,1,22
+2020-04-27,Barack Obama,2,1
+2020-04-27,Bernie Sanders,2,2
+2020-04-27,David Paleologos,2,3
+2020-04-27,Donald Trump,2,4
+2020-04-27,Elizabeth Warren,2,5
+2020-04-27,Eric Haenfler,2,6
+2020-04-27,Joe Biden,2,7
+2020-04-27,Kamala Harris,2,8
+2020-04-27,Kate Elliott,2,9
+2020-04-27,Mercedes Nazarian,2,10
+2020-04-27,Pete Buttigieg,2,11
+2020-04-27,Stacey Abrams,2,12
+2020-04-27,Val Demings,2,13
+2020-04-28,Adam Mcelvain,1,3
+2020-04-28,Barack Obama,1,4
+2020-04-28,Barry Tippin,1,5
+2020-04-28,Bernie Sanders,1,6
+2020-04-28,Chatham Kent,1,7
+2020-04-28,Christine Elliott,1,8
+2020-04-28,David Paleologos,1,9
+2020-04-28,Donald Trump,1,10
+2020-04-28,Donnell Ewert,1,11
+2020-04-28,Elizabeth Warren,1,12
+2020-04-28,Eric Garcetti,1,13
+2020-04-28,Eric Haenfler,1,14
+2020-04-28,Haliburton Kawartha,1,15
+2020-04-28,Haliburton Kawartha Pineridge,1,16
+2020-04-28,Jake Mangas,1,17
+2020-04-28,James Gallagher,1,18
+2020-04-28,Jim Nielsen,1,19
+2020-04-28,Joe Biden,1,20
+2020-04-28,Justin Trudeau,1,21
+2020-04-28,Kamala Harris,1,22
+2020-04-28,Karen Ramstrom,1,23
+2020-04-28,Kate Elliott,1,24
+2020-04-28,Las Vegas,1,25
+2020-04-28,Mark Geragos,1,26
+2020-04-28,Mary Rickert,1,27
+2020-04-28,Mercedes Nazarian,1,28
+2020-04-28,Pete Buttigieg,1,29
+2020-04-28,Simcoe Muskoka,1,30
+2020-04-28,Sophie Gregoire Trudeau,1,31
+2020-04-28,Stacey Abrams,1,32
+2020-04-28,Val Demings,1,33
+2020-04-28,Windsor Essex,1,34
+2020-04-28,Gavin Newsom,2,1
+2020-04-28,Los Angeles,2,2
+2020-04-29,Chatham Kent,1,1
+2020-04-29,Christine Elliott,1,2
+2020-04-29,Eric Garcetti,1,3
+2020-04-29,Gavin Newsom,1,4
+2020-04-29,Haliburton Kawartha,1,5
+2020-04-29,Haliburton Kawartha Pineridge,1,6
+2020-04-29,Justin Trudeau,1,7
+2020-04-29,Las Vegas,1,8
+2020-04-29,Los Angeles,1,9
+2020-04-29,Mark Geragos,1,10
+2020-04-29,Simcoe Muskoka,1,11
+2020-04-29,Sophie Gregoire Trudeau,1,12
+2020-04-29,Windsor Essex,1,13
+2020-04-30,Adam Scott,1,1
+2020-04-30,Albert Serra,1,2
+2020-04-30,Alex Rivera,1,3
+2020-04-30,Alexxis Lemire,1,4
+2020-04-30,Alfie Allen,1,5
+2020-04-30,Alicia Silverstone,1,6
+2020-04-30,Amber Havard,1,7
+2020-04-30,Andrew Ahn,1,8
+2020-04-30,Andrew Patterson,1,9
+2020-04-30,Andrew Rapman Onwubolo,1,10
+2020-04-30,Annie Silverstein,1,11
+2020-04-30,Armando Iannucci,1,12
+2020-04-30,Ashton Sanders,1,13
+2020-04-30,Brandon Christensen,1,14
+2020-04-30,Brett Pierce,1,15
+2020-04-30,Brian Dennehy,1,16
+2020-04-30,Caitlin Moran,1,17
+2020-04-30,Carrie Fisher,1,18
+2020-04-30,Chatham Kent,1,19
+2020-04-30,Chiara Mastroianni,1,20
+2020-04-30,Chloe Bennet,1,21
+2020-04-30,Chris Odowd,1,22
+2020-04-30,Chris Rock,1,23
+2020-04-30,Christine Elliott,1,24
+2020-04-30,Clark Duke,1,25
+2020-04-30,Colin Minihan,1,26
+2020-04-30,Cristina Ibarra,1,27
+2020-04-30,Dan Sallitt,1,28
+2020-04-30,Daphne Amanda Seyfried,1,29
+2020-04-30,David Copperfield,1,30
+2020-04-30,David Lowery King Arthur,1,31
+2020-04-30,David Spade,1,32
+2020-04-30,Dev Patel,1,33
+2020-04-30,Diana Kennedy,1,34
+2020-04-30,Ellie Chu Leah Lewis,1,35
+2020-04-30,Emma Thompson,1,36
+2020-04-30,Eric Watson,1,37
+2020-04-30,Fred Zac Efron,1,38
+2020-04-30,Geoff Pierson,1,39
+2020-04-30,Haliburton Kawartha,1,40
+2020-04-30,Haliburton Kawartha Pineridge,1,41
+2020-04-30,Helmut Berger,1,42
+2020-04-30,Hollywood Reportercalled,1,43
+2020-04-30,Isla Fisher,1,44
+2020-04-30,Issa Rae-Kumail Nanjiani,1,45
+2020-04-30,Jean Dujardin,1,46
+2020-04-30,Jeffrey Wright,1,47
+2020-04-30,Jessica Rothe,1,48
+2020-04-30,Joe Wright,1,49
+2020-04-30,John Brandon,1,50
+2020-05-01,Chatham Kent,1,1
+2020-05-01,Christine Elliott,1,2
+2020-05-01,Haliburton Kawartha,1,3
+2020-05-01,Haliburton Kawartha Pineridge,1,4
+2020-05-01,Justin Trudeau,1,5
+2020-05-01,Kerri Schuette,1,6
+2020-05-01,Las Vegas,1,7
+2020-05-01,Michelle Schmidt,1,8
+2020-05-01,Simcoe Muskoka,1,9
+2020-05-01,Sophie Gregoire Trudeau,1,10
+2020-05-01,Windsor Essex,1,11
+2020-05-02,Chatham Kent,1,1
+2020-05-02,Christine Elliott,1,2
+2020-05-02,Haliburton Kawartha,1,3
+2020-05-02,Haliburton Kawartha Pineridge,1,4
+2020-05-02,Justin Trudeau,1,5
+2020-05-02,Las Vegas,1,6
+2020-05-02,Simcoe Muskoka,1,7
+2020-05-02,Sophie Gregoire Trudeau,1,8
+2020-05-02,Windsor Essex,1,9
+2020-05-03,Chatham Kent,1,1
+2020-05-03,Christine Elliott,1,2
+2020-05-03,Haliburton Kawartha,1,3
+2020-05-03,Haliburton Kawartha Pineridge,1,4
+2020-05-03,Justin Trudeau,1,5
+2020-05-03,Las Vegas,1,6
+2020-05-03,Simcoe Muskoka,1,7
+2020-05-03,Sophie Gregoire Trudeau,1,8
+2020-05-03,Windsor Essex,1,9
+2020-05-04,Chatham Kent,1,1
+2020-05-04,Christine Elliott,1,2
+2020-05-04,Haliburton Kawartha,1,3
+2020-05-04,Haliburton Kawartha Pineridge,1,4
+2020-05-04,Justin Trudeau,1,5
+2020-05-04,Las Vegas,1,6
+2020-05-04,Simcoe Muskoka,1,7
+2020-05-04,Sophie Gregoire Trudeau,1,8
+2020-05-04,Windsor Essex,1,9
+2020-05-05,Chatham Kent,1,1
+2020-05-05,Christine Elliott,1,2
+2020-05-05,Haliburton Kawartha,1,3
+2020-05-05,Haliburton Kawartha Pineridge,1,4
+2020-05-05,Justin Trudeau,1,5
+2020-05-05,Las Vegas,1,6
+2020-05-05,Simcoe Muskoka,1,7
+2020-05-05,Sophie Gregoire Trudeau,1,8
+2020-05-05,Windsor Essex,1,9
+2020-05-06,Chatham Kent,1,1
+2020-05-06,Christine Elliott,1,2
+2020-05-06,Haliburton Kawartha,1,3
+2020-05-06,Haliburton Kawartha Pineridge,1,4
+2020-05-06,Justin Trudeau,1,5
+2020-05-06,Las Vegas,1,6
+2020-05-06,Simcoe Muskoka,1,7
+2020-05-06,Sophie Gregoire Trudeau,1,8
+2020-05-06,Windsor Essex,1,9
+2020-05-07,Chatham Kent,1,1
+2020-05-07,Christine Elliott,1,2
+2020-05-07,Haliburton Kawartha,1,3
+2020-05-07,Haliburton Kawartha Pineridge,1,4
+2020-05-07,Justin Trudeau,1,5
+2020-05-07,Las Vegas,1,6
+2020-05-07,Simcoe Muskoka,1,7
+2020-05-07,Sophie Gregoire Trudeau,1,8
+2020-05-07,Windsor Essex,1,9
+2020-05-08,Ahmaud Arbery,1,1
+2020-05-08,Brant Hansen,1,2
+2020-05-08,Chatham Kent,1,3
+2020-05-08,Christine Elliott,1,4
+2020-05-08,Diana Verm,1,5
+2020-05-08,Gregory Mcmichael,1,6
+2020-05-08,Haliburton Kawartha,1,7
+2020-05-08,Haliburton Kawartha Pineridge,1,8
+2020-05-08,Joshua Roberts,1,9
+2020-05-08,Justin Trudeau,1,10
+2020-05-08,Las Vegas,1,11
+2020-05-08,Robert Jeffres,1,12
+2020-05-08,Russell Moore,1,13
+2020-05-08,Ruth Chou Simons,1,14
+2020-05-08,Simcoe Muskoka,1,15
+2020-05-08,Sophie Gregoire Trudeau,1,16
+2020-05-08,Travis Mcmichael,1,17
+2020-05-08,William Wilson,1,18
+2020-05-08,Windsor Essex,1,19
+2020-05-09,Chatham Kent,1,1
+2020-05-09,Christine Elliott,1,2
+2020-05-09,Haliburton Kawartha,1,3
+2020-05-09,Haliburton Kawartha Pineridge,1,4
+2020-05-09,Justin Trudeau,1,5
+2020-05-09,Las Vegas,1,6
+2020-05-09,Simcoe Muskoka,1,7
+2020-05-09,Sophie Gregoire Trudeau,1,8
+2020-05-09,Windsor Essex,1,9
+2020-05-10,Chatham Kent,1,1
+2020-05-10,Christine Elliott,1,2
+2020-05-10,Haliburton Kawartha,1,3
+2020-05-10,Haliburton Kawartha Pineridge,1,4
+2020-05-10,Justin Trudeau,1,5
+2020-05-10,Las Vegas,1,6
+2020-05-10,Simcoe Muskoka,1,7
+2020-05-10,Sophie Gregoire Trudeau,1,8
+2020-05-10,Windsor Essex,1,9
+2020-05-11,Chatham Kent,1,1
+2020-05-11,Christine Elliott,1,2
+2020-05-11,Haliburton Kawartha,1,3
+2020-05-11,Haliburton Kawartha Pineridge,1,4
+2020-05-11,Justin Trudeau,1,5
+2020-05-11,Las Vegas,1,6
+2020-05-11,Simcoe Muskoka,1,7
+2020-05-11,Sophie Gregoire Trudeau,1,8
+2020-05-11,Windsor Essex,1,9
+2020-05-12,Chatham Kent,1,4
+2020-05-12,Christine Elliott,1,5
+2020-05-12,Haliburton Kawartha,1,6
+2020-05-12,Haliburton Kawartha Pineridge,1,7
+2020-05-12,Mackenzie Richmond Hill,1,8
+2020-05-12,Simcoe Muskoka,1,9
+2020-05-12,Windsor Essex,1,10
+2020-05-12,Justin Trudeau,2,1
+2020-05-12,Las Vegas,2,2
+2020-05-12,Sophie Gregoire Trudeau,2,3
+2020-05-13,Chatham Kent,1,4
+2020-05-13,Christine Elliott,1,5
+2020-05-13,Haliburton Kawartha,1,6
+2020-05-13,Haliburton Kawartha Pineridge,1,7
+2020-05-13,Mackenzie Richmond Hill,1,8
+2020-05-13,Simcoe Muskoka,1,9
+2020-05-13,Windsor Essex,1,10
+2020-05-13,Justin Trudeau,2,1
+2020-05-13,Las Vegas,2,2
+2020-05-13,Sophie Gregoire Trudeau,2,3
+2020-05-14,Chatham Kent,1,1
+2020-05-14,Christine Elliott,1,2
+2020-05-14,Haliburton Kawartha,1,3
+2020-05-14,Haliburton Kawartha Pineridge,1,4
+2020-05-14,Justin Trudeau,1,5
+2020-05-14,Las Vegas,1,6
+2020-05-14,Simcoe Muskoka,1,7
+2020-05-14,Sophie Gregoire Trudeau,1,8
+2020-05-14,Windsor Essex,1,9
+2020-05-16,Aaron Stutz,1,1
+2020-05-16,Chatham Kent,1,2
+2020-05-16,Christine Elliott,1,3
+2020-05-16,Dawnie Slabaugh,1,4
+2020-05-16,Eric Magrini,1,5
+2020-05-16,Haliburton Kawartha,1,6
+2020-05-16,Haliburton Kawartha Pineridge,1,7
+2020-05-16,Justin Trudeau,1,8
+2020-05-16,Las Vegas,1,9
+2020-05-16,Michael Madden,1,10
+2020-05-16,Simcoe Muskoka,1,11
+2020-05-16,Sophie Gregoire Trudeau,1,12
+2020-05-16,Suzie Brady,1,13
+2020-05-16,Windsor Essex,1,14
+2020-05-17,Chatham Kent,1,1
+2020-05-17,Christine Elliott,1,2
+2020-05-17,Haliburton Kawartha,1,3
+2020-05-17,Haliburton Kawartha Pineridge,1,4
+2020-05-17,Josh Kaizuka,1,5
+2020-05-17,Justin Trudeau,1,6
+2020-05-17,Kimberly Mueller,1,7
+2020-05-17,Las Vegas,1,8
+2020-05-17,Mark Merin,1,9
+2020-05-17,Martha Nakagawa,1,10
+2020-05-17,Paul Masuhara,1,11
+2020-05-17,Simcoe Muskoka,1,12
+2020-05-17,Sophie Gregoire Trudeau,1,13
+2020-05-17,Windsor Essex,1,14
+2020-05-17,Yoshinori Himel,1,15
+2020-05-17,Yoshinori Toso Himel,1,16
+2020-05-18,Albert Einstein,1,1
+2020-05-18,Charles Lindbergh,1,2
+2020-05-18,Chatham Kent,1,3
+2020-05-18,Christine Elliott,1,4
+2020-05-18,Haliburton Kawartha,1,5
+2020-05-18,Haliburton Kawartha Pineridge,1,6
+2020-05-18,Jim Taylor,1,7
+2020-05-18,Justin Trudeau,1,8
+2020-05-18,Las Vegas,1,9
+2020-05-18,Simcoe Muskoka,1,10
+2020-05-18,Sophie Gregoire Trudeau,1,11
+2020-05-18,Windsor Essex,1,12
+2020-05-19,Albert Einstein,1,1
+2020-05-19,Charles Lindbergh,1,2
+2020-05-19,Chatham Kent,1,3
+2020-05-19,Christine Elliott,1,4
+2020-05-19,George Takei,1,5
+2020-05-19,Haliburton Kawartha,1,6
+2020-05-19,Haliburton Kawartha Pineridge,1,7
+2020-05-19,Jim Taylor,1,8
+2020-05-19,John Tateishi,1,9
+2020-05-19,Justice Rebecca Bradley,1,10
+2020-05-19,Justin Trudeau,1,11
+2020-05-19,Las Vegas,1,12
+2020-05-19,Rosa Parks,1,13
+2020-05-19,Simcoe Muskoka,1,14
+2020-05-19,Sophie Gregoire Trudeau,1,15
+2020-05-19,Tony Evers,1,16
+2020-05-19,Windsor Essex,1,17
+2020-05-22,Allison Hendrickson,1,1
+2020-05-22,Chatham Kent,1,2
+2020-05-22,Christine Elliott,1,3
+2020-05-22,Haliburton Kawartha,1,4
+2020-05-22,Haliburton Kawartha Pineridge,1,5
+2020-05-22,Jessica Skropanic,1,6
+2020-05-22,Justin Trudeau,1,7
+2020-05-22,Las Vegas,1,8
+2020-05-22,Simcoe Muskoka,1,9
+2020-05-22,Sophie Gregoire Trudeau,1,10
+2020-05-22,Suzie Brady,1,11
+2020-05-22,Windsor Essex,1,12
+2020-05-23,Chatham Kent,1,1
+2020-05-23,Christine Elliott,1,2
+2020-05-23,Donald Trump,1,3
+2020-05-23,Donna Christensen,1,4
+2020-05-23,Gavin Newsom,1,5
+2020-05-23,Haliburton Kawartha,1,6
+2020-05-23,Haliburton Kawartha Pineridge,1,7
+2020-05-23,James Reed,1,8
+2020-05-23,John Mendez,1,9
+2020-05-23,Justin Trudeau,1,10
+2020-05-23,Las Vegas,1,11
+2020-05-23,Liberty Fest,1,12
+2020-05-23,Sean Covell,1,13
+2020-05-23,Simcoe Muskoka,1,14
+2020-05-23,Sophie Gregoire Trudeau,1,15
+2020-05-23,Tim Thompson,1,16
+2020-05-23,Windsor Essex,1,17
+2020-05-24,Chatham Kent,1,1
+2020-05-24,Christine Elliott,1,2
+2020-05-24,Haliburton Kawartha,1,3
+2020-05-24,Haliburton Kawartha Pineridge,1,4
+2020-05-24,Justin Trudeau,1,5
+2020-05-24,Kerri Schuette,1,6
+2020-05-24,Las Vegas,1,7
+2020-05-24,Simcoe Muskoka,1,8
+2020-05-24,Sophie Gregoire Trudeau,1,9
+2020-05-24,Windsor Essex,1,10
+2020-05-25,Chatham Kent,1,1
+2020-05-25,Christine Elliott,1,2
+2020-05-25,Haliburton Kawartha,1,3
+2020-05-25,Haliburton Kawartha Pineridge,1,4
+2020-05-25,Justin Trudeau,1,5
+2020-05-25,Las Vegas,1,6
+2020-05-25,Simcoe Muskoka,1,7
+2020-05-25,Sophie Gregoire Trudeau,1,8
+2020-05-25,Windsor Essex,1,9

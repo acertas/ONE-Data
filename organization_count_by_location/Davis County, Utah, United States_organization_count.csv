@@ -1,0 +1,366 @@
+date,organization,count,rn
+2020-03-03,Davis Department,1,1
+2020-03-03,Ogden School District,1,2
+2020-03-03,Utah Department Of Health,1,3
+2020-03-03,Weber School District,1,4
+2020-03-03,Weber-Morgan Health Department,1,5
+2020-03-03,While The Weber-Morgan Health Department,1,6
+2020-03-07,Utah Department Of Health State Epidemiologist,2,6
+2020-03-07,United States,3,5
+2020-03-07,Centers For Disease,4,1
+2020-03-07,Community Task,4,2
+2020-03-07,Utah Department Of Health,4,3
+2020-03-07,Utah Public Health Laboratory,4,4
+2020-03-08,Centers For Disease,1,2
+2020-03-08,Community Task,1,3
+2020-03-08,Utah Department Of Health,2,1
+2020-03-10,Centers For Disease,2,2
+2020-03-10,Community Task,2,3
+2020-03-10,Facebook,2,4
+2020-03-10,Health Department,2,5
+2020-03-10,United States,2,6
+2020-03-10,Utah Public Health Laboratory On,2,7
+2020-03-10,Weber-Morgan Health Department,2,8
+2020-03-10,Utah Department Of Health,4,1
+2020-03-11,Centers For Disease,1,1
+2020-03-11,Central Utah Public Health Department,1,2
+2020-03-11,Community Task,1,3
+2020-03-11,Utah Department Of Health,1,4
+2020-03-11,Utah Public Health Laboratory,1,5
+2020-03-12,Utah Department Of Health,1,1
+2020-03-12,Utah Division Of Emergency Management,1,2
+2020-03-12,Utah Division Of Facilities,1,3
+2020-03-12,Utah State Legislature,1,4
+2020-03-13,City Council,1,1
+2020-03-13,Cnn,1,2
+2020-03-13,College Of Social Sciences,1,3
+2020-03-13,Davis School,1,4
+2020-03-13,United Utah Party,1,5
+2020-03-13,University Of Wisconsin,1,6
+2020-03-13,Utah High School Activity Association,1,7
+2020-03-13,Utah Republican Party,1,8
+2020-03-13,Utah State University,1,9
+2020-03-15,United States,1,1
+2020-03-17,Adult Care Food Program,1,2
+2020-03-17,Costco,1,3
+2020-03-17,Creative Times Academy,1,4
+2020-03-17,Davis Department,1,5
+2020-03-17,Group Pharmacy,1,6
+2020-03-17,Health Protection Condition,1,7
+2020-03-17,Little Seed Evolution Child Care Center,1,8
+2020-03-17,Sam Club,1,9
+2020-03-17,Utah Childcare Licensing Program,1,10
+2020-03-17,Utah Coronavirus Task,1,11
+2020-03-17,Utah Department Of Health,1,12
+2020-03-17,Walgreens,1,13
+2020-03-17,Weber-Morgan Health Department,1,14
+2020-03-17,Walmart,2,1
+2020-03-18,Division Of Consumer Protection,1,1
+2020-03-18,Utah Division Of Consumer Protection,1,2
+2020-03-19,Bear River Health Department,1,6
+2020-03-19,Department Of Alcoholic Beverage,1,7
+2020-03-19,Fort Union,1,8
+2020-03-19,Johns Hopkins University,1,9
+2020-03-19,Morgan,1,10
+2020-03-19,Physician Of The United States Congress,1,11
+2020-03-19,Taylorsville High School,1,12
+2020-03-19,United States,1,13
+2020-03-19,Utah Department Of Health On,1,14
+2020-03-19,Utah Department Of Transportation,1,15
+2020-03-19,Utah Health Department,1,16
+2020-03-19,Utah Public Health Laboratory On,1,17
+2020-03-19,Weber-Morgan Health Department,1,18
+2020-03-19,Canyons School District,2,1
+2020-03-19,Dominion Energy,2,2
+2020-03-19,Utah Department Of Natural Resources,2,3
+2020-03-19,Utah Division Of Emergency Management,2,4
+2020-03-19,Utah Geological,2,5
+2020-03-22,Department Of Health,1,3
+2020-03-22,Johns Hopkins University,1,4
+2020-03-22,Twitter,1,5
+2020-03-22,United States,1,6
+2020-03-22,Associated Press,2,2
+2020-03-22,Utah Department Of Health,3,1
+2020-03-23,Associated Press,1,2
+2020-03-23,Utah Department Of Health,2,1
+2020-03-24,Morgan,1,9
+2020-03-24,Weber State University,1,10
+2020-03-24,Weber-Morgan Health Department,1,11
+2020-03-24,White House,1,12
+2020-03-24,Department Of Health,2,2
+2020-03-24,National Park Service,2,3
+2020-03-24,National Parks,2,4
+2020-03-24,Twitter,2,5
+2020-03-24,Utah Department Of Health On,2,6
+2020-03-24,Utah Public Health Department,2,7
+2020-03-24,Zion National Park,2,8
+2020-03-24,Utah Department Of Health,3,1
+2020-03-25,Intermountain Telehealth Infectious Disease Service,1,1
+2020-03-25,Morgan,1,2
+2020-03-25,Ogden Regional Medical Center,1,3
+2020-03-25,Steward Health Care,1,4
+2020-03-25,Utah Department Of Health,1,5
+2020-03-26,Hill Air,1,1
+2020-03-26,Hill Air Force,1,2
+2020-03-30,Utah Coronavirus Task,1,1
+2020-03-31,Facebook,1,1
+2020-03-31,Navajo Nation Department Of Health,1,2
+2020-03-31,United States,1,3
+2020-04-02,Canyon National Park,1,1
+2020-04-02,Nan,1,2
+2020-04-02,Southeast Utah Health Department,1,3
+2020-04-03,American Civil Liberties Union Of Utah,1,1
+2020-04-03,American Conservative Union,1,2
+2020-04-03,Carson Smith Scholarship Program,1,3
+2020-04-03,Facebook,1,4
+2020-04-03,Libertas Institute,1,5
+2020-04-03,Needs Opportunity Scholarship Program,1,6
+2020-04-03,Utah Senate,1,7
+2020-04-03,Women State Legislative Council,1,8
+2020-04-03,Youtube,1,9
+2020-04-06,American Conservative Union,1,2
+2020-04-06,Women State Legislative Council,1,3
+2020-04-06,Nan,2,1
+2020-04-07,Facebook,1,1
+2020-04-08,American Civil Liberties Union Of Utah,1,1
+2020-04-08,Department Of Corrections,1,2
+2020-04-08,Disability Law Center,1,3
+2020-04-08,District Court,1,4
+2020-04-08,Supreme Court,1,5
+2020-04-08,Utah Association Of Criminal Defense Attorneys,1,6
+2020-04-08,Utah Department Of Corrections,1,7
+2020-04-08,Utah Supreme Court,1,8
+2020-04-09,Community Development Block Grant,1,1
+2020-04-10,College Of Engineering,1,1
+2020-04-10,Columbia Water Center At Columbia University,1,2
+2020-04-10,Firehouse Subs,1,3
+2020-04-10,Mcdonald,1,4
+2020-04-10,National Science Foundation Hydrologic Sciences Program,1,5
+2020-04-10,Public Safety Foundation,1,6
+2020-04-10,Ronald Mcdonald House Charities,1,7
+2020-04-10,Sugarhouse Industries,1,8
+2020-04-10,Unemployment Insurance Trust Fund,1,9
+2020-04-10,University Hospital,1,10
+2020-04-10,University Of Kentucky,1,11
+2020-04-10,University Of Utah,1,12
+2020-04-10,Utah Department Of Health,1,13
+2020-04-10,Utah Department Of Public Safety,1,14
+2020-04-10,Utah Department Of Transportation,1,15
+2020-04-10,Utah Division Of Motor Vehicles,1,16
+2020-04-10,Utah Legislature,1,17
+2020-04-10,Utah State University,1,18
+2020-04-10,Utah Water Research Laboratory,1,19
+2020-04-10,Water Resources Research,1,20
+2020-04-10,Weber State University,1,21
+2020-04-10,Weber-Morgan Health Department,1,22
+2020-04-11,Snowboard Association,1,1
+2020-04-12,Snowboard Association,1,1
+2020-04-14,Democratic Party,1,1
+2020-04-14,Facebook,1,2
+2020-04-14,Gibson,1,3
+2020-04-14,Morgan,1,4
+2020-04-14,Utah Democratic Party,1,5
+2020-04-14,Utah Republican Party,1,6
+2020-04-14,Vernal Area Chamber,1,7
+2020-04-16,Economic Emergency Commission,1,2
+2020-04-16,Gibson,1,3
+2020-04-16,Public Health,1,4
+2020-04-16,Salt Lake Organizing Committee,1,5
+2020-04-16,Utah Department Of Corrections,1,6
+2020-04-16,Utah Department Of Public Safety,1,7
+2020-04-16,Utah Education Network,1,8
+2020-04-16,Utah Legislature,2,1
+2020-04-17,Department Of Workforce Services,1,1
+2020-04-17,Hill Air Force,1,2
+2020-04-17,Northern Utah Economic Alliance,1,3
+2020-04-17,Northrop Grumman,1,4
+2020-04-17,Roy Innovation Center,1,5
+2020-04-17,Unemployment Insurance Division,1,6
+2020-04-17,Utah Department Of Workforce Services,1,7
+2020-04-18,Morgan,1,1
+2020-04-18,Ogden-Weber Chamber,1,2
+2020-04-18,Utah Department Of Health,1,3
+2020-04-18,Weber-Morgan Health Department,1,4
+2020-04-19,Better Business Bureau,1,1
+2020-04-19,Centers For Disease,1,2
+2020-04-19,Davis County Sheriff Office,1,3
+2020-04-19,Facebook,1,4
+2020-04-19,Hill Air Force,1,5
+2020-04-19,Hill Air Force Base,1,6
+2020-04-19,International Union,1,7
+2020-04-19,Michigan Detroit Mission,1,8
+2020-04-19,Team Hill,1,9
+2020-04-19,United States,1,10
+2020-04-19,Utah Department Of Health,1,11
+2020-04-19,Utah National Guard,1,12
+2020-04-21,Iowa Association,1,1
+2020-04-21,Mexico National Guard,1,2
+2020-04-21,National Guard,1,3
+2020-04-21,San Juan Regional Medical Center,1,4
+2020-04-22,Facebook,1,1
+2020-04-22,Gibson,1,2
+2020-04-22,National Security Agency,1,3
+2020-04-22,Republican Party,1,4
+2020-04-22,United States,1,5
+2020-04-22,Utah Department Of Agriculture,1,6
+2020-04-22,Utah Republican Party,1,7
+2020-04-22,Vernal Area Chamber,1,8
+2020-04-23,Arizona National Guard,1,1
+2020-04-23,Army Corps Of Engineers,1,2
+2020-04-23,Department Of Health,1,3
+2020-04-23,Emergency Management Agency,1,4
+2020-04-23,Human Services,1,5
+2020-04-23,Indian Health Services,1,6
+2020-04-23,Mexico Department Of Health,1,7
+2020-04-23,Morgan,1,8
+2020-04-23,Navajo Area Indian Health Service,1,9
+2020-04-23,Navajo Department Of Health,1,10
+2020-04-23,Navajo Epidemiology Center,1,11
+2020-04-23,Navajo Nation Police,1,12
+2020-04-23,Navajo Police Department,1,13
+2020-04-23,Ogden Downtown Alliance,1,14
+2020-04-23,Weber-Morgan Health Department,1,15
+2020-04-24,Africa Centers For Disease,1,14
+2020-04-24,European Union,1,15
+2020-04-24,John Hopkins University,1,16
+2020-04-24,Morgan,1,17
+2020-04-24,National Association Of Realtors,1,18
+2020-04-24,Public Affairs Research,1,19
+2020-04-24,World Health Organization,1,20
+2020-04-24,City Council,2,2
+2020-04-24,Cultural Interpretive Center,2,3
+2020-04-24,Gibson,2,4
+2020-04-24,Hill Air Force,2,5
+2020-04-24,Hinckley Institute,2,6
+2020-04-24,House Committee On Natural Resources,2,7
+2020-04-24,Land Advisors Association,2,8
+2020-04-24,National Motor Carrier Advisory Committee,2,9
+2020-04-24,National Security Agency,2,10
+2020-04-24,University Of Utah,2,11
+2020-04-24,Utah Department Of Agriculture,2,12
+2020-04-24,Utah Republican Party,2,13
+2020-04-24,United States,3,1
+2020-04-26,Hill Air Force,1,1
+2020-04-27,Centers For Disease,1,1
+2020-04-27,Hill Air Force,1,2
+2020-04-27,University Of Utah Hospital,1,3
+2020-04-27,Utah Department Of Health,1,4
+2020-04-28,Facebook,1,1
+2020-04-28,Hill Air Force,1,2
+2020-04-28,Hill Air Force Base,1,3
+2020-04-28,Jetblue,1,4
+2020-04-30,Aviation Administration,1,7
+2020-04-30,Fighter Wing At Hill Air Force,1,8
+2020-04-30,Intermountain Health Center,1,9
+2020-04-30,Intermountain Medical Center,1,10
+2020-04-30,Stimson Center,1,11
+2020-04-30,University Of Utah Hospital,1,12
+2020-04-30,Associated Press,2,6
+2020-04-30,Bryce Canyon National Park,4,2
+2020-04-30,Department Of Workforce Services,4,3
+2020-04-30,United States,4,4
+2020-04-30,Zion National Park,4,5
+2020-04-30,Hill Air Force,7,1
+2020-05-01,Bryce Canyon National Park,1,1
+2020-05-01,Department Of Workforce Services,1,2
+2020-05-01,Hill Air Force,1,3
+2020-05-01,United States,1,4
+2020-05-01,Zion National Park,1,5
+2020-05-02,Demonstration Team,1,1
+2020-05-02,Hill Air Force,1,2
+2020-05-02,Intermountain Medical Center,1,3
+2020-05-02,Nan,1,4
+2020-05-02,Ogden Regional Medical Center,1,5
+2020-05-02,Suazo Business Center,1,6
+2020-05-02,Utah Department Of Health,1,7
+2020-05-03,George Chamber,1,1
+2020-05-03,Officials At Zion National Park,1,2
+2020-05-03,Red Cliffs National Conservation Area,1,3
+2020-05-03,Zion National Park,1,4
+2020-05-04,Alliance Theatre Palefsy Collision,1,1
+2020-05-04,Child Development Center,1,2
+2020-05-04,Civil Rights Movement,1,3
+2020-05-04,Disney,1,4
+2020-05-04,High School Musical,1,5
+2020-05-04,Hill Air Force,1,6
+2020-05-04,Instagram,1,7
+2020-05-04,Parkview High School,1,8
+2020-05-04,School Age Care,1,9
+2020-05-04,Utah Service,1,10
+2020-05-04,Youth Center,1,11
+2020-05-04,Youth Services,1,12
+2020-05-05,Child Development Center,1,6
+2020-05-05,School Age Care,1,7
+2020-05-05,Utah Service,1,8
+2020-05-05,Youth Center,1,9
+2020-05-05,Youth Services,1,10
+2020-05-05,Centers For Disease,2,2
+2020-05-05,Flight Test Group,2,3
+2020-05-05,Tinker Air Force,2,4
+2020-05-05,United States,2,5
+2020-05-05,Hill Air Force,3,1
+2020-05-06,City Council,1,1
+2020-05-06,Economic Task,1,2
+2020-05-07,Current Air,1,1
+2020-05-07,Department Of Defense,1,2
+2020-05-07,Gibson,1,3
+2020-05-07,Hill Air Force,1,4
+2020-05-07,Utah Department Of Agriculture,1,5
+2020-05-07,Utah Farm Bureau,1,6
+2020-05-08,Dixie Regional Medical Center,1,6
+2020-05-08,Greater Zion Convention,1,7
+2020-05-08,Immediate Response,1,8
+2020-05-08,Intermountain Health,1,9
+2020-05-08,Northwell Health,1,10
+2020-05-08,Revenue Service,1,11
+2020-05-08,Tourism Office,1,12
+2020-05-08,Twitter,1,13
+2020-05-08,United States Air Force Central,1,14
+2020-05-08,United States Air Force Central Command Mission,1,15
+2020-05-08,Utah Valley University,1,16
+2020-05-08,Facebook,2,1
+2020-05-08,Hill Air Force,2,2
+2020-05-08,National Association Of Personal Financial Advisors,2,3
+2020-05-08,United States,2,4
+2020-05-08,Washington Court,2,5
+2020-05-11,Hill Air Force,1,1
+2020-05-11,Immediate Response,1,2
+2020-05-11,United States Air Force Central,1,3
+2020-05-11,United States Air Force Central Command Mission,1,4
+2020-05-15,Central Agency Fair,1,1
+2020-05-15,Cepheid,1,2
+2020-05-15,Navajo Nation Department Of Health,1,3
+2020-05-15,Tuba City Regional Health Care Center,1,4
+2020-05-16,Bureau Of Investigation,1,1
+2020-05-16,Federal Bureau Of Investigation,1,2
+2020-05-16,Indian Health Service,1,3
+2020-05-16,Navajo Area Indian Health Service,1,4
+2020-05-16,Ogden City Diversity Commission,1,5
+2020-05-16,Ogden Police Department,1,6
+2020-05-16,University Of Utah,1,7
+2020-05-16,Utah Department Of Veterans,1,8
+2020-05-16,Utah Navajo Health Service,1,9
+2020-05-16,Utah Navajo Health System,1,10
+2020-05-16,Utah Supreme Court,1,11
+2020-05-19,Economic Development Department,1,1
+2020-05-19,Nan,1,2
+2020-05-19,Ogden Business Information Center,1,3
+2020-05-19,Ogden City Business Information Center,1,4
+2020-05-19,Ogden City Council,1,5
+2020-05-19,Ogden Community,1,6
+2020-05-19,Ogden Industrial Development Corp,1,7
+2020-05-19,Paycheck Protection Program,1,8
+2020-05-19,Small Business Administration,1,9
+2020-05-19,Utah Certified Development Co,1,10
+2020-05-19,Utah Governor Office Of Economic Development,1,11
+2020-05-19,Wadman Corp,1,12
+2020-05-22,Gibson,1,1
+2020-05-22,Granite School District,1,2
+2020-05-22,Kaysville City Council,1,3
+2020-05-22,Salt Lake County Health Department,1,4
+2020-05-22,Utah Coronavirus Task,1,5
+2020-05-25,Layton Police,1,1
+2020-05-25,Recreation Department,1,2
+2020-05-25,Twitter,1,3
+2020-05-25,Utah Department Of Health,1,4
+2020-05-25,Wasatch County Events Center,1,5

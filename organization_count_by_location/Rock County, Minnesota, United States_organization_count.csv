@@ -1,0 +1,550 @@
+date,organization,count,rn
+2020-02-02,Cnn,2,1
+2020-02-02,Division Of Public Health,2,2
+2020-02-02,Netflix,2,3
+2020-02-06,Associated Press,1,1
+2020-02-06,Budget Office,1,2
+2020-02-06,Department Of Housing Preservation,1,3
+2020-02-06,Drugmaker Merck Co,1,4
+2020-02-06,Legal Aid Society,1,5
+2020-02-06,Milton High School,1,6
+2020-02-06,New York Times,1,7
+2020-02-06,Nyc Health,1,8
+2020-02-06,Reuters,1,9
+2020-02-06,Twitter,1,10
+2020-02-06,York Health Care,1,11
+2020-02-06,York Health Care Morning Newsletter,1,12
+2020-03-01,Centers For Disease,2,1
+2020-03-01,Department Of Health Services,2,2
+2020-03-01,Health Department,2,3
+2020-03-01,Health St,2,4
+2020-03-01,Trauma Center,2,5
+2020-03-03,United States,1,5
+2020-03-03,Centers For Disease,2,1
+2020-03-03,Department Of Public Instruction,2,2
+2020-03-03,Wisconsin Department Of Health Services,2,3
+2020-03-03,World Health Organization,2,4
+2020-03-04,Centers For Disease,1,1
+2020-03-04,Middleton-Cross Plains Area School District,1,2
+2020-03-04,Rock County Department Of Health,1,3
+2020-03-04,School District Of Janesville,1,4
+2020-03-04,United States,1,5
+2020-03-04,Wisconsin Department Of Health Services,1,6
+2020-03-04,Wisconsin Department Of Public Instruction,1,7
+2020-03-04,World Health Organization,1,8
+2020-03-10,Kolak Education Center,1,1
+2020-03-10,Personnel Committee,1,2
+2020-03-10,Regional Office Of Education,1,3
+2020-03-10,Wisconsin Association Of School Boards,1,4
+2020-03-11,Centers For Disease,2,1
+2020-03-11,Uw Health,2,2
+2020-03-11,Uw Health Media Relations Strategist Emily Kumlien,2,3
+2020-03-11,Wisconsin Department Of Health,2,4
+2020-03-11,Wisconsin State Lab Of Hygiene,2,5
+2020-03-12,Beloit College,1,12
+2020-03-12,Madison Area Technical College,1,13
+2020-03-12,Nan,1,14
+2020-03-12,Public Health Department,1,15
+2020-03-12,Public Health Madison,1,16
+2020-03-12,School District Of Beloit,1,17
+2020-03-12,United States,1,18
+2020-03-12,University Of Wisconsin,1,19
+2020-03-12,Walgreens,1,20
+2020-03-12,Blackhawk Technical College,2,5
+2020-03-12,Christ Church Episcopal Church,2,6
+2020-03-12,Department Of Health Services,2,7
+2020-03-12,Division Of Public Health,2,8
+2020-03-12,Health St,2,9
+2020-03-12,Milton School District,2,10
+2020-03-12,Wisconsin Department Of Health Services,2,11
+2020-03-12,Facebook,3,2
+2020-03-12,University Center,3,3
+2020-03-12,World Health Organization,3,4
+2020-03-12,Centers For Disease,6,1
+2020-03-13,Beloit College,1,1
+2020-03-13,Centers For Disease Control,1,2
+2020-03-13,Communications Center,1,3
+2020-03-13,Facebook,1,4
+2020-03-13,Instagram,1,5
+2020-03-13,National Health Service,1,6
+2020-03-13,Rockford Strategic Communications,1,7
+2020-03-13,University Of London,1,8
+2020-03-13,Wisconsin Department Of Health Services,1,9
+2020-03-13,World Health Organization,1,10
+2020-03-14,Uw School Of Veterinary Medicine,1,1
+2020-03-17,Andrews Church Neighborhood,1,1
+2020-03-17,Cimarron Court,1,2
+2020-03-17,Cimarron Court Neighborhood,1,3
+2020-03-17,Geronimo Hospitality Group,1,4
+2020-03-17,Home Community,1,5
+2020-03-17,Hotel Goodwin,1,6
+2020-03-17,Ironworks Hotel,1,7
+2020-03-17,Jefferson Elementary School,1,8
+2020-03-17,Merrill Elementary School,1,9
+2020-03-17,Nan,1,10
+2020-03-17,Oaklawn Elementary School,1,11
+2020-03-17,Oshkosh Area Community Pantry,1,12
+2020-03-17,Oshkosh Area School District,1,13
+2020-03-17,Oshkosh Community,1,14
+2020-03-17,Oshkosh North High School,1,15
+2020-03-17,Perry Tipler Middle School,1,16
+2020-03-17,Webster Stanley Middle School,1,17
+2020-03-17,Winnebago County Health Department,1,18
+2020-03-17,Wisconsin Department Of Health Services,1,19
+2020-03-18,Nan,1,10
+2020-03-18,Centers For Disease Control,2,1
+2020-03-18,Communicable Disease Division,2,2
+2020-03-18,Department Of Health Services,2,3
+2020-03-18,Emergency Department,2,4
+2020-03-18,Health St,2,5
+2020-03-18,Illinois Governor Office,2,6
+2020-03-18,Swedishamerican Health In Rockford,2,7
+2020-03-18,Wisconsin State Laboratory Dr,2,8
+2020-03-18,Wisconsin State Laboratory Of Hygiene,2,9
+2020-03-19,Bureau Of Communicable Diseases,1,4
+2020-03-19,Hygiene Lab,1,5
+2020-03-19,Schneider Funeral Services,1,6
+2020-03-19,Youtube,1,7
+2020-03-19,Green Bay,2,1
+2020-03-19,Twitter,2,2
+2020-03-19,Wisconsin Newspaper Association,2,3
+2020-03-20,Associated Press,1,1
+2020-03-20,Daley Murphy Wisch Associates,1,2
+2020-03-20,Daley Murphy Wisch Associates Funeral Home,1,3
+2020-03-20,Facebook,1,4
+2020-03-20,Foster Funeral Cremation Service,1,5
+2020-03-20,Illinois Department Of Public Health,1,6
+2020-03-20,John Lutheran Church,1,7
+2020-03-20,National Association Of Congregational Churches,1,8
+2020-03-20,Rock County Health Department,1,9
+2020-03-20,United Church,1,10
+2020-03-20,Winnebago County Health Department,1,11
+2020-03-20,Wisconsin Department Of Health Services,1,12
+2020-03-20,World Health Organization,1,13
+2020-03-20,Youtube,1,14
+2020-03-20,Zion Baptist Church,1,15
+2020-03-21,Craig High School,1,1
+2020-03-21,Department Of Health Services,1,2
+2020-03-21,Department Of Labor,1,3
+2020-03-21,Netflix,1,4
+2020-03-21,Schneider Funeral Services,1,5
+2020-03-21,Senate Foreign Relations Committee,1,6
+2020-03-21,Smart Traveler Enrollment Program,1,7
+2020-03-21,United States,1,8
+2020-03-21,Workforce Development,1,9
+2020-03-21,Youtube,1,10
+2020-03-22,Department Of Health Services,1,2
+2020-03-22,Department Of Labor,1,3
+2020-03-22,Epilepsy Foundation,1,4
+2020-03-22,Franklin Middle School,1,5
+2020-03-22,Mount Mary University,1,6
+2020-03-22,Walgreen Co,1,7
+2020-03-22,Workforce Development,1,8
+2020-03-22,Facebook,2,1
+2020-03-23,Wisconsin Election Commission,1,12
+2020-03-23,Department Of Health Services,2,1
+2020-03-23,Emergency Operations Center,2,2
+2020-03-23,Milton School District,2,3
+2020-03-23,National Emergency,2,4
+2020-03-23,Schools In Milton School District,2,5
+2020-03-23,Volk Field Combat Readiness Training Center,2,6
+2020-03-23,Wisconsin Department Of Health Services,2,7
+2020-03-23,Wisconsin Department Of Instruction,2,8
+2020-03-23,Wisconsin Department Of Transportation,2,9
+2020-03-23,Wisconsin National Guard,2,10
+2020-03-23,World Health Organization,2,11
+2020-03-24,Wisconsin Election Commission,1,1
+2020-03-24,Wisconsin Supreme Court,1,2
+2020-03-25,Andrew Church,1,12
+2020-03-25,Christ Lutheran Church,1,13
+2020-03-25,Commerce Court,1,14
+2020-03-25,Community Action Of Rock,1,15
+2020-03-25,Emergency Food Assistance Program,1,16
+2020-03-25,First Congregational United Church,1,17
+2020-03-25,Salvation Army,1,18
+2020-03-25,Wisconsin Senior Employment Program,1,19
+2020-03-25,Old Stone Church,3,8
+2020-03-25,Sam Club,3,9
+2020-03-25,Stateline Community Foundation,3,10
+2020-03-25,Walmart,3,11
+2020-03-25,Customer Service Center,4,1
+2020-03-25,Cybersecurity Infrastructure Security Agency,4,2
+2020-03-25,Facebook,4,3
+2020-03-25,Finnegan Rv Center,4,4
+2020-03-25,Revenue Service,4,5
+2020-03-25,Wisconsin Department Of Health Services,4,6
+2020-03-25,Wisconsin Economic Development Corporation,4,7
+2020-03-26,Democratic Party,1,5
+2020-03-26,Adams Publishing Group,2,1
+2020-03-26,Community Action Inc,2,2
+2020-03-26,Girls Club,2,3
+2020-03-26,Mercyhealth Human Resources Department,2,4
+2020-03-27,American Telemedicine Association,1,2
+2020-03-27,Wisconsin Election Commission To,2,1
+2020-03-29,Personnel Committee,1,1
+2020-03-29,Sustainable La Crosse Commission,1,2
+2020-03-31,Health System,1,26
+2020-03-31,Housing Administration,1,27
+2020-03-31,Kennedy Center,1,28
+2020-03-31,Police Administration Building,1,29
+2020-03-31,Winnebago County Sheriff Office,1,30
+2020-03-31,Wisconsin Department Of Health Services,1,31
+2020-03-31,Wisconsin Supreme Court,1,32
+2020-03-31,Youtube,1,33
+2020-03-31,American Hotel,2,6
+2020-03-31,Assembly Speaker Robin Vos,2,7
+2020-03-31,Department Of Health Service Safer At Home,2,8
+2020-03-31,Department Of Health Services,2,9
+2020-03-31,Department Of Workforce Development,2,10
+2020-03-31,Disability Resource Center,2,11
+2020-03-31,Frito Lay,2,12
+2020-03-31,Hormel Foods,2,13
+2020-03-31,Lavalle Industries,2,14
+2020-03-31,Milwaukee Rescue Mission,2,15
+2020-03-31,Pepsico,2,16
+2020-03-31,Prent Corp,2,17
+2020-03-31,Republican Senate Majority Leader Scott Fitzgerald,2,18
+2020-03-31,Supreme Court,2,19
+2020-03-31,Taco Bell,2,20
+2020-03-31,Taco Bell Foundation To No Kid Hungry,2,21
+2020-03-31,Trauma Center,2,22
+2020-03-31,United States,2,23
+2020-03-31,Wisconsin Workforce Development Board,2,24
+2020-03-31,Ymca,2,25
+2020-03-31,Gannett,3,3
+2020-03-31,Google,3,4
+2020-03-31,Green Bay,3,5
+2020-03-31,Twitter,5,1
+2020-03-31,Wisconsin Newspaper Association,5,2
+2020-04-01,Crossroads Care Center,1,1
+2020-04-01,Nan,1,2
+2020-04-01,Prairie Event Center,1,3
+2020-04-01,Wilmont Fire Department,1,4
+2020-04-01,Wisconsin Department Of Health Services,1,5
+2020-04-02,Associated Press,1,1
+2020-04-02,Nan,1,2
+2020-04-02,School Board,1,3
+2020-04-02,School District Of Beloit,1,4
+2020-04-02,Wisconsin Association Of School Boards,1,5
+2020-04-02,Wisconsin Elections Commission,1,6
+2020-04-03,Bureau Of Labor Statistics,1,7
+2020-04-03,Economic Policy Institute,1,8
+2020-04-03,Gimbel,1,9
+2020-04-03,Lasalle Network,1,10
+2020-04-03,United States,1,11
+2020-04-03,United States Department Of Agriculture,1,12
+2020-04-03,Wisconsin Department Of Agriculture,1,13
+2020-04-03,Human Services Board,2,1
+2020-04-03,Merrill Community Service Board,2,2
+2020-04-03,Rock County Human Services Board,2,3
+2020-04-03,School District Of Beloit,2,4
+2020-04-03,University Of Wisconsin Rock County Whitewater,2,5
+2020-04-03,Wisconsin Council For Children,2,6
+2020-04-04,Bureau Of Communicable Diseases,1,1
+2020-04-04,Department Of Health Services On,1,2
+2020-04-04,Department Of Justice Office Of Open Government,1,3
+2020-04-04,Kolak Education Center,1,4
+2020-04-04,Nan,1,5
+2020-04-04,Parkview Elementary School,1,6
+2020-04-04,Rehabilitation Center,1,7
+2020-04-04,Wisconsin Department Of Health Services,1,8
+2020-04-04,Youtube,1,9
+2020-04-05,A Better Wisconsin Together Political Fund,1,2
+2020-04-05,Alliance For Justice Action Campaign,1,3
+2020-04-05,Bh Group,1,4
+2020-04-05,Bradley Foundation,1,5
+2020-04-05,Brennan Center,1,6
+2020-04-05,Brennan Center Democracy Program,1,7
+2020-04-05,Brennan Center Douglas Keith,1,8
+2020-04-05,Cato Institute,1,9
+2020-04-05,Department Of Health Services On,1,10
+2020-04-05,Facebook,1,11
+2020-04-05,Facebook Ad Library,1,12
+2020-04-05,Federalist Society,1,13
+2020-04-05,Harris Bank,1,14
+2020-04-05,Judicial Crisis Network,1,15
+2020-04-05,Koch Industries,1,16
+2020-04-05,Nan,1,17
+2020-04-05,National Institute On Money In Politics,1,18
+2020-04-05,Obama Supreme Court,1,19
+2020-04-05,Reform America Fund,1,20
+2020-04-05,Rehabilitation Center,1,21
+2020-04-05,Republican Governors Association,1,22
+2020-04-05,Republican Party Of Wisconsin,1,23
+2020-04-05,Republican State Leadership Committee,1,24
+2020-04-05,Tea Party,1,25
+2020-04-05,Trump Victory Committee,1,26
+2020-04-05,Wisconsin Alliance For Reform,1,27
+2020-04-05,Wisconsin Department Of Health Services,1,28
+2020-04-05,Wisconsin Supreme Court,1,29
+2020-04-05,Wisconsin Supreme Court Race,1,30
+2020-04-05,Youtube,1,31
+2020-04-05,Supreme Court,2,1
+2020-04-06,Centers For Disease,1,3
+2020-04-06,Centers For Medicare,1,4
+2020-04-06,Department Of Agriculture,1,5
+2020-04-06,Department Of Health,1,6
+2020-04-06,Department Of Health Services On,1,7
+2020-04-06,Human Services,1,8
+2020-04-06,Kennedy Center,1,9
+2020-04-06,Medicaid Services,1,10
+2020-04-06,Prince Of Peace Lutheran Church,1,11
+2020-04-06,Rock County Public Health Department,1,12
+2020-04-06,Senate Majority Leader Scott Fitzgerald,1,13
+2020-04-06,Small Business Administration,1,14
+2020-04-06,Steil Kennedy Center,1,15
+2020-04-06,United Church,1,16
+2020-04-06,Wisconsin National Guard,1,17
+2020-04-06,Wisconsin Supreme Court,1,18
+2020-04-06,Rehabilitation Center,2,2
+2020-04-06,Wisconsin Department Of Health Services,3,1
+2020-04-07,Centers For Disease,1,1
+2020-04-07,Centers For Medicare,1,2
+2020-04-07,Medicaid Services,1,3
+2020-04-07,Us Centers For Disease,1,4
+2020-04-07,Wisconsin Department Of Health Services,1,5
+2020-04-07,World Trade Center,1,6
+2020-04-08,Douglas High School In Milwaukee,1,1
+2020-04-08,Hamilton High School,1,2
+2020-04-08,National Guard,1,3
+2020-04-08,Riverside High School In Milwaukee,1,4
+2020-04-08,Riverside University High School In Milwaukee,1,5
+2020-04-08,School District Of Beloit,1,6
+2020-04-08,Wisconsin Association Of School Boards,1,7
+2020-04-09,Health Insurance Portability,1,4
+2020-04-09,Green Bay,2,1
+2020-04-09,Twitter,2,2
+2020-04-09,Wisconsin Newspaper Association,2,3
+2020-04-10,Center To Move Forward,1,1
+2020-04-11,Uw Health,1,1
+2020-04-11,Wisconsin Department Of Health Services,1,2
+2020-04-12,Nan,1,1
+2020-04-14,Costco,2,1
+2020-04-14,Green Bay,2,2
+2020-04-14,Nan,2,3
+2020-04-14,Twitter,2,4
+2020-04-14,Wisconsin Newspaper Association,2,5
+2020-04-15,Assembly Rep,1,3
+2020-04-15,Associated Press,1,4
+2020-04-15,Beloit Post Office,1,5
+2020-04-15,Culver,1,6
+2020-04-15,Drug Administration,1,7
+2020-04-15,Facebook,1,8
+2020-04-15,National Institutes Of Health,1,9
+2020-04-15,White House,1,10
+2020-04-15,Wisconsin Election Commission,1,11
+2020-04-15,Youtube,1,12
+2020-04-15,Aldrich Intermediate School,2,1
+2020-04-15,Wisconsin Association Of School Boards,2,2
+2020-04-16,Alliant Energy,1,1
+2020-04-16,Energy Information Administration,1,2
+2020-04-16,Riverside Energy Center,1,3
+2020-04-16,Wisconsin Department Of Health Services,1,4
+2020-04-16,Wisconsin Public Service,1,5
+2020-04-17,Honeywell,1,2
+2020-04-17,Honeywell International Inc,1,3
+2020-04-17,Lear Corporation,1,4
+2020-04-17,Regal Beloit,1,5
+2020-04-17,Reuters,1,6
+2020-04-17,Bureau Of Indian Affairs,2,1
+2020-04-19,Bethel Baptist Church,1,1
+2020-04-19,Point Domestic Violence Service,1,2
+2020-04-19,Seasons Retirement Center,1,3
+2020-04-20,Academic Senate,1,1
+2020-04-20,Academic Strategic Planning Committee,1,2
+2020-04-20,Blackhawk Bancorp,1,3
+2020-04-20,Blackhawk Bank,1,4
+2020-04-20,Emergency Academic Authority,1,5
+2020-04-20,First National Bank,1,6
+2020-04-20,Mercy College,1,7
+2020-04-20,Paycheck Protection Program,1,8
+2020-04-20,United States,1,9
+2020-04-21,Bureau Of Indian Affairs,1,1
+2020-04-21,Wisconsin Workforce Development Board,1,2
+2020-04-22,City Council,1,1
+2020-04-22,Madison Police Department,1,2
+2020-04-22,Procedure Review Ad Hoc Committee,1,3
+2020-04-22,Worn Camera Feasibility Review Committee,1,4
+2020-04-23,Assistance Program,1,1
+2020-04-23,Cress Funeral Services,1,2
+2020-04-23,Eaton,1,3
+2020-04-23,Housing Committee,1,4
+2020-04-23,Housing Finance Authority,1,5
+2020-04-23,Humane Society Of Southern Wisconsin,1,6
+2020-04-23,Minnesota Housing Finance Authority,1,7
+2020-04-23,Minnesota Housing Partnership,1,8
+2020-04-23,Minnesota Legislature,1,9
+2020-04-23,Minnesota Multi Housing Association,1,10
+2020-04-23,Rural Development,1,11
+2020-04-23,School District Of Beloit,1,12
+2020-04-23,Senate Agriculture,1,13
+2020-04-23,Senate File,1,14
+2020-04-23,Senate On,1,15
+2020-04-23,Senate Republicans,1,16
+2020-04-23,Wisconsin Department Of Health Services,1,17
+2020-04-24,Assistance Program,1,1
+2020-04-24,Bernier Mccaw Foundation,1,2
+2020-04-24,Cress Funeral Services,1,3
+2020-04-24,Gibson,1,4
+2020-04-24,Housing Committee,1,5
+2020-04-24,Housing Finance Authority,1,6
+2020-04-24,Minnesota Housing Finance Authority,1,7
+2020-04-24,Minnesota Housing Partnership,1,8
+2020-04-24,Minnesota Legislature,1,9
+2020-04-24,Minnesota Multi Housing Association,1,10
+2020-04-24,National Domestic Violence Hotline,1,11
+2020-04-24,Rural Development,1,12
+2020-04-24,Safehouse Center,1,13
+2020-04-24,Senate Agriculture,1,14
+2020-04-24,Senate File,1,15
+2020-04-24,Senate On,1,16
+2020-04-24,Senate Republicans,1,17
+2020-04-24,Ywca,1,18
+2020-04-26,Edgerton High School,1,1
+2020-04-26,Tribune Content Agency,1,2
+2020-04-26,United States,1,3
+2020-04-27,Eaton,1,1
+2020-04-27,Facebook,1,2
+2020-04-27,Humane Society Of Southern Wisconsin,1,3
+2020-04-27,Nan,1,4
+2020-04-27,Reuters,1,5
+2020-04-28,American Foods Group,1,1
+2020-04-28,Eaton,1,2
+2020-04-28,Hedberg Public Library,1,3
+2020-04-28,Humane Society Of Southern Wisconsin,1,4
+2020-04-28,Wisconsin Supreme Court,1,5
+2020-04-29,Blackhawk Bancorp,1,1
+2020-04-29,Blackhawk Bank,1,2
+2020-04-29,First National Bank,1,3
+2020-04-29,Means Committee,1,4
+2020-04-29,Paycheck Protection Program,1,5
+2020-04-29,Senate Democrats,1,6
+2020-04-29,Senate Majority Leader Mitch Mcconnell,1,7
+2020-04-29,Senate Republican,1,8
+2020-04-30,Department Of Civil,1,1
+2020-04-30,Google,1,2
+2020-04-30,Hormel,1,3
+2020-04-30,Hormel Foods,1,4
+2020-04-30,Parker High School In Janesville,1,5
+2020-04-30,Rivers Convention,1,6
+2020-04-30,Sciences In Madison,1,7
+2020-04-30,Speaker Task Force On Water Quality,1,8
+2020-04-30,University Of Wisconsin,1,9
+2020-04-30,Wisconsin Institute For Law,1,10
+2020-05-01,Hormel,1,1
+2020-05-01,Hormel Foods,1,2
+2020-05-01,Sciences In Madison,1,3
+2020-05-02,Laborers International Union,1,1
+2020-05-02,Militantfighting Fund,1,2
+2020-05-02,Walmart,1,3
+2020-05-02,Wisconsin Farmers Union,1,4
+2020-05-02,Workers Party,1,5
+2020-05-03,Eaton,1,1
+2020-05-03,Humane Society Of Southern Wisconsin,1,2
+2020-05-03,Supreme Court,1,3
+2020-05-03,University Of Florida,1,4
+2020-05-03,Wisconsin Election Commission,1,5
+2020-05-04,Adams Publishing Group,1,1
+2020-05-04,Bass Pro Shops,1,2
+2020-05-04,Cabela,1,3
+2020-05-04,Facebook,1,4
+2020-05-04,Milton High School,1,5
+2020-05-04,New York Times,1,6
+2020-05-04,Republican Party,1,7
+2020-05-04,Republican Party Of Wisconsin,1,8
+2020-05-04,Senate Majority Leader Mitch Mcconnell,1,9
+2020-05-04,United States,1,10
+2020-05-04,University Of Wisconsin,1,11
+2020-05-04,Walmart,1,12
+2020-05-05,Copper State Brewing Co,2,1
+2020-05-05,Facebook,2,2
+2020-05-05,Green Bay,2,3
+2020-05-05,Instagram,2,4
+2020-05-05,Twitter,2,5
+2020-05-05,Visitors Bureau,2,6
+2020-05-05,Wisconsin Newspaper Association,2,7
+2020-05-06,Art Institute Of Wisconsin,1,1
+2020-05-06,College Stress Test,1,2
+2020-05-06,Detroit Free,1,3
+2020-05-06,Detroit Free Press,1,4
+2020-05-06,Holy Family College,1,5
+2020-05-06,Holy Family College In Manitowoc,1,6
+2020-05-06,Institute For College Access,1,7
+2020-05-06,Lawrence University In Appleton,1,8
+2020-05-06,Marquette University,1,9
+2020-05-06,Silver Lake College Of The Holy Family,1,10
+2020-05-06,University Of Minnesota,1,11
+2020-05-07,Church Mutual Insurance,1,1
+2020-05-07,Health Care Enhancement,1,2
+2020-05-07,Health Resources,1,3
+2020-05-07,Human Services,1,4
+2020-05-07,Justice Department,1,5
+2020-05-07,Lena Police Department,1,6
+2020-05-07,Lighthouse Fellowship Church,1,7
+2020-05-07,Paycheck Protection Program,1,8
+2020-05-07,Service Administration,1,9
+2020-05-07,Supreme Court,1,10
+2020-05-07,Thomas More Society,1,11
+2020-05-07,Youtube,1,12
+2020-05-09,Edgerton High School,1,1
+2020-05-09,United States,1,2
+2020-05-10,Edgerton High School,1,11
+2020-05-10,United States,1,12
+2020-05-10,Aaron,4,2
+2020-05-10,Alliant Energy,4,3
+2020-05-10,Beloit Turner High School,4,4
+2020-05-10,Craig High School,4,5
+2020-05-10,Elkhorn High School Principal Chris Trotter,4,6
+2020-05-10,Evansville High School Principal Jason Knott,4,7
+2020-05-10,Milton School District,4,8
+2020-05-10,Parker High School,4,9
+2020-05-10,Turner High School,4,10
+2020-05-10,Federal Reserve,7,1
+2020-05-11,Department Of Public Health,1,1
+2020-05-11,Department Of Workforce Development,1,2
+2020-05-11,New York Times,1,3
+2020-05-12,Beloit Health System,1,2
+2020-05-12,Department Of Health Services,1,3
+2020-05-12,Edgerton High School,1,4
+2020-05-12,Family Services,1,5
+2020-05-12,Hackett,1,6
+2020-05-12,Illinois Department Of Public Health,1,7
+2020-05-12,Rock River Valley Blood Center,1,8
+2020-05-12,United States,1,9
+2020-05-12,Winnebago County Health Department,1,10
+2020-05-12,Wisconsin Department Of Health Services,1,11
+2020-05-12,Wisconsin Economic Development Corporation,1,12
+2020-05-12,Wisconsin National Guard,2,1
+2020-05-13,Nan,1,1
+2020-05-14,Edgerton High School,1,1
+2020-05-14,Rock Co,1,2
+2020-05-14,United States,1,3
+2020-05-14,Wisconsin Supreme Court,1,4
+2020-05-15,Assembly Majority Leader Jim Steineke,2,1
+2020-05-15,Assembly Speaker Robin Vos,2,2
+2020-05-15,Facebook,2,3
+2020-05-15,Human Services,2,4
+2020-05-15,Senate Majority Leader Scott Fitzgerald,2,5
+2020-05-15,Supreme Court,2,6
+2020-05-15,Wisconsin Supreme Court,2,7
+2020-05-16,Public Health,1,2
+2020-05-16,Supreme Court On,1,3
+2020-05-16,Facebook,2,1
+2020-05-18,Associated Press,1,1
+2020-05-18,United States,1,2
+2020-05-18,Wisconsin Supreme Court,1,3
+2020-05-19,Supreme Court,1,5
+2020-05-19,Wisconsin Department Of Health Services,1,6
+2020-05-19,Green Bay,2,1
+2020-05-19,Twitter,2,2
+2020-05-19,Visitors Bureau,2,3
+2020-05-19,Wisconsin Newspaper Association,2,4
+2020-05-23,Nan,1,1
+2020-05-24,United States,1,1
+2020-05-24,Wisconsin Supreme Court,1,2
+2020-05-25,Alliant Energy,1,1
+2020-05-25,Columbia Energy Center,1,2
+2020-05-25,Dairyland Power,1,3
+2020-05-25,Public Service Commission,1,4
+2020-05-25,Sierra Club Beyond Coal Campaign,1,5
+2020-05-25,Wisconsin Public Service,1,6

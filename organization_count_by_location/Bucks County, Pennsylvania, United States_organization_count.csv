@@ -1,0 +1,804 @@
+date,organization,count,rn
+2020-02-05,Machines Inc,1,1
+2020-02-05,Starbucks,1,2
+2020-02-05,Sunhillo Corp,1,3
+2020-02-05,Technology Of Wayne,1,4
+2020-02-05,Tiffany Co,1,5
+2020-02-05,United States,1,6
+2020-02-05,University Of Pennsylvania,1,7
+2020-02-05,Whitman,1,8
+2020-03-04,Associated Press,1,1
+2020-03-04,Association Of Public Health Laboratories,1,2
+2020-03-04,Bucks County Health Department,1,3
+2020-03-04,Centers For Disease,1,4
+2020-03-04,Coronavirus Task,1,5
+2020-03-04,Department Of Health,1,6
+2020-03-04,Drug Administration,1,7
+2020-03-04,Inovio Pharmaceuticals Inc,1,8
+2020-03-04,Pennsylvania Department Of Education,1,9
+2020-03-04,Pennsylvania Emergency Management Agency,1,10
+2020-03-04,United States,1,11
+2020-03-05,Centers For Disease,1,2
+2020-03-05,Departments Of Intercommunity Health,1,3
+2020-03-05,Emergency Services,1,4
+2020-03-05,Facilities Department,1,5
+2020-03-05,Intercommunity Health Department,1,6
+2020-03-05,Pennsylvania Department Of Education,1,7
+2020-03-05,Pennsylvania Department Of Health,1,8
+2020-03-05,Pennsylvania Emergency Management Agency,1,9
+2020-03-05,United States,2,1
+2020-03-06,Department Operations Center,2,43
+2020-03-06,Human Services Alex Azar,2,44
+2020-03-06,Johns Hopkins University,2,45
+2020-03-06,Los Angeles International Airport,2,46
+2020-03-06,Minnesota Department Of Health,2,47
+2020-03-06,Penn Community Bank,2,48
+2020-03-06,Penn State University,2,49
+2020-03-06,Starbucks,2,50
+2020-03-06,Cnn,3,42
+2020-03-06,Catholic Church,4,38
+2020-03-06,Episcopal Diocese Of Los Angeles,4,39
+2020-03-06,Tamanend Middle School In Warrington,4,40
+2020-03-06,Tohickon Middle School In Plumstead,4,41
+2020-03-06,Central Bucks High School,5,36
+2020-03-06,Twitter,5,37
+2020-03-06,Huffaker Elementary School,6,35
+2020-03-06,Facebook,7,33
+2020-03-06,Health Rachel Levine,7,34
+2020-03-06,Google,8,31
+2020-03-06,Representatives For The World Health Organization,8,32
+2020-03-06,Department Of Health,9,29
+2020-03-06,Health Dr,9,30
+2020-03-06,Bucks County Health Department,10,19
+2020-03-06,California Department Of Insurance,10,20
+2020-03-06,Centers For Disease Control In Atlanta On,10,21
+2020-03-06,Centre For Infectious Disease Epidemiology,10,22
+2020-03-06,Department Of Managed Health Care,10,23
+2020-03-06,Harvard University,10,24
+2020-03-06,Health Emergencies Program,10,25
+2020-03-06,National City,10,26
+2020-03-06,South China Morning Post,10,27
+2020-03-06,University Of Hong Kong,10,28
+2020-03-06,University Of Washington,12,18
+2020-03-06,Epidemiologist Of The Pennsylvania Department Of Health,14,17
+2020-03-06,Pennsylvania Emergency Management Agency,16,15
+2020-03-06,Senate On,16,16
+2020-03-06,Central Bucks School District Superintendent,20,12
+2020-03-06,Vatican Apostolic Library,20,13
+2020-03-06,World Health Organization,20,14
+2020-03-06,White House,23,11
+2020-03-06,Centers For Disease,29,10
+2020-03-06,Central Bucks School,34,9
+2020-03-06,Butler Elementary School,36,6
+2020-03-06,Central Bucks South High School,36,7
+2020-03-06,Titus Elementary School,36,8
+2020-03-06,United States,39,5
+2020-03-06,Central Bucks School District,45,4
+2020-03-06,Tamanend Middle School,50,3
+2020-03-06,Pennsylvania Department Of Health,55,2
+2020-03-06,Tohickon Middle School,56,1
+2020-03-07,Bipatrisan Congressional Coronavirus Task,1,5
+2020-03-07,Catholic Church,1,6
+2020-03-07,Centers For Disease,1,7
+2020-03-07,Central Bucks School District Superintendent,1,8
+2020-03-07,Central Bucks South High School,1,9
+2020-03-07,Centre For Infectious Disease Epidemiology,1,10
+2020-03-07,Congress On,1,11
+2020-03-07,Episcopal Diocese Of Los Angeles,1,12
+2020-03-07,Facebook,1,13
+2020-03-07,Harvard University,1,14
+2020-03-07,Health Dr,1,15
+2020-03-07,Health Emergencies Program,1,16
+2020-03-07,Huffaker Elementary School,1,17
+2020-03-07,Pennsylvania Emergency Management Agency,1,18
+2020-03-07,Representatives For The World Health Organization,1,19
+2020-03-07,Senate On,1,20
+2020-03-07,South China Morning Post,1,21
+2020-03-07,University Of Hong Kong,1,22
+2020-03-07,University Of Washington,1,23
+2020-03-07,Vatican Apostolic Library,1,24
+2020-03-07,White House,1,25
+2020-03-07,World Health Organization,1,26
+2020-03-07,Central Bucks School District,2,1
+2020-03-07,Tamanend Middle School,2,2
+2020-03-07,Tohickon Middle School,2,3
+2020-03-07,United States,2,4
+2020-03-08,Centers For Disease,1,1
+2020-03-08,Central Bucks High School,1,2
+2020-03-08,Central Bucks School District,1,3
+2020-03-08,Department Of Health,1,4
+2020-03-08,Department Operations Center,1,5
+2020-03-08,Penn Community Bank,1,6
+2020-03-08,Pennsylvania Emergency Management Agency,1,7
+2020-03-08,Starbucks,1,8
+2020-03-08,United States,1,9
+2020-03-09,Bucks County Health Department,1,1
+2020-03-09,Central Bucks School District,1,2
+2020-03-09,Life Care Center,1,3
+2020-03-09,Nan,1,4
+2020-03-09,Pennsylvania Department Of Health,1,5
+2020-03-10,American Community,1,10
+2020-03-10,Department Of Public Health,1,11
+2020-03-10,Division Of Disease,1,12
+2020-03-10,Hatboro-Horsham School District,1,13
+2020-03-10,Health Of The City,1,14
+2020-03-10,Henderson High School In Chester,1,15
+2020-03-10,Nshaminy School District,1,16
+2020-03-10,Office Of Emergency Management,1,17
+2020-03-10,Office Of Health,1,18
+2020-03-10,Patton Middle School In Chester,1,19
+2020-03-10,Simmons Elementary School In Horsham,1,20
+2020-03-10,Unionville High School,1,21
+2020-03-10,United Nations,1,22
+2020-03-10,United States,1,23
+2020-03-10,University City,1,24
+2020-03-10,World Health Organization,1,25
+2020-03-10,Buckingham Friends School,2,2
+2020-03-10,Centers For Disease,2,3
+2020-03-10,Department Of Health,2,4
+2020-03-10,Germantown Academy,2,5
+2020-03-10,Head Of School At Buckingham Friends,2,6
+2020-03-10,Hospital Of The University Of Pennsylvania,2,7
+2020-03-10,Neshaminy High School,2,8
+2020-03-10,Pennsylvania Department Of Health,2,9
+2020-03-10,Central Bucks School District,3,1
+2020-03-11,American Community,1,2
+2020-03-11,Blight Working Group,1,3
+2020-03-11,Bloomberg,1,4
+2020-03-11,Chester University,1,5
+2020-03-11,Club Of Pa,1,6
+2020-03-11,Cnn,1,7
+2020-03-11,Commission On Racial Equity,1,8
+2020-03-11,Department Of Public Health,1,9
+2020-03-11,Division Of Disease,1,10
+2020-03-11,Fund For Children,1,11
+2020-03-11,Fund Recommends Eugene Depasquale,1,12
+2020-03-11,Health Dr,1,13
+2020-03-11,Health Of The City,1,14
+2020-03-11,Luke University Health Network,1,15
+2020-03-11,Muhlenberg College,1,16
+2020-03-11,National Socialist Movement,1,17
+2020-03-11,National Women,1,18
+2020-03-11,Office Of Emergency Management,1,19
+2020-03-11,Pittsburgh Council,1,20
+2020-03-11,School Closings,1,21
+2020-03-11,Supreme Court,1,22
+2020-03-11,United Nations,1,23
+2020-03-11,White House,1,24
+2020-03-11,World Health Organization,1,25
+2020-03-11,Pennsylvania Department Of Health,2,1
+2020-03-12,Health Department,1,2
+2020-03-12,Hospital Of The University Of Pennsylvania,1,3
+2020-03-12,Pennsylvania Department Of Health,1,4
+2020-03-12,Pennsylvania Health,1,5
+2020-03-12,Welsh Valley Middle School,1,6
+2020-03-12,Centers For Disease,2,1
+2020-03-13,Bucks County Health Department,1,1
+2020-03-13,Clorox,1,2
+2020-03-13,Costco,1,3
+2020-03-13,Moravian Academy,1,4
+2020-03-13,Pennsylvania Health,1,5
+2020-03-13,Walmart,1,6
+2020-03-14,Pennsylvania Health,1,1
+2020-03-15,Nan,1,1
+2020-03-15,Pennsylvania Department Of Conservation,1,2
+2020-03-15,United States,1,3
+2020-03-16,Nan,1,1
+2020-03-17,American Treasure Tour Museum,1,1
+2020-03-17,Bensalem High School,1,2
+2020-03-17,Cecelia Snyder Middle School,1,3
+2020-03-17,Centers For Disease,1,4
+2020-03-17,Department Of Health,1,5
+2020-03-17,Facebook,1,6
+2020-03-17,Heinz History Center,1,7
+2020-03-17,Jefferson Health,1,8
+2020-03-17,Mercer Museum,1,9
+2020-03-17,Museum Of Pennsylvania,1,10
+2020-03-17,Museum Of The American Revolution,1,11
+2020-03-17,National Toy Train Museum,1,12
+2020-03-17,Pennsylvania Lumber Museum,1,13
+2020-03-17,Pennsylvania Railroad,1,14
+2020-03-17,Pennsylvania State Health Department,1,15
+2020-03-17,Railroad Museum Of Pennsylvania,1,16
+2020-03-17,Republican Committee,1,17
+2020-03-17,Sports Museum,1,18
+2020-03-17,Supreme Court,1,19
+2020-03-17,University Park,1,20
+2020-03-17,Walgreens,1,21
+2020-03-18,Common Pleas Court,1,9
+2020-03-18,Health Department,1,10
+2020-03-18,Pennsylvania Department Of Conservation,1,11
+2020-03-18,Tribune Content Agency,1,12
+2020-03-18,World Health Organization,1,13
+2020-03-18,Cecelia Snyder Middle School,2,6
+2020-03-18,Republican Committee,2,7
+2020-03-18,Republican Party Of Pennsylvania,2,8
+2020-03-18,House Democratic Campaign Committee,4,2
+2020-03-18,Pennsylvania Democratic Party,4,3
+2020-03-18,Pennsylvania Legislature,4,4
+2020-03-18,Republican Party,4,5
+2020-03-18,Bensalem High School,6,1
+2020-03-19,American College Of Surgeons,2,1
+2020-03-19,Centers For Medicare Medicaid Services,2,2
+2020-03-19,Holy Redeemer Health System In Montgomery,2,3
+2020-03-19,Lehigh Valley Health Network,2,4
+2020-03-19,Luke University Health Network,2,5
+2020-03-19,Mary Medical Center,2,6
+2020-03-19,Trinity Health System,2,7
+2020-03-20,A Central Bucks School District,1,4
+2020-03-20,Be Seeing Coronavirus Community,1,5
+2020-03-20,Centers For Disease,1,6
+2020-03-20,Central Bucks School District,1,7
+2020-03-20,Centre Daily Times,1,8
+2020-03-20,Congress Rolls,1,9
+2020-03-20,Emergency Services,1,10
+2020-03-20,Facebook,1,11
+2020-03-20,Health Department,1,12
+2020-03-20,Health Officials,1,13
+2020-03-20,Hershey School,1,14
+2020-03-20,Im A University Of Pittsburgh,1,15
+2020-03-20,Manufacturer Association,1,16
+2020-03-20,Nan,1,17
+2020-03-20,Officials Forming Task Force To Prevent Fraud,1,18
+2020-03-20,Pennsylvania Supreme Court,1,19
+2020-03-20,Port Authority Implements Social Distancing,1,20
+2020-03-20,Shell,1,21
+2020-03-20,Supreme Court,1,22
+2020-03-20,United States,1,23
+2020-03-20,United States Postal Service South Jersey Philadelphia,1,24
+2020-03-20,White House,1,25
+2020-03-20,World Health Organization,1,26
+2020-03-20,Community Foundation,2,1
+2020-03-20,Family Services,2,2
+2020-03-20,Family Services Of Montgomery,2,3
+2020-03-21,Department Of Corrections,1,1
+2020-03-22,Common Pleas Criminal Division,1,1
+2020-03-22,Correctional Institution Phoenix,1,2
+2020-03-22,Department Of Corrections,1,3
+2020-03-22,Facebook,1,4
+2020-03-22,Leonard Korman Respiratory Institute At Jefferson Hospital,1,5
+2020-03-22,Morrison,1,6
+2020-03-22,Nan,1,7
+2020-03-22,Pennsylvania Department Of Corrections,1,8
+2020-03-22,World Health Organization,1,9
+2020-03-23,Associated Press,1,4
+2020-03-23,Centers For Disease,1,5
+2020-03-23,Central Transit Authority,1,6
+2020-03-23,Department Of Community,1,7
+2020-03-23,Department Of Education,1,8
+2020-03-23,Department Of Health,1,9
+2020-03-23,Department Of Human Services,1,10
+2020-03-23,Economic Development,1,11
+2020-03-23,Elizabethtown College,1,12
+2020-03-23,Health Dr,1,13
+2020-03-23,Office Of Child Development,1,14
+2020-03-23,Pa Department Of Health Pahealthdept,1,15
+2020-03-23,Pennsylvania College Of Health Sciences,1,16
+2020-03-23,Pennsylvania Department Of Health,1,17
+2020-03-23,Red Rose Transit Authority,1,18
+2020-03-23,Tribune Content Agency,1,19
+2020-03-23,Facebook,2,1
+2020-03-23,Morrison,2,2
+2020-03-23,Nan,2,3
+2020-03-24,Department Of Health,1,1
+2020-03-24,Health Department,1,2
+2020-03-24,Health Dr,1,3
+2020-03-25,Jefferson Health System,1,1
+2020-03-25,Pennsylvania Department Of Health,1,2
+2020-03-25,United States,1,3
+2020-03-26,Department Of Corrections,1,1
+2020-03-26,Editorial Team,1,2
+2020-03-26,Health Dr,1,3
+2020-03-26,Isidore Church,1,4
+2020-03-26,Office For Divine Worship,1,5
+2020-03-26,Penafort Church,1,6
+2020-03-26,Pennsylvania Department Of Health,1,7
+2020-03-26,Pennsylvania State Police,1,8
+2020-03-26,Shell,1,9
+2020-03-26,Villanova University,1,10
+2020-03-26,Wolf Administration,1,11
+2020-03-27,Allegheny Co,1,3
+2020-03-27,American Property Casualty Insurance Association,1,4
+2020-03-27,Bucks Co,1,5
+2020-03-27,Centre Daily Times,1,6
+2020-03-27,City Council,1,7
+2020-03-27,Cnn,1,8
+2020-03-27,Congress Moves To Provide Coronavirus Relief,1,9
+2020-03-27,Department Of Health,1,10
+2020-03-27,Domino Pizza,1,11
+2020-03-27,Emergency Services,1,12
+2020-03-27,Facebook,1,13
+2020-03-27,Friends Bilingual Center,1,14
+2020-03-27,George School,1,15
+2020-03-27,Grocery Store Employees Tell,1,16
+2020-03-27,Group Aims To Flip Pa House,1,17
+2020-03-27,Health Dept,1,18
+2020-03-27,Johns Hopkins Center,1,19
+2020-03-27,National Association Of Insurance Commissioners,1,20
+2020-03-27,New York Times,1,21
+2020-03-27,Reuters,1,22
+2020-03-27,Smart Traveler Enrollment Program,1,23
+2020-03-27,Sunoco,1,24
+2020-03-27,Thomson Reuters Trust Principles,1,25
+2020-03-27,United States,1,26
+2020-03-27,Wakefern Food Corp,1,27
+2020-03-27,Walmart,1,28
+2020-03-27,Union Square,2,1
+2020-03-27,Visitors Bureau,2,2
+2020-03-28,Domino Pizza,1,1
+2020-03-28,Wakefern Food Corp,1,2
+2020-03-28,Walmart,1,3
+2020-03-29,American Property Casualty Insurance Association,1,1
+2020-03-29,Ascot Court,1,2
+2020-03-29,Bucks County Community College,1,3
+2020-03-29,Burglary Police,1,4
+2020-03-29,Center City,1,5
+2020-03-29,Communications Commission,1,6
+2020-03-29,Degree Nursing Program,1,7
+2020-03-29,Health Sciences,1,8
+2020-03-29,Health Sciences Department,1,9
+2020-03-29,Mary Medical Center,1,10
+2020-03-29,National Association Of Insurance Commissioners,1,11
+2020-03-29,Newtown Bucks County Community College,1,12
+2020-03-29,Police Department,1,13
+2020-03-29,Radiography Associate Degree Program,1,14
+2020-03-29,Reuters,1,15
+2020-03-29,Supreme Court,1,16
+2020-03-29,Verizon,1,17
+2020-03-29,Whitman,1,18
+2020-03-30,Action Team,1,1
+2020-03-30,Bucks County Community College,1,2
+2020-03-30,Delaware Riverkeeper Network,1,3
+2020-03-30,Department Of Environmental Protection,1,4
+2020-03-30,Dollar Tree,1,5
+2020-03-30,Environmental Protection Agency,1,6
+2020-03-30,Facebook,1,7
+2020-03-30,Health Sciences Department,1,8
+2020-03-30,Mary Medical Center,1,9
+2020-03-30,Nan,1,10
+2020-03-31,Brewing Company,1,8
+2020-03-31,Bucks County Community College,1,9
+2020-03-31,Central Bucks Regional Police Department,1,10
+2020-03-31,Degree Nursing Program,1,11
+2020-03-31,Einstein Health,1,12
+2020-03-31,Faber Distlling Co,1,13
+2020-03-31,Health Dr,1,14
+2020-03-31,Health Sciences,1,15
+2020-03-31,Health Sciences Department,1,16
+2020-03-31,Humane Fire Company,1,17
+2020-03-31,Mary Medical Center,1,18
+2020-03-31,Nan,1,19
+2020-03-31,Newtown Bucks County Community College,1,20
+2020-03-31,Pennsylvania State Police,1,21
+2020-03-31,Radiography Associate Degree Program,1,22
+2020-03-31,Sun Spirits Co,1,23
+2020-03-31,Wolf Administration,1,24
+2020-03-31,World Health Organization,1,25
+2020-03-31,Ascot Court,2,1
+2020-03-31,Communications Commission,2,2
+2020-03-31,Newtown Township Police,2,3
+2020-03-31,Northampton Township Police Department,2,4
+2020-03-31,Pennsylvania Department Of Health,2,5
+2020-03-31,Police Department,2,6
+2020-03-31,Verizon,2,7
+2020-04-01,Barra Foundation,1,1
+2020-04-01,Center City,1,2
+2020-04-01,Dow Chemical,1,3
+2020-04-01,Emergency Relief Association,1,4
+2020-04-01,Emergency Relief Association Food Pantry,1,5
+2020-04-01,Foundations Community Partnership,1,6
+2020-04-01,Ivins Outreach Center,1,7
+2020-04-01,Kurfiss Sotheby International Realty,1,8
+2020-04-01,Penn Community Bank,1,9
+2020-04-01,Pennsylvania Department Of Health,1,10
+2020-04-01,Recovery Fund,1,11
+2020-04-01,Robin Gordon Group,1,12
+2020-04-01,Salvation Army Lower Bucks Corps,1,13
+2020-04-01,Sivel Group,1,14
+2020-04-02,Nan,1,1
+2020-04-02,National Guard,1,2
+2020-04-02,Temple University Ambler,1,3
+2020-04-02,Twitter,1,4
+2020-04-03,A Department Of Health,1,1
+2020-04-03,Ann Klein Forensic Center,1,2
+2020-04-03,Center City,1,3
+2020-04-03,Christian Life Community Church,1,4
+2020-04-03,Inquirer Members Of Christ Church,1,5
+2020-04-03,Jersey Council,1,6
+2020-04-03,Liberti Church,1,7
+2020-04-03,Members Of Christ Church,1,8
+2020-04-03,Nan,1,9
+2020-04-03,Pew Research Center,1,10
+2020-04-03,Softbank,1,11
+2020-04-04,Department Of Health,1,2
+2020-04-04,Patrick Day At Capital Health,1,3
+2020-04-04,Tribune Content Agency,1,4
+2020-04-04,Facebook,5,1
+2020-04-05,Department Of Community,1,2
+2020-04-05,Economic Development,1,3
+2020-04-05,Nan,1,4
+2020-04-05,Pennsylvania Department Of Community,1,5
+2020-04-05,Pennsylvania Department Of Health,1,6
+2020-04-05,World Health Organization,1,7
+2020-04-05,Youtube,1,8
+2020-04-05,Facebook,2,1
+2020-04-06,Department Of Health,2,1
+2020-04-06,Health Dr,2,2
+2020-04-07,Department Of Health,1,1
+2020-04-07,Einstein Healthcare Network,1,2
+2020-04-07,Health Rachel Levine,1,3
+2020-04-07,Hospital Of The University Of Pennsylvania,1,4
+2020-04-07,Maternity Care Coalition,1,5
+2020-04-07,Temple Health,1,6
+2020-04-07,United States,1,7
+2020-04-08,Immunology Defense Fund,1,1
+2020-04-08,Institute For Health Metrics,1,2
+2020-04-08,Perelman School Of Medicine,1,3
+2020-04-08,Research On Coronaviruses,1,4
+2020-04-08,University Of Washington,1,5
+2020-04-09,Centers For Disease,1,1
+2020-04-09,Centers Of Disease,1,2
+2020-04-09,Common Pleas Criminal Division,1,3
+2020-04-09,Correctional Institution Phoenix,1,4
+2020-04-09,Opinion Research At Franklin Marshall College,1,5
+2020-04-09,Penn State Center,1,6
+2020-04-09,Pennsylvania Department Of Corrections,1,7
+2020-04-09,Pennsylvania Department Of Health,1,8
+2020-04-09,Pennsylvania Supreme Court,1,9
+2020-04-09,University Of Pennsylvania,1,10
+2020-04-09,University Of Washington,1,11
+2020-04-09,World Health Organization,1,12
+2020-04-10,Allegheny Co,1,2
+2020-04-10,Centers Of Disease,1,3
+2020-04-10,Centre Daily Times,1,4
+2020-04-10,Chinese Communist Party,1,5
+2020-04-10,City School Teachers Pick Up Laptops To,1,6
+2020-04-10,Frontline Join National Give Me,1,7
+2020-04-10,Health Dept,1,8
+2020-04-10,Lifeline Service Schedule,1,9
+2020-04-10,Mastbaum High School,1,10
+2020-04-10,National Journal,1,11
+2020-04-10,Pennsylvania Democratic Party,1,12
+2020-04-10,Pennsylvania Department Of Health,1,13
+2020-04-10,Sheriff Office,1,14
+2020-04-10,White House,2,1
+2020-04-11,Centers For Medicare,1,2
+2020-04-11,Citizens Bank Park,1,3
+2020-04-11,Department Of Health,1,4
+2020-04-11,Lower Providence Police Department,1,5
+2020-04-11,Rowan College Of South Jersey,1,6
+2020-04-11,White House Coronavirus Task,1,7
+2020-04-11,White House Task,1,8
+2020-04-11,Ann Klein Forensic Center,2,1
+2020-04-12,Ann Klein Forensic Center,1,1
+2020-04-12,Centers For Disease,1,2
+2020-04-12,Centers For Medicare,1,3
+2020-04-12,Doylestown Health,1,4
+2020-04-12,Medicaid Services,1,5
+2020-04-12,Nursing Center,1,6
+2020-04-12,Public Health,1,7
+2020-04-12,Senior Living Services,1,8
+2020-04-12,Senior Services,1,9
+2020-04-13,Ann Klein Forensic Center,1,3
+2020-04-13,Health Department,1,4
+2020-04-13,Health Department Saturday,1,5
+2020-04-13,Health Dr,1,6
+2020-04-13,New York Post,1,7
+2020-04-13,Facebook,2,1
+2020-04-13,Mary Medical Center,2,2
+2020-04-14,Council Rock,1,3
+2020-04-14,Ford Motor Co,1,4
+2020-04-14,Facebook,2,1
+2020-04-14,Mary Medical Center,2,2
+2020-04-15,American Health Care Association,1,1
+2020-04-15,Associated Press,1,2
+2020-04-15,Centers For Disease,1,3
+2020-04-15,Centers For Medicare Medicaid Services,1,4
+2020-04-15,Harvard Medical School,1,5
+2020-04-15,Nan,1,6
+2020-04-15,National Guard,1,7
+2020-04-15,Piggyback Treats Company,1,8
+2020-04-15,Society For,1,9
+2020-04-15,University Of California San Francisco,1,10
+2020-04-15,York Health,1,11
+2020-04-16,American Health Care Association,1,1
+2020-04-16,Associated Press,1,2
+2020-04-16,Centers For Disease,1,3
+2020-04-16,Centers For Medicare Medicaid Services,1,4
+2020-04-16,Harvard Medical School,1,5
+2020-04-16,National Guard,1,6
+2020-04-16,Society For,1,7
+2020-04-16,University Of California San Francisco,1,8
+2020-04-16,York Health,1,9
+2020-04-17,Council Of Southeast Pennsylvania,1,10
+2020-04-17,Council Of Southeastern Pennsylvania,1,11
+2020-04-17,Family Service Association,1,12
+2020-04-17,Keystone Opportunity Center,1,13
+2020-04-17,Recovery Fund,1,14
+2020-04-17,Rehabilitation Center On,1,15
+2020-04-17,Women Recovery Center,1,16
+2020-04-17,Ymca,1,17
+2020-04-17,American Health Care Association,3,1
+2020-04-17,Associated Press,3,2
+2020-04-17,Centers For Disease,3,3
+2020-04-17,Centers For Medicare Medicaid Services,3,4
+2020-04-17,Harvard Medical School,3,5
+2020-04-17,National Guard,3,6
+2020-04-17,Society For,3,7
+2020-04-17,University Of California San Francisco,3,8
+2020-04-17,York Health,3,9
+2020-04-18,Affairs Administration,1,1
+2020-04-18,Behavioral Sciences In Harvard,1,2
+2020-04-18,Community Supported Agriculture,1,3
+2020-04-18,Harvard University,1,4
+2020-04-18,Housing Authority,1,5
+2020-04-18,Roosevelt Public Works Administration,1,6
+2020-04-21,Department Of Health,1,1
+2020-04-21,Facebook,1,2
+2020-04-21,Falls Police,1,3
+2020-04-21,Jones Engineering Associates,1,4
+2020-04-21,New York Times,1,5
+2020-04-21,Pennsylvania Emergency Management Agency,1,6
+2020-04-21,Twitter,1,7
+2020-04-22,Aetna,1,1
+2020-04-22,Aetna Better Health,1,2
+2020-04-22,Care Management Association,1,3
+2020-04-22,Centers For Medicare,1,4
+2020-04-22,Department Of Health,1,5
+2020-04-22,Facebook,1,6
+2020-04-22,Health Partners,1,7
+2020-04-22,Human Services,1,8
+2020-04-22,Medicaid Services,1,9
+2020-04-22,Pennsylvania Department Of Human Services,1,10
+2020-04-22,Pennsylvania Pharmacists Association,1,11
+2020-04-22,Unitedhealthcare Community Plan,1,12
+2020-04-22,White House,1,13
+2020-04-23,Aetna,1,4
+2020-04-23,Aetna Better Health,1,5
+2020-04-23,Care Management Association,1,6
+2020-04-23,Coronavirus Deaths Reported In Bucks Co,1,7
+2020-04-23,Facebook,1,8
+2020-04-23,Health Partners,1,9
+2020-04-23,Human Services,1,10
+2020-04-23,Pennsylvania Department Of Human Services,1,11
+2020-04-23,Pennsylvania Pharmacists Association,1,12
+2020-04-23,Unitedhealthcare Community Plan,1,13
+2020-04-23,University Of Pennsylvania,1,14
+2020-04-23,Mitsubishi,2,1
+2020-04-23,Services Office,2,2
+2020-04-23,Wolf Administration,2,3
+2020-04-24,George School,1,6
+2020-04-24,Google,1,7
+2020-04-24,Occidental University,1,8
+2020-04-24,Penn Community Bank,1,9
+2020-04-24,Penn Community Bank Healthcare Operational Priority Emergency,1,10
+2020-04-24,Recovery Fund,1,11
+2020-04-24,Technology Joe Kuzo,1,12
+2020-04-24,United States,1,13
+2020-04-24,Upper Dublin High School,1,14
+2020-04-24,York City Department Of Education,1,15
+2020-04-24,Mitsubishi,2,4
+2020-04-24,Services Office,2,5
+2020-04-24,Lansdale United Group,4,1
+2020-04-24,Lenape Valley Foundation,4,2
+2020-04-24,Presbyterian Church At Deep Run In Bedminster,4,3
+2020-04-25,Aetna Better Health,1,1
+2020-04-25,Board Of Health,1,2
+2020-04-25,Care Management Association,1,3
+2020-04-25,Department Of Health,1,4
+2020-04-25,International Council On Shopping Centers,1,5
+2020-04-25,New York Stock Exchange,1,6
+2020-04-25,Paycheck Protection Program,1,7
+2020-04-25,Quarantine Center,1,8
+2020-04-25,Simon Properties,1,9
+2020-04-25,Temple University Ambler,1,10
+2020-04-25,United States,1,11
+2020-04-25,York Stock Exchange,1,12
+2020-04-26,Associated Press,1,1
+2020-04-26,Centers For Disease,1,2
+2020-04-26,Einstein Medical Center,1,3
+2020-04-26,Facebook,1,4
+2020-04-26,Lehigh University,1,5
+2020-04-26,Pottsville Area High School,1,6
+2020-04-26,Temple University,1,7
+2020-04-26,World Health Organization,1,8
+2020-04-26,Youtube,1,9
+2020-04-27,Business Association,1,1
+2020-04-27,Girl Scouts,1,2
+2020-04-27,Historic Society,1,3
+2020-04-27,Innovation Department,1,4
+2020-04-27,Mary Medical Center,1,5
+2020-04-27,Mcdonald,1,6
+2020-04-27,Penn Medicine Princeton Medical Center,1,7
+2020-04-27,Piggyback Treats Co,1,8
+2020-04-27,School House Commons,1,9
+2020-04-28,Cargill,1,2
+2020-04-28,Centers For Disease,1,3
+2020-04-28,Cnn,1,4
+2020-04-28,Cornell University,1,5
+2020-04-28,Flickr,1,6
+2020-04-28,Health Administration,1,7
+2020-04-28,Hormel,1,8
+2020-04-28,Illinois Public Health Department,1,9
+2020-04-28,Inspection Service,1,10
+2020-04-28,Jetblue,1,11
+2020-04-28,Johns Hopkins University,1,12
+2020-04-28,National Beef,1,13
+2020-04-28,National Pork Producers Council,1,14
+2020-04-28,Piggyback Treats Co,1,15
+2020-04-28,Rabobank,1,16
+2020-04-28,Reuters,1,17
+2020-04-28,Sanderson Farms,1,18
+2020-04-28,Southeast Council,1,19
+2020-04-28,Tyson Foods,1,20
+2020-04-28,White House,1,21
+2020-04-28,World Health Organization,1,22
+2020-04-28,Young,1,23
+2020-04-28,New York Times,2,1
+2020-04-29,Pennsylvania State Mayors Association,1,1
+2020-04-29,Pennsylvania State Police,1,2
+2020-04-30,Continental Congress,1,1
+2020-04-30,Federal Reserve Bank,1,2
+2020-04-30,Holland Middle School,1,3
+2020-04-30,Nan,1,4
+2020-05-01,Economic Recovery Task,2,1
+2020-05-04,Bucks County Health Department On,1,1
+2020-05-04,Piggyback Treats Co,1,2
+2020-05-05,Allstate Corp,1,1
+2020-05-05,Insurer Allstate Corp,1,2
+2020-05-05,Reuters,1,3
+2020-05-05,Thomson Reuters Trust Principles,1,4
+2020-05-06,Allstate Corp,1,1
+2020-05-06,Art Center,1,2
+2020-05-06,Geico Corp,1,3
+2020-05-06,Gimbel Department,1,4
+2020-05-06,Insurer Allstate Corp,1,5
+2020-05-06,Plastic Club,1,6
+2020-05-06,Progressive Corp,1,7
+2020-05-06,Reuters,1,8
+2020-05-06,Service Businesses,1,9
+2020-05-06,Tyler Art School,1,10
+2020-05-06,Warren Buffett Berkshire Hathaway Inc,1,11
+2020-05-06,Woodmere Art Museum,1,12
+2020-05-07,New York Times,1,1
+2020-05-08,Bloomberg,1,3
+2020-05-08,Catholic Medical Association,1,4
+2020-05-08,Centers For Disease,1,5
+2020-05-08,Chrysostom Episcopal Church,1,6
+2020-05-08,Convention Task,1,7
+2020-05-08,Diocese Of Los Angeles,1,8
+2020-05-08,Diocese Of Northwestern Pennsylvania,1,9
+2020-05-08,Diocese Of Ohio,1,10
+2020-05-08,Eisenhower Executive Office Building,1,11
+2020-05-08,Episcopal Church,1,12
+2020-05-08,Episcopal Church Executive Council,1,13
+2020-05-08,Episcopal Church Washington,1,14
+2020-05-08,Episcopal Diocese Of Los Angeles,1,15
+2020-05-08,Episcopal News Service,1,16
+2020-05-08,Facebook,1,17
+2020-05-08,Hanover Insurance Group,1,18
+2020-05-08,Health Administration,1,19
+2020-05-08,Human Services,1,20
+2020-05-08,Lipton,1,21
+2020-05-08,Luke University Health Network,1,22
+2020-05-08,Mission Enterprise Zones,1,23
+2020-05-08,National Association Of Catholic Nurses,1,24
+2020-05-08,National Nurses Day,1,25
+2020-05-08,Quality Sausage Co,1,26
+2020-05-08,Trinity Episcopal Church,1,27
+2020-05-08,White House,1,28
+2020-05-08,White House Medical Office,1,29
+2020-05-08,Workers International Union,1,30
+2020-05-08,Oval Office,2,1
+2020-05-08,United States,2,2
+2020-05-09,Appalachian State University,1,1
+2020-05-09,Atlantic Treaty Organization,1,2
+2020-05-09,Beaver Area Heritage Foundation,1,3
+2020-05-09,Big Lots,1,4
+2020-05-09,Division Of Alcoholic Beverage,1,5
+2020-05-09,Division Of Consumer,1,6
+2020-05-09,Gettysburg College,1,7
+2020-05-09,Luke Anglican Church,1,8
+2020-05-09,Tequila Club In Plainfield,1,9
+2020-05-09,Trinity Anglican Church,1,10
+2020-05-09,Trinity Episcopal Church,1,11
+2020-05-10,Department Of Drug,1,1
+2020-05-10,Lackawanna Susquehanna Office Of Drug,1,2
+2020-05-10,Twitter,1,3
+2020-05-12,Amtrak,1,1
+2020-05-12,Armstrong Middle School,1,2
+2020-05-12,Brookwood Elementary School,1,3
+2020-05-12,Econsult Solutions Inc,1,4
+2020-05-12,National Pediatric Cancer Foundation,1,5
+2020-05-12,Pennsylvania Department Of Transportation,1,6
+2020-05-12,Temple University,1,7
+2020-05-12,Tower Investments Inc,1,8
+2020-05-13,Abington-Jefferson Health,1,1
+2020-05-13,Department Of Health,1,2
+2020-05-13,Drug Administration,1,3
+2020-05-13,Gilead Sciences Of California,1,4
+2020-05-13,Health Department,1,5
+2020-05-13,Health Rachel Levine,1,6
+2020-05-13,Holy Redeemer Hospital Medical Center,1,7
+2020-05-13,Hospital Of The University Of Pennsylvania,1,8
+2020-05-13,Human Services,1,9
+2020-05-13,Mary Medical Center,1,10
+2020-05-13,Pennsylvania Department Of Health,1,11
+2020-05-13,Temple Lung Center,1,12
+2020-05-13,Temple University Hospital,1,13
+2020-05-14,Albert Einstein Medical Center,1,1
+2020-05-14,American Society Of Health,1,2
+2020-05-14,Drug Administration,1,3
+2020-05-14,Gilead Sciences Inc,1,4
+2020-05-14,Health Department,1,5
+2020-05-14,Human Services,1,6
+2020-05-14,Indian Health Service,1,7
+2020-05-14,Infectious Diseases Society Of America,1,8
+2020-05-14,Main Line Health,1,9
+2020-05-14,Medicine Association,1,10
+2020-05-14,Pennsylvania Department Of Health,1,11
+2020-05-14,Pennsylvania Society Of Health Systems Pharmacists,1,12
+2020-05-14,Temple University Hospital,1,13
+2020-05-14,Thomas Jefferson University Hospital,1,14
+2020-05-14,Veterans Health Administration,1,15
+2020-05-14,White House,1,16
+2020-05-15,Department Of Community,1,1
+2020-05-15,Department Of Health,1,2
+2020-05-15,Doylestown Health,1,3
+2020-05-15,Economic Development,1,4
+2020-05-15,Goretti High School,1,5
+2020-05-15,High School,1,6
+2020-05-15,Junior,1,7
+2020-05-15,Little Flower High School,1,8
+2020-05-15,Long Term Care Community Coalition,1,9
+2020-05-15,Michael The Archangel Catholic School,1,10
+2020-05-15,Mother Teresa Regional Catholic School,1,11
+2020-05-15,Pennsylvania Department Of Health,1,12
+2020-05-15,Spanish At Roman Catholic High School,1,13
+2020-05-15,Trump Store In Bensalem,1,14
+2020-05-15,Woods Services,1,15
+2020-05-16,Department Of Health,1,1
+2020-05-16,Doylestown Health,1,2
+2020-05-16,Facebook,1,3
+2020-05-16,Global Polio Eradication Initiative,1,4
+2020-05-16,Long Term Care Community Coalition,1,5
+2020-05-16,Pennsylvania Department Of Health,1,6
+2020-05-16,Pennsylvania Health,1,7
+2020-05-16,Pennsylvania Polio Survivors Network,1,8
+2020-05-16,Polio Survivors Network,1,9
+2020-05-16,Woods Services,1,10
+2020-05-16,World Health Organization,1,11
+2020-05-18,Centers For Disease,1,1
+2020-05-18,Department Of Health,1,2
+2020-05-18,Pennsylvania Department Of Health,1,3
+2020-05-18,Pennsylvania National Electronic Disease Surveillance System,1,4
+2020-05-22,Arizona State University,1,1
+2020-05-22,College Board,1,2
+2020-05-22,Domino Pizza,1,3
+2020-05-22,Facebook,1,4
+2020-05-22,Google,1,5
+2020-05-22,Information Technology,1,6
+2020-05-22,National Federation Of The Blind On,1,7
+2020-05-22,Pew Research Center,1,8
+2020-05-22,Supreme Court,1,9
+2020-05-22,University Of Virginia,1,10
+2020-05-22,Youtube,1,11
+2020-05-23,Cabrini College,1,1
+2020-05-23,California University Of Pennsylvania,1,2
+2020-05-23,Ford Area School District,1,3
+2020-05-23,John United Church,1,4
+2020-05-23,Pennsylvania Principal Association,1,5
+2020-05-23,Rupert Elementary School Principal Matthew Moyer,1,6
+2020-05-23,Schuylkill Valley Elementary School,1,7
+2020-05-23,Youtube,1,8
+2020-05-24,Centers For Disease,1,2
+2020-05-24,Cnn,1,3
+2020-05-24,Facebook,1,4
+2020-05-24,Health Rachel Levine,1,5
+2020-05-24,Members Of The Solid Rock Baptist Church,1,6
+2020-05-24,National Institute Of Allergy,1,7
+2020-05-24,National Institutes Of Health,1,8
+2020-05-24,Parishioners Of The Solid Rock Baptist Church,1,9
+2020-05-24,Tribune Content Agency,1,10
+2020-05-24,Twitter,1,11
+2020-05-24,New York Times,2,1

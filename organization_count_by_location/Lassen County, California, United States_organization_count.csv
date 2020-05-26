@@ -1,0 +1,536 @@
+date,organization,count,rn
+2020-02-27,California State University Channel Islands,1,1
+2020-02-27,Centers For Disease,1,2
+2020-02-27,Community Center,1,3
+2020-02-27,Human Services,1,4
+2020-02-27,Los Angeles International Airport,1,5
+2020-02-27,Naval Base Ventura County,1,6
+2020-02-27,Oxnard Performing Arts Center,1,7
+2020-02-27,Oxnard Performing Arts Center Corporation,1,8
+2020-02-27,Portland State University,1,9
+2020-02-27,Sterling,1,10
+2020-02-29,Centers For Disease,1,1
+2020-02-29,Human Services,1,2
+2020-02-29,Nevada Department Of Health,1,3
+2020-02-29,Nevada State Public Health Lab,1,4
+2020-02-29,Southern Nevada Health District,1,5
+2020-03-04,Centers For Disease,1,1
+2020-03-04,Department Of Health,1,2
+2020-03-04,Human Services,1,3
+2020-03-04,Nevada Department Of Health,1,4
+2020-03-04,Southern Nevada Health District,1,5
+2020-03-05,Human Services,1,3
+2020-03-05,Nevada Department Of Health,1,4
+2020-03-05,Nevada State Public Health Laboratory,1,5
+2020-03-05,Public Health Laboratory,1,6
+2020-03-05,Reno School Of Medicine,1,7
+2020-03-05,School Of Medicine,1,8
+2020-03-05,Southern Nevada Health District,1,9
+2020-03-05,Southern Nevada Health District Communications,1,10
+2020-03-05,United States,1,11
+2020-03-05,Centers For Disease,2,1
+2020-03-05,University Of Nevada,2,2
+2020-03-06,Associated Press,1,30
+2020-03-06,California National Guard,1,31
+2020-03-06,Princess Cruises,1,32
+2020-03-06,Representatives For The World Health Organization,1,33
+2020-03-06,Reuters,1,34
+2020-03-06,Starbucks,1,35
+2020-03-06,Yeshiva University,1,36
+2020-03-06,Catholic Church,2,11
+2020-03-06,Centers For Disease Control In Atlanta On,2,12
+2020-03-06,Centre For Infectious Disease Epidemiology,2,13
+2020-03-06,Diocese Of Paterson,2,14
+2020-03-06,District Health,2,15
+2020-03-06,During The Exchange Of Peace,2,16
+2020-03-06,Episcopal Diocese Of Los Angeles,2,17
+2020-03-06,Google,2,18
+2020-03-06,Harvard University,2,19
+2020-03-06,Health District,2,20
+2020-03-06,Health District Emergency Response,2,21
+2020-03-06,Health Emergencies Program,2,22
+2020-03-06,Huffaker Elementary School,2,23
+2020-03-06,Labor Department,2,24
+2020-03-06,Senate On,2,25
+2020-03-06,South China Morning Post,2,26
+2020-03-06,University Of Hong Kong,2,27
+2020-03-06,University Of Nevada,2,28
+2020-03-06,University Of Washington,2,29
+2020-03-06,Johns Hopkins University,3,10
+2020-03-06,California Department Of Insurance,4,3
+2020-03-06,Central Bucks School District Superintendent,4,4
+2020-03-06,Department Of Managed Health Care,4,5
+2020-03-06,National City,4,6
+2020-03-06,Vatican Apostolic Library,4,7
+2020-03-06,White House,4,8
+2020-03-06,World Health Organization,4,9
+2020-03-06,Centers For Disease,5,2
+2020-03-06,United States,11,1
+2020-03-07,Barton Health,1,5
+2020-03-07,Catholic Church,1,6
+2020-03-07,Central Bucks School District Superintendent,1,7
+2020-03-07,Centre For Infectious Disease Epidemiology,1,8
+2020-03-07,Department Of Education,1,9
+2020-03-07,Episcopal Diocese Of Los Angeles,1,10
+2020-03-07,Facebook,1,11
+2020-03-07,Harvard University,1,12
+2020-03-07,Health Emergencies Program,1,13
+2020-03-07,Human Service,1,14
+2020-03-07,Nevada Department Of Health,1,15
+2020-03-07,Northern Nevada Medical Center,1,16
+2020-03-07,Representatives For The World Health Organization,1,17
+2020-03-07,Senate On,1,18
+2020-03-07,South China Morning Post,1,19
+2020-03-07,United States,1,20
+2020-03-07,University Of Hong Kong,1,21
+2020-03-07,University Of Washington,1,22
+2020-03-07,Vatican Apostolic Library,1,23
+2020-03-07,White House,1,24
+2020-03-07,World Health Organization,1,25
+2020-03-07,Centers For Disease,2,4
+2020-03-07,Department Of Health,3,1
+2020-03-07,Huffaker Elementary School,3,2
+2020-03-07,Human Services,3,3
+2020-03-08,Barton Health,1,23
+2020-03-08,District Health,1,24
+2020-03-08,Evergreen Health Medical Center,1,25
+2020-03-08,Life Care Center,1,26
+2020-03-08,Northern Nevada Medical Center,1,27
+2020-03-08,Regional Transportation Commission Of Washoe,1,28
+2020-03-08,Virginia Department Of Health,1,29
+2020-03-08,Washoe County Health District,1,30
+2020-03-08,Department Of Public Health On,2,20
+2020-03-08,Evergreen Health,2,21
+2020-03-08,Human Services,2,22
+2020-03-08,Arizona Department Of Public Health,3,3
+2020-03-08,Centers For Disease,3,4
+2020-03-08,Cnn,3,5
+2020-03-08,Defense Department,3,6
+2020-03-08,Department Of Public Health,3,7
+2020-03-08,Florida Department Of Health,3,8
+2020-03-08,Georgia Department Of Public Health,3,9
+2020-03-08,Harborview Medical Center,3,10
+2020-03-08,Illinois Department Of Public Health,3,11
+2020-03-08,Madera Community Hospital,3,12
+2020-03-08,Oregon Health Authority,3,13
+2020-03-08,Rush University Medical Center,3,14
+2020-03-08,Texas Department Of State Health Services,3,15
+2020-03-08,United States,3,16
+2020-03-08,University Of Nebraska Medical Center,3,17
+2020-03-08,Utah Department Of Health,3,18
+2020-03-08,Wisconsin Department Of Health Services,3,19
+2020-03-08,Department Of Health,4,2
+2020-03-08,Southern Nevada Health District,5,1
+2020-03-09,Carolina Department Of Health,1,26
+2020-03-09,Evergreen Health,1,27
+2020-03-09,Health District,1,28
+2020-03-09,Human Services,1,29
+2020-03-09,Nebraska Department Of Health,1,30
+2020-03-09,Veterans Administration,1,31
+2020-03-09,Centers For Disease,2,19
+2020-03-09,Department Of Public Health On,2,20
+2020-03-09,Evergreen Health Medical Center,2,21
+2020-03-09,Iowa Department Of Public Health,2,22
+2020-03-09,Life Care Center,2,23
+2020-03-09,Public Health,2,24
+2020-03-09,Virginia Department Of Health,2,25
+2020-03-09,Arizona Department Of Public Health,3,2
+2020-03-09,Cnn,3,3
+2020-03-09,Defense Department,3,4
+2020-03-09,Department Of Health,3,5
+2020-03-09,Department Of Public Health,3,6
+2020-03-09,Florida Department Of Health,3,7
+2020-03-09,Georgia Department Of Public Health,3,8
+2020-03-09,Harborview Medical Center,3,9
+2020-03-09,Illinois Department Of Public Health,3,10
+2020-03-09,Madera Community Hospital,3,11
+2020-03-09,Oregon Health Authority,3,12
+2020-03-09,Rush University Medical Center,3,13
+2020-03-09,Texas Department Of State Health Services,3,14
+2020-03-09,United States,3,15
+2020-03-09,University Of Nebraska Medical Center,3,16
+2020-03-09,Utah Department Of Health,3,17
+2020-03-09,Wisconsin Department Of Health Services,3,18
+2020-03-09,Southern Nevada Health District,6,1
+2020-03-10,Centers For Disease,1,2
+2020-03-10,Huffaker Elementary School,1,3
+2020-03-10,Metro Police,1,4
+2020-03-10,Nevada Department Of Education,1,5
+2020-03-10,Veterans Administration,1,6
+2020-03-10,Southern Nevada Health District,2,1
+2020-03-11,Centers For Disease,1,1
+2020-03-11,Congress Are Running Out Of Ammunition,1,2
+2020-03-11,Metro Police,1,3
+2020-03-11,Southern Nevada Health District,1,4
+2020-03-11,White House,1,5
+2020-03-13,Banner Health,1,3
+2020-03-13,Barton Health,1,4
+2020-03-13,Centers For Disease,1,5
+2020-03-13,Counseling Services,1,6
+2020-03-13,Douglas County Public Library,1,7
+2020-03-13,Health Protection Condition Alpha,1,8
+2020-03-13,Johns Hopkins University,1,9
+2020-03-13,Lake Tahoe Community College,1,10
+2020-03-13,Lake Tahoe School District,1,11
+2020-03-13,Life Center,1,12
+2020-03-13,Navy Region,1,13
+2020-03-13,Pennington Life Center,1,14
+2020-03-13,Preventive Health,1,15
+2020-03-13,Public Health,1,16
+2020-03-13,Space Cowboy Apres Ski Party,1,17
+2020-03-13,Truckee Meadows Community College In Reno,1,18
+2020-03-13,Uc Davis Tahoe Science Center,1,19
+2020-03-13,University Of Nevada,1,20
+2020-03-13,University Residential Life,1,21
+2020-03-13,Emergency Operation Center,2,1
+2020-03-13,United States,2,2
+2020-03-16,Nan,1,1
+2020-03-16,Nevada Department Of Education,1,2
+2020-03-17,California County Superintendents Educational Services Association,1,1
+2020-03-17,Centers For Disease,1,2
+2020-03-17,Health District,1,3
+2020-03-17,Southern Nevada Health District,1,4
+2020-03-17,Tahoe International Airport,1,5
+2020-03-18,Centers For Disease,1,2
+2020-03-18,Emergency Management Agency,1,3
+2020-03-18,Nan,1,4
+2020-03-18,Southern Nevada Health District,2,1
+2020-03-19,Associated Press,1,3
+2020-03-19,Health Report Newsletter,1,4
+2020-03-19,Officials At Mccarran International Airport,3,1
+2020-03-19,Planet Hollywood,3,2
+2020-03-20,Aviation Administration,1,1
+2020-03-20,Bureau Of Prison,1,2
+2020-03-20,Bureau Of Prisons,1,3
+2020-03-20,Chicago Midway International Airport On,1,4
+2020-03-20,Mccarran International Airport,1,5
+2020-03-20,Nevada Brothel Association,1,6
+2020-03-20,Officials At Mccarran International Airport,1,7
+2020-03-20,Planet Hollywood,1,8
+2020-03-20,Southwest Airlines,1,9
+2020-03-20,United States Pretrial Services,1,10
+2020-03-21,Banner Lassen Medical Center,1,1
+2020-03-21,Bureau Of Prison,1,2
+2020-03-21,Bureau Of Prisons,1,3
+2020-03-21,California Department Of Public Health,1,4
+2020-03-21,Department Of Defense,1,5
+2020-03-21,Downtown Events Center,1,6
+2020-03-21,Downtown Events Center On,1,7
+2020-03-21,Facebook,1,8
+2020-03-21,Fairchild,1,9
+2020-03-21,Fairchild Medical Center,1,10
+2020-03-21,Harvard University,1,11
+2020-03-21,Johns Hopkins University,1,12
+2020-03-21,Morgan,1,13
+2020-03-21,National Rural Health Association,1,14
+2020-03-21,Nevada Department Of Education,1,15
+2020-03-21,Nevada Department Of Motor Vehicles,1,16
+2020-03-21,Saint Mary Regional Medical Center,1,17
+2020-03-21,Southern Nevada Health District,1,18
+2020-03-21,Surprise Valley Community Hospital,1,19
+2020-03-21,Tribune Content Agency,1,20
+2020-03-21,United States,1,21
+2020-03-21,United States Pretrial Services,1,22
+2020-03-21,University Of Colorado,1,23
+2020-03-21,Yougov,1,24
+2020-03-21,Youtube,1,25
+2020-03-23,Human Services,1,1
+2020-03-24,Albertsons,1,1
+2020-03-24,American Gaming Association,1,2
+2020-03-24,Centers For Disease,1,3
+2020-03-24,Deutsche Bank,1,4
+2020-03-24,Discovery Center,1,5
+2020-03-24,Economic Policy Institute,1,6
+2020-03-24,Goldman Sachs,1,7
+2020-03-24,Human Services,1,8
+2020-03-24,Nan,1,9
+2020-03-24,Nevada Department Of Employment,1,10
+2020-03-24,Nevada Department Of Motor Vehicles,1,11
+2020-03-24,Nevada Health Response,1,12
+2020-03-24,Nevada State Public Health Laboratory In Reno,1,13
+2020-03-24,Safeway,1,14
+2020-03-24,Southern Nevada Health District,1,15
+2020-03-24,Walmart,1,16
+2020-03-24,World Health Organization,1,17
+2020-03-24,Yosemite National Park,1,18
+2020-03-25,Health District,1,1
+2020-03-25,Southern Nevada Health District,1,2
+2020-03-25,University Of Nevada,1,3
+2020-03-26,Sierra Army Depot,1,1
+2020-03-26,United States,1,2
+2020-03-27,Nevada Health Alliance,1,1
+2020-03-27,Nevada Health Response,1,2
+2020-03-27,Regional Information Team,1,3
+2020-03-27,Southern Nevada Health District,1,4
+2020-03-27,University Medical Center,1,5
+2020-03-30,Facebook,1,6
+2020-03-30,Health District,1,7
+2020-03-30,Incident Management Team,1,8
+2020-03-30,Recovery Task,1,9
+2020-03-30,Tribune Content Agency,1,10
+2020-03-30,American Civil Liberties Union Of California,2,1
+2020-03-30,California Department Of Corrections,2,2
+2020-03-30,District Health,2,3
+2020-03-30,Prison Law Office,2,4
+2020-03-30,Twitter,2,5
+2020-03-31,Downtown Events Center,1,1
+2020-03-31,Emergency Management Agency,1,2
+2020-03-31,Nevada Health Alliance,1,3
+2020-03-31,Southern Nevada District Board Of Health,1,4
+2020-03-31,Southern Nevada Health District,1,5
+2020-04-01,Behavioral Health,1,1
+2020-04-01,College Of Southern Nevada,1,2
+2020-04-01,Convention Center,1,3
+2020-04-01,Desert Research Institute,1,4
+2020-04-01,Dignity Health,1,5
+2020-04-01,Dignity Health Rehabilitation Hospital,1,6
+2020-04-01,Division Of Health Care Financing,1,7
+2020-04-01,Green Valley Ranch,1,8
+2020-04-01,Health Services Inc,1,9
+2020-04-01,Human Services,1,10
+2020-04-01,Institute Of Health Metrics,1,11
+2020-04-01,Nevada Department Of Health,1,12
+2020-04-01,Nevada Division Of Public,1,13
+2020-04-01,Nevada Hospital Association,1,14
+2020-04-01,Nevada State College,1,15
+2020-04-01,Northern Nevada Health System,1,16
+2020-04-01,Northern Nevada Sierra Medical Center,1,17
+2020-04-01,Northern Sierra Medical Center,1,18
+2020-04-01,Saint Mary Health Network,1,19
+2020-04-01,Session Of The Nevada Legislature,1,20
+2020-04-01,Sparks Convention Center,1,21
+2020-04-01,Steve Sisolak Patient Protection Commission,1,22
+2020-04-01,Touro University,1,23
+2020-04-01,United States,1,24
+2020-04-01,University Medical Center,1,25
+2020-04-01,Valley Health System,1,26
+2020-04-02,Human Services Agency,1,1
+2020-04-03,Nevada Department Of Education,1,1
+2020-04-04,Department Of Parole,1,1
+2020-04-04,Nevada Regional Drug Court,1,2
+2020-04-04,Walmart,1,3
+2020-04-04,Washoe School District,1,4
+2020-04-05,Emergency Management Agency,1,1
+2020-04-05,Human Services Department,1,2
+2020-04-05,Nevada Health Alliance Dashboard,1,3
+2020-04-05,Nevada State Public Health Laboratory,1,4
+2020-04-05,Regional Information Center,1,5
+2020-04-05,Twitter,1,6
+2020-04-05,Washoe School District,1,7
+2020-04-06,Tahoe Forest Health System,1,1
+2020-04-09,Nan,1,3
+2020-04-09,Salvation Army,1,4
+2020-04-09,Salvation Army Del Oro Division,1,5
+2020-04-09,Salvation Army Of Washoe,1,6
+2020-04-09,Salvation Army Text To,1,7
+2020-04-09,Walmart,1,8
+2020-04-09,Nevada District Court Peter Lucas,2,1
+2020-04-09,People Nevada District Court Peter Lucas,2,2
+2020-04-10,Reno Livestock Events Center,1,1
+2020-04-10,Va Sierra Nevada Health Care System,1,2
+2020-04-10,Veterans Affairs,1,3
+2020-04-10,Washoe County Health District,1,4
+2020-04-11,Hamilton Medical Corp,1,23
+2020-04-11,Research Laboratory,1,24
+2020-04-11,Vandenberg Air Force,1,25
+2020-04-11,California Department Of Public Health,2,15
+2020-04-11,California Health,2,16
+2020-04-11,Department Of Employment,2,17
+2020-04-11,Department Of Health,2,18
+2020-04-11,Google,2,19
+2020-04-11,Human Services,2,20
+2020-04-11,Human Services Agency Mark Ghaly,2,21
+2020-04-11,National News,2,22
+2020-04-11,Associated Press,3,12
+2020-04-11,Justice Department,3,13
+2020-04-11,Treasury Department,3,14
+2020-04-11,Centers For Disease,6,11
+2020-04-11,Bethany Pointe Health Campus In Anderson,8,3
+2020-04-11,Department Of Corrections,8,4
+2020-04-11,International Monetary Fund,8,5
+2020-04-11,Johns Hopkins University,8,6
+2020-04-11,Ministry Of The,8,7
+2020-04-11,Senior Health Ministry,8,8
+2020-04-11,Turkish Health,8,9
+2020-04-11,Virginia Health Care Association,8,10
+2020-04-11,California News Publishers Association,10,1
+2020-04-11,United States,10,2
+2020-04-12,Associated Press,1,1
+2020-04-12,Department Of Employment,1,2
+2020-04-12,Department Of Health,1,3
+2020-04-12,Hamilton Medical Corp,1,4
+2020-04-12,Human Services,1,5
+2020-04-13,Jeff Church,1,5
+2020-04-13,Regional Information Center,1,6
+2020-04-13,Walmart,1,7
+2020-04-13,Department Of Employment,2,1
+2020-04-13,Department Of Health,2,2
+2020-04-13,Human Services,2,3
+2020-04-13,Nan,2,4
+2020-04-15,Nan,1,1
+2020-04-15,School Of Medicine,1,2
+2020-04-15,University Of Nevada,1,3
+2020-04-16,American Association Of Medical Colleges,1,1
+2020-04-16,Reno School Of Medicine,1,2
+2020-04-16,Reynolds School Of Journalism,1,3
+2020-04-16,University Of Nevada,1,4
+2020-04-17,American Civil Liberties Union,1,1
+2020-04-17,Army Corps Of Engineers,1,2
+2020-04-17,Associated Press,1,3
+2020-04-17,Behavioral Health,1,4
+2020-04-17,Lakeside Health,1,5
+2020-04-17,Nevada Department Of Corrections,1,6
+2020-04-17,Nevada Division Of Public,1,7
+2020-04-17,Nevada Supreme Court,1,8
+2020-04-17,Reynolds School Of Journalism,1,9
+2020-04-17,Sparks Convention Center,1,10
+2020-04-17,University Of Nevada,1,11
+2020-04-18,Bethany Pointe Health Campus In Anderson,1,1
+2020-04-18,California News Publishers Association,1,2
+2020-04-18,Centers For Disease,1,3
+2020-04-18,Department Of Corrections,1,4
+2020-04-18,International Monetary Fund,1,5
+2020-04-18,Johns Hopkins University,1,6
+2020-04-18,Ministry Of The,1,7
+2020-04-18,Senior Health Ministry,1,8
+2020-04-18,Truckee Meadows Community College,1,9
+2020-04-18,Turkish Health,1,10
+2020-04-18,United States,1,11
+2020-04-18,University Of Nevada,1,12
+2020-04-18,Virginia Health Care Association,1,13
+2020-04-19,Department Of Employment,1,15
+2020-04-19,Department Of Health,1,16
+2020-04-19,Hamilton Medical Corp,1,17
+2020-04-19,Human Services,1,18
+2020-04-19,Song Church,1,19
+2020-04-19,Ap National News,2,13
+2020-04-19,National News,2,14
+2020-04-19,Associated Press,3,12
+2020-04-19,Bethany Pointe Health Campus In Anderson,6,1
+2020-04-19,California News Publishers Association,6,2
+2020-04-19,Centers For Disease,6,3
+2020-04-19,Department Of Corrections,6,4
+2020-04-19,International Monetary Fund,6,5
+2020-04-19,Johns Hopkins University,6,6
+2020-04-19,Ministry Of The,6,7
+2020-04-19,Senior Health Ministry,6,8
+2020-04-19,Turkish Health,6,9
+2020-04-19,United States,6,10
+2020-04-19,Virginia Health Care Association,6,11
+2020-04-21,Nevada Public State Health Lab,1,1
+2020-04-23,Infectious Disease Society Of America,1,1
+2020-04-23,National Institute Of Allergy,1,2
+2020-04-23,National Institutes Of Health,1,3
+2020-04-23,Nevada Osteopathic Medical Association,1,4
+2020-04-23,Nevada State Medical Association,1,5
+2020-04-23,Nevada State Medical Association Public Health Commission,1,6
+2020-04-23,University Of Virginia,1,7
+2020-04-24,Nevada State Public Health Laboratory,1,1
+2020-04-24,Reno School Of Medicine,1,2
+2020-04-24,Reynolds School Of Journalism,1,3
+2020-04-24,University Of Nevada,1,4
+2020-04-24,White House,1,5
+2020-04-25,Cremation Services,1,1
+2020-04-25,Food Bank,1,2
+2020-04-25,Human Services,1,3
+2020-04-25,Nevada Department Of Health,1,4
+2020-04-25,Nevada State Public Health,1,5
+2020-04-25,Nevada State Public Health Laboratory,1,6
+2020-04-25,Southern Nevada Public Health,1,7
+2020-04-25,Southern Nevada Public Health Laboratory,1,8
+2020-04-25,United States,1,9
+2020-04-25,University Of Nevada,1,10
+2020-04-26,Emergency Operations Center,1,1
+2020-04-26,Human Services,1,2
+2020-04-26,Nan,1,3
+2020-04-26,Nevada Department Of Health,1,4
+2020-04-30,Health District,1,1
+2020-04-30,Los Alamos National Lab,1,2
+2020-04-30,Nevada Hospital Association,1,3
+2020-04-30,Nevada National Guard,1,4
+2020-04-30,Regional Information Center,1,5
+2020-05-01,Aaron,1,1
+2020-05-01,Care Unit At Renown Regional Medical Center,1,2
+2020-05-01,Centers For Disease,1,3
+2020-05-01,Education Forum,1,4
+2020-05-01,Employment Security Division,1,5
+2020-05-01,Federal Reserve,1,6
+2020-05-01,Nevada Department Of Education,1,7
+2020-05-01,Nevada Department Of Transportation,1,8
+2020-05-01,Northern Nevada Medical Center,1,9
+2020-05-01,Office Of Emergency Services,1,10
+2020-05-01,Paycheck Protection Program,1,11
+2020-05-01,Small Business Administration,1,12
+2020-05-01,Small Businesses Development Centers,1,13
+2020-05-01,Tahoe Fund,1,14
+2020-05-01,Transportation Department,1,15
+2020-05-01,United States,1,16
+2020-05-02,United States,1,1
+2020-05-02,University Of Nevada,1,2
+2020-05-03,Emergency Operations Center,1,1
+2020-05-03,Health District,1,2
+2020-05-03,Human Services,1,3
+2020-05-03,Washoe Board Of Health,1,4
+2020-05-04,Nan,1,1
+2020-05-05,Centers For Disease,1,4
+2020-05-05,Health Administration Of Nevada,1,5
+2020-05-05,Lakeside Health,1,6
+2020-05-05,Nevada Small Business Development Center,1,7
+2020-05-05,Paycheck Protection Program,1,8
+2020-05-05,Quest Diagnostics,1,9
+2020-05-05,Regional Information Center,1,10
+2020-05-05,Research Laboratory,1,11
+2020-05-05,Vandenberg Air Force,1,12
+2020-05-05,Walmart,1,13
+2020-05-05,Washoe Board Of Health On,1,14
+2020-05-05,Nan,3,2
+2020-05-05,Planet Hollywood,3,3
+2020-05-05,Associated Press,4,1
+2020-05-06,California Department Of Corrections,1,1
+2020-05-06,Costco,1,2
+2020-05-06,Kroger,1,3
+2020-05-06,Nan,1,4
+2020-05-06,Regional Information Center,1,5
+2020-05-06,United States,1,6
+2020-05-07,Battle Born Medical Corp,1,1
+2020-05-07,Emergency Operations Center,1,2
+2020-05-07,Lakeside Health,1,3
+2020-05-07,Livestock Events Center,1,4
+2020-05-07,Nevada National Guard,1,5
+2020-05-07,Reynolds School Of Journalism,1,6
+2020-05-07,Southern Nevada Health District,1,7
+2020-05-08,Department Of Defense,1,1
+2020-05-08,Department Of Justice,1,2
+2020-05-08,National Institute Of Allergy,1,3
+2020-05-08,Regional Information Center,1,4
+2020-05-08,Second Judicial District Court,1,5
+2020-05-08,University Of Nevada At Reno,1,6
+2020-05-08,White House Coronavirus Task,1,7
+2020-05-08,Whittemore Peterson Institute,1,8
+2020-05-09,Community Medicine,1,1
+2020-05-09,Department Of Microbiology,1,2
+2020-05-09,Nevada State Public Health Laboratory,1,3
+2020-05-09,Northern Nevada Adult Mental Health Services,1,4
+2020-05-09,Sanford Center,1,5
+2020-05-09,School Of Medicine,1,6
+2020-05-09,University Genomics Center,1,7
+2020-05-09,University Health,1,8
+2020-05-09,University Of Nevada,1,9
+2020-05-09,Willow Springs Center,1,10
+2020-05-12,Human Services,1,1
+2020-05-12,Lawlor Events Center,1,2
+2020-05-12,Nevada Department Of Health,1,3
+2020-05-13,Oval Office,1,1
+2020-05-16,California Department Of Public Health,1,1
+2020-05-16,Fielding School Of Public Health,1,2
+2020-05-16,Human Services,1,3
+2020-05-16,Senate Majority Leader Mitch Mcconell,1,4
+2020-05-16,Sonoma State University,1,5
+2020-05-16,Twitter,1,6
+2020-05-16,Yosemite National Park,1,7
+2020-05-17,Nevada Health Response,1,1
+2020-05-17,World Health Organization,1,2
+2020-05-23,Department Of Employment,1,1
+2020-05-23,Geographical Solutions,1,2
+2020-05-23,Nevada Governor Office Of Economic Development,1,3
+2020-05-23,United States,1,4
