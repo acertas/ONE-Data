@@ -5261,35 +5261,56 @@ date,organization,count,rn
 2020-05-20,Tennessee Association Of Chiefs Of Police,8,6
 2020-05-20,United States,10,2
 2020-05-20,Human Services,11,1
-2020-05-21,American Civil Liberties Union,1,3
-2020-05-21,American Civil Liberties Union Of Tennessee,1,4
-2020-05-21,Associated Press,1,5
-2020-05-21,Braun,1,6
-2020-05-21,Centers For Disease,1,7
-2020-05-21,Department Of Administrative Services,1,8
-2020-05-21,Great Smoky Mountains National Park,1,9
-2020-05-21,Grundy County Sheriff Office,1,10
-2020-05-21,Her Oprah Winfrey Charitable Foundation,1,11
-2020-05-21,Iowa Department Of Homeland Security,1,12
-2020-05-21,Iowa Restaurant Association,1,13
-2020-05-21,Kroger,1,14
-2020-05-21,Nan,1,15
-2020-05-21,National Governors Association,1,16
-2020-05-21,Oprah Winfrey Charitable Foundation,1,17
-2020-05-21,Paycheck Protection Program,1,18
-2020-05-21,Republican Party Of Iowa,1,19
-2020-05-21,Senate Banking Committee,1,20
-2020-05-21,Senate Commerce,1,21
-2020-05-21,Senate Hart Building,1,22
-2020-05-21,Senate Judiciary Committee,1,23
-2020-05-21,Senate Majority Leader Mitch Mcconnell,1,24
-2020-05-21,Senate Republicans,1,25
-2020-05-21,Tennessee Department Of Correction,1,26
-2020-05-21,Tennessee State University,1,27
-2020-05-21,Transportation Committee,1,28
-2020-05-21,Zion Baptist Church Bishop Joseph Walker,1,29
-2020-05-21,Cnn,2,1
-2020-05-21,White House,2,2
+2020-05-21,American Civil Liberties Union Of Iowa,5,43
+2020-05-21,American Community,5,44
+2020-05-21,Castleton University,5,45
+2020-05-21,Cnn,5,46
+2020-05-21,Commodity Credit Corporation,5,47
+2020-05-21,Department Of Sociology,5,48
+2020-05-21,Iowa Department Of Homeland Security,5,49
+2020-05-21,Iowa Finance Authority,5,50
+2020-05-21,Department Of Health,6,38
+2020-05-21,Department Of Labor,6,39
+2020-05-21,First Pentecostal Church,6,40
+2020-05-21,Midamerican Energy,6,41
+2020-05-21,Senate Majority Leader Mitch Mcconnell,6,42
+2020-05-21,Democratic Party,7,30
+2020-05-21,Department Of Agriculture,7,31
+2020-05-21,Drake University In Des Moines,7,32
+2020-05-21,Iowa Economic Development Authority,7,33
+2020-05-21,Kirkwood Community College,7,34
+2020-05-21,Michaels,7,35
+2020-05-21,Paycheck Protection Program,7,36
+2020-05-21,Workers International Union,7,37
+2020-05-21,Great Smoky Mountains National Park,8,27
+2020-05-21,Her Oprah Winfrey Charitable Foundation,8,28
+2020-05-21,Oprah Winfrey Charitable Foundation,8,29
+2020-05-21,Kroger,9,23
+2020-05-21,Public Health,9,24
+2020-05-21,Tennessee Department Of Health,9,25
+2020-05-21,Zion Baptist Church Bishop Joseph Walker,9,26
+2020-05-21,American Civil Liberties Union,10,21
+2020-05-21,Labor Department,10,22
+2020-05-21,Council Bluffs,11,19
+2020-05-21,Tyson Foods,11,20
+2020-05-21,Health Administration,12,18
+2020-05-21,Ag Committee,13,11
+2020-05-21,Agriculture Committee,13,12
+2020-05-21,Jewish Democratic Council Of America,13,13
+2020-05-21,Jewish Telegraphic Agency,13,14
+2020-05-21,Nan,13,15
+2020-05-21,Republican Jewish Coalition,13,16
+2020-05-21,Steering Committee,13,17
+2020-05-21,Republican Party,14,10
+2020-05-21,Tennessee State University,15,8
+2020-05-21,Twitter,15,9
+2020-05-21,Facebook,16,7
+2020-05-21,Associated Press,18,4
+2020-05-21,New York Times,18,5
+2020-05-21,White House,18,6
+2020-05-21,Centers For Disease,19,3
+2020-05-21,Iowa Department Of Public Health,22,2
+2020-05-21,United States,35,1
 2020-05-22,American Coalition For Ethanol,4,44
 2020-05-22,Amtrak,4,45
 2020-05-22,Appointments For The Great River Health,4,46
@@ -5490,3 +5511,53 @@ date,organization,count,rn
 2020-05-25,United States,19,3
 2020-05-25,Tyson Foods,21,1
 2020-05-25,White House,21,2
+2020-05-26,American Foundation For Suicide Prevention,3,34
+2020-05-26,American Psychiatric Association,3,35
+2020-05-26,Census Bureau,3,36
+2020-05-26,Coronavirus Food Assistance Program,3,37
+2020-05-26,Council Bluffs,3,38
+2020-05-26,Disney,3,39
+2020-05-26,Drug Administration,3,40
+2020-05-26,Emergency Operations Center,3,41
+2020-05-26,Health Statistics,3,42
+2020-05-26,Historical Museum,3,43
+2020-05-26,Historical Museum Of Iowa,3,44
+2020-05-26,Historical Society,3,45
+2020-05-26,Historical Society Of Iowa,3,46
+2020-05-26,Household Pulse,3,47
+2020-05-26,Instagram,3,48
+2020-05-26,Intelligence Committee,3,49
+2020-05-26,Iowa Finance Authority,3,50
+2020-05-26,American Heart Association Of Iowa,4,20
+2020-05-26,Business Group On Health,4,21
+2020-05-26,Colorado Department Of Public Health,4,22
+2020-05-26,Democratic Party,4,23
+2020-05-26,Duke Health,4,24
+2020-05-26,Emergency Medical Services,4,25
+2020-05-26,Google,4,26
+2020-05-26,Kaiser Health News,4,27
+2020-05-26,Langone Health,4,28
+2020-05-26,National Alliance,4,29
+2020-05-26,National Alliance Of Healthcare Purchaser Coalitions,4,30
+2020-05-26,School Board,4,31
+2020-05-26,Tennessee Department Of Health,4,32
+2020-05-26,White House,4,33
+2020-05-26,Supreme Court,5,19
+2020-05-26,Cargill Inc,6,16
+2020-05-26,Senate Majority Leader Mitch Mcconnell,6,17
+2020-05-26,University Of Iowa,6,18
+2020-05-26,Cargill,7,12
+2020-05-26,Cnn,7,13
+2020-05-26,Justice Department,7,14
+2020-05-26,Reuters,7,15
+2020-05-26,Iowa Department Of Public Health,8,9
+2020-05-26,Senate Majority,8,10
+2020-05-26,Unitypoint Health,8,11
+2020-05-26,Kaiser Family Foundation,9,8
+2020-05-26,Nan,10,7
+2020-05-26,New York Times,11,6
+2020-05-26,Centers For Disease,15,5
+2020-05-26,Associated Press,26,4
+2020-05-26,Facebook,28,3
+2020-05-26,Tyson Foods,31,1
+2020-05-26,United States,31,2

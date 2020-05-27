@@ -4132,28 +4132,56 @@ date,organization,count,rn
 2020-05-20,Department Of Health,6,3
 2020-05-20,Life Care Center,9,1
 2020-05-20,Mexico Corrections Department,9,2
-2020-05-21,Associated Press,1,1
-2020-05-21,Aztec Health Care In Aztec,1,2
-2020-05-21,Boeing,1,3
-2020-05-21,Casa Maria Health Care Center,1,4
-2020-05-21,Central Desert Behavioral Health In Albuquerque,1,5
-2020-05-21,Department Of Health,1,6
-2020-05-21,Department Of Health On,1,7
-2020-05-21,Dungarvin New Mexico,1,8
-2020-05-21,Health Care Of Albuquerque,1,9
-2020-05-21,Heartland Continuing Care Center,1,10
-2020-05-21,Ladera Center,1,11
-2020-05-21,Life Care Center,1,12
-2020-05-21,Mckinley Care Center,1,13
-2020-05-21,Mexico Corrections Department,1,14
-2020-05-21,Mexico Department Of Health,1,15
-2020-05-21,Pacifica Senior Living Center Santa Fe,1,16
-2020-05-21,Robin House Assisted Living Center,1,17
-2020-05-21,San Juan Center,1,18
-2020-05-21,Sandia Ridge Center,1,19
-2020-05-21,Tungland Corporation In Farmington,1,20
-2020-05-21,Virgin Galactic,1,21
-2020-05-21,Wellbrook Transitional Rehabilitation Center,1,22
+2020-05-21,Boeing,4,42
+2020-05-21,Health Department,4,43
+2020-05-21,Indian Affairs Tara Sweeney,4,44
+2020-05-21,Indian Health Service,4,45
+2020-05-21,Nan,4,46
+2020-05-21,Pueblo Council Of Governors,4,47
+2020-05-21,Texas A M University,4,48
+2020-05-21,Twitter,4,49
+2020-05-21,Virgin Galactic,4,50
+2020-05-21,Bureau Of Land Management,5,33
+2020-05-21,Casa Maria Health Care Center,5,34
+2020-05-21,Department Of Health On,5,35
+2020-05-21,District Court,5,36
+2020-05-21,Emergency Management Agency,5,37
+2020-05-21,Facebook,5,38
+2020-05-21,Mexico Human Services Department,5,39
+2020-05-21,Treasury Department,5,40
+2020-05-21,Walmart,5,41
+2020-05-21,Chaco Culture National Historical Park,6,25
+2020-05-21,Flagstaff Medical Center,6,26
+2020-05-21,Frontier Auto Inc,6,27
+2020-05-21,Gallup Indian Medical Center,6,28
+2020-05-21,Nanizhoozhi Center,6,29
+2020-05-21,Public Health,6,30
+2020-05-21,Public Health Emergency Response,6,31
+2020-05-21,San Juan Center,6,32
+2020-05-21,Morgan Lee Associated,7,23
+2020-05-21,Republican Party Of New Mexico,7,24
+2020-05-21,Aztec Health Care In Aztec,8,11
+2020-05-21,Central Desert Behavioral Health In Albuquerque,8,12
+2020-05-21,Dungarvin New Mexico,8,13
+2020-05-21,Health Care Of Albuquerque,8,14
+2020-05-21,Heartland Continuing Care Center,8,15
+2020-05-21,Human Services Department,8,16
+2020-05-21,Ladera Center,8,17
+2020-05-21,Mckinley Care Center,8,18
+2020-05-21,Pacifica Senior Living Center Santa Fe,8,19
+2020-05-21,Sandia Ridge Center,8,20
+2020-05-21,Tungland Corporation In Farmington,8,21
+2020-05-21,Wellbrook Transitional Rehabilitation Center,8,22
+2020-05-21,Centers For Disease,9,8
+2020-05-21,Mexico Department Of Health,9,9
+2020-05-21,White House,9,10
+2020-05-21,Robin House Assisted Living Center,10,7
+2020-05-21,Associated Press,12,5
+2020-05-21,Mexico Corrections Department,12,6
+2020-05-21,Life Care Center,13,4
+2020-05-21,Human Services,17,3
+2020-05-21,United States,25,2
+2020-05-21,Department Of Health,34,1
 2020-05-22,Affairs Chad Wootton,2,49
 2020-05-22,American Heart Association,2,50
 2020-05-22,Communications Commission,3,38
@@ -4354,3 +4382,53 @@ date,organization,count,rn
 2020-05-25,Wellbrook Transitional Rehabilitation Center,6,16
 2020-05-25,Mexico Department Of Health,7,2
 2020-05-25,Department Of Health,8,1
+2020-05-26,Ana County Sheriff Office,2,46
+2020-05-26,Bureau Of Land Management,2,47
+2020-05-26,Centers For Disease,2,48
+2020-05-26,Chaco Culture National Historical Park,2,49
+2020-05-26,Clorox,2,50
+2020-05-26,A Senate,3,31
+2020-05-26,Cnn,3,32
+2020-05-26,Democratic Senate,3,33
+2020-05-26,Electoral College,3,34
+2020-05-26,Mexico Children Foundation,3,35
+2020-05-26,Navajo Council Delegate Edmund Yazzie,3,36
+2020-05-26,Navajo Families Relief Fund,3,37
+2020-05-26,Navajo Nation Council Delegate Edmund Yazzie,3,38
+2020-05-26,Navajo Nation Council Law,3,39
+2020-05-26,Navajo Nation Economic Development,3,40
+2020-05-26,Order Committee,3,41
+2020-05-26,Republican Party,3,42
+2020-05-26,Richardson Navajo Fund,3,43
+2020-05-26,Southwestern Us Senate,3,44
+2020-05-26,University Of Nevada At Las Vegas,3,45
+2020-05-26,Facebook,4,29
+2020-05-26,Us Space,4,30
+2020-05-26,White House,5,28
+2020-05-26,Census Bureau,6,24
+2020-05-26,Department Of Health On,6,25
+2020-05-26,Lodge At Blue Sky In Wanship,6,26
+2020-05-26,Shell,6,27
+2020-05-26,Mexico Department Of Health,8,22
+2020-05-26,Reuters,8,23
+2020-05-26,Aztec Health Care In Aztec,9,6
+2020-05-26,Boeing,9,7
+2020-05-26,Casa Maria Health Care Center,9,8
+2020-05-26,Central Desert Behavioral Health In Albuquerque,9,9
+2020-05-26,Dungarvin New Mexico,9,10
+2020-05-26,Health Care Of Albuquerque,9,11
+2020-05-26,Heartland Continuing Care Center,9,12
+2020-05-26,Life Care Center,9,13
+2020-05-26,Mckinley Care Center,9,14
+2020-05-26,Mexico Corrections Department,9,15
+2020-05-26,Pacifica Senior Living Center Santa Fe,9,16
+2020-05-26,Robin House Assisted Living Center,9,17
+2020-05-26,Royal Air,9,18
+2020-05-26,San Juan Center,9,19
+2020-05-26,Sandia Ridge Center,9,20
+2020-05-26,Wellbrook Transitional Rehabilitation Center,9,21
+2020-05-26,Department Of Health,10,5
+2020-05-26,Twitter,11,3
+2020-05-26,Virgin Galactic,11,4
+2020-05-26,Spacex,12,2
+2020-05-26,United States,14,1

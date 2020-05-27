@@ -4224,22 +4224,56 @@ date,organization,count,rn
 2020-05-20,Associated Press,10,2
 2020-05-20,Texas Department Of Criminal Justice,10,3
 2020-05-20,Missouri Department Of Corrections,17,1
-2020-05-21,Braun,1,1
-2020-05-21,Centers For Disease,1,2
-2020-05-21,Cnn,1,3
-2020-05-21,Festus Manor Care Center,1,4
-2020-05-21,Health Department,1,5
-2020-05-21,Missouri Department Of Health,1,6
-2020-05-21,National Governors Association,1,7
-2020-05-21,Paycheck Protection Program,1,8
-2020-05-21,Senate Commerce,1,9
-2020-05-21,Senate Hart Building,1,10
-2020-05-21,Senate Judiciary Committee,1,11
-2020-05-21,Senate Majority Leader Mitch Mcconnell,1,12
-2020-05-21,Senate Republicans,1,13
-2020-05-21,Senior Services,1,14
-2020-05-21,Transportation Committee,1,15
-2020-05-21,White House,1,16
+2020-05-21,A National Public Radio,2,45
+2020-05-21,American Federation Of Labor,2,46
+2020-05-21,Department Of Economic Development,2,47
+2020-05-21,Department Of Natural Resources,2,48
+2020-05-21,Department Store Union,2,49
+2020-05-21,Ghost Army Recognition Day,2,50
+2020-05-21,American Bar Association,3,30
+2020-05-21,Catechism Of The Catholic Church,3,31
+2020-05-21,Catholic News Service,3,32
+2020-05-21,Department Of Social Services,3,33
+2020-05-21,Forum News Service,3,34
+2020-05-21,Human Services,3,35
+2020-05-21,Joseph University Hospital In Paterson,3,36
+2020-05-21,Minnesota Department Of Health,3,37
+2020-05-21,Minnesota South District Of The Lutheran Church,3,38
+2020-05-21,National Institutes Of Health,3,39
+2020-05-21,National People Congress,3,40
+2020-05-21,Services Department,3,41
+2020-05-21,Transcontinental Railroad,3,42
+2020-05-21,United States Supreme Court,3,43
+2020-05-21,Us Congress,3,44
+2020-05-21,Catholic Church,4,23
+2020-05-21,Cnn,4,24
+2020-05-21,Lutheran Church Missouri Synod,4,25
+2020-05-21,Missouri Association Of Trial Attorneys,4,26
+2020-05-21,Missouri Supreme Court,4,27
+2020-05-21,New York Times,4,28
+2020-05-21,Texas Department Of Criminal Justice,4,29
+2020-05-21,Department Of Health,5,17
+2020-05-21,Drug Administration,5,18
+2020-05-21,Federal Reserve,5,19
+2020-05-21,Health Administration,5,20
+2020-05-21,Reuters,5,21
+2020-05-21,Senate Republicans,5,22
+2020-05-21,Centers For Disease,6,12
+2020-05-21,Lutheran Church,6,13
+2020-05-21,Paycheck Protection Program,6,14
+2020-05-21,Senate Majority Leader Mitch Mcconnell,6,15
+2020-05-21,Senior Services,6,16
+2020-05-21,Becket Fund For Religious Liberty,7,10
+2020-05-21,Facebook,7,11
+2020-05-21,Catholic Mobilizing Network,8,7
+2020-05-21,Missouri Department Of Elementary,8,8
+2020-05-21,Supreme Court,8,9
+2020-05-21,Sparta High School,9,5
+2020-05-21,White House,9,6
+2020-05-21,Missouri Chamber,11,4
+2020-05-21,Missouri Department Of Corrections,15,3
+2020-05-21,Associated Press,21,2
+2020-05-21,United States,22,1
 2020-05-22,A National Public Radio,2,50
 2020-05-22,American Civil Liberties Union,3,37
 2020-05-22,Catholic Church,3,38
@@ -4440,3 +4474,53 @@ date,organization,count,rn
 2020-05-25,Cnn,31,3
 2020-05-25,United States,36,2
 2020-05-25,White House,37,1
+2020-05-26,Boeing,6,46
+2020-05-26,Crew Program,6,47
+2020-05-26,Days Inn,6,48
+2020-05-26,Drug Administration On,6,49
+2020-05-26,Kansas City Health,6,50
+2020-05-26,Human Services,7,44
+2020-05-26,New York Times,7,45
+2020-05-26,Dc Department Of Health,8,39
+2020-05-26,Louis County Department Of Health,8,40
+2020-05-26,Spacex,8,41
+2020-05-26,Tribune Content Agency,8,42
+2020-05-26,University Of Kentucky College Of Law,8,43
+2020-05-26,Drug Administration,9,36
+2020-05-26,New York Stock Exchange,9,37
+2020-05-26,York Stock Exchange,9,38
+2020-05-26,Georgia Department Of Public Health,10,32
+2020-05-26,Nan,10,33
+2020-05-26,Thomson Reuters Trust Principles,10,34
+2020-05-26,World Health Organization,10,35
+2020-05-26,Institute For Legal Reform,12,26
+2020-05-26,Mcdonald,12,27
+2020-05-26,Morgan County Health Administrator Shawn Brantley,12,28
+2020-05-26,University Of Detroit Mercy,12,29
+2020-05-26,University Of Wyoming College Of Law,12,30
+2020-05-26,Us Centers For Disease,12,31
+2020-05-26,Health Administrator Shawn Brantley,13,25
+2020-05-26,Centers For Disease,14,22
+2020-05-26,Health Administration,14,23
+2020-05-26,Navy Seabee,14,24
+2020-05-26,National Guard,16,21
+2020-05-26,Louis County Department Of Public Health,17,20
+2020-05-26,Kansas Department Of Health,18,19
+2020-05-26,Cnn,23,18
+2020-05-26,Arlington National Cemetery,24,14
+2020-05-26,Department Of Health,24,15
+2020-05-26,Facebook,24,16
+2020-05-26,Reuters,24,17
+2020-05-26,American Legion,25,12
+2020-05-26,Associated Press,25,13
+2020-05-26,Space Museum In Manhattan,26,11
+2020-05-26,Party Cove,31,10
+2020-05-26,White House,37,9
+2020-05-26,Louis County Public Health Department,39,7
+2020-05-26,United States,39,8
+2020-05-26,Health Department,43,6
+2020-05-26,Department Of Public Health,52,5
+2020-05-26,Johns Hopkins University,56,4
+2020-05-26,Twitter,69,3
+2020-05-26,Missouri Department Of Health,80,2
+2020-05-26,Senior Services,95,1

@@ -4822,24 +4822,56 @@ date,organization,count,rn
 2020-05-20,Florida Democratic Party,2,3
 2020-05-20,Florida Department Of Health,3,1
 2020-05-20,United States,3,2
-2020-05-21,Alabama Department Of Public Health,1,4
-2020-05-21,Department Of Business,1,5
-2020-05-21,Department Of Health,1,6
-2020-05-21,Drug Administration,1,7
-2020-05-21,Florida Department Of Business,1,8
-2020-05-21,Florida Task,1,9
-2020-05-21,Georgia Department Of Public Health,1,10
-2020-05-21,House Health Committee,1,11
-2020-05-21,Jewish Telegraphic Agency,1,12
-2020-05-21,Johns Hopkins University,1,13
-2020-05-21,News Service Of Florida,1,14
-2020-05-21,News Service On,1,15
-2020-05-21,Public Affairs Research,1,16
-2020-05-21,White House,1,17
-2020-05-21,Youtube,1,18
-2020-05-21,Justice Department,2,3
-2020-05-21,Associated Press,3,2
-2020-05-21,Bureau Of Prisons,4,1
+2020-05-21,City Council Vice,4,41
+2020-05-21,Diocese Of St,4,42
+2020-05-21,Disney Animal Kingdom Lodge,4,43
+2020-05-21,Disney Wilderness Lodge,4,44
+2020-05-21,Hospitality Research,4,45
+2020-05-21,Johns Hopkins University,4,46
+2020-05-21,Kennedy Space Center,4,47
+2020-05-21,Morgan,4,48
+2020-05-21,Orange County Convention Center,4,49
+2020-05-21,Orange County Economic Recovery Task,4,50
+2020-05-21,Disneyland Resort,5,31
+2020-05-21,Florida Department Of Business,5,32
+2020-05-21,Florida State University,5,33
+2020-05-21,Michigan Senate,5,34
+2020-05-21,Republican Party,5,35
+2020-05-21,Tribune Content Agency,5,36
+2020-05-21,University Of Central Florida,5,37
+2020-05-21,University Of Miami,5,38
+2020-05-21,Walt Disney Co,5,39
+2020-05-21,Young,5,40
+2020-05-21,Health Department,6,28
+2020-05-21,Michigan Republican Party,6,29
+2020-05-21,Us Congress,6,30
+2020-05-21,Commission For International Justice,7,21
+2020-05-21,Coronavirus Updates From Health News Florida,7,22
+2020-05-21,Georgetown Law School,7,23
+2020-05-21,National Intelligence,7,24
+2020-05-21,Reuters,7,25
+2020-05-21,Sunshine State,7,26
+2020-05-21,University Of South Florida,7,27
+2020-05-21,Kennedy Space Center On,8,19
+2020-05-21,Writer Jim Mustian,8,20
+2020-05-21,Jerry Deming Economic Recovery Task,10,17
+2020-05-21,Reform Committee On Capitol Hill,10,18
+2020-05-21,Health News Florida,11,15
+2020-05-21,Spacex,11,16
+2020-05-21,Mercedes,13,12
+2020-05-21,Syracuse University,13,13
+2020-05-21,United States,13,14
+2020-05-21,Twitter,14,10
+2020-05-21,Youtube,14,11
+2020-05-21,Facebook,15,8
+2020-05-21,Florida Department Of Health,15,9
+2020-05-21,White House,16,7
+2020-05-21,Department Of Health,18,6
+2020-05-21,Centers For Disease,21,5
+2020-05-21,Disney,39,4
+2020-05-21,Associated Press,68,3
+2020-05-21,Justice Department,70,2
+2020-05-21,Bureau Of Prisons,94,1
 2020-05-22,A Secret Service,2,47
 2020-05-22,Advertisement A Secret Service,2,48
 2020-05-22,California Coastal Commission,2,49
@@ -5040,3 +5072,53 @@ date,organization,count,rn
 2020-05-25,Associated Press,6,1
 2020-05-25,Spacex,6,2
 2020-05-25,White House,6,3
+2020-05-26,Ageless Aviation Dreams Foundation,1,40
+2020-05-26,Agency Of Agriculture,1,41
+2020-05-26,Agency Of Human Services,1,42
+2020-05-26,Albany Times Union,1,43
+2020-05-26,Albany Times Union Paul Buckowski Times Union,1,44
+2020-05-26,American Medical Association,1,45
+2020-05-26,American Society For Clinical Pathology,1,46
+2020-05-26,Anaheim Convention Center,1,47
+2020-05-26,Brown University,1,48
+2020-05-26,Circuit Court,1,49
+2020-05-26,College Board,1,50
+2020-05-26,Allianz,2,28
+2020-05-26,Department Of Labor,2,29
+2020-05-26,Expedia,2,30
+2020-05-26,Florida Orange County Economic Recovery Task,2,31
+2020-05-26,Michael College,2,32
+2020-05-26,National Institute Of Allergy,2,33
+2020-05-26,Rubenstein School,2,34
+2020-05-26,Twitter,2,35
+2020-05-26,Vermont Law School,2,36
+2020-05-26,Walt Disney Company,2,37
+2020-05-26,Washington Post,2,38
+2020-05-26,White House,2,39
+2020-05-26,Health System University Hospital,3,21
+2020-05-26,Islamic Center,3,22
+2020-05-26,National Moment Of Prayer,3,23
+2020-05-26,National Partnership For Hospice Innovation,3,24
+2020-05-26,Patrick Catholic Church,3,25
+2020-05-26,University Of Vermont,3,26
+2020-05-26,Youtube,3,27
+2020-05-26,Bethlehem Church,4,15
+2020-05-26,China Global Television Network,4,16
+2020-05-26,Department Of Public Health,4,17
+2020-05-26,Florida Department Of Health,4,18
+2020-05-26,Snow Leopard Foundation,4,19
+2020-05-26,While The Exchange,4,20
+2020-05-26,New York Stock Exchange,5,12
+2020-05-26,Thomson Reuters Trust Principles,5,13
+2020-05-26,York Stock Exchange,5,14
+2020-05-26,Walt Disney Co,7,11
+2020-05-26,Nan,9,10
+2020-05-26,Reuters,11,9
+2020-05-26,Associated Press,13,8
+2020-05-26,California Department Of Public Health,14,6
+2020-05-26,Disney,14,7
+2020-05-26,United States,15,5
+2020-05-26,Roman Catholic Diocese Of Orange,24,4
+2020-05-26,Third Baptist Church,25,3
+2020-05-26,Cross Culture Christian Center,26,2
+2020-05-26,Centers For Disease,30,1

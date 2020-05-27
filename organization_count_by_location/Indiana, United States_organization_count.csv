@@ -4821,28 +4821,56 @@ date,organization,count,rn
 2020-05-20,University Of Montana,2,10
 2020-05-20,White House,2,11
 2020-05-20,University Of Notre Dame,4,1
-2020-05-21,Governor Office,1,19
-2020-05-21,Indiana State Department Of Health,1,20
-2020-05-21,University Of Central Florida,1,21
-2020-05-21,World Health Assembly,1,22
-2020-05-21,Associated Press,2,15
-2020-05-21,Circuit Court,2,16
-2020-05-21,Johns Hopkins University,2,17
-2020-05-21,University Of Notre Dame,2,18
-2020-05-21,Defense Ministry,3,4
-2020-05-21,Employment Security Department,3,5
-2020-05-21,European Union,3,6
-2020-05-21,Facebook,3,7
-2020-05-21,International Monetary,3,8
-2020-05-21,Lear Corp,3,9
-2020-05-21,Parliament On,3,10
-2020-05-21,Public Health,3,11
-2020-05-21,Spain Supreme Court,3,12
-2020-05-21,Spanish Health,3,13
-2020-05-21,World Bank,3,14
-2020-05-21,Popular Party,4,2
-2020-05-21,World Health Organization,4,3
-2020-05-21,United States,5,1
+2020-05-21,Animal Rescue League,3,31
+2020-05-21,Anthony Church,3,32
+2020-05-21,Art Alliance Of Southern Indiana,3,33
+2020-05-21,Arts Alliance,3,34
+2020-05-21,Arts Alliance Art,3,35
+2020-05-21,Arts Alliance Of Southern Indiana,3,36
+2020-05-21,Assistance Outreach Program,3,37
+2020-05-21,Colgate Baptist Church,3,38
+2020-05-21,Community Action Of Southern Indiana,3,39
+2020-05-21,Community Kitchen,3,40
+2020-05-21,Cornell University,3,41
+2020-05-21,Defense Ministry,3,42
+2020-05-21,Department Of Natural Resources,3,43
+2020-05-21,Diaper Project At Community Presbyterian Church,3,44
+2020-05-21,Eastside Christian Church,3,45
+2020-05-21,Emergency Relief Fund,3,46
+2020-05-21,Employment Security Department,3,47
+2020-05-21,European Union,3,48
+2020-05-21,Family Support Services,3,49
+2020-05-21,First Baptist Hope Center,3,50
+2020-05-21,American Health Care Association,4,22
+2020-05-21,Bethany Pointe Health Campus,4,23
+2020-05-21,Community Foundation Of Southern Indiana,4,24
+2020-05-21,Department Of Corrections,4,25
+2020-05-21,Holder Mattress Co,4,26
+2020-05-21,Payroll Protection Program,4,27
+2020-05-21,Popular Party,4,28
+2020-05-21,Salvation Army,4,29
+2020-05-21,World Health Organization,4,30
+2020-05-21,Health Department,5,16
+2020-05-21,Indiana State Health Department,5,17
+2020-05-21,Lear Corp,5,18
+2020-05-21,National Guard,5,19
+2020-05-21,Whole Foods,5,20
+2020-05-21,Wisconsin National Guard,5,21
+2020-05-21,Health Administration,6,12
+2020-05-21,Johns Hopkins University,6,13
+2020-05-21,Senate Intelligence Committee,6,14
+2020-05-21,Youtube,6,15
+2020-05-21,Reuters,8,10
+2020-05-21,White House,8,11
+2020-05-21,Indiana State Department Of Health,9,9
+2020-05-21,Centers For Disease,13,8
+2020-05-21,Facebook,15,5
+2020-05-21,Justice Department,15,6
+2020-05-21,Senate Republicans,15,7
+2020-05-21,Republicans In Congress,17,2
+2020-05-21,Senate On,17,3
+2020-05-21,United States,17,4
+2020-05-21,Associated Press,24,1
 2020-05-22,Animal Rescue League,3,50
 2020-05-22,Chapman University,4,38
 2020-05-22,Citizens Action Coalition,4,39
@@ -5043,3 +5071,53 @@ date,organization,count,rn
 2020-05-25,Workers Union,15,11
 2020-05-25,Facebook,17,2
 2020-05-25,United States,21,1
+2020-05-26,Animal Rescue League,3,47
+2020-05-26,Anthony Church,3,48
+2020-05-26,Art Alliance Of Southern Indiana,3,49
+2020-05-26,Arts Alliance,3,50
+2020-05-26,Budget Agency,4,30
+2020-05-26,Bureau Of Labor Statistics,4,31
+2020-05-26,Bureau Of Motor Vehicles The Family,4,32
+2020-05-26,Carmel City Council Wearing Is Caring,4,33
+2020-05-26,Department Of Revenue,4,34
+2020-05-26,Department Of Workforce Development,4,35
+2020-05-26,Disney,4,36
+2020-05-26,Drug Administration,4,37
+2020-05-26,Health Security,4,38
+2020-05-26,Indiana Department Of Public Health,4,39
+2020-05-26,Indiana State Public Health Department,4,40
+2020-05-26,Johns Hopkins Bloomberg School Of Public Health,4,41
+2020-05-26,National Pork Producers Council,4,42
+2020-05-26,National Testing Strategy Draws,4,43
+2020-05-26,Thor Industries Inc,4,44
+2020-05-26,Winnebago Industries,4,45
+2020-05-26,World Holdings Inc,4,46
+2020-05-26,Dodge,5,22
+2020-05-26,Health Administration,5,23
+2020-05-26,Indiana Department Of Correction,5,24
+2020-05-26,National Association,5,25
+2020-05-26,New York Times,5,26
+2020-05-26,Toyota,5,27
+2020-05-26,University Of Michigan,5,28
+2020-05-26,Washington Post,5,29
+2020-05-26,America Inc,6,13
+2020-05-26,Associated Press,6,14
+2020-05-26,Colorado Department Of Public Health,6,15
+2020-05-26,Department Of Health,6,16
+2020-05-26,Environmental Working Group,6,17
+2020-05-26,Midwest Center,6,18
+2020-05-26,Nan,6,19
+2020-05-26,Uchealth Medical Center,6,20
+2020-05-26,White House,6,21
+2020-05-26,Dinosaur National Monument,7,9
+2020-05-26,National Park Service,7,10
+2020-05-26,Park Service,7,11
+2020-05-26,Services Administration,7,12
+2020-05-26,Facebook,8,6
+2020-05-26,National Guard,8,7
+2020-05-26,Young,8,8
+2020-05-26,Tyson Foods,10,5
+2020-05-26,Indiana University,12,4
+2020-05-26,United States,18,3
+2020-05-26,Centers For Disease,19,2
+2020-05-26,Indiana State Department Of Health,27,1

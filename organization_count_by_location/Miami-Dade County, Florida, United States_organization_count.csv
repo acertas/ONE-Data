@@ -4689,32 +4689,56 @@ date,organization,count,rn
 2020-05-20,University Of Santiago,3,4
 2020-05-20,World Health Organization,3,5
 2020-05-20,Florida Department Of Health,5,1
-2020-05-21,Adm,1,4
-2020-05-21,Alabama Department Of Public Health,1,5
-2020-05-21,Department Of Business,1,6
-2020-05-21,Department Of Health On,1,7
-2020-05-21,Florida Department Of Business,1,8
-2020-05-21,Florida Department Of Health,1,9
-2020-05-21,Florida State University,1,10
-2020-05-21,Florida Task,1,11
-2020-05-21,Georgia Department Of Public Health,1,12
-2020-05-21,House Health Committee,1,13
-2020-05-21,Iranian Embassy,1,14
-2020-05-21,Johns Hopkins University,1,15
-2020-05-21,Justice Department,1,16
-2020-05-21,National Funeral Directors Morticians Association,1,17
-2020-05-21,New York Times,1,18
-2020-05-21,News Service Florida,1,19
-2020-05-21,News Service Of Florida,1,20
-2020-05-21,News Service On,1,21
-2020-05-21,Public Affairs Research,1,22
-2020-05-21,Republican Justice Department,1,23
-2020-05-21,Trump National Security Council,1,24
-2020-05-21,United Nations,1,25
-2020-05-21,University Of Central Florida,1,26
-2020-05-21,Associated Press,2,2
-2020-05-21,Department Of Health,2,3
-2020-05-21,White House,3,1
+2020-05-21,Adm,2,28
+2020-05-21,American Association Of University Professors,2,29
+2020-05-21,Beavercreek High School,2,30
+2020-05-21,Cnn,2,31
+2020-05-21,Department Of Health On,2,32
+2020-05-21,Disney,2,33
+2020-05-21,Drug Enforcement Administration,2,34
+2020-05-21,Florida Second Circuit Court,2,35
+2020-05-21,French Embassy,2,36
+2020-05-21,Frost Museum,2,37
+2020-05-21,Frost Museum Of Science,2,38
+2020-05-21,German Government Press Office,2,39
+2020-05-21,Girls Club,2,40
+2020-05-21,Girls Club Of Miami,2,41
+2020-05-21,Health Department,2,42
+2020-05-21,Institute For Health Metrics,2,43
+2020-05-21,Iranian Embassy,2,44
+2020-05-21,Louisiana State University,2,45
+2020-05-21,New York Times,2,46
+2020-05-21,Southern Poverty Law Center,2,47
+2020-05-21,Spokeswomen For The Justice Department,2,48
+2020-05-21,Syracuse University,2,49
+2020-05-21,Tribune News Service,2,50
+2020-05-21,Agency For Health Care Administration,3,15
+2020-05-21,Aptim Corp,3,16
+2020-05-21,Army Corps Of Engineers,3,17
+2020-05-21,Centers For Disease,3,18
+2020-05-21,Democratic Party,3,19
+2020-05-21,Department Of Emergency Management,3,20
+2020-05-21,Division Of Economic Opportunity,3,21
+2020-05-21,Division Of Emergency Management,3,22
+2020-05-21,Garner Environmental Services,3,23
+2020-05-21,Johns Hopkins University,3,24
+2020-05-21,Justice Department,3,25
+2020-05-21,Reuters,3,26
+2020-05-21,University Of Central Florida,3,27
+2020-05-21,Associated Press,4,8
+2020-05-21,Coast Guard Academy,4,9
+2020-05-21,Facebook,4,10
+2020-05-21,Florida Power Light,4,11
+2020-05-21,Paycheck Protection Program,4,12
+2020-05-21,Revenue Service,4,13
+2020-05-21,Security Administration,4,14
+2020-05-21,Florida State University,5,7
+2020-05-21,Tribune Content Agency,6,6
+2020-05-21,Department Of Health,8,3
+2020-05-21,Nan,8,4
+2020-05-21,United States,8,5
+2020-05-21,Florida Department Of Health,10,2
+2020-05-21,White House,14,1
 2020-05-22,A Texas Supreme Court,1,36
 2020-05-22,Adm,1,37
 2020-05-22,Aecom Technology,1,38
@@ -4908,3 +4932,53 @@ date,organization,count,rn
 2020-05-25,White House,3,9
 2020-05-25,Publix,5,2
 2020-05-25,United States,8,1
+2020-05-26,A Vanderbilt University Medical Center,1,36
+2020-05-26,Abbott Lab,1,37
+2020-05-26,Airbus,1,38
+2020-05-26,Airlines Latin America,1,39
+2020-05-26,American Express,1,40
+2020-05-26,Apollo Bank,1,41
+2020-05-26,Brookings Institution,1,42
+2020-05-26,Cal Farms Meat Company,1,43
+2020-05-26,Carolina Department Of Health,1,44
+2020-05-26,Casualty Insurance Association,1,45
+2020-05-26,Cayuga County Health Department,1,46
+2020-05-26,Centers For Disease,1,47
+2020-05-26,Circuit Court,1,48
+2020-05-26,Congressional Leadership Fund,1,49
+2020-05-26,Democratic Congressional Campaign Committee,1,50
+2020-05-26,American Dental Association,2,27
+2020-05-26,Democrat National Convention,2,28
+2020-05-26,Florida Republican Party,2,29
+2020-05-26,Florida Supreme Court,2,30
+2020-05-26,Holland America Line,2,31
+2020-05-26,Republican National Convention In Charlotte,2,32
+2020-05-26,Republican Party Of Florida,2,33
+2020-05-26,Thomson Reuters Trust Principles,2,34
+2020-05-26,University Of Southern California,2,35
+2020-05-26,Air Mauritius,3,21
+2020-05-26,Facebook,3,22
+2020-05-26,Florida Department Of Health,3,23
+2020-05-26,New York Times,3,24
+2020-05-26,Spacex,3,25
+2020-05-26,Spectrum Center,3,26
+2020-05-26,Airlines Group,4,9
+2020-05-26,Avianca,4,10
+2020-05-26,Braathens Regional Airlines,4,11
+2020-05-26,Cnn,4,12
+2020-05-26,Compass Airlines,4,13
+2020-05-26,Expressjet Airlines,4,14
+2020-05-26,Flybe,4,15
+2020-05-26,Publix,4,16
+2020-05-26,Ravnair Group,4,17
+2020-05-26,Trans States Airlines,4,18
+2020-05-26,Twitter,4,19
+2020-05-26,United Express,4,20
+2020-05-26,United Airlines,5,8
+2020-05-26,Reuters,6,7
+2020-05-26,Republican National Committee,9,6
+2020-05-26,Republican Party,11,4
+2020-05-26,United States,11,5
+2020-05-26,Associated Press,12,2
+2020-05-26,White House,12,3
+2020-05-26,Republican National Convention,18,1

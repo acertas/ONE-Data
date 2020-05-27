@@ -1,54 +1,54 @@
 date,person,count,rn
 2020-02-04,Adam Alonso,1,1
-2020-02-04,Adrienne Arsht,1,2
-2020-02-04,Albert Fonticiella,1,3
-2020-02-04,Alex Isenstadt,1,4
-2020-02-04,Amelia Chasse,1,5
-2020-02-04,Anderson Cooper,1,6
-2020-02-04,Andrew Jerome,1,7
-2020-02-04,Andrew Restuccia,1,8
-2020-02-04,Ann Kuster,1,9
-2020-02-04,Ann Liston,1,10
-2020-02-04,Anna Palmer,1,11
-2020-02-04,Anne Gearan,1,12
-2020-02-04,Anne Steele,1,13
-2020-02-04,Annie Rees,1,14
-2020-02-04,Anthony Cormier,1,15
-2020-02-04,Antonio Olivo,1,16
-2020-02-04,Ashley Huggins Laryea,1,17
-2020-02-04,Barack Obama,1,18
-2020-02-04,Ben Foldy,1,19
-2020-02-04,Ben Rhodes,1,20
-2020-02-04,Ben White,1,21
-2020-02-04,Blair Bender,1,22
-2020-02-04,Brian Stelter,1,23
-2020-02-04,Brownstein Hyatt Farber Schreck,1,24
-2020-02-04,Buzzfeed Jason Leopold,1,25
-2020-02-04,Byron Auguste,1,26
-2020-02-04,Charles Rivkin,1,27
-2020-02-04,Christian Martinez,1,28
-2020-02-04,Christine Burtt,1,29
-2020-02-04,Chuck Pruitt,1,30
-2020-02-04,Chul Yun,1,31
-2020-02-04,Claudia Tenney,1,32
-2020-02-04,Cort Bush,1,33
-2020-02-04,Dan Berger,1,34
-2020-02-04,Dan Quayle,1,35
-2020-02-04,Daniel Bice,1,36
-2020-02-04,Daryl Auguste,1,37
-2020-02-04,David Edelman,1,38
-2020-02-04,David Saleh Rauf,1,39
-2020-02-04,David Yepsen,1,40
-2020-02-04,Deborah Steelman Macon,1,41
-2020-02-04,Dennis Blair,1,42
-2020-02-04,Diane Mcwhorter,1,43
-2020-02-04,Donald Trump,1,44
-2020-02-04,Dwight Bullard,1,45
-2020-02-04,Eli Okun,1,46
-2020-02-04,Eli Woerpel,1,47
-2020-02-04,Emorie Broemel,1,48
-2020-02-04,Eric Garcetti,1,49
-2020-02-04,Ethan Berkowitz,1,50
+2020-02-04,Albert Fonticiella,1,2
+2020-02-04,Andrew Jerome,1,3
+2020-02-04,Anne Gearan,1,4
+2020-02-04,Annie Rees,1,5
+2020-02-04,Blair Bender,1,6
+2020-02-04,Charles Rivkin,1,7
+2020-02-04,Claudia Tenney,1,8
+2020-02-04,Cort Bush,1,9
+2020-02-04,Dan Quayle,1,10
+2020-02-04,Daniel Bice,1,11
+2020-02-04,David Saleh Rauf,1,12
+2020-02-04,David Yepsen,1,13
+2020-02-04,Deborah Steelman Macon,1,14
+2020-02-04,Donald Trump,1,15
+2020-02-04,Dwight Bullard,1,16
+2020-02-04,Eli Okun,1,17
+2020-02-04,Garrett Ross,1,18
+2020-02-04,Gary Maristela,1,19
+2020-02-04,Hunter Biden,1,20
+2020-02-04,Ilan Goldenberg,1,21
+2020-02-04,Irene Castagnoli,1,22
+2020-02-04,Jessica Byrd,1,23
+2020-02-04,Jim Nicholson,1,24
+2020-02-04,Joe Biden,1,25
+2020-02-04,John Czwartacki,1,26
+2020-02-04,John Stoll,1,27
+2020-02-04,Joseph Cirincione,1,28
+2020-02-04,Justin Richards,1,29
+2020-02-04,Las Vegas,1,30
+2020-02-04,Lisa Murkowski,1,31
+2020-02-04,Lori Aratani,1,32
+2020-02-04,Megan Beyer,1,33
+2020-02-04,Melania Trump,1,34
+2020-02-04,Michael Flynn,1,35
+2020-02-04,Mike Flynn,1,36
+2020-02-04,Mitchell Rivard,1,37
+2020-02-04,Morgan Rako,1,38
+2020-02-04,Nicolle Wallace,1,39
+2020-02-04,Pete Buttigieg,1,40
+2020-02-04,Rachael Kahne Freitas,1,41
+2020-02-04,Robin Sproul,1,42
+2020-02-04,Roxanne Roberts,1,43
+2020-02-04,Samantha Flynn,1,44
+2020-02-04,Seungjin Choi,1,45
+2020-02-04,Shannon Fitzgerald,1,46
+2020-02-04,Steve Bannon,1,47
+2020-02-04,Taimoor Shah,1,48
+2020-02-04,Terry Ticey,1,49
+2020-02-04,Young Lee,1,50
 2020-02-20,Amy Klobuchar,1,22
 2020-02-20,Joe Biden,1,23
 2020-02-20,Pete Buttigieg,1,24
@@ -868,6 +868,8 @@ date,person,count,rn
 2020-05-19,Jim Dodson,1,1
 2020-05-19,Kelly Callison,1,2
 2020-05-19,Mark Watson,1,3
+2020-05-21,Dione Martin,1,1
+2020-05-21,Donna Smith,1,2
 2020-05-22,Amy Mcgrath,1,1
 2020-05-22,Andrew Cuomo,1,2
 2020-05-22,Andy Barr,1,3
@@ -888,3 +890,6 @@ date,person,count,rn
 2020-05-24,Marty Terry,2,4
 2020-05-24,Sally Oboyle,2,5
 2020-05-24,Wesley Morgan,2,6
+2020-05-26,Kelly Cortesi,1,1
+2020-05-26,Mark Humphrey,1,2
+2020-05-26,Randy Mcnally,1,3

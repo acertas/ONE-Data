@@ -4756,28 +4756,56 @@ date,organization,count,rn
 2020-05-20,World Health Organization,3,16
 2020-05-20,Centers For Disease,4,1
 2020-05-20,White House,4,2
-2020-05-21,Governor Office,1,19
-2020-05-21,Indiana State Department Of Health,1,20
-2020-05-21,University Of Central Florida,1,21
-2020-05-21,World Health Assembly,1,22
-2020-05-21,Associated Press,2,15
-2020-05-21,Circuit Court,2,16
-2020-05-21,Johns Hopkins University,2,17
-2020-05-21,University Of Notre Dame,2,18
-2020-05-21,Defense Ministry,3,4
-2020-05-21,Employment Security Department,3,5
-2020-05-21,European Union,3,6
-2020-05-21,Facebook,3,7
-2020-05-21,International Monetary,3,8
-2020-05-21,Lear Corp,3,9
-2020-05-21,Parliament On,3,10
-2020-05-21,Public Health,3,11
-2020-05-21,Spain Supreme Court,3,12
-2020-05-21,Spanish Health,3,13
-2020-05-21,World Bank,3,14
-2020-05-21,Popular Party,4,2
-2020-05-21,World Health Organization,4,3
-2020-05-21,United States,5,1
+2020-05-21,American Federation Of Labor,2,39
+2020-05-21,American Health Care Association,2,40
+2020-05-21,Bethany Pointe Health Campus,2,41
+2020-05-21,Big Lots,2,42
+2020-05-21,Bureau Of Public Health,2,43
+2020-05-21,Circuit Court,2,44
+2020-05-21,Department Of Corrections,2,45
+2020-05-21,Department Of Defense,2,46
+2020-05-21,Department Of Military Affairs,2,47
+2020-05-21,Department Store Union,2,48
+2020-05-21,Division Of Corrections,2,49
+2020-05-21,Governor Office,2,50
+2020-05-21,Cornell University,3,24
+2020-05-21,Defense Ministry,3,25
+2020-05-21,Department Of Health,3,26
+2020-05-21,Department Of Natural Resources,3,27
+2020-05-21,Employment Security Department,3,28
+2020-05-21,European Union,3,29
+2020-05-21,Indiana State Health Department,3,30
+2020-05-21,International Monetary,3,31
+2020-05-21,New York Times,3,32
+2020-05-21,Parliament On,3,33
+2020-05-21,Public Health,3,34
+2020-05-21,Spain Supreme Court,3,35
+2020-05-21,Spanish Health,3,36
+2020-05-21,Twitter,3,37
+2020-05-21,World Bank,3,38
+2020-05-21,Johns Hopkins University,4,21
+2020-05-21,Popular Party,4,22
+2020-05-21,World Health Organization,4,23
+2020-05-21,Health Administration,5,14
+2020-05-21,Indiana State Department Of Health,5,15
+2020-05-21,Lear Corp,5,16
+2020-05-21,Senate Intelligence Committee,5,17
+2020-05-21,Whole Foods,5,18
+2020-05-21,Wisconsin National Guard,5,19
+2020-05-21,Youtube,5,20
+2020-05-21,Health Department,6,12
+2020-05-21,Reuters,6,13
+2020-05-21,Centers For Disease,7,9
+2020-05-21,National Guard,7,10
+2020-05-21,White House,7,11
+2020-05-21,First Pentecostal Church,10,8
+2020-05-21,Facebook,12,7
+2020-05-21,United States,13,6
+2020-05-21,Justice Department,14,5
+2020-05-21,Senate Republicans,15,4
+2020-05-21,Senate On,16,3
+2020-05-21,Republicans In Congress,17,2
+2020-05-21,Associated Press,24,1
 2020-05-22,Budget Agency,3,32
 2020-05-22,Chapman University,3,33
 2020-05-22,Charles Borromeo Catholic Church,3,34
@@ -4978,3 +5006,53 @@ date,organization,count,rn
 2020-05-25,National Guard,6,3
 2020-05-25,Facebook,8,1
 2020-05-25,United States,8,2
+2020-05-26,America Inc,2,31
+2020-05-26,Argo Motor Co,2,32
+2020-05-26,Associated Press,2,33
+2020-05-26,Boeing,2,34
+2020-05-26,Budget Agency,2,35
+2020-05-26,Burd Piston Ring Co,2,36
+2020-05-26,Bureau Of Labor Statistics,2,37
+2020-05-26,Code Committee,2,38
+2020-05-26,Columbia College,2,39
+2020-05-26,Dana Corp,2,40
+2020-05-26,Department Of Workforce Development,2,41
+2020-05-26,Facebook,2,42
+2020-05-26,Ferrari,2,43
+2020-05-26,Guilford National Battery,2,44
+2020-05-26,Health Department,2,45
+2020-05-26,Indiana Department Of Correction,2,46
+2020-05-26,Iu Health Methodist Hospital,2,47
+2020-05-26,Iu School Of Medicine,2,48
+2020-05-26,Johns Hopkins University,2,49
+2020-05-26,Kuriyama Holdings Corp,2,50
+2020-05-26,Bureau Of Motor Vehicles The Family,3,19
+2020-05-26,Carmel City Council Wearing Is Caring,3,20
+2020-05-26,Department Of Revenue,3,21
+2020-05-26,Health Security,3,22
+2020-05-26,Indiana Department Of Public Health,3,23
+2020-05-26,Indiana State Public Health Department,3,24
+2020-05-26,Johns Hopkins Bloomberg School Of Public Health,3,25
+2020-05-26,Lucasfilm,3,26
+2020-05-26,National Testing Strategy Draws,3,27
+2020-05-26,Spacex,3,28
+2020-05-26,Twitter,3,29
+2020-05-26,White House,3,30
+2020-05-26,Dinosaur National Monument,4,11
+2020-05-26,Disney,4,12
+2020-05-26,Drug Administration,4,13
+2020-05-26,Elkhorn Baptist Church,4,14
+2020-05-26,National Park Service,4,15
+2020-05-26,New York Times,4,16
+2020-05-26,Park Service,4,17
+2020-05-26,Services Administration,4,18
+2020-05-26,Department Of Health,5,8
+2020-05-26,National Guard,5,9
+2020-05-26,Pacific Justice Institute,5,10
+2020-05-26,Indiana University,6,5
+2020-05-26,Oregon Supreme Court,6,6
+2020-05-26,Supreme Court,6,7
+2020-05-26,Centers For Disease,7,3
+2020-05-26,Nan,7,4
+2020-05-26,United States,9,2
+2020-05-26,Indiana State Department Of Health,14,1

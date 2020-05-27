@@ -3941,28 +3941,56 @@ date,organization,count,rn
 2020-05-20,Health Department,2,2
 2020-05-20,University Of Central Florida,2,3
 2020-05-20,White House,2,4
-2020-05-21,American Civil Liberties Union,1,4
-2020-05-21,Community Services Department,1,5
-2020-05-21,Department Of Health On,1,6
-2020-05-21,Florida Department Of Health,1,7
-2020-05-21,Florida State University,1,8
-2020-05-21,Health Security,1,9
-2020-05-21,Human Services,1,10
-2020-05-21,Johns Hopkins Center,1,11
-2020-05-21,Modeling Consortium,1,12
-2020-05-21,National Institute For Allergy,1,13
-2020-05-21,Research Triangle Of North Carolina,1,14
-2020-05-21,Rhode Island Department Of Health,1,15
-2020-05-21,Salvation Army,1,16
-2020-05-21,University Of Central Florida,1,17
-2020-05-21,University Of Massachusetts At Amherst,1,18
-2020-05-21,University Of Texas At Austin,1,19
-2020-05-21,University Of Texas Southwestern Medical Center,1,20
-2020-05-21,White House,1,21
-2020-05-21,York City Department Of Emergency Management,1,22
-2020-05-21,Department Of Health,2,1
-2020-05-21,Emergency Management Agency,2,2
-2020-05-21,United States,2,3
+2020-05-21,American Civil Liberties Union,1,43
+2020-05-21,Arcadia Health,1,44
+2020-05-21,Army Sgt,1,45
+2020-05-21,Augustine High School,1,46
+2020-05-21,Bethune Education Center,1,47
+2020-05-21,Catholic Medical Center,1,48
+2020-05-21,City Council Vice,1,49
+2020-05-21,Community Services Department,1,50
+2020-05-21,American Nurses Association,2,14
+2020-05-21,Associated Press,2,15
+2020-05-21,Chain Stabilization Task,2,16
+2020-05-21,Cnn,2,17
+2020-05-21,Coronavirus Updates From Health News Florida,2,18
+2020-05-21,Department Of Business,2,19
+2020-05-21,European Union,2,20
+2020-05-21,Florida State University,2,21
+2020-05-21,Health Department Dr,2,22
+2020-05-21,Health News Florida,2,23
+2020-05-21,Hillsborough Emergency Policy Group,2,24
+2020-05-21,Human Services,2,25
+2020-05-21,Inn At University Village In Tampa,2,26
+2020-05-21,Modeling Consortium,2,27
+2020-05-21,National Institute For Allergy,2,28
+2020-05-21,New York Times,2,29
+2020-05-21,Pacific Partnership,2,30
+2020-05-21,Republican Party,2,31
+2020-05-21,Research Triangle Of North Carolina,2,32
+2020-05-21,Sunshine State,2,33
+2020-05-21,Syracuse University,2,34
+2020-05-21,Twitter,2,35
+2020-05-21,University Of Central Florida,2,36
+2020-05-21,University Of Massachusetts At Amherst,2,37
+2020-05-21,University Of Texas At Austin,2,38
+2020-05-21,University Of Texas Southwestern Medical Center,2,39
+2020-05-21,Vacation Rental Management Association On,2,40
+2020-05-21,Vought,2,41
+2020-05-21,Washington Post,2,42
+2020-05-21,Emergency Management Agency,3,8
+2020-05-21,Facebook,3,9
+2020-05-21,Florida Professional Tattoo Artists Guild,3,10
+2020-05-21,Hillsborough Commission,3,11
+2020-05-21,Oval Office,3,12
+2020-05-21,Task Force To Reopen Florida,3,13
+2020-05-21,White House,4,7
+2020-05-21,Emergency Policy Group,5,4
+2020-05-21,United States,5,5
+2020-05-21,University Of South Florida,5,6
+2020-05-21,Centers For Disease,6,3
+2020-05-21,Department Of Health,8,1
+2020-05-21,Florida Department Of Health,8,2
 2020-05-22,Agency For Health Care Administration,1,19
 2020-05-22,Amtrak,1,20
 2020-05-22,Civil Support Team,1,21
@@ -4099,3 +4127,53 @@ date,organization,count,rn
 2020-05-25,National Guard,1,18
 2020-05-25,National Restaurant Association,1,19
 2020-05-25,University Of South Florida,1,20
+2020-05-26,A Clean Team,1,18
+2020-05-26,Agency For Health Care Administration,1,19
+2020-05-26,Aliya Institute In Crown Heights,1,20
+2020-05-26,American Hospital Association,1,21
+2020-05-26,American International Group,1,22
+2020-05-26,American Legion,1,23
+2020-05-26,Arcadia Health,1,24
+2020-05-26,Beckman Coulter,1,25
+2020-05-26,Blue Origin,1,26
+2020-05-26,Boeing,1,27
+2020-05-26,Cable News Network,1,28
+2020-05-26,Carolina Department Of Health,1,29
+2020-05-26,Carolina Health,1,30
+2020-05-26,Charles Margery Barancik Foundation,1,31
+2020-05-26,Clean Team,1,32
+2020-05-26,Community Response Fund,1,33
+2020-05-26,Coquina Center,1,34
+2020-05-26,Coronavirus Updates From Health News Florida,1,35
+2020-05-26,Democratic National Convention Committee,1,36
+2020-05-26,Department Of Health,1,37
+2020-05-26,Economic Development Commission Of Florida Space Coast,1,38
+2020-05-26,Embraer,1,39
+2020-05-26,Exchange Commission,1,40
+2020-05-26,Fair Havens Center,1,41
+2020-05-26,Florida Bar Association,1,42
+2020-05-26,Florida Chamber Foundation,1,43
+2020-05-26,Florida Department Of Corrections,1,44
+2020-05-26,Florida Health Care Association,1,45
+2020-05-26,Florida National Guard,1,46
+2020-05-26,Florida Office Interiors,1,47
+2020-05-26,Florida Policy Exchange Center On,1,48
+2020-05-26,Frontier City A Clean Team,1,49
+2020-05-26,Gannett,1,50
+2020-05-26,Democratic Party,2,9
+2020-05-26,Florida Department Of Health,2,10
+2020-05-26,Human Services,2,11
+2020-05-26,New York Times,2,12
+2020-05-26,Republican National Committee,2,13
+2020-05-26,Republican National Convention To Georgia,2,14
+2020-05-26,Republican Party,2,15
+2020-05-26,Trump Threatens To Pull Republican National Convention,2,16
+2020-05-26,University Of South Florida,2,17
+2020-05-26,Associated Press,3,5
+2020-05-26,Democrat National Convention,3,6
+2020-05-26,Facebook,3,7
+2020-05-26,Republican National Convention In Charlotte,3,8
+2020-05-26,Twitter,4,4
+2020-05-26,Centers For Disease,5,3
+2020-05-26,White House,7,2
+2020-05-26,Republican National Convention,11,1

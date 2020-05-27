@@ -4806,22 +4806,56 @@ date,organization,count,rn
 2020-05-20,Department Of Administration,3,2
 2020-05-20,Minnesota Department Of Health,3,3
 2020-05-20,Associated Press,4,1
-2020-05-21,Better Business Bureau,1,3
-2020-05-21,Catholic Church,1,4
-2020-05-21,Center Square,1,5
-2020-05-21,Dakota Department Of Instruction,1,6
-2020-05-21,Department Of Employment,1,7
-2020-05-21,Economic Development,1,8
-2020-05-21,Job Service,1,9
-2020-05-21,Job Service North Dakota,1,10
-2020-05-21,Johns Hopkins University,1,11
-2020-05-21,Lutheran Church,1,12
-2020-05-21,Minnesota Chamber,1,13
-2020-05-21,Minnesota Department Of Health On,1,14
-2020-05-21,New York Times,1,15
-2020-05-21,United States,1,16
-2020-05-21,Senate Majority Leader Paul Gazelka,2,1
-2020-05-21,Walmart,2,2
+2020-05-21,Ag Committee,4,31
+2020-05-21,Agriculture Committee,4,32
+2020-05-21,Becket Fund,4,33
+2020-05-21,Dakota Department Of Health,4,34
+2020-05-21,Department Of Health Services,4,35
+2020-05-21,Episcopal Church Home,4,36
+2020-05-21,Ford Motor Company,4,37
+2020-05-21,Healthcare Coordination Center,4,38
+2020-05-21,Ignatius Catholic Church,4,39
+2020-05-21,Jewish Democratic Council Of America,4,40
+2020-05-21,Jewish Telegraphic Agency,4,41
+2020-05-21,Lund University,4,42
+2020-05-21,M Health Fairview,4,43
+2020-05-21,Minnesota Rabbinical Association,4,44
+2020-05-21,Msnbc,4,45
+2020-05-21,National Guard,4,46
+2020-05-21,Public Health Agency,4,47
+2020-05-21,Republican Jewish Coalition,4,48
+2020-05-21,Republican Party,4,49
+2020-05-21,Reuters,4,50
+2020-05-21,Department Of Agriculture,5,22
+2020-05-21,Drug Administration,5,23
+2020-05-21,Health Administration,5,24
+2020-05-21,Labor Department,5,25
+2020-05-21,Michaels,5,26
+2020-05-21,Nan,5,27
+2020-05-21,Sidley Austin,5,28
+2020-05-21,Tyson Foods,5,29
+2020-05-21,Workers International Union,5,30
+2020-05-21,Associated Press,6,18
+2020-05-21,Department Of Employment,6,19
+2020-05-21,Department Of Labor,6,20
+2020-05-21,New York Times,6,21
+2020-05-21,Wisconsin Evangelical Lutheran Church,7,17
+2020-05-21,Economic Development,8,15
+2020-05-21,Walmart,8,16
+2020-05-21,Department Of Health,9,11
+2020-05-21,Missouri Synod Lutheran Church,9,12
+2020-05-21,Senate Majority Leader Paul Gazelka,9,13
+2020-05-21,University Of Minnesota,9,14
+2020-05-21,Minnesota South District Of The Lutheran Church,10,10
+2020-05-21,Catholic Church,14,8
+2020-05-21,Upper Midwest Law Center,14,9
+2020-05-21,Minnesota Department Of Health On,16,7
+2020-05-21,Centers For Disease,19,6
+2020-05-21,United States,20,5
+2020-05-21,White House,23,4
+2020-05-21,Minnesota Department Of Health,26,3
+2020-05-21,Becket Fund For Religious Liberty,32,1
+2020-05-21,Lutheran Church,32,2
 2020-05-22,Economic Recovery Omnibus Emergency Solutions,4,42
 2020-05-22,Facebook,4,43
 2020-05-22,Ignatius Catholic Church,4,44
@@ -5022,3 +5056,53 @@ date,organization,count,rn
 2020-05-25,White House,15,5
 2020-05-25,Minnesota Rabbinical Association,16,2
 2020-05-25,United States,23,1
+2020-05-26,American Meat Institute,2,46
+2020-05-26,Assembly Majority Leader Jim Steineke,2,47
+2020-05-26,Bloomberg,2,48
+2020-05-26,Breakfast Club,2,49
+2020-05-26,Chains Catholic Church,2,50
+2020-05-26,American Legion,3,37
+2020-05-26,California Department Of Health,3,38
+2020-05-26,Coronavirus Food Assistance Program,3,39
+2020-05-26,Enterprise Community Partners,3,40
+2020-05-26,First American Financial Services,3,41
+2020-05-26,Hong Kong International Airport,3,42
+2020-05-26,National Apartment Association,3,43
+2020-05-26,Oregon State University,3,44
+2020-05-26,White House Coronavirus Task,3,45
+2020-05-26,Air New Zealand,4,22
+2020-05-26,California Sets Church,4,23
+2020-05-26,Health Administration,4,24
+2020-05-26,Justice Department,4,25
+2020-05-26,Lufthansa,4,26
+2020-05-26,Minnesota Department Of Health On,4,27
+2020-05-26,Moderna Inc,4,28
+2020-05-26,National Health Commission,4,29
+2020-05-26,New York Stock Exchange,4,30
+2020-05-26,New York Times,4,31
+2020-05-26,Novavax Inc,4,32
+2020-05-26,Quidel Corp,4,33
+2020-05-26,Senate Republicans,4,34
+2020-05-26,University Of Minnesota,4,35
+2020-05-26,York Stock Exchange,4,36
+2020-05-26,Department Of Justice,5,18
+2020-05-26,Minneapolis Police Department,5,19
+2020-05-26,Minnesota National Guard,5,20
+2020-05-26,Police In Minneapolis,5,21
+2020-05-26,Associated Press,6,16
+2020-05-26,Human Services,6,17
+2020-05-26,Centers For Disease,7,12
+2020-05-26,Johns Hopkins University,7,13
+2020-05-26,Reuters,7,14
+2020-05-26,Supreme Court,7,15
+2020-05-26,Department Of Health,8,9
+2020-05-26,Twitter,8,10
+2020-05-26,World Health Organization,8,11
+2020-05-26,Hennepin County Medical Center,10,7
+2020-05-26,Nan,10,8
+2020-05-26,Minnesota Bureau Of Criminal Apprehension,12,6
+2020-05-26,Minnesota Department Of Health,13,5
+2020-05-26,Cnn,14,4
+2020-05-26,Facebook,15,3
+2020-05-26,United States,20,1
+2020-05-26,White House,20,2

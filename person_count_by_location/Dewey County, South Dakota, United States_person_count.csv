@@ -132,45 +132,45 @@ date,person,count,rn
 2020-05-09,Harold Frazier,13,1
 2020-05-10,Ahmaud Arbery,1,10
 2020-05-10,Amy Mcdermott,1,11
-2020-05-10,Bill Cunningham,1,12
-2020-05-10,Bruno Avelino,1,13
-2020-05-10,Cassandra Fairbanks,1,14
-2020-05-10,David Kawai Bloomberg Getty,1,15
-2020-05-10,Don Surber Blogspot,1,16
-2020-05-10,Elizabeth Cohen,1,17
-2020-05-10,Emmylou Harris,1,18
-2020-05-10,Erin Blakemore,1,19
-2020-05-10,Gregory Mcmichael,1,20
-2020-05-10,Heather Preston,1,21
-2020-05-10,Hill Placitas,1,22
-2020-05-10,Isaac Mcginn,1,23
-2020-05-10,Jair Bolsonaro,1,24
-2020-05-10,Jake Tapper,1,25
-2020-05-10,Jeremy Jones,1,26
-2020-05-10,Jeremy Jones Gafollowers,1,27
-2020-05-10,Jim Robinson,1,28
-2020-05-10,Jimmy Stewart,1,29
-2020-05-10,Joshua Clayton,1,30
-2020-05-10,Judd Deere,1,31
-2020-05-10,Justin Trudeau,1,32
-2020-05-10,Katie Miller,1,33
-2020-05-10,Kevin Bohn,1,34
-2020-05-10,Lionel Barrymore,1,35
-2020-05-10,Lise Alves,1,36
-2020-05-10,Mandel Ngan,1,37
-2020-05-10,Marjorie Main,1,38
-2020-05-10,Minali Nigam,1,39
-2020-05-10,Norman Corwin,1,40
-2020-05-10,Paul Hennessy Nurphoto Getty,1,41
-2020-05-10,Paula Newton,1,42
-2020-05-10,Richard Milhous Nixon,1,43
-2020-05-10,Robert Mueller,1,44
-2020-05-10,Robert Redfield,1,45
-2020-05-10,Ruth Valerio,1,46
-2020-05-10,Sarah Westwood,1,47
-2020-05-10,Stephen Hahn,1,48
-2020-05-10,Susan Rice,1,49
-2020-05-10,Taylor Barnes,1,50
+2020-05-10,Bruno Avelino,1,12
+2020-05-10,Cassandra Fairbanks,1,13
+2020-05-10,David Kawai Bloomberg Getty,1,14
+2020-05-10,Don Surber Blogspot,1,15
+2020-05-10,Elizabeth Cohen,1,16
+2020-05-10,Emmylou Harris,1,17
+2020-05-10,Erin Blakemore,1,18
+2020-05-10,Gregory Mcmichael,1,19
+2020-05-10,Hill Placitas,1,20
+2020-05-10,Isaac Mcginn,1,21
+2020-05-10,Jair Bolsonaro,1,22
+2020-05-10,Jake Tapper,1,23
+2020-05-10,Jeremy Jones,1,24
+2020-05-10,Jeremy Jones Gafollowers,1,25
+2020-05-10,Jim Robinson,1,26
+2020-05-10,Jimmy Stewart,1,27
+2020-05-10,Joshua Clayton,1,28
+2020-05-10,Judd Deere,1,29
+2020-05-10,Justin Trudeau,1,30
+2020-05-10,Katie Miller,1,31
+2020-05-10,Kevin Bohn,1,32
+2020-05-10,Lionel Barrymore,1,33
+2020-05-10,Lise Alves,1,34
+2020-05-10,Mandel Ngan,1,35
+2020-05-10,Marjorie Main,1,36
+2020-05-10,Mike Pence,1,37
+2020-05-10,Minali Nigam,1,38
+2020-05-10,Norman Corwin,1,39
+2020-05-10,Paul Hennessy Nurphoto Getty,1,40
+2020-05-10,Paula Newton,1,41
+2020-05-10,Robert Mueller,1,42
+2020-05-10,Ruth Valerio,1,43
+2020-05-10,Sarah Westwood,1,44
+2020-05-10,Savanta Comres,1,45
+2020-05-10,Sean Delancey,1,46
+2020-05-10,Stephen Hahn,1,47
+2020-05-10,Susan Rice,1,48
+2020-05-10,Taylor Barnes,1,49
+2020-05-10,Vincent Barone,1,50
 2020-05-10,Anthony Fauci,2,3
 2020-05-10,Chris Boyette,2,4
 2020-05-10,Craig Quanchello,2,5
@@ -222,12 +222,12 @@ date,person,count,rn
 2020-05-11,Maggie Seidel,44,3
 2020-05-11,Harold Frazier,78,2
 2020-05-11,Kristi Noem,85,1
-2020-05-12,Andy Bradshaw,1,42
+2020-05-12,Doug Burgum,1,42
 2020-05-12,Edgewood Fargo,1,43
 2020-05-12,Eric Levenson,1,44
-2020-05-12,Holly Yan,1,45
-2020-05-12,Jack Rasmus,1,46
-2020-05-12,Jim Gilmour,1,47
+2020-05-12,Jack Rasmus,1,45
+2020-05-12,Jim Gilmour,1,46
+2020-05-12,Jonathan Nez,1,47
 2020-05-12,Lee Strubinger,1,48
 2020-05-12,Leslie Perrot,1,49
 2020-05-12,Marian Manor,1,50
@@ -338,6 +338,20 @@ date,person,count,rn
 2020-05-19,Kristi Noem,6,2
 2020-05-20,Harold Frazier,1,1
 2020-05-20,Kristi Noem,1,2
+2020-05-21,Gary Pitchlynn,1,9
+2020-05-21,Jason Ravnsborg,1,10
+2020-05-21,Jeff Easton,1,11
+2020-05-21,Patrick Callahan,1,12
+2020-05-21,Richard Monette,1,13
+2020-05-21,Ridge Indian,1,14
+2020-05-21,Maggie Seidel,3,7
+2020-05-21,Matthew Brown,3,8
+2020-05-21,Sara Rabern,5,6
+2020-05-21,Erin Loranger,6,4
+2020-05-21,Steve Bullock,6,5
+2020-05-21,Harold Frazier,10,3
+2020-05-21,Donald Trump,14,2
+2020-05-21,Kristi Noem,18,1
 2020-05-22,Brad Sherman,1,8
 2020-05-22,Brent Bonfleur,1,9
 2020-05-22,Chris Van Hollen,1,10
@@ -379,3 +393,6 @@ date,person,count,rn
 2020-05-24,Steve Bullock,1,6
 2020-05-24,Donald Trump,2,1
 2020-05-24,Kristi Noem,2,2
+2020-05-26,Harold Frazier,1,1
+2020-05-26,Jason Ravnsborg,1,2
+2020-05-26,Kristi Noem,1,3

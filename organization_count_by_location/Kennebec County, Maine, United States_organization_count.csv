@@ -4514,36 +4514,56 @@ date,organization,count,rn
 2020-05-20,Community Development Heather Johnson,4,1
 2020-05-20,Cony High School Chizzle Wizzle,4,2
 2020-05-20,Maine Center,4,3
-2020-05-21,A Superior Court,1,13
-2020-05-21,American Civil Liberties Union Of Maine,1,14
-2020-05-21,Bureau Of Prisons,1,15
-2020-05-21,Centers For Disease,1,16
-2020-05-21,City Council,1,17
-2020-05-21,Court Justice Marygay Kennedy,1,18
-2020-05-21,Department Of Corrections,1,19
-2020-05-21,Harvard Institute Of Global Health,1,20
-2020-05-21,Maine Center,1,21
-2020-05-21,Maine Correctional Center,1,22
-2020-05-21,Maine Department Of Corrections,1,23
-2020-05-21,Maine Service Employees Association,1,24
-2020-05-21,Maine Supreme Judicial Court,1,25
-2020-05-21,New York Times,1,26
-2020-05-21,Portland City Council,1,27
-2020-05-21,Republican National Committee,1,28
-2020-05-21,Safra Center,1,29
-2020-05-21,Supreme Court,1,30
-2020-05-21,Braun,2,1
-2020-05-21,Cnn,2,2
-2020-05-21,Louisiana Municipal Association,2,3
-2020-05-21,National Governors Association,2,4
-2020-05-21,Paycheck Protection Program,2,5
-2020-05-21,Senate Commerce,2,6
-2020-05-21,Senate Hart Building,2,7
-2020-05-21,Senate Judiciary Committee,2,8
-2020-05-21,Senate Majority Leader Mitch Mcconnell,2,9
-2020-05-21,Senate Republicans,2,10
-2020-05-21,Transportation Committee,2,11
-2020-05-21,White House,2,12
+2020-05-21,Adm,3,40
+2020-05-21,Braun,3,41
+2020-05-21,Bureau Of Prisons,3,42
+2020-05-21,Electronics Technician Navigation,3,43
+2020-05-21,Foursquare,3,44
+2020-05-21,House Appropriations Committee,3,45
+2020-05-21,Maine Correctional Center On,3,46
+2020-05-21,Maine Department Of Health,3,47
+2020-05-21,National Education Association,3,48
+2020-05-21,Senate Hart Building,3,49
+2020-05-21,Senate Judiciary Committee,3,50
+2020-05-21,Census Bureau,4,32
+2020-05-21,Human Services,4,33
+2020-05-21,New York Times,4,34
+2020-05-21,Pa Department Of Health Pahealthdept,4,35
+2020-05-21,Paycheck Protection Program,4,36
+2020-05-21,Pennsylvania Department Of Public Health,4,37
+2020-05-21,Senate Intelligence Committee,4,38
+2020-05-21,Supreme Court,4,39
+2020-05-21,A Superior Court,5,20
+2020-05-21,City Council,5,21
+2020-05-21,Court Justice Marygay Kennedy,5,22
+2020-05-21,Department Of Labor,5,23
+2020-05-21,Labor Department,5,24
+2020-05-21,Maine Supreme Judicial Court,5,25
+2020-05-21,Nan,5,26
+2020-05-21,Portland City Council,5,27
+2020-05-21,Republicans In Congress,5,28
+2020-05-21,Senate Commerce,5,29
+2020-05-21,Senate Democrats,5,30
+2020-05-21,Transportation Committee,5,31
+2020-05-21,American Civil Liberties Union Of Maine,6,17
+2020-05-21,Federal Reserve,6,18
+2020-05-21,Maine Service Employees Association,6,19
+2020-05-21,National Governors Association,7,16
+2020-05-21,Cnn,8,13
+2020-05-21,Justice Department,8,14
+2020-05-21,Seacoast Health,8,15
+2020-05-21,Maine Legislature,10,12
+2020-05-21,Centers For Disease,11,10
+2020-05-21,Maine Department Of Labor,11,11
+2020-05-21,Maine Center,12,9
+2020-05-21,Maine Department Of Corrections,13,8
+2020-05-21,Senate Majority Leader Mitch Mcconnell,14,7
+2020-05-21,Associated Press,16,6
+2020-05-21,Senate Republicans,17,5
+2020-05-21,Department Of Corrections,18,1
+2020-05-21,Maine Correctional Center,18,2
+2020-05-21,United States,18,3
+2020-05-21,White House,18,4
 2020-05-22,Department Of Energy,4,38
 2020-05-22,Department Of Health On,4,39
 2020-05-22,Department Of Justice,4,40
@@ -4744,3 +4764,53 @@ date,organization,count,rn
 2020-05-25,Facebook,10,4
 2020-05-25,Maine Center,12,2
 2020-05-25,United States,17,1
+2020-05-26,American Tribal Healing Centers,2,33
+2020-05-26,Associates In Las Vegas,2,34
+2020-05-26,Bangor High School,2,35
+2020-05-26,Bangor School Department,2,36
+2020-05-26,Brunswick High School,2,37
+2020-05-26,Canada Royal Canadian Mounted Police,2,38
+2020-05-26,College Of The Atlantic,2,39
+2020-05-26,Community Action Programs,2,40
+2020-05-26,Department Of Education,2,41
+2020-05-26,Emergency Management Agency,2,42
+2020-05-26,Farmers To Families Food Box Program,2,43
+2020-05-26,Federal Reserve,2,44
+2020-05-26,Governor Office,2,45
+2020-05-26,Health Security,2,46
+2020-05-26,House Agriculture Committee,2,47
+2020-05-26,Johns Hopkins Center,2,48
+2020-05-26,Johns Hopkins University,2,49
+2020-05-26,Johns Hopkins University Of Medicine,2,50
+2020-05-26,Baptist Church,3,21
+2020-05-26,Cross Insurance Center,3,22
+2020-05-26,Living Center On Corporate Drive In Bangor,3,23
+2020-05-26,Maine State Housing Authority,3,24
+2020-05-26,Office Of The State Fire Marshal,3,25
+2020-05-26,Penobscot Community Health Care,3,26
+2020-05-26,Seacoast Health,3,27
+2020-05-26,Senate Majority Leader Mitch Mcconnell,3,28
+2020-05-26,Senate Minority Leader Jeffrey Timberlake,3,29
+2020-05-26,Supreme Court,3,30
+2020-05-26,Testingthe Maine Center,3,31
+2020-05-26,Youtube,3,32
+2020-05-26,City Health Officials,4,17
+2020-05-26,Health Transformation Technical Center,4,18
+2020-05-26,Mills Administration,4,19
+2020-05-26,Territorial Health Officials,4,20
+2020-05-26,Hope House Health,5,14
+2020-05-26,Living Center,5,15
+2020-05-26,Nan,5,16
+2020-05-26,Catholic Charities,6,9
+2020-05-26,Community Action Programs Caps,6,10
+2020-05-26,Department Of Public Safety,6,11
+2020-05-26,Twitter,6,12
+2020-05-26,Wabanaki Public Health,6,13
+2020-05-26,Associated Press,7,6
+2020-05-26,Census Bureau,7,7
+2020-05-26,Portland Press Herald,7,8
+2020-05-26,Facebook,8,5
+2020-05-26,United States,9,4
+2020-05-26,Maine Department Of Health,22,3
+2020-05-26,Human Services,23,2
+2020-05-26,Maine Center,25,1

@@ -4822,32 +4822,56 @@ date,organization,count,rn
 2020-05-20,United States,17,4
 2020-05-20,Department Of Public Health,23,2
 2020-05-20,Georgia Department Of Public Health,25,1
-2020-05-21,A Pew Research Center,1,4
-2020-05-21,Action Fund,1,5
-2020-05-21,Associated Press,1,6
-2020-05-21,Bank Field,1,7
-2020-05-21,College Of Georgia,1,8
-2020-05-21,Columbia Law School,1,9
-2020-05-21,Dartmouth College,1,10
-2020-05-21,Disney,1,11
-2020-05-21,Ebenezer Baptist Church,1,12
-2020-05-21,Georgia Department Of Public Health,1,13
-2020-05-21,Harvard Global Health Institute,1,14
-2020-05-21,Health Security,1,15
-2020-05-21,Johns Hopkins Center,1,16
-2020-05-21,Levada Center,1,17
-2020-05-21,Nan,1,18
-2020-05-21,National Guard,1,19
-2020-05-21,News Campaign Reporter Jack Turman,1,20
-2020-05-21,Oval Office,1,21
-2020-05-21,Parenthood Action Fund,1,22
-2020-05-21,Polk County Republican Party,1,23
-2020-05-21,United States,1,24
-2020-05-21,University Of Florida,1,25
-2020-05-21,Vegetable Growers Association,1,26
-2020-05-21,Department Of Public Health,2,2
-2020-05-21,Johns Hopkins University,2,3
-2020-05-21,White House,3,1
+2020-05-21,American Nurses Association,4,37
+2020-05-21,Bowling Green State University,4,38
+2020-05-21,Bureau Of Elections,4,39
+2020-05-21,Chain Stabilization Task,4,40
+2020-05-21,Democratic Party Of Georgia,4,41
+2020-05-21,European Union,4,42
+2020-05-21,Florida Department Of Health,4,43
+2020-05-21,Ford Motor,4,44
+2020-05-21,Justice Department,4,45
+2020-05-21,Morgan,4,46
+2020-05-21,National Guard,4,47
+2020-05-21,Office Of Management Of Budget,4,48
+2020-05-21,Pacific Partnership,4,49
+2020-05-21,Paycheck Protection Program,4,50
+2020-05-21,Drug Administration,5,31
+2020-05-21,Emory University Rollins School Of Public Health,5,32
+2020-05-21,Georgia Bureau Of Investigation,5,33
+2020-05-21,University Of Florida,5,34
+2020-05-21,York Stock Exchange,5,35
+2020-05-21,Youtube,5,36
+2020-05-21,Census Bureau,6,19
+2020-05-21,Cnn,6,20
+2020-05-21,College Of Georgia,6,21
+2020-05-21,Congressional Budget Office,6,22
+2020-05-21,Federal Reserve,6,23
+2020-05-21,Health Security,6,24
+2020-05-21,Honda,6,25
+2020-05-21,Johns Hopkins Center,6,26
+2020-05-21,Oval Office,6,27
+2020-05-21,Republican National Committee,6,28
+2020-05-21,Toyota,6,29
+2020-05-21,Waffle House,6,30
+2020-05-21,Google,7,17
+2020-05-21,Public Health,7,18
+2020-05-21,Harvard Global Health Institute,8,12
+2020-05-21,Labor Department,8,13
+2020-05-21,Nan,8,14
+2020-05-21,Republican Party,8,15
+2020-05-21,Vought,8,16
+2020-05-21,Johns Hopkins University,9,11
+2020-05-21,Georgia State University,11,9
+2020-05-21,New York Times,11,10
+2020-05-21,Centers For Disease,15,7
+2020-05-21,Facebook,15,8
+2020-05-21,Associated Press,17,6
+2020-05-21,Twitter,20,5
+2020-05-21,Department Of Public Health,21,4
+2020-05-21,Georgia Department Of Public Health,30,3
+2020-05-21,United States,33,2
+2020-05-21,White House,40,1
 2020-05-22,Census Bureau,5,49
 2020-05-22,Department Of Health,5,50
 2020-05-22,Georgia Department Of Health,6,46
@@ -4998,17 +5022,16 @@ date,organization,count,rn
 2020-05-24,Associated Press,10,2
 2020-05-24,White House,10,3
 2020-05-24,United States,19,1
-2020-05-25,Andersonville National Historic Site,3,40
-2020-05-25,Army Advertisement Beverly Cobbs Jr,3,41
-2020-05-25,Army Advertisement Edwin Garrison,3,42
-2020-05-25,Army Air,3,43
-2020-05-25,Army Air Forces,3,44
-2020-05-25,Army Air Forces Alphonsus Apuzzo,3,45
-2020-05-25,Army Air Forces Jack Weslie Conyers,3,46
-2020-05-25,Army Cleveland Jessup,3,47
-2020-05-25,Army Hyman Forte,3,48
-2020-05-25,Bowling Green State University,3,49
-2020-05-25,Defamation League,3,50
+2020-05-25,Andersonville National Historic Site,3,41
+2020-05-25,Army Advertisement Beverly Cobbs Jr,3,42
+2020-05-25,Army Advertisement Edwin Garrison,3,43
+2020-05-25,Army Air,3,44
+2020-05-25,Army Air Forces,3,45
+2020-05-25,Army Air Forces Alphonsus Apuzzo,3,46
+2020-05-25,Army Air Forces Jack Weslie Conyers,3,47
+2020-05-25,Army Cleveland Jessup,3,48
+2020-05-25,Army Hyman Forte,3,49
+2020-05-25,Bowling Green State University,3,50
 2020-05-25,American Legion,4,25
 2020-05-25,Anna Miller,4,26
 2020-05-25,Association County Commissioners Of Georgia,4,27
@@ -5022,8 +5045,9 @@ date,organization,count,rn
 2020-05-25,Mississippi Sovereignty Commission,4,35
 2020-05-25,Office Of Planning,4,36
 2020-05-25,Pacific Northwest Historians Guild,4,37
-2020-05-25,Seattle Public Library,4,38
-2020-05-25,Student Nonviolent Coordinating Committee,4,39
+2020-05-25,Republican National Convention,4,38
+2020-05-25,Seattle Public Library,4,39
+2020-05-25,Student Nonviolent Coordinating Committee,4,40
 2020-05-25,Civil Rights Movement,5,18
 2020-05-25,Democratic Party,5,19
 2020-05-25,Harvard Global Health Institute,5,20
@@ -5037,8 +5061,8 @@ date,organization,count,rn
 2020-05-25,Ross Stores,6,15
 2020-05-25,Stockbridge City Council,6,16
 2020-05-25,Yahoo,6,17
-2020-05-25,New York Times,9,11
 2020-05-25,Cnn,10,10
+2020-05-25,New York Times,10,11
 2020-05-25,Futures Lab,11,9
 2020-05-25,Supreme Court,13,8
 2020-05-25,Centers For Disease,17,7
@@ -5047,4 +5071,54 @@ date,organization,count,rn
 2020-05-25,Facebook,18,6
 2020-05-25,Georgia Department Of Public Health,19,3
 2020-05-25,White House,21,2
-2020-05-25,United States,32,1
+2020-05-25,United States,33,1
+2020-05-26,Airbus,4,44
+2020-05-26,Americans United For Separation Of Church,4,45
+2020-05-26,Angeles Church,4,46
+2020-05-26,Ararat Baptist Church,4,47
+2020-05-26,Boeing,4,48
+2020-05-26,Capitol Bureau,4,49
+2020-05-26,Carolina Department Of Health,4,50
+2020-05-26,Committee On Arrangements,5,39
+2020-05-26,Florida Supreme Court,5,40
+2020-05-26,Georgia State University,5,41
+2020-05-26,Senate Intelligence Committee,5,42
+2020-05-26,Texas Republican Party,5,43
+2020-05-26,A Kaiser Family Foundation,6,29
+2020-05-26,Department Of Behavioral Health,6,30
+2020-05-26,Department Of Public Health,6,31
+2020-05-26,Georgia Council On Substance Abuse,6,32
+2020-05-26,Georgia Senate,6,33
+2020-05-26,Instagram,6,34
+2020-05-26,Marcus Autism Center,6,35
+2020-05-26,Mental Health America,6,36
+2020-05-26,Senate Ethics Committee,6,37
+2020-05-26,Spacex,6,38
+2020-05-26,Florida Republican Party,7,24
+2020-05-26,Justice Department,7,25
+2020-05-26,National Institute Of Allergy,7,26
+2020-05-26,Republican National Convention To Doral,7,27
+2020-05-26,Senate Appropriations Committee,7,28
+2020-05-26,Georgia Republican Party,8,18
+2020-05-26,New York Stock Exchange,8,19
+2020-05-26,Republican Party Of Texas,8,20
+2020-05-26,Thomson Reuters Trust Principles,8,21
+2020-05-26,World Health Organization,8,22
+2020-05-26,York Stock Exchange,8,23
+2020-05-26,Democratic National Committee,9,15
+2020-05-26,Georgia Department Of Public Health,9,16
+2020-05-26,Republican Party Of Florida,9,17
+2020-05-26,Human Services,10,12
+2020-05-26,Johns Hopkins University,10,13
+2020-05-26,Republican National Convention In Charlotte,10,14
+2020-05-26,Associated Press,12,11
+2020-05-26,Spectrum Center,13,10
+2020-05-26,New York Times,14,9
+2020-05-26,Cnn,15,8
+2020-05-26,Reuters,17,7
+2020-05-26,United States,21,6
+2020-05-26,Republican National Committee,28,5
+2020-05-26,Twitter,33,4
+2020-05-26,White House,37,3
+2020-05-26,Republican Party,45,2
+2020-05-26,Republican National Convention,93,1

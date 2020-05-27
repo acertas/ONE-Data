@@ -5321,42 +5321,56 @@ date,organization,count,rn
 2020-05-20,Instagram,5,3
 2020-05-20,Twitter,6,2
 2020-05-20,United States,7,1
-2020-05-21,A Pew Research Center,1,23
-2020-05-21,Action Fund,1,24
-2020-05-21,Columbia Law School,1,25
-2020-05-21,Dartmouth College,1,26
-2020-05-21,Disney,1,27
-2020-05-21,Ebenezer Baptist Church,1,28
-2020-05-21,Johns Hopkins University,1,29
-2020-05-21,National Institute Of Allergy,1,30
-2020-05-21,News Campaign Reporter Jack Turman,1,31
-2020-05-21,Oval Office,1,32
-2020-05-21,Parenthood Action Fund,1,33
-2020-05-21,Polk County Republican Party,1,34
-2020-05-21,University Of Florida,1,35
-2020-05-21,World Campaign,1,36
-2020-05-21,Ahold,2,5
-2020-05-21,Albertsons,2,6
-2020-05-21,Centers For Disease,2,7
-2020-05-21,Cspan,2,8
-2020-05-21,Department Of Public Health,2,9
-2020-05-21,Homeowner Association,2,10
-2020-05-21,Instagram,2,11
-2020-05-21,Kroger,2,12
-2020-05-21,Lear Corp,2,13
-2020-05-21,Mcdonald,2,14
-2020-05-21,Phoenix Sky Harbor International Airport,2,15
-2020-05-21,Service Employees International Union,2,16
-2020-05-21,Twitter,2,17
-2020-05-21,United Airlines,2,18
-2020-05-21,United States,2,19
-2020-05-21,Walmart,2,20
-2020-05-21,Whole Foods,2,21
-2020-05-21,Workers International Union,2,22
-2020-05-21,Facebook,3,3
-2020-05-21,Pew Research Center,3,4
-2020-05-21,Associated Press,4,2
-2020-05-21,White House,5,1
+2020-05-21,A Walt Disney Co,3,45
+2020-05-21,African Union,3,46
+2020-05-21,Ahold,3,47
+2020-05-21,Albertsons,3,48
+2020-05-21,Albertus Magnus College,3,49
+2020-05-21,Beverage Control Department,3,50
+2020-05-21,Department Of Public Health,4,35
+2020-05-21,Kroger,4,36
+2020-05-21,Lear Corp,4,37
+2020-05-21,Mcdonald,4,38
+2020-05-21,Pew Research Center,4,39
+2020-05-21,Phoenix Sky Harbor International Airport,4,40
+2020-05-21,Public Health,4,41
+2020-05-21,Service Employees International Union,4,42
+2020-05-21,United Airlines,4,43
+2020-05-21,Workers International Union,4,44
+2020-05-21,Walmart,5,33
+2020-05-21,World Health Organization,5,34
+2020-05-21,Johns Hopkins University,6,27
+2020-05-21,Justice League,6,28
+2020-05-21,Msnbc,6,29
+2020-05-21,Netflix,6,30
+2020-05-21,New York Times,6,31
+2020-05-21,Sony Pictures,6,32
+2020-05-21,City Council,7,26
+2020-05-21,Sony,8,25
+2020-05-21,Boston University,9,23
+2020-05-21,Cnn,9,24
+2020-05-21,Nan,11,22
+2020-05-21,Tribune Content Agency,13,20
+2020-05-21,Virginia University,13,21
+2020-05-21,Associated Press,14,17
+2020-05-21,Britain Cambridge University,14,18
+2020-05-21,Youtube,14,19
+2020-05-21,Amherst College,15,10
+2020-05-21,Claremont Mckenna College,15,11
+2020-05-21,Princeton University,15,12
+2020-05-21,Purdue University,15,13
+2020-05-21,Texas A M University,15,14
+2020-05-21,Trinity College,15,15
+2020-05-21,University Of South Carolina,15,16
+2020-05-21,Disney,16,8
+2020-05-21,University Of Notre Dame,16,9
+2020-05-21,California State University,17,7
+2020-05-21,White House,18,6
+2020-05-21,Centers For Disease,19,3
+2020-05-21,Instagram,19,4
+2020-05-21,Twitter,19,5
+2020-05-21,Facebook,22,2
+2020-05-21,United States,24,1
 2020-05-22,Amherst College,3,40
 2020-05-22,Blackrock,3,41
 2020-05-22,Boston University,3,42
@@ -5557,3 +5571,53 @@ date,organization,count,rn
 2020-05-25,Associated Press,17,1
 2020-05-25,California Institution For Men,17,2
 2020-05-25,Centers For Disease,17,3
+2020-05-26,Aviron Group,4,48
+2020-05-26,Department Of Beaches,4,49
+2020-05-26,T Inc Warner Bros,4,50
+2020-05-26,Arlington National Cemetery,5,40
+2020-05-26,Circuit Court,5,41
+2020-05-26,Navy Seabee,5,42
+2020-05-26,Netflix,5,43
+2020-05-26,Pool Hot Tub Alliance,5,44
+2020-05-26,Republican National Convention,5,45
+2020-05-26,Reuters,5,46
+2020-05-26,Riverside National Cemetery,5,47
+2020-05-26,Exchange Commission,6,38
+2020-05-26,Infantry Division,6,39
+2020-05-26,Blackrock,7,29
+2020-05-26,Disney,7,30
+2020-05-26,Nan,7,31
+2020-05-26,New York Stock Exchange,7,32
+2020-05-26,Paycheck Protection Program,7,33
+2020-05-26,Small Business Administration,7,34
+2020-05-26,Warner Bros,7,35
+2020-05-26,White House,7,36
+2020-05-26,York Stock Exchange,7,37
+2020-05-26,Facebook,8,28
+2020-05-26,Department Of Environmental Management,9,25
+2020-05-26,Health Emergencies Programme,9,26
+2020-05-26,Tribune Content Agency,9,27
+2020-05-26,Instagram,10,24
+2020-05-26,Cnn,11,20
+2020-05-26,National Moment Of Prayer,11,21
+2020-05-26,Public Health,11,22
+2020-05-26,Us Space,11,23
+2020-05-26,United States,12,19
+2020-05-26,Islamic Center,13,17
+2020-05-26,Patrick Catholic Church,13,18
+2020-05-26,Cross Culture Christian Center,14,14
+2020-05-26,Johns Hopkins University,14,15
+2020-05-26,World Health Organization,14,16
+2020-05-26,Department Of Public Health,16,13
+2020-05-26,Bay United Pentacostal Church,21,12
+2020-05-26,California Institution For Men,22,11
+2020-05-26,California Department Of Public Health,31,10
+2020-05-26,Roman Catholic Diocese Of Orange,33,9
+2020-05-26,Associated Press,34,8
+2020-05-26,Third Baptist Church,35,7
+2020-05-26,Centers For Disease,44,6
+2020-05-26,Virgin Galactic,49,5
+2020-05-26,Boeing,51,3
+2020-05-26,Royal Air,51,4
+2020-05-26,Spacex,59,2
+2020-05-26,Twitter,62,1

@@ -349,56 +349,56 @@ date,person,count,rn
 2020-05-05,Matthew Apgar,1,6
 2020-05-05,Tony Esposito,1,7
 2020-05-05,Vander Tuuk,1,8
-2020-05-06,Alexandra Seguin,1,1
-2020-05-06,Aly Rifkin,1,2
-2020-05-06,Amanda Farrell,1,3
-2020-05-06,Amanda Peacock,1,4
-2020-05-06,Amy Tapscott,1,5
-2020-05-06,Ashley Zepeda,1,6
-2020-05-06,Audrey Klopp Karla Christianson,1,7
-2020-05-06,Beth Calderon,1,8
-2020-05-06,Betty Metousis,1,9
-2020-05-06,Kirsten Bray,1,10
-2020-05-06,Leah Mcclellan,1,11
-2020-05-06,Lee Schmidt,1,12
-2020-05-06,Lisa Skemp Cindy Barwegen,1,13
-2020-05-06,Lise Hauser,1,14
-2020-05-06,Lorna Finnegan,1,15
-2020-05-06,Lorna Mayers,1,16
-2020-05-06,Lucia Torres Brendan Namoff,1,17
-2020-05-06,Margaret Polakow,1,18
-2020-05-06,Maritza Perez,1,19
-2020-05-06,Maureen Salihar,1,20
-2020-05-06,Megan Bartolome,1,21
-2020-05-06,Meghan Donahue,1,22
-2020-05-06,Mei Luna,1,23
-2020-05-06,Michelle Kmeic,1,24
-2020-05-06,Michelle Kmiec,1,25
-2020-05-06,Milda Sawicki,1,26
-2020-05-06,Mona Dabbouseh,1,27
-2020-05-06,Monique Ridosh,1,28
-2020-05-06,Monique Ridosh Debby Crowley,1,29
-2020-05-06,Nicolas Krucken,1,30
-2020-05-06,Nicolas Kruckenberg,1,31
-2020-05-06,Nicolas Kruckenberg Lorna Finnegan,1,32
-2020-05-06,Nicole Beebe,1,33
-2020-05-06,Nicole Beebe Nicole Beebe,1,34
-2020-05-06,Patricia Meade,1,35
-2020-05-06,Peter Vlasses,1,36
-2020-05-06,Rebecca Puzas,1,37
-2020-05-06,Robert Solari,1,38
-2020-05-06,Saundra Sobczak,1,39
-2020-05-06,Saundra Sobczak Doris Carroll,1,40
-2020-05-06,Sharon Cichon,1,41
-2020-05-06,Sharon Cichon Sara,1,42
-2020-05-06,Sharon Sullivan,1,43
-2020-05-06,Stacy Nelson,1,44
-2020-05-06,Stephanie Melone,1,45
-2020-05-06,Susan Buechele,1,46
-2020-05-06,Susan Buechele Alexander Barrido,1,47
-2020-05-06,Tiffany Wiksten,1,48
-2020-05-06,Tyrone Landingham Michael Mcgee,1,49
-2020-05-06,Vicki Bacidore,1,50
+2020-05-06,Aly Rifkin,1,1
+2020-05-06,Amanda Peacock,1,2
+2020-05-06,Amy Tapscott,1,3
+2020-05-06,Audrey Klopp Karla Christianson,1,4
+2020-05-06,Beth Calderon,1,5
+2020-05-06,Betty Metousis,1,6
+2020-05-06,Brandon Barrios,1,7
+2020-05-06,Brandon Barrios Aneta,1,8
+2020-05-06,Colleen Rafferty,1,9
+2020-05-06,Diana Salihar,1,10
+2020-05-06,Erin Passmore,1,11
+2020-05-06,Gazalla Mistry,1,12
+2020-05-06,Harriet Hawkins,1,13
+2020-05-06,Jackie Weber,1,14
+2020-05-06,Jean Kirk,1,15
+2020-05-06,Jenny Ocampo,1,16
+2020-05-06,John Pucker,1,17
+2020-05-06,Joliet Patricia Meade,1,18
+2020-05-06,Jose Mendoza,1,19
+2020-05-06,Karena Brown,1,20
+2020-05-06,Kate Foster,1,21
+2020-05-06,Katie Vogler,1,22
+2020-05-06,Katie Vogler Katie Vogler,1,23
+2020-05-06,Leah Mcclellan,1,24
+2020-05-06,Lee Schmidt,1,25
+2020-05-06,Linda Roberts,1,26
+2020-05-06,Lisa Skemp,1,27
+2020-05-06,Lisa Skemp Cindy Barwegen,1,28
+2020-05-06,Lise Hauser,1,29
+2020-05-06,Lorna Mayers,1,30
+2020-05-06,Lucia Torres,1,31
+2020-05-06,Lucia Torres Brendan Namoff,1,32
+2020-05-06,Maritza Perez,1,33
+2020-05-06,Maureen Salihar,1,34
+2020-05-06,Megan Bartolome,1,35
+2020-05-06,Michelle Kmeic,1,36
+2020-05-06,Monique Ridosh,1,37
+2020-05-06,Monique Ridosh Debby Crowley,1,38
+2020-05-06,Nicole Beebe,1,39
+2020-05-06,Nicole Beebe Nicole Beebe,1,40
+2020-05-06,Patricia Meade,1,41
+2020-05-06,Peter Vlasses,1,42
+2020-05-06,Saundra Sobczak,1,43
+2020-05-06,Saundra Sobczak Doris Carroll,1,44
+2020-05-06,Sharon Cichon,1,45
+2020-05-06,Sharon Sullivan,1,46
+2020-05-06,Stacy Nelson,1,47
+2020-05-06,Susan Buechele,1,48
+2020-05-06,Tyrone Landingham,1,49
+2020-05-06,Tyrone Landingham Michael Mcgee,1,50
 2020-05-11,Alyssa Martina,1,1
 2020-05-11,Billy Strawter Jr,1,2
 2020-05-11,Jack Franks,1,3
@@ -454,6 +454,14 @@ date,person,count,rn
 2020-05-19,Kim Dowd,2,2
 2020-05-19,Patricia Stoll,2,3
 2020-05-19,Richmond Brathaus,2,4
+2020-05-21,Angela Morabito,1,1
+2020-05-21,Brandon Wright,1,2
+2020-05-21,Cassie Clark,1,3
+2020-05-21,Darcy Kriha,1,4
+2020-05-21,Emily Bolton,1,5
+2020-05-21,Laura Myers,1,6
+2020-05-21,Mark Strawn,1,7
+2020-05-21,Olga Pribyl,1,8
 2020-05-22,Charlie Eck,1,1
 2020-05-22,Chris Sweda,1,2
 2020-05-22,Erik Sheldon,1,3

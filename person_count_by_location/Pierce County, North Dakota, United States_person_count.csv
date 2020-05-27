@@ -1219,11 +1219,11 @@ date,person,count,rn
 2020-04-06,Edward Jones,1,23
 2020-04-06,El Paso,1,24
 2020-04-06,Elena Schneiderreported,1,25
-2020-04-06,Ernie Stevens,1,26
-2020-04-06,Faiz Shakir,1,27
-2020-04-06,Genevieve Giaccardo,1,28
-2020-04-06,Hall Camden,1,29
-2020-04-06,Hill Rafael Bernal,1,30
+2020-04-06,Eric Heisig,1,26
+2020-04-06,Ernie Stevens,1,27
+2020-04-06,Faiz Shakir,1,28
+2020-04-06,Genevieve Giaccardo,1,29
+2020-04-06,Hall Camden,1,30
 2020-04-06,Holly Otterbein,1,31
 2020-04-06,James Arkin,1,32
 2020-04-06,Jeff Bezos,1,33
@@ -1485,51 +1485,51 @@ date,person,count,rn
 2020-04-17,Sean Murphy,1,18
 2020-04-18,Al Bartell,1,4
 2020-04-18,Allen Buckley,1,5
-2020-04-18,Andy Spivey,1,6
-2020-04-18,Annette Jackson,1,7
-2020-04-18,Barbara Seidman,1,8
-2020-04-18,Brad Raffensperger,1,9
-2020-04-18,Brian Kemp,1,10
-2020-04-18,Buddy Carter,1,11
-2020-04-18,Carla Mcmillian,1,12
-2020-04-18,Christian Coomer,1,13
-2020-04-18,Daniel Blackman,1,14
-2020-04-18,Danny Merritt,1,15
-2020-04-18,Darioush Nasseri,1,16
-2020-04-18,David Perdue,1,17
-2020-04-18,David Todd Markle,1,18
-2020-04-18,Deborah Jackson,1,19
-2020-04-18,Donald Trump,1,20
-2020-04-18,Doug Collins,1,21
-2020-04-18,Ed Tarver,1,22
-2020-04-18,Elizabeth Beth Beskin,1,23
-2020-04-18,Fatameh Nasseri,1,24
-2020-04-18,Glenda Dowling,1,25
-2020-04-18,Greg Stone,1,26
-2020-04-18,Hacklebarney Cason,1,27
-2020-04-18,Hal Moroz,1,28
-2020-04-18,Harold Rozier Jr,1,29
-2020-04-18,Jack Saussy,1,30
-2020-04-18,James Knox,1,31
-2020-04-18,Jamesia James,1,32
-2020-04-18,Jason Shaw,1,33
-2020-04-18,Joe Biden,1,34
-2020-04-18,Joe Lieberman,1,35
-2020-04-18,John Noel,1,36
-2020-04-18,John Ossoff,1,37
-2020-04-18,Johnny Isakson,1,38
-2020-04-18,Johns Blackshear,1,39
-2020-04-18,Johns Hopkins,1,40
-2020-04-18,Joyce Marie Griggs,1,41
-2020-04-18,Justice Charlie Bethel,1,42
-2020-04-18,Justice Sarah Hawkins Warren,1,43
-2020-04-18,Kandiss Taylor,1,44
-2020-04-18,Kelly Loeffler,1,45
-2020-04-18,Ken Yasger,1,46
-2020-04-18,Kirby Malone,1,47
-2020-04-18,Kurosh Nasseri,1,48
-2020-04-18,Lauren Bubba Mcdonald,1,49
-2020-04-18,Leah Ritch,1,50
+2020-04-18,Annette Jackson,1,6
+2020-04-18,Barbara Seidman,1,7
+2020-04-18,Brad Raffensperger,1,8
+2020-04-18,Brian Kemp,1,9
+2020-04-18,Buddy Carter,1,10
+2020-04-18,Carla Mcmillian,1,11
+2020-04-18,Christian Coomer,1,12
+2020-04-18,Daniel Blackman,1,13
+2020-04-18,Danny Merritt,1,14
+2020-04-18,Darioush Nasseri,1,15
+2020-04-18,David Todd Markle,1,16
+2020-04-18,Donald Trump,1,17
+2020-04-18,Doug Collins,1,18
+2020-04-18,Ed Tarver,1,19
+2020-04-18,Elizabeth Beth Beskin,1,20
+2020-04-18,Fatameh Nasseri,1,21
+2020-04-18,Glenda Dowling,1,22
+2020-04-18,Greg Stone,1,23
+2020-04-18,Jack Saussy,1,24
+2020-04-18,James Knox,1,25
+2020-04-18,Jamesia James,1,26
+2020-04-18,Jason Shaw,1,27
+2020-04-18,Joe Biden,1,28
+2020-04-18,Joe Lieberman,1,29
+2020-04-18,John Noel,1,30
+2020-04-18,John Ossoff,1,31
+2020-04-18,Johnny Isakson,1,32
+2020-04-18,Johns Blackshear,1,33
+2020-04-18,Johns Hopkins,1,34
+2020-04-18,Justice Charlie Bethel,1,35
+2020-04-18,Justice Sarah Hawkins Warren,1,36
+2020-04-18,Kandiss Taylor,1,37
+2020-04-18,Kurosh Nasseri,1,38
+2020-04-18,Lauren Bubba Mcdonald,1,39
+2020-04-18,Mandy Alvey Smith,1,40
+2020-04-18,Marckeith Dejesus,1,41
+2020-04-18,Maya Dillard Smith,1,42
+2020-04-18,Nina Shafazand,1,43
+2020-04-18,Randy Dixon,1,44
+2020-04-18,Richard Dien Winfield,1,45
+2020-04-18,Robby Boatright,1,46
+2020-04-18,Sarah Riggs Amico,1,47
+2020-04-18,Shane Hazel,1,48
+2020-04-18,Steve Whitehead,1,49
+2020-04-18,Tamara Johnson Shealey,1,50
 2020-04-18,Austin Chinault,2,1
 2020-04-18,Kate Hoffman,2,2
 2020-04-18,Mark Stryjak,2,3
@@ -2220,7 +2220,28 @@ date,person,count,rn
 2020-05-20,Scott Morrison,1,4
 2020-05-20,Tim Walz,1,5
 2020-05-20,Todd Lippert,1,6
-2020-05-21,Tim Robinson,2,1
+2020-05-21,Brad Little,1,3
+2020-05-21,David Nelson,1,4
+2020-05-21,Denise Juneau,1,5
+2020-05-21,Donald Trump,1,6
+2020-05-21,Dustin Hurst,1,7
+2020-05-21,Greg Chaney,1,8
+2020-05-21,Heather Scott,1,9
+2020-05-21,Janice Mcgeachin,1,10
+2020-05-21,Jason Dees,1,11
+2020-05-21,Mahlon Meyer,1,12
+2020-05-21,Marcus Riccelli,1,13
+2020-05-21,Mark Ford,1,14
+2020-05-21,Mia Tuan,1,15
+2020-05-21,Ozzie Knezovich,1,16
+2020-05-21,Ron Desantis,1,17
+2020-05-21,Shouan Pan,1,18
+2020-05-21,Tess Schoonhoven,1,19
+2020-05-21,Tim Eyman,1,20
+2020-05-21,Travis Smalley,1,21
+2020-05-21,Young Kwak,1,22
+2020-05-21,Jay Inslee,2,1
+2020-05-21,Tim Robinson,2,2
 2020-05-22,Allen Godfrey,1,1
 2020-05-22,Anthony Fisher,1,2
 2020-05-22,Cox Bazar,1,3
@@ -2295,3 +2316,34 @@ date,person,count,rn
 2020-05-25,Sergio Rodriguez,3,13
 2020-05-25,Sonja Johnson,3,14
 2020-05-25,Tony Thompson,3,15
+2020-05-26,Angie Waiss,1,17
+2020-05-26,Bruce Dammeier,1,18
+2020-05-26,Elaine Thompson,1,19
+2020-05-26,Everett Herald,1,20
+2020-05-26,Jay Inslee,1,21
+2020-05-26,Josh Freed,1,22
+2020-05-26,Ken Farmer,1,23
+2020-05-26,Larry Seaquist,1,24
+2020-05-26,Lisa Brandenburg,1,25
+2020-05-26,Michael Conroy,1,26
+2020-05-26,Rachelle Johnson,1,27
+2020-05-26,Ramsey Bennett,1,28
+2020-05-26,Ranger Gary Simmons,1,29
+2020-05-26,Robby Boatright,1,30
+2020-05-26,Walter Reed,1,31
+2020-05-26,Adam Roise,2,1
+2020-05-26,Black Hawk,2,2
+2020-05-26,Cameron Bruett,2,3
+2020-05-26,Debbie Berkowitz,2,4
+2020-05-26,Hector Gonzalez,2,5
+2020-05-26,Julie Tate,2,6
+2020-05-26,Keira Lombardo,2,7
+2020-05-26,Kenneth Sullivan,2,8
+2020-05-26,Kim Cordova,2,9
+2020-05-26,Kim Reynolds,2,10
+2020-05-26,Mike Pence,2,11
+2020-05-26,Nikki Richardson,2,12
+2020-05-26,Quentin Hart,2,13
+2020-05-26,Sergio Rodriguez,2,14
+2020-05-26,Sonja Johnson,2,15
+2020-05-26,Tony Thompson,2,16

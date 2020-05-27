@@ -4606,21 +4606,56 @@ date,organization,count,rn
 2020-05-20,Nan,2,2
 2020-05-20,Pennsylvania Association Of Realtors,2,3
 2020-05-20,Department Of Health,3,1
-2020-05-21,Department Of Biotechnology,1,2
-2020-05-21,Disabilities Association Of America,1,3
-2020-05-21,Indiana Department,1,4
-2020-05-21,Jefferson Department,1,5
-2020-05-21,Jefferson Vaccine Institute,1,6
-2020-05-21,Jersey Department Of Education,1,7
-2020-05-21,National Center,1,8
-2020-05-21,National Institutes Of Health,1,9
-2020-05-21,Oregon Department Of Education,1,10
-2020-05-21,Parent Advocacy Network,1,11
-2020-05-21,Pew Research Center,1,12
-2020-05-21,Thomas Jefferson University,1,13
-2020-05-21,Timberline High School In Lacey,1,14
-2020-05-21,Twitter,1,15
-2020-05-21,United States,2,1
+2020-05-21,African American History Museum,2,43
+2020-05-21,American Association Of Suicidology,2,44
+2020-05-21,American Foundation For Suicide Prevention,2,45
+2020-05-21,Baltimore Office Of Promotion The Arts,2,46
+2020-05-21,Baltimore Sun,2,47
+2020-05-21,Comcast,2,48
+2020-05-21,Commerce Department,2,49
+2020-05-21,Convention Center,2,50
+2020-05-21,Associated Press,3,22
+2020-05-21,Building Industry Association Of Philadelphia,3,23
+2020-05-21,Disabilities Association Of America,3,24
+2020-05-21,Hospital Of The University Of Pennsylvania,3,25
+2020-05-21,Indiana Department,3,26
+2020-05-21,Instagram,3,27
+2020-05-21,Jefferson Department Of Microbiology,3,28
+2020-05-21,Jersey Department Of Education,3,29
+2020-05-21,National Center,3,30
+2020-05-21,Netflix,3,31
+2020-05-21,Office Of Property Assessments,3,32
+2020-05-21,Office Of Workforce Development,3,33
+2020-05-21,Oregon Department Of Education,3,34
+2020-05-21,Parent Advocacy Network,3,35
+2020-05-21,Pennsylvania Health,3,36
+2020-05-21,Pew Research Center,3,37
+2020-05-21,Senate Majority Leader Mitch Mcconnell,3,38
+2020-05-21,Timberline High School In Lacey,3,39
+2020-05-21,Veterans Affairs,3,40
+2020-05-21,Wistar Institute,3,41
+2020-05-21,Young,3,42
+2020-05-21,Cultural Fund,4,9
+2020-05-21,Department Of Biotechnology,4,10
+2020-05-21,Drug Administration,4,11
+2020-05-21,Drug Administration On,4,12
+2020-05-21,Facebook,4,13
+2020-05-21,Jefferson Vaccine Institute,4,14
+2020-05-21,National Institute Of Allergy,4,15
+2020-05-21,Office Of Arts,4,16
+2020-05-21,Pennsylvania Department Of Health On,4,17
+2020-05-21,Providence Center,4,18
+2020-05-21,Semilla Arts Initiative,4,19
+2020-05-21,Theatre Company,4,20
+2020-05-21,Youth Artist Program,4,21
+2020-05-21,Center City,5,6
+2020-05-21,Department Of Health,5,7
+2020-05-21,White House,5,8
+2020-05-21,Centers For Disease,6,4
+2020-05-21,City Council,6,5
+2020-05-21,National Institutes Of Health,7,2
+2020-05-21,Twitter,7,3
+2020-05-21,United States,22,1
 2020-05-22,Cnn,3,44
 2020-05-22,Common Pleas Court,3,45
 2020-05-22,Costco,3,46
@@ -4821,3 +4856,53 @@ date,organization,count,rn
 2020-05-25,Centers For Disease,7,3
 2020-05-25,White House,8,2
 2020-05-25,United States,11,1
+2020-05-26,America Health Insurance Plans,2,32
+2020-05-26,American Dental Association,2,33
+2020-05-26,American Legion,2,34
+2020-05-26,Army In World War,2,35
+2020-05-26,Arthur Caplan At New York University,2,36
+2020-05-26,Boeing,2,37
+2020-05-26,Business Entrepreneurship At Brooklyn Law School,2,38
+2020-05-26,Cabinet Office,2,39
+2020-05-26,Colorado State University,2,40
+2020-05-26,Democrat National Convention,2,41
+2020-05-26,Drug Administration,2,42
+2020-05-26,Education Committee,2,43
+2020-05-26,Emory University,2,44
+2020-05-26,Fair Housing Commission,2,45
+2020-05-26,Fannie Mae,2,46
+2020-05-26,Fordham University,2,47
+2020-05-26,Fort Mchenry National Monument,2,48
+2020-05-26,Genuine School Reform,2,49
+2020-05-26,Glaxosmithkline,2,50
+2020-05-26,Center City,3,22
+2020-05-26,Community College Of Philadelphia,3,23
+2020-05-26,Convention Center,3,24
+2020-05-26,Department Of Health,3,25
+2020-05-26,Pennsylvania Health,3,26
+2020-05-26,Southwest Airlines,3,27
+2020-05-26,Tribune Content Agency,3,28
+2020-05-26,University Of California,3,29
+2020-05-26,University Of California At San Diego,3,30
+2020-05-26,University Of Washington,3,31
+2020-05-26,Instagram,4,20
+2020-05-26,Youtube,4,21
+2020-05-26,Pennsylvania Department Of Health,5,19
+2020-05-26,Arlington National Cemetery,6,11
+2020-05-26,Brown University,6,12
+2020-05-26,Centers For Disease,6,13
+2020-05-26,Cigna Corp,6,14
+2020-05-26,Dana-Farber Cancer Institute,6,15
+2020-05-26,Jefferson Health,6,16
+2020-05-26,Memorial Sloan Kettering Cancer Center,6,17
+2020-05-26,Presbyterian Weill Cornell Medical Center,6,18
+2020-05-26,Associated Press,7,7
+2020-05-26,Facebook,7,8
+2020-05-26,Nan,7,9
+2020-05-26,University Of Iowa,7,10
+2020-05-26,George Mason University In Fairfax,8,5
+2020-05-26,National Institute For Occupational Safety,8,6
+2020-05-26,New York Times,9,2
+2020-05-26,Twitter,9,3
+2020-05-26,White House,9,4
+2020-05-26,United States,10,1

@@ -4050,26 +4050,56 @@ date,organization,count,rn
 2020-05-20,Centers For Disease,3,2
 2020-05-20,Ford Motor Co,3,3
 2020-05-20,White House,4,1
-2020-05-21,Centers For Disease,1,17
-2020-05-21,Johns Hopkins University,1,18
-2020-05-21,Public Affairs Research,1,19
-2020-05-21,University Of Notre Dame,1,20
-2020-05-21,Associated Press,3,16
-2020-05-21,Circuit Court,4,15
-2020-05-21,Defense Ministry,6,2
-2020-05-21,Employment Security Department,6,3
-2020-05-21,European Union,6,4
-2020-05-21,Facebook,6,5
-2020-05-21,International Monetary,6,6
-2020-05-21,Parliament On,6,7
-2020-05-21,Popular Party,6,8
-2020-05-21,Public Health,6,9
-2020-05-21,Spain Supreme Court,6,10
-2020-05-21,Spanish Health,6,11
-2020-05-21,United States,6,12
-2020-05-21,World Bank,6,13
-2020-05-21,World Health Organization,6,14
-2020-05-21,Lear Corp,8,1
+2020-05-21,American Health Care Association National Center,2,39
+2020-05-21,Boyce Hydro Power,2,40
+2020-05-21,Coronavirus Relief Fund,2,41
+2020-05-21,Dana Inc,2,42
+2020-05-21,Department Of Licensing,2,43
+2020-05-21,Dow Chemical,2,44
+2020-05-21,Duchenne Family Assistance Program,2,45
+2020-05-21,Energy Regulatory Commission,2,46
+2020-05-21,Ford Motor Company Rawsonville,2,47
+2020-05-21,Gleaners Community Food Bank,2,48
+2020-05-21,Health Alliance Plan In Detroit,2,49
+2020-05-21,Health Insurance,2,50
+2020-05-21,Committee To Protect Medicare,3,29
+2020-05-21,Congressional District Democratic Party Organization,3,30
+2020-05-21,Free Press You,3,31
+2020-05-21,Ge Healthcare,3,32
+2020-05-21,Kroger,3,33
+2020-05-21,Michigan Army National Guard,3,34
+2020-05-21,Minor Inc,3,35
+2020-05-21,Thomson Reuters Trust Principles,3,36
+2020-05-21,University Of Michigan,3,37
+2020-05-21,Ypsilanti Township In Congress,3,38
+2020-05-21,Circuit Court,4,22
+2020-05-21,Cnn,4,23
+2020-05-21,Ford Motor Company,4,24
+2020-05-21,Honeywell,4,25
+2020-05-21,Nan,4,26
+2020-05-21,Public Affairs Research,4,27
+2020-05-21,University Of Notre Dame,4,28
+2020-05-21,Johns Hopkins University,5,20
+2020-05-21,Reuters,5,21
+2020-05-21,Defense Ministry,6,9
+2020-05-21,Employment Security Department,6,10
+2020-05-21,European Union,6,11
+2020-05-21,International Monetary,6,12
+2020-05-21,Parliament On,6,13
+2020-05-21,Popular Party,6,14
+2020-05-21,Public Health,6,15
+2020-05-21,Spain Supreme Court,6,16
+2020-05-21,Spanish Health,6,17
+2020-05-21,World Bank,6,18
+2020-05-21,World Health Organization,6,19
+2020-05-21,Twitter,7,8
+2020-05-21,Facebook,8,6
+2020-05-21,Lear Corp,8,7
+2020-05-21,Associated Press,9,4
+2020-05-21,Centers For Disease,9,5
+2020-05-21,Ford Motor Co,13,3
+2020-05-21,United States,22,2
+2020-05-21,White House,24,1
 2020-05-22,Brennan Center,2,37
 2020-05-22,Capital Partners,2,38
 2020-05-22,Chinese Communist Party,2,39
@@ -4264,3 +4294,53 @@ date,organization,count,rn
 2020-05-25,Facebook,5,2
 2020-05-25,Twitter,5,3
 2020-05-25,United States,7,1
+2020-05-26,Aetna Better Health Of Michigan,1,16
+2020-05-26,California State University,1,17
+2020-05-26,Coronavirus Food Assistance Program,1,18
+2020-05-26,Creighton University,1,19
+2020-05-26,Deloitte,1,20
+2020-05-26,Department Of Public Health,1,21
+2020-05-26,Des Moines Press Register,1,22
+2020-05-26,Detroit Free Press Christina Hayes,1,23
+2020-05-26,Detroit Free Press Kelly Garrett,1,24
+2020-05-26,Detroit Police Department,1,25
+2020-05-26,Farm Service Agency,1,26
+2020-05-26,Food Safety Division,1,27
+2020-05-26,Ford Motor,1,28
+2020-05-26,Gretchen Whitmer Michigan Office Of The Governor,1,29
+2020-05-26,Hamilton Community Health Network North Pointe,1,30
+2020-05-26,Health Department,1,31
+2020-05-26,House Committee On Transportation,1,32
+2020-05-26,Human Services,1,33
+2020-05-26,International Longshoremen Association,1,34
+2020-05-26,John Muir Medical Center,1,35
+2020-05-26,Mach-E Forum,1,36
+2020-05-26,Maritime Commission,1,37
+2020-05-26,Michigan Court,1,38
+2020-05-26,Michigan Department Of Corrections,1,39
+2020-05-26,Michigan Department Of Corrections Is Temujin Kensu,1,40
+2020-05-26,Michigan Economic Development Corporation,1,41
+2020-05-26,Michigan Tourism Council,1,42
+2020-05-26,Nan,1,43
+2020-05-26,National Guard,1,44
+2020-05-26,New York Post,1,45
+2020-05-26,Ohio Department Of Agriculture,1,46
+2020-05-26,Republican Senate Majority Leader Mitch Mcconnell,1,47
+2020-05-26,Senate Committee On Commerce,1,48
+2020-05-26,Space Museum,1,49
+2020-05-26,Spacex,1,50
+2020-05-26,Bureau Of Prisons,2,7
+2020-05-26,Centers For Disease,2,8
+2020-05-26,Department Of Health,2,9
+2020-05-26,Ebony Foundation,2,10
+2020-05-26,Economic Policy Institute,2,11
+2020-05-26,Ford Motor Co,2,12
+2020-05-26,Pontiac,2,13
+2020-05-26,Wayne State University,2,14
+2020-05-26,White House,2,15
+2020-05-26,Associated Press,3,5
+2020-05-26,Michigan Legislature,3,6
+2020-05-26,University Of Michigan,4,4
+2020-05-26,United States,5,3
+2020-05-26,Northshore Dock,6,2
+2020-05-26,Facebook,8,1

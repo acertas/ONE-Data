@@ -1,9 +1,9 @@
 date,person,count,rn
-2020-02-03,Amy Klobuchar,2,46
-2020-02-03,Andrew Yang,2,47
-2020-02-03,Barack Obama,2,48
-2020-02-03,Ben Margot,2,49
-2020-02-03,Bernie Sanders,2,50
+2020-02-03,Andrew Yang,2,46
+2020-02-03,Ben Margot,2,47
+2020-02-03,Dana Sanchez,2,48
+2020-02-03,David Mcnew Getty,2,49
+2020-02-03,Deidre Dejear,2,50
 2020-02-03,Atlanta Hartsfield-Jackson,3,39
 2020-02-03,David Pekoske,3,40
 2020-02-03,Jonathan Levin,3,41
@@ -19,9 +19,9 @@ date,person,count,rn
 2020-02-03,Richard Bravo,6,34
 2020-02-03,Stella Kyriakides,6,35
 2020-02-03,Steven Yang,6,36
-2020-02-03,Sam Perez,8,30
-2020-02-03,Alex Azar,9,28
-2020-02-03,Sara Cody,9,29
+2020-02-03,Alex Azar,7,30
+2020-02-03,Sam Perez,8,29
+2020-02-03,Sara Cody,9,28
 2020-02-03,Hong Kong-Zhuhai,11,27
 2020-02-03,Abeer Abu Omar,12,11
 2020-02-03,Adveith Nair,12,12
@@ -1479,6 +1479,14 @@ date,person,count,rn
 2020-05-18,Las Vegas,2,6
 2020-05-20,David Canepa,2,1
 2020-05-20,Donald Trump,2,2
+2020-05-21,Carlos Hernandez,1,1
+2020-05-21,Christopher Kostow,1,2
+2020-05-21,Eric Keffer,1,3
+2020-05-21,Jennings Staley,1,4
+2020-05-21,Lydia Damian,1,5
+2020-05-21,Maria Aguiniga,1,6
+2020-05-21,Patrick Griffin,1,7
+2020-05-21,Terry Letson,1,8
 2020-05-22,Jacob Greenberg,1,1
 2020-05-22,Jennings Staley,1,2
 2020-05-22,Leonardo Cortez,1,3

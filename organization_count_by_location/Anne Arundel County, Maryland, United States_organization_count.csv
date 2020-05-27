@@ -4548,16 +4548,56 @@ date,organization,count,rn
 2020-05-20,Many Of The South River High School,3,3
 2020-05-20,River High School Class,3,4
 2020-05-20,Associated Press,5,1
-2020-05-21,Associated Press,1,2
-2020-05-21,Emergency Management Agency,1,3
-2020-05-21,Facebook,1,4
-2020-05-21,Nan,1,5
-2020-05-21,National Guard,1,6
-2020-05-21,United States,1,7
-2020-05-21,University Of Regina,1,8
-2020-05-21,White House,1,9
-2020-05-21,Wilson Center,1,10
-2020-05-21,National Conference Of State Legislatures,3,1
+2020-05-21,Chili,4,39
+2020-05-21,Johns Hopkins University,4,40
+2020-05-21,Kushner Companies,4,41
+2020-05-21,Maines Paper Food Service Inc,4,42
+2020-05-21,Maryland Department Of Health,4,43
+2020-05-21,Maryland Thermoform Corporation,4,44
+2020-05-21,National Center,4,45
+2020-05-21,National Employment Law,4,46
+2020-05-21,National Multifamily Housing Council,4,47
+2020-05-21,Netflix,4,48
+2020-05-21,Research On The Wisconsin Economy,4,49
+2020-05-21,Senate Majority Leader Mitch Mcconnell,4,50
+2020-05-21,American Health Care Association,5,30
+2020-05-21,Centers For Medicare,5,31
+2020-05-21,City Council,5,32
+2020-05-21,Healthcare Center,5,33
+2020-05-21,Jewish Social Service Agency,5,34
+2020-05-21,Maryland Board Of Health,5,35
+2020-05-21,Medicaid Services,5,36
+2020-05-21,Rehabilitation Center,5,37
+2020-05-21,Walmart,5,38
+2020-05-21,Coalition Unleash Power,6,20
+2020-05-21,Consumer Financial Protection Bureau Kathy Kraninger,6,21
+2020-05-21,European Commission,6,22
+2020-05-21,Labor Department,6,23
+2020-05-21,Nan,6,24
+2020-05-21,National Association Of Realtors,6,25
+2020-05-21,National Institutes Of Health,6,26
+2020-05-21,New York Times,6,27
+2020-05-21,Senate Minority Leader Charles Schumer,6,28
+2020-05-21,Wells Fargo,6,29
+2020-05-21,Health Security,7,16
+2020-05-21,Johns Hopkins Center,7,17
+2020-05-21,Maryland Senate,7,18
+2020-05-21,Wilson Center,7,19
+2020-05-21,Associated Press,8,11
+2020-05-21,Cnn,8,12
+2020-05-21,Democrats In Congress,8,13
+2020-05-21,Justice Department,8,14
+2020-05-21,National Guard,8,15
+2020-05-21,Facebook,10,10
+2020-05-21,Paycheck Protection Program,11,7
+2020-05-21,Twitter,11,8
+2020-05-21,White House,11,9
+2020-05-21,Maryland Department,13,5
+2020-05-21,Maryland Emergency Management Agency,13,6
+2020-05-21,Fort Mchenry National Monument,14,3
+2020-05-21,Young,14,4
+2020-05-21,Centers For Disease,20,2
+2020-05-21,United States,29,1
 2020-05-22,A Justice Department,2,37
 2020-05-22,A University Of Chicago Divinity,2,38
 2020-05-22,American Civil Liberties Union,2,39
@@ -4718,14 +4758,11 @@ date,organization,count,rn
 2020-05-25,Emory University,1,48
 2020-05-25,Episcopal High School In Robertsport,1,49
 2020-05-25,Florida State University,1,50
-2020-05-25,Bureau Of Consular Affairs,2,17
-2020-05-25,Bureau Of Medical Services,2,18
-2020-05-25,Burger King,2,19
-2020-05-25,Circuit Court,2,20
-2020-05-25,Cora Kelly School,2,21
-2020-05-25,Coronavirus At Group Living Facilities,2,22
-2020-05-25,Courtesy Of Maryland Department Of Health,2,23
-2020-05-25,Department William Walters,2,24
+2020-05-25,Burger King,2,20
+2020-05-25,Circuit Court,2,21
+2020-05-25,Cora Kelly School,2,22
+2020-05-25,Coronavirus At Group Living Facilities,2,23
+2020-05-25,Courtesy Of Maryland Department Of Health,2,24
 2020-05-25,Google,2,25
 2020-05-25,Imperial College,2,26
 2020-05-25,Imperial College London,2,27
@@ -4742,19 +4779,72 @@ date,organization,count,rn
 2020-05-25,University Of Baltimore,2,38
 2020-05-25,Walmart,2,39
 2020-05-25,Washington Post,2,40
-2020-05-25,Arlington National Cemetery On,3,14
-2020-05-25,Associated Press,3,15
-2020-05-25,National Guard,3,16
-2020-05-25,Baltimore National Cemetery,4,10
-2020-05-25,City Council,4,11
-2020-05-25,Cnn,4,12
-2020-05-25,National Park Service,4,13
+2020-05-25,Arlington National Cemetery On,3,15
+2020-05-25,Bureau Of Consular Affairs,3,16
+2020-05-25,Bureau Of Medical Services,3,17
+2020-05-25,Department William Walters,3,18
+2020-05-25,National Guard,3,19
+2020-05-25,Associated Press,4,10
+2020-05-25,Baltimore National Cemetery,4,11
+2020-05-25,City Council,4,12
+2020-05-25,Cnn,4,13
+2020-05-25,National Park Service,4,14
 2020-05-25,Twitter,5,9
-2020-05-25,Fort Mchenry National Monument,6,6
-2020-05-25,Johns Hopkins University,6,7
 2020-05-25,Veterans Affairs,6,8
-2020-05-25,Young,7,5
+2020-05-25,Fort Mchenry National Monument,7,5
+2020-05-25,Johns Hopkins University,7,6
+2020-05-25,Young,7,7
 2020-05-25,Centers For Disease,8,4
-2020-05-25,Arlington National Cemetery,11,3
-2020-05-25,United States,16,1
-2020-05-25,White House,16,2
+2020-05-25,Arlington National Cemetery,14,3
+2020-05-25,United States,16,2
+2020-05-25,White House,17,1
+2020-05-26,Andrews Air Force,2,42
+2020-05-26,Bureau Of Revenue,2,43
+2020-05-26,Civic Center,2,44
+2020-05-26,Civic Center Board Of Directors On,2,45
+2020-05-26,Department Of Health,2,46
+2020-05-26,Department Of Labor,2,47
+2020-05-26,Drug Administration,2,48
+2020-05-26,Drug Administration On,2,49
+2020-05-26,Dulles International Airport,2,50
+2020-05-26,Fort Mchenry National Monument,3,31
+2020-05-26,Gonzales Research Media Services,3,32
+2020-05-26,Government Affairs,3,33
+2020-05-26,Housing Association,3,34
+2020-05-26,Maryland National Guard,3,35
+2020-05-26,Mission Control Center At Johnson Space Center,3,36
+2020-05-26,Mission Specialists Rex Walheim,3,37
+2020-05-26,National Guard,3,38
+2020-05-26,Revenue Reserve Fund,3,39
+2020-05-26,Twitter Johnson Space Center,3,40
+2020-05-26,Us Company Novavax Trials Coronavirus Vaccine,3,41
+2020-05-26,Family Dollar,4,21
+2020-05-26,Health Security,4,22
+2020-05-26,Johns Hopkins Center,4,23
+2020-05-26,Louis County Public Health Department,4,24
+2020-05-26,Missouri Health Officials Call For Self,4,25
+2020-05-26,Recreation Center,4,26
+2020-05-26,Senate Republicans,4,27
+2020-05-26,Teachers College,4,28
+2020-05-26,Tribune Content Agency,4,29
+2020-05-26,Virginia Association Of Chiefs Of Police,4,30
+2020-05-26,Associated Press,5,15
+2020-05-26,Facebook,5,16
+2020-05-26,Maryland Department Of Health,5,17
+2020-05-26,Nan,5,18
+2020-05-26,Virginia Department Of Health,5,19
+2020-05-26,World Health Organization,5,20
+2020-05-26,American Enterprise Institute,6,12
+2020-05-26,Summer Principals Academy,6,13
+2020-05-26,Teachers College At Columbia University,6,14
+2020-05-26,Arlington National Cemetery,7,5
+2020-05-26,Boeing,7,6
+2020-05-26,Crew Program,7,7
+2020-05-26,Kennedy Space Center,7,8
+2020-05-26,Spacex,7,9
+2020-05-26,Team Bob,7,10
+2020-05-26,U S Air,7,11
+2020-05-26,White House,10,4
+2020-05-26,Centers For Disease,12,3
+2020-05-26,Johns Hopkins University,15,2
+2020-05-26,United States,17,1
