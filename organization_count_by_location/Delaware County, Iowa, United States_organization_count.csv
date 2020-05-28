@@ -5749,23 +5749,23 @@ date,organization,count,rn
 2020-05-25,White House,70,3
 2020-05-25,United States,102,2
 2020-05-25,New York Times,129,1
-2020-05-26,Department Of Justice,18,47
-2020-05-26,Human Services,18,48
-2020-05-26,Senate Majority Leader Mitch Mcconnell,18,49
-2020-05-26,Stock Exchange,18,50
-2020-05-26,Delta Air Lines,19,43
-2020-05-26,New York Daily News,19,44
-2020-05-26,Qatar Airways,19,45
-2020-05-26,Traveler Program,19,46
-2020-05-26,Latam Airlines Group,21,42
-2020-05-26,Army In World War,23,37
-2020-05-26,Glory Days Of Television News,23,38
-2020-05-26,Instagram,23,39
-2020-05-26,Kennedy Space Center,23,40
-2020-05-26,Radio Television Digital News Association,23,41
+2020-05-26,Human Services,18,50
+2020-05-26,Delta Air Lines,19,44
+2020-05-26,Department Of Justice,19,45
+2020-05-26,New York Daily News,19,46
+2020-05-26,Qatar Airways,19,47
+2020-05-26,Stock Exchange,19,48
+2020-05-26,Traveler Program,19,49
+2020-05-26,Latam Airlines Group,21,43
+2020-05-26,Army In World War,23,38
+2020-05-26,Glory Days Of Television News,23,39
+2020-05-26,Instagram,23,40
+2020-05-26,Kennedy Space Center,23,41
+2020-05-26,Radio Television Digital News Association,23,42
 2020-05-26,Avianca Holdings,24,34
 2020-05-26,Franklin Templeton,24,35
-2020-05-26,Youtube,24,36
+2020-05-26,Intercontinental Exchange Inc,24,36
+2020-05-26,Youtube,24,37
 2020-05-26,Department Of Environmental Management,25,32
 2020-05-26,Health Emergencies Programme,25,33
 2020-05-26,Google,26,29
@@ -5773,29 +5773,79 @@ date,organization,count,rn
 2020-05-26,York Civil Liberties Union,26,31
 2020-05-26,Health Department,27,28
 2020-05-26,Justice Department,29,27
-2020-05-26,New York Post,31,25
 2020-05-26,United Press International,31,26
 2020-05-26,Columbia University Irving Medical Center,32,24
-2020-05-26,Department Of Health,33,22
+2020-05-26,New York Post,32,25
 2020-05-26,University Of Colorado,33,23
-2020-05-26,Feinstein Institutes For Medical Research In Manhasset,34,21
+2020-05-26,Department Of Health,34,21
+2020-05-26,Feinstein Institutes For Medical Research In Manhasset,34,22
 2020-05-26,Arlington National Cemetery,35,19
 2020-05-26,Janssen Pharmaceuticals,35,20
-2020-05-26,Thomson Reuters Trust Principles,37,18
 2020-05-26,Nan,41,17
-2020-05-26,Drug Administration,46,15
+2020-05-26,Thomson Reuters Trust Principles,41,18
 2020-05-26,National Institutes Of Health,46,16
-2020-05-26,Centers For Disease,55,14
+2020-05-26,Drug Administration,47,15
+2020-05-26,Centers For Disease,56,14
 2020-05-26,World Health Organization,60,13
-2020-05-26,Msnbc,70,12
-2020-05-26,Johns Hopkins University,82,10
-2020-05-26,New York Stock Exchange,82,11
-2020-05-26,Facebook,87,9
-2020-05-26,Reuters,88,8
-2020-05-26,York Stock Exchange,94,7
-2020-05-26,Cnn,114,6
+2020-05-26,Msnbc,71,12
+2020-05-26,Johns Hopkins University,82,11
+2020-05-26,New York Stock Exchange,86,10
+2020-05-26,Facebook,88,9
+2020-05-26,Reuters,95,8
+2020-05-26,York Stock Exchange,100,7
+2020-05-26,Cnn,115,6
 2020-05-26,Associated Press,125,5
-2020-05-26,Twitter,166,4
-2020-05-26,White House,186,3
-2020-05-26,New York Times,227,2
-2020-05-26,United States,300,1
+2020-05-26,Twitter,167,4
+2020-05-26,White House,187,3
+2020-05-26,New York Times,230,2
+2020-05-26,United States,309,1
+2020-05-27,British Columbia Supreme Court,28,46
+2020-05-27,Canada Border Services Agency,28,47
+2020-05-27,Chinese Embassy,28,48
+2020-05-27,Chinese Foreign Ministry,28,49
+2020-05-27,Foreign Ministry,28,50
+2020-05-27,Foreign Affairs,29,45
+2020-05-27,Supreme Court,30,44
+2020-05-27,Huawei,31,43
+2020-05-27,Instagram,32,41
+2020-05-27,Kennedy Space Center,32,42
+2020-05-27,Senate Majority Leader Mitch Mcconnell,33,40
+2020-05-27,New York Post,36,39
+2020-05-27,European Union,37,38
+2020-05-27,Army Of Lovers,38,37
+2020-05-27,Spacex,39,36
+2020-05-27,Federal Bureau Of Investigation,45,35
+2020-05-27,Bureau Of Investigation,46,34
+2020-05-27,Department Of Health,47,32
+2020-05-27,Youtube,47,33
+2020-05-27,World Health Organization,48,31
+2020-05-27,University Of Colorado,49,30
+2020-05-27,Columbia University Irving Medical Center,50,29
+2020-05-27,Johns Hopkins University,53,28
+2020-05-27,Franklin Templeton,54,25
+2020-05-27,Janssen Pharmaceuticals,54,26
+2020-05-27,Nan,54,27
+2020-05-27,American Foundation For Equal Rights,55,24
+2020-05-27,Burroughs-Wellcome Corp,58,23
+2020-05-27,National Institutes Of Health,60,22
+2020-05-27,Feinstein Institutes For Medical Research In Manhasset,61,21
+2020-05-27,Langone Medical Center,64,20
+2020-05-27,Coalition To Unleash Power,78,19
+2020-05-27,Justice Department,84,18
+2020-05-27,Academy Award,85,15
+2020-05-27,Gay Men Health Crisis,85,16
+2020-05-27,National Press Club,85,17
+2020-05-27,National Institute Of Allergy,86,14
+2020-05-27,Drug Administration,93,13
+2020-05-27,Reuters,98,12
+2020-05-27,New York Stock Exchange,102,11
+2020-05-27,York Stock Exchange,108,10
+2020-05-27,Centers For Disease,110,9
+2020-05-27,Msnbc,117,8
+2020-05-27,Cnn,188,7
+2020-05-27,Facebook,189,6
+2020-05-27,Associated Press,203,5
+2020-05-27,White House,262,4
+2020-05-27,Twitter,307,3
+2020-05-27,New York Times,351,2
+2020-05-27,United States,415,1

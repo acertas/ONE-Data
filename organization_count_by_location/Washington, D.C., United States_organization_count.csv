@@ -5755,14 +5755,14 @@ date,organization,count,rn
 2020-05-26,Federal Reserve,24,46
 2020-05-26,Instagram,24,47
 2020-05-26,Spacex,24,48
-2020-05-26,New York Stock Exchange,25,42
-2020-05-26,Paycheck Protection Program,25,43
+2020-05-26,New York Stock Exchange,25,43
 2020-05-26,Trump Administration,25,44
 2020-05-26,Oval Office,28,40
-2020-05-26,White House Coronavirus Task,28,41
+2020-05-26,Paycheck Protection Program,28,41
+2020-05-26,White House Coronavirus Task,28,42
 2020-05-26,York Stock Exchange,29,39
-2020-05-26,Fort Mchenry National Monument,31,37
-2020-05-26,Senate Republicans,31,38
+2020-05-26,Fort Mchenry National Monument,31,38
+2020-05-26,Senate Republicans,32,37
 2020-05-26,European Union,33,35
 2020-05-26,House Oversight Committee,33,36
 2020-05-26,Department Of Justice,35,32
@@ -5771,7 +5771,7 @@ date,organization,count,rn
 2020-05-26,Exchange Commission,36,29
 2020-05-26,News Directors Association,36,30
 2020-05-26,Senate Intelligence Committee,36,31
-2020-05-26,Supreme Court,41,28
+2020-05-26,Supreme Court,42,28
 2020-05-26,Army In World War,44,24
 2020-05-26,Fox Business Network,44,25
 2020-05-26,Glory Days Of Television News,44,26
@@ -5779,10 +5779,10 @@ date,organization,count,rn
 2020-05-26,Republican Party,45,23
 2020-05-26,Msnbc,46,22
 2020-05-26,Republican National Committee,47,21
-2020-05-26,Justice Department,54,19
 2020-05-26,United Press International,54,20
+2020-05-26,Justice Department,55,19
 2020-05-26,Thomson Reuters Trust Principles,61,18
-2020-05-26,Republican National Convention,66,17
+2020-05-26,Republican National Convention,67,17
 2020-05-26,Senate Majority Leader Mitch Mcconnell,68,16
 2020-05-26,Drug Administration,71,15
 2020-05-26,Facebook,81,14
@@ -5792,10 +5792,60 @@ date,organization,count,rn
 2020-05-26,Department Of Health,102,10
 2020-05-26,Human Services,103,9
 2020-05-26,World Health Organization,106,8
-2020-05-26,Cnn,140,7
-2020-05-26,Centers For Disease,163,6
+2020-05-26,Cnn,142,7
+2020-05-26,Centers For Disease,164,6
 2020-05-26,Reuters,171,5
-2020-05-26,Twitter,184,4
-2020-05-26,Associated Press,211,3
-2020-05-26,United States,516,2
-2020-05-26,White House,959,1
+2020-05-26,Twitter,185,4
+2020-05-26,Associated Press,212,3
+2020-05-26,United States,518,2
+2020-05-26,White House,962,1
+2020-05-27,Xinhua,32,50
+2020-05-27,Drug Administration,35,48
+2020-05-27,Spacex Demonstration Mission,35,49
+2020-05-27,Senate Republicans,36,47
+2020-05-27,European Union,39,46
+2020-05-27,Senate Armed Services Committee,40,45
+2020-05-27,Kaiser Family Foundation,41,44
+2020-05-27,Nan,42,42
+2020-05-27,Republican Senate Majority Leader Mitch Mcconnell,42,43
+2020-05-27,Defense Department,45,41
+2020-05-27,Boeing,46,39
+2020-05-27,Republican National Convention,46,40
+2020-05-27,Senate Majority Leader Mcconnell,47,38
+2020-05-27,Paycheck Protection Program,51,36
+2020-05-27,Senate Ethics Committee,51,37
+2020-05-27,Exchange Commission,53,35
+2020-05-27,Thomson Reuters Trust Principles,54,34
+2020-05-27,Republican Party,57,33
+2020-05-27,Republican National Committee,58,32
+2020-05-27,Instagram,63,31
+2020-05-27,Hazardous Materials Safety Administration,66,29
+2020-05-27,Office Of Foreign Missions,66,30
+2020-05-27,Youtube,68,28
+2020-05-27,Chinese Communist Party,69,27
+2020-05-27,A Quinnipiac University,72,24
+2020-05-27,Google,72,25
+2020-05-27,National Press Club,72,26
+2020-05-27,Department Of Justice,73,23
+2020-05-27,Supreme Court,78,22
+2020-05-27,New York Stock Exchange,84,21
+2020-05-27,Johns Hopkins University,86,20
+2020-05-27,Senate Intelligence Committee,89,19
+2020-05-27,York Stock Exchange,96,18
+2020-05-27,World Health Organization,97,17
+2020-05-27,Kennedy Space Center,112,16
+2020-05-27,Senate Majority Leader Mitch Mcconnell,114,15
+2020-05-27,Human Services,123,14
+2020-05-27,Department Of Health,128,13
+2020-05-27,Justice Department,149,12
+2020-05-27,Facebook,158,11
+2020-05-27,Msnbc,159,10
+2020-05-27,Centers For Disease,160,9
+2020-05-27,New York Times,165,8
+2020-05-27,Spacex,168,7
+2020-05-27,Reuters,201,6
+2020-05-27,Associated Press,235,5
+2020-05-27,Cnn,344,4
+2020-05-27,Twitter,446,3
+2020-05-27,United States,757,2
+2020-05-27,White House,1286,1
