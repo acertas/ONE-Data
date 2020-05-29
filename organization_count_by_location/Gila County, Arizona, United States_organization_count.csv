@@ -3492,34 +3492,34 @@ date,organization,count,rn
 2020-04-22,White House,27,3
 2020-04-22,Arizona State University,29,2
 2020-04-22,United States,48,1
-2020-04-23,American Church,3,35
-2020-04-23,Arizona Legislature,3,36
-2020-04-23,Arizona Postsecondary Student Resiliency Fund,3,37
-2020-04-23,Associated Press,3,38
-2020-04-23,Biodesign Institute,3,39
-2020-04-23,Catholic Church,3,40
-2020-04-23,Catholic University Of America,3,41
-2020-04-23,College Success Arizona,3,42
-2020-04-23,Cornell University,3,43
-2020-04-23,Economic Thought At Arizona State University,3,44
-2020-04-23,Education Foundation,3,45
-2020-04-23,Franciscan Action Network,3,46
-2020-04-23,Helios Education Foundation,3,47
-2020-04-23,Indian Health Service,3,48
-2020-04-23,Institute For Agriculture,3,49
-2020-04-23,Lumen Christi Institute,3,50
-2020-04-23,Biodesign Center,4,28
-2020-04-23,Drug Administration,4,29
-2020-04-23,Environmental Health Engineering,4,30
-2020-04-23,Google,4,31
-2020-04-23,Higher Education Emergency Relief Fund,4,32
-2020-04-23,Human Services,4,33
-2020-04-23,Treasury Department,4,34
-2020-04-23,Banner Health,5,25
+2020-04-23,American Church,3,38
+2020-04-23,Arizona Postsecondary Student Resiliency Fund,3,39
+2020-04-23,Biodesign Institute,3,40
+2020-04-23,Catholic Church,3,41
+2020-04-23,Catholic University Of America,3,42
+2020-04-23,College Success Arizona,3,43
+2020-04-23,Cornell University,3,44
+2020-04-23,Economic Thought At Arizona State University,3,45
+2020-04-23,Education Foundation,3,46
+2020-04-23,Franciscan Action Network,3,47
+2020-04-23,Helios Education Foundation,3,48
+2020-04-23,Indian Health Service,3,49
+2020-04-23,Institute For Agriculture,3,50
+2020-04-23,Arizona Legislature,4,28
+2020-04-23,Associated Press,4,29
+2020-04-23,Biodesign Center,4,30
+2020-04-23,Drug Administration,4,31
+2020-04-23,Environmental Health Engineering,4,32
+2020-04-23,Google,4,33
+2020-04-23,Higher Education Emergency Relief Fund,4,34
+2020-04-23,Human Services,4,35
+2020-04-23,Reuters,4,36
+2020-04-23,Treasury Department,4,37
 2020-04-23,Banner University Medical Center,5,26
 2020-04-23,Nan,5,27
-2020-04-23,Farm Bureau,6,23
-2020-04-23,Small Business Association Payroll Protection Plan,6,24
+2020-04-23,Banner Health,6,23
+2020-04-23,Farm Bureau,6,24
+2020-04-23,Small Business Association Payroll Protection Plan,6,25
 2020-04-23,Arizona Department Of Corrections,7,19
 2020-04-23,Department Of Health Services,7,20
 2020-04-23,Health Department,7,21
@@ -3529,19 +3529,19 @@ date,organization,count,rn
 2020-04-23,Paycheck Protection Program,9,17
 2020-04-23,University Of Southern California,9,18
 2020-04-23,Education Department,11,14
-2020-04-23,Columbia University,12,11
-2020-04-23,Pennsylvania State University,12,12
-2020-04-23,World Health Organization,12,13
+2020-04-23,Columbia University,12,12
+2020-04-23,Pennsylvania State University,12,13
+2020-04-23,World Health Organization,13,11
 2020-04-23,Department Of Education,14,9
 2020-04-23,Ivy League,14,10
-2020-04-23,Arizona Department Of Health Services,15,7
 2020-04-23,Centers For Disease,15,8
-2020-04-23,Harvard University,16,5
-2020-04-23,Twitter,16,6
-2020-04-23,Facebook,21,4
-2020-04-23,White House,22,3
-2020-04-23,United States,23,2
-2020-04-23,Arizona State University,26,1
+2020-04-23,Arizona Department Of Health Services,16,6
+2020-04-23,Harvard University,16,7
+2020-04-23,Twitter,18,5
+2020-04-23,Facebook,22,4
+2020-04-23,Arizona State University,26,3
+2020-04-23,White House,27,2
+2020-04-23,United States,29,1
 2020-04-24,American Finance Officers Association,4,43
 2020-04-24,Arizona Department Of Public Safety,4,44
 2020-04-24,Arizona Legislature,4,45
@@ -3573,10 +3573,10 @@ date,organization,count,rn
 2020-04-24,National Sustainable Agriculture Commission,8,22
 2020-04-24,University Of California,8,23
 2020-04-24,University Of Reading,8,24
-2020-04-24,Associated Press,9,18
 2020-04-24,Coronavirus Relief Fund,9,19
-2020-04-24,Reckitt Benckiser,10,16
-2020-04-24,Senate Majority Leader Mitch Mcconnell,10,17
+2020-04-24,Associated Press,10,16
+2020-04-24,Reckitt Benckiser,10,17
+2020-04-24,Senate Majority Leader Mitch Mcconnell,10,18
 2020-04-24,Farm Bureau,11,13
 2020-04-24,Small Business Association Payroll Protection Plan,11,14
 2020-04-24,University Of Arizona,11,15
@@ -3585,9 +3585,9 @@ date,organization,count,rn
 2020-04-24,Arizona Department Of Corrections,15,9
 2020-04-24,Cnn,15,10
 2020-04-24,Small Business Administration,16,8
-2020-04-24,Twitter,19,7
 2020-04-24,Arizona State University,20,6
-2020-04-24,White House,22,5
+2020-04-24,Twitter,20,7
+2020-04-24,White House,25,5
 2020-04-24,Paycheck Protection Program,27,4
 2020-04-24,Facebook,30,3
 2020-04-24,United States,40,2
@@ -3636,12 +3636,12 @@ date,organization,count,rn
 2020-04-25,Associated Press,13,9
 2020-04-25,Morgan,14,8
 2020-04-25,American Association For The Advancement Of Science,16,7
-2020-04-25,Centers For Disease,17,5
 2020-04-25,United States,17,6
-2020-04-25,Alabama National Weather Service,18,4
+2020-04-25,Alabama National Weather Service,18,5
 2020-04-25,Carnegie Mellon University,19,3
-2020-04-25,Drug Administration,26,2
-2020-04-25,White House,38,1
+2020-04-25,Centers For Disease,19,4
+2020-04-25,Drug Administration,27,2
+2020-04-25,White House,39,1
 2020-04-26,American Civil Liberties Union,2,49
 2020-04-26,Arizona State University,2,50
 2020-04-26,Arizona Department Of Corrections,3,42
@@ -3654,42 +3654,42 @@ date,organization,count,rn
 2020-04-26,Arizona Supreme Court,4,39
 2020-04-26,Mesa Convention Center,4,40
 2020-04-26,University Of Arizona,4,41
-2020-04-26,Alabama National Weather Service,5,27
-2020-04-26,Arizona Department Of Health Service,5,28
-2020-04-26,Centers For Medicare Medicaid Services,5,29
-2020-04-26,Handmaker Services For The Aging In Tucson,5,30
-2020-04-26,Health Insurance Portability,5,31
-2020-04-26,Life Care Center,5,32
-2020-04-26,Medicaid Services,5,33
+2020-04-26,Alabama National Weather Service,5,28
+2020-04-26,Arizona Department Of Health Service,5,29
+2020-04-26,Centers For Medicare Medicaid Services,5,30
+2020-04-26,Handmaker Services For The Aging In Tucson,5,31
+2020-04-26,Health Insurance Portability,5,32
+2020-04-26,Life Care Center,5,33
 2020-04-26,Msnbc,5,34
 2020-04-26,Nan,5,35
 2020-04-26,Rehabilitation Center,5,36
 2020-04-26,United Food Bank,5,37
 2020-04-26,University Medical Center South On,5,38
-2020-04-26,American Association For The Advancement Of Science,6,16
-2020-04-26,Associated Press,6,17
-2020-04-26,Carnegie Mellon University,6,18
-2020-04-26,Department Of Health,6,19
-2020-04-26,Department Of Homeland Security,6,20
-2020-04-26,Drug Administration,6,21
+2020-04-26,American Association For The Advancement Of Science,6,17
+2020-04-26,Associated Press,6,18
+2020-04-26,Carnegie Mellon University,6,19
+2020-04-26,Department Of Health,6,20
+2020-04-26,Department Of Homeland Security,6,21
 2020-04-26,Kaiser Family Foundation,6,22
-2020-04-26,Morgan,6,23
-2020-04-26,Senate Minority Leader Charles Schumer,6,24
-2020-04-26,Supreme Court Justice Brett Kavanaugh,6,25
-2020-04-26,Union Of Concerned Scientist Center,6,26
-2020-04-26,Facebook,7,13
-2020-04-26,Senate Majority Leader Mitch Mcconnell,7,14
-2020-04-26,Twitter,7,15
+2020-04-26,Medicaid Services,6,23
+2020-04-26,Morgan,6,24
+2020-04-26,Senate Minority Leader Charles Schumer,6,25
+2020-04-26,Supreme Court Justice Brett Kavanaugh,6,26
+2020-04-26,Union Of Concerned Scientist Center,6,27
+2020-04-26,Drug Administration,7,14
+2020-04-26,Facebook,7,15
+2020-04-26,Twitter,7,16
 2020-04-26,Democratic Senate,8,8
 2020-04-26,Health Department,8,9
 2020-04-26,Republican Congress,8,10
 2020-04-26,Republican Senate,8,11
-2020-04-26,Strategic National,8,12
+2020-04-26,Senate Majority Leader Mitch Mcconnell,8,12
+2020-04-26,Strategic National,8,13
 2020-04-26,Human Services,9,6
 2020-04-26,Supreme Court,9,7
 2020-04-26,Democratic Party,10,5
-2020-04-26,Arizona Department Of Health Services,12,3
-2020-04-26,United States,12,4
+2020-04-26,Arizona Department Of Health Services,12,4
+2020-04-26,United States,13,3
 2020-04-26,Centers For Disease,14,2
 2020-04-26,White House,18,1
 2020-04-27,Alliance For Higher Education,2,38
@@ -3742,17 +3742,16 @@ date,organization,count,rn
 2020-04-27,Arizona Department Of Health Services,9,3
 2020-04-27,White House,11,2
 2020-04-27,United States,14,1
-2020-04-28,Arizona Advocacy Network,4,40
-2020-04-28,Arizona Department Of Economic Security,4,41
-2020-04-28,Arizona Food Bank Network,4,42
-2020-04-28,Arizona National Guard,4,43
-2020-04-28,Arizona Public Health Association,4,44
-2020-04-28,Arizona Republican Party,4,45
-2020-04-28,Arizona State University,4,46
-2020-04-28,Az Dept Of Health,4,47
-2020-04-28,Health Care Enhancement,4,48
-2020-04-28,Mesa Convention Center,4,49
-2020-04-28,Nan,4,50
+2020-04-28,Arizona Advocacy Network,4,41
+2020-04-28,Arizona Department Of Economic Security,4,42
+2020-04-28,Arizona Food Bank Network,4,43
+2020-04-28,Arizona National Guard,4,44
+2020-04-28,Arizona Public Health Association,4,45
+2020-04-28,Arizona Republican Party,4,46
+2020-04-28,Arizona State University,4,47
+2020-04-28,Az Dept Of Health,4,48
+2020-04-28,Health Care Enhancement,4,49
+2020-04-28,Mesa Convention Center,4,50
 2020-04-28,Az Coronavirus Relief Fund,5,29
 2020-04-28,Biodefense Coordination Team,5,30
 2020-04-28,Department Of Health,5,31
@@ -3762,8 +3761,9 @@ date,organization,count,rn
 2020-04-28,Homeland Security Committee,5,35
 2020-04-28,National Biodefense Strategy,5,36
 2020-04-28,Reform Committee,5,37
-2020-04-28,Tyson Foods,5,38
-2020-04-28,University Of Arizona,5,39
+2020-04-28,Republican Party,5,38
+2020-04-28,Tyson Foods,5,39
+2020-04-28,University Of Arizona,5,40
 2020-04-28,Department Of Corrections,6,27
 2020-04-28,Human Services,6,28
 2020-04-28,Banner University Medical Center,7,25
@@ -3771,24 +3771,24 @@ date,organization,count,rn
 2020-04-28,Odonnell Associates,8,24
 2020-04-28,National Guard,9,22
 2020-04-28,Walgreens,9,23
-2020-04-28,Arizona Department Of Corrections,10,14
-2020-04-28,Associated Press,10,15
+2020-04-28,Arizona Department Of Corrections,10,15
 2020-04-28,Banner Health,10,16
 2020-04-28,Colby College,10,17
 2020-04-28,Even Senate Majority Leader Mitch Mcconnell,10,18
 2020-04-28,Public Affairs Research,10,19
 2020-04-28,Republican Senate Leadership Fund,10,20
 2020-04-28,Supreme Court,10,21
-2020-04-28,National Republican Senatorial Committee,11,12
-2020-04-28,Paycheck Protection Program,11,13
+2020-04-28,Associated Press,11,12
+2020-04-28,National Republican Senatorial Committee,11,13
+2020-04-28,Paycheck Protection Program,11,14
 2020-04-28,Republican National Committee,12,9
 2020-04-28,Senate Leadership Fund,12,10
 2020-04-28,Senate Majority,12,11
 2020-04-28,Centers For Disease,13,7
 2020-04-28,New York Times,13,8
 2020-04-28,Instagram,14,6
-2020-04-28,White House,16,5
-2020-04-28,Arizona Department Of Health Services,17,4
+2020-04-28,Arizona Department Of Health Services,17,5
+2020-04-28,White House,19,4
 2020-04-28,Facebook,20,2
 2020-04-28,Twitter,20,3
 2020-04-28,United States,23,1
@@ -3833,65 +3833,65 @@ date,organization,count,rn
 2020-04-29,Senate Leadership Fund,10,13
 2020-04-29,Senate Majority,10,14
 2020-04-29,Mesa City Police Department,11,10
-2020-04-29,Centers For Disease,12,9
-2020-04-29,Supreme Court,13,8
+2020-04-29,Centers For Disease,13,8
+2020-04-29,Supreme Court,13,9
 2020-04-29,Arizona Department Of Health Services,14,7
 2020-04-29,Associated Press,15,6
 2020-04-29,Paycheck Protection Program,17,4
 2020-04-29,Twitter,17,5
 2020-04-29,Facebook,22,3
 2020-04-29,United States,40,2
-2020-04-29,White House,43,1
-2020-04-30,Africa Centers For Disease,5,33
-2020-04-30,American Church,5,34
-2020-04-30,Ap United States,5,35
-2020-04-30,Arizona Commerce Authority Conference Center,5,36
-2020-04-30,Arizona Department Of Corrections,5,37
-2020-04-30,Brennan Center,5,38
-2020-04-30,Corners Native American Ministry,5,39
-2020-04-30,German Health,5,40
-2020-04-30,Indian Health Service,5,41
-2020-04-30,International Energy Agency,5,42
-2020-04-30,International Labor Organization,5,43
-2020-04-30,National Institute Of Allergy,5,44
-2020-04-30,National Intelligence,5,45
-2020-04-30,Republican National Committee,5,46
-2020-04-30,Senate Democrats,5,47
-2020-04-30,Twitter,5,48
-2020-04-30,United Methodist Church,5,49
-2020-04-30,Waffle House,5,50
-2020-04-30,Supreme Court,6,32
-2020-04-30,Arizona Chamber,7,27
-2020-04-30,Christie,7,28
-2020-04-30,Department Of Health,7,29
-2020-04-30,Human Services,7,30
-2020-04-30,New York Times,7,31
-2020-04-30,Arizona Restaurant Association,8,21
-2020-04-30,Facebook,8,22
-2020-04-30,Gilead Sciences,8,23
+2020-04-29,White House,45,1
+2020-04-30,Africa Centers For Disease,5,36
+2020-04-30,American Church,5,37
+2020-04-30,Ap United States,5,38
+2020-04-30,Arizona Commerce Authority Conference Center,5,39
+2020-04-30,Arizona Department Of Corrections,5,40
+2020-04-30,Brennan Center,5,41
+2020-04-30,Corners Native American Ministry,5,42
+2020-04-30,German Health,5,43
+2020-04-30,Indian Health Service,5,44
+2020-04-30,International Energy Agency,5,45
+2020-04-30,International Labor Organization,5,46
+2020-04-30,National Intelligence,5,47
+2020-04-30,Republican National Committee,5,48
+2020-04-30,Senate Democrats,5,49
+2020-04-30,Twitter,5,50
+2020-04-30,National Institute Of Allergy,6,32
+2020-04-30,Supreme Court,6,33
+2020-04-30,Waffle House,6,34
+2020-04-30,Wynn Resorts,6,35
+2020-04-30,Arizona Chamber,7,28
+2020-04-30,Christie,7,29
+2020-04-30,Department Of Health,7,30
+2020-04-30,Human Services,7,31
+2020-04-30,Arizona Restaurant Association,8,22
+2020-04-30,Facebook,8,23
 2020-04-30,Msnbc,8,24
-2020-04-30,Reuters,8,25
-2020-04-30,York Police Department,8,26
+2020-04-30,New York Times,8,25
+2020-04-30,Reuters,8,26
+2020-04-30,York Police Department,8,27
 2020-04-30,Cold Stone Creamery,9,20
+2020-04-30,Gilead Sciences,9,21
 2020-04-30,Johns Hopkins University,10,18
 2020-04-30,Paycheck Protection Program,10,19
 2020-04-30,Arizona State University,11,15
 2020-04-30,Revenue Service On,11,16
 2020-04-30,Treasury Department,11,17
-2020-04-30,Toyota,12,14
-2020-04-30,Drug Administration,13,10
-2020-04-30,Oval Office,13,11
-2020-04-30,University Of Arizona,13,12
-2020-04-30,World Health Organization,13,13
+2020-04-30,Toyota,13,12
+2020-04-30,University Of Arizona,13,13
+2020-04-30,World Health Organization,13,14
+2020-04-30,Drug Administration,14,10
+2020-04-30,Oval Office,14,11
 2020-04-30,Centers For Disease,15,8
 2020-04-30,Department Of Social Services,15,9
-2020-04-30,Cnn,16,7
-2020-04-30,Honeywell,22,6
+2020-04-30,Cnn,17,7
+2020-04-30,Honeywell,24,6
 2020-04-30,Arizona Department Of Health Services,25,5
-2020-04-30,Associated Press,31,4
+2020-04-30,Associated Press,32,4
 2020-04-30,Department Of Health Services,34,3
-2020-04-30,United States,50,2
-2020-04-30,White House,83,1
+2020-04-30,United States,51,2
+2020-04-30,White House,87,1
 2020-05-01,American Council On Education,5,38
 2020-05-01,American Federation Of Government,5,39
 2020-05-01,Anastopoulo Law Firm In Charleston,5,40
@@ -4004,21 +4004,21 @@ date,organization,count,rn
 2020-05-03,Bureau Of Indian Education,2,33
 2020-05-03,Carnegie Mellon University,2,34
 2020-05-03,City Council,2,35
-2020-05-03,Community Development Block Grant,2,36
-2020-05-03,Consumerfinancial Protection Bureau,2,37
-2020-05-03,Coronavirus Relief Fund,2,38
-2020-05-03,Day Fund,2,39
-2020-05-03,Department Of Labor On,2,40
-2020-05-03,Economic Development Department,2,41
-2020-05-03,Emergency Management Agency,2,42
-2020-05-03,European Space Agency Jupiter Icy Moons Explorer,2,43
-2020-05-03,Fannie Mae,2,44
-2020-05-03,Goddard Space Flight Center,2,45
-2020-05-03,Governor Office,2,46
-2020-05-03,Health Administration,2,47
-2020-05-03,Health Department,2,48
-2020-05-03,Health Services Department,2,49
-2020-05-03,Illinois State Senate,2,50
+2020-05-03,Cnn,2,36
+2020-05-03,Community Development Block Grant,2,37
+2020-05-03,Consumerfinancial Protection Bureau,2,38
+2020-05-03,Coronavirus Relief Fund,2,39
+2020-05-03,Day Fund,2,40
+2020-05-03,Department Of Labor On,2,41
+2020-05-03,Economic Development Department,2,42
+2020-05-03,Emergency Management Agency,2,43
+2020-05-03,European Space Agency Jupiter Icy Moons Explorer,2,44
+2020-05-03,Fannie Mae,2,45
+2020-05-03,Goddard Space Flight Center,2,46
+2020-05-03,Governor Office,2,47
+2020-05-03,Health Administration,2,48
+2020-05-03,Health Department,2,49
+2020-05-03,Health Services Department,2,50
 2020-05-03,Arizona Legislature,3,16
 2020-05-03,Department Of Health Services,3,17
 2020-05-03,Drug Administration,3,18
@@ -4040,8 +4040,8 @@ date,organization,count,rn
 2020-05-03,Public Affairs Research,8,5
 2020-05-03,Arizona Department Of Health Services,9,4
 2020-05-03,Associated Press,10,3
-2020-05-03,United States,25,1
-2020-05-03,White House,25,2
+2020-05-03,United States,25,2
+2020-05-03,White House,26,1
 2020-05-04,Asu Biodesign Institute,3,24
 2020-05-04,Biobehavioral Health Sciences Division,3,25
 2020-05-04,Biodesign Institute,3,26
@@ -4084,30 +4084,30 @@ date,organization,count,rn
 2020-05-04,Paycheck Protection Program,7,12
 2020-05-04,University Of Arizona,8,10
 2020-05-04,Associated Press,10,9
-2020-05-04,Honeywell,11,7
 2020-05-04,Nan,11,8
-2020-05-04,Twitter,13,6
+2020-05-04,Twitter,13,7
 2020-05-04,Arizona Department Of Health Services,14,5
+2020-05-04,Honeywell,14,6
 2020-05-04,Facebook,19,4
 2020-05-04,United States,24,3
 2020-05-04,Johns Hopkins University,25,2
-2020-05-04,White House,60,1
-2020-05-05,Arizona At Joint Base Andrews,16,46
-2020-05-05,Drug Administration,16,47
-2020-05-05,Nan,16,48
-2020-05-05,Navajo Department Of Health,16,49
-2020-05-05,University Of Washington,16,50
+2020-05-04,White House,63,1
+2020-05-05,Nan,15,49
+2020-05-05,Tyson Foods,15,50
+2020-05-05,Arizona At Joint Base Andrews,16,45
+2020-05-05,Drug Administration,16,46
+2020-05-05,Navajo Department Of Health,16,47
+2020-05-05,World Health Organization,16,48
 2020-05-05,Department Of Health Services,17,44
-2020-05-05,Tyson Foods,17,45
 2020-05-05,Arizona Department Of Health Services,18,40
 2020-05-05,Human Services,18,41
 2020-05-05,New York Post,18,42
 2020-05-05,Senate Republican,18,43
 2020-05-05,Democratic Party,19,39
+2020-05-05,Convention Center,20,36
+2020-05-05,Honeywell Aerospace,20,37
 2020-05-05,Youtube,20,38
-2020-05-05,Convention Center,21,35
-2020-05-05,Drug Administration On,21,36
-2020-05-05,Honeywell Aerospace,21,37
+2020-05-05,Drug Administration On,21,35
 2020-05-05,Republican National Committee,23,33
 2020-05-05,Thomson Reuters Trust Principles,23,34
 2020-05-05,Vanderbilt University Vaccine Research Program,27,32
@@ -4120,78 +4120,78 @@ date,organization,count,rn
 2020-05-05,Walgreens,37,26
 2020-05-05,American Health Care Association,39,23
 2020-05-05,National Center,39,24
-2020-05-05,U K Office For National Statistics On,41,22
+2020-05-05,Johns Hopkins University,40,22
+2020-05-05,U K Office For National Statistics On,41,21
+2020-05-05,Arizona Democratic Party,42,18
 2020-05-05,Christie,42,19
-2020-05-05,Johns Hopkins University,42,20
-2020-05-05,Twitter,42,21
-2020-05-05,Family Dollar,43,14
-2020-05-05,John Hopkins University,43,15
-2020-05-05,Kroger,43,16
-2020-05-05,Kroger Health,43,17
-2020-05-05,Ralphs,43,18
-2020-05-05,Arizona Democratic Party,44,12
-2020-05-05,Fox Business Network,44,13
-2020-05-05,Associated Press,47,11
+2020-05-05,Twitter,42,20
+2020-05-05,Family Dollar,43,13
+2020-05-05,John Hopkins University,43,14
+2020-05-05,Kroger,43,15
+2020-05-05,Kroger Health,43,16
+2020-05-05,Ralphs,43,17
+2020-05-05,Fox Business Network,44,12
+2020-05-05,Associated Press,46,11
 2020-05-05,New York Times,50,10
-2020-05-05,Reuters,56,9
+2020-05-05,Reuters,58,9
 2020-05-05,Honeywell International Inc,62,8
+2020-05-05,Treasury Department,68,7
 2020-05-05,Cnn,72,6
-2020-05-05,Treasury Department,72,7
-2020-05-05,Centers For Disease,82,5
-2020-05-05,Honeywell International,101,4
-2020-05-05,United States,234,3
-2020-05-05,Honeywell,260,2
-2020-05-05,White House,271,1
-2020-05-06,Drug Administration,13,47
-2020-05-06,Imperial College London,13,48
-2020-05-06,University Of Akron,13,49
-2020-05-06,Youtube,13,50
-2020-05-06,Democratic Party,14,45
-2020-05-06,White House Coronavirus Task,14,46
-2020-05-06,Gila River Indian Community,15,43
-2020-05-06,Office Of Special Counsel,15,44
-2020-05-06,Facebook,17,40
-2020-05-06,Nan,17,41
-2020-05-06,National Geographic,17,42
+2020-05-05,Centers For Disease,81,5
+2020-05-05,Honeywell International,99,4
+2020-05-05,United States,226,3
+2020-05-05,Honeywell,253,2
+2020-05-05,White House,268,1
+2020-05-06,Institute For Health Metrics,12,49
+2020-05-06,Sky International Airport,12,50
+2020-05-06,Drug Administration,13,45
+2020-05-06,Modeling Working Group,13,46
+2020-05-06,White House Coronavirus Task,13,47
+2020-05-06,Youtube,13,48
+2020-05-06,Democratic Party,14,43
+2020-05-06,Gila River Indian Community,14,44
+2020-05-06,Facebook,15,42
+2020-05-06,Nan,16,40
+2020-05-06,National Geographic,16,41
+2020-05-06,Department Of Health,18,37
+2020-05-06,Senate Majority Leader Mitch Mcconnell,18,38
 2020-05-06,Thomson Reuters Trust Principles,18,39
-2020-05-06,University Of Arizona,21,38
-2020-05-06,Department Of Health,22,37
-2020-05-06,Republican Party,23,35
-2020-05-06,Senate Majority Leader Mitch Mcconnell,23,36
-2020-05-06,Gila River Indian Community Gov,25,34
-2020-05-06,Coronavirus Task,26,33
-2020-05-06,John Hopkins University,28,32
-2020-05-06,Development Authority,29,31
-2020-05-06,New York Post,30,30
-2020-05-06,Arizona Democratic Party,31,26
-2020-05-06,Biomedical Advanced Research,31,27
-2020-05-06,Convention Center,31,28
-2020-05-06,Honeywell Aerospace,31,29
-2020-05-06,Arizona On Air Force,32,25
-2020-05-06,Arizona State University,34,24
-2020-05-06,Arizona Department Of Health Services,37,23
-2020-05-06,University Of Washington,38,22
-2020-05-06,Oval Office,39,21
-2020-05-06,National Institute Of Allergy,40,19
-2020-05-06,World Health Organization,40,20
-2020-05-06,France Pasteur Institute,42,16
-2020-05-06,Institute Of Health,42,17
-2020-05-06,New York Times,42,18
-2020-05-06,Johns Hopkins University,45,15
-2020-05-06,Emergency Management Agency,48,13
-2020-05-06,Health Department In Shawnee,48,14
-2020-05-06,Treasury Department,65,12
-2020-05-06,Associated Press,71,11
-2020-05-06,Reuters,73,10
-2020-05-06,Centers For Disease,88,9
-2020-05-06,Cnn,89,8
-2020-05-06,Honeywell International Inc,96,6
-2020-05-06,Human Services,96,7
-2020-05-06,Twitter,114,5
-2020-05-06,Honeywell International,119,4
-2020-05-06,United States,274,3
-2020-05-06,Honeywell,373,2
-2020-05-06,White House,475,1
+2020-05-06,University Of Arizona,21,36
+2020-05-06,Republican Party,22,35
+2020-05-06,Coronavirus Task,24,32
+2020-05-06,Development Authority,24,33
+2020-05-06,New York Post,24,34
+2020-05-06,Gila River Indian Community Gov,25,31
+2020-05-06,Biomedical Advanced Research,26,29
+2020-05-06,John Hopkins University,26,30
+2020-05-06,Arizona Democratic Party,29,26
+2020-05-06,Convention Center,29,27
+2020-05-06,Honeywell Aerospace,29,28
+2020-05-06,Arizona On Air Force,30,25
+2020-05-06,Oval Office,33,24
+2020-05-06,Arizona State University,34,22
+2020-05-06,University Of Washington,34,23
+2020-05-06,Arizona Department Of Health Services,37,21
+2020-05-06,World Health Organization,38,20
+2020-05-06,New York Times,39,19
+2020-05-06,National Institute Of Allergy,41,18
+2020-05-06,France Pasteur Institute,42,15
+2020-05-06,Institute Of Health,42,16
+2020-05-06,Johns Hopkins University,42,17
+2020-05-06,Health Department In Shawnee,45,14
+2020-05-06,Emergency Management Agency,47,13
+2020-05-06,Treasury Department,63,12
+2020-05-06,Associated Press,68,11
+2020-05-06,Reuters,70,10
+2020-05-06,Centers For Disease,81,9
+2020-05-06,Cnn,84,8
+2020-05-06,Human Services,87,7
+2020-05-06,Honeywell International Inc,91,6
+2020-05-06,Twitter,103,5
+2020-05-06,Honeywell International,111,4
+2020-05-06,United States,256,3
+2020-05-06,Honeywell,343,2
+2020-05-06,White House,442,1
 2020-05-07,Arizona Public Health Association,6,45
 2020-05-07,Corecivic Inc,6,46
 2020-05-07,Drug Administration,6,47
@@ -4232,16 +4232,16 @@ date,organization,count,rn
 2020-05-07,Department Of Health Services,21,13
 2020-05-07,Cnn,23,12
 2020-05-07,Emergency Management Agency,26,11
-2020-05-07,Twitter,27,10
+2020-05-07,Twitter,29,10
 2020-05-07,Oval Office,31,9
-2020-05-07,Associated Press,45,8
-2020-05-07,University Of Arizona,46,7
+2020-05-07,Associated Press,46,7
+2020-05-07,University Of Arizona,46,8
 2020-05-07,Arizona Department Of Health Services,49,6
 2020-05-07,Centers For Disease,51,5
 2020-05-07,Arizona State University,65,4
 2020-05-07,Honeywell,66,3
-2020-05-07,United States,83,2
-2020-05-07,White House,109,1
+2020-05-07,United States,85,2
+2020-05-07,White House,110,1
 2020-05-08,Appropriations Committee,6,42
 2020-05-08,Arizona Department Of Corrections,6,43
 2020-05-08,Budget Committee,6,44
@@ -4276,22 +4276,22 @@ date,organization,count,rn
 2020-05-08,New York Times,12,22
 2020-05-08,Republican Senate,13,18
 2020-05-08,Nan,14,17
-2020-05-08,Arizona Senate,18,14
-2020-05-08,Facebook,18,15
-2020-05-08,Human Services,18,16
-2020-05-08,Oval Office,19,13
-2020-05-08,Public Affairs Research,20,12
+2020-05-08,Arizona Senate,18,16
+2020-05-08,Oval Office,19,15
+2020-05-08,Facebook,20,13
+2020-05-08,Public Affairs Research,20,14
+2020-05-08,Human Services,22,12
 2020-05-08,University Of Arizona,26,11
 2020-05-08,Department Of Health Services,30,10
 2020-05-08,Arizona State University,36,9
 2020-05-08,Msnbc,39,7
 2020-05-08,Twitter,39,8
-2020-05-08,Arizona Department Of Health Services,44,5
-2020-05-08,Centers For Disease,44,6
+2020-05-08,Arizona Department Of Health Services,44,6
+2020-05-08,Centers For Disease,48,5
 2020-05-08,Honeywell,58,4
 2020-05-08,Associated Press,76,3
-2020-05-08,United States,79,2
-2020-05-08,White House,106,1
+2020-05-08,United States,83,2
+2020-05-08,White House,110,1
 2020-05-09,Arizona Community Foundation,4,44
 2020-05-09,Catena Foundation,4,45
 2020-05-09,Federal Reserve,4,46
@@ -4318,13 +4318,13 @@ date,organization,count,rn
 2020-05-09,Labor Department,7,25
 2020-05-09,Senate Democrats,7,26
 2020-05-09,World Health Organization,7,27
-2020-05-09,Arizona Department Of Health Services,8,22
 2020-05-09,Cornell University,8,23
 2020-05-09,University Of Arizona,8,24
-2020-05-09,Public Affairs Research,9,18
-2020-05-09,Reuters,9,19
-2020-05-09,Senate Minority Leader David Bradley,9,20
-2020-05-09,Senate Republicans,9,21
+2020-05-09,Arizona Department Of Health Services,9,18
+2020-05-09,Public Affairs Research,9,19
+2020-05-09,Reuters,9,20
+2020-05-09,Senate Minority Leader David Bradley,9,21
+2020-05-09,Senate Republicans,9,22
 2020-05-09,Msnbc,11,17
 2020-05-09,Health Statistics,13,15
 2020-05-09,National Center,13,16
@@ -4392,25 +4392,25 @@ date,organization,count,rn
 2020-05-10,United States,9,3
 2020-05-10,Centers For Disease,10,2
 2020-05-10,White House,30,1
-2020-05-11,Agriculture Department,2,39
-2020-05-11,Alloy Products Inc,2,40
-2020-05-11,American Farm Bureau Federation,2,41
-2020-05-11,Arizona Association,2,42
-2020-05-11,Arizona Department Of Public Safety,2,43
-2020-05-11,Arlington Center,2,44
-2020-05-11,Boston University,2,45
-2020-05-11,Capitol Media Services,2,46
-2020-05-11,Cochise County Attorney Office,2,47
-2020-05-11,Cochise County Office Of Emergency Services,2,48
-2020-05-11,Cochise County Sheriff Office,2,49
-2020-05-11,College Of American Pathologists Dr,2,50
+2020-05-11,Agriculture Department,2,40
+2020-05-11,Alloy Products Inc,2,41
+2020-05-11,American Farm Bureau Federation,2,42
+2020-05-11,Arizona Association,2,43
+2020-05-11,Arizona Department Of Public Safety,2,44
+2020-05-11,Arlington Center,2,45
+2020-05-11,Boston University,2,46
+2020-05-11,Capitol Media Services,2,47
+2020-05-11,Cochise County Attorney Office,2,48
+2020-05-11,Cochise County Office Of Emergency Services,2,49
+2020-05-11,Cochise County Sheriff Office,2,50
 2020-05-11,Arizona Association Of Counties,3,32
 2020-05-11,Arizona County Treasurers Association,3,33
 2020-05-11,Assessor Office,3,34
 2020-05-11,Cnn,3,35
 2020-05-11,First Arizona Small Business Relief Fund,3,36
 2020-05-11,Ge Healthcare,3,37
-2020-05-11,Us Centers For Disease,3,38
+2020-05-11,Nan,3,38
+2020-05-11,Us Centers For Disease,3,39
 2020-05-11,Arizona Corporation Commission,4,23
 2020-05-11,Carolina State University Department Of Forestry,4,24
 2020-05-11,Kaiser Family Foundation,4,25
@@ -4442,56 +4442,56 @@ date,organization,count,rn
 2020-05-11,Honeywell International Inc,15,3
 2020-05-11,United States,27,2
 2020-05-11,White House,38,1
-2020-05-12,Arizona Department Of Gaming,3,40
-2020-05-12,Chin Hotel,3,41
-2020-05-12,Dean Of Students Office,3,42
-2020-05-12,Department Of Health Services,3,43
-2020-05-12,Drug Administration,3,44
-2020-05-12,Glencroft Center,3,45
+2020-05-12,Arizona Department Of Gaming,3,41
+2020-05-12,Chin Hotel,3,42
+2020-05-12,Dean Of Students Office,3,43
+2020-05-12,Department Of Health Services,3,44
+2020-05-12,Drug Administration,3,45
 2020-05-12,Indian Health Service,3,46
 2020-05-12,Mazatzal Hotel Casino In Payson,3,47
 2020-05-12,Student Emergency Fund,3,48
 2020-05-12,Treasury Department,3,49
 2020-05-12,Washington Post,3,50
-2020-05-12,Arizona Human Trafficking Council,4,21
-2020-05-12,Arizona State University,4,22
-2020-05-12,Associated Press,4,23
-2020-05-12,Cato Institute,4,24
-2020-05-12,Connecticut Office Of Emergency Medical Services,4,25
-2020-05-12,Defense Department,4,26
-2020-05-12,Glencroft Memory Center,4,27
-2020-05-12,Hoben Department,4,28
-2020-05-12,Howard Center,4,29
-2020-05-12,Howard Center At Arizona State University,4,30
-2020-05-12,International Association Of Chiefs Of Police,4,31
-2020-05-12,Jersey Emergency Medical Services Council,4,32
-2020-05-12,National Association Of Emergency Medical Technicians,4,33
-2020-05-12,National Institutes Of Health,4,34
-2020-05-12,Reuters,4,35
-2020-05-12,Senate Republicans,4,36
-2020-05-12,Uber Phoenix Center,4,37
-2020-05-12,University Hospital,4,38
-2020-05-12,University Of Nebraska Omaha,4,39
-2020-05-12,Arizona Department Of Emergency Management,5,19
-2020-05-12,Arizona Senate,5,20
-2020-05-12,Defense Department Fiscal Year,6,13
-2020-05-12,Department Of Homeland Security,6,14
-2020-05-12,Emergency Management Agency,6,15
-2020-05-12,Johns Hopkins University,6,16
-2020-05-12,Nogales International Airport,6,17
-2020-05-12,Organ Pipe Cactus National Monument,6,18
+2020-05-12,Arizona Human Trafficking Council,4,23
+2020-05-12,Arizona State University,4,24
+2020-05-12,Cato Institute,4,25
+2020-05-12,Connecticut Office Of Emergency Medical Services,4,26
+2020-05-12,Defense Department,4,27
+2020-05-12,Glencroft Memory Center,4,28
+2020-05-12,Hoben Department,4,29
+2020-05-12,Howard Center,4,30
+2020-05-12,Howard Center At Arizona State University,4,31
+2020-05-12,International Association Of Chiefs Of Police,4,32
+2020-05-12,Jersey Emergency Medical Services Council,4,33
+2020-05-12,National Association Of Emergency Medical Technicians,4,34
+2020-05-12,National Institutes Of Health,4,35
+2020-05-12,Reuters,4,36
+2020-05-12,Senate Republicans,4,37
+2020-05-12,Uber Phoenix Center,4,38
+2020-05-12,University Hospital,4,39
+2020-05-12,University Of Nebraska Omaha,4,40
+2020-05-12,Arizona Department Of Emergency Management,5,20
+2020-05-12,Arizona Senate,5,21
+2020-05-12,Glencroft Center,5,22
+2020-05-12,Associated Press,6,13
+2020-05-12,Defense Department Fiscal Year,6,14
+2020-05-12,Department Of Homeland Security,6,15
+2020-05-12,Emergency Management Agency,6,16
+2020-05-12,Johns Hopkins University,6,17
+2020-05-12,Nogales International Airport,6,18
+2020-05-12,Organ Pipe Cactus National Monument,6,19
 2020-05-12,Honeywell,7,9
 2020-05-12,Nan,7,10
 2020-05-12,New York Times,7,11
 2020-05-12,Supreme Court,7,12
-2020-05-12,Cnn,8,6
-2020-05-12,Twitter,8,7
+2020-05-12,Cnn,8,7
 2020-05-12,University Of Arizona,8,8
-2020-05-12,Arizona Department Of Health Services,12,5
-2020-05-12,Facebook,13,4
+2020-05-12,Twitter,10,6
+2020-05-12,Facebook,13,5
+2020-05-12,Arizona Department Of Health Services,14,4
 2020-05-12,Centers For Disease,18,3
-2020-05-12,White House,27,2
-2020-05-12,United States,28,1
+2020-05-12,United States,29,1
+2020-05-12,White House,29,2
 2020-05-13,Alliance Of Arizona Nonprofits,3,22
 2020-05-13,Animal Legal Defense Fund,3,23
 2020-05-13,Arctic Slope Regional Corporation,3,24
@@ -4776,16 +4776,16 @@ date,organization,count,rn
 2020-05-18,Facebook,3,23
 2020-05-18,Ge Healthcare,3,24
 2020-05-18,Navajo Department Of Health,3,25
-2020-05-18,Associated Press,4,9
-2020-05-18,Centers For Disease,4,10
-2020-05-18,Cnn,4,11
-2020-05-18,Democratic National Committee,4,12
-2020-05-18,Drug Administration,4,13
-2020-05-18,Johns Hopkins University,4,14
+2020-05-18,Associated Press,4,11
+2020-05-18,Centers For Disease,4,12
+2020-05-18,Democratic National Committee,4,13
+2020-05-18,Drug Administration,4,14
 2020-05-18,Nan,4,15
 2020-05-18,Youtube,4,16
-2020-05-18,New York Times,5,8
+2020-05-18,Johns Hopkins University,5,9
+2020-05-18,New York Times,5,10
 2020-05-18,Arizona State University,6,7
+2020-05-18,Cnn,6,8
 2020-05-18,Twitter,7,6
 2020-05-18,Arizona Department Of Health Services,8,5
 2020-05-18,University Of Arizona,9,4
@@ -4828,70 +4828,70 @@ date,organization,count,rn
 2020-05-19,Senate Majority Leader Mitch Mcconnell,5,18
 2020-05-19,University Of Arizona,5,19
 2020-05-19,World Health Organization,5,20
-2020-05-19,Cnn,6,13
 2020-05-19,Minor Inc,6,14
-2020-05-19,Arizona State University,7,11
-2020-05-19,Human Services,7,12
+2020-05-19,Arizona State University,7,12
+2020-05-19,Human Services,7,13
+2020-05-19,Cnn,8,11
 2020-05-19,Associated Press,10,10
 2020-05-19,Drug Administration,11,7
 2020-05-19,Ford Motor Co,11,8
 2020-05-19,Paycheck Protection Program,11,9
 2020-05-19,Honeywell,14,6
 2020-05-19,Arizona Department Of Health Services,16,5
-2020-05-19,Centers For Disease,17,3
 2020-05-19,Twitter,17,4
+2020-05-19,Centers For Disease,21,3
 2020-05-19,United States,32,2
-2020-05-19,White House,39,1
-2020-05-20,Appreciation Fund,1,48
-2020-05-20,Army Corps Of Engineers,1,49
-2020-05-20,Clorox,1,50
-2020-05-20,Ap Technology Writer,2,19
-2020-05-20,Bandelier National Monument,2,20
-2020-05-20,Canyon Transitional Rehabilitation Center,2,21
-2020-05-20,Chevron,2,22
-2020-05-20,Exxonmobil,2,23
-2020-05-20,Fort Union National Monument,2,24
-2020-05-20,Google,2,25
-2020-05-20,Greenpeace,2,26
-2020-05-20,Life Care Center,2,27
-2020-05-20,Lincoln National Forest,2,28
-2020-05-20,Mexico Association Of Realtors,2,29
-2020-05-20,Mexico Corrections Department,2,30
-2020-05-20,Mexico Outdoor Recreation Division,2,31
-2020-05-20,Mexico State Police,2,32
-2020-05-20,Microsoft,2,33
-2020-05-20,Morgan Lee Associated,2,34
-2020-05-20,Nan,2,35
-2020-05-20,National Park Service,2,36
-2020-05-20,National Weather Service In Albuquerque,2,37
-2020-05-20,Outdoor Equity Fund,2,38
-2020-05-20,Pecos National Historical Park,2,39
-2020-05-20,Raytheon,2,40
-2020-05-20,Raytheon Technologies Corp,2,41
-2020-05-20,Research Laboratory At Kirtland Air Force,2,42
-2020-05-20,Reuters,2,43
-2020-05-20,Senate Republican,2,44
-2020-05-20,Shell,2,45
-2020-05-20,Technology Park On Albuquerque,2,46
-2020-05-20,Valles Caldera National,2,47
-2020-05-20,Arizona Correctional Peace Officers Association,3,7
-2020-05-20,Army Corps,3,8
-2020-05-20,Centers For Disease,3,9
-2020-05-20,Cramer Senate,3,10
-2020-05-20,Department Of Defense Inspector,3,11
-2020-05-20,Ford Motor Co,3,12
-2020-05-20,House Homeland Security Committee,3,13
-2020-05-20,Minor Inc,3,14
-2020-05-20,Trinity Services,3,15
-2020-05-20,Trump State Of The Union,3,16
-2020-05-20,United States,3,17
-2020-05-20,Valley Constructors Co,3,18
-2020-05-20,Department Of Defense,4,5
-2020-05-20,Ford Motor Company Rawsonville,4,6
-2020-05-20,Associated Press,5,4
-2020-05-20,Honeywell,7,3
-2020-05-20,Twitter,9,2
-2020-05-20,White House,13,1
+2020-05-19,White House,43,1
+2020-05-20,Ap Technology Writer,4,39
+2020-05-20,Arizona Legislature,4,40
+2020-05-20,Canyon Transitional Rehabilitation Center,4,41
+2020-05-20,Chevron,4,42
+2020-05-20,Cramer Senate,4,43
+2020-05-20,Department Of Defense Inspector,4,44
+2020-05-20,Dignity Health,4,45
+2020-05-20,Exxonmobil,4,46
+2020-05-20,Ford Motor Company Rawsonville,4,47
+2020-05-20,Google,4,48
+2020-05-20,Greenpeace,4,49
+2020-05-20,Health Department,4,50
+2020-05-20,Flagstaff Medical Center,5,31
+2020-05-20,Ford Motor Co,5,32
+2020-05-20,Gallup Indian Medical Center,5,33
+2020-05-20,Human Services,5,34
+2020-05-20,Minor Inc,5,35
+2020-05-20,Nanizhoozhi Center,5,36
+2020-05-20,Paycheck Protection Program,5,37
+2020-05-20,Shell,5,38
+2020-05-20,Arizona State University,6,16
+2020-05-20,Bandelier National Monument,6,17
+2020-05-20,Banner Health,6,18
+2020-05-20,Drug Administration,6,19
+2020-05-20,Fort Union National Monument,6,20
+2020-05-20,Life Care Center,6,21
+2020-05-20,Mexico Corrections Department,6,22
+2020-05-20,National Park Service,6,23
+2020-05-20,Pecos National Historical Park,6,24
+2020-05-20,Raytheon,6,25
+2020-05-20,Raytheon Technologies Corp,6,26
+2020-05-20,Research Laboratory At Kirtland Air Force,6,27
+2020-05-20,Technology Park On Albuquerque,6,28
+2020-05-20,University Of Arizona,6,29
+2020-05-20,Valles Caldera National,6,30
+2020-05-20,Arizona Department Of Health Services,7,13
+2020-05-20,Army Corps,7,14
+2020-05-20,Centers For Disease,7,15
+2020-05-20,Cnn,8,10
+2020-05-20,House Homeland Security Committee,8,11
+2020-05-20,Morgan Lee Associated,8,12
+2020-05-20,Defense Department,9,9
+2020-05-20,Department Of Defense,10,7
+2020-05-20,Facebook,10,8
+2020-05-20,Honeywell,12,6
+2020-05-20,Army Corps Of Engineers,13,5
+2020-05-20,Associated Press,14,4
+2020-05-20,United States,19,3
+2020-05-20,Twitter,20,2
+2020-05-20,White House,47,1
 2020-05-21,Arizona Department Of Economic Security,3,48
 2020-05-21,Arizona Legislature,3,49
 2020-05-21,Arizona Senate,3,50
@@ -5242,3 +5242,53 @@ date,organization,count,rn
 2020-05-27,White House,15,3
 2020-05-27,Cnn,17,2
 2020-05-27,United States,27,1
+2020-05-28,Arizona Department Of Corrections,3,32
+2020-05-28,Arizona Public Health Association,3,33
+2020-05-28,Army Corps Of Engineers,3,34
+2020-05-28,Department Of Defense,3,35
+2020-05-28,Department Of Health Services,3,36
+2020-05-28,Department Of Homeland Security,3,37
+2020-05-28,Dignity Health,3,38
+2020-05-28,During An Oval Office,3,39
+2020-05-28,Extracorporeal Life Support Organization,3,40
+2020-05-28,Facebook,3,41
+2020-05-28,Highground Public Affairs,3,42
+2020-05-28,Nan,3,43
+2020-05-28,New York Stock Exchange,3,44
+2020-05-28,Norton Thoracic Institute At St,3,45
+2020-05-28,Oval Office,3,46
+2020-05-28,Us Army Corps Of Engineers,3,47
+2020-05-28,Us Border Patrol Academy In Artesia,3,48
+2020-05-28,World Health Organization,3,49
+2020-05-28,York Stock Exchange,3,50
+2020-05-28,Arizona Commerce Authority,4,18
+2020-05-28,Arizona Department Of Emergency,4,19
+2020-05-28,Arizona Express Pay Program,4,20
+2020-05-28,Associated Press,4,21
+2020-05-28,Bright Angel Lodge,4,22
+2020-05-28,Goodyear,4,23
+2020-05-28,Kachina Lodge On,4,24
+2020-05-28,Lassen Volcanic National Park,4,25
+2020-05-28,Maswik Lodge On,4,26
+2020-05-28,National Institutes Of Health,4,27
+2020-05-28,New York Times,4,28
+2020-05-28,Reuters,4,29
+2020-05-28,Utah Zion National Park,4,30
+2020-05-28,Yuma Regional Medical Center,4,31
+2020-05-28,Arizona Army National Guard,5,13
+2020-05-28,Arizona State University,5,14
+2020-05-28,Department Of Health Service,5,15
+2020-05-28,National Institute Of Allergy,5,16
+2020-05-28,Public Health Services,5,17
+2020-05-28,Governor Office,6,11
+2020-05-28,Indian Health Service,6,12
+2020-05-28,Drug Administration,8,8
+2020-05-28,Johns Hopkins University,8,9
+2020-05-28,Morgan,8,10
+2020-05-28,Azcares Fund,9,7
+2020-05-28,Cnn,11,6
+2020-05-28,White House,12,5
+2020-05-28,Emergency Management Agency,13,4
+2020-05-28,Centers For Disease,16,3
+2020-05-28,Arizona Department Of Health Services,17,2
+2020-05-28,United States,24,1

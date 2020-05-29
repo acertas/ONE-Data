@@ -3584,9 +3584,9 @@ date,organization,count,rn
 2020-04-23,New York Times,16,27
 2020-04-23,Meadow Wind Health Care Center,17,25
 2020-04-23,Ohio Department Of Rehabilitation,17,26
-2020-04-23,Ohio National Guard,18,23
 2020-04-23,Ohio Senate,18,24
-2020-04-23,Cnn,20,22
+2020-04-23,Ohio National Guard,20,23
+2020-04-23,Cnn,21,22
 2020-04-23,Ohio Department Of Job,22,21
 2020-04-23,Department Of Health,24,20
 2020-04-23,Pickaway Correctional Institution,27,19
@@ -3595,14 +3595,14 @@ date,organization,count,rn
 2020-04-23,Drug Administration,30,16
 2020-04-23,Family Services,31,15
 2020-04-23,Congressional Budget Office,32,14
-2020-04-23,Nan,35,13
-2020-04-23,Associated Press,39,12
+2020-04-23,Nan,36,13
+2020-04-23,Associated Press,40,12
 2020-04-23,Centers For Disease,43,11
-2020-04-23,Small Business Administration,52,9
-2020-04-23,United States,52,10
+2020-04-23,Small Business Administration,52,10
 2020-04-23,Marion Correctional Institution,53,8
-2020-04-23,Postal Service,54,6
-2020-04-23,White House,54,7
+2020-04-23,United States,53,9
+2020-04-23,Postal Service,54,7
+2020-04-23,White House,56,6
 2020-04-23,Paycheck Protection Program,63,5
 2020-04-23,Senate Majority Leader Mitch Mcconnell,69,4
 2020-04-23,Twitter,72,3
@@ -3657,7 +3657,7 @@ date,organization,count,rn
 2020-04-24,Marion Correctional Institution,54,4
 2020-04-24,Facebook,59,3
 2020-04-24,United States,70,2
-2020-04-24,Ohio Department Of Health,78,1
+2020-04-24,Ohio Department Of Health,79,1
 2020-04-25,A Senate,5,34
 2020-04-25,Albert Einstein College Of Medicine,5,35
 2020-04-25,Braun,5,36
@@ -3675,16 +3675,16 @@ date,organization,count,rn
 2020-04-25,Midlands Health,5,48
 2020-04-25,National Governors Association,5,49
 2020-04-25,Powell City Council,5,50
-2020-04-25,A Republican National Committee,6,24
-2020-04-25,Addiction Services,6,25
-2020-04-25,Bureau Of Prisons,6,26
-2020-04-25,Morgan,6,27
-2020-04-25,Ohio Association Of Election Officials,6,28
-2020-04-25,Ohio Department Of Education,6,29
+2020-04-25,A Republican National Committee,6,25
+2020-04-25,Addiction Services,6,26
+2020-04-25,Bureau Of Prisons,6,27
+2020-04-25,Morgan,6,28
+2020-04-25,Ohio Association Of Election Officials,6,29
 2020-04-25,Ohio Department Of Mental Health,6,30
 2020-04-25,Ohio Supreme Court,6,31
 2020-04-25,Partners In Health,6,32
 2020-04-25,Testing Strike Team,6,33
+2020-04-25,Ohio Department Of Education,7,24
 2020-04-25,Cnn,8,19
 2020-04-25,Environmental Health,8,20
 2020-04-25,Ohio Democratic Party,8,21
@@ -3697,8 +3697,8 @@ date,organization,count,rn
 2020-04-25,Ohio State University,12,14
 2020-04-25,University Hospitals,13,13
 2020-04-25,Thermo Fisher,14,12
-2020-04-25,Drug Administration,16,10
-2020-04-25,Nan,16,11
+2020-04-25,Drug Administration,16,11
+2020-04-25,Nan,17,10
 2020-04-25,Centers For Disease,18,8
 2020-04-25,Department Of Health,18,9
 2020-04-25,New York Times,21,5
@@ -3708,106 +3708,106 @@ date,organization,count,rn
 2020-04-25,United States,22,4
 2020-04-25,Marion Correctional Institution,28,2
 2020-04-25,Ohio Department Of Health,29,1
-2020-04-26,Centers For Disease,5,34
-2020-04-26,Corinthian Baptist Church,5,35
-2020-04-26,Democratic Party,5,36
-2020-04-26,Elections Research Center,5,37
-2020-04-26,Elgin High School,5,38
-2020-04-26,Human Services,5,39
-2020-04-26,Marion Harding High School Class,5,40
-2020-04-26,Ohio Association Of Election Officials,5,41
-2020-04-26,Ohio Department Of Health Order,5,42
-2020-04-26,Ohio League,5,43
-2020-04-26,Ohio Supreme Court,5,44
-2020-04-26,Public Health Amy Acton,5,45
-2020-04-26,Rice University,5,46
-2020-04-26,Rivers Career Center,5,47
-2020-04-26,Uc College Of Medicine,5,48
-2020-04-26,Uc Health,5,49
-2020-04-26,University Of Cincinnati,5,50
-2020-04-26,Census Bureau,6,25
-2020-04-26,Cuyahoga Valley National Park,6,26
-2020-04-26,Development Organization,6,27
-2020-04-26,House Education Committee,6,28
-2020-04-26,Ohio Sustainable Communities Consortium,6,29
-2020-04-26,Powell City Council,6,30
-2020-04-26,Supreme Court,6,31
-2020-04-26,Twitter,6,32
-2020-04-26,University Of Dayton,6,33
-2020-04-26,Brennan Center,7,19
-2020-04-26,Family Services,7,20
-2020-04-26,Health Department,7,21
-2020-04-26,Marion Public Health,7,22
-2020-04-26,National Conference Of State Legislatures,7,23
+2020-04-26,Democratic Party,5,43
+2020-04-26,Elgin High School,5,44
+2020-04-26,Human Services,5,45
+2020-04-26,Marion Harding High School Class,5,46
+2020-04-26,Ohio Department Of Health Order,5,47
+2020-04-26,Ohio Supreme Court,5,48
+2020-04-26,Rivers Career Center,5,49
+2020-04-26,Uc College Of Medicine,5,50
+2020-04-26,Census Bureau,6,27
+2020-04-26,Centers For Disease,6,28
+2020-04-26,Corinthian Baptist Church,6,29
+2020-04-26,Cuyahoga Valley National Park,6,30
+2020-04-26,Development Organization,6,31
+2020-04-26,Elections Research Center,6,32
+2020-04-26,House Education Committee,6,33
+2020-04-26,Ohio Association Of Election Officials,6,34
+2020-04-26,Ohio League,6,35
+2020-04-26,Ohio Sustainable Communities Consortium,6,36
+2020-04-26,Powell City Council,6,37
+2020-04-26,Public Health Amy Acton,6,38
+2020-04-26,Rice University,6,39
+2020-04-26,University Of Cincinnati,6,40
+2020-04-26,University Of Dayton,6,41
+2020-04-26,University Of Wisconsin,6,42
+2020-04-26,Health Department,7,22
+2020-04-26,Marion Public Health,7,23
 2020-04-26,Office Of Management,7,24
-2020-04-26,Economic Recovery Task,8,16
-2020-04-26,Marion Correctional Institution,8,17
-2020-04-26,Ohio University,8,18
-2020-04-26,Ohio Areawide Coordinating Agency,9,14
-2020-04-26,Ohio Department Of Rehabilitation,9,15
+2020-04-26,Supreme Court,7,25
+2020-04-26,Twitter,7,26
+2020-04-26,Brennan Center,8,17
+2020-04-26,Economic Recovery Task,8,18
+2020-04-26,Marion Correctional Institution,8,19
+2020-04-26,National Conference Of State Legislatures,8,20
+2020-04-26,Ohio University,8,21
+2020-04-26,Ohio Areawide Coordinating Agency,9,15
+2020-04-26,Ohio Department Of Rehabilitation,9,16
 2020-04-26,Associated Press,10,13
+2020-04-26,Family Services,10,14
 2020-04-26,Nan,11,10
 2020-04-26,Ohio Department Of Job,11,11
 2020-04-26,Youtube,11,12
 2020-04-26,Ohio Department Of Education,13,9
 2020-04-26,Mooney,14,8
-2020-04-26,White House,17,7
 2020-04-26,Republican Party,18,6
+2020-04-26,White House,18,7
 2020-04-26,Tribune Content Agency,20,5
 2020-04-26,Facebook,24,4
-2020-04-26,Ohio Department Of Health,32,2
 2020-04-26,Ohio State University,32,3
+2020-04-26,Ohio Department Of Health,33,2
 2020-04-26,United States,47,1
-2020-04-27,Boeing,6,42
-2020-04-27,Family Services,6,43
+2020-04-27,Boeing,6,43
 2020-04-27,Geneva High School,6,44
 2020-04-27,Google,6,45
-2020-04-27,National Institutes Of Health,6,46
-2020-04-27,Ohio Manufacturers Association,6,47
-2020-04-27,Ohio Senate,6,48
-2020-04-27,Payment Protection Program,6,49
-2020-04-27,Roe Dental Lab In Cleveland,6,50
-2020-04-27,Department Of Labor,7,35
-2020-04-27,Franklin Medical Center,7,36
-2020-04-27,New York Times,7,37
-2020-04-27,Small Business Administration Economic Injury Disaster Loan,7,38
-2020-04-27,United Nations,7,39
-2020-04-27,Wells Fargo,7,40
-2020-04-27,World Health Organization,7,41
-2020-04-27,Ohio Health Care Association,8,30
-2020-04-27,Ohio Hospital Association,8,31
-2020-04-27,Ohio Supreme Court,8,32
-2020-04-27,Senate Majority Leader Mitch Mcconnell,8,33
-2020-04-27,University Of Cincinnati,8,34
+2020-04-27,Johns Hopkins University,6,46
+2020-04-27,National Institutes Of Health,6,47
+2020-04-27,Ohio Department Of Job,6,48
+2020-04-27,Ohio Manufacturers Association,6,49
+2020-04-27,Ohio Senate,6,50
+2020-04-27,Department Of Labor,7,37
+2020-04-27,Franklin Medical Center,7,38
+2020-04-27,Small Business Administration Economic Injury Disaster Loan,7,39
+2020-04-27,United Nations,7,40
+2020-04-27,Wells Fargo,7,41
+2020-04-27,World Health Organization,7,42
+2020-04-27,Family Services,8,30
+2020-04-27,New York Times,8,31
+2020-04-27,Ohio Health Care Association,8,32
+2020-04-27,Ohio Hospital Association,8,33
+2020-04-27,Ohio Supreme Court,8,34
+2020-04-27,Senate Majority Leader Mitch Mcconnell,8,35
+2020-04-27,University Of Cincinnati,8,36
 2020-04-27,Drug Administration,9,28
 2020-04-27,Ohio Restaurant Association,9,29
 2020-04-27,Postal Service,10,26
 2020-04-27,Thermo Fisher,10,27
 2020-04-27,Msnbc,11,25
-2020-04-27,Bureau Of Prisons,12,20
-2020-04-27,Consumer Financial Protection Bureau,12,21
-2020-04-27,Kroger,12,22
-2020-04-27,Paycheck Protection Program,12,23
-2020-04-27,Supreme Court,12,24
+2020-04-27,Bureau Of Prisons,12,21
+2020-04-27,Consumer Financial Protection Bureau,12,22
+2020-04-27,Kroger,12,23
+2020-04-27,Paycheck Protection Program,12,24
 2020-04-27,Ohio State University,13,18
 2020-04-27,Small Business Administration,13,19
+2020-04-27,Supreme Court,13,20
 2020-04-27,Tribune Content Agency,14,17
 2020-04-27,Reuters,15,16
 2020-04-27,Kroger Co,16,15
 2020-04-27,Democratic Party,17,14
 2020-04-27,Cnn,18,13
 2020-04-27,Department Of Health,19,12
-2020-04-27,Associated Press,20,10
 2020-04-27,Marion Correctional Institution,20,11
-2020-04-27,Pickaway Correctional Institution,21,9
+2020-04-27,Associated Press,21,9
+2020-04-27,Pickaway Correctional Institution,21,10
 2020-04-27,Baldwin Wallace University,27,8
 2020-04-27,Centers For Disease,28,7
-2020-04-27,Twitter,32,6
+2020-04-27,Twitter,33,6
 2020-04-27,Facebook,37,5
-2020-04-27,White House,39,4
-2020-04-27,Nan,40,3
-2020-04-27,Ohio Department Of Health,57,2
-2020-04-27,United States,68,1
+2020-04-27,White House,40,4
+2020-04-27,Nan,41,3
+2020-04-27,Ohio Department Of Health,58,2
+2020-04-27,United States,71,1
 2020-04-28,Harvard Global Health Institute,11,48
 2020-04-28,Henry Ford Health System In Detroit,11,49
 2020-04-28,Michigan State University,11,50
@@ -3843,9 +3843,9 @@ date,organization,count,rn
 2020-04-28,National Conference Of State Legislatures,29,18
 2020-04-28,Baldwin Wallace University,36,17
 2020-04-28,Ohio Health Department,44,16
-2020-04-28,Facebook,45,13
-2020-04-28,Nan,45,14
+2020-04-28,Facebook,45,14
 2020-04-28,White House,45,15
+2020-04-28,Nan,46,13
 2020-04-28,United States,47,12
 2020-04-28,Centers For Disease,50,11
 2020-04-28,National Federation Of Independent Businesses,52,7
@@ -3958,23 +3958,23 @@ date,organization,count,rn
 2020-04-30,United States,60,3
 2020-04-30,Ohio Department Of Health,76,2
 2020-04-30,White House,80,1
-2020-05-01,Members Of The Ohio National Guard,7,49
-2020-05-01,National Bobblehead Hall,7,50
+2020-05-01,Members Of The Ohio National Guard,7,50
 2020-05-01,Commissioners Association Of Ohio,8,42
 2020-05-01,Electoral College,8,43
 2020-05-01,Google,8,44
 2020-05-01,Lawyer Committee For Civil Rights Under Law,8,45
-2020-05-01,Postal Service,8,46
-2020-05-01,Republican Party,8,47
-2020-05-01,Tea Party Republicans,8,48
+2020-05-01,Ohio Restaurant Association,8,46
+2020-05-01,Postal Service,8,47
+2020-05-01,Republican Party,8,48
+2020-05-01,Tea Party Republicans,8,49
 2020-05-01,Walmart,9,41
-2020-05-01,Department Of Health,11,36
-2020-05-01,Drug Administration,11,37
 2020-05-01,Instagram,11,38
 2020-05-01,National Federation Of Independent Business Ohio,11,39
 2020-05-01,University Of Cincinnati,11,40
 2020-05-01,Blackwell,12,34
-2020-05-01,International Foundation For Electoral Systems,12,35
+2020-05-01,Department Of Health,12,35
+2020-05-01,Drug Administration,12,36
+2020-05-01,International Foundation For Electoral Systems,12,37
 2020-05-01,Democratic National Committee,14,29
 2020-05-01,National Guard,14,30
 2020-05-01,Ohio State University,14,31
@@ -3984,9 +3984,9 @@ date,organization,count,rn
 2020-05-01,Franklin Medical Center,15,28
 2020-05-01,Costco,17,25
 2020-05-01,Family Services,17,26
-2020-05-01,Kroger,18,22
-2020-05-01,Paycheck Protection Program,18,23
+2020-05-01,Kroger,18,23
 2020-05-01,University Of Delaware Do,18,24
+2020-05-01,Paycheck Protection Program,19,22
 2020-05-01,Anita Hill Senate,20,20
 2020-05-01,Clinton Foundation,20,21
 2020-05-01,National Archives,21,19
@@ -4006,7 +4006,7 @@ date,organization,count,rn
 2020-05-01,White House,45,5
 2020-05-01,United States,48,4
 2020-05-01,Marion Correctional Institution,50,3
-2020-05-01,Ohio Department Of Health,57,2
+2020-05-01,Ohio Department Of Health,58,2
 2020-05-01,Facebook,64,1
 2020-05-02,Anniversary Advisory Committee,6,44
 2020-05-02,Blackwell,6,45
@@ -4134,21 +4134,21 @@ date,organization,count,rn
 2020-05-04,Jackson State University,15,25
 2020-05-04,Johns Hopkins University,15,26
 2020-05-04,New York Times,15,27
-2020-05-04,Democratic Society,16,23
-2020-05-04,Nan,16,24
+2020-05-04,Democratic Society,16,24
+2020-05-04,Nan,17,23
 2020-05-04,Democratic Party,18,21
 2020-05-04,Ohio State University,18,22
-2020-05-04,Kroger,20,18
 2020-05-04,Ohio Wright State University,20,19
 2020-05-04,Physicians Action Network,20,20
+2020-05-04,Kroger,22,18
 2020-05-04,Young,23,17
 2020-05-04,Centers For Disease,24,16
 2020-05-04,Tom Hanks Center,29,15
 2020-05-04,Cnn,31,14
 2020-05-04,Twitter,32,13
 2020-05-04,Wright State University,33,12
-2020-05-04,Ohio Department Of Health,37,11
 2020-05-04,Facebook,38,10
+2020-05-04,Ohio Department Of Health,38,11
 2020-05-04,Associated Press,45,9
 2020-05-04,Ohio National Guardsmen,48,8
 2020-05-04,White House,55,7
@@ -4190,23 +4190,23 @@ date,organization,count,rn
 2020-05-05,Youtube,15,21
 2020-05-05,Johns Hopkins University,17,19
 2020-05-05,Justice Department,17,20
-2020-05-05,Defense Department,20,16
-2020-05-05,Kroger,20,17
+2020-05-05,Defense Department,20,17
 2020-05-05,National Security Council,20,18
-2020-05-05,Ohio National Guard,21,15
-2020-05-05,Cnn,22,14
-2020-05-05,Kent State University,23,12
-2020-05-05,Purdue University,23,13
-2020-05-05,Ohio Department Of Job,24,11
-2020-05-05,Twitter,26,10
+2020-05-05,Kroger,21,15
+2020-05-05,Ohio National Guard,21,16
+2020-05-05,Kent State University,23,13
+2020-05-05,Purdue University,23,14
+2020-05-05,Cnn,24,11
+2020-05-05,Ohio Department Of Job,24,12
 2020-05-05,Family Services,28,9
+2020-05-05,Twitter,28,10
 2020-05-05,Nan,29,8
-2020-05-05,Associated Press,32,7
-2020-05-05,Honeywell,34,6
+2020-05-05,Associated Press,33,7
+2020-05-05,Honeywell,35,6
 2020-05-05,Facebook,38,5
-2020-05-05,Centers For Disease,41,4
-2020-05-05,White House,54,3
-2020-05-05,United States,57,2
+2020-05-05,Centers For Disease,43,4
+2020-05-05,United States,58,3
+2020-05-05,White House,59,2
 2020-05-05,Ohio Department Of Health,74,1
 2020-05-06,Baldwin Wallace University Ohio Poll,6,45
 2020-05-06,Brennan Center,6,46
@@ -4214,35 +4214,35 @@ date,organization,count,rn
 2020-05-06,Honeywell International Inc,6,48
 2020-05-06,Mercy Health,6,49
 2020-05-06,Second Harvest Food Bank,6,50
-2020-05-06,Buckeye Association Of School Administrators,7,35
-2020-05-06,Cnn,7,36
-2020-05-06,Democratic Party,7,37
-2020-05-06,Justice Department,7,38
-2020-05-06,Meijer,7,39
-2020-05-06,Ohio Association Of School Business Officials,7,40
-2020-05-06,Ohio Congress,7,41
-2020-05-06,Ohio School Boards Association,7,42
-2020-05-06,Ohio Senate,7,43
+2020-05-06,Buckeye Association Of School Administrators,7,36
+2020-05-06,Cnn,7,37
+2020-05-06,Democratic Party,7,38
+2020-05-06,Justice Department,7,39
+2020-05-06,Meijer,7,40
+2020-05-06,Ohio Association Of School Business Officials,7,41
+2020-05-06,Ohio Congress,7,42
+2020-05-06,Ohio School Boards Association,7,43
 2020-05-06,Thomson Reuters Trust Principles,7,44
-2020-05-06,Department Of Homeland Security,8,29
-2020-05-06,Human Services,8,30
-2020-05-06,National Guard,8,31
-2020-05-06,Ohio Department Of Transportation,8,32
-2020-05-06,Ohio State University Wexner Medical Center,8,33
-2020-05-06,Wendy,8,34
+2020-05-06,Department Of Homeland Security,8,30
+2020-05-06,Human Services,8,31
+2020-05-06,National Guard,8,32
+2020-05-06,Ohio Department Of Transportation,8,33
+2020-05-06,Ohio State University Wexner Medical Center,8,34
+2020-05-06,Wendy,8,35
 2020-05-06,Instagram,9,27
 2020-05-06,Kroger,9,28
-2020-05-06,Committee On Agency Rule,11,25
-2020-05-06,Government Committee,11,26
-2020-05-06,American Civil Liberties Union On,12,19
-2020-05-06,City Bureau,12,20
-2020-05-06,Council On,12,21
-2020-05-06,Cuyahoga Community College,12,22
-2020-05-06,Darden Restaurants,12,23
-2020-05-06,Greater Cleveland Regional Transit Authority,12,24
-2020-05-06,Honeywell,13,16
-2020-05-06,Ohio Association Of Election Officials,13,17
-2020-05-06,Ohio State University,13,18
+2020-05-06,Ohio Senate,9,29
+2020-05-06,Committee On Agency Rule,11,26
+2020-05-06,American Civil Liberties Union On,12,20
+2020-05-06,City Bureau,12,21
+2020-05-06,Council On,12,22
+2020-05-06,Cuyahoga Community College,12,23
+2020-05-06,Darden Restaurants,12,24
+2020-05-06,Greater Cleveland Regional Transit Authority,12,25
+2020-05-06,Government Committee,13,16
+2020-05-06,Honeywell,13,17
+2020-05-06,Ohio Association Of Election Officials,13,18
+2020-05-06,Ohio State University,13,19
 2020-05-06,Ohio National Guard,17,15
 2020-05-06,Pakistani Embassy,19,14
 2020-05-06,Department Of Health,20,13
@@ -4254,10 +4254,10 @@ date,organization,count,rn
 2020-05-06,Ohio Supreme Court,29,7
 2020-05-06,Associated Press,31,6
 2020-05-06,New York Times,41,5
-2020-05-06,United States,46,3
-2020-05-06,White House,46,4
+2020-05-06,United States,46,4
+2020-05-06,White House,47,3
 2020-05-06,Centers For Disease,59,2
-2020-05-06,Ohio Department Of Health,97,1
+2020-05-06,Ohio Department Of Health,99,1
 2020-05-07,Globalist Health,9,48
 2020-05-07,Health Department,9,49
 2020-05-07,Kroger,9,50
@@ -4300,8 +4300,8 @@ date,organization,count,rn
 2020-05-07,Olmsted High School,21,14
 2020-05-07,National Guard,22,9
 2020-05-07,New York Times,22,10
-2020-05-07,Department Of Health,25,7
 2020-05-07,Nan,25,8
+2020-05-07,Department Of Health,26,7
 2020-05-07,Twitter,27,6
 2020-05-07,Centers For Disease,30,5
 2020-05-07,Ohio Senate,32,4
@@ -4492,10 +4492,10 @@ date,organization,count,rn
 2020-05-11,Health Department,11,17
 2020-05-11,Human Services,11,18
 2020-05-11,Kroger,11,19
-2020-05-11,Drug Administration,12,14
-2020-05-11,Ohio Department Of Rehabilitation,12,15
+2020-05-11,Drug Administration,12,15
 2020-05-11,Tribune Content Agency,12,16
 2020-05-11,National Guard,13,13
+2020-05-11,Ohio Department Of Rehabilitation,13,14
 2020-05-11,Nan,15,12
 2020-05-11,Family Services,21,11
 2020-05-11,Ohio Pickaway Correctional Institution,25,8
@@ -4506,29 +4506,29 @@ date,organization,count,rn
 2020-05-11,White House,35,5
 2020-05-11,Ohio State University,39,4
 2020-05-11,Centers For Disease,40,3
-2020-05-11,United States,45,2
+2020-05-11,United States,46,2
 2020-05-11,Ohio Department Of Health,65,1
-2020-05-12,American Enterprise Institute,6,40
-2020-05-12,Congressional Budget Office,6,41
-2020-05-12,Congressional Research Service,6,42
-2020-05-12,Department Of Homeland Security,6,43
-2020-05-12,Energy Department,6,44
-2020-05-12,Federal Reserve,6,45
-2020-05-12,National Institutes Of Health,6,46
+2020-05-12,American Enterprise Institute,6,41
+2020-05-12,Congressional Budget Office,6,42
+2020-05-12,Congressional Research Service,6,43
+2020-05-12,Department Of Homeland Security,6,44
+2020-05-12,Energy Department,6,45
+2020-05-12,Federal Reserve,6,46
 2020-05-12,Paycheck Protection Program,6,47
 2020-05-12,Postal Service,6,48
 2020-05-12,Solon City School District,6,49
 2020-05-12,Solon Educational Television,6,50
-2020-05-12,Facebook,7,35
-2020-05-12,Georgetown University,7,36
+2020-05-12,Facebook,7,36
 2020-05-12,Kroger,7,37
 2020-05-12,Msnbc,7,38
-2020-05-12,Office Of Criminal Justice Services,7,39
+2020-05-12,National Institutes Of Health,7,39
+2020-05-12,Office Of Criminal Justice Services,7,40
 2020-05-12,Department Of Health,8,30
 2020-05-12,Drug Administration,8,31
-2020-05-12,Human Services,8,32
-2020-05-12,Marion Correctional Institution,8,33
-2020-05-12,Small Business Administration,8,34
+2020-05-12,Georgetown University,8,32
+2020-05-12,Human Services,8,33
+2020-05-12,Marion Correctional Institution,8,34
+2020-05-12,Small Business Administration,8,35
 2020-05-12,Affordable Housing Trust For Columbus,9,22
 2020-05-12,American Academy Of Pediatrics,9,23
 2020-05-12,Avon Economic Development Coordinator Pam Fechter,9,24
@@ -4539,11 +4539,11 @@ date,organization,count,rn
 2020-05-12,Princeton University Eviction Lab,9,29
 2020-05-12,Cnn,10,20
 2020-05-12,Ohio Department Of Education,10,21
-2020-05-12,City Council,11,18
-2020-05-12,Supreme Court,11,19
+2020-05-12,City Council,11,19
 2020-05-12,New York Times,12,15
 2020-05-12,Ohio Poverty Law Center,12,16
 2020-05-12,Ohio Supreme Court,12,17
+2020-05-12,Supreme Court,12,18
 2020-05-12,Ohio Department Of Job,13,11
 2020-05-12,Ohio Department Of Medicaid,13,12
 2020-05-12,Ohio Health Care Association,13,13
@@ -4551,13 +4551,13 @@ date,organization,count,rn
 2020-05-12,Youtube,16,10
 2020-05-12,Health Department,18,9
 2020-05-12,Family Services,20,8
-2020-05-12,Associated Press,25,7
-2020-05-12,Twitter,33,6
+2020-05-12,Associated Press,26,7
+2020-05-12,Twitter,34,6
 2020-05-12,Nan,35,5
-2020-05-12,Centers For Disease,39,4
+2020-05-12,Centers For Disease,40,4
 2020-05-12,United States,50,3
-2020-05-12,White House,82,2
-2020-05-12,Ohio Department Of Health,104,1
+2020-05-12,White House,83,2
+2020-05-12,Ohio Department Of Health,105,1
 2020-05-13,Bureau Of Prisons,5,39
 2020-05-13,California State University,5,40
 2020-05-13,Congressional Research Service,5,41
@@ -4894,70 +4894,70 @@ date,organization,count,rn
 2020-05-19,Juilliard School,12,17
 2020-05-19,Ohio Department Of Rehabilitation,12,18
 2020-05-19,Senate Majority Leader Mitch Mcconnell,12,19
-2020-05-19,Health Department,14,13
 2020-05-19,Presbyterian Church,14,14
 2020-05-19,Glenn College Of Public Affairs,15,10
-2020-05-19,Hollins University,15,11
-2020-05-19,Muskingum College,15,12
+2020-05-19,Health Department,15,11
+2020-05-19,Hollins University,15,12
+2020-05-19,Muskingum College,15,13
 2020-05-19,Muskingum University,16,9
 2020-05-19,Hearing Association,21,8
-2020-05-19,Ohio National Guard,24,7
+2020-05-19,Ohio National Guard,25,7
 2020-05-19,John Glenn College Of Public Affairs,26,6
 2020-05-19,Ohio State University,34,5
 2020-05-19,White House,40,4
 2020-05-19,Associated Press,46,3
-2020-05-19,Ohio Department Of Health,50,2
-2020-05-19,United States,57,1
-2020-05-20,Brown University,1,39
-2020-05-20,Burger King,1,40
-2020-05-20,Cornell University,1,41
-2020-05-20,Correctional Reception Center,1,42
-2020-05-20,Council On Contemporary Families,1,43
-2020-05-20,Democrats In Congress,1,44
-2020-05-20,Department Of Rehabilitation,1,45
-2020-05-20,Emerson College,1,46
-2020-05-20,Family Therapy Training Center,1,47
-2020-05-20,Federal Reserve,1,48
-2020-05-20,Heidt Center,1,49
-2020-05-20,Hillstone Restaurant Group,1,50
-2020-05-20,Amnesty International,2,28
-2020-05-20,Cnn,2,29
-2020-05-20,Department Of Taxation,2,30
-2020-05-20,Means Committee,2,31
-2020-05-20,Nan,2,32
-2020-05-20,National Federation Of Independent Business,2,33
-2020-05-20,Ohio Chamber,2,34
-2020-05-20,Ohio Council Of Retail Merchants,2,35
-2020-05-20,Our Urgent Health Advisory,2,36
-2020-05-20,Supreme Court On,2,37
-2020-05-20,Urgent Health Advisory,2,38
-2020-05-20,American Civil Liberties Union,3,18
-2020-05-20,Educational Fund,3,19
-2020-05-20,Facebook,3,20
-2020-05-20,Fraternal Order Of Police,3,21
-2020-05-20,Health Department,3,22
-2020-05-20,Hearing Association Annie Glenn Award,3,23
-2020-05-20,Human Services,3,24
-2020-05-20,Refugee Rights Coalition,3,25
-2020-05-20,Tennessee Association Of Chiefs Of Police,3,26
-2020-05-20,White House,3,27
-2020-05-20,Department Of Speech,4,11
-2020-05-20,Glenn College Of Public Affairs,4,12
-2020-05-20,Glenn Senate,4,13
-2020-05-20,Hearing Association,4,14
-2020-05-20,John Glenn College Of Public Affairs,4,15
-2020-05-20,Ohio National Guard,4,16
-2020-05-20,Speech Pathology Department At Ohio State University,4,17
-2020-05-20,Associated Press,7,3
-2020-05-20,Communications Research Institute At Hollins College,7,4
-2020-05-20,Glenn College,7,5
-2020-05-20,Hollins University,7,6
-2020-05-20,Juilliard School,7,7
-2020-05-20,Muskingum College,7,8
-2020-05-20,Muskingum University,7,9
-2020-05-20,Presbyterian Church,7,10
-2020-05-20,Ohio State University,9,1
-2020-05-20,United States,9,2
+2020-05-19,Ohio Department Of Health,53,2
+2020-05-19,United States,59,1
+2020-05-20,Bureau Of Worker Compensation,6,49
+2020-05-20,Christ Hospital Health Network,6,50
+2020-05-20,American Civil Liberties Union,7,38
+2020-05-20,Army Guard,7,39
+2020-05-20,Department Of Rehabilitation,7,40
+2020-05-20,Health District,7,41
+2020-05-20,Hearing Association,7,42
+2020-05-20,Marion Public Health,7,43
+2020-05-20,Trump Administration,7,44
+2020-05-20,Uc Health,7,45
+2020-05-20,University Of Pittsburgh Public Health Dynamics Lab,7,46
+2020-05-20,Urgent Health Advisory,7,47
+2020-05-20,Youtube,7,48
+2020-05-20,University Of Pittsburgh,8,37
+2020-05-20,Correctional Reception Center,9,34
+2020-05-20,Google,9,35
+2020-05-20,Ohio Restaurant Association,9,36
+2020-05-20,Amerispeak Panel,10,30
+2020-05-20,Finney Law Firm,10,31
+2020-05-20,Senate Minority Leader Kenny Yuko,10,32
+2020-05-20,While The Ohio Bureau Of Motor Vehicles,10,33
+2020-05-20,Centers For Disease,12,28
+2020-05-20,Ohio Health Department,12,29
+2020-05-20,Case Western Reserve University,14,26
+2020-05-20,Cnn,14,27
+2020-05-20,New York Times,15,24
+2020-05-20,Twitter,15,25
+2020-05-20,Facebook,18,22
+2020-05-20,Ohio Health,18,23
+2020-05-20,Public Affairs Research,19,21
+2020-05-20,Nan,21,20
+2020-05-20,Ohio Senate,22,19
+2020-05-20,Supreme Court,24,18
+2020-05-20,Glenn College Of Public Affairs,25,17
+2020-05-20,Ohio National Guard,28,14
+2020-05-20,Presbyterian Church,28,15
+2020-05-20,White House,28,16
+2020-05-20,Health Department,29,13
+2020-05-20,Ohio Senate On,30,12
+2020-05-20,Department Of Speech,31,11
+2020-05-20,Ohio State University,34,10
+2020-05-20,Communications Research Institute At Hollins College,36,6
+2020-05-20,Glenn College,36,7
+2020-05-20,Hollins University,36,8
+2020-05-20,Muskingum College,36,9
+2020-05-20,United States,37,5
+2020-05-20,Juilliard School,39,3
+2020-05-20,Muskingum University,39,4
+2020-05-20,Associated Press,59,2
+2020-05-20,Ohio Department Of Health,106,1
 2020-05-21,Army National Guard,5,43
 2020-05-21,Democratic Congressional Campaign Committee,5,44
 2020-05-21,Democratic National Committee,5,45
@@ -5308,3 +5308,53 @@ date,organization,count,rn
 2020-05-27,Centers For Disease,31,3
 2020-05-27,Ohio Department Of Health,47,2
 2020-05-27,United States,49,1
+2020-05-28,Aaron,5,43
+2020-05-28,Chardon United Methodist Church,5,44
+2020-05-28,Claire,5,45
+2020-05-28,Dewine Fair Advisory Group,5,46
+2020-05-28,Edoptions Academy,5,47
+2020-05-28,Health Department,5,48
+2020-05-28,National Center,5,49
+2020-05-28,Ohio Pharmacists Association,5,50
+2020-05-28,Boeing,6,41
+2020-05-28,Union Township,6,42
+2020-05-28,Bipartisan Policy Center,7,33
+2020-05-28,Cnn,7,34
+2020-05-28,Instagram,7,35
+2020-05-28,Nissan,7,36
+2020-05-28,Ohioans In Priority Group,7,37
+2020-05-28,Supreme Court,7,38
+2020-05-28,White House,7,39
+2020-05-28,World Health Organization,7,40
+2020-05-28,Bureau Of Prisons,8,24
+2020-05-28,Easyjet,8,25
+2020-05-28,Economic Recovery Task,8,26
+2020-05-28,Ohio Bureau Of Worker Compensation,8,27
+2020-05-28,Ohio Bureau Of Workers Compensation,8,28
+2020-05-28,Paycheck Protection Program,8,29
+2020-05-28,Senate Bills,8,30
+2020-05-28,Tribune Content Agency,8,31
+2020-05-28,Visitors Bureau,8,32
+2020-05-28,Academy For Senior Health Sciences,9,22
+2020-05-28,Ohio Assisted Living Association,9,23
+2020-05-28,Department Of Job,10,20
+2020-05-28,Ohio Senate,10,21
+2020-05-28,Giant Eagle,11,18
+2020-05-28,Ohio Health Care Association,11,19
+2020-05-28,College Of Wooster,12,16
+2020-05-28,Women Rights National Historical Park,12,17
+2020-05-28,Deloitte,13,13
+2020-05-28,Nan,13,14
+2020-05-28,Sagitec Solutions,13,15
+2020-05-28,Centers For Disease,16,10
+2020-05-28,National Guard,16,11
+2020-05-28,Ohio National Guard,16,12
+2020-05-28,Johns Hopkins University,17,9
+2020-05-28,Family Services,20,6
+2020-05-28,Ohio Department Of Agriculture,20,7
+2020-05-28,Ohio Department Of Job,20,8
+2020-05-28,Associated Press,26,5
+2020-05-28,Twitter,29,4
+2020-05-28,Facebook,33,2
+2020-05-28,United States,33,3
+2020-05-28,Ohio Department Of Health,74,1

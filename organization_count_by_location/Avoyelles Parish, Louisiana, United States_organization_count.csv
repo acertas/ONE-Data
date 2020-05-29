@@ -3138,9 +3138,9 @@ date,organization,count,rn
 2020-04-23,New York Times,8,17
 2020-04-23,Louisiana Workforce Commission,9,12
 2020-04-23,Supreme Court,9,13
-2020-04-23,Associated Press,11,10
-2020-04-23,Reuters,11,11
-2020-04-23,Payroll Protection Program,12,9
+2020-04-23,Associated Press,12,9
+2020-04-23,Payroll Protection Program,12,10
+2020-04-23,Reuters,12,11
 2020-04-23,Centers For Disease,13,5
 2020-04-23,Department Of Energy,13,6
 2020-04-23,Petroleum Association Of America,13,7
@@ -3148,7 +3148,7 @@ date,organization,count,rn
 2020-04-23,Cnn,14,3
 2020-04-23,Facebook,14,4
 2020-04-23,United States,23,2
-2020-04-23,White House,28,1
+2020-04-23,White House,31,1
 2020-04-24,Allianz,3,38
 2020-04-24,Cnn,3,39
 2020-04-24,Department Of Defense,3,40
@@ -3271,15 +3271,15 @@ date,organization,count,rn
 2020-04-26,New York Daily News,3,39
 2020-04-26,Patrick Semansky,3,40
 2020-04-26,Republican Senate Majority Leader Mitch Mcconnell,3,41
-2020-04-26,Centers For Disease,4,22
-2020-04-26,Department Of Wildlife Fisheries,4,23
+2020-04-26,Centers For Disease,4,23
 2020-04-26,Duke University,4,24
 2020-04-26,Instagram,4,25
 2020-04-26,Life Tabernacle Church On,4,26
 2020-04-26,Louisiana Department Of Wildlife Fisheries,4,27
 2020-04-26,National Health Commission,4,28
-2020-04-26,Reuters,5,20
-2020-04-26,World Health Organization,5,21
+2020-04-26,Department Of Wildlife Fisheries,5,20
+2020-04-26,Reuters,5,21
+2020-04-26,World Health Organization,5,22
 2020-04-26,Fred Hutchinson Cancer Research Center,6,16
 2020-04-26,Judicial District Court,6,17
 2020-04-26,Louisiana Health Department On,6,18
@@ -3299,21 +3299,21 @@ date,organization,count,rn
 2020-04-26,Life Tabernacle Church,25,3
 2020-04-26,United States,27,2
 2020-04-26,White House,37,1
-2020-04-27,Brookings Institute,5,37
-2020-04-27,Centers For Disease,5,38
-2020-04-27,Department Of Wildlife Fisheries,5,39
-2020-04-27,Lee Initiative,5,40
-2020-04-27,Lewis Clark Law School In Portland,5,41
-2020-04-27,Link Restaurant Group,5,42
-2020-04-27,Louisiana Department Of Wildlife Fisheries,5,43
-2020-04-27,Louisiana Health Department On,5,44
-2020-04-27,Louisiana State University,5,45
-2020-04-27,National Institute Of Allergy,5,46
+2020-04-27,Brookings Institute,5,38
+2020-04-27,Centers For Disease,5,39
+2020-04-27,Department Of Wildlife Fisheries,5,40
+2020-04-27,Lee Initiative,5,41
+2020-04-27,Lewis Clark Law School In Portland,5,42
+2020-04-27,Link Restaurant Group,5,43
+2020-04-27,Louisiana Department Of Wildlife Fisheries,5,44
+2020-04-27,Louisiana Health Department On,5,45
+2020-04-27,Louisiana State University,5,46
 2020-04-27,Oregon District Attorney Association,5,47
 2020-04-27,Promise Of Justice Initiative,5,48
 2020-04-27,Tres Bon Food Fund,5,49
 2020-04-27,United States Today Network,5,50
-2020-04-27,World Health Organization,6,36
+2020-04-27,National Institute Of Allergy,6,36
+2020-04-27,World Health Organization,6,37
 2020-04-27,Louisiana Supreme Court,7,34
 2020-04-27,Reuters,7,35
 2020-04-27,Law Center,8,33
@@ -3322,10 +3322,10 @@ date,organization,count,rn
 2020-04-27,Louisiana Center,10,31
 2020-04-27,Lake Regional Medical Center,11,29
 2020-04-27,Supreme Court,12,28
-2020-04-27,Cnn,13,26
-2020-04-27,Nan,13,27
+2020-04-27,Cnn,13,27
 2020-04-27,Instagram,14,24
-2020-04-27,Republican National Convention In Cleveland,14,25
+2020-04-27,Nan,14,25
+2020-04-27,Republican National Convention In Cleveland,14,26
 2020-04-27,Life Tabernacle Church,16,23
 2020-04-27,Louisiana Department Of Health,17,22
 2020-04-27,Facebook,19,21
@@ -3341,11 +3341,11 @@ date,organization,count,rn
 2020-04-27,Administration For Children Services,44,9
 2020-04-27,Associated Press,44,10
 2020-04-27,Legal Aid Justice Center Just Children Program,44,11
-2020-04-27,Maryland Court,45,7
-2020-04-27,White House,45,8
+2020-04-27,Maryland Court,45,8
 2020-04-27,Crossroads Juvenile Center,46,4
 2020-04-27,Horizon Juvenile Center,46,5
 2020-04-27,Louisiana Office Of Juvenile Justice,46,6
+2020-04-27,White House,46,7
 2020-04-27,Bon Air Juvenile Correctional Center,54,2
 2020-04-27,Swanson Center,54,3
 2020-04-27,United States,93,1
@@ -3474,15 +3474,15 @@ date,organization,count,rn
 2020-04-30,A University Of Iowa,11,26
 2020-04-30,Oval Office On,11,27
 2020-04-30,Twitter,11,28
-2020-04-30,Centers For Disease,12,25
-2020-04-30,Council On Foreign Relations,13,23
-2020-04-30,Senate Majority Leader Mitch Mcconnell,13,24
-2020-04-30,Facebook,15,20
-2020-04-30,Human Services,15,21
-2020-04-30,Louisiana Department Of Health,15,22
+2020-04-30,Centers For Disease,13,24
+2020-04-30,Council On Foreign Relations,13,25
+2020-04-30,Facebook,15,21
+2020-04-30,Human Services,15,22
+2020-04-30,Senate Majority Leader Mitch Mcconnell,15,23
 2020-04-30,Gilead Sciences,16,17
 2020-04-30,Lasalle,16,18
-2020-04-30,Republican Legislature,16,19
+2020-04-30,Louisiana Department Of Health,16,19
+2020-04-30,Republican Legislature,16,20
 2020-04-30,Louisiana National Guard,18,15
 2020-04-30,New York Times,18,16
 2020-04-30,Gilead Sciences Inc,19,14
@@ -3496,9 +3496,9 @@ date,organization,count,rn
 2020-04-30,Toyota,83,6
 2020-04-30,United States,84,5
 2020-04-30,Oval Office Of The White House,109,4
-2020-04-30,Associated Press,118,3
+2020-04-30,Associated Press,119,3
 2020-04-30,Oval Office,232,2
-2020-04-30,White House,287,1
+2020-04-30,White House,289,1
 2020-05-01,American Express,5,41
 2020-05-01,Chili,5,42
 2020-05-01,City Planning Commission,5,43
@@ -3524,31 +3524,31 @@ date,organization,count,rn
 2020-05-01,Data Center,7,26
 2020-05-01,Krome Detention Center,7,27
 2020-05-01,Restaurant Coalition,7,28
-2020-05-01,Coronavirus Task,8,25
-2020-05-01,Cnn,9,21
-2020-05-01,Instagram,9,22
-2020-05-01,National Institute Of Allergy,9,23
-2020-05-01,Walmart,9,24
+2020-05-01,Coronavirus Task,9,22
+2020-05-01,Instagram,9,23
+2020-05-01,National Institute Of Allergy,9,24
+2020-05-01,Walmart,9,25
 2020-05-01,Beta Land Services Owner Bryan Hanks,10,14
-2020-05-01,Environment Committee,10,15
-2020-05-01,Gas Association,10,16
-2020-05-01,Louisiana Oil,10,17
-2020-05-01,Nan,10,18
-2020-05-01,Office Of The State Fire Marshal,10,19
-2020-05-01,Southern Poverty Law Center,10,20
+2020-05-01,Cnn,10,15
+2020-05-01,Environment Committee,10,16
+2020-05-01,Gas Association,10,17
+2020-05-01,Louisiana Oil,10,18
+2020-05-01,Nan,10,19
+2020-05-01,Office Of The State Fire Marshal,10,20
+2020-05-01,Southern Poverty Law Center,10,21
 2020-05-01,Center Square,11,12
 2020-05-01,Krome Processing Center,11,13
 2020-05-01,Broward Transitional Center,13,11
-2020-05-01,Centers For Disease,14,8
 2020-05-01,Lasalle,14,9
 2020-05-01,Paycheck Protection Program,14,10
+2020-05-01,Centers For Disease,15,8
 2020-05-01,Human Services,16,7
 2020-05-01,Department Of Health,22,6
 2020-05-01,Oval Office,24,5
 2020-05-01,Associated Press,25,4
-2020-05-01,Louisiana Department Of Health,26,3
+2020-05-01,Louisiana Department Of Health,30,3
 2020-05-01,United States,32,2
-2020-05-01,White House,42,1
+2020-05-01,White House,45,1
 2020-05-02,Alexandria International Airport,2,40
 2020-05-02,Arizona Department Of Corrections,2,41
 2020-05-02,Brennan Center,2,42
@@ -3978,27 +3978,27 @@ date,organization,count,rn
 2020-05-10,Shreveport City Council,2,46
 2020-05-10,Shreveport Economic Development,2,47
 2020-05-10,Texas Funeral Directors Association,2,48
-2020-05-10,Washington State Department Of Health,2,49
-2020-05-10,Wellesley College,2,50
-2020-05-10,Cnn,3,13
-2020-05-10,Drug Administration,3,14
-2020-05-10,Louisiana Department Of Public Health,3,15
-2020-05-10,Louisiana Legislature,3,16
+2020-05-10,University Of Louisiana At Lafayette,2,49
+2020-05-10,Washington State Department Of Health,2,50
+2020-05-10,Cnn,3,14
+2020-05-10,Drug Administration,3,15
+2020-05-10,Louisiana Department Of Public Health,3,16
 2020-05-10,Nan,3,17
 2020-05-10,Oval Office,3,18
 2020-05-10,University Of Louisiana Lafayette,3,19
 2020-05-10,Accenture,4,8
 2020-05-10,Louisiana Department Of Health Regions,4,9
-2020-05-10,Ochsner Health System,4,10
-2020-05-10,Public Affairs Research Council,4,11
-2020-05-10,School Of Public Health,4,12
+2020-05-10,Louisiana Legislature,4,10
+2020-05-10,Ochsner Health System,4,11
+2020-05-10,Public Affairs Research Council,4,12
+2020-05-10,School Of Public Health,4,13
 2020-05-10,Department Of Health,5,6
 2020-05-10,Louisiana Department Of Health,5,7
 2020-05-10,Facebook,6,4
 2020-05-10,United States,6,5
 2020-05-10,Louisiana Workforce Commission,7,3
-2020-05-10,White House,12,2
-2020-05-10,Centers For Disease,13,1
+2020-05-10,White House,13,2
+2020-05-10,Centers For Disease,14,1
 2020-05-11,A Senate,2,18
 2020-05-11,American Health Care Association,2,19
 2020-05-11,Brookings Institution,2,20
@@ -4449,44 +4449,56 @@ date,organization,count,rn
 2020-05-19,United States,13,3
 2020-05-19,Department Of Health,14,2
 2020-05-19,Louisiana Department Of Health,15,1
-2020-05-20,Capital Missionary Baptist Church On,1,11
-2020-05-20,Cnn,1,12
-2020-05-20,Columbia University On Twitter,1,13
-2020-05-20,Community Development Block Grants,1,14
-2020-05-20,Coronavirus Food Assistance Program,1,15
-2020-05-20,Emergency Solutions Grants,1,16
-2020-05-20,Farm Service Agency,1,17
-2020-05-20,Florida Democratic Party,1,18
-2020-05-20,Governmental Affairs,1,19
-2020-05-20,Health Department,1,20
-2020-05-20,Health Protection Florida,1,21
-2020-05-20,Home Program,1,22
-2020-05-20,Integrity Construction Group,1,23
-2020-05-20,Kathleen Blanco Louisiana Recovery Authority,1,24
-2020-05-20,Lifeshare Blood Centers,1,25
-2020-05-20,Louisiana Legislature,1,26
-2020-05-20,Louisiana Office Of Community Development,1,27
-2020-05-20,Nan,1,28
-2020-05-20,National Low Income Housing Coalition,1,29
-2020-05-20,National Restaurant Association,1,30
-2020-05-20,Paycheck Protection Program,1,31
-2020-05-20,Payroll Protection Program,1,32
-2020-05-20,Senate Democratic Leader Chuck Schumer On,1,33
-2020-05-20,Senate Majority Leader Mitch Mcconnell,1,34
-2020-05-20,Small Business Development Center,1,35
-2020-05-20,Solutions Journalism Network,1,36
-2020-05-20,Twitter,1,37
-2020-05-20,United States Senate,1,38
-2020-05-20,Department Of Health,2,2
-2020-05-20,Division Of Disease,2,3
-2020-05-20,Florida Department Of Health,2,4
-2020-05-20,Florida State University,2,5
-2020-05-20,Health Protection,2,6
-2020-05-20,Louisiana State University,2,7
-2020-05-20,Senate Republicans,2,8
-2020-05-20,Syracuse University,2,9
-2020-05-20,White House,2,10
-2020-05-20,United States,3,1
+2020-05-20,Accenture,2,24
+2020-05-20,Arizona State University In Tempe,2,25
+2020-05-20,Armed Services,2,26
+2020-05-20,Army Guard,2,27
+2020-05-20,Bloomberg,2,28
+2020-05-20,Centers For Medicare,2,29
+2020-05-20,Central Louisiana Community College,2,30
+2020-05-20,Collaborative Composite Solutions Corporation,2,31
+2020-05-20,Composites Institute,2,32
+2020-05-20,Cueva High School,2,33
+2020-05-20,Division Of Disease,2,34
+2020-05-20,Ers In Cone Health,2,35
+2020-05-20,Florida Department Of Health,2,36
+2020-05-20,Florida State University,2,37
+2020-05-20,Foundation For Research On Equal Opportunity,2,38
+2020-05-20,Health Insurance Portability,2,39
+2020-05-20,Health Professionals Advancing,2,40
+2020-05-20,Health Protection,2,41
+2020-05-20,Health Shreveport,2,42
+2020-05-20,Higher Education Emergency Relief Fund,2,43
+2020-05-20,Home Program,2,44
+2020-05-20,House Education Committee,2,45
+2020-05-20,Human Services,2,46
+2020-05-20,Information Services,2,47
+2020-05-20,Institute For Advanced Composites Manufacturing Innovation,2,48
+2020-05-20,Integrity Construction Group,2,49
+2020-05-20,Kathleen Blanco Louisiana Recovery Authority,2,50
+2020-05-20,Associated Press,3,14
+2020-05-20,Louisiana Food Bank,3,15
+2020-05-20,Louisiana Legislature,3,16
+2020-05-20,Louisiana National Guard,3,17
+2020-05-20,Manship School News Service,3,18
+2020-05-20,National Guard,3,19
+2020-05-20,Senate Majority Leader Mitch Mcconnell,3,20
+2020-05-20,Senate Republicans,3,21
+2020-05-20,Supreme Court,3,22
+2020-05-20,Thea James Army National Guard,3,23
+2020-05-20,American Health Care Association,4,12
+2020-05-20,Governmental Affairs,4,13
+2020-05-20,Health Department,5,10
+2020-05-20,Nan,5,11
+2020-05-20,A Senate,6,5
+2020-05-20,Arnold Porter,6,6
+2020-05-20,Cnn,6,7
+2020-05-20,Fair Elections Center,6,8
+2020-05-20,Southern Poverty Law Center,6,9
+2020-05-20,Department Of Health,7,4
+2020-05-20,White House,8,3
+2020-05-20,United States,10,2
+2020-05-20,Louisiana Department Of Health,12,1
 2020-05-21,Atmospheric Administration Noaa,2,39
 2020-05-21,Boeing,2,40
 2020-05-21,Bureau Of Prisons,2,41
@@ -4837,3 +4849,53 @@ date,organization,count,rn
 2020-05-27,Bureau Of Prisons,11,3
 2020-05-27,Louisiana Department Of Health,16,2
 2020-05-27,United States,24,1
+2020-05-28,A Louisianapolice Department,2,43
+2020-05-28,Acadania Center,2,44
+2020-05-28,Alecto Health,2,45
+2020-05-28,Aljazeera,2,46
+2020-05-28,American Bar Association,2,47
+2020-05-28,American Congress,2,48
+2020-05-28,American Conservative Union,2,49
+2020-05-28,American Heart Association,2,50
+2020-05-28,Bureau Of Prisons,3,29
+2020-05-28,Democratic Party,3,30
+2020-05-28,Department Of Health,3,31
+2020-05-28,Landry Parish School District,3,32
+2020-05-28,Louisiana Department Of Education,3,33
+2020-05-28,Louisiana Department Of Health,3,34
+2020-05-28,Nan,3,35
+2020-05-28,National Association Of Educators,3,36
+2020-05-28,Oregon Supreme Court,3,37
+2020-05-28,Public Health,3,38
+2020-05-28,Reuters,3,39
+2020-05-28,Senate Committee,3,40
+2020-05-28,Workforce Task,3,41
+2020-05-28,Youtube,3,42
+2020-05-28,Boeing,4,22
+2020-05-28,Calvary Baptist Church,4,23
+2020-05-28,Louisiana Policy Institute For Children,4,24
+2020-05-28,Msnbc,4,25
+2020-05-28,Resilient Louisiana Commission,4,26
+2020-05-28,World Health Organization,4,27
+2020-05-28,Young,4,28
+2020-05-28,Louisiana Association Of Educators,5,19
+2020-05-28,National Institutes Of Health,5,20
+2020-05-28,Starbucks,5,21
+2020-05-28,Cnn,6,14
+2020-05-28,Instagram,6,15
+2020-05-28,Kaplan Police,6,16
+2020-05-28,Supreme Court,6,17
+2020-05-28,Twitter,6,18
+2020-05-28,Louisiana Municipal Association,7,11
+2020-05-28,Republican National Convention,7,12
+2020-05-28,White House,7,13
+2020-05-28,Justice Department,8,7
+2020-05-28,Kaplan Police Department,8,8
+2020-05-28,Office Of Juvenile Justice,8,9
+2020-05-28,Paycheck Protection Program,8,10
+2020-05-28,Administration Jay Dardenne,9,5
+2020-05-28,Associated Press,9,6
+2020-05-28,Centers For Disease,11,4
+2020-05-28,Department Of Justice,12,3
+2020-05-28,Facebook,17,2
+2020-05-28,United States,20,1

@@ -440,8 +440,8 @@ date,person,count,rn
 2020-03-05,Yvonne Maldonado,5,26
 2020-03-05,Los Angeles,8,1
 2020-03-06,Aaron Nayfack,2,35
-2020-03-06,Alejandro Serrano,2,36
-2020-03-06,Alex Glew,2,37
+2020-03-06,Alex Glew,2,36
+2020-03-06,Anna Bauman,2,37
 2020-03-06,Annie Oliva,2,38
 2020-03-06,Chris Grady,2,39
 2020-03-06,D-San Francisco,2,40
@@ -455,10 +455,10 @@ date,person,count,rn
 2020-03-06,Mano Raju,2,48
 2020-03-06,Michael Brownrigg,2,49
 2020-03-06,Peter Fimrite,2,50
+2020-03-06,Debbi Loftus,3,34
 2020-03-06,Bela Matyas,4,31
-2020-03-06,Debbi Loftus,4,32
-2020-03-06,Lisa Egan,4,33
-2020-03-06,Neil Kran,4,34
+2020-03-06,Lisa Egan,4,32
+2020-03-06,Neil Kran,4,33
 2020-03-06,Nan,5,29
 2020-03-06,Phan Ngo,5,30
 2020-03-06,Mary Ellen Carroll,6,28
@@ -2924,8 +2924,8 @@ date,person,count,rn
 2020-05-12,Harvey Milk,2,3
 2020-05-13,Adrian Schrek,1,20
 2020-05-13,Andrew Scott,1,21
-2020-05-13,Anna Chodos,1,22
-2020-05-13,Audra Mcdonald,1,23
+2020-05-13,Anna Bauman,1,22
+2020-05-13,Anna Chodos,1,23
 2020-05-13,Avshi Weinstein,1,24
 2020-05-13,Cathy Deluca,1,25
 2020-05-13,Charlie Day,1,26
@@ -2934,7 +2934,7 @@ date,person,count,rn
 2020-05-13,Dave Shively,1,29
 2020-05-13,Diane Keaton,1,30
 2020-05-13,Dionne Warwick,1,31
-2020-05-13,Dominic Fracassa,1,32
+2020-05-13,Dolly Parton,1,32
 2020-05-13,Elaina Legault,1,33
 2020-05-13,Ethan Weiss,1,34
 2020-05-13,Gail Harrison,1,35
@@ -2942,11 +2942,11 @@ date,person,count,rn
 2020-05-13,Hannah Tarley,1,37
 2020-05-13,Hans Angress,1,38
 2020-05-13,Helen Farkas,1,39
-2020-05-13,Jake Oliver,1,40
-2020-05-13,Jeff Bezos,1,41
-2020-05-13,Jim Irizarry,1,42
-2020-05-13,Jon Bon Jovi,1,43
-2020-05-13,Judith Guerrero,1,44
+2020-05-13,Jeff Calhoun,1,40
+2020-05-13,Jim Irizarry,1,41
+2020-05-13,Jon Bon Jovi,1,42
+2020-05-13,Judith Guerrero,1,43
+2020-05-13,Kim Wyman,1,44
 2020-05-13,Louis Dejoy,1,45
 2020-05-13,Lowellyn Sunga,1,46
 2020-05-13,Mark Dimondstein,1,47
@@ -3152,22 +3152,56 @@ date,person,count,rn
 2020-05-19,Trina Schrader,7,4
 2020-05-19,Siliana Gaspard,8,2
 2020-05-19,Cryme Tyme,9,1
-2020-05-20,Alvin Thomas,1,9
-2020-05-20,America Dave Abbruzzese,1,10
-2020-05-20,Dan Chandler,1,11
-2020-05-20,Emily Morgan,1,12
-2020-05-20,Greg Hockenberry,1,13
-2020-05-20,Matt Miller,1,14
-2020-05-20,Wayne Risner,1,15
-2020-05-20,William Payne,1,16
-2020-05-20,Berkeley Charter,2,1
-2020-05-20,Bon Tempe,2,2
-2020-05-20,David Canepa,2,3
-2020-05-20,Donald Trump,2,4
-2020-05-20,Erik Anfinson,2,5
-2020-05-20,Mount Burdell,2,6
-2020-05-20,Tom Mattusch,2,7
-2020-05-20,Tom Stienstra,2,8
+2020-05-20,Alaric Degrafinried,1,33
+2020-05-20,Alberto Mendez Thebertomendez,1,34
+2020-05-20,Alvin Thomas,1,35
+2020-05-20,America Dave Abbruzzese,1,36
+2020-05-20,Arthur G James,1,37
+2020-05-20,Bloomberg Mark Gurman,1,38
+2020-05-20,Brian Howey,1,39
+2020-05-20,Cryme Tyme,1,40
+2020-05-20,Dan Chandler,1,41
+2020-05-20,David Paul Morris Bloomberg,1,42
+2020-05-20,Emily Morgan,1,43
+2020-05-20,Greg Hockenberry,1,44
+2020-05-20,Harold Lopez,1,45
+2020-05-20,Isaac Hernandez,1,46
+2020-05-20,Julie Kennerly-Shah,1,47
+2020-05-20,Kurt Wagner,1,48
+2020-05-20,Liz Hamel,1,49
+2020-05-20,London Breed,1,50
+2020-05-20,Berkeley Charter,2,14
+2020-05-20,Bon Tempe,2,15
+2020-05-20,Cassandra Chavez,2,16
+2020-05-20,Chris Smith,2,17
+2020-05-20,David Canepa,2,18
+2020-05-20,Davis Jenkins,2,19
+2020-05-20,Donald Trump,2,20
+2020-05-20,Erik Anfinson,2,21
+2020-05-20,Jeff Defranco,2,22
+2020-05-20,Kara Monroe,2,23
+2020-05-20,Kevin Brockbank,2,24
+2020-05-20,Laurie Franklin,2,25
+2020-05-20,Martha Parham,2,26
+2020-05-20,Mount Burdell,2,27
+2020-05-20,Santa Barbara,2,28
+2020-05-20,Simon Pennington,2,29
+2020-05-20,Tom Mattusch,2,30
+2020-05-20,Tom Stienstra,2,31
+2020-05-20,Tyler Sullivan,2,32
+2020-05-20,Arun Goel,4,1
+2020-05-20,Cesar Zepeda,4,2
+2020-05-20,David Campos,4,3
+2020-05-20,David Haubert,4,4
+2020-05-20,El Cerrito,4,5
+2020-05-20,Frances Hsieh,4,6
+2020-05-20,Hillary Ronen,4,7
+2020-05-20,Kelly Akemi Groth,4,8
+2020-05-20,Linda Smith,4,9
+2020-05-20,Newell Arnerich,4,10
+2020-05-20,Sarah Souza,4,11
+2020-05-20,Shawn Kumagai,4,12
+2020-05-20,Victor Aguilar Jr,4,13
 2020-05-21,Alisa Mallari Tu,1,6
 2020-05-21,Annette Bennett,1,7
 2020-05-21,Gordon Manor,1,8
@@ -3395,3 +3429,43 @@ date,person,count,rn
 2020-05-27,Hilda Solis,2,4
 2020-05-27,Gavin Newsom,3,2
 2020-05-27,Los Angeles,4,1
+2020-05-28,Bertolt Brecht,1,10
+2020-05-28,Christian Ulvert,1,11
+2020-05-28,Craig Latimer,1,12
+2020-05-28,Dan Springer,1,13
+2020-05-28,Eric Holder,1,14
+2020-05-28,Gavin Newsom,1,15
+2020-05-28,George Takei,1,16
+2020-05-28,Gerri Kramer,1,17
+2020-05-28,Jason Droege,1,18
+2020-05-28,Jim Waurishuk,1,19
+2020-05-28,Joe Gruters,1,20
+2020-05-28,Jose Ortega Y Gasset,1,21
+2020-05-28,Joseph Goebbel,1,22
+2020-05-28,Joseph Goebbels,1,23
+2020-05-28,Joshua Kleinfeld,1,24
+2020-05-28,June Montgomery Tabron,1,25
+2020-05-28,Leo Hainzl,1,26
+2020-05-28,Louis Ren,1,27
+2020-05-28,Marcelo Su,1,28
+2020-05-28,Michael Mcdonald,1,29
+2020-05-28,Mike Hopkins,1,30
+2020-05-28,Nadine Burke Harris,1,31
+2020-05-28,Ortega Y Gassett,1,32
+2020-05-28,Peter Rocha,1,33
+2020-05-28,Rafael Mandelman,1,34
+2020-05-28,Ralph Waldo Emerson,1,35
+2020-05-28,Ron Desantis,1,36
+2020-05-28,Roy Cooper,1,37
+2020-05-28,Santa Barbara,1,38
+2020-05-28,Thomas Jefferson,1,39
+2020-05-28,Yasmeen Lari,1,40
+2020-05-28,Brian Overfelt,2,1
+2020-05-28,Carlos Avila Gonzalez,2,2
+2020-05-28,Donald Trump,2,3
+2020-05-28,Efrain Jimenez,2,4
+2020-05-28,Fabian Berber,2,5
+2020-05-28,Lauren Shaub,2,6
+2020-05-28,Paul Chinn,2,7
+2020-05-28,Sergio Ledezma,2,8
+2020-05-28,Wendy Gutshall,2,9

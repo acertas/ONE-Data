@@ -2691,27 +2691,27 @@ date,organization,count,rn
 2020-04-22,White House,29,3
 2020-04-22,United States,32,2
 2020-04-22,Facebook,43,1
-2020-04-23,American Medical Supply Chain Initiative,3,38
-2020-04-23,Army Corps Of Engineers,3,39
-2020-04-23,Army Gen,3,40
-2020-04-23,Army Ryan Mccarthy,3,41
-2020-04-23,Bartal A Us Army,3,42
-2020-04-23,Beverage Marketing Corp,3,43
-2020-04-23,Centers For Disease,3,44
+2020-04-23,American Medical Supply Chain Initiative,3,39
+2020-04-23,Army Corps Of Engineers,3,40
+2020-04-23,Army Gen,3,41
+2020-04-23,Army Ryan Mccarthy,3,42
+2020-04-23,Bartal A Us Army,3,43
+2020-04-23,Beverage Marketing Corp,3,44
 2020-04-23,Cobo Convention Center,3,45
 2020-04-23,Democratic Party Organization,3,46
 2020-04-23,Emergency Needs Fund,3,47
 2020-04-23,Environmental Protection Agency,3,48
 2020-04-23,Facebook,3,49
 2020-04-23,House Appropriations Committee,3,50
-2020-04-23,Fellowship Baptist Church,4,30
-2020-04-23,Gongwer News Service,4,31
-2020-04-23,Honda,4,32
-2020-04-23,Michigan State Medical Society,4,33
-2020-04-23,Nan,4,34
-2020-04-23,Strategic National,4,35
-2020-04-23,Tribune News Service,4,36
-2020-04-23,World Health Organization,4,37
+2020-04-23,Centers For Disease,4,30
+2020-04-23,Fellowship Baptist Church,4,31
+2020-04-23,Gongwer News Service,4,32
+2020-04-23,Honda,4,33
+2020-04-23,Michigan State Medical Society,4,34
+2020-04-23,Nan,4,35
+2020-04-23,Strategic National,4,36
+2020-04-23,Tribune News Service,4,37
+2020-04-23,World Health Organization,4,38
 2020-04-23,Department Of Health,5,27
 2020-04-23,Emergency Operations Center,5,28
 2020-04-23,Republican Women Federation Of Michigan,5,29
@@ -3628,28 +3628,30 @@ date,organization,count,rn
 2020-05-11,Capitol Commission,5,4
 2020-05-11,Michigan Capitol Commission,9,1
 2020-05-11,Twitter,9,2
-2020-05-12,Alliance For Public Education,1,29
-2020-05-12,American Medical Association,1,30
-2020-05-12,Appropriations Budget Committee,1,31
-2020-05-12,Army Airfield,1,32
-2020-05-12,Assets Inc,1,33
-2020-05-12,Associated Press,1,34
-2020-05-12,Boy Scouts,1,35
-2020-05-12,Cass Technical High School In Detroit,1,36
-2020-05-12,District Court,1,37
-2020-05-12,Down Church,1,38
-2020-05-12,Ford Motor,1,39
-2020-05-12,Fordson High School,1,40
-2020-05-12,Honda,1,41
-2020-05-12,Hummer,1,42
-2020-05-12,Ibm,1,43
-2020-05-12,Lutheran Children Center,1,44
-2020-05-12,Michigan Air National Guard,1,45
-2020-05-12,Michigan Association Of Nurse Anesthetists,1,46
-2020-05-12,Monarch Club,1,47
-2020-05-12,Morgan,1,48
-2020-05-12,Mount Sinai Health System,1,49
-2020-05-12,Prison Reform Ministry,1,50
+2020-05-12,Alliance For Public Education,1,27
+2020-05-12,American Medical Association,1,28
+2020-05-12,Appropriations Budget Committee,1,29
+2020-05-12,Army Airfield,1,30
+2020-05-12,Assets Inc,1,31
+2020-05-12,Associated Press,1,32
+2020-05-12,Boy Scouts,1,33
+2020-05-12,Cass Technical High School In Detroit,1,34
+2020-05-12,District Court,1,35
+2020-05-12,Down Church,1,36
+2020-05-12,Ford Motor,1,37
+2020-05-12,Fordson High School,1,38
+2020-05-12,Honda,1,39
+2020-05-12,Hummer,1,40
+2020-05-12,Ibm,1,41
+2020-05-12,Lutheran Children Center,1,42
+2020-05-12,Michigan Air National Guard,1,43
+2020-05-12,Michigan Association Of Nurse Anesthetists,1,44
+2020-05-12,Michigan Senate,1,45
+2020-05-12,Monarch Club,1,46
+2020-05-12,Morgan,1,47
+2020-05-12,Mount Sinai Health System,1,48
+2020-05-12,Prison Reform Ministry,1,49
+2020-05-12,Royal Air,1,50
 2020-05-12,A Senate,2,10
 2020-05-12,Art Van Furniture Inc,2,11
 2020-05-12,Beaumont Health,2,12
@@ -3661,23 +3663,21 @@ date,organization,count,rn
 2020-05-12,Love Furniture Inc,2,18
 2020-05-12,Michigan Department Of Health,2,19
 2020-05-12,Michigan Republican Party,2,20
-2020-05-12,Michigan Senate,2,21
-2020-05-12,Michigan State Police,2,22
-2020-05-12,Nan,2,23
-2020-05-12,Senate Districts,2,24
-2020-05-12,Senate Republican,2,25
-2020-05-12,Spectrum Health In Grand Rapids,2,26
-2020-05-12,Sugar Law Center,2,27
-2020-05-12,Tenet Healthcare,2,28
+2020-05-12,Michigan State Police,2,21
+2020-05-12,Nan,2,22
+2020-05-12,Senate Republican,2,23
+2020-05-12,Spectrum Health In Grand Rapids,2,24
+2020-05-12,Sugar Law Center,2,25
+2020-05-12,Tenet Healthcare,2,26
 2020-05-12,Ford Motor Company,3,7
 2020-05-12,Republican Senate Majority Leader Mike Shirkey,3,8
 2020-05-12,Senate Minority Leader Jim Ananich,3,9
 2020-05-12,Senate Majority Leader Mike Shirkey,7,5
 2020-05-12,Twitter,7,6
-2020-05-12,Morris,9,4
+2020-05-12,Morris,8,4
 2020-05-12,Michigan Capitol Commission,11,3
 2020-05-12,Capitol Commission,13,2
-2020-05-12,Facebook,24,1
+2020-05-12,Facebook,23,1
 2020-05-13,Anthony,1,28
 2020-05-13,Bureau Of Prison,1,29
 2020-05-13,Bureau Of Prisons,1,30
@@ -4028,28 +4028,56 @@ date,organization,count,rn
 2020-05-19,Twitter,9,3
 2020-05-19,Ford Motor Co,10,2
 2020-05-19,White House,12,1
-2020-05-20,Associated Press,1,8
-2020-05-20,Chinese Communist Party That,1,9
-2020-05-20,Democratic Party,1,10
-2020-05-20,Fremont High School,1,11
-2020-05-20,Ivy League,1,12
-2020-05-20,Johns Hopkins University,1,13
-2020-05-20,Motors Co,1,14
-2020-05-20,Nan,1,15
-2020-05-20,Nebraska Counseling Association,1,16
-2020-05-20,Nebraska Republican Party,1,17
-2020-05-20,Oval Office,1,18
-2020-05-20,St Ambrose Church,1,19
-2020-05-20,Tesla Inc,1,20
-2020-05-20,United States,1,21
-2020-05-20,Wayne State College,1,22
-2020-05-20,Ford Motor Company,2,4
-2020-05-20,Honeywell,2,5
-2020-05-20,Minor Inc,2,6
-2020-05-20,Twitter,2,7
-2020-05-20,Centers For Disease,3,2
-2020-05-20,Ford Motor Co,3,3
-2020-05-20,White House,4,1
+2020-05-20,Arsenal Of Health,3,37
+2020-05-20,Brennan Center,3,38
+2020-05-20,Dow Chemical Co,3,39
+2020-05-20,Family Independence Initiative,3,40
+2020-05-20,Free Press You,3,41
+2020-05-20,Justice Department,3,42
+2020-05-20,Lear Corp,3,43
+2020-05-20,Los Angles Times On Congress,3,44
+2020-05-20,Members Of Congress,3,45
+2020-05-20,Michigan Department Of Health,3,46
+2020-05-20,Msnbc,3,47
+2020-05-20,National Guard,3,48
+2020-05-20,National Security Advisor Michael Flynn,3,49
+2020-05-20,Obama Administration,3,50
+2020-05-20,Corrections Department,4,29
+2020-05-20,Emergency Management Agency,4,30
+2020-05-20,Energy Regulatory Commission,4,31
+2020-05-20,Human Services,4,32
+2020-05-20,Sears,4,33
+2020-05-20,Sparrow Health System,4,34
+2020-05-20,Toyota,4,35
+2020-05-20,University Of Michigan,4,36
+2020-05-20,National Weather Service,5,28
+2020-05-20,Cnn,6,26
+2020-05-20,Oval Office,6,27
+2020-05-20,Dow Chemical,7,23
+2020-05-20,Ford Motor Company,7,24
+2020-05-20,New York Times,7,25
+2020-05-20,Johns Hopkins University,8,22
+2020-05-20,European Oncological Institute,9,21
+2020-05-20,Defense Ministry,10,19
+2020-05-20,Minor Inc,10,20
+2020-05-20,Honeywell,11,17
+2020-05-20,Spanish Health,11,18
+2020-05-20,Employment Security Department,12,9
+2020-05-20,International Monetary,12,10
+2020-05-20,Parliament On,12,11
+2020-05-20,Popular Party,12,12
+2020-05-20,Public Health,12,13
+2020-05-20,Spain Supreme Court,12,14
+2020-05-20,World Bank,12,15
+2020-05-20,World Health Organization,12,16
+2020-05-20,Centers For Disease,13,7
+2020-05-20,Ford Motor Co,13,8
+2020-05-20,Associated Press,14,5
+2020-05-20,European Union,14,6
+2020-05-20,White House,18,4
+2020-05-20,Twitter,20,2
+2020-05-20,United States,20,3
+2020-05-20,Facebook,21,1
 2020-05-21,American Health Care Association National Center,2,39
 2020-05-21,Boyce Hydro Power,2,40
 2020-05-21,Coronavirus Relief Fund,2,41
@@ -4394,3 +4422,53 @@ date,organization,count,rn
 2020-05-27,United States,11,3
 2020-05-27,Bureau Of Prisons,12,2
 2020-05-27,White House,15,1
+2020-05-28,Albert Einstein College Of Medicine,1,45
+2020-05-28,American Academy Of Dermatology,1,46
+2020-05-28,American Dental Association,1,47
+2020-05-28,Beaumont Health,1,48
+2020-05-28,Boyce To Consumers Energy,1,49
+2020-05-28,Brennan Center Voting Rights,1,50
+2020-05-28,American Civil Liberties Union,2,29
+2020-05-28,Blue Mask Initiative,2,30
+2020-05-28,Census Bureau,2,31
+2020-05-28,Center Line,2,32
+2020-05-28,Cnn,2,33
+2020-05-28,Detroit Free,2,34
+2020-05-28,Detroit Free Press,2,35
+2020-05-28,European Oncological Institute,2,36
+2020-05-28,Free Press An,2,37
+2020-05-28,Instagram,2,38
+2020-05-28,Michigan Department Of Environment,2,39
+2020-05-28,National Guard,2,40
+2020-05-28,Rehab Center,2,41
+2020-05-28,Republican Senate Majority Leader Mitch Mcconnell,2,42
+2020-05-28,Team Ebony,2,43
+2020-05-28,Westwood Nursing Center,2,44
+2020-05-28,Ap National News,3,11
+2020-05-28,Defense Ministry,3,12
+2020-05-28,Drug Administration,3,13
+2020-05-28,Ebony Foundation,3,14
+2020-05-28,Employment Security Department,3,15
+2020-05-28,European Union,3,16
+2020-05-28,International Monetary,3,17
+2020-05-28,Johns Hopkins University,3,18
+2020-05-28,Michigan State University,3,19
+2020-05-28,Michigan Supreme Court,3,20
+2020-05-28,Nan,3,21
+2020-05-28,Parliament On,3,22
+2020-05-28,Popular Party,3,23
+2020-05-28,Public Health,3,24
+2020-05-28,Spain Supreme Court,3,25
+2020-05-28,Spanish Health,3,26
+2020-05-28,White House,3,27
+2020-05-28,World Bank,3,28
+2020-05-28,Department Of Justice,4,7
+2020-05-28,Human Services,4,8
+2020-05-28,Michigan Department Of Health,4,9
+2020-05-28,World Health Organization,4,10
+2020-05-28,Bureau Of Prisons,5,4
+2020-05-28,Centers For Disease,5,5
+2020-05-28,University Of Michigan,5,6
+2020-05-28,United States,6,3
+2020-05-28,Facebook,7,2
+2020-05-28,Associated Press,8,1

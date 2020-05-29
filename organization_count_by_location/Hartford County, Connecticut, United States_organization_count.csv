@@ -3256,9 +3256,9 @@ date,organization,count,rn
 2020-04-23,Quest Diagnostics,14,11
 2020-04-23,University Of Washington,14,12
 2020-04-23,Pepsico,15,8
-2020-04-23,Department Of Public Health,16,6
 2020-04-23,Reuters,16,7
-2020-04-23,Facebook,17,5
+2020-04-23,Department Of Public Health,17,5
+2020-04-23,Facebook,17,6
 2020-04-23,Yale School Of Public Health,18,4
 2020-04-23,Department Of Education,21,3
 2020-04-23,White House,36,2
@@ -3313,30 +3313,29 @@ date,organization,count,rn
 2020-04-24,Department Of Public Health,34,3
 2020-04-24,Facebook,36,2
 2020-04-24,United States,48,1
-2020-04-25,Connecticut National Guard,5,49
-2020-04-25,World Health Organization,5,50
-2020-04-25,Drug Administration,6,47
-2020-04-25,Reuters,6,48
+2020-04-25,Connecticut National Guard,6,47
+2020-04-25,Drug Administration,6,48
+2020-04-25,Rehabilitation Center,6,49
+2020-04-25,Reuters,6,50
 2020-04-25,Nan,7,46
 2020-04-25,Joseph Center,8,44
 2020-04-25,Twitter,8,45
 2020-04-25,Connecticut Association Of Health Care Facilities,9,43
-2020-04-25,Emergency Management Agency,11,41
 2020-04-25,Willard-Cybulski Correctional Institution,11,42
+2020-04-25,Emergency Management Agency,12,41
 2020-04-25,Cnn,18,40
-2020-04-25,Alvarium Beer Co,25,10
-2020-04-25,Auto Group,25,11
-2020-04-25,Bad Sons Co,25,12
-2020-04-25,Central Connecticut State University,25,13
-2020-04-25,Conn Beerd Brewing Co,25,14
-2020-04-25,Conn Pottertown Brewing Co,25,15
-2020-04-25,Conn Tox Brewing Co,25,16
-2020-04-25,Conn Tribus Beer Co,25,17
-2020-04-25,Connecticut Restaurant Association,25,18
-2020-04-25,Ct Brewers Guild,25,19
-2020-04-25,Ct Hospitality Employee Relief Fund,25,20
-2020-04-25,Ct Restaurant Association,25,21
-2020-04-25,Department Of Public Health,25,22
+2020-04-25,Alvarium Beer Co,25,11
+2020-04-25,Auto Group,25,12
+2020-04-25,Bad Sons Co,25,13
+2020-04-25,Central Connecticut State University,25,14
+2020-04-25,Conn Beerd Brewing Co,25,15
+2020-04-25,Conn Pottertown Brewing Co,25,16
+2020-04-25,Conn Tox Brewing Co,25,17
+2020-04-25,Conn Tribus Beer Co,25,18
+2020-04-25,Connecticut Restaurant Association,25,19
+2020-04-25,Ct Brewers Guild,25,20
+2020-04-25,Ct Hospitality Employee Relief Fund,25,21
+2020-04-25,Ct Restaurant Association,25,22
 2020-04-25,Educational Foundation,25,23
 2020-04-25,Ellington Ad Hoc Patriotic Committee,25,24
 2020-04-25,England Brewing Co,25,25
@@ -3354,11 +3353,12 @@ date,organization,count,rn
 2020-04-25,University Of Washington,25,37
 2020-04-25,Us Armed,25,38
 2020-04-25,Yale University,25,39
-2020-04-25,National Guard,26,7
-2020-04-25,Police Department,26,8
-2020-04-25,Quest Diagnostics,26,9
-2020-04-25,Department Of Education,28,5
-2020-04-25,Yale School Of Public Health,28,6
+2020-04-25,Department Of Public Health,26,7
+2020-04-25,National Guard,26,8
+2020-04-25,Police Department,26,9
+2020-04-25,Quest Diagnostics,26,10
+2020-04-25,Department Of Education,28,6
+2020-04-25,Yale School Of Public Health,29,5
 2020-04-25,White House,30,4
 2020-04-25,Department Of Correction,31,3
 2020-04-25,Facebook,40,2
@@ -3763,56 +3763,56 @@ date,organization,count,rn
 2020-05-03,Department Of Public Health,11,2
 2020-05-03,National Guard,11,3
 2020-05-03,United States,12,1
-2020-05-04,Abbott Terrace Health Center,2,44
-2020-05-04,American Academy Of Dermatology,2,45
-2020-05-04,Athena Health Care Systems,2,46
-2020-05-04,California Employment Development Department,2,47
-2020-05-04,Centers For Medicare,2,48
-2020-05-04,Columbia Law School,2,49
-2020-05-04,Connecticut Department Of Public Health,2,50
-2020-05-04,Agricultural Marketing Service Commodity Procurement Program,3,20
-2020-05-04,Bureau Of Labor Statistics,3,21
-2020-05-04,Cbs News,3,22
-2020-05-04,Community Investment,3,23
-2020-05-04,Connecticut Department Of Emergency Services,3,24
-2020-05-04,Connecticut Farm Bureau,3,25
-2020-05-04,Connecticut Food Bank,3,26
-2020-05-04,Connecticut Special Transportation Fund,3,27
-2020-05-04,Connecticut Trust For Historic Preservation,3,28
-2020-05-04,Coronavirus Farm Assistance Program,3,29
-2020-05-04,Department Of Agriculture,3,30
-2020-05-04,Department Of Health,3,31
-2020-05-04,Department Of Public Health,3,32
-2020-05-04,Devereux Glenholme School,3,33
-2020-05-04,Facebook,3,34
-2020-05-04,Hampshire Preservation Alliance,3,35
-2020-05-04,Historic Preservation Office,3,36
-2020-05-04,Human Services,3,37
-2020-05-04,Morgan,3,38
-2020-05-04,Preservation Trust Of Vermont,3,39
-2020-05-04,Public Health Committee,3,40
-2020-05-04,Uconn School Of Law,3,41
-2020-05-04,Yale School Of Medicine,3,42
-2020-05-04,Youtube,3,43
-2020-05-04,American Civil Liberties Union Of Connecticut,4,14
-2020-05-04,Associated Press,4,15
-2020-05-04,Department Of Transportation,4,16
-2020-05-04,Tribune Content Agency,4,17
-2020-05-04,Twitter,4,18
-2020-05-04,Uconn Health Center On,4,19
-2020-05-04,Centers For Disease,5,11
-2020-05-04,Small Business Administration,5,12
-2020-05-04,Supreme Court,5,13
-2020-05-04,Department Of Social Services,7,8
-2020-05-04,Dominion Energy,7,9
-2020-05-04,Health Administration,7,10
-2020-05-04,Cnn,8,5
-2020-05-04,Nan,8,6
-2020-05-04,White House,8,7
-2020-05-04,Paycheck Protection Program,9,4
+2020-05-04,Abbott Terrace Health Center,2,46
+2020-05-04,American Academy Of Dermatology,2,47
+2020-05-04,Athena Health Care Systems,2,48
+2020-05-04,California Employment Development Department,2,49
+2020-05-04,Centers For Medicare,2,50
+2020-05-04,Agricultural Marketing Service Commodity Procurement Program,3,24
+2020-05-04,Bureau Of Labor Statistics,3,25
+2020-05-04,Cbs News,3,26
+2020-05-04,Community Investment,3,27
+2020-05-04,Connecticut Department Of Emergency Services,3,28
+2020-05-04,Connecticut Farm Bureau,3,29
+2020-05-04,Connecticut Food Bank,3,30
+2020-05-04,Connecticut Special Transportation Fund,3,31
+2020-05-04,Connecticut Trust For Historic Preservation,3,32
+2020-05-04,Coronavirus Farm Assistance Program,3,33
+2020-05-04,Department Of Agriculture,3,34
+2020-05-04,Department Of Public Health,3,35
+2020-05-04,Devereux Glenholme School,3,36
+2020-05-04,Facebook,3,37
+2020-05-04,Hampshire Preservation Alliance,3,38
+2020-05-04,Historic Preservation Office,3,39
+2020-05-04,Morgan,3,40
+2020-05-04,Preservation Trust Of Vermont,3,41
+2020-05-04,Public Health Committee,3,42
+2020-05-04,Uconn School Of Law,3,43
+2020-05-04,Yale School Of Medicine,3,44
+2020-05-04,Youtube,3,45
+2020-05-04,American Civil Liberties Union Of Connecticut,4,17
+2020-05-04,Department Of Health,4,18
+2020-05-04,Department Of Transportation,4,19
+2020-05-04,Institute For Health Metrics,4,20
+2020-05-04,Tribune Content Agency,4,21
+2020-05-04,Uconn Health Center On,4,22
+2020-05-04,University Of Washington,4,23
+2020-05-04,Human Services,5,13
+2020-05-04,Small Business Administration,5,14
+2020-05-04,Supreme Court,5,15
+2020-05-04,Twitter,5,16
+2020-05-04,Associated Press,6,12
+2020-05-04,Centers For Disease,7,8
+2020-05-04,Department Of Social Services,7,9
+2020-05-04,Dominion Energy,7,10
+2020-05-04,Health Administration,7,11
+2020-05-04,Cnn,9,5
+2020-05-04,Nan,9,6
+2020-05-04,Paycheck Protection Program,9,7
 2020-05-04,Foley,10,3
-2020-05-04,United States,14,2
+2020-05-04,White House,10,4
 2020-05-04,Connecticut National Guard,16,1
+2020-05-04,United States,16,2
 2020-05-05,Abbott Terrace Health Center,3,39
 2020-05-05,American Civil Liberties Union,3,40
 2020-05-05,Athena Health Care Systems,3,41
@@ -4119,14 +4119,14 @@ date,organization,count,rn
 2020-05-11,Economic Development,3,40
 2020-05-11,Gilmartin Elementary School,3,41
 2020-05-11,Google,3,42
-2020-05-11,Kaynor Technical High School,3,43
-2020-05-11,Putnam Superior Court,3,44
-2020-05-11,Quest Diagnostics,3,45
-2020-05-11,School Superintendent Verna Ruffin,3,46
-2020-05-11,Steering Committee,3,47
-2020-05-11,University Of New Haven,3,48
-2020-05-11,Waterbury Career Academy,3,49
-2020-05-11,Writer Michael Catalini,3,50
+2020-05-11,Governor Council On Women,3,43
+2020-05-11,Kaynor Technical High School,3,44
+2020-05-11,Northbridge Health Care,3,45
+2020-05-11,Office Of Higher Education,3,46
+2020-05-11,Putnam Superior Court,3,47
+2020-05-11,School Superintendent Verna Ruffin,3,48
+2020-05-11,Steering Committee,3,49
+2020-05-11,University Of New Haven,3,50
 2020-05-11,Connecticut Advisory Committee,4,29
 2020-05-11,Connecticut Department Of Economic,4,30
 2020-05-11,Department Of Veterans Affairs,4,31
@@ -4135,23 +4135,23 @@ date,organization,count,rn
 2020-05-11,Johns Hopkins University,4,34
 2020-05-11,Kalispel Tribal Economic Authority,4,35
 2020-05-11,Twitter,4,36
-2020-05-11,Community Development,5,24
-2020-05-11,Council On Women,5,25
-2020-05-11,Department Of Motor Vehicles,5,26
+2020-05-11,Community Development,5,26
 2020-05-11,New York Times,5,27
 2020-05-11,University Of Washington,5,28
 2020-05-11,Connecticut Advisory Group,6,21
 2020-05-11,Connecticut Citizens Defense League,6,22
-2020-05-11,Facebook,6,23
+2020-05-11,Council On Women,6,23
+2020-05-11,Department Of Motor Vehicles,6,24
+2020-05-11,Facebook,6,25
 2020-05-11,Bristol Health,7,17
 2020-05-11,Chinese Communist Party,7,18
 2020-05-11,Griffin Health,7,19
 2020-05-11,Ned Lamont Reopen Connecticut Advisory Group,7,20
-2020-05-11,Department Of Health,8,14
-2020-05-11,Nan,8,15
+2020-05-11,Department Of Health,8,15
 2020-05-11,White House,8,16
 2020-05-11,Department Of Public Health,9,12
-2020-05-11,Office Of Early Childhood,9,13
+2020-05-11,Nan,9,13
+2020-05-11,Office Of Early Childhood,9,14
 2020-05-11,Associated Press,11,9
 2020-05-11,Mcdonald,11,10
 2020-05-11,Walmart,11,11
@@ -4179,17 +4179,17 @@ date,organization,count,rn
 2020-05-12,Nuvance Health,7,39
 2020-05-12,Supreme Court,7,40
 2020-05-12,Thomson Reuters Trust Principles,7,41
-2020-05-12,Commission On Human Rights,8,33
-2020-05-12,Connecticut Education Association,8,34
-2020-05-12,Connecticut Department Of Economic,9,31
-2020-05-12,Treasury Department,9,32
+2020-05-12,Commission On Human Rights,8,34
+2020-05-12,Connecticut Department Of Economic,9,32
+2020-05-12,Treasury Department,9,33
+2020-05-12,Connecticut Education Association,10,31
 2020-05-12,China Construction Bank,11,28
 2020-05-12,Community Development,11,29
 2020-05-12,Jackson Laboratory,11,30
 2020-05-12,A Senate,12,27
-2020-05-12,Connecticut National Guard,13,25
 2020-05-12,Yale University,13,26
-2020-05-12,Connecticut State Public Health Laboratory,14,24
+2020-05-12,Connecticut National Guard,14,24
+2020-05-12,Connecticut State Public Health Laboratory,14,25
 2020-05-12,Yale New Haven Health,15,23
 2020-05-12,Pensions Committee,16,21
 2020-05-12,Public Health Department,16,22
@@ -4413,33 +4413,28 @@ date,organization,count,rn
 2020-05-16,Northern Correctional Institution,20,2
 2020-05-16,Twitter,20,3
 2020-05-16,Department Of Correction,22,1
-2020-05-17,Associated Press,2,24
-2020-05-17,Brady Campaign,2,25
-2020-05-17,Brady Campaign To Prevent Gun Violence,2,26
-2020-05-17,Career Center,2,27
-2020-05-17,Connecticut Association Of Resident Service Coordinators,2,28
-2020-05-17,Connecticut Department Of Social Services,2,29
-2020-05-17,Connecticut State Department Of Education,2,30
-2020-05-17,Correction Department,2,31
-2020-05-17,Department Of Education,2,32
-2020-05-17,Department Of Labor,2,33
-2020-05-17,Drug Administration,2,34
-2020-05-17,Elms College,2,35
-2020-05-17,Employer Relations At Westfield State University,2,36
-2020-05-17,Governor Emergency Education Relief Fund,2,37
-2020-05-17,Instagram,2,38
-2020-05-17,Kentucky Health Justice Network,2,39
-2020-05-17,Nan,2,40
-2020-05-17,National Conference Of State Legislatures,2,41
-2020-05-17,National Council Licensure Examination,2,42
-2020-05-17,Nursing Department At Westfield,2,43
-2020-05-17,Osborn Correctional Institution,2,44
-2020-05-17,School Districts Can Submit Applications,2,45
-2020-05-17,School Emergency Relief Fund,2,46
-2020-05-17,Stern,2,47
-2020-05-17,Supreme Court,2,48
-2020-05-17,Town Council,2,49
-2020-05-17,United States,2,50
+2020-05-17,Associated Press,2,29
+2020-05-17,Brady Campaign,2,30
+2020-05-17,Brady Campaign To Prevent Gun Violence,2,31
+2020-05-17,Career Center,2,32
+2020-05-17,Connecticut Association Of Resident Service Coordinators,2,33
+2020-05-17,Connecticut Department Of Social Services,2,34
+2020-05-17,Correction Department,2,35
+2020-05-17,Department Of Corrections,2,36
+2020-05-17,Department Of Labor,2,37
+2020-05-17,Drug Administration,2,38
+2020-05-17,Elms College,2,39
+2020-05-17,Employer Relations At Westfield State University,2,40
+2020-05-17,Instagram,2,41
+2020-05-17,Kentucky Health Justice Network,2,42
+2020-05-17,Nan,2,43
+2020-05-17,National Conference Of State Legislatures,2,44
+2020-05-17,National Council Licensure Examination,2,45
+2020-05-17,Nursing Department At Westfield,2,46
+2020-05-17,Osborn Correctional Institution,2,47
+2020-05-17,Stern,2,48
+2020-05-17,Supreme Court,2,49
+2020-05-17,Town Council,2,50
 2020-05-17,American Legion,3,7
 2020-05-17,American Legion Auxiliary National,3,8
 2020-05-17,Carmen Arace School,3,9
@@ -4447,16 +4442,21 @@ date,organization,count,rn
 2020-05-17,Connecticut Air National Guard,3,11
 2020-05-17,Connecticut Historical Society,3,12
 2020-05-17,Connecticut National Guard,3,13
-2020-05-17,Hartford Preservation Alliance,3,14
-2020-05-17,National Headquarters,3,15
-2020-05-17,National Institute Of Allergy,3,16
-2020-05-17,National Poppy Day,3,17
-2020-05-17,New York Times,3,18
-2020-05-17,Northern Correctional Institution,3,19
-2020-05-17,Public Affairs,3,20
-2020-05-17,Twitter,3,21
-2020-05-17,Walmart,3,22
-2020-05-17,White House,3,23
+2020-05-17,Connecticut State Department Of Education,3,14
+2020-05-17,Department Of Education,3,15
+2020-05-17,Governor Emergency Education Relief Fund,3,16
+2020-05-17,Hartford Preservation Alliance,3,17
+2020-05-17,National Headquarters,3,18
+2020-05-17,National Institute Of Allergy,3,19
+2020-05-17,National Poppy Day,3,20
+2020-05-17,New York Times,3,21
+2020-05-17,Northern Correctional Institution,3,22
+2020-05-17,Public Affairs,3,23
+2020-05-17,School Districts Can Submit Applications,3,24
+2020-05-17,School Emergency Relief Fund,3,25
+2020-05-17,Twitter,3,26
+2020-05-17,Walmart,3,27
+2020-05-17,White House,3,28
 2020-05-17,Centers For Disease,4,3
 2020-05-17,Department Of Energy,4,4
 2020-05-17,Department Of Public Health,4,5
@@ -4563,56 +4563,56 @@ date,organization,count,rn
 2020-05-19,Connecticut Beauty Association,15,3
 2020-05-19,Justice Department,17,2
 2020-05-19,United States,24,1
-2020-05-20,Associated Press,1,8
-2020-05-20,Centers For Disease,1,9
-2020-05-20,City Council,1,10
-2020-05-20,Clean Energy,1,11
-2020-05-20,Cnn,1,12
-2020-05-20,College Of Arts,1,13
-2020-05-20,College Of Engineering,1,14
-2020-05-20,Connecticut Advisory Group,1,15
-2020-05-20,Connecticut National Guard,1,16
-2020-05-20,Danbury Department Of Health Human Services,1,17
-2020-05-20,Danbury High School,1,18
-2020-05-20,Democratic House Campaign,1,19
-2020-05-20,Department Of Education,1,20
-2020-05-20,Department Of Health,1,21
-2020-05-20,Department Of Public Health,1,22
-2020-05-20,Environmental Sciences,1,23
-2020-05-20,Facebook,1,24
-2020-05-20,Federal Reserve,1,25
-2020-05-20,Florida Democratic Party,1,26
-2020-05-20,Health Sciences,1,27
-2020-05-20,International Journal Of Oncology Research,1,28
-2020-05-20,International Space Center,1,29
-2020-05-20,Jersey Community Hospital,1,30
-2020-05-20,Kennedy Space Center,1,31
-2020-05-20,Lending Program,1,32
-2020-05-20,Magic Mirror For Mental Health Awareness Month,1,33
-2020-05-20,Mental Health Awareness Month,1,34
-2020-05-20,Mission Accomplished,1,35
-2020-05-20,National Institutes Of Health,1,36
-2020-05-20,National Space Council Meeting,1,37
-2020-05-20,Scientific Arts Foundation,1,38
-2020-05-20,Senate Banking Committee,1,39
-2020-05-20,Siteman Cancer Center,1,40
-2020-05-20,Space Council Meeting,1,41
-2020-05-20,Supreme Court Justice Clarence Thomas,1,42
-2020-05-20,Ub College Of Health Sciences,1,43
-2020-05-20,Uconn Center,1,44
-2020-05-20,Uconn Health Center,1,45
-2020-05-20,University Of Connecticut,1,46
-2020-05-20,Washington University School Of Medicine,1,47
-2020-05-20,White House,1,48
-2020-05-20,World Health Organization,1,49
-2020-05-20,York State Nurses Association,1,50
-2020-05-20,Connecticut Beauty Association,2,2
-2020-05-20,Democratic Party,2,3
-2020-05-20,Drug Administration,2,4
-2020-05-20,High School,2,5
-2020-05-20,Michigan Conservative Coalition,2,6
-2020-05-20,United States,2,7
-2020-05-20,Partnership For Connecticut,3,1
+2020-05-20,America Food Fund,4,31
+2020-05-20,Barclays Center,4,32
+2020-05-20,Connecticut Beauty Association,4,33
+2020-05-20,Connecticut State Police Union,4,34
+2020-05-20,Cromwell Town Council,4,35
+2020-05-20,Forum In Inglewood,4,36
+2020-05-20,Girls Club Of East Mississippi,4,37
+2020-05-20,Health Security In Baltimore,4,38
+2020-05-20,Johns Hopkins Center,4,39
+2020-05-20,Journal Of The American College Of Cardiology,4,40
+2020-05-20,Living Classrooms Foundation,4,41
+2020-05-20,Mount Pilgrim Missionary Baptist Church,4,42
+2020-05-20,Mount Zion Baptist Church,4,43
+2020-05-20,National Institute Of Allergy,4,44
+2020-05-20,Oprah Winfrey Charitable Foundation,4,45
+2020-05-20,Relief Fund,4,46
+2020-05-20,Tennessee State University,4,47
+2020-05-20,Town Council,4,48
+2020-05-20,Tribune Content Agency,4,49
+2020-05-20,World Health Organization,4,50
+2020-05-20,Drug Administration,5,25
+2020-05-20,High School,5,26
+2020-05-20,Nan,5,27
+2020-05-20,National Guard,5,28
+2020-05-20,New York Times,5,29
+2020-05-20,Senate Majority Leader Mitch Mcconnell,5,30
+2020-05-20,Athena Health Care,6,17
+2020-05-20,Department Of Health,6,18
+2020-05-20,Eastern Connecticut Health Network,6,19
+2020-05-20,Jeonmin High School In Daejeon,6,20
+2020-05-20,National Safety Council,6,21
+2020-05-20,Reuters,6,22
+2020-05-20,Trinity Health Of New England,6,23
+2020-05-20,Youtube,6,24
+2020-05-20,Cnn,7,13
+2020-05-20,Korea Centers For Disease,7,14
+2020-05-20,National Institutes Of Health,7,15
+2020-05-20,United Kingdom Met Office,7,16
+2020-05-20,United Nations,8,12
+2020-05-20,University Of Cambridge,9,11
+2020-05-20,White House,11,10
+2020-05-20,Department Of Public Health,13,7
+2020-05-20,Facebook,13,8
+2020-05-20,Partnership For Connecticut,13,9
+2020-05-20,Public Affairs Research,14,6
+2020-05-20,University Of Notre Dame,17,5
+2020-05-20,Centers For Disease,24,4
+2020-05-20,Associated Press,29,2
+2020-05-20,Johns Hopkins University,29,3
+2020-05-20,United States,34,1
 2020-05-21,Bath Body Works,4,33
 2020-05-21,Connecticut Advisory Panel,4,34
 2020-05-21,Coronavirus Relief Fund,4,35
@@ -4963,3 +4963,53 @@ date,organization,count,rn
 2020-05-27,Osborn Correctional Institution,12,4
 2020-05-27,Centers For Disease,14,2
 2020-05-27,Department Of Correction,22,1
+2020-05-28,Better Business Bureau Serving Connecticut,2,43
+2020-05-28,Bureau Of Investigations,2,44
+2020-05-28,Children Museum Of Southeastern Connecticut,2,45
+2020-05-28,Cnn,2,46
+2020-05-28,Coalition To Unleash Power,2,47
+2020-05-28,College Board,2,48
+2020-05-28,Connecticut Association Of Public School Superintendents,2,49
+2020-05-28,Connecticut Beauty Association,2,50
+2020-05-28,Ad Hoc Group Of Individual Victims,3,23
+2020-05-28,Addiction Services,3,24
+2020-05-28,Connecticut Advisory Group,3,25
+2020-05-28,Connecticut Department Of Disability Services,3,26
+2020-05-28,Connecticut Department Of Mental Health,3,27
+2020-05-28,Connecticut Department Of Public Health,3,28
+2020-05-28,Connecticut Health Foundation,3,29
+2020-05-28,Connecticut State Independent Living Council,3,30
+2020-05-28,Department Of Public Health,3,31
+2020-05-28,Equity Research,3,32
+2020-05-28,Federal Reserve,3,33
+2020-05-28,Health Department,3,34
+2020-05-28,Nan,3,35
+2020-05-28,Paycheck Protection Program,3,36
+2020-05-28,Public Health,3,37
+2020-05-28,Purdue Pharma,3,38
+2020-05-28,Small Business Administration,3,39
+2020-05-28,Southwestern Connecticut Agency On,3,40
+2020-05-28,Twitter,3,41
+2020-05-28,Yale School Of Medicine,3,42
+2020-05-28,Bloomberg,4,15
+2020-05-28,Bureau Of Investigation,4,16
+2020-05-28,Charter Oak Health Center,4,17
+2020-05-28,New York Times,4,18
+2020-05-28,Newtown High School,4,19
+2020-05-28,Research Lab,4,20
+2020-05-28,Sheriff Office,4,21
+2020-05-28,Trinity Health Of New England,4,22
+2020-05-28,American Queen Steamboat Co,5,11
+2020-05-28,National Security Agency,5,12
+2020-05-28,Reuters,5,13
+2020-05-28,University Of Notre Dame,5,14
+2020-05-28,Johns Hopkins University,6,8
+2020-05-28,Labor Department,6,9
+2020-05-28,Public Affairs Research,6,10
+2020-05-28,Connecticut State Police,8,6
+2020-05-28,United States,8,7
+2020-05-28,Centers For Disease,9,4
+2020-05-28,University Of Connecticut,9,5
+2020-05-28,Justice Department,10,3
+2020-05-28,White House,12,2
+2020-05-28,Associated Press,13,1

@@ -3893,33 +3893,33 @@ date,organization,count,rn
 2020-04-29,Stirling University,2,37
 2020-04-29,Twitter,2,38
 2020-04-29,World Economic Forum,2,39
-2020-04-29,Division Of Motor Vehicles In Tamworth,3,25
-2020-04-29,Human Service,3,26
-2020-04-29,Seacoast Health,3,27
+2020-04-29,Division Of Motor Vehicles In Tamworth,4,25
+2020-04-29,Human Service,4,26
+2020-04-29,Seacoast Health,4,27
 2020-04-29,Associated Press,5,23
 2020-04-29,Hackett Hill Center,5,24
 2020-04-29,Mountain Ridge Center,7,22
-2020-04-29,Claremont Elementary School,8,21
-2020-04-29,National Guard,10,20
+2020-04-29,Claremont Elementary School,9,21
 2020-04-29,Birch Hill Retirement Community In Manchester,11,7
 2020-04-29,Bow High School,11,8
 2020-04-29,Crestwood Center,11,9
 2020-04-29,Department Of Veterans Affairs,11,10
 2020-04-29,Hampshire Department Of Revenue Administration,11,11
 2020-04-29,Hampshire Municipal Association,11,12
-2020-04-29,Office Of Child,11,13
-2020-04-29,Public Health,11,14
-2020-04-29,Rehabilitation Center,11,15
-2020-04-29,Retail Merchants Association,11,16
-2020-04-29,University Of New Hampshire,11,17
-2020-04-29,University System Of New Hampshire,11,18
-2020-04-29,White Mountain National Forest,11,19
+2020-04-29,National Guard,11,13
+2020-04-29,Office Of Child,11,14
+2020-04-29,Public Health,11,15
+2020-04-29,Rehabilitation Center,11,16
+2020-04-29,Retail Merchants Association,11,17
+2020-04-29,University Of New Hampshire,11,18
+2020-04-29,University System Of New Hampshire,11,19
+2020-04-29,White Mountain National Forest,11,20
 2020-04-29,Paycheck Protection Program,13,6
-2020-04-29,Hampshire Department Of Health,14,4
-2020-04-29,Nurses Association,14,5
 2020-04-29,Department Of Education,15,3
-2020-04-29,Department Of Health,19,2
-2020-04-29,Human Services,21,1
+2020-04-29,Hampshire Department Of Health,15,4
+2020-04-29,Nurses Association,15,5
+2020-04-29,Department Of Health,21,2
+2020-04-29,Human Services,22,1
 2020-04-30,African Leadership University,1,39
 2020-04-30,Agency Of Human Services,1,40
 2020-04-30,Anselm College,1,41
@@ -3979,15 +3979,14 @@ date,organization,count,rn
 2020-05-01,Center New Hampshire Medical Reserve Corps,1,48
 2020-05-01,Centers For Disease,1,49
 2020-05-01,Cheshire Medical Center,1,50
-2020-05-01,A Brown University,2,25
-2020-05-01,Americans At Ascentria Care Alliance In Concord,2,26
-2020-05-01,Bath Iron Works,2,27
-2020-05-01,Democrat Party,2,28
-2020-05-01,Development Department,2,29
-2020-05-01,Immigration Services,2,30
-2020-05-01,International Workers Day,2,31
-2020-05-01,Ivy League,2,32
-2020-05-01,Nan,2,33
+2020-05-01,A Brown University,2,26
+2020-05-01,Americans At Ascentria Care Alliance In Concord,2,27
+2020-05-01,Bath Iron Works,2,28
+2020-05-01,Democrat Party,2,29
+2020-05-01,Development Department,2,30
+2020-05-01,Immigration Services,2,31
+2020-05-01,International Workers Day,2,32
+2020-05-01,Ivy League,2,33
 2020-05-01,Plymouth Rotary Club,2,34
 2020-05-01,Plymouth Rotary Foundation,2,35
 2020-05-01,Twitter,2,36
@@ -3998,7 +3997,8 @@ date,organization,count,rn
 2020-05-01,Veterans Affairs Deputy,2,41
 2020-05-01,Fedex,3,22
 2020-05-01,Hampshire Institute Of Politics,3,23
-2020-05-01,University Of New Hampshire,3,24
+2020-05-01,Nan,3,24
+2020-05-01,University Of New Hampshire,3,25
 2020-05-01,White House,4,21
 2020-05-01,Associated Press,6,16
 2020-05-01,Dartmouth College,6,17
@@ -4911,15 +4911,56 @@ date,organization,count,rn
 2020-05-19,American Civil Liberties Union,15,3
 2020-05-19,United States,16,2
 2020-05-19,Human Services,21,1
-2020-05-20,Educational Fund,1,6
-2020-05-20,Nan,1,7
-2020-05-20,Netflix,1,8
-2020-05-20,Refugee Rights Coalition,1,9
-2020-05-20,American Civil Liberties Union,2,1
-2020-05-20,Fraternal Order Of Police,2,2
-2020-05-20,Human Services,2,3
-2020-05-20,Tennessee Association Of Chiefs Of Police,2,4
-2020-05-20,United States,2,5
+2020-05-20,Abraham Lincoln High School,1,33
+2020-05-20,American Association Of Collegiate Registrars,1,34
+2020-05-20,American Association Of Community Colleges,1,35
+2020-05-20,American Council On Education,1,36
+2020-05-20,American Hospital Association,1,37
+2020-05-20,Antrim Elementary School In Antrim,1,38
+2020-05-20,Area Planning Council,1,39
+2020-05-20,Bloomberg,1,40
+2020-05-20,Board Of Trustees,1,41
+2020-05-20,Brookings Institute,1,42
+2020-05-20,Broward College,1,43
+2020-05-20,California State University,1,44
+2020-05-20,Catalent Inc,1,45
+2020-05-20,Centers For Disease,1,46
+2020-05-20,Colby-Sawyer College,1,47
+2020-05-20,College Board,1,48
+2020-05-20,College Of Business,1,49
+2020-05-20,Columbia University,1,50
+2020-05-20,America Honors The High School Class,2,11
+2020-05-20,Associated Press,2,12
+2020-05-20,Astrazeneca Plc,2,13
+2020-05-20,Club Fitness Of Vermont,2,14
+2020-05-20,Dartmouth College,2,15
+2020-05-20,Division Of Children,2,16
+2020-05-20,Drug Administration,2,17
+2020-05-20,Dunkin Donuts,2,18
+2020-05-20,Emergent Biosolutions Inc,2,19
+2020-05-20,Energy Committee,2,20
+2020-05-20,Gilead Sciences Inc,2,21
+2020-05-20,Hampshire Senate,2,22
+2020-05-20,Instagram,2,23
+2020-05-20,Ivy League,2,24
+2020-05-20,Johnson Johnson,2,25
+2020-05-20,Lonza Group,2,26
+2020-05-20,Moderna Inc,2,27
+2020-05-20,Nan,2,28
+2020-05-20,Nh Senate,2,29
+2020-05-20,Nurses At Catholic Medical Center,2,30
+2020-05-20,Richmond Middle School,2,31
+2020-05-20,University Of Oxford,2,32
+2020-05-20,Cnn,3,8
+2020-05-20,Department Of Health,3,9
+2020-05-20,Refugee Rights Coalition,3,10
+2020-05-20,Catholic Medical Center,4,4
+2020-05-20,Educational Fund,4,5
+2020-05-20,Fraternal Order Of Police,4,6
+2020-05-20,Tennessee Association Of Chiefs Of Police,4,7
+2020-05-20,American Civil Liberties Union,6,3
+2020-05-20,United States,8,2
+2020-05-20,Human Services,9,1
 2020-05-21,America Honors The High School Class,2,11
 2020-05-21,Army National Guard,2,12
 2020-05-21,Burisma Holdings,2,13
@@ -5258,3 +5299,53 @@ date,organization,count,rn
 2020-05-27,University Of Colorado,44,5
 2020-05-27,Feinstein Institutes For Medical Research In Manhasset,46,2
 2020-05-27,United States,47,1
+2020-05-28,American Civil Liberties Union,1,36
+2020-05-28,Baptist Church,1,37
+2020-05-28,Barrington Village School Family,1,38
+2020-05-28,Centers For Disease,1,39
+2020-05-28,Child Enrichment Center,1,40
+2020-05-28,Cnn,1,41
+2020-05-28,Danvers Board Of Health,1,42
+2020-05-28,Danvers Pubic Health,1,43
+2020-05-28,Dartmouth College,1,44
+2020-05-28,Democratic National Committee,1,45
+2020-05-28,Division Of Public Health Services,1,46
+2020-05-28,First United Baptist Church,1,47
+2020-05-28,Hampshire Chiefs Of Police,1,48
+2020-05-28,Hampshire Coalition Of Recovery Residences,1,49
+2020-05-28,Hampshire Department Of Corrections,1,50
+2020-05-28,Community College System Of New Hampshire,2,18
+2020-05-28,Doctors At Southern New Hampshire Health,2,19
+2020-05-28,Dover High School,2,20
+2020-05-28,Dover School District,2,21
+2020-05-28,Facebook,2,22
+2020-05-28,Franklin Elementary School In Portsmouth,2,23
+2020-05-28,Hitchcock Medical Center,2,24
+2020-05-28,Human Services,2,25
+2020-05-28,Laboratory For Clinical Genomics,2,26
+2020-05-28,Lexagene Holdings Inc,2,27
+2020-05-28,Regulation Services Provider,2,28
+2020-05-28,Research Use,2,29
+2020-05-28,School Department,2,30
+2020-05-28,School Transition,2,31
+2020-05-28,Southern New Hampshire Health,2,32
+2020-05-28,University System Of New Hampshire,2,33
+2020-05-28,Venture Exchange,2,34
+2020-05-28,Venture Exchange Inc,2,35
+2020-05-28,Columbia University Irving Medical Center,3,4
+2020-05-28,Department Of Revenue Administration,3,5
+2020-05-28,Disability Rights Center,3,6
+2020-05-28,Feinstein Institutes For Medical Research In Manhasset,3,7
+2020-05-28,Hampshire Republican Party,3,8
+2020-05-28,Hampshire Retail Association,3,9
+2020-05-28,Janssen Pharmaceuticals,3,10
+2020-05-28,Means Committee,3,11
+2020-05-28,Nan,3,12
+2020-05-28,National Institutes Of Health,3,13
+2020-05-28,Parent Information Center,3,14
+2020-05-28,Senate Majority Leader Dan Feltes,3,15
+2020-05-28,University Of Colorado,3,16
+2020-05-28,Youtube,3,17
+2020-05-28,Democratic Party,4,3
+2020-05-28,Department Of Education,5,1
+2020-05-28,United States,5,2

@@ -3200,15 +3200,15 @@ date,organization,count,rn
 2020-04-23,Falls Church,7,25
 2020-04-23,Maryland Department Of Human Services,7,26
 2020-04-23,Youtube,7,27
-2020-04-23,Human Services,8,19
-2020-04-23,Laurel Medical Center,8,20
-2020-04-23,Maryland Department Of Health,8,21
-2020-04-23,Maryland Food Bank,8,22
-2020-04-23,Nan,8,23
+2020-04-23,Human Services,8,20
+2020-04-23,Laurel Medical Center,8,21
+2020-04-23,Maryland Department Of Health,8,22
+2020-04-23,Maryland Food Bank,8,23
 2020-04-23,Associated Press,9,15
 2020-04-23,Drug Administration,9,16
-2020-04-23,Senate On,9,17
-2020-04-23,Twitter,9,18
+2020-04-23,Nan,9,17
+2020-04-23,Senate On,9,18
+2020-04-23,Twitter,9,19
 2020-04-23,Department Of Health,10,11
 2020-04-23,Johns Hopkins University,10,12
 2020-04-23,Maryland Department Of Labor,10,13
@@ -3221,7 +3221,7 @@ date,organization,count,rn
 2020-04-23,Cnn,20,5
 2020-04-23,Centers For Disease,28,4
 2020-04-23,United States,32,3
-2020-04-23,National Governors Association,33,2
+2020-04-23,National Governors Association,34,2
 2020-04-23,White House,42,1
 2020-04-24,Cato Institute,5,50
 2020-04-24,College Park,6,42
@@ -3270,7 +3270,7 @@ date,organization,count,rn
 2020-04-24,Cnn,36,6
 2020-04-24,Maryland Emergency Management Agency,41,4
 2020-04-24,Senate Majority Leader Mitch Mcconnell,41,5
-2020-04-24,United States,45,3
+2020-04-24,United States,46,3
 2020-04-24,National Governors Association,49,2
 2020-04-24,White House,91,1
 2020-04-25,Banner University Medical Center,3,40
@@ -3383,8 +3383,8 @@ date,organization,count,rn
 2020-04-27,Legal Aid Justice Center Just Children Program,6,43
 2020-04-27,Louisiana Office Of Juvenile Justice,6,44
 2020-04-27,Maryland Emergency Management Agency,6,45
-2020-04-27,Maryland State Police,6,46
-2020-04-27,Medstar Health,6,47
+2020-04-27,Maryland National Guard,6,46
+2020-04-27,Maryland State Police,6,47
 2020-04-27,National Association Of Counties,6,48
 2020-04-27,Paycheck Protection Program Healthcare Enhancement,6,49
 2020-04-27,Pennsylvania Supreme Court,6,50
@@ -3399,30 +3399,30 @@ date,organization,count,rn
 2020-04-27,Consumer Bankers Association,9,26
 2020-04-27,Senate Republicans,9,27
 2020-04-27,University Of Maryland,9,28
-2020-04-27,Bon Air Juvenile Correctional Center,10,21
-2020-04-27,Maryland Court,10,22
-2020-04-27,Nan,10,23
+2020-04-27,Bon Air Juvenile Correctional Center,10,22
+2020-04-27,Maryland Court,10,23
 2020-04-27,Swanson Center,10,24
-2020-04-27,Associated Press,11,14
-2020-04-27,Community Bankers Of America,11,15
-2020-04-27,Department Of Health,11,16
+2020-04-27,Associated Press,11,15
+2020-04-27,Community Bankers Of America,11,16
 2020-04-27,Drug Administration,11,17
 2020-04-27,Medicaid Services,11,18
-2020-04-27,New York Times,11,19
-2020-04-27,Thomson Reuters Trust Principles,11,20
-2020-04-27,Facebook,12,13
+2020-04-27,Nan,11,19
+2020-04-27,New York Times,11,20
+2020-04-27,Thomson Reuters Trust Principles,11,21
+2020-04-27,Department Of Health,12,13
+2020-04-27,Facebook,12,14
 2020-04-27,Paycheck Protection Program,13,11
 2020-04-27,Small Business Administration,13,12
-2020-04-27,Maryland Department Of Health,14,10
 2020-04-27,Clorox,16,9
+2020-04-27,Maryland Department Of Health,16,10
 2020-04-27,Reuters,19,6
 2020-04-27,Senate Majority Leader Mitch Mcconnell,19,7
 2020-04-27,Twitter,19,8
 2020-04-27,United States,32,5
 2020-04-27,National Governors Association,37,4
-2020-04-27,Centers For Disease,39,3
-2020-04-27,Cnn,41,2
-2020-04-27,White House,59,1
+2020-04-27,Centers For Disease,38,3
+2020-04-27,Cnn,42,2
+2020-04-27,White House,58,1
 2020-04-28,Emergency Relief Manufacturing Fund,5,46
 2020-04-28,Jessup Correctional Institution,5,47
 2020-04-28,Lawyer Committee For Civil Rights Under Law,5,48
@@ -3436,14 +3436,14 @@ date,organization,count,rn
 2020-04-28,Maryland Hospital Association,6,43
 2020-04-28,Prisoner Health,6,44
 2020-04-28,Small Business Administration,6,45
-2020-04-28,Clorox,7,32
-2020-04-28,Democratic Party,7,33
+2020-04-28,Clorox,7,33
 2020-04-28,Human Services,7,34
 2020-04-28,Maryland Emergency Management Agency,7,35
 2020-04-28,Ohio State University,7,36
 2020-04-28,University Of Maryland,7,37
 2020-04-28,Caddo Juvenile Detention Center,8,30
-2020-04-28,Johns Hopkins University,8,31
+2020-04-28,Democratic Party,8,31
+2020-04-28,Johns Hopkins University,8,32
 2020-04-28,Anne Arundel Medical Center,9,25
 2020-04-28,Reuters,9,26
 2020-04-28,Tennessee Department Of Children Services,9,27
@@ -3451,10 +3451,10 @@ date,organization,count,rn
 2020-04-28,Young,9,29
 2020-04-28,Senate Majority Leader Mitch Mcconnell,10,23
 2020-04-28,Virginia Department,10,24
-2020-04-28,Nan,11,20
 2020-04-28,Paycheck Protection Program,11,21
 2020-04-28,Writer Regina Cano Garcia,11,22
 2020-04-28,Consumer Financial Protection Bureau,12,19
+2020-04-28,Nan,12,20
 2020-04-28,Administration For Children Services,15,12
 2020-04-28,Bon Air Juvenile Correctional Center,15,13
 2020-04-28,Crossroads Juvenile Center,15,14
@@ -3523,7 +3523,6 @@ date,organization,count,rn
 2020-04-29,Twitter,35,3
 2020-04-29,United States,53,2
 2020-04-29,White House,54,1
-2020-04-30,Carlyle Group Inc,5,50
 2020-04-30,Allegis Group,6,38
 2020-04-30,America Health,6,39
 2020-04-30,Army Thunderbirds,6,40
@@ -3535,7 +3534,8 @@ date,organization,count,rn
 2020-04-30,Maryland Army National Guard,6,46
 2020-04-30,National Coalition,6,47
 2020-04-30,Reuters,6,48
-2020-04-30,University Of Pennsylvania,6,49
+2020-04-30,Senate Majority Leader Mitch Mcconnell,6,49
+2020-04-30,University Of Pennsylvania,6,50
 2020-04-30,National Supply Chain,7,36
 2020-04-30,Small Business Administration,7,37
 2020-04-30,Comedy Central,8,33
@@ -3812,10 +3812,10 @@ date,organization,count,rn
 2020-05-05,Education Trust Fund,6,13
 2020-05-05,New York Times,6,14
 2020-05-05,Small Business Administration,6,15
-2020-05-05,Associated Press,8,11
-2020-05-05,Cnn,9,8
-2020-05-05,New York Post,9,9
-2020-05-05,Paycheck Protection Program,9,10
+2020-05-05,Associated Press,9,8
+2020-05-05,Cnn,9,9
+2020-05-05,New York Post,9,10
+2020-05-05,Paycheck Protection Program,9,11
 2020-05-05,National Governors Association,10,6
 2020-05-05,Senate Majority Leader Mitch Mcconnell,10,7
 2020-05-05,Johns Hopkins University,11,5
@@ -3847,28 +3847,28 @@ date,organization,count,rn
 2020-05-06,National Nurses Day,7,29
 2020-05-06,Supreme Court On,7,30
 2020-05-06,Supreme Court Building,8,27
-2020-05-06,Blue Flame Medical,9,24
 2020-05-06,Human Services,9,25
 2020-05-06,Treasury Department,9,26
-2020-05-06,Centers For Disease,10,21
-2020-05-06,Republican Party,10,22
-2020-05-06,World Health Organization,10,23
-2020-05-06,Department Of Health,12,19
-2020-05-06,National Institutes Of Health,12,20
+2020-05-06,Blue Flame Medical,10,22
+2020-05-06,Republican Party,10,23
+2020-05-06,World Health Organization,10,24
+2020-05-06,Centers For Disease,12,19
+2020-05-06,Department Of Health,12,20
+2020-05-06,National Institutes Of Health,12,21
 2020-05-06,Arizona State University,13,15
 2020-05-06,Federal Reserve Bank,13,16
 2020-05-06,Senate Majority Leader Mitch Mcconnell,13,17
 2020-05-06,Virginia Commonwealth University,13,18
 2020-05-06,Labor Department,15,13
 2020-05-06,Maryland Department,15,14
-2020-05-06,Facebook,17,12
-2020-05-06,Twitter,18,11
-2020-05-06,Electoral College,19,9
-2020-05-06,Justice Department,19,10
-2020-05-06,New York Times,20,8
+2020-05-06,Facebook,18,12
+2020-05-06,Electoral College,19,10
+2020-05-06,Justice Department,19,11
+2020-05-06,New York Times,20,9
 2020-05-06,Cnn,21,7
-2020-05-06,United States,28,6
-2020-05-06,White House,36,5
+2020-05-06,Twitter,21,8
+2020-05-06,United States,29,6
+2020-05-06,White House,37,5
 2020-05-06,Supreme Court Justice Ruth Bader Ginsburg,44,4
 2020-05-06,Ap Supreme Court Twitter,49,3
 2020-05-06,Associated Press,55,2
@@ -3876,22 +3876,21 @@ date,organization,count,rn
 2020-05-07,A Justice Department,4,36
 2020-05-07,Costco Wholesale Club,4,37
 2020-05-07,Department Of Agriculture Food Safety,4,38
-2020-05-07,Family Dollar,4,39
-2020-05-07,Inspection Service,4,40
-2020-05-07,Johns Hopkins Center,4,41
-2020-05-07,Maryland Department,4,42
-2020-05-07,Maryland Emergency Management Agency,4,43
-2020-05-07,Mcdonald,4,44
-2020-05-07,Medicaid Services,4,45
-2020-05-07,National Pork Producers Council,4,46
-2020-05-07,Natural Resources Conservation Service,4,47
-2020-05-07,Republican Party,4,48
-2020-05-07,Retail Industry Leaders Association,4,49
-2020-05-07,Sam Club In Fullerton,4,50
-2020-05-07,Blue Flame Medical,5,27
-2020-05-07,Correctional Services Robert Green,5,28
-2020-05-07,Health Security,5,29
-2020-05-07,Human Services,5,30
+2020-05-07,Department Of Health,4,39
+2020-05-07,Family Dollar,4,40
+2020-05-07,Inspection Service,4,41
+2020-05-07,Johns Hopkins Center,4,42
+2020-05-07,Maryland Department,4,43
+2020-05-07,Maryland Emergency Management Agency,4,44
+2020-05-07,Mcdonald,4,45
+2020-05-07,Medicaid Services,4,46
+2020-05-07,National Institutes Of Health,4,47
+2020-05-07,National Pork Producers Council,4,48
+2020-05-07,Natural Resources Conservation Service,4,49
+2020-05-07,Republican Party,4,50
+2020-05-07,Blue Flame Medical,5,28
+2020-05-07,Correctional Services Robert Green,5,29
+2020-05-07,Health Security,5,30
 2020-05-07,Maryland Senate,5,31
 2020-05-07,Maryland State Bar Association,5,32
 2020-05-07,Montgomery Co,5,33
@@ -3899,29 +3898,30 @@ date,organization,count,rn
 2020-05-07,Wendy,5,35
 2020-05-07,Facebook,6,21
 2020-05-07,Health Facilities Association Of Maryland,6,22
-2020-05-07,Johns Hopkins University,6,23
-2020-05-07,Maryland Department Of Public Safety,6,24
-2020-05-07,Office Of Health Care Quality,6,25
-2020-05-07,University System Of Maryland,6,26
+2020-05-07,Human Services,6,23
+2020-05-07,Johns Hopkins University,6,24
+2020-05-07,Maryland Department Of Public Safety,6,25
+2020-05-07,Office Of Health Care Quality,6,26
+2020-05-07,University System Of Maryland,6,27
 2020-05-07,Centers For Medicare,7,18
 2020-05-07,Justice Department,7,19
 2020-05-07,Walmart,7,20
-2020-05-07,White House,8,17
-2020-05-07,Arizona State University,9,11
-2020-05-07,Federal Reserve Bank,9,12
-2020-05-07,Kirwan Commission,9,13
-2020-05-07,Maryland Department Of Health,9,14
-2020-05-07,United States,9,15
-2020-05-07,Virginia Commonwealth University,9,16
-2020-05-07,Centers For Disease,10,10
+2020-05-07,Arizona State University,9,13
+2020-05-07,Federal Reserve Bank,9,14
+2020-05-07,Kirwan Commission,9,15
+2020-05-07,United States,9,16
+2020-05-07,Virginia Commonwealth University,9,17
+2020-05-07,Centers For Disease,10,11
+2020-05-07,White House,10,12
 2020-05-07,Cnn,11,9
+2020-05-07,Maryland Department Of Health,11,10
 2020-05-07,Labor Department,13,8
 2020-05-07,Communications Commission,16,6
 2020-05-07,Electoral College,16,7
 2020-05-07,Ap Supreme Court Twitter,19,5
 2020-05-07,Twitter,20,4
 2020-05-07,Supreme Court Justice Ruth Bader Ginsburg,22,3
-2020-05-07,Associated Press,28,2
+2020-05-07,Associated Press,29,2
 2020-05-07,Supreme Court,45,1
 2020-05-08,Centers Of Medicare,3,46
 2020-05-08,Compensation Stabilization Program,3,47
@@ -3973,56 +3973,56 @@ date,organization,count,rn
 2020-05-08,Kirwan Commission,20,3
 2020-05-08,United States,23,2
 2020-05-08,White House,24,1
-2020-05-09,A Columbia University,3,38
-2020-05-09,A University Of Chicago,3,39
-2020-05-09,Canadian Medical Association Journal,3,40
-2020-05-09,Countermeasures Center,3,41
-2020-05-09,Department Of Defense,3,42
-2020-05-09,Department Of Energy,3,43
-2020-05-09,Department Of Homeland Security,3,44
-2020-05-09,Disaster Preparedness At Columbia University,3,45
-2020-05-09,Facebook,3,46
-2020-05-09,Fudan University,3,47
-2020-05-09,Health Security In Baltimore,3,48
-2020-05-09,Johns Hopkins Center,3,49
-2020-05-09,Labor Department,3,50
-2020-05-09,Canal Alliance,4,21
-2020-05-09,Capital Area Food Bank,4,22
-2020-05-09,Community Organized Relief Effort,4,23
-2020-05-09,Costco Wholesale Club,4,24
-2020-05-09,Esperanza Health Centers,4,25
-2020-05-09,Family Dollar,4,26
-2020-05-09,Hunger Coalition,4,27
-2020-05-09,Hunger Coalition Of Atlanta,4,28
-2020-05-09,Mcdonald,4,29
-2020-05-09,Migrant Association,4,30
-2020-05-09,Pew Research Center,4,31
-2020-05-09,Retail Industry Leaders Association,4,32
-2020-05-09,Sam Club In Fullerton,4,33
-2020-05-09,Walgreens,4,34
-2020-05-09,Walmart,4,35
-2020-05-09,Workers International Union,4,36
-2020-05-09,Xavier University,4,37
-2020-05-09,American Association Of Nurse Practitioners,5,12
-2020-05-09,Baltimore Sun,5,13
-2020-05-09,Centers For Disease,5,14
-2020-05-09,Emergency Management Agency,5,15
-2020-05-09,Governor Office Of Homeland Security,5,16
-2020-05-09,Human Services,5,17
+2020-05-09,A Columbia University,3,39
+2020-05-09,A University Of Chicago,3,40
+2020-05-09,Canadian Medical Association Journal,3,41
+2020-05-09,Countermeasures Center,3,42
+2020-05-09,Department Of Defense,3,43
+2020-05-09,Department Of Energy,3,44
+2020-05-09,Department Of Health,3,45
+2020-05-09,Department Of Homeland Security,3,46
+2020-05-09,Disaster Preparedness At Columbia University,3,47
+2020-05-09,Facebook,3,48
+2020-05-09,Fudan University,3,49
+2020-05-09,Health Security In Baltimore,3,50
+2020-05-09,Canal Alliance,4,22
+2020-05-09,Capital Area Food Bank,4,23
+2020-05-09,Community Organized Relief Effort,4,24
+2020-05-09,Costco Wholesale Club,4,25
+2020-05-09,Esperanza Health Centers,4,26
+2020-05-09,Family Dollar,4,27
+2020-05-09,Hunger Coalition,4,28
+2020-05-09,Hunger Coalition Of Atlanta,4,29
+2020-05-09,Mcdonald,4,30
+2020-05-09,Migrant Association,4,31
+2020-05-09,Pew Research Center,4,32
+2020-05-09,Retail Industry Leaders Association,4,33
+2020-05-09,Sam Club In Fullerton,4,34
+2020-05-09,Walgreens,4,35
+2020-05-09,Walmart,4,36
+2020-05-09,Workers International Union,4,37
+2020-05-09,Xavier University,4,38
+2020-05-09,American Association Of Nurse Practitioners,5,13
+2020-05-09,Baltimore Sun,5,14
+2020-05-09,Centers For Disease,5,15
+2020-05-09,Emergency Management Agency,5,16
+2020-05-09,Governor Office Of Homeland Security,5,17
 2020-05-09,Maryland Department,5,18
 2020-05-09,Maryland National Guard,5,19
-2020-05-09,Us Department Of Health,5,20
-2020-05-09,Johns Hopkins University,6,9
-2020-05-09,Twitter,6,10
-2020-05-09,World Health Organization,6,11
+2020-05-09,National Institutes Of Health,5,20
+2020-05-09,Us Department Of Health,5,21
+2020-05-09,Johns Hopkins University,6,10
+2020-05-09,Twitter,6,11
+2020-05-09,World Health Organization,6,12
 2020-05-09,Associated Press,7,5
 2020-05-09,Generations Foundation,7,6
-2020-05-09,National Governors Association,7,7
-2020-05-09,New York Times,7,8
+2020-05-09,Human Services,7,7
+2020-05-09,National Governors Association,7,8
+2020-05-09,New York Times,7,9
 2020-05-09,Msnbc,8,4
 2020-05-09,Cnn,12,3
 2020-05-09,United States,16,2
-2020-05-09,White House,24,1
+2020-05-09,White House,26,1
 2020-05-10,A University Of Chicago,1,26
 2020-05-10,Anne Arundel Medical Center,1,27
 2020-05-10,Brookings Institute,1,28
@@ -4176,43 +4176,43 @@ date,organization,count,rn
 2020-05-13,Indiana University,3,45
 2020-05-13,Kirwan Commission,3,46
 2020-05-13,National Harbor,3,47
-2020-05-13,Pennsylvania Department Of Health,3,48
-2020-05-13,Republican National Convention,3,49
-2020-05-13,Senate Minority Leader Chuck Schumer,3,50
-2020-05-13,Environmental Affairs Committee,4,33
-2020-05-13,European Union,4,34
-2020-05-13,Maryland Health Department,4,35
-2020-05-13,Morgan State University,4,36
+2020-05-13,Republican National Convention,3,48
+2020-05-13,Senate Minority Leader Chuck Schumer,3,49
+2020-05-13,Small Business Administration Paycheck Protection Program,3,50
+2020-05-13,Environmental Affairs Committee,4,30
+2020-05-13,European Union,4,31
+2020-05-13,Fellowship Community,4,32
+2020-05-13,Maryland Department Of Health,4,33
+2020-05-13,Maryland Health Department,4,34
+2020-05-13,Morgan State University,4,35
+2020-05-13,Pennsylvania Health Care Association,4,36
 2020-05-13,Reuters,4,37
 2020-05-13,Senate Budget,4,38
 2020-05-13,University Of Maryland,4,39
 2020-05-13,University System Of Maryland,4,40
 2020-05-13,Walmart,4,41
-2020-05-13,Economic Recovery Omnibus Emergency Solutions,5,28
-2020-05-13,Maryland Department Of Health,5,29
-2020-05-13,Maryland State Department Of Education,5,30
-2020-05-13,National Governors Association,5,31
-2020-05-13,Senate Republicans,5,32
+2020-05-13,Economic Recovery Omnibus Emergency Solutions,5,26
+2020-05-13,Maryland State Department Of Education,5,27
+2020-05-13,National Governors Association,5,28
+2020-05-13,Senate Republicans,5,29
 2020-05-13,Centers For Disease,6,23
-2020-05-13,Fellowship Community,6,24
-2020-05-13,Maryland State Education Association,6,25
-2020-05-13,Parisian,6,26
-2020-05-13,Pennsylvania Health Care Association,6,27
+2020-05-13,Maryland State Education Association,6,24
+2020-05-13,Parisian,6,25
 2020-05-13,Justice Department,7,18
 2020-05-13,Paycheck Protection Program,7,19
 2020-05-13,Princeton University,7,20
 2020-05-13,Republicans In Congress,7,21
 2020-05-13,Science Department,7,22
-2020-05-13,Cnn,8,14
-2020-05-13,Emory University In Atlanta,8,15
-2020-05-13,Nan,8,16
+2020-05-13,Cnn,8,12
+2020-05-13,Department Of Health,8,13
+2020-05-13,Emory University In Atlanta,8,14
+2020-05-13,Nan,8,15
+2020-05-13,National Guard,8,16
 2020-05-13,Northwell Health,8,17
-2020-05-13,Department Of Defense,9,13
-2020-05-13,Department Of Health,10,8
-2020-05-13,National Guard,10,9
-2020-05-13,New York Times,10,10
-2020-05-13,Senate Majority Leader Mitch Mcconnell,10,11
-2020-05-13,Twitter,10,12
+2020-05-13,Department Of Defense,9,11
+2020-05-13,New York Times,10,8
+2020-05-13,Senate Majority Leader Mitch Mcconnell,10,9
+2020-05-13,Twitter,10,10
 2020-05-13,United States,11,7
 2020-05-13,Defamation League,12,6
 2020-05-13,George Washington University Program On Extremism,15,5
@@ -4316,22 +4316,22 @@ date,organization,count,rn
 2020-05-15,Johns Hopkins University,18,6
 2020-05-15,Twitter,18,7
 2020-05-15,World Health Organization,18,8
-2020-05-15,Centers For Disease,28,4
-2020-05-15,Associated Press,32,3
-2020-05-15,United States,46,2
-2020-05-15,White House,60,1
-2020-05-16,Alcohol Beverage Control Authority,2,39
-2020-05-16,Association Of Public Health Laboratories,2,40
-2020-05-16,Catholic Charities,2,41
-2020-05-16,Connecticut National Guard,2,42
-2020-05-16,Country House In Council Bluffs,2,43
-2020-05-16,Department Of Agriculture,2,44
-2020-05-16,Falls Church,2,45
-2020-05-16,Health Ministry,2,46
-2020-05-16,Life Care Center,2,47
-2020-05-16,Maryland Department Of Health,2,48
-2020-05-16,National Governors Association,2,49
-2020-05-16,National Guard,2,50
+2020-05-15,Centers For Disease,29,4
+2020-05-15,Associated Press,33,3
+2020-05-15,United States,47,2
+2020-05-15,White House,61,1
+2020-05-16,A Justice Department,2,39
+2020-05-16,A University Of Chicago Divinity,2,40
+2020-05-16,Alcohol Beverage Control Authority,2,41
+2020-05-16,Association Of Public Health Laboratories,2,42
+2020-05-16,Catholic Charities,2,43
+2020-05-16,Connecticut National Guard,2,44
+2020-05-16,Country House In Council Bluffs,2,45
+2020-05-16,Department Of Agriculture,2,46
+2020-05-16,Falls Church,2,47
+2020-05-16,Health Ministry,2,48
+2020-05-16,Justice Department,2,49
+2020-05-16,Life Care Center,2,50
 2020-05-16,Agriculture Department,3,27
 2020-05-16,Cepheid,3,28
 2020-05-16,Department Of Health,3,29
@@ -4359,17 +4359,17 @@ date,organization,count,rn
 2020-05-16,Farmers To Families Food Box Program,7,13
 2020-05-16,Matt York At Grand Canyon National Park,7,14
 2020-05-16,Researchers At Harvard University,7,15
-2020-05-16,Centers For Disease,9,10
 2020-05-16,Harvard University,9,11
+2020-05-16,Centers For Disease,11,10
 2020-05-16,Abbott Laboratories,14,9
 2020-05-16,United States,15,8
 2020-05-16,Emergency Management Agency,16,7
 2020-05-16,Drug Administration,17,5
 2020-05-16,Johns Hopkins University,17,6
 2020-05-16,Harvard Global Health Institute,18,4
-2020-05-16,Associated Press,23,3
+2020-05-16,Associated Press,25,3
 2020-05-16,World Health Organization,26,2
-2020-05-16,White House,34,1
+2020-05-16,White House,36,1
 2020-05-17,Alliance For Human Rights,2,17
 2020-05-17,Associated Press,2,18
 2020-05-17,Brady Campaign,2,19
@@ -4472,28 +4472,28 @@ date,organization,count,rn
 2020-05-18,United States,33,1
 2020-05-19,Bethesda Middle School,2,27
 2020-05-19,Capital News Service,2,28
-2020-05-19,Corelogic,2,29
-2020-05-19,Corelogic Inc,2,30
-2020-05-19,Corrections Department,2,31
-2020-05-19,Democratic National Convention,2,32
-2020-05-19,Diocese Of Allentown,2,33
-2020-05-19,Diocese Of Camden,2,34
-2020-05-19,Division Of Geographic Medicine,2,35
-2020-05-19,Drug Administration,2,36
-2020-05-19,European Commission,2,37
-2020-05-19,European Union,2,38
-2020-05-19,Gilead Sciences,2,39
-2020-05-19,Girl Scouts,2,40
-2020-05-19,Greater New York Hospital Association,2,41
-2020-05-19,Health Dr Ashley Bloomfield,2,42
-2020-05-19,Infectious Diseases At Tufts Medical Center,2,43
-2020-05-19,Kings County Hospital Center,2,44
-2020-05-19,Many Of The South River High School,2,45
-2020-05-19,Maryland Department Of Health,2,46
-2020-05-19,Ministry Of Social Development,2,47
-2020-05-19,National Catholic Education Association,2,48
-2020-05-19,National Community Reinvestment Coalition,2,49
-2020-05-19,National Investigative Unit,2,50
+2020-05-19,City Council,2,29
+2020-05-19,Corelogic,2,30
+2020-05-19,Corelogic Inc,2,31
+2020-05-19,Corrections Department,2,32
+2020-05-19,Democratic National Convention,2,33
+2020-05-19,Diocese Of Allentown,2,34
+2020-05-19,Diocese Of Camden,2,35
+2020-05-19,Division Of Geographic Medicine,2,36
+2020-05-19,Drug Administration,2,37
+2020-05-19,European Commission,2,38
+2020-05-19,European Union,2,39
+2020-05-19,Gilead Sciences,2,40
+2020-05-19,Girl Scouts,2,41
+2020-05-19,Greater New York Hospital Association,2,42
+2020-05-19,Health Dr Ashley Bloomfield,2,43
+2020-05-19,Infectious Diseases At Tufts Medical Center,2,44
+2020-05-19,Kings County Hospital Center,2,45
+2020-05-19,Many Of The South River High School,2,46
+2020-05-19,Maryland Department Of Health,2,47
+2020-05-19,Ministry Of Social Development,2,48
+2020-05-19,National Catholic Education Association,2,49
+2020-05-19,National Community Reinvestment Coalition,2,50
 2020-05-19,Catholic Church,3,19
 2020-05-19,Cnn,3,20
 2020-05-19,Human Services,3,21
@@ -4520,34 +4520,56 @@ date,organization,count,rn
 2020-05-19,Centers For Disease,10,3
 2020-05-19,United States,12,2
 2020-05-19,Facebook,13,1
-2020-05-20,A Lifebridge Health,1,8
-2020-05-20,Abbott Labs,1,9
-2020-05-20,Caregiver Services Corps,1,10
-2020-05-20,Centers For Disease,1,11
-2020-05-20,Corrections Department,1,12
-2020-05-20,Crew Janci,1,13
-2020-05-20,Drug Administration,1,14
-2020-05-20,Harriet Tubman Underground Railroad State Park,1,15
-2020-05-20,Health Department,1,16
-2020-05-20,Howard University Hospital,1,17
-2020-05-20,Johnson Johnson,1,18
-2020-05-20,Marriott International Inc,1,19
-2020-05-20,Maryland Department Of Health,1,20
-2020-05-20,Mcdonald,1,21
-2020-05-20,Mcdonald Corp,1,22
-2020-05-20,Nan,1,23
-2020-05-20,National Investigative Unit,1,24
-2020-05-20,No Lifebridge Health,1,25
-2020-05-20,United States,1,26
-2020-05-20,Walmart,1,27
-2020-05-20,World Health Organization,1,28
-2020-05-20,Department Of Health,2,5
-2020-05-20,Glen Burnie Vehicle Emissions Inspection Program,2,6
-2020-05-20,White House,2,7
-2020-05-20,Human Services,3,2
-2020-05-20,Many Of The South River High School,3,3
-2020-05-20,River High School Class,3,4
-2020-05-20,Associated Press,5,1
+2020-05-20,A Virginia Department Of Health,2,46
+2020-05-20,Alzheimer Association,2,47
+2020-05-20,Alzheimer Association National Capital Area Chapter,2,48
+2020-05-20,America Food Fund,2,49
+2020-05-20,American School Counselor Association,2,50
+2020-05-20,Department Of Treasury,3,34
+2020-05-20,Drug Administration,3,35
+2020-05-20,Giant Food,3,36
+2020-05-20,Mcdonald,3,37
+2020-05-20,National Guard,3,38
+2020-05-20,Retail Industry Leaders Association,3,39
+2020-05-20,River High School,3,40
+2020-05-20,Sam Club,3,41
+2020-05-20,Sam Club In Fullerton,3,42
+2020-05-20,Small Business Administration,3,43
+2020-05-20,Team Members,3,44
+2020-05-20,Whitman,3,45
+2020-05-20,Many Of The South River High School,4,30
+2020-05-20,River High School Class,4,31
+2020-05-20,Tribune Content Agency,4,32
+2020-05-20,Young,4,33
+2020-05-20,Baltimore Sun,5,13
+2020-05-20,Cnn,5,14
+2020-05-20,Department Of Health,5,15
+2020-05-20,Georgetown Law School,5,16
+2020-05-20,Google,5,17
+2020-05-20,Government Operations Committee,5,18
+2020-05-20,Human Services,5,19
+2020-05-20,Maryland Citizen Health Initiative,5,20
+2020-05-20,Maryland Health,5,21
+2020-05-20,Maryland Senate,5,22
+2020-05-20,Reuters,5,23
+2020-05-20,Senate President,5,24
+2020-05-20,Treasury Department,5,25
+2020-05-20,Trump Organization,5,26
+2020-05-20,University Of Pennsylvania,5,27
+2020-05-20,Walmart,5,28
+2020-05-20,Wharton School Of Business,5,29
+2020-05-20,Health Department,6,8
+2020-05-20,Johns Hopkins University,6,9
+2020-05-20,Paycheck Protection Program,6,10
+2020-05-20,Twitter,6,11
+2020-05-20,World Health Organization,6,12
+2020-05-20,Centers For Disease,7,7
+2020-05-20,Maryland Department Of Health,8,5
+2020-05-20,Nan,8,6
+2020-05-20,Facebook,9,4
+2020-05-20,White House,15,3
+2020-05-20,United States,16,2
+2020-05-20,Associated Press,19,1
 2020-05-21,Chili,4,39
 2020-05-21,Johns Hopkins University,4,40
 2020-05-21,Kushner Companies,4,41
@@ -4758,11 +4780,14 @@ date,organization,count,rn
 2020-05-25,Emory University,1,48
 2020-05-25,Episcopal High School In Robertsport,1,49
 2020-05-25,Florida State University,1,50
-2020-05-25,Burger King,2,20
-2020-05-25,Circuit Court,2,21
-2020-05-25,Cora Kelly School,2,22
-2020-05-25,Coronavirus At Group Living Facilities,2,23
-2020-05-25,Courtesy Of Maryland Department Of Health,2,24
+2020-05-25,Bureau Of Consular Affairs,2,17
+2020-05-25,Bureau Of Medical Services,2,18
+2020-05-25,Burger King,2,19
+2020-05-25,Circuit Court,2,20
+2020-05-25,Cora Kelly School,2,21
+2020-05-25,Coronavirus At Group Living Facilities,2,22
+2020-05-25,Courtesy Of Maryland Department Of Health,2,23
+2020-05-25,Department William Walters,2,24
 2020-05-25,Google,2,25
 2020-05-25,Imperial College,2,26
 2020-05-25,Imperial College London,2,27
@@ -4779,25 +4804,22 @@ date,organization,count,rn
 2020-05-25,University Of Baltimore,2,38
 2020-05-25,Walmart,2,39
 2020-05-25,Washington Post,2,40
-2020-05-25,Arlington National Cemetery On,3,15
-2020-05-25,Bureau Of Consular Affairs,3,16
-2020-05-25,Bureau Of Medical Services,3,17
-2020-05-25,Department William Walters,3,18
-2020-05-25,National Guard,3,19
-2020-05-25,Associated Press,4,10
-2020-05-25,Baltimore National Cemetery,4,11
-2020-05-25,City Council,4,12
-2020-05-25,Cnn,4,13
-2020-05-25,National Park Service,4,14
+2020-05-25,Arlington National Cemetery On,3,14
+2020-05-25,Associated Press,3,15
+2020-05-25,National Guard,3,16
+2020-05-25,Baltimore National Cemetery,4,10
+2020-05-25,City Council,4,11
+2020-05-25,Cnn,4,12
+2020-05-25,National Park Service,4,13
 2020-05-25,Twitter,5,9
+2020-05-25,Fort Mchenry National Monument,6,6
+2020-05-25,Johns Hopkins University,6,7
 2020-05-25,Veterans Affairs,6,8
-2020-05-25,Fort Mchenry National Monument,7,5
-2020-05-25,Johns Hopkins University,7,6
-2020-05-25,Young,7,7
+2020-05-25,Young,7,5
 2020-05-25,Centers For Disease,8,4
-2020-05-25,Arlington National Cemetery,14,3
-2020-05-25,United States,16,2
-2020-05-25,White House,17,1
+2020-05-25,Arlington National Cemetery,12,3
+2020-05-25,United States,16,1
+2020-05-25,White House,16,2
 2020-05-26,Andrews Air Force,2,42
 2020-05-26,Bureau Of Revenue,2,43
 2020-05-26,Civic Center,2,44
@@ -4898,3 +4920,53 @@ date,organization,count,rn
 2020-05-27,Twitter,11,3
 2020-05-27,Associated Press,13,2
 2020-05-27,White House,16,1
+2020-05-28,Brian Krista Baltimore Sun Media Group,4,38
+2020-05-28,Chinese Communist Party,4,39
+2020-05-28,Delta Air Lines,4,40
+2020-05-28,Department Of Health,4,41
+2020-05-28,Health Department,4,42
+2020-05-28,House Judiciary Committee,4,43
+2020-05-28,Johns Hopkins University,4,44
+2020-05-28,Justice Department,4,45
+2020-05-28,Kansas City International Airport,4,46
+2020-05-28,Maryland Department Of Health,4,47
+2020-05-28,National Guard,4,48
+2020-05-28,Oxford University,4,49
+2020-05-28,Pittsburgh International Airport,4,50
+2020-05-28,Bureau Of Investigation,5,31
+2020-05-28,Communications Decency,5,32
+2020-05-28,Connecticut State Police,5,33
+2020-05-28,Department Of Justice,5,34
+2020-05-28,Federal Bureau Of Investigation,5,35
+2020-05-28,Google,5,36
+2020-05-28,Members Of Congress,5,37
+2020-05-28,Newtown High School,6,26
+2020-05-28,Religion News Foundation,6,27
+2020-05-28,Sheriff Office,6,28
+2020-05-28,Spacex,6,29
+2020-05-28,University Of Maryland,6,30
+2020-05-28,Florida At Joint Base Andrews,7,23
+2020-05-28,Thomson Reuters Trust Principles,7,24
+2020-05-28,University Of Connecticut,7,25
+2020-05-28,Caesars Palace,8,21
+2020-05-28,Jetblue Airways,8,22
+2020-05-28,American Airlines,9,17
+2020-05-28,Cnn,9,18
+2020-05-28,Transportation Security Administration,9,19
+2020-05-28,Us Centers For Disease,9,20
+2020-05-28,Hotel Figueroa,10,15
+2020-05-28,York Regis High School,10,16
+2020-05-28,Biologos Foundation,11,12
+2020-05-28,National Institutes Of Health,11,13
+2020-05-28,University Of Maryland Institute Of Human Virology,11,14
+2020-05-28,Associated Press,12,6
+2020-05-28,Columbia University Medical Center,12,7
+2020-05-28,Euromonitor International,12,8
+2020-05-28,Facebook,12,9
+2020-05-28,Kennedy Space Center,12,10
+2020-05-28,National Institute Of Allergy,12,11
+2020-05-28,Twitter,13,5
+2020-05-28,Reuters,14,4
+2020-05-28,Centers For Disease,19,3
+2020-05-28,White House,22,2
+2020-05-28,United States,45,1

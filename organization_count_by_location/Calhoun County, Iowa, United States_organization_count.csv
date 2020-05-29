@@ -3292,12 +3292,12 @@ date,organization,count,rn
 2020-04-23,Senate Majority Leader Mitch Mcconnell,11,22
 2020-04-23,Carolina Democratic Party,12,20
 2020-04-23,Us Army Air Corps,12,21
-2020-04-23,Centers For Disease,13,15
-2020-04-23,Nan,13,16
-2020-04-23,National Institute Of Allergy,13,17
-2020-04-23,Paycheck Protection Program,13,18
+2020-04-23,Centers For Disease,13,16
+2020-04-23,Nan,13,17
+2020-04-23,National Institute Of Allergy,13,18
 2020-04-23,Reuters,13,19
-2020-04-23,University Of South Carolina,14,14
+2020-04-23,Paycheck Protection Program,14,14
+2020-04-23,University Of South Carolina,14,15
 2020-04-23,Facebook,16,12
 2020-04-23,Northeastern University,16,13
 2020-04-23,Carolina Department Of Health,17,10
@@ -3310,7 +3310,7 @@ date,organization,count,rn
 2020-04-23,Institute For Health Metrics,47,4
 2020-04-23,United States,51,3
 2020-04-23,Cnn,61,2
-2020-04-23,White House,83,1
+2020-04-23,White House,84,1
 2020-04-24,Biomedical Advanced Research,3,50
 2020-04-24,American Academy Of Pediatrics,4,36
 2020-04-24,Carolina Department Of Corrections,4,37
@@ -3508,9 +3508,9 @@ date,organization,count,rn
 2020-04-27,Facebook,14,6
 2020-04-27,Carolina Department Of Health,15,5
 2020-04-27,University Of South Carolina,17,4
-2020-04-27,Boeing,26,3
+2020-04-27,Boeing,27,3
 2020-04-27,White House,36,2
-2020-04-27,United States,43,1
+2020-04-27,United States,44,1
 2020-04-28,Aiken High School,3,29
 2020-04-28,Aiken Regional Medical Center,3,30
 2020-04-28,Alabama Department Of Public Health,3,31
@@ -4611,33 +4611,56 @@ date,organization,count,rn
 2020-05-19,University Of South Carolina,6,2
 2020-05-19,White House,6,3
 2020-05-19,Reuters,7,1
-2020-05-20,Centers For Disease,1,10
-2020-05-20,Coastal Health District,1,11
-2020-05-20,Disney,1,12
-2020-05-20,Food Lodging Institution Section,1,13
-2020-05-20,Georgia Department Of Public Health,1,14
-2020-05-20,Linkedin,1,15
-2020-05-20,Myrtle Beach Municipal Court On,1,16
-2020-05-20,Nan,1,17
-2020-05-20,National Archives,1,18
-2020-05-20,National Institute Of Allergy,1,19
-2020-05-20,Nc State University,1,20
-2020-05-20,Selective Service,1,21
-2020-05-20,Senate Democratic Leader Chuck Schumer On,1,22
-2020-05-20,Senate Majority Leader Mitch Mcconnell,1,23
-2020-05-20,Trump Administration,1,24
-2020-05-20,United States,1,25
-2020-05-20,United States Senate,1,26
-2020-05-20,Wharton School Of Business,1,27
-2020-05-20,Aiken Department Of Public Safety,2,8
-2020-05-20,Minikada Court,2,9
-2020-05-20,Anthony,3,2
-2020-05-20,Associated Press,3,3
-2020-05-20,Cnn,3,4
-2020-05-20,National Governors Association,3,5
-2020-05-20,National League,3,6
-2020-05-20,Treasury Department,3,7
-2020-05-20,Senate Republicans,4,1
+2020-05-20,A University Of Albany,2,26
+2020-05-20,Aiken Department Of Public Safety,2,27
+2020-05-20,Bureau Of Labor Statistics,2,28
+2020-05-20,Burisma Holdings,2,29
+2020-05-20,Campaign Biden,2,30
+2020-05-20,Cheniere Energy,2,31
+2020-05-20,Chinese Communist Party,2,32
+2020-05-20,Columbia University Irving Medical Center,2,33
+2020-05-20,Department Of Administration,2,34
+2020-05-20,Dorn Research Institute,2,35
+2020-05-20,Drug Administration,2,36
+2020-05-20,Google,2,37
+2020-05-20,Johnston Elementary School,2,38
+2020-05-20,Journal Of The American Medical Association,2,39
+2020-05-20,Labor Department,2,40
+2020-05-20,Mass Communications Building,2,41
+2020-05-20,Minikada Court,2,42
+2020-05-20,National Restaurant Association,2,43
+2020-05-20,Paycheck Protection Program,2,44
+2020-05-20,Pennsylvania Department Of Health,2,45
+2020-05-20,Pennsylvania National Guard,2,46
+2020-05-20,Postal Service,2,47
+2020-05-20,Prisma Health,2,48
+2020-05-20,Rehab Center,2,49
+2020-05-20,Rehab Center In Scranton,2,50
+2020-05-20,Anthony,3,16
+2020-05-20,California State University,3,17
+2020-05-20,Democratic National Convention,3,18
+2020-05-20,Department Of Health,3,19
+2020-05-20,Law Enforcement Division,3,20
+2020-05-20,National Archives,3,21
+2020-05-20,National Governors Association,3,22
+2020-05-20,National Guard,3,23
+2020-05-20,National League,3,24
+2020-05-20,Treasury Department,3,25
+2020-05-20,Associated Press,4,11
+2020-05-20,Senate Majority Leader Mitch Mcconnell,4,12
+2020-05-20,Trajectory Of Lab,4,13
+2020-05-20,Twitter,4,14
+2020-05-20,Young,4,15
+2020-05-20,Centers For Disease,6,7
+2020-05-20,Human Services,6,8
+2020-05-20,Public Health Laboratory,6,9
+2020-05-20,White House,6,10
+2020-05-20,Nan,7,5
+2020-05-20,Senate Republicans,7,6
+2020-05-20,Cnn,8,4
+2020-05-20,Carolina Department Of Health,9,3
+2020-05-20,United States,10,2
+2020-05-20,University Of South Carolina,11,1
 2020-05-21,Albertsons,1,44
 2020-05-21,Albertsons Companies Inc,1,45
 2020-05-21,Alliance For Youth Action,1,46
@@ -4895,48 +4918,48 @@ date,organization,count,rn
 2020-05-26,Carolina Healthcare Association,2,15
 2020-05-26,Carolina Hospital Association,2,16
 2020-05-26,Clemson University Sullivan Center,2,17
-2020-05-26,Coastal Health District,2,18
-2020-05-26,Community Crisis Response,2,19
-2020-05-26,Community Outreach,2,20
-2020-05-26,Defense Department,2,21
-2020-05-26,Department Inspector,2,22
-2020-05-26,Department Of Justice,2,23
-2020-05-26,Department Of Mental Health,2,24
-2020-05-26,Education Department,2,25
-2020-05-26,Fair Oak Youth Center,2,26
-2020-05-26,Georgia Department Of Public Health,2,27
-2020-05-26,Harris Teeter,2,28
-2020-05-26,Health Ministry,2,29
-2020-05-26,James Health,2,30
-2020-05-26,Johnston Elementary School,2,31
-2020-05-26,Justice Department,2,32
-2020-05-26,Kroger Health,2,33
-2020-05-26,Kroger Health Harris Teeter,2,34
-2020-05-26,Louis Metropolitan Police Department,2,35
-2020-05-26,Mcleod Health,2,36
-2020-05-26,Mcleod Operational Health Commerce Park,2,37
-2020-05-26,Mental Health Month,2,38
-2020-05-26,Mims Recreation Center,2,39
-2020-05-26,My Administration,2,40
-2020-05-26,National Hospital Week,2,41
-2020-05-26,Office Of Rural Health,2,42
-2020-05-26,Pandemic Response Accountability Committee,2,43
-2020-05-26,Police Superintendent David Brown,2,44
-2020-05-26,Republican Party,2,45
-2020-05-26,Salem First Baptist Church,2,46
-2020-05-26,Saluda Primary School,2,47
-2020-05-26,Saluda Regional Medical Center,2,48
-2020-05-26,School Board,2,49
-2020-05-26,School House Rd,2,50
-2020-05-26,Centers For Disease,4,8
-2020-05-26,Human Services,4,9
+2020-05-26,Community Crisis Response,2,18
+2020-05-26,Community Outreach,2,19
+2020-05-26,Defense Department,2,20
+2020-05-26,Department Inspector,2,21
+2020-05-26,Department Of Justice,2,22
+2020-05-26,Department Of Mental Health,2,23
+2020-05-26,Education Department,2,24
+2020-05-26,Fair Oak Youth Center,2,25
+2020-05-26,Harris Teeter,2,26
+2020-05-26,Health Ministry,2,27
+2020-05-26,James Health,2,28
+2020-05-26,Johnston Elementary School,2,29
+2020-05-26,Justice Department,2,30
+2020-05-26,Kroger Health,2,31
+2020-05-26,Kroger Health Harris Teeter,2,32
+2020-05-26,Louis Metropolitan Police Department,2,33
+2020-05-26,Mcleod Health,2,34
+2020-05-26,Mcleod Operational Health Commerce Park,2,35
+2020-05-26,Mental Health Month,2,36
+2020-05-26,Mims Recreation Center,2,37
+2020-05-26,My Administration,2,38
+2020-05-26,National Hospital Week,2,39
+2020-05-26,Office Of Rural Health,2,40
+2020-05-26,Pandemic Response Accountability Committee,2,41
+2020-05-26,Police Superintendent David Brown,2,42
+2020-05-26,Republican Party,2,43
+2020-05-26,Salem First Baptist Church,2,44
+2020-05-26,Saluda Primary School,2,45
+2020-05-26,Saluda Regional Medical Center,2,46
+2020-05-26,School Board,2,47
+2020-05-26,School House Rd,2,48
+2020-05-26,Technology Center,2,49
+2020-05-26,Travelers Rest Missionary Baptist Church,2,50
+2020-05-26,Centers For Disease,4,7
+2020-05-26,Human Services,4,8
+2020-05-26,Nan,4,9
 2020-05-26,Public Health Laboratory,4,10
 2020-05-26,Cnn,5,4
 2020-05-26,Facebook,5,5
-2020-05-26,Nan,5,6
-2020-05-26,University Of South Carolina,5,7
+2020-05-26,University Of South Carolina,5,6
+2020-05-26,Associated Press,6,2
 2020-05-26,Carolina Department Of Health,6,3
-2020-05-26,Associated Press,7,2
 2020-05-26,United States,13,1
 2020-05-27,A Sandwich Middle School,1,34
 2020-05-27,American Immigration Council,1,35
@@ -4988,3 +5011,53 @@ date,organization,count,rn
 2020-05-27,Boeing,8,2
 2020-05-27,Department Of Health,8,3
 2020-05-27,United States,13,1
+2020-05-28,Adm,1,40
+2020-05-28,Alamo Heights Baptist Church,1,41
+2020-05-28,Allegiant Air,1,42
+2020-05-28,American Airlines,1,43
+2020-05-28,American Civil Liberties Union,1,44
+2020-05-28,American Hospital Association,1,45
+2020-05-28,Army Gen,1,46
+2020-05-28,Associates Inc,1,47
+2020-05-28,Atlantic Council Commander Series,1,48
+2020-05-28,Aviation Administration,1,49
+2020-05-28,Bay United Pentecostal Church,1,50
+2020-05-28,Advisory Council,2,24
+2020-05-28,Department Of Justice,2,25
+2020-05-28,Disney,2,26
+2020-05-28,Election Commission,2,27
+2020-05-28,Emergency Operations Center,2,28
+2020-05-28,Facebook,2,29
+2020-05-28,Greater Omaha Packing Co,2,30
+2020-05-28,Heartland Bank,2,31
+2020-05-28,Human Service,2,32
+2020-05-28,Mandeville Police,2,33
+2020-05-28,Michigan Department Of Health,2,34
+2020-05-28,Michigan National Guard,2,35
+2020-05-28,Michigan State University,2,36
+2020-05-28,New York Times,2,37
+2020-05-28,Public Health Laboratory,2,38
+2020-05-28,Tribune Content Agency,2,39
+2020-05-28,Carolina Department Of Health,3,20
+2020-05-28,Department Of Employment,3,21
+2020-05-28,Nan,3,22
+2020-05-28,Paycheck Protection Program,3,23
+2020-05-28,Carolina Supreme Court,4,14
+2020-05-28,Human Services,4,15
+2020-05-28,Institute For Health Metrics,4,16
+2020-05-28,Supreme Court,4,17
+2020-05-28,University Of Washington,4,18
+2020-05-28,White House,4,19
+2020-05-28,School Of Medicine Greenville,5,13
+2020-05-28,Associated Press,7,12
+2020-05-28,Senate Reopen South Carolina Select Committee,8,11
+2020-05-28,Centers For Disease,9,9
+2020-05-28,United States,9,10
+2020-05-28,George Washington University,13,8
+2020-05-28,Environmental Control State Public Health Laboratory,18,5
+2020-05-28,National Institute Of Allergy,18,6
+2020-05-28,Safra Center At Harvard University,18,7
+2020-05-28,Google,19,3
+2020-05-28,Prisma Health,19,4
+2020-05-28,University Of South Carolina,20,2
+2020-05-28,Department Of Health,33,1

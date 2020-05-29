@@ -1819,28 +1819,30 @@ date,organization,count,rn
 2020-05-13,Department Of Homeland Security,3,3
 2020-05-13,Arizona Air National Guard,4,1
 2020-05-13,Facebook,4,2
-2020-05-14,American Association For Retired Persons,1,4
-2020-05-14,Arizona Restaurant Association,1,5
-2020-05-14,Arizona Supreme Court,1,6
-2020-05-14,Attorney Office,1,7
-2020-05-14,Centers For Disease,1,8
-2020-05-14,Department Of Health Services,1,9
-2020-05-14,Fedex,1,10
-2020-05-14,Health Insurance Portability,1,11
-2020-05-14,Inbetweeners Club,1,12
-2020-05-14,Life Care Center,1,13
-2020-05-14,Marana Chamber,1,14
-2020-05-14,Microsoft,1,15
-2020-05-14,Paragon Space Development Corporation,1,16
-2020-05-14,Pima Defense Services,1,17
-2020-05-14,Public Defense Services,1,18
-2020-05-14,Twitter,1,19
-2020-05-14,Ua School Of Journalism,1,20
-2020-05-14,University Of Arizona,1,21
-2020-05-14,University Of Maryland,1,22
-2020-05-14,Arizona Air National Guard,2,1
-2020-05-14,Arizona Department Of Health Services,2,2
-2020-05-14,Nan,2,3
+2020-05-14,American Association For Retired Persons,1,9
+2020-05-14,Arizona Restaurant Association,1,10
+2020-05-14,Arizona Senate,1,11
+2020-05-14,Arizona Supreme Court,1,12
+2020-05-14,Business Task,1,13
+2020-05-14,Centers For Disease,1,14
+2020-05-14,Department Of Health Services,1,15
+2020-05-14,Fedex,1,16
+2020-05-14,Health Insurance Portability,1,17
+2020-05-14,Life Care Center,1,18
+2020-05-14,Marana Chamber,1,19
+2020-05-14,Paragon Space Development Corporation,1,20
+2020-05-14,Twitter,1,21
+2020-05-14,Ua School Of Journalism,1,22
+2020-05-14,University Of Arizona,1,23
+2020-05-14,University Of Maryland,1,24
+2020-05-14,Arizona Air National Guard,2,2
+2020-05-14,Attorney Office,2,3
+2020-05-14,Inbetweeners Club,2,4
+2020-05-14,Microsoft,2,5
+2020-05-14,Nan,2,6
+2020-05-14,Pima Defense Services,2,7
+2020-05-14,Public Defense Services,2,8
+2020-05-14,Arizona Department Of Health Services,3,1
 2020-05-15,Arizona Department Of Health Services,1,7
 2020-05-15,Arizona Restaurant Association,1,8
 2020-05-15,Goodyear,1,9
@@ -1939,6 +1941,24 @@ date,organization,count,rn
 2020-05-19,Tucson Medical Center,2,3
 2020-05-19,Twitter,2,4
 2020-05-19,White House,3,1
+2020-05-20,American Bar Association,1,8
+2020-05-20,Arizona State University,1,9
+2020-05-20,Coalition For Epidemic Preparedness Innovation,1,10
+2020-05-20,Drug Administration,1,11
+2020-05-20,Infectious Diseases Society Of America,1,12
+2020-05-20,Lymphoma Society,1,13
+2020-05-20,Milken Institute,1,14
+2020-05-20,Senate On,1,15
+2020-05-20,Society Of Critical Care Medicine,1,16
+2020-05-20,Ua School Of Journalism,1,17
+2020-05-20,White House,1,18
+2020-05-20,Arizona Department Of Health Services,2,3
+2020-05-20,City Council,2,4
+2020-05-20,Health Department,2,5
+2020-05-20,Nan,2,6
+2020-05-20,University Of Arizona,2,7
+2020-05-20,Facebook,3,1
+2020-05-20,Twitter,3,2
 2020-05-21,Arizona Free Enterprise Club,1,2
 2020-05-21,Army Corps Of Engineers,1,3
 2020-05-21,Banner University Medical Center,1,4
@@ -2149,3 +2169,44 @@ date,organization,count,rn
 2020-05-27,Yuma County Public Health Services District,1,40
 2020-05-27,Zion National Park,1,41
 2020-05-27,Arizona Department Of Health Services,2,1
+2020-05-28,Aerospace Maintenance,1,6
+2020-05-28,Arizona Commerce Authority,1,7
+2020-05-28,Arizona Department Of Corrections,1,8
+2020-05-28,Arizona Department Of Health,1,9
+2020-05-28,Arizona State Senate Republican Caucus,1,10
+2020-05-28,Aviation Department,1,11
+2020-05-28,Azcares Fund,1,12
+2020-05-28,Department Of Health Services,1,13
+2020-05-28,Emergency Management Agency,1,14
+2020-05-28,European Union,1,15
+2020-05-28,Fry Food Stores,1,16
+2020-05-28,Goodyear,1,17
+2020-05-28,Governor Office,1,18
+2020-05-28,Havasu Regional Medical Center,1,19
+2020-05-28,Health Services,1,20
+2020-05-28,Highground Public Affairs,1,21
+2020-05-28,Intel,1,22
+2020-05-28,Johns Hopkins University,1,23
+2020-05-28,Kroger,1,24
+2020-05-28,Mexican Health,1,25
+2020-05-28,Mohave County Department Of Public Health,1,26
+2020-05-28,National Park,1,27
+2020-05-28,Navajo Area Indian Health Service,1,28
+2020-05-28,Navajo Department Of Health,1,29
+2020-05-28,Page Holding Facility,1,30
+2020-05-28,Palma Correctional Center,1,31
+2020-05-28,Pay Program,1,32
+2020-05-28,Regeneration Group,1,33
+2020-05-28,Republican Party,1,34
+2020-05-28,Senate Minority Leader,1,35
+2020-05-28,Treasury Department,1,36
+2020-05-28,Trump For The Democratic Party,1,37
+2020-05-28,United States,1,38
+2020-05-28,University Of Arizona,1,39
+2020-05-28,Yuma County Health Officials,1,40
+2020-05-28,Yuma County Public Health Services District,1,41
+2020-05-28,Arizona Superior Court,3,2
+2020-05-28,Golder Ranch Fire District Division,3,3
+2020-05-28,Massachusetts Institute Of Technology,3,4
+2020-05-28,Prevention Coalition Of Arizona,3,5
+2020-05-28,Arizona Department Of Health Services,4,1

@@ -3188,12 +3188,12 @@ date,organization,count,rn
 2020-04-23,Colorado Office Of Emergency Preparedness,9,12
 2020-04-23,Colorado State University,9,13
 2020-04-23,Hillside Advisory Team,9,14
-2020-04-23,Cnn,11,7
-2020-04-23,Colorado School Of Public Health,11,8
-2020-04-23,Twitter,11,9
-2020-04-23,Colorado Department Of Human Services,13,6
+2020-04-23,Colorado School Of Public Health,11,9
+2020-04-23,Cnn,13,6
+2020-04-23,Colorado Department Of Human Services,13,7
+2020-04-23,Twitter,13,8
 2020-04-23,United States,15,5
-2020-04-23,White House,19,4
+2020-04-23,White House,21,4
 2020-04-23,Centers For Disease,23,3
 2020-04-23,Colorado Department Of Public Health,28,2
 2020-04-23,Facebook,30,1
@@ -3244,7 +3244,7 @@ date,organization,count,rn
 2020-04-24,World Health Organization,10,7
 2020-04-24,Paycheck Protection Program,11,4
 2020-04-24,Senate Majority Leader Mitch Mcconnell,11,5
-2020-04-24,Twitter,13,3
+2020-04-24,Twitter,14,3
 2020-04-24,White House,22,2
 2020-04-24,United States,34,1
 2020-04-25,Board Of Health,2,41
@@ -3310,24 +3310,24 @@ date,organization,count,rn
 2020-04-26,Google,4,42
 2020-04-26,New York Times,4,43
 2020-04-26,Republican National,4,44
-2020-04-26,Avery Parsons Elementary School,5,33
-2020-04-26,Health Department,5,34
-2020-04-26,National Institute Of Allergy,5,35
+2020-04-26,Avery Parsons Elementary School,5,34
+2020-04-26,Health Department,5,35
 2020-04-26,Thomson Reuters Trust Principles,5,36
 2020-04-26,Walmart,5,37
 2020-04-26,Department Of Defense,6,30
 2020-04-26,Intercultural Resource Alliance,6,31
-2020-04-26,Us Navy Surgeon,6,32
+2020-04-26,National Institute Of Allergy,6,32
+2020-04-26,Us Navy Surgeon,6,33
 2020-04-26,Senate Minority Leader Charles Schumer,7,27
 2020-04-26,Supreme Court Justice Brett Kavanaugh,7,28
 2020-04-26,Venture For Success Preparatory Learning Center,7,29
-2020-04-26,Colorado School Of Public Health,8,23
-2020-04-26,Facebook,8,24
 2020-04-26,Jake Tapper On State Of The Union,8,25
 2020-04-26,Johns Hopkins University,8,26
-2020-04-26,Emergency Operations Center,9,20
-2020-04-26,Morris Elementary School,9,21
-2020-04-26,Twitter,9,22
+2020-04-26,Colorado School Of Public Health,9,20
+2020-04-26,Emergency Operations Center,9,21
+2020-04-26,Facebook,9,22
+2020-04-26,Morris Elementary School,9,23
+2020-04-26,Twitter,9,24
 2020-04-26,Colorado Department Of Public Health,10,12
 2020-04-26,Congressional Budget Office,10,13
 2020-04-26,Democratic Party,10,14
@@ -3344,9 +3344,9 @@ date,organization,count,rn
 2020-04-26,Reuters,15,6
 2020-04-26,Senate Majority Leader Mitch Mcconnell,16,5
 2020-04-26,Centers For Disease,17,4
-2020-04-26,Cnn,23,3
+2020-04-26,Cnn,24,3
 2020-04-26,White House,33,2
-2020-04-26,United States,39,1
+2020-04-26,United States,40,1
 2020-04-27,Colorado Medical Society,4,46
 2020-04-27,Democrats See Senate,4,47
 2020-04-27,Department Of Public Health,4,48
@@ -3394,26 +3394,26 @@ date,organization,count,rn
 2020-04-27,Facebook,16,6
 2020-04-27,Twitter,18,5
 2020-04-27,Reuters,27,4
-2020-04-27,Cnn,34,3
+2020-04-27,Cnn,35,3
 2020-04-27,White House,48,2
 2020-04-27,United States,49,1
-2020-04-28,Aspen City Council,5,39
-2020-04-28,Block Leviton,5,40
-2020-04-28,Colorado Community Health Network,5,41
-2020-04-28,Colorado Medical Society,5,42
-2020-04-28,Community Health Centers,5,43
-2020-04-28,Fox Business Network,5,44
-2020-04-28,King College London,5,45
-2020-04-28,Laboratory Capacity For Prevention,5,46
-2020-04-28,Lancaster University,5,47
-2020-04-28,Public Affairs Research,5,48
-2020-04-28,Republican National Committee,5,49
-2020-04-28,Senate Leadership Fund,5,50
+2020-04-28,Aspen City Council,5,41
+2020-04-28,Block Leviton,5,42
+2020-04-28,Colorado Community Health Network,5,43
+2020-04-28,Colorado Medical Society,5,44
+2020-04-28,Community Health Centers,5,45
+2020-04-28,Fox Business Network,5,46
+2020-04-28,King College London,5,47
+2020-04-28,Laboratory Capacity For Prevention,5,48
+2020-04-28,Lancaster University,5,49
+2020-04-28,Public Affairs Research,5,50
 2020-04-28,Drug Administration,6,34
 2020-04-28,National Guard,6,35
-2020-04-28,University Of Minnesota,6,36
-2020-04-28,York University,6,37
-2020-04-28,Youtube,6,38
+2020-04-28,Republican National Committee,6,36
+2020-04-28,Supreme Court,6,37
+2020-04-28,University Of Minnesota,6,38
+2020-04-28,York University,6,39
+2020-04-28,Youtube,6,40
 2020-04-28,Allianz,7,27
 2020-04-28,Bloomberg,7,28
 2020-04-28,Carolina Real Estate Commission,7,29
@@ -3427,10 +3427,10 @@ date,organization,count,rn
 2020-04-28,Response Force Package,9,21
 2020-04-28,Scientists At Oxford University Jenner Institute,9,22
 2020-04-28,Vail Resorts,9,23
-2020-04-28,Employer Council Northern Regional Office,10,19
 2020-04-28,Senate Majority Leader Mitch Mcconnell,10,20
-2020-04-28,Health Administration,11,17
-2020-04-28,Health Department,11,18
+2020-04-28,Employer Council Northern Regional Office,11,17
+2020-04-28,Health Administration,11,18
+2020-04-28,Health Department,11,19
 2020-04-28,Colorado State Emergency Operations Center,12,13
 2020-04-28,King Soopers,12,14
 2020-04-28,Twitter,12,15
@@ -3441,12 +3441,12 @@ date,organization,count,rn
 2020-04-28,Young,13,12
 2020-04-28,Cnn,14,8
 2020-04-28,Centers For Disease,15,7
-2020-04-28,Reuters,16,6
+2020-04-28,Reuters,17,6
 2020-04-28,Associated Press,20,5
 2020-04-28,New York Times,22,4
 2020-04-28,Johns Hopkins University,24,3
 2020-04-28,White House,27,2
-2020-04-28,United States,41,1
+2020-04-28,United States,42,1
 2020-04-29,American Association Of School Administrators,4,48
 2020-04-29,American Federation Of Teachers,4,49
 2020-04-29,Colorado School Of Public Health,4,50
@@ -3697,7 +3697,6 @@ date,organization,count,rn
 2020-05-03,Texas Department Of State Health Services,8,4
 2020-05-03,Centers For Disease,9,2
 2020-05-03,United States,10,1
-2020-05-04,Aaron,2,50
 2020-05-04,Aurora Firefighters Protective Association,3,40
 2020-05-04,Brazos County Health District,3,41
 2020-05-04,Census Bureau,3,42
@@ -3706,8 +3705,9 @@ date,organization,count,rn
 2020-05-04,Electoral College,3,45
 2020-05-04,Kroger Co,3,46
 2020-05-04,Montefiore Medical Center,3,47
-2020-05-04,Texas Department Of State Health Services,3,48
-2020-05-04,University Of Miami,3,49
+2020-05-04,Senate Majority Leader Mitch Mcconnell,3,48
+2020-05-04,Texas Department Of State Health Services,3,49
+2020-05-04,University Of Miami,3,50
 2020-05-04,Brandeis University,4,33
 2020-05-04,Bureau International Des Expositions,4,34
 2020-05-04,Colorado Department Of Labor,4,35
@@ -3740,8 +3740,8 @@ date,organization,count,rn
 2020-05-04,Emergency Management Agency,13,12
 2020-05-04,Officials At Drexel University,21,8
 2020-05-04,University Of Chicago,21,9
-2020-05-04,United States,25,7
 2020-05-04,Anastopoulo Law Firm,26,6
+2020-05-04,United States,26,7
 2020-05-04,Drexel University,29,5
 2020-05-04,Purdue University,30,3
 2020-05-04,Vanderbilt University,30,4
@@ -3947,135 +3947,135 @@ date,organization,count,rn
 2020-05-08,Msnbc,15,3
 2020-05-08,Johns Hopkins University,18,2
 2020-05-08,Colorado Department Of Public Health,21,1
-2020-05-09,A Trans State Airlines,1,46
-2020-05-09,American Airlines,1,47
-2020-05-09,American University,1,48
-2020-05-09,Animal Assistance Foundation,1,49
-2020-05-09,Associated Press,1,50
-2020-05-09,Affairs Chad Wootton,2,22
-2020-05-09,American Association Of Retired Persons,2,23
-2020-05-09,Baylor Scott White Health,2,24
-2020-05-09,Brazos County Health District,2,25
-2020-05-09,Brazos County Health District Coronavirus,2,26
-2020-05-09,Census Bureau,2,27
-2020-05-09,Centers For Disease Control,2,28
-2020-05-09,Cnn,2,29
-2020-05-09,Colorado Coalition For The Homeless,2,30
-2020-05-09,Forest Service,2,31
-2020-05-09,Francis Center,2,32
-2020-05-09,Indiana State University,2,33
-2020-05-09,Interfaith Council Of The Wabash Valley,2,34
-2020-05-09,Joseph Health,2,35
-2020-05-09,Joseph Health Dr,2,36
-2020-05-09,King Soopers,2,37
-2020-05-09,National Western,2,38
-2020-05-09,Queens College,2,39
-2020-05-09,San Juan Basin Public Health,2,40
-2020-05-09,Student Health Services,2,41
-2020-05-09,Supreme Court,2,42
-2020-05-09,Texas A M Health Science Center,2,43
-2020-05-09,Texas A M University,2,44
-2020-05-09,Texas Department Of State Health Services,2,45
+2020-05-09,A Trans State Airlines,1,50
+2020-05-09,Affairs Chad Wootton,2,23
+2020-05-09,American Association Of Retired Persons,2,24
+2020-05-09,Banner Health North Colorado Medical Center,2,25
+2020-05-09,Baylor Scott White Health,2,26
+2020-05-09,Brazos County Health District,2,27
+2020-05-09,Brazos County Health District Coronavirus,2,28
+2020-05-09,Centers For Disease Control,2,29
+2020-05-09,Cnn,2,30
+2020-05-09,Colorado Coalition For The Homeless,2,31
+2020-05-09,Colorado National Guard,2,32
+2020-05-09,Department Of Corrections,2,33
+2020-05-09,Forest Service,2,34
+2020-05-09,Francis Center,2,35
+2020-05-09,Indiana State University,2,36
+2020-05-09,Interfaith Council Of The Wabash Valley,2,37
+2020-05-09,Joseph Health,2,38
+2020-05-09,Joseph Health Dr,2,39
+2020-05-09,King Soopers,2,40
+2020-05-09,National Western,2,41
+2020-05-09,Queens College,2,42
+2020-05-09,San Juan Basin Public Health,2,43
+2020-05-09,Student Health Services,2,44
+2020-05-09,Supreme Court,2,45
+2020-05-09,Texas A M Health Science Center,2,46
+2020-05-09,Texas A M University,2,47
+2020-05-09,Texas Department Of State Health Services,2,48
+2020-05-09,Wing Of The Colorado Air National Guard,2,49
 2020-05-09,A National Education Association,3,11
-2020-05-09,Colorado Convention Center,3,12
-2020-05-09,Colorado Division Of Homeland Security,3,13
-2020-05-09,Colorado Education Association,3,14
-2020-05-09,Division Of Motor Vehicle,3,15
-2020-05-09,Medianews Group,3,16
-2020-05-09,National Association Of Realtors,3,17
-2020-05-09,Neiman Marcus,3,18
-2020-05-09,Office Of Economic Development,3,19
-2020-05-09,Paycheck Protection Program,3,20
-2020-05-09,Twitter,3,21
-2020-05-09,Centers For Disease,4,4
-2020-05-09,Colorado Department Of Public Health,4,5
-2020-05-09,Frontier Airlines,4,6
-2020-05-09,Johns Hopkins University,4,7
-2020-05-09,Msnbc,4,8
-2020-05-09,Nan,4,9
+2020-05-09,Census Bureau,3,12
+2020-05-09,Colorado Convention Center,3,13
+2020-05-09,Colorado Division Of Homeland Security,3,14
+2020-05-09,Colorado Education Association,3,15
+2020-05-09,Division Of Motor Vehicle,3,16
+2020-05-09,Medianews Group,3,17
+2020-05-09,National Association Of Realtors,3,18
+2020-05-09,Neiman Marcus,3,19
+2020-05-09,Office Of Economic Development,3,20
+2020-05-09,Paycheck Protection Program,3,21
+2020-05-09,Twitter,3,22
+2020-05-09,Centers For Disease,4,5
+2020-05-09,Colorado Department Of Public Health,4,6
+2020-05-09,Frontier Airlines,4,7
+2020-05-09,Johns Hopkins University,4,8
+2020-05-09,Msnbc,4,9
 2020-05-09,Recorder Office,4,10
-2020-05-09,National Guard,5,2
-2020-05-09,School Highlands Ranch,5,3
-2020-05-09,United States,6,1
-2020-05-10,Affairs Chad Wootton,2,31
-2020-05-10,Baylor Scott White Health,2,32
-2020-05-10,Brazos County Health District,2,33
-2020-05-10,Brazos County Health District Coronavirus,2,34
-2020-05-10,Census Bureau,2,35
-2020-05-10,Centers For Disease Control,2,36
-2020-05-10,Colorado Convention Center,2,37
-2020-05-10,Democratic Senate,2,38
-2020-05-10,Democratic Senatorial Campaign Committee,2,39
-2020-05-10,Diocese Of Colorado,2,40
-2020-05-10,Drug Administration,2,41
+2020-05-09,Nan,5,3
+2020-05-09,School Highlands Ranch,5,4
+2020-05-09,National Guard,6,1
+2020-05-09,United States,6,2
+2020-05-10,Affairs Chad Wootton,2,32
+2020-05-10,Baylor Scott White Health,2,33
+2020-05-10,Brazos County Health District,2,34
+2020-05-10,Brazos County Health District Coronavirus,2,35
+2020-05-10,Census Bureau,2,36
+2020-05-10,Centers For Disease Control,2,37
+2020-05-10,Colorado Convention Center,2,38
+2020-05-10,Democratic Senate,2,39
+2020-05-10,Democratic Senatorial Campaign Committee,2,40
+2020-05-10,Diocese Of Colorado,2,41
 2020-05-10,Effective Ways To Get Airlines,2,42
 2020-05-10,Germany Alfred Wegener Institute For Polar,2,43
-2020-05-10,Johns Hopkins University,2,44
-2020-05-10,Joseph Health,2,45
-2020-05-10,Joseph Health Dr,2,46
-2020-05-10,Mass At Holy Ghost Church On,2,47
-2020-05-10,Medianews Group,2,48
-2020-05-10,National Guard,2,49
-2020-05-10,National News,2,50
-2020-05-10,Alfred Wegener Institute For Polar,3,19
-2020-05-10,Budget Committee,3,20
-2020-05-10,Centers For Disease,3,21
+2020-05-10,Human Services,2,44
+2020-05-10,Johns Hopkins University,2,45
+2020-05-10,Joseph Health,2,46
+2020-05-10,Joseph Health Dr,2,47
+2020-05-10,Mass At Holy Ghost Church On,2,48
+2020-05-10,Medianews Group,2,49
+2020-05-10,National Guard,2,50
+2020-05-10,Alfred Wegener Institute For Polar,3,20
+2020-05-10,Budget Committee,3,21
 2020-05-10,Colorado Office Of Attorney Regulation,3,22
 2020-05-10,Colorado State Party Caucus Database,3,23
 2020-05-10,Colorado Supreme Court On,3,24
-2020-05-10,House Ethics Committee,3,25
-2020-05-10,House Judiciary Committee,3,26
-2020-05-10,Ocean Research,3,27
-2020-05-10,Republican Senate District,3,28
-2020-05-10,University Of Colorado,3,29
-2020-05-10,University Of Denver,3,30
-2020-05-10,Instagram,4,17
-2020-05-10,School Highlands Ranch,4,18
-2020-05-10,A Senate,5,10
-2020-05-10,Colorado Supreme Court,5,11
-2020-05-10,Health Ministry,5,12
-2020-05-10,National Institute Of Allergy,5,13
+2020-05-10,Drug Administration,3,25
+2020-05-10,House Ethics Committee,3,26
+2020-05-10,House Judiciary Committee,3,27
+2020-05-10,Ocean Research,3,28
+2020-05-10,Republican Senate District,3,29
+2020-05-10,University Of Colorado,3,30
+2020-05-10,University Of Denver,3,31
+2020-05-10,Centers For Disease,4,17
+2020-05-10,Instagram,4,18
+2020-05-10,School Highlands Ranch,4,19
+2020-05-10,A Senate,5,11
+2020-05-10,Colorado Supreme Court,5,12
+2020-05-10,Health Ministry,5,13
 2020-05-10,Senate Republican,5,14
 2020-05-10,Twitter,5,15
 2020-05-10,World Health Organization,5,16
 2020-05-10,Cnn,6,6
 2020-05-10,Colorado Republican Party,6,7
 2020-05-10,District Court,6,8
-2020-05-10,Senate District,6,9
-2020-05-10,Holy Ghost Church,7,3
-2020-05-10,Republican Party,7,4
-2020-05-10,White House,7,5
+2020-05-10,National Institute Of Allergy,6,9
+2020-05-10,Senate District,6,10
+2020-05-10,Holy Ghost Church,7,4
+2020-05-10,Republican Party,7,5
+2020-05-10,White House,8,3
 2020-05-10,Associated Press,9,2
 2020-05-10,United States,10,1
-2020-05-11,American Health Care Association,4,31
-2020-05-11,Centers For Medicare,4,32
-2020-05-11,China Wh Group,4,33
-2020-05-11,China Wh Group Ltd,4,34
-2020-05-11,Consumer Financial Protection Bureau,4,35
-2020-05-11,Costco Wholesale Corp,4,36
-2020-05-11,Democratic National Committee,4,37
-2020-05-11,Department Store Union,4,38
-2020-05-11,Illinois Farm Bureau,4,39
-2020-05-11,Kaiser Family Foundation,4,40
-2020-05-11,Kroger Co,4,41
-2020-05-11,Life Care Center,4,42
-2020-05-11,Life Care Centers Of America Inc,4,43
-2020-05-11,Medicaid Services On,4,44
-2020-05-11,Microsoft,4,45
-2020-05-11,Mitch Mcconnell Senate,4,46
-2020-05-11,Msnbc,4,47
-2020-05-11,National Archives,4,48
-2020-05-11,National Center,4,49
-2020-05-11,Office Of Fair Employment Practices,4,50
-2020-05-11,Colorado Department Of Education,5,26
-2020-05-11,Colorado Education Initiative,5,27
-2020-05-11,Democratic Party,5,28
-2020-05-11,Ent Credit Union We,5,29
-2020-05-11,Senate Republicans,5,30
+2020-05-11,American Health Care Association,4,44
+2020-05-11,Centers For Medicare,4,45
+2020-05-11,China Wh Group,4,46
+2020-05-11,China Wh Group Ltd,4,47
+2020-05-11,Costco Wholesale Corp,4,48
+2020-05-11,Department Store Union,4,49
+2020-05-11,Illinois Farm Bureau,4,50
+2020-05-11,Colorado Department Of Education,5,27
+2020-05-11,Colorado Education Initiative,5,28
+2020-05-11,Consumer Financial Protection Bureau,5,29
+2020-05-11,Democratic National Committee,5,30
+2020-05-11,Ent Credit Union We,5,31
+2020-05-11,Microsoft,5,32
+2020-05-11,Mitch Mcconnell Senate,5,33
+2020-05-11,Msnbc,5,34
+2020-05-11,National Archives,5,35
+2020-05-11,Office Of Fair Employment Practices,5,36
+2020-05-11,Office Of Science,5,37
+2020-05-11,Public Health Jobs Corps,5,38
+2020-05-11,Senate Judiciary Committee,5,39
+2020-05-11,Senate Republicans,5,40
+2020-05-11,University Of Delaware,5,41
+2020-05-11,University Of Pennsylvania Zeke Emanuel,5,42
+2020-05-11,Washington Center,5,43
 2020-05-11,Colorado Department Of Public Health,6,25
-2020-05-11,Drug Administration,7,24
+2020-05-11,Democratic Party,6,26
 2020-05-11,A Senate,8,22
-2020-05-11,National Institute Of Allergy,8,23
+2020-05-11,Drug Administration,8,23
+2020-05-11,National Institute Of Allergy,8,24
 2020-05-11,Alaska Airlines,10,15
 2020-05-11,Johns Hopkins University,10,16
 2020-05-11,Los Angeles International Airport,10,17
@@ -4083,20 +4083,20 @@ date,organization,count,rn
 2020-05-11,Recorder Office,10,19
 2020-05-11,Sunny Vista Living Center,10,20
 2020-05-11,Transportation Security Administration,10,21
-2020-05-11,Colorado Community Media,12,12
-2020-05-11,Health Department,12,13
-2020-05-11,New York Times,12,14
-2020-05-11,Health Ministry,15,8
-2020-05-11,Reuters,15,9
+2020-05-11,Colorado Community Media,12,13
+2020-05-11,Health Department,12,14
+2020-05-11,New York Times,13,12
+2020-05-11,Health Ministry,15,9
 2020-05-11,Twitter,15,10
 2020-05-11,United States,15,11
 2020-05-11,National Guard,16,7
+2020-05-11,Reuters,16,8
 2020-05-11,Holy Ghost Church,17,5
 2020-05-11,World Health Organization,17,6
 2020-05-11,Facebook,18,4
-2020-05-11,Associated Press,23,3
-2020-05-11,Cnn,24,2
-2020-05-11,White House,38,1
+2020-05-11,Associated Press,24,3
+2020-05-11,Cnn,25,2
+2020-05-11,White House,39,1
 2020-05-12,Arkansas Department Of Health,4,30
 2020-05-12,British Transport Police,4,31
 2020-05-12,Centers For Medicare Medicaid Services,4,32
@@ -4497,32 +4497,56 @@ date,organization,count,rn
 2020-05-19,Paycheck Protection Program,12,3
 2020-05-19,Centers For Disease,14,2
 2020-05-19,White House,15,1
-2020-05-20,Associated Press,1,3
-2020-05-20,Catholic Community Services,1,4
-2020-05-20,Catholic Community Services Of Utah,1,5
-2020-05-20,Colorado Association Of Realtors,1,6
-2020-05-20,Colorado Association Of Realtors Foundation,1,7
-2020-05-20,Colorado Coalition For The Homeless,1,8
-2020-05-20,Colorado Department Of Public Health,1,9
-2020-05-20,Colorado Restaurant Association,1,10
-2020-05-20,Colorado State University Avenir Museum Of Design,1,11
-2020-05-20,Costco,1,12
-2020-05-20,Glacier National Park,1,13
-2020-05-20,Great Sand Dunes National Park,1,14
-2020-05-20,Habitat For Humanity,1,15
-2020-05-20,Mercedes Benz,1,16
-2020-05-20,Mountain National Park,1,17
-2020-05-20,Nanotechnology Research Group,1,18
-2020-05-20,National Parks,1,19
-2020-05-20,Porsche,1,20
-2020-05-20,Refugee Service,1,21
-2020-05-20,Syracuse University,1,22
-2020-05-20,Theodore Roosevelt National Park,1,23
-2020-05-20,United Nations,1,24
-2020-05-20,Wind Cave National Park,1,25
-2020-05-20,Youtube,1,26
-2020-05-20,United States,2,1
-2020-05-20,University Of Colorado,2,2
+2020-05-20,America Food Fund,2,47
+2020-05-20,American Civil Liberties Union,2,48
+2020-05-20,Ap National News,2,49
+2020-05-20,Assembly Speaker Robin Vos,2,50
+2020-05-20,Assembly Democrats,3,27
+2020-05-20,Aurora Police Department,3,28
+2020-05-20,Bmw,3,29
+2020-05-20,Board Of Cooperative Education Services,3,30
+2020-05-20,Colorado Association Of Realtors,3,31
+2020-05-20,Colorado Association Of Realtors Foundation,3,32
+2020-05-20,Colorado Coalition For The Homeless,3,33
+2020-05-20,Colorado Department Of Higher Education,3,34
+2020-05-20,Colorado Hospital Association,3,35
+2020-05-20,Colorado School For The Deaf,3,36
+2020-05-20,Colorado State University,3,37
+2020-05-20,Community Development Block,3,38
+2020-05-20,Community Services Block,3,39
+2020-05-20,Department Of Human Services,3,40
+2020-05-20,Habitat For Humanity,3,41
+2020-05-20,National Conference Of State Legislatures,3,42
+2020-05-20,National Safety Council,3,43
+2020-05-20,Office Of The,3,44
+2020-05-20,Safety Association,3,45
+2020-05-20,San Juan Basin Public Health,3,46
+2020-05-20,Charter School Institute,4,17
+2020-05-20,Colorado Department Of Education,4,18
+2020-05-20,Colorado Senate Republicans,4,19
+2020-05-20,Disaster Emergency Fund,4,20
+2020-05-20,European Union,4,21
+2020-05-20,Health Ministry,4,22
+2020-05-20,National Jewish,4,23
+2020-05-20,Office On,4,24
+2020-05-20,Sage Naumann Colorado Senate Republicans,4,25
+2020-05-20,Senate Majority Leader Mitch Mcconnell,4,26
+2020-05-20,Colorado Senate,5,14
+2020-05-20,Nan,5,15
+2020-05-20,White House,5,16
+2020-05-20,Colorado Department Of Public Health,6,8
+2020-05-20,Costco,6,9
+2020-05-20,Facebook,6,10
+2020-05-20,Human Services,6,11
+2020-05-20,Twitter,6,12
+2020-05-20,University Of Colorado,6,13
+2020-05-20,Department Of Health,9,6
+2020-05-20,Waffle House,9,7
+2020-05-20,Associated Press,10,3
+2020-05-20,Budget Committee,10,4
+2020-05-20,Walmart,10,5
+2020-05-20,Centers For Disease,17,2
+2020-05-20,United States,20,1
 2020-05-21,American Civil Liberties Union Of Colorado,2,49
 2020-05-21,Animas Trading Co,2,50
 2020-05-21,American Legion National Commander Bill Oxford,3,31
@@ -4873,3 +4897,53 @@ date,organization,count,rn
 2020-05-27,Centers For Disease,12,2
 2020-05-27,United States,12,3
 2020-05-27,University Of Colorado,13,1
+2020-05-28,Bloomberg New Energy,2,38
+2020-05-28,Brennan Center,2,39
+2020-05-28,Burger King,2,40
+2020-05-28,Colorado Department Of Corrections,2,41
+2020-05-28,Colorado Department Of Public Health Environment,2,42
+2020-05-28,Colorado Disaster Emergency Fund,2,43
+2020-05-28,Colorado Legislature,2,44
+2020-05-28,Colorado Public Television,2,45
+2020-05-28,Colorado State University,2,46
+2020-05-28,Colorado Supreme Court,2,47
+2020-05-28,Colorado Tourism Office,2,48
+2020-05-28,Corrections Department,2,49
+2020-05-28,Credit Suisse,2,50
+2020-05-28,Affairs Chad Wootton,3,19
+2020-05-28,Amerispeak Panel,3,20
+2020-05-28,Baylor Scott White Health,3,21
+2020-05-28,Brazos County Health District,3,22
+2020-05-28,Brazos County Health District Coronavirus,3,23
+2020-05-28,Census Bureau,3,24
+2020-05-28,Centers For Disease Control,3,25
+2020-05-28,Colorado Division Of Fire Prevention,3,26
+2020-05-28,Joseph Health,3,27
+2020-05-28,Joseph Health Dr,3,28
+2020-05-28,National Park Service,3,29
+2020-05-28,National Safety Council,3,30
+2020-05-28,Safety Association,3,31
+2020-05-28,Student Health Services,3,32
+2020-05-28,Texas A M Health Science Center,3,33
+2020-05-28,Texas A M University,3,34
+2020-05-28,Texas Department Of State Health Services,3,35
+2020-05-28,Texas Health Human Services Commission,3,36
+2020-05-28,Theresa Catholic Church,3,37
+2020-05-28,Colorado Division Of Insurance,4,17
+2020-05-28,White House,4,18
+2020-05-28,Associated Press,5,10
+2020-05-28,Bureau Of Land Management To Colorado,5,11
+2020-05-28,Georgetown University Lugar Center,5,12
+2020-05-28,Party Of Trump,5,13
+2020-05-28,Republicans In Congress,5,14
+2020-05-28,Training Administration,5,15
+2020-05-28,Us Chamber,5,16
+2020-05-28,American Civil Liberties Union,6,9
+2020-05-28,Twitter,7,8
+2020-05-28,Cnn,8,7
+2020-05-28,Vanderbilt University Medical Center,9,6
+2020-05-28,Public Affairs Research,10,4
+2020-05-28,United States,10,5
+2020-05-28,Centers For Disease,11,1
+2020-05-28,Johns Hopkins University,11,2
+2020-05-28,National Institutes Of Health,11,3

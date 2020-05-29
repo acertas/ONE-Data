@@ -3817,29 +3817,27 @@ date,organization,count,rn
 2020-04-26,Texas National Guard,7,12
 2020-04-26,Texas Supreme Court,7,13
 2020-04-26,University Health System,7,14
-2020-04-27,A Navy,1,28
-2020-04-27,Adm,1,29
-2020-04-27,Altus Air Force,1,30
-2020-04-27,Aramark,1,31
-2020-04-27,Baptist Medical Center,1,32
-2020-04-27,Center Fort Worth,1,33
-2020-04-27,Centers For Disease,1,34
-2020-04-27,Central Market,1,35
-2020-04-27,Cnn,1,36
-2020-04-27,Community Of Automotive Professionals,1,37
-2020-04-27,Democratic State County Convention,1,38
-2020-04-27,Department Of Defense,1,39
-2020-04-27,Department Of Health,1,40
-2020-04-27,Drexel University,1,41
-2020-04-27,Emergency Management Agency,1,42
-2020-04-27,Facebook,1,43
-2020-04-27,Food Bank On,1,44
-2020-04-27,Frost Bank,1,45
-2020-04-27,Human Services,1,46
-2020-04-27,Longtime Texas Department Of Criminal Justice,1,47
-2020-04-27,Mary University,1,48
-2020-04-27,Michigan National Guard,1,49
-2020-04-27,Naval Base Guam,1,50
+2020-04-27,A Navy,1,30
+2020-04-27,Adm,1,31
+2020-04-27,Altus Air Force,1,32
+2020-04-27,Aramark,1,33
+2020-04-27,Baptist Medical Center,1,34
+2020-04-27,Boeing,1,35
+2020-04-27,Center Fort Worth,1,36
+2020-04-27,Centers For Disease,1,37
+2020-04-27,Central Market,1,38
+2020-04-27,Cnn,1,39
+2020-04-27,Community Of Automotive Professionals,1,40
+2020-04-27,Democratic State County Convention,1,41
+2020-04-27,Department Of Defense,1,42
+2020-04-27,Department Of Health,1,43
+2020-04-27,Drexel University,1,44
+2020-04-27,Emergency Management Agency,1,45
+2020-04-27,Facebook,1,46
+2020-04-27,Food Bank On,1,47
+2020-04-27,Frost Bank,1,48
+2020-04-27,Human Services,1,49
+2020-04-27,Life Cycle Management Center,1,50
 2020-04-27,Associated Press,2,14
 2020-04-27,Brooke Army Medical Center,2,15
 2020-04-27,City Lab,2,16
@@ -3848,12 +3846,14 @@ date,organization,count,rn
 2020-04-27,Extracorporeal Life Support Organization,2,19
 2020-04-27,Fiesta Flambeau Parade Association,2,20
 2020-04-27,National Guard,2,21
-2020-04-27,Oval Office,2,22
-2020-04-27,Paycheck Protection Program The Poorly Planned Program,2,23
-2020-04-27,Texas A M School Of Public Health,2,24
-2020-04-27,Twitter,2,25
-2020-04-27,Ut Southwestern Medical Center,2,26
-2020-04-27,Walgreens,2,27
+2020-04-27,New York Times,2,22
+2020-04-27,Oval Office,2,23
+2020-04-27,Paycheck Protection Program The Poorly Planned Program,2,24
+2020-04-27,Texas A M School Of Public Health,2,25
+2020-04-27,Twitter,2,26
+2020-04-27,Ut Southwestern Medical Center,2,27
+2020-04-27,Walgreens,2,28
+2020-04-27,White House,2,29
 2020-04-27,Commissioners Court,3,11
 2020-04-27,Health District,3,12
 2020-04-27,Najim Family Foundation,3,13
@@ -4633,12 +4633,12 @@ date,organization,count,rn
 2020-05-14,Cepheid,1,42
 2020-05-14,Claude Black Community Center,1,43
 2020-05-14,Clinical Services Group,1,44
-2020-05-14,Community Engagement,1,45
-2020-05-14,Danaher Corporation,1,46
-2020-05-14,Democratic Party,1,47
-2020-05-14,Democrats In Congress,1,48
-2020-05-14,Department Of Health,1,49
-2020-05-14,Department Of Human Services,1,50
+2020-05-14,Community Development,1,45
+2020-05-14,Community Engagement,1,46
+2020-05-14,Danaher Corporation,1,47
+2020-05-14,Democratic Party,1,48
+2020-05-14,Democrats In Congress,1,49
+2020-05-14,Department Of Health,1,50
 2020-05-14,Alamo Asian Chamber,2,13
 2020-05-14,Associated Press,2,14
 2020-05-14,City Council,2,15
@@ -4668,8 +4668,8 @@ date,organization,count,rn
 2020-05-14,Labatt Food Service,4,8
 2020-05-14,United Fresh Produce Association,4,9
 2020-05-14,Yegg Inc,4,10
-2020-05-14,Nan,5,2
 2020-05-14,University Of Texas At San Antonio,5,3
+2020-05-14,Nan,6,2
 2020-05-14,United States,11,1
 2020-05-15,A Texas Department Of Transportation,1,42
 2020-05-15,Amtrak,1,43
@@ -4921,14 +4921,56 @@ date,organization,count,rn
 2020-05-19,United States,11,3
 2020-05-19,Centers For Disease,12,2
 2020-05-19,Human Services,13,1
-2020-05-20,Business Development Strategist,1,2
-2020-05-20,Facebook,1,3
-2020-05-20,Farmers To Families Food Box Program,1,4
-2020-05-20,Linkedin,1,5
-2020-05-20,Nan,1,6
-2020-05-20,United Fresh Produce Association,1,7
-2020-05-20,White House,1,8
-2020-05-20,United States,2,1
+2020-05-20,Alice Police,1,38
+2020-05-20,Business Development Strategist,1,39
+2020-05-20,Centers For Disease,1,40
+2020-05-20,Chilean Air,1,41
+2020-05-20,Colorado State University,1,42
+2020-05-20,Community Homelessness Coalition,1,43
+2020-05-20,Community Organized Relief,1,44
+2020-05-20,Community Organized Relief Effort,1,45
+2020-05-20,Democratic Party,1,46
+2020-05-20,Department Of Health,1,47
+2020-05-20,Department Of Public Health,1,48
+2020-05-20,Department Of Veterans Affairs,1,49
+2020-05-20,Duchess Of Angus Trinity University,1,50
+2020-05-20,California State University,2,28
+2020-05-20,Circuit Court,2,29
+2020-05-20,Commissioners Court,2,30
+2020-05-20,Edison High School,2,31
+2020-05-20,Go Fund Me,2,32
+2020-05-20,Grace Northridge Church,2,33
+2020-05-20,Lamar Elementary School,2,34
+2020-05-20,Shell,2,35
+2020-05-20,Supreme Court,2,36
+2020-05-20,University Of Notre Dame,2,37
+2020-05-20,America Food Fund,3,11
+2020-05-20,Barclays Center,3,12
+2020-05-20,Forum In Inglewood,3,13
+2020-05-20,Frederick Research,3,14
+2020-05-20,Girls Club Of East Mississippi,3,15
+2020-05-20,Health Market,3,16
+2020-05-20,Living Classrooms Foundation,3,17
+2020-05-20,Mobility Fund,3,18
+2020-05-20,Mount Pilgrim Missionary Baptist Church,3,19
+2020-05-20,Mount Zion Baptist Church,3,20
+2020-05-20,Oprah Winfrey Charitable Foundation,3,21
+2020-05-20,Popular Party,3,22
+2020-05-20,Relief Fund,3,23
+2020-05-20,Tennessee State University,3,24
+2020-05-20,Texas Education Agency,3,25
+2020-05-20,Texas Supreme Court,3,26
+2020-05-20,White House,3,27
+2020-05-20,Johns Hopkins University,4,9
+2020-05-20,Texas Democratic Party,4,10
+2020-05-20,Coronavirus Relief Fund,5,6
+2020-05-20,Mass At Christ The King Catholic Church,5,7
+2020-05-20,Nan,5,8
+2020-05-20,Facebook,6,5
+2020-05-20,University Of Texas At San Antonio,7,4
+2020-05-20,Associated Press,8,2
+2020-05-20,City Council,8,3
+2020-05-20,United States,10,1
 2020-05-21,Alamo College,1,32
 2020-05-21,Alamo Community Colleges,1,33
 2020-05-21,Andrews Air Force,1,34
@@ -5256,3 +5298,53 @@ date,organization,count,rn
 2020-05-27,Paycheck Protection Program,5,2
 2020-05-27,White House,5,3
 2020-05-27,Drug Administration,6,1
+2020-05-28,Agriculture Department,1,30
+2020-05-28,Alaska Airline,1,31
+2020-05-28,Alaska Airlines,1,32
+2020-05-28,Allegiant Air,1,33
+2020-05-28,Army Congressional,1,34
+2020-05-28,Augmentation Medical Task Forces Uamtfs,1,35
+2020-05-28,Beaumont City Council,1,36
+2020-05-28,Beaumont Housing Authority,1,37
+2020-05-28,Big Mission,1,38
+2020-05-28,City Council,1,39
+2020-05-28,Cnn,1,40
+2020-05-28,Community Bible Church,1,41
+2020-05-28,Congress On,1,42
+2020-05-28,Council Vice,1,43
+2020-05-28,Dana-Farber Cancer Institute,1,44
+2020-05-28,Democratic Party,1,45
+2020-05-28,Department Of Defense,1,46
+2020-05-28,Detection Group Central Luzon,1,47
+2020-05-28,Drug Administration,1,48
+2020-05-28,Ecohealth Alliance,1,49
+2020-05-28,Edison Township Council,1,50
+2020-05-28,Biomedical Informatics At Vanderbilt University,2,5
+2020-05-28,Cancer Consortium,2,6
+2020-05-28,Cancer Research,2,7
+2020-05-28,Cancer Research Group In Seattle,2,8
+2020-05-28,Centers For Disease,2,9
+2020-05-28,Clinical Trials At Vanderbilt-Ingram Cancer Center,2,10
+2020-05-28,Department Of Biostatistics At Vanderbilt,2,11
+2020-05-28,Dura Software,2,12
+2020-05-28,European Society Of Medical Oncology,2,13
+2020-05-28,Ingram Professor Of Cancer Research,2,14
+2020-05-28,Johns Hopkins Center,2,15
+2020-05-28,Lank Center,2,16
+2020-05-28,Mays Cancer Center,2,17
+2020-05-28,National Cancer Institute Designated Cancer Centers,2,18
+2020-05-28,National Institutes Of Health,2,19
+2020-05-28,Neiman Marcus,2,20
+2020-05-28,Paycheck Protection Program,2,21
+2020-05-28,Retailing Studies At Texas A M University,2,22
+2020-05-28,Reuters,2,23
+2020-05-28,Ross Stores,2,24
+2020-05-28,Stage Stores,2,25
+2020-05-28,Tuesday Morning,2,26
+2020-05-28,Twitter,2,27
+2020-05-28,University Of Washington,2,28
+2020-05-28,White House,2,29
+2020-05-28,Facebook,3,3
+2020-05-28,Nan,3,4
+2020-05-28,Oval Office,5,2
+2020-05-28,United States,6,1

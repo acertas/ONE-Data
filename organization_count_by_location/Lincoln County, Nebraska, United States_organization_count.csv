@@ -2887,22 +2887,21 @@ date,organization,count,rn
 2020-04-23,Twitter,25,3
 2020-04-23,White House,39,2
 2020-04-23,United States,40,1
-2020-04-24,City Council,4,43
-2020-04-24,Department Of Veterans Affairs,4,44
-2020-04-24,He Attended The University Of Oklahoma,4,45
-2020-04-24,House Television,4,46
-2020-04-24,Illinois Army National Guard,4,47
-2020-04-24,New York Times,4,48
-2020-04-24,Noble Correctional Institution,4,49
-2020-04-24,Oklahoma State University,4,50
+2020-04-24,City Council,4,44
+2020-04-24,Department Of Veterans Affairs,4,45
+2020-04-24,He Attended The University Of Oklahoma,4,46
+2020-04-24,House Television,4,47
+2020-04-24,Illinois Army National Guard,4,48
+2020-04-24,New York Times,4,49
+2020-04-24,Noble Correctional Institution,4,50
 2020-04-24,House Rules Committee,5,39
 2020-04-24,Justice Department,5,40
 2020-04-24,Kentucky Senate,5,41
 2020-04-24,Oklahoma Farmers Union,5,42
-2020-04-24,Bloomberg,6,34
-2020-04-24,Nan,6,35
-2020-04-24,Netflix,6,36
-2020-04-24,University Of Oklahoma,6,37
+2020-04-24,Oklahoma State University,5,43
+2020-04-24,Bloomberg,6,35
+2020-04-24,Nan,6,36
+2020-04-24,Netflix,6,37
 2020-04-24,World Health Organization,6,38
 2020-04-24,Centers For Disease,7,27
 2020-04-24,Cnn,7,28
@@ -2910,7 +2909,8 @@ date,organization,count,rn
 2020-04-24,Minnesota Legislature,7,30
 2020-04-24,National Conference Of State Legislatures,7,31
 2020-04-24,Oklahoma Legislature,7,32
-2020-04-24,University Of Washington,7,33
+2020-04-24,University Of Oklahoma,7,33
+2020-04-24,University Of Washington,7,34
 2020-04-24,Jennie-O Turkey Store Inc,8,25
 2020-04-24,Mafia,8,26
 2020-04-24,Adm,10,22
@@ -2930,10 +2930,10 @@ date,organization,count,rn
 2020-04-24,Emergency Management Agency,17,9
 2020-04-24,Google,17,10
 2020-04-24,Walmart,17,11
-2020-04-24,Oklahoma State Medical Association,18,5
 2020-04-24,Oval Office,18,6
 2020-04-24,Paycheck Protection Program,18,7
-2020-04-24,Health Department,19,4
+2020-04-24,Oklahoma State Medical Association,19,5
+2020-04-24,Health Department,20,4
 2020-04-24,Associated Press,24,3
 2020-04-24,White House,29,2
 2020-04-24,United States,36,1
@@ -3087,17 +3087,15 @@ date,organization,count,rn
 2020-04-27,World Health Organization,14,3
 2020-04-27,Twitter,15,2
 2020-04-27,United States,45,1
-2020-04-28,Adult Stem Cell Research,2,40
-2020-04-28,American Airlines,2,41
-2020-04-28,American Bankers Association,2,42
-2020-04-28,Anne Henry Zarrow School Of Social Work,2,43
-2020-04-28,Bright Beginning Learning Center,2,44
-2020-04-28,Cactus Islamic Center,2,45
-2020-04-28,Cactus Nazarene Ministry Center,2,46
-2020-04-28,Carolina Community Tracing Collaborative,2,47
-2020-04-28,Carolina Correctional Institution For Women,2,48
-2020-04-28,Carolina Department Of Health,2,49
-2020-04-28,Carolina Department Of Public Instruction,2,50
+2020-04-28,Adult Stem Cell Research,2,42
+2020-04-28,American Airlines,2,43
+2020-04-28,American Bankers Association,2,44
+2020-04-28,Anne Henry Zarrow School Of Social Work,2,45
+2020-04-28,Bright Beginning Learning Center,2,46
+2020-04-28,Cactus Islamic Center,2,47
+2020-04-28,Cactus Nazarene Ministry Center,2,48
+2020-04-28,Carolina Community Tracing Collaborative,2,49
+2020-04-28,Carolina Correctional Institution For Women,2,50
 2020-04-28,Chevron,3,21
 2020-04-28,City Council,3,22
 2020-04-28,Colorado School Of Mines,3,23
@@ -3106,17 +3104,19 @@ date,organization,count,rn
 2020-04-28,Drug Administration On,3,26
 2020-04-28,Emergency Management Agency,3,27
 2020-04-28,Federal Reserve,3,28
-2020-04-28,New York Times,3,29
-2020-04-28,Nextera Energy,3,30
-2020-04-28,Paycheck Protection Program,3,31
-2020-04-28,Payne Institute For Public,3,32
-2020-04-28,Royal Dutch Shell,3,33
-2020-04-28,Small Business Administration,3,34
-2020-04-28,Storage Association,3,35
-2020-04-28,Texas Court,3,36
-2020-04-28,Texas Railroad Commission,3,37
-2020-04-28,Treasury Department,3,38
-2020-04-28,Us Oil Gas Industry,3,39
+2020-04-28,Health Gary Cox,3,29
+2020-04-28,New York Times,3,30
+2020-04-28,Nextera Energy,3,31
+2020-04-28,Paycheck Protection Program,3,32
+2020-04-28,Payne Institute For Public,3,33
+2020-04-28,Royal Dutch Shell,3,34
+2020-04-28,Small Business Administration,3,35
+2020-04-28,Storage Association,3,36
+2020-04-28,Texas Court,3,37
+2020-04-28,Texas Railroad Commission,3,38
+2020-04-28,Treasury Department,3,39
+2020-04-28,University Of Oklahoma,3,40
+2020-04-28,Us Oil Gas Industry,3,41
 2020-04-28,Diakonos Group,4,14
 2020-04-28,Google,4,15
 2020-04-28,Grove Nursing Center,4,16
@@ -3124,15 +3124,15 @@ date,organization,count,rn
 2020-04-28,Oklahoma Beer Alliance,4,18
 2020-04-28,Oklahoma Department Of Corrections,4,19
 2020-04-28,Oklahoma Education Television Authority,4,20
-2020-04-28,Facebook,5,9
-2020-04-28,Nan,5,10
-2020-04-28,Oklahoma Bar Association,5,11
-2020-04-28,Oklahoma State University,5,12
+2020-04-28,Facebook,5,10
+2020-04-28,Nan,5,11
+2020-04-28,Oklahoma Bar Association,5,12
 2020-04-28,Reuters,5,13
 2020-04-28,Department Of Health,6,8
+2020-04-28,Oklahoma State University,6,9
 2020-04-28,Centers For Disease,8,6
 2020-04-28,White House,8,7
-2020-04-28,Health Department,9,5
+2020-04-28,Health Department,10,5
 2020-04-28,Associated Press,11,3
 2020-04-28,Twitter,11,4
 2020-04-28,Oklahoma State Department Of Health,16,2
@@ -3523,13 +3523,13 @@ date,organization,count,rn
 2020-05-06,Oklahoma State Department Of Health,4,20
 2020-05-06,Oklahoma Supreme Court,4,21
 2020-05-06,University College Dublin,4,22
-2020-05-06,Associated Press,5,12
-2020-05-06,Department Of Health,5,13
-2020-05-06,Nan,5,14
+2020-05-06,Associated Press,5,13
+2020-05-06,Department Of Health,5,14
 2020-05-06,Centers For Disease,6,8
 2020-05-06,Facebook,6,9
-2020-05-06,Twitter,6,10
-2020-05-06,Us Senate Minority Leader Chuck Schumer,6,11
+2020-05-06,Nan,6,10
+2020-05-06,Twitter,6,11
+2020-05-06,Us Senate Minority Leader Chuck Schumer,6,12
 2020-05-06,Cnn,7,5
 2020-05-06,Dollar Tree,7,6
 2020-05-06,York University School Of Global Public Health,7,7
@@ -3737,54 +3737,54 @@ date,organization,count,rn
 2020-05-10,University Of Washington,7,7
 2020-05-10,Centers For Disease,8,2
 2020-05-10,White House,9,1
-2020-05-11,A North Carolina State University,1,38
-2020-05-11,American Airlines,1,39
-2020-05-11,American Civil Liberties Union Of Idaho,1,40
-2020-05-11,Avianca,1,41
-2020-05-11,Avianca Airlines,1,42
-2020-05-11,Branch Davidian,1,43
-2020-05-11,Bureau Of Land Management,1,44
-2020-05-11,Carolina Small Business Development Fund,1,45
-2020-05-11,Cherokee National Council,1,46
-2020-05-11,City Council,1,47
-2020-05-11,Clan Ross Centre,1,48
-2020-05-11,Communications Commission,1,49
-2020-05-11,Continental Resources Inc,1,50
-2020-05-11,Child Care Action Lab,2,15
-2020-05-11,Community Action Labs,2,16
-2020-05-11,Community Sensemaking Workshops,2,17
-2020-05-11,Development Grant Birth,2,18
-2020-05-11,Facebook,2,19
-2020-05-11,Family Dollar,2,20
-2020-05-11,Kansas Department For Children Families,2,21
-2020-05-11,Kansas Department Of Health Environment,2,22
-2020-05-11,Kansas State Department Of Education,2,23
-2020-05-11,Ku Achievement Assessment Institute,2,24
-2020-05-11,Ku Center,2,25
-2020-05-11,Nan,2,26
-2020-05-11,National Guard,2,27
-2020-05-11,Netflix,2,28
-2020-05-11,Oklahoma Department Of Health,2,29
-2020-05-11,Oklahoma National Guard,2,30
-2020-05-11,Oklahoma Partnership For School Readiness,2,31
-2020-05-11,Provider Relief Fund,2,32
-2020-05-11,Public Partnerships Research,2,33
-2020-05-11,School Emergency Relief,2,34
-2020-05-11,Supreme Court On,2,35
-2020-05-11,University Of Kansas,2,36
-2020-05-11,Youtube,2,37
+2020-05-11,A North Carolina State University,1,41
+2020-05-11,American Airlines,1,42
+2020-05-11,American Civil Liberties Union Of Idaho,1,43
+2020-05-11,Avianca,1,44
+2020-05-11,Avianca Airlines,1,45
+2020-05-11,Branch Davidian,1,46
+2020-05-11,Bureau Of Land Management,1,47
+2020-05-11,Carolina Small Business Development Fund,1,48
+2020-05-11,Cherokee National Council,1,49
+2020-05-11,City Council,1,50
+2020-05-11,Child Care Action Lab,2,17
+2020-05-11,Community Action Labs,2,18
+2020-05-11,Community Sensemaking Workshops,2,19
+2020-05-11,Development Grant Birth,2,20
+2020-05-11,Diakonos Group,2,21
+2020-05-11,Facebook,2,22
+2020-05-11,Family Dollar,2,23
+2020-05-11,Health Jerome Loughridge On,2,24
+2020-05-11,Kansas Department For Children Families,2,25
+2020-05-11,Kansas Department Of Health Environment,2,26
+2020-05-11,Kansas State Department Of Education,2,27
+2020-05-11,Ku Achievement Assessment Institute,2,28
+2020-05-11,Ku Center,2,29
+2020-05-11,Mental Health Carter Kimble,2,30
+2020-05-11,Nan,2,31
+2020-05-11,Netflix,2,32
+2020-05-11,Oklahoma Department Of Health,2,33
+2020-05-11,Oklahoma Partnership For School Readiness,2,34
+2020-05-11,Provider Relief Fund,2,35
+2020-05-11,Public Partnerships Research,2,36
+2020-05-11,School Emergency Relief,2,37
+2020-05-11,Supreme Court On,2,38
+2020-05-11,University Of Kansas,2,39
+2020-05-11,Youtube,2,40
 2020-05-11,Centers For Disease,3,12
 2020-05-11,Commerce Committee,3,13
-2020-05-11,United States,3,14
+2020-05-11,National Guard,3,14
+2020-05-11,Oklahoma National Guard,3,15
+2020-05-11,United States,3,16
 2020-05-11,Company Organization Info,4,9
 2020-05-11,Economic Security Act Provider Relief Fund,4,10
 2020-05-11,Electoral College,4,11
-2020-05-11,Health Department,5,4
 2020-05-11,Human Services Committee,5,5
 2020-05-11,James Catholic School In Torrance,5,6
 2020-05-11,Oklahoma State Department Of Health,5,7
 2020-05-11,Senate Health,5,8
-2020-05-11,Twitter,6,3
+2020-05-11,Health Department,6,3
+2020-05-11,Twitter,6,4
 2020-05-11,Associated Press,9,2
 2020-05-11,Supreme Court,10,1
 2020-05-12,A Health Department,1,46
@@ -3937,41 +3937,41 @@ date,organization,count,rn
 2020-05-14,Cnn,6,3
 2020-05-14,United States,8,1
 2020-05-14,White House,8,2
-2020-05-15,Adams Square Baptist Church,1,44
-2020-05-15,American Academy Of Family Physicians,1,45
-2020-05-15,American Petroleum Institute,1,46
-2020-05-15,Appropriations Committee,1,47
-2020-05-15,Arizona Supreme Court On,1,48
-2020-05-15,Armstrong Bank,1,49
-2020-05-15,Bloomberg,1,50
-2020-05-15,Amtrak,2,21
-2020-05-15,Biomedical Advanced Research,2,22
-2020-05-15,Chickasaw Nation Department Of Commerce,2,23
-2020-05-15,Cleveland County District Court,2,24
-2020-05-15,Commerce Department,2,25
-2020-05-15,Coronavirus Relief Fund,2,26
-2020-05-15,Democratic Party,2,27
-2020-05-15,Democrats In Congress,2,28
-2020-05-15,Department Of Treasury,2,29
-2020-05-15,Development Authority,2,30
-2020-05-15,Drug Administration,2,31
-2020-05-15,Economic Recovery Omnibus Emergency Solutions,2,32
-2020-05-15,House Appropriations Committee,2,33
-2020-05-15,House Rules Committee,2,34
-2020-05-15,Human Services,2,35
-2020-05-15,Kanokla Networks,2,36
-2020-05-15,Kansas Legislature,2,37
-2020-05-15,Members Of Congress,2,38
-2020-05-15,Oklahoma Employment Security Commission,2,39
-2020-05-15,Red Light Clothing Exchange,2,40
-2020-05-15,Shidler Telephone Company,2,41
-2020-05-15,Sumner County Health Department,2,42
-2020-05-15,Youtube,2,43
-2020-05-15,Health Department,3,16
-2020-05-15,Johns Hopkins University,3,17
-2020-05-15,Paycheck Protection Program,3,18
-2020-05-15,Public Health,3,19
-2020-05-15,Tribune Content Agency,3,20
+2020-05-15,Adams Square Baptist Church,1,49
+2020-05-15,American Academy Of Family Physicians,1,50
+2020-05-15,Amtrak,2,25
+2020-05-15,Chickasaw Nation Department Of Commerce,2,26
+2020-05-15,Cleveland County District Court,2,27
+2020-05-15,Commerce Committee On Capitol Hill,2,28
+2020-05-15,Commerce Department,2,29
+2020-05-15,Commerce Subcommittee On Health,2,30
+2020-05-15,Coronavirus Relief Fund,2,31
+2020-05-15,Democratic Party,2,32
+2020-05-15,Democrats In Congress,2,33
+2020-05-15,Department Of Treasury,2,34
+2020-05-15,Drug Administration,2,35
+2020-05-15,Economic Recovery Omnibus Emergency Solutions,2,36
+2020-05-15,House Appropriations Committee,2,37
+2020-05-15,House Energy,2,38
+2020-05-15,House Rules Committee,2,39
+2020-05-15,Kanokla Networks,2,40
+2020-05-15,Kansas Legislature,2,41
+2020-05-15,Members Of Congress,2,42
+2020-05-15,Raybum House Office Building,2,43
+2020-05-15,Red Light Clothing Exchange,2,44
+2020-05-15,Shidler Telephone Company,2,45
+2020-05-15,Sumner County Health Department,2,46
+2020-05-15,Us Department Of Health,2,47
+2020-05-15,Youtube,2,48
+2020-05-15,Biomedical Advanced Research,3,16
+2020-05-15,Development Authority,3,17
+2020-05-15,Health Department,3,18
+2020-05-15,Human Services,3,19
+2020-05-15,Johns Hopkins University,3,20
+2020-05-15,Oklahoma Employment Security Commission,3,21
+2020-05-15,Paycheck Protection Program,3,22
+2020-05-15,Public Health,3,23
+2020-05-15,Tribune Content Agency,3,24
 2020-05-15,Blue Dog Coalition,4,9
 2020-05-15,Federal Reserve,4,10
 2020-05-15,Mcdonald,4,11
@@ -3985,8 +3985,8 @@ date,organization,count,rn
 2020-05-15,Senate Republicans,6,5
 2020-05-15,Facebook,7,3
 2020-05-15,Postal Service,7,4
-2020-05-15,United States,11,2
-2020-05-15,White House,20,1
+2020-05-15,United States,12,2
+2020-05-15,White House,21,1
 2020-05-16,Branch Appropriations Subcommittee,2,32
 2020-05-16,Centers For Disease,2,33
 2020-05-16,Circuit Court,2,34
@@ -4187,42 +4187,56 @@ date,organization,count,rn
 2020-05-19,Facebook,10,3
 2020-05-19,Oklahoma State Department Of Health,13,1
 2020-05-19,United States,13,2
-2020-05-20,Associated Press,1,27
-2020-05-20,Bloomberg,1,28
-2020-05-20,Elkhorn Baptist Church,1,29
-2020-05-20,Enterprise Services,1,30
-2020-05-20,Human Services,1,31
-2020-05-20,Office Of Management,1,32
-2020-05-20,Oklahoma Department Of Corrections,1,33
-2020-05-20,Oklahoma Employment Security Commission,1,34
-2020-05-20,Oregon Legislature,1,35
-2020-05-20,Oregon Supreme Court,1,36
-2020-05-20,American Petroleum Institute,2,2
-2020-05-20,Bloomberg Oil,2,3
-2020-05-20,Citigroup Inc,2,4
-2020-05-20,Drug Administration,2,5
-2020-05-20,Energy Information Administration,2,6
-2020-05-20,Facebook,2,7
-2020-05-20,Federal Reserve,2,8
-2020-05-20,Indian Health Services,2,9
-2020-05-20,Mexico Racing Commission,2,10
-2020-05-20,National Conference Of State Legislatures,2,11
-2020-05-20,New York Mercantile Exchange,2,12
-2020-05-20,Oklahoma Hospital Association,2,13
-2020-05-20,Oklahoma Legislature,2,14
-2020-05-20,Oklahoma Senate,2,15
-2020-05-20,Ou College Of Medicine,2,16
-2020-05-20,Ou College Of Public Health,2,17
-2020-05-20,Parental Rights Foundation,2,18
-2020-05-20,Postal Service,2,19
-2020-05-20,Small Business Administration,2,20
-2020-05-20,Supplemental Nutrition Assistance Program,2,21
-2020-05-20,Tax Foundation,2,22
-2020-05-20,United States,2,23
-2020-05-20,White House,2,24
-2020-05-20,World Health Organization,2,25
-2020-05-20,York Mercantile Exchange,2,26
-2020-05-20,Oklahoma State Department Of Health,3,1
+2020-05-20,American Bar Association,2,39
+2020-05-20,American Petroleum Institute,2,40
+2020-05-20,Bloomberg Oil,2,41
+2020-05-20,Citigroup Inc,2,42
+2020-05-20,Community Christian School In Norman,2,43
+2020-05-20,Elkhorn Baptist Church Senior Pastor Tim Francis,2,44
+2020-05-20,Energy Information Administration,2,45
+2020-05-20,Family Dollar,2,46
+2020-05-20,Federal Reserve,2,47
+2020-05-20,Giant Food,2,48
+2020-05-20,Green Rock Hemp Holdings,2,49
+2020-05-20,Indian Health Services,2,50
+2020-05-20,America Food Fund,3,22
+2020-05-20,Barclays Center,3,23
+2020-05-20,Enterprise Services,3,24
+2020-05-20,Forum In Inglewood,3,25
+2020-05-20,Girls Club Of East Mississippi,3,26
+2020-05-20,Living Classrooms Foundation,3,27
+2020-05-20,Mount Pilgrim Missionary Baptist Church,3,28
+2020-05-20,Mount Zion Baptist Church,3,29
+2020-05-20,Nan,3,30
+2020-05-20,Office Of Management,3,31
+2020-05-20,Oklahoma Employment Security Commission,3,32
+2020-05-20,Oklahoma Senate,3,33
+2020-05-20,Oprah Winfrey Charitable Foundation,3,34
+2020-05-20,Oregon Supreme Court,3,35
+2020-05-20,Relief Fund,3,36
+2020-05-20,Small Business Administration,3,37
+2020-05-20,Tennessee State University,3,38
+2020-05-20,Corporation For Public Broadcasting,4,20
+2020-05-20,Journalism Initiative,4,21
+2020-05-20,Cnn,5,18
+2020-05-20,Oklahoma State Department Of Health On,5,19
+2020-05-20,Democratic Congressional Campaign Committee,6,16
+2020-05-20,Oklahoma Democratic Party,6,17
+2020-05-20,Drug Administration,7,9
+2020-05-20,Oklahoma Hospital Association,7,10
+2020-05-20,Ou College Of Medicine,7,11
+2020-05-20,Ou College Of Public Health,7,12
+2020-05-20,Parental Rights Foundation,7,13
+2020-05-20,Supreme Court,7,14
+2020-05-20,World Health Organization,7,15
+2020-05-20,Human Services,8,5
+2020-05-20,National Conference Of State Legislatures,8,6
+2020-05-20,Oklahoma Department Of Corrections,8,7
+2020-05-20,Oklahoma Legislature,8,8
+2020-05-20,United States,12,4
+2020-05-20,Associated Press,15,2
+2020-05-20,Facebook,15,3
+2020-05-20,Oklahoma State Department Of Health,16,1
 2020-05-21,Armored Division,1,35
 2020-05-21,Assembly Center,1,36
 2020-05-21,Centers For Disease Control Prevention,1,37
@@ -4573,3 +4587,53 @@ date,organization,count,rn
 2020-05-27,Justice Department,5,2
 2020-05-27,White House,5,3
 2020-05-27,United States,8,1
+2020-05-28,Alamo Heights Baptist Church,1,32
+2020-05-28,American Civil Liberties Union,1,33
+2020-05-28,Austin Energy,1,34
+2020-05-28,Bay United Pentecostal Church,1,35
+2020-05-28,Becket Fund,1,36
+2020-05-28,Becket Fund For Religious Liberty,1,37
+2020-05-28,Blackrock,1,38
+2020-05-28,Bloomberg Oil,1,39
+2020-05-28,Brennan Center,1,40
+2020-05-28,Brennan Center At New York University,1,41
+2020-05-28,Brookfield Asset Management,1,42
+2020-05-28,Bureau Of Justice Statistics,1,43
+2020-05-28,Bureau Of Prisons,1,44
+2020-05-28,Bw Research Partnership,1,45
+2020-05-28,Career Center,1,46
+2020-05-28,Carolina Department Of Health,1,47
+2020-05-28,Centers For Disease,1,48
+2020-05-28,Centers For Medicare,1,49
+2020-05-28,Chains Catholic Church,1,50
+2020-05-28,Commodity Credit Corporation,2,14
+2020-05-28,Facebook,2,15
+2020-05-28,Health Resources,2,16
+2020-05-28,Integris Baptist Medical Center,2,17
+2020-05-28,Integris Health,2,18
+2020-05-28,Justice Department,2,19
+2020-05-28,Market Facilitation Program,2,20
+2020-05-28,Nan,2,21
+2020-05-28,Netflix,2,22
+2020-05-28,Oklahoma Department Of Commerce,2,23
+2020-05-28,Oklahoma Department Of Health,2,24
+2020-05-28,Oklahoma State Department Department Of Education On,2,25
+2020-05-28,Oklahoma State Department Of Education,2,26
+2020-05-28,Oklahoma State Department Of Health,2,27
+2020-05-28,Oklahoma State University,2,28
+2020-05-28,Services Administration On,2,29
+2020-05-28,Supreme Court,2,30
+2020-05-28,Tribune Content Agency,2,31
+2020-05-28,Coronavirus Food Assistance Program,3,6
+2020-05-28,Farm Service Agency,3,7
+2020-05-28,Human Services,3,8
+2020-05-28,Oil Associates Ltd,3,9
+2020-05-28,Oklahoma State Department Department Of Education,3,10
+2020-05-28,Parisian,3,11
+2020-05-28,Senate Majority Leader Mitch Mcconnell,3,12
+2020-05-28,White House,3,13
+2020-05-28,American Petroleum Institute,4,3
+2020-05-28,Bloomberg,4,4
+2020-05-28,Energy Information Administration,4,5
+2020-05-28,United States,5,2
+2020-05-28,Associated Press,7,1

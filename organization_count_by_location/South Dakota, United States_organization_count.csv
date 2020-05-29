@@ -2643,17 +2643,15 @@ date,organization,count,rn
 2020-04-27,Facebook,8,3
 2020-04-27,Tyson Foods,9,2
 2020-04-27,United States,16,1
-2020-04-28,American Meat Institute,2,40
-2020-04-28,Archer Financial Services,2,41
-2020-04-28,Avera Health,2,42
-2020-04-28,Chinese Communist Party,2,43
-2020-04-28,Costco,2,44
-2020-04-28,Dakota Department Of Education,2,45
-2020-04-28,Dakota State Medical Association,2,46
-2020-04-28,Datapoint,2,47
-2020-04-28,Department Of Agriculture,2,48
-2020-04-28,District Health,2,49
-2020-04-28,European Commission,2,50
+2020-04-28,American Meat Institute,2,42
+2020-04-28,Archer Financial Services,2,43
+2020-04-28,Avera Health,2,44
+2020-04-28,Chinese Communist Party,2,45
+2020-04-28,Costco,2,46
+2020-04-28,Dakota Department Of Education,2,47
+2020-04-28,Dakota State Medical Association,2,48
+2020-04-28,Datapoint,2,49
+2020-04-28,Department Of Agriculture,2,50
 2020-04-28,Agriculture Department,3,26
 2020-04-28,American Heart Association,3,27
 2020-04-28,Ap United States,3,28
@@ -2662,36 +2660,38 @@ date,organization,count,rn
 2020-04-28,Department Of Health,3,31
 2020-04-28,Health Care Providers,3,32
 2020-04-28,Helmsley Charitable,3,33
-2020-04-28,Paycheck Protection Program,3,34
-2020-04-28,Rutland School District Is,3,35
-2020-04-28,Small Business Administration,3,36
-2020-04-28,Telecommunications Cooperative,3,37
-2020-04-28,United States Department Of Defense,3,38
-2020-04-28,United States Today Midwest Center,3,39
+2020-04-28,Johns Hopkins University,3,34
+2020-04-28,Paycheck Protection Program,3,35
+2020-04-28,Republican Governors Association,3,36
+2020-04-28,Rutland School District Is,3,37
+2020-04-28,Small Business Administration,3,38
+2020-04-28,Telecommunications Cooperative,3,39
+2020-04-28,United States Department Of Defense,3,40
+2020-04-28,United States Today Midwest Center,3,41
 2020-04-28,Drug Administration,4,22
 2020-04-28,Health Administration,4,23
 2020-04-28,Morris,4,24
 2020-04-28,Morris Inc,4,25
-2020-04-28,Aviation Administration,5,14
-2020-04-28,City Council,5,15
-2020-04-28,Department Store Union,5,16
-2020-04-28,Greater Minnesota Worker Center,5,17
-2020-04-28,Health Kim Malsam-Rysdon,5,18
-2020-04-28,Nan,5,19
-2020-04-28,Sanford Health,5,20
-2020-04-28,Senate Majority Leader Mitch Mcconnell,5,21
+2020-04-28,Aviation Administration,5,15
+2020-04-28,City Council,5,16
+2020-04-28,Department Store Union,5,17
+2020-04-28,Greater Minnesota Worker Center,5,18
+2020-04-28,Health Kim Malsam-Rysdon,5,19
+2020-04-28,Nan,5,20
+2020-04-28,Sanford Health,5,21
 2020-04-28,Labor Department,6,11
 2020-04-28,Sanford Center,6,12
-2020-04-28,Twitter,6,13
+2020-04-28,Senate Majority Leader Mitch Mcconnell,6,13
+2020-04-28,Twitter,6,14
 2020-04-28,Associated Press,7,9
 2020-04-28,Tyson Foods Inc,7,10
 2020-04-28,Workers International Union,8,8
 2020-04-28,Facebook,9,7
 2020-04-28,New York Times,10,6
-2020-04-28,Dakota Department Of Health,12,5
-2020-04-28,White House,15,4
-2020-04-28,Centers For Disease,16,3
-2020-04-28,United States,17,2
+2020-04-28,Dakota Department Of Health,13,5
+2020-04-28,Centers For Disease,16,4
+2020-04-28,United States,17,3
+2020-04-28,White House,19,2
 2020-04-28,Tyson Foods,21,1
 2020-04-29,American Meat Institute,2,42
 2020-04-29,Bloomberg,2,43
@@ -2751,40 +2751,40 @@ date,organization,count,rn
 2020-04-30,Dakota State University,2,30
 2020-04-30,Delta Air Lines,2,31
 2020-04-30,Democratic Senate,2,32
-2020-04-30,Disaster Resilience Fund,2,33
-2020-04-30,Emergency Management Agency,2,34
-2020-04-30,Episcopal Diocese Of South Dakota,2,35
-2020-04-30,Hawkeye Community College,2,36
-2020-04-30,Hesapa Voter Initiative,2,37
-2020-04-30,House Judiciary Committee,2,38
-2020-04-30,Impact Leadership Consulting Group,2,39
-2020-04-30,Indian Health Service,2,40
-2020-04-30,Indigenous Peoples Movement,2,41
-2020-04-30,Media Affairs,2,42
-2020-04-30,Nan,2,43
-2020-04-30,National Institute Of Allergy,2,44
-2020-04-30,National Pork Producers Council,2,45
-2020-04-30,National Weather Service,2,46
-2020-04-30,Occupational Health,2,47
-2020-04-30,Oval Office Of The White House,2,48
-2020-04-30,Provider Relief Fund,2,49
-2020-04-30,Reuters,2,50
-2020-04-30,Department Of Agriculture,3,19
-2020-04-30,Department Of Labor,3,20
-2020-04-30,Human Services,3,21
-2020-04-30,Marshals Service,3,22
-2020-04-30,Tyson Foods,3,23
+2020-04-30,Department Of Health,2,33
+2020-04-30,Disaster Resilience Fund,2,34
+2020-04-30,Emergency Management Agency,2,35
+2020-04-30,Episcopal Diocese Of South Dakota,2,36
+2020-04-30,Hawkeye Community College,2,37
+2020-04-30,Hesapa Voter Initiative,2,38
+2020-04-30,House Agriculture Committee,2,39
+2020-04-30,House Judiciary Committee,2,40
+2020-04-30,Impact Leadership Consulting Group,2,41
+2020-04-30,Indian Health Service,2,42
+2020-04-30,Indigenous Peoples Movement,2,43
+2020-04-30,Media Affairs,2,44
+2020-04-30,Nan,2,45
+2020-04-30,National Institute Of Allergy,2,46
+2020-04-30,National Pork Producers Council,2,47
+2020-04-30,National Weather Service,2,48
+2020-04-30,Occupational Health,2,49
+2020-04-30,Oval Office Of The White House,2,50
+2020-04-30,Department Of Agriculture,3,20
+2020-04-30,Department Of Labor,3,21
+2020-04-30,Human Services,3,22
+2020-04-30,Marshals Service,3,23
 2020-04-30,U S Marshals Service,3,24
 2020-04-30,Center Carswell,4,18
+2020-04-30,Tyson Foods,4,19
 2020-04-30,Greater Minnesota Worker Center,5,16
 2020-04-30,Workers International Union,5,17
-2020-04-30,Department Store Union,6,12
 2020-04-30,Labor Department,6,13
 2020-04-30,Public Health At Iowa State University,6,14
 2020-04-30,Tyson Foods Inc,6,15
 2020-04-30,Dakota Department Of Health,7,9
-2020-04-30,Health Administration,7,10
-2020-04-30,Justice Department,7,11
+2020-04-30,Department Store Union,7,10
+2020-04-30,Health Administration,7,11
+2020-04-30,Justice Department,7,12
 2020-04-30,Bureau Of Prison,8,7
 2020-04-30,New York Times,8,8
 2020-04-30,Associated Press,9,5
@@ -2793,48 +2793,48 @@ date,organization,count,rn
 2020-04-30,Centers For Disease,16,3
 2020-04-30,Bureau Of Prisons,17,1
 2020-04-30,United States,17,2
-2020-05-01,Arizona State University College Of Health Solutions,2,41
-2020-05-01,Bloomberg,2,42
-2020-05-01,Credit Iowa Department Of Public Health,2,43
-2020-05-01,Culver,2,44
-2020-05-01,Department Of Agriculture,2,45
-2020-05-01,Department Of Justice,2,46
-2020-05-01,Great West Casualty Corporation,2,47
-2020-05-01,Health Administration,2,48
-2020-05-01,Honeywell International Inc,2,49
-2020-05-01,Human Services,2,50
-2020-05-01,Community Advantage,3,24
-2020-05-01,Dakota Community Foundation Coronavirus Response Fund,3,25
-2020-05-01,Dakota School For The Deaf,3,26
-2020-05-01,Dakota School Of Mines Technology,3,27
-2020-05-01,Dakota Small Business Development Center,3,28
-2020-05-01,Debt Relief Program,3,29
-2020-05-01,Department Of Health,3,30
-2020-05-01,Governor Kristi Noem Small Business Relief Fund,3,31
-2020-05-01,Hills State University,3,32
-2020-05-01,Loan Program,3,33
-2020-05-01,National Institute Of Allergy,3,34
-2020-05-01,Prairie Family Business Association,3,35
-2020-05-01,Small Business Administration,3,36
-2020-05-01,Small Business Relief Fund,3,37
-2020-05-01,Small Business Support Initiative,3,38
-2020-05-01,University Of South Dakota,3,39
-2020-05-01,Yankton Press Dakotan,3,40
-2020-05-01,Dakota State University,4,13
-2020-05-01,Dartmouth Institute,4,14
-2020-05-01,Nan,4,15
-2020-05-01,Northern State University,4,16
-2020-05-01,Paycheck Protection Program,4,17
-2020-05-01,Republican Party,4,18
-2020-05-01,Supreme Court,4,19
-2020-05-01,Tyson Foods,4,20
-2020-05-01,University Of Chicago,4,21
-2020-05-01,University Of Iowa,4,22
-2020-05-01,Workers International Union,4,23
+2020-05-01,Arizona State University College Of Health Solutions,2,42
+2020-05-01,Bloomberg,2,43
+2020-05-01,Credit Iowa Department Of Public Health,2,44
+2020-05-01,Culver,2,45
+2020-05-01,Department Of Agriculture,2,46
+2020-05-01,Department Of Justice,2,47
+2020-05-01,Drug Administration,2,48
+2020-05-01,Great West Casualty Corporation,2,49
+2020-05-01,Health Administration,2,50
+2020-05-01,Community Advantage,3,26
+2020-05-01,Dakota Community Foundation Coronavirus Response Fund,3,27
+2020-05-01,Dakota School For The Deaf,3,28
+2020-05-01,Dakota School Of Mines Technology,3,29
+2020-05-01,Dakota Small Business Development Center,3,30
+2020-05-01,Debt Relief Program,3,31
+2020-05-01,Governor Kristi Noem Small Business Relief Fund,3,32
+2020-05-01,Hills State University,3,33
+2020-05-01,Loan Program,3,34
+2020-05-01,National Institute Of Allergy,3,35
+2020-05-01,Prairie Family Business Association,3,36
+2020-05-01,Small Business Administration,3,37
+2020-05-01,Small Business Relief Fund,3,38
+2020-05-01,Small Business Support Initiative,3,39
+2020-05-01,University Of South Dakota,3,40
+2020-05-01,Yankton Press Dakotan,3,41
+2020-05-01,Dakota State University,4,14
+2020-05-01,Dartmouth Institute,4,15
+2020-05-01,Nan,4,16
+2020-05-01,Northern State University,4,17
+2020-05-01,Paycheck Protection Program,4,18
+2020-05-01,Republican Party,4,19
+2020-05-01,Sanford Health,4,20
+2020-05-01,Supreme Court,4,21
+2020-05-01,Tyson Foods,4,22
+2020-05-01,University Of Chicago,4,23
+2020-05-01,University Of Iowa,4,24
+2020-05-01,Workers International Union,4,25
 2020-05-01,Bureau Of Prisons,5,9
 2020-05-01,Cnn,5,10
-2020-05-01,Department Of Labor,5,11
-2020-05-01,Health Kim Malsam-Rysdon,5,12
+2020-05-01,Department Of Health,5,11
+2020-05-01,Department Of Labor,5,12
+2020-05-01,Health Kim Malsam-Rysdon,5,13
 2020-05-01,Dakota Department Of Health,6,7
 2020-05-01,National Park Service,6,8
 2020-05-01,United States,8,6
@@ -3709,26 +3709,56 @@ date,organization,count,rn
 2020-05-19,Associated Press,13,1
 2020-05-19,City Council,13,2
 2020-05-19,United States,13,3
-2020-05-20,Dakota Community Foundation,1,13
-2020-05-20,Dakota Department Of Social Services,1,14
-2020-05-20,Department Of Health,1,15
-2020-05-20,Department Of Social Services,1,16
-2020-05-20,Health Care Enhancement,1,17
-2020-05-20,Kansas Department Of Labor,1,18
-2020-05-20,Paycheck Protection Program,1,19
-2020-05-20,Trump Administration,1,20
-2020-05-20,Dakota Department Of Health,2,11
-2020-05-20,Nan,2,12
-2020-05-20,Community Action Agency Of Siouxland,3,4
-2020-05-20,Contact The Community Agency Of Siouxland,3,5
-2020-05-20,Dakota Broadcasters Association,3,6
-2020-05-20,Navy Vice Admiral Mike Franken,3,7
-2020-05-20,Nebraska Department Of Health,3,8
-2020-05-20,Siouxland District Health,3,9
-2020-05-20,Tyson Foods,3,10
-2020-05-20,Human Services,5,3
-2020-05-20,Associated Press,6,2
-2020-05-20,City Council,8,1
+2020-05-20,Ag Disaster Relief Program,1,47
+2020-05-20,American Civil Liberties Union,1,48
+2020-05-20,American Federation Of Labor,1,49
+2020-05-20,Ap United States,1,50
+2020-05-20,American Farm Bureau,2,21
+2020-05-20,Bluetooth Low Energy,2,22
+2020-05-20,Chinese Communist Party,2,23
+2020-05-20,Chinese Navy,2,24
+2020-05-20,Chinese Navy Liaoning,2,25
+2020-05-20,Cnn,2,26
+2020-05-20,Communications Commission Universal Service Fund,2,27
+2020-05-20,Defense Department,2,28
+2020-05-20,Defense Force,2,29
+2020-05-20,Department Of Health,2,30
+2020-05-20,Department Of Social Services,2,31
+2020-05-20,Economic Development Administration,2,32
+2020-05-20,Farm Bureau,2,33
+2020-05-20,House Agriculture Committee,2,34
+2020-05-20,Indian Health,2,35
+2020-05-20,Indian Health Services,2,36
+2020-05-20,Lund University Cardiac Assist System,2,37
+2020-05-20,National Association Of County City Health Officials,2,38
+2020-05-20,New York Times,2,39
+2020-05-20,People Liberation Army,2,40
+2020-05-20,Pilot Program,2,41
+2020-05-20,Rand Corp,2,42
+2020-05-20,Royal Air,2,43
+2020-05-20,Self Defense,2,44
+2020-05-20,Squadron At Eindhoven Air,2,45
+2020-05-20,Standoff Missiles Jassms At Andersen Air,2,46
+2020-05-20,Community Action Agency Of Siouxland,3,10
+2020-05-20,Contact The Community Agency Of Siouxland,3,11
+2020-05-20,Dakota Broadcasters Association,3,12
+2020-05-20,Department Of Justice,3,13
+2020-05-20,Health Care Enhancement,3,14
+2020-05-20,Helmsley Charitable,3,15
+2020-05-20,Navy Vice Admiral Mike Franken,3,16
+2020-05-20,Nebraska Department Of Health,3,17
+2020-05-20,Paycheck Protection Program,3,18
+2020-05-20,Siouxland District Health,3,19
+2020-05-20,Tyson Foods,3,20
+2020-05-20,Ellsworth Air Force,4,7
+2020-05-20,Google,4,8
+2020-05-20,White House,4,9
+2020-05-20,Dakota Department Of Health,6,5
+2020-05-20,Nan,6,6
+2020-05-20,Human Services,7,3
+2020-05-20,United States,7,4
+2020-05-20,City Council,8,2
+2020-05-20,Associated Press,11,1
 2020-05-21,American Soybean Association Board,1,30
 2020-05-21,Brookings Institute,1,31
 2020-05-21,Brookings Institution,1,32
@@ -4015,3 +4045,53 @@ date,organization,count,rn
 2020-05-27,Supreme Court On,4,8
 2020-05-27,Workforce Occupational Health,4,9
 2020-05-27,White House,6,1
+2020-05-28,A Trust For America Health,1,20
+2020-05-28,America Health,1,21
+2020-05-28,American Association Of Pro,1,22
+2020-05-28,American College Of Obstetricians,1,23
+2020-05-28,American Health Care Association,1,24
+2020-05-28,Army Corps Of Engineers,1,25
+2020-05-28,Associated Press,1,26
+2020-05-28,Avera Prince Of Peace Retirement Community,1,27
+2020-05-28,Cnn,1,28
+2020-05-28,Community Development Office,1,29
+2020-05-28,Defense Department,1,30
+2020-05-28,Department Of Defense,1,31
+2020-05-28,Department Of Health Services,1,32
+2020-05-28,Department Of The,1,33
+2020-05-28,Food Industry Association,1,34
+2020-05-28,Gannett,1,35
+2020-05-28,Good Samaritan Society Sioux Falls Village,1,36
+2020-05-28,Google,1,37
+2020-05-28,Greater Dakota News Service,1,38
+2020-05-28,Guttmacher Institute,1,39
+2020-05-28,Health Kim Malsam-Rysdon,1,40
+2020-05-28,Indian Health Services,1,41
+2020-05-28,Kroger,1,42
+2020-05-28,Lake Area Technical College,1,43
+2020-05-28,Lakes Community Action Partnership,1,44
+2020-05-28,National Center,1,45
+2020-05-28,Simon Property Group,1,46
+2020-05-28,Touchmark At All Saints Retirement Community,1,47
+2020-05-28,Us Air Force Thunderbirds,1,48
+2020-05-28,Us Navy Blue Angels,1,49
+2020-05-28,White House Military Office,1,50
+2020-05-28,American Cancer Society Cancer Action Network,2,11
+2020-05-28,Big Tobacco,2,12
+2020-05-28,Centers For Disease,2,13
+2020-05-28,Department Of Health,2,14
+2020-05-28,Facebook,2,15
+2020-05-28,Ministry Of Health,2,16
+2020-05-28,Monument Health,2,17
+2020-05-28,Sanford Center,2,18
+2020-05-28,Treasury Department,2,19
+2020-05-28,Department Of Labor,3,8
+2020-05-28,Drug Administration,3,9
+2020-05-28,Nan,3,10
+2020-05-28,Dakota Department Of Labor,4,6
+2020-05-28,Dakota Unemployment Insurance Trust Fund,4,7
+2020-05-28,White House,5,5
+2020-05-28,Sanford Health,6,2
+2020-05-28,United States,6,3
+2020-05-28,World Health Organization,6,4
+2020-05-28,Dakota Department Of Health,10,1

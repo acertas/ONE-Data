@@ -2715,28 +2715,27 @@ date,organization,count,rn
 2020-04-22,Meridian Police Department,21,3
 2020-04-22,Facebook,25,1
 2020-04-22,Idaho Freedom Foundation,25,2
-2020-04-23,Center On Extremism,1,29
-2020-04-23,Central Public Health District,1,30
-2020-04-23,Century Community Learning Center,1,31
-2020-04-23,Century Community Learning Centers,1,32
-2020-04-23,City Council,1,33
-2020-04-23,College Of Southern Idaho,1,34
-2020-04-23,Community Health Centers,1,35
-2020-04-23,Concordia University In Boise,1,36
-2020-04-23,Cummins,1,37
-2020-04-23,Department Of Health,1,38
-2020-04-23,Disaster Relief Program,1,39
-2020-04-23,District Energy Plant,1,40
-2020-04-23,Donors Capital Fund,1,41
-2020-04-23,Douglas County Health Department,1,42
-2020-04-23,Drug Administration,1,43
-2020-04-23,Express,1,44
-2020-04-23,Go Fund Me,1,45
-2020-04-23,Governor Office,1,46
-2020-04-23,Health Department,1,47
-2020-04-23,Health Resources,1,48
-2020-04-23,Human Services,1,49
-2020-04-23,Idaho Department Of Parks,1,50
+2020-04-23,Ashford Inc,1,30
+2020-04-23,Center On Extremism,1,31
+2020-04-23,Central Public Health District,1,32
+2020-04-23,Century Community Learning Center,1,33
+2020-04-23,Century Community Learning Centers,1,34
+2020-04-23,City Council,1,35
+2020-04-23,College Of Southern Idaho,1,36
+2020-04-23,Community Health Centers,1,37
+2020-04-23,Concordia University In Boise,1,38
+2020-04-23,Cummins,1,39
+2020-04-23,Department Of Health,1,40
+2020-04-23,Disaster Relief Program,1,41
+2020-04-23,District Energy Plant,1,42
+2020-04-23,Donors Capital Fund,1,43
+2020-04-23,Douglas County Health Department,1,44
+2020-04-23,Drug Administration,1,45
+2020-04-23,Express,1,46
+2020-04-23,Go Fund Me,1,47
+2020-04-23,Governor Office,1,48
+2020-04-23,Health Department,1,49
+2020-04-23,Health Resources,1,50
 2020-04-23,Chinese Communist Party,2,18
 2020-04-23,Eastern Idaho Public Health District,2,19
 2020-04-23,Idaho Department Of Health,2,20
@@ -2748,6 +2747,7 @@ date,organization,count,rn
 2020-04-23,Trump Administration,2,26
 2020-04-23,University Of Chicago,2,27
 2020-04-23,University Of Idaho,2,28
+2020-04-23,White House,2,29
 2020-04-23,Idaho Freedom Foundation Facebook,3,11
 2020-04-23,Idaho National Laboratory,3,12
 2020-04-23,Instagram,3,13
@@ -2758,10 +2758,10 @@ date,organization,count,rn
 2020-04-23,Meridian Police,4,8
 2020-04-23,Saltzer Health,4,9
 2020-04-23,United States,4,10
-2020-04-23,Cnn,5,4
-2020-04-23,Health Freedom Idaho,5,5
-2020-04-23,Nan,5,6
+2020-04-23,Cnn,5,5
+2020-04-23,Health Freedom Idaho,5,6
 2020-04-23,University Of Washington,5,7
+2020-04-23,Nan,6,4
 2020-04-23,Meridian Police Department,9,3
 2020-04-23,Facebook,13,2
 2020-04-23,Idaho Freedom Foundation,14,1
@@ -4062,14 +4062,56 @@ date,organization,count,rn
 2020-05-19,Centers For Disease,4,3
 2020-05-19,Nan,5,2
 2020-05-19,Facebook,8,1
-2020-05-20,Centers For Disease,1,1
-2020-05-20,Employment Department,1,2
-2020-05-20,Oregon Department Of Justice,1,3
-2020-05-20,Oregon Health Authority,1,4
-2020-05-20,Oregon Supreme Court,1,5
-2020-05-20,Supreme Court,1,6
-2020-05-20,Then The Supreme Court,1,7
-2020-05-20,Us Senate,1,8
+2020-05-20,American Medical Association,1,12
+2020-05-20,American Nuclear Society,1,13
+2020-05-20,Associated Press,1,14
+2020-05-20,Atlantic Council,1,15
+2020-05-20,Atlantic Council Global Energy Center,1,16
+2020-05-20,Battelle Energy Alliance Academic Center,1,17
+2020-05-20,Brad Little Office,1,18
+2020-05-20,Centers For Medicare Medicaid Services,1,19
+2020-05-20,Central Public Health District,1,20
+2020-05-20,Clinical Data Exchange,1,21
+2020-05-20,Cnn,1,22
+2020-05-20,Computer Sciences Corporation,1,23
+2020-05-20,Department Of Health,1,24
+2020-05-20,Department Of Nuclear Engineering,1,25
+2020-05-20,Emory University,1,26
+2020-05-20,Employment Department,1,27
+2020-05-20,Express,1,28
+2020-05-20,Fannie Mae,1,29
+2020-05-20,Federal National Mortgage Association,1,30
+2020-05-20,Free State Justice Campaign,1,31
+2020-05-20,Global Energy Center,1,32
+2020-05-20,Global Energy Center Energysource,1,33
+2020-05-20,Governor Coronavirus Financial Advisory Committee,1,34
+2020-05-20,Governor Coronavirus Financial Advisory Committee On,1,35
+2020-05-20,Gregg Church,1,36
+2020-05-20,Health Information Exchange,1,37
+2020-05-20,Health Quality Planning Commission,1,38
+2020-05-20,Henry Ford Health System,1,39
+2020-05-20,Hydraulic Research Laboratory,1,40
+2020-05-20,Idaho Freedom Foundation,1,41
+2020-05-20,Idaho Health Data Exchange,1,42
+2020-05-20,Idaho National Laboratory,1,43
+2020-05-20,Illinois State University,1,44
+2020-05-20,Justice Department,1,45
+2020-05-20,Justice Department On,1,46
+2020-05-20,Kroger,1,47
+2020-05-20,Linkedin,1,48
+2020-05-20,Louisiana Office Of Motor Vehicles,1,49
+2020-05-20,Meridian Police,1,50
+2020-05-20,Centers For Disease,2,3
+2020-05-20,Coronavirus Task,2,4
+2020-05-20,Governor Work Group,2,5
+2020-05-20,Idaho Coronavirus Task,2,6
+2020-05-20,Idaho Department Of Health,2,7
+2020-05-20,Kaiser Family Foundation,2,8
+2020-05-20,Land Bank,2,9
+2020-05-20,Luke Health System,2,10
+2020-05-20,Mountain West News Bureau,2,11
+2020-05-20,Facebook,4,1
+2020-05-20,United States,4,2
 2020-05-21,Abbott Vacuum Center,1,22
 2020-05-21,Auburn University,1,23
 2020-05-21,Census Bureau,1,24
@@ -4384,3 +4426,53 @@ date,organization,count,rn
 2020-05-27,United States,4,2
 2020-05-27,World Health Organization,4,3
 2020-05-27,Central Public Health District,7,1
+2020-05-28,Agnes Catholic Church,1,17
+2020-05-28,American Civil Liberties Union,1,18
+2020-05-28,Bank Dr,1,19
+2020-05-28,Battelle Energy Alliance,1,20
+2020-05-28,Bloomberg,1,21
+2020-05-28,Brennan Center Voting Rights,1,22
+2020-05-28,Canyons Retirement Community,1,23
+2020-05-28,Centers For Disease,1,24
+2020-05-28,Central District Health,1,25
+2020-05-28,Central District Health Department,1,26
+2020-05-28,Central Public Health Department,1,27
+2020-05-28,Centre For Public Affairs Research,1,28
+2020-05-28,Clorox,1,29
+2020-05-28,Coronavirus Food Assistance Program,1,30
+2020-05-28,Council Senior Center,1,31
+2020-05-28,Defense Department,1,32
+2020-05-28,Department Of Defense,1,33
+2020-05-28,Department Of Justice,1,34
+2020-05-28,Department Of The,1,35
+2020-05-28,Desert View Care Center,1,36
+2020-05-28,Eagle United Methodist Church,1,37
+2020-05-28,Eastern Idaho Regional Medical Center,1,38
+2020-05-28,Election Program,1,39
+2020-05-28,Electronic Registration Information Center,1,40
+2020-05-28,Elk Creek Church,1,41
+2020-05-28,Erik Karst A Navy,1,42
+2020-05-28,Event Center,1,43
+2020-05-28,Fair Elections Center,1,44
+2020-05-28,Farm Service Agency,1,45
+2020-05-28,First Baptist Church,1,46
+2020-05-28,Idaho Fall Small Business Development Center,1,47
+2020-05-28,Idaho Mesothelioma Victims Center,1,48
+2020-05-28,Idaho The Idaho Mesothelioma Victims Center,1,49
+2020-05-28,Instagram,1,50
+2020-05-28,Dayton Daily News,2,13
+2020-05-28,Idaho Department Of Health,2,14
+2020-05-28,Intermountain Fair Housing Council,2,15
+2020-05-28,Tribune Content Agency,2,16
+2020-05-28,Associated Press,3,11
+2020-05-28,Idaho National Laboratory,3,12
+2020-05-28,Msnbc,4,9
+2020-05-28,Nan,4,10
+2020-05-28,Columbia University,13,8
+2020-05-28,Public Affairs Research,14,7
+2020-05-28,United States,15,6
+2020-05-28,White House,17,5
+2020-05-28,Kaiser Family Foundation,18,3
+2020-05-28,Twitter,18,4
+2020-05-28,Cnn,20,1
+2020-05-28,Johns Hopkins University,20,2

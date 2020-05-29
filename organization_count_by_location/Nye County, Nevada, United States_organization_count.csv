@@ -4209,17 +4209,17 @@ date,organization,count,rn
 2020-05-09,Pew Research Center,3,48
 2020-05-09,Recovery Advisory Committee,3,49
 2020-05-09,Senate Democratic Leader Harry Reid,3,50
-2020-05-09,Nan,4,37
 2020-05-09,White House Coronavirus Task,4,38
 2020-05-09,A Johns Hopkins University,5,28
 2020-05-09,Adm,5,29
-2020-05-09,Naval Air,5,30
-2020-05-09,Naval Base Coronado,5,31
-2020-05-09,Naval Special Warfare Center,5,32
-2020-05-09,Navy Exchanges,5,33
-2020-05-09,Navy Region,5,34
-2020-05-09,Restriction Of Movement,5,35
-2020-05-09,University Of Nevada,5,36
+2020-05-09,Nan,5,30
+2020-05-09,Naval Air,5,31
+2020-05-09,Naval Base Coronado,5,32
+2020-05-09,Naval Special Warfare Center,5,33
+2020-05-09,Navy Exchanges,5,34
+2020-05-09,Navy Region,5,35
+2020-05-09,Restriction Of Movement,5,36
+2020-05-09,University Of Nevada,5,37
 2020-05-09,Cnn,6,26
 2020-05-09,Frontier Airlines,6,27
 2020-05-09,Miss America Organization,7,25
@@ -4747,11 +4747,56 @@ date,organization,count,rn
 2020-05-19,Msnbc,4,4
 2020-05-19,United States,4,5
 2020-05-19,White House,5,1
-2020-05-20,Facebook,1,1
-2020-05-20,Lakeside Health,1,2
-2020-05-20,Solar Energy Industries Association,1,3
-2020-05-20,Thomson Reuters Foundation,1,4
-2020-05-20,United States,1,5
+2020-05-20,Alliance For Securing Democracy,2,44
+2020-05-20,Associates In Las Vegas,2,45
+2020-05-20,California State University,2,46
+2020-05-20,China Foreign Affairs Ministry,2,47
+2020-05-20,Circuit Court,2,48
+2020-05-20,Community Colleges,2,49
+2020-05-20,Department Of Education,2,50
+2020-05-20,Brennan Center,3,34
+2020-05-20,Dow Inc,3,35
+2020-05-20,Electoral College,3,36
+2020-05-20,Oval Office,3,37
+2020-05-20,Stanford University,3,38
+2020-05-20,Thomson Reuters Trust Principles,3,39
+2020-05-20,University Of Maryland,3,40
+2020-05-20,University Of Michigan Law School,3,41
+2020-05-20,University Of South Florida,3,42
+2020-05-20,Us Treasury Department,3,43
+2020-05-20,American Tribal Healing Centers,4,22
+2020-05-20,Election Assistance Commission,4,23
+2020-05-20,Heritage Foundation,4,24
+2020-05-20,Kensington College School Of Law,4,25
+2020-05-20,Maine Bureau Of Insurance,4,26
+2020-05-20,Morgan,4,27
+2020-05-20,National Association Of Insurance Commissioners,4,28
+2020-05-20,National Conference Of State Legislatures,4,29
+2020-05-20,Nevada Supreme Court,4,30
+2020-05-20,Senate Republicans,4,31
+2020-05-20,Tribal Active Management Services,4,32
+2020-05-20,University Of Texas School Of Law,4,33
+2020-05-20,Cnn,5,16
+2020-05-20,Facebook,5,17
+2020-05-20,House Oversight Committee On,5,18
+2020-05-20,Nan,5,19
+2020-05-20,Office Of Management,5,20
+2020-05-20,Republican Party,5,21
+2020-05-20,Nevada State Democratic Party,6,14
+2020-05-20,Reuters,6,15
+2020-05-20,Beth Israel Deaconess Medical Center,7,12
+2020-05-20,Department Of Health,7,13
+2020-05-20,Bureau Of Elections,8,11
+2020-05-20,Human Services,9,8
+2020-05-20,Supreme Court,9,9
+2020-05-20,World Health Organization,9,10
+2020-05-20,United States,14,6
+2020-05-20,White House,14,7
+2020-05-20,Associated Press,24,4
+2020-05-20,Centers For Disease,24,5
+2020-05-20,Twitter,29,3
+2020-05-20,Treasury Department,30,2
+2020-05-20,Republican National Committee,44,1
 2020-05-21,Action Fund,2,35
 2020-05-21,Assembly Republicans,2,36
 2020-05-21,Buffalo Wild Wings,2,37
@@ -5102,3 +5147,53 @@ date,organization,count,rn
 2020-05-27,Twitter,18,3
 2020-05-27,Associated Press,27,2
 2020-05-27,Justice Department,30,1
+2020-05-28,Brothers Of Charity,2,31
+2020-05-28,Catholic Church,2,32
+2020-05-28,Catholic News Agency,2,33
+2020-05-28,Centers For Disease,2,34
+2020-05-28,Costco,2,35
+2020-05-28,Disney,2,36
+2020-05-28,Elko Convention Center On Moren Way,2,37
+2020-05-28,Eu Commission,2,38
+2020-05-28,European Parliament,2,39
+2020-05-28,European Union On,2,40
+2020-05-28,Homeless Community,2,41
+2020-05-28,Honey Smoked Fish Company,2,42
+2020-05-28,Huawei,2,43
+2020-05-28,Israel Ministry Of Health,2,44
+2020-05-28,King Soopers,2,45
+2020-05-28,Kline,2,46
+2020-05-28,La Times,2,47
+2020-05-28,Macknight Food Group,2,48
+2020-05-28,Morgan,2,49
+2020-05-28,Nevada Gaming Commission,2,50
+2020-05-28,Department Of Health,3,23
+2020-05-28,Nevada Department Of Employment,3,24
+2020-05-28,Nevada National Guard,3,25
+2020-05-28,Reuters,3,26
+2020-05-28,Senate Majority Leader Mitch Mcconnell,3,27
+2020-05-28,Voter Rights Initiative,3,28
+2020-05-28,World Health Organization,3,29
+2020-05-28,Wynn Resorts,3,30
+2020-05-28,Department Of Justice,4,20
+2020-05-28,Drug Administration,4,21
+2020-05-28,Human Services,4,22
+2020-05-28,Caesars Palace,5,14
+2020-05-28,National Republican Senatorial Committee,5,15
+2020-05-28,Society Of Women Engineers,5,16
+2020-05-28,Surface Technology,5,17
+2020-05-28,Tech Center,5,18
+2020-05-28,Technology Center,5,19
+2020-05-28,Nan,6,11
+2020-05-28,Senate Majority Leader Harry Reid,6,12
+2020-05-28,United States,6,13
+2020-05-28,Justice Department,7,9
+2020-05-28,Twitter,7,10
+2020-05-28,Bureau Of Land Management To Colorado,9,4
+2020-05-28,Georgetown University Lugar Center,9,5
+2020-05-28,Party Of Trump,9,6
+2020-05-28,Republicans In Congress,9,7
+2020-05-28,Us Chamber,9,8
+2020-05-28,Associated Press,11,2
+2020-05-28,White House,11,3
+2020-05-28,Cnn,14,1

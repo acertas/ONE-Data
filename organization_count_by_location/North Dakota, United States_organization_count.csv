@@ -3944,37 +3944,56 @@ date,organization,count,rn
 2020-05-19,White House,6,8
 2020-05-19,Dakota Legislature,8,2
 2020-05-19,Google,9,1
-2020-05-20,Army Corps,1,12
-2020-05-20,Centers For Disease,1,13
-2020-05-20,Concordia Pharmaceuticals,1,14
-2020-05-20,Cramer Senate,1,15
-2020-05-20,Department Of Defense,1,16
-2020-05-20,Department Of Defense Inspector,1,17
-2020-05-20,Department Of Health,1,18
-2020-05-20,Drug Administration,1,19
-2020-05-20,European Union,1,20
-2020-05-20,Florida Department Of Health,1,21
-2020-05-20,Health Ministry,1,22
-2020-05-20,House Homeland Security Committee,1,23
-2020-05-20,Illinois Department Of Public Health,1,24
-2020-05-20,Jackson Health System,1,25
-2020-05-20,Louisiana Office Of Motor Vehicles,1,26
-2020-05-20,Trump State Of The Union,1,27
-2020-05-20,Twitter,1,28
-2020-05-20,United States,1,29
-2020-05-20,Valley Constructors Co,1,30
-2020-05-20,World Health Organization,1,31
-2020-05-20,Burleigh Morton Detention Center,2,2
-2020-05-20,Commodity Credit Corp,2,3
-2020-05-20,Coronavirus Food Assistance Program On,2,4
-2020-05-20,Dakota Department Of Corrections,2,5
-2020-05-20,Dakota National Guard,2,6
-2020-05-20,Farm Service Agency,2,7
-2020-05-20,Forum News Service,2,8
-2020-05-20,James River Correctional Center,2,9
-2020-05-20,National Guard,2,10
-2020-05-20,White House,2,11
-2020-05-20,Human Services,3,1
+2020-05-20,Ag Disaster Relief Program,1,46
+2020-05-20,Alabama Department Of Public Health Karen Landers,1,47
+2020-05-20,Alphabet Inc Google,1,48
+2020-05-20,Ap Technology Writer,1,49
+2020-05-20,Apple App,1,50
+2020-05-20,American Civil Liberties Union,2,30
+2020-05-20,Architecture Committee,2,31
+2020-05-20,Army Corps,2,32
+2020-05-20,Bureau Of Indian Affairs,2,33
+2020-05-20,Charles Mission School,2,34
+2020-05-20,Dakota Department Of Health,2,35
+2020-05-20,Dakota Long Term Care Association,2,36
+2020-05-20,House Homeland Security Committee,2,37
+2020-05-20,Illinois Department Of Public Health,2,38
+2020-05-20,Long Term Care Association,2,39
+2020-05-20,Matt Obrien Ap Technology Writer,2,40
+2020-05-20,Moesgaard Museum In Aarhus,2,41
+2020-05-20,Theodore Roosevelt Medora Foundation,2,42
+2020-05-20,Theodore Roosevelt Presidential Library,2,43
+2020-05-20,United States,2,44
+2020-05-20,Walmart,2,45
+2020-05-20,American Farm Bureau Federation,3,19
+2020-05-20,Burleigh Morton Detention Center,3,20
+2020-05-20,Commodity Credit Corp,3,21
+2020-05-20,Coronavirus Food Assistance Program On,3,22
+2020-05-20,Dakota Department Of Corrections,3,23
+2020-05-20,Dakota Legislature Al Carlson,3,24
+2020-05-20,Farm Service Agency,3,25
+2020-05-20,Hector International Airport,3,26
+2020-05-20,James River Correctional Center,3,27
+2020-05-20,National Association Of State Departments Of Agriculture,3,28
+2020-05-20,Thomson Reuters Trust Principles,3,29
+2020-05-20,Alphabet Inc Googl O Google,4,13
+2020-05-20,Burleigh Complete Count Committee,4,14
+2020-05-20,Centers For Disease,4,15
+2020-05-20,Dakota Legislature,4,16
+2020-05-20,Department Of Health,4,17
+2020-05-20,Person Group Quarters Enumeration,4,18
+2020-05-20,Department Of Human Services,5,9
+2020-05-20,Norwegian Institute Of Public Health,5,10
+2020-05-20,Reuters,5,11
+2020-05-20,Sophos,5,12
+2020-05-20,Apple Inc,6,4
+2020-05-20,Associated Press,6,5
+2020-05-20,Dakota National Guard,6,6
+2020-05-20,Forum News Service,6,7
+2020-05-20,National Guard,6,8
+2020-05-20,White House,7,3
+2020-05-20,Human Services,9,2
+2020-05-20,Google,18,1
 2020-05-21,Alphabet Inc,2,38
 2020-05-21,American Petroleum Institute,2,39
 2020-05-21,Charles Mission School,2,40
@@ -4305,3 +4324,53 @@ date,organization,count,rn
 2020-05-27,Department Of Health,10,3
 2020-05-27,White House,10,4
 2020-05-27,Centers For Disease,11,1
+2020-05-28,Armed Forces Expeditionary,2,40
+2020-05-28,City County Health District,2,41
+2020-05-28,Google,2,42
+2020-05-28,Health Sciences,2,43
+2020-05-28,Nan,2,44
+2020-05-28,Peoples Armed Police,2,45
+2020-05-28,Peoples Liberation Army,2,46
+2020-05-28,School Of Medicine,2,47
+2020-05-28,Senate Judiciary Committee,2,48
+2020-05-28,University Of San Francisco,2,49
+2020-05-28,Youtube,2,50
+2020-05-28,Associated Press,3,33
+2020-05-28,Centers For Disease,3,34
+2020-05-28,Centers For Medicare,3,35
+2020-05-28,Department Of Justice,3,36
+2020-05-28,Department Of Public Instruction,3,37
+2020-05-28,National Guard Maj,3,38
+2020-05-28,Outgoing Interim University Of North Dakota,3,39
+2020-05-28,Armed Forces Expeditionary Medal,4,23
+2020-05-28,Dakota State University In Fargo,4,24
+2020-05-28,Facebook,4,25
+2020-05-28,Giant Eagle,4,26
+2020-05-28,Governor Office,4,27
+2020-05-28,Johns Hopkins University,4,28
+2020-05-28,National Guard,4,29
+2020-05-28,School Of Medicine Health Sciences,4,30
+2020-05-28,Senate Majority Leader Mitch Mcconnell,4,31
+2020-05-28,White House,4,32
+2020-05-28,Afro American Development Association,5,16
+2020-05-28,Cnn,5,17
+2020-05-28,Dakota Human Rights Coalition,5,18
+2020-05-28,Dakota Long Term Care Association,5,19
+2020-05-28,Forum On,5,20
+2020-05-28,Human Rights Coalition,5,21
+2020-05-28,Twitter,5,22
+2020-05-28,Army Commendation Medal,6,11
+2020-05-28,Dakota State University,6,12
+2020-05-28,Fargo Cass Public Health,6,13
+2020-05-28,Global War On Terrorism Service Medal,6,14
+2020-05-28,Harvard Medical School,6,15
+2020-05-28,Dakota Army National Guard,9,9
+2020-05-28,United States,9,10
+2020-05-28,Supreme Court Justice Jerod Tufte,12,8
+2020-05-28,Boston University,14,7
+2020-05-28,Dakota Army National Guard Medical Corps,16,6
+2020-05-28,University Of North Dakota,18,5
+2020-05-28,Dakota University System,21,3
+2020-05-28,Veterans Affairs Medical Center,21,4
+2020-05-28,Dakota Department Of Health,22,2
+2020-05-28,Department Of Health,23,1

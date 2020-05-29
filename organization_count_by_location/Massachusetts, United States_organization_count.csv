@@ -3993,28 +3993,28 @@ date,organization,count,rn
 2020-04-23,Education Department,11,45
 2020-04-23,Pennsylvania State University,11,46
 2020-04-23,Reuters,11,47
-2020-04-23,Codman Square Health Center,13,38
-2020-04-23,Dothouse Health,13,39
-2020-04-23,Health Center,13,40
-2020-04-23,Johns Hopkins Center,13,41
-2020-04-23,Massachusetts League,13,42
+2020-04-23,Johns Hopkins Center,13,42
 2020-04-23,University Of Oklahoma,13,43
 2020-04-23,Us Centers For Disease,13,44
-2020-04-23,Columbia University,14,34
-2020-04-23,Education Department On,14,35
-2020-04-23,University Of California,14,36
-2020-04-23,University Of Southern California,14,37
+2020-04-23,Codman Square Health Center,14,34
+2020-04-23,Columbia University,14,35
+2020-04-23,Dothouse Health,14,36
+2020-04-23,Education Department On,14,37
+2020-04-23,Health Center,14,38
+2020-04-23,Massachusetts League,14,39
+2020-04-23,University Of California,14,40
+2020-04-23,University Of Southern California,14,41
 2020-04-23,Higher Education Emergency Relief Fund,15,30
 2020-04-23,Massachusetts Department Of Public Health,15,31
 2020-04-23,New York Times,15,32
 2020-04-23,University Of Washington,15,33
-2020-04-23,Community Health Centers,16,28
 2020-04-23,European Union,16,29
 2020-04-23,Arizona State University,17,27
+2020-04-23,Community Health Centers,17,28
 2020-04-23,Drug Administration,18,26
-2020-04-23,European Commission,21,23
-2020-04-23,Massachusetts Senate On,21,24
-2020-04-23,Quest Diagnostics,21,25
+2020-04-23,European Commission,21,24
+2020-04-23,Massachusetts Senate On,21,25
+2020-04-23,Quest Diagnostics,22,23
 2020-04-23,Facebook,23,22
 2020-04-23,Ivy League,24,21
 2020-04-23,International Mother Earth Day,26,20
@@ -4027,16 +4027,16 @@ date,organization,count,rn
 2020-04-23,University Of Minnesota,38,14
 2020-04-23,Threat Analysis Group,39,12
 2020-04-23,Nan,41,11
-2020-04-23,Human Services,48,9
 2020-04-23,Tufts Medical Center,48,10
+2020-04-23,Human Services,49,9
 2020-04-23,Associated Press,54,8
 2020-04-23,Google,55,6
 2020-04-23,Harvard University,55,7
-2020-04-23,Department Of Public Health,57,4
 2020-04-23,World Health Organization,57,5
+2020-04-23,Department Of Public Health,58,4
 2020-04-23,Centers For Disease,67,3
-2020-04-23,White House,121,2
-2020-04-23,United States,142,1
+2020-04-23,White House,122,2
+2020-04-23,United States,144,1
 2020-04-24,Codman Square Health Center,7,49
 2020-04-24,Department Of Education,7,50
 2020-04-24,Community Health Centers,8,44
@@ -4069,8 +4069,8 @@ date,organization,count,rn
 2020-04-24,New York Times,24,22
 2020-04-24,University Of Chicago,25,20
 2020-04-24,Massachusetts Department Of Public Health,30,19
-2020-04-24,Nan,32,18
 2020-04-24,Centers For Disease,33,17
+2020-04-24,Nan,33,18
 2020-04-24,Health Office,34,16
 2020-04-24,National Institutes Of Health,36,15
 2020-04-24,Tufts Medical Center,37,14
@@ -4087,28 +4087,28 @@ date,organization,count,rn
 2020-04-24,World Health Organization,71,3
 2020-04-24,White House,74,2
 2020-04-24,United States,127,1
-2020-04-25,American Dental Association,4,43
-2020-04-25,Army Corps,4,44
-2020-04-25,Army Corps Of Engineers,4,45
-2020-04-25,Augmentation Medical Task,4,46
-2020-04-25,Bennett Medical Center,4,47
-2020-04-25,Community Develop Block Grant,4,48
-2020-04-25,Department Of Housing,4,49
-2020-04-25,Emergency Management Agency,4,50
-2020-04-25,Department Of Health,5,33
-2020-04-25,Harvard Medical School,5,34
-2020-04-25,Hasbro,5,35
-2020-04-25,Instagram,5,36
-2020-04-25,Massachusetts Senate On,5,37
-2020-04-25,Royal Health Group,5,38
-2020-04-25,Temple University,5,39
-2020-04-25,Territorial Health Officials,5,40
-2020-04-25,Tufts Medical Center,5,41
-2020-04-25,Umass Memorial Medical Center,5,42
+2020-04-25,American Dental Association,4,44
+2020-04-25,Army Corps,4,45
+2020-04-25,Army Corps Of Engineers,4,46
+2020-04-25,Augmentation Medical Task,4,47
+2020-04-25,Bennett Medical Center,4,48
+2020-04-25,Community Develop Block Grant,4,49
+2020-04-25,Department Of Housing,4,50
+2020-04-25,Department Of Health,5,34
+2020-04-25,Harvard Medical School,5,35
+2020-04-25,Hasbro,5,36
+2020-04-25,Instagram,5,37
+2020-04-25,Massachusetts Senate On,5,38
+2020-04-25,Royal Health Group,5,39
+2020-04-25,Temple University,5,40
+2020-04-25,Territorial Health Officials,5,41
+2020-04-25,Tufts Medical Center,5,42
+2020-04-25,Umass Memorial Medical Center,5,43
 2020-04-25,Google,6,29
 2020-04-25,Johns Hopkins Center,6,30
 2020-04-25,Massachusetts Supreme Judicial Court,6,31
-2020-04-25,University Of California,6,32
+2020-04-25,Office Of Health,6,32
+2020-04-25,University Of California,6,33
 2020-04-25,Beth Israel Deaconess Medical Center,7,26
 2020-04-25,Community Tracing Collaborative,7,27
 2020-04-25,Department Of Transitional Assistance,7,28
@@ -4118,13 +4118,13 @@ date,organization,count,rn
 2020-04-25,Harvard University,8,23
 2020-04-25,Partners In Health,8,24
 2020-04-25,Twitter,8,25
-2020-04-25,Department Of Public Health,9,19
-2020-04-25,Johns Hopkins University,10,16
-2020-04-25,Massachusetts Public Health,10,17
-2020-04-25,National Guard,10,18
-2020-04-25,Human Services,12,15
+2020-04-25,Johns Hopkins University,10,17
+2020-04-25,Massachusetts Public Health,10,18
+2020-04-25,National Guard,10,19
+2020-04-25,Department Of Public Health,11,16
 2020-04-25,Associated Press,14,13
 2020-04-25,Centers For Disease,14,14
+2020-04-25,Human Services,14,15
 2020-04-25,Infectious Disease Society Of America,15,11
 2020-04-25,Massachusetts Department Of Public Health,15,12
 2020-04-25,Nan,16,10
@@ -4233,10 +4233,10 @@ date,organization,count,rn
 2020-04-27,New York Times,23,7
 2020-04-27,White House,27,6
 2020-04-27,Human Services,31,5
-2020-04-27,Twitter,37,4
+2020-04-27,Twitter,38,4
 2020-04-27,Centers For Disease,42,3
 2020-04-27,Facebook,46,2
-2020-04-27,United States,70,1
+2020-04-27,United States,71,1
 2020-04-28,America Health,7,46
 2020-04-28,Department Of Developmental Services,7,47
 2020-04-28,Department Of Health,7,48
@@ -4280,10 +4280,10 @@ date,organization,count,rn
 2020-04-28,Office Of Health,26,10
 2020-04-28,Nan,27,9
 2020-04-28,Facebook,28,8
-2020-04-28,Department Of Public Health,29,7
+2020-04-28,Department Of Public Health,30,7
 2020-04-28,Cnn,34,5
 2020-04-28,White House,34,6
-2020-04-28,Centers For Disease,42,4
+2020-04-28,Centers For Disease,43,4
 2020-04-28,Harvard Medical School,44,3
 2020-04-28,Human Services,45,2
 2020-04-28,United States,95,1
@@ -4379,12 +4379,12 @@ date,organization,count,rn
 2020-04-30,Cnn,26,11
 2020-04-30,Reuters,29,10
 2020-04-30,Associated Press,33,9
-2020-04-30,Department Of Public Health,34,7
-2020-04-30,National Guard,34,8
+2020-04-30,Department Of Public Health,34,8
+2020-04-30,National Guard,35,7
 2020-04-30,Twitter,37,6
 2020-04-30,Human Services,40,5
 2020-04-30,Drug Administration,48,4
-2020-04-30,Centers For Disease,56,3
+2020-04-30,Centers For Disease,57,3
 2020-04-30,White House,77,2
 2020-04-30,United States,98,1
 2020-05-01,American Civil Liberties Union,6,43
@@ -4432,8 +4432,8 @@ date,organization,count,rn
 2020-05-01,National Guard,27,8
 2020-05-01,Nan,31,7
 2020-05-01,Facebook,37,6
-2020-05-01,Associated Press,41,5
-2020-05-01,White House,42,4
+2020-05-01,Associated Press,42,4
+2020-05-01,White House,42,5
 2020-05-01,Department Of Public Health,44,3
 2020-05-01,Centers For Disease,47,2
 2020-05-01,United States,70,1
@@ -4495,23 +4495,23 @@ date,organization,count,rn
 2020-05-03,Habitat For Humanity,6,44
 2020-05-03,Harvard College Conservation Society,6,45
 2020-05-03,Longroad Energy,6,46
-2020-05-03,Presbyterian Santa Fe Medical Center,6,47
-2020-05-03,Resources Group,6,48
-2020-05-03,Resources Group Inc,6,49
-2020-05-03,Solar Energy Industries Association,6,50
+2020-05-03,Resources Group,6,47
+2020-05-03,Resources Group Inc,6,48
+2020-05-03,Solar Energy Industries Association,6,49
+2020-05-03,Storage Association,6,50
 2020-05-03,Adam Square Baptist Church,7,36
 2020-05-03,Coronavirus Food Assistance Program,7,37
 2020-05-03,Harvard Global Health Institute,7,38
-2020-05-03,Harvard University,8,34
-2020-05-03,National Mall,8,35
+2020-05-03,Facebook,8,32
+2020-05-03,Harvard University,8,33
+2020-05-03,National Mall,8,34
+2020-05-03,Trader Joe,8,35
 2020-05-03,Cobble Hill Health Center,9,26
 2020-05-03,Coronavirus Relief Fund,9,27
 2020-05-03,Department Of Health,9,28
-2020-05-03,Facebook,9,29
-2020-05-03,Harvard Medical School,9,30
-2020-05-03,Massachusetts Department Of Public Health,9,31
-2020-05-03,Senate Majority Leader Mitch Mcconnell,9,32
-2020-05-03,Trader Joe,9,33
+2020-05-03,Harvard Medical School,9,29
+2020-05-03,Massachusetts Department Of Public Health,9,30
+2020-05-03,Senate Majority Leader Mitch Mcconnell,9,31
 2020-05-03,Athena Health Care Systems,10,21
 2020-05-03,Governor Office,10,22
 2020-05-03,Massachusetts Emergency Management Agency,10,23
@@ -4526,17 +4526,17 @@ date,organization,count,rn
 2020-05-03,World Health Organization,14,15
 2020-05-03,Human Services,15,13
 2020-05-03,National Guard,17,12
-2020-05-03,Jesus Church,19,11
-2020-05-03,White House,20,10
+2020-05-03,Jesus Church,19,10
+2020-05-03,White House,19,11
 2020-05-03,Twitter,21,9
 2020-05-03,Department Of Public Health,23,8
 2020-05-03,Adams Square Baptist Church,25,7
+2020-05-03,Walmart,26,5
 2020-05-03,Youtube,26,6
-2020-05-03,Walmart,27,5
 2020-05-03,United States,41,4
 2020-05-03,American Health Care Association,60,3
 2020-05-03,Democratic Party,64,2
-2020-05-03,Associated Press,95,1
+2020-05-03,Associated Press,93,1
 2020-05-04,Coronavirus Food Assistance Program,5,46
 2020-05-04,Harvard Global Health Institute,5,47
 2020-05-04,Melinda Gates Foundation,5,48
@@ -4562,30 +4562,30 @@ date,organization,count,rn
 2020-05-04,Northwell Health,10,29
 2020-05-04,Cobble Hill Health Center,12,26
 2020-05-04,World Health Organization,12,27
-2020-05-04,Us Department Of Health,13,25
-2020-05-04,Department Of Health,15,21
-2020-05-04,Gilead Sciences,15,22
-2020-05-04,Javits Convention Center,15,23
-2020-05-04,New York Times,15,24
-2020-05-04,Kaiser Family Foundation,16,19
-2020-05-04,Massachusetts Department Of Public Health,16,20
-2020-05-04,Office Of Safety,18,18
-2020-05-04,Facebook,20,17
+2020-05-04,Department Of Health,15,23
+2020-05-04,Javits Convention Center,15,24
+2020-05-04,New York Times,15,25
+2020-05-04,Kaiser Family Foundation,16,20
+2020-05-04,Massachusetts Department Of Public Health,16,21
+2020-05-04,Us Department Of Health,16,22
+2020-05-04,Gilead Sciences,18,18
+2020-05-04,Office Of Safety,18,19
 2020-05-04,Department Of Public Health,21,16
+2020-05-04,Facebook,21,17
 2020-05-04,Nan,22,13
 2020-05-04,Twitter,22,14
 2020-05-04,White House Coronavirus Task,22,15
-2020-05-04,Drug Administration,25,10
 2020-05-04,Johns Hopkins University,25,11
 2020-05-04,Police On,25,12
-2020-05-04,Centers For Disease,26,9
-2020-05-04,White House,31,8
-2020-05-04,Cnn,33,6
-2020-05-04,Human Services,33,7
+2020-05-04,Centers For Disease,26,10
+2020-05-04,Drug Administration,28,9
+2020-05-04,White House,32,8
+2020-05-04,Cnn,34,6
+2020-05-04,Human Services,34,7
 2020-05-04,Adams Square Baptist Church,36,5
 2020-05-04,American Health Care Association,37,3
 2020-05-04,Democratic Party,37,4
-2020-05-04,United States,49,2
+2020-05-04,United States,51,2
 2020-05-04,Associated Press,68,1
 2020-05-05,Democrats In Congress,5,45
 2020-05-05,Department Of Revenue,5,46
@@ -4593,8 +4593,7 @@ date,organization,count,rn
 2020-05-05,Federal Reserve,5,48
 2020-05-05,Google,5,49
 2020-05-05,Industries Of Massachusetts On,5,50
-2020-05-05,Economic Development,6,37
-2020-05-05,Justice Department,6,38
+2020-05-05,Economic Development,6,38
 2020-05-05,Kaiser Family Foundation,6,39
 2020-05-05,Linkedin,6,40
 2020-05-05,National Consumer Law Center,6,41
@@ -4605,18 +4604,19 @@ date,organization,count,rn
 2020-05-05,Agricultural Marketing Service,7,32
 2020-05-05,American Bankruptcy Institute Chapter,7,33
 2020-05-05,American College Of Obstetricians,7,34
-2020-05-05,National Association Of Consumer Bankruptcy Attorneys,7,35
-2020-05-05,Tribune Content Agency,7,36
-2020-05-05,Department Of Health,8,29
+2020-05-05,Justice Department,7,35
+2020-05-05,National Association Of Consumer Bankruptcy Attorneys,7,36
+2020-05-05,Tribune Content Agency,7,37
 2020-05-05,Massachusetts State Police,8,30
-2020-05-05,National Women Law Center,9,28
-2020-05-05,Harvard Medical School,10,25
-2020-05-05,Institute For Health Metrics,10,26
-2020-05-05,University Of Washington,10,27
-2020-05-05,Health Metrics Sciences,11,23
-2020-05-05,York Housing Authority,11,24
-2020-05-05,Justice Department Criminal Division,12,21
-2020-05-05,Nan,12,22
+2020-05-05,National Women Law Center,9,29
+2020-05-05,Harvard Medical School,10,26
+2020-05-05,Institute For Health Metrics,10,27
+2020-05-05,University Of Washington,10,28
+2020-05-05,Health Metrics Sciences,11,24
+2020-05-05,York Housing Authority,11,25
+2020-05-05,Department Of Health,12,21
+2020-05-05,Justice Department Criminal Division,12,22
+2020-05-05,Nan,12,23
 2020-05-05,Cnn,13,19
 2020-05-05,Massachusetts National Guard,13,20
 2020-05-05,Massachusetts Department Of Public Health,15,18
@@ -4628,32 +4628,32 @@ date,organization,count,rn
 2020-05-05,Quincy Health,26,12
 2020-05-05,Courtyard Nursing Care Center,27,10
 2020-05-05,Youtube,27,11
-2020-05-05,Facebook,28,9
-2020-05-05,Twitter,29,7
-2020-05-05,White House,29,8
+2020-05-05,Facebook,29,7
+2020-05-05,Twitter,29,8
+2020-05-05,White House,29,9
 2020-05-05,Associated Press,36,5
 2020-05-05,Paycheck Protection Program,36,6
 2020-05-05,Department Of Public Health,45,4
 2020-05-05,Centers For Disease,47,2
 2020-05-05,Walmart,47,3
 2020-05-05,United States,60,1
-2020-05-06,Centers For Medicare,6,48
-2020-05-06,Glen Ridge Nursing Care Center,6,49
-2020-05-06,Glen Ridge Nursing Center,6,50
-2020-05-06,American Heart Association,7,38
-2020-05-06,Children National Hospital,7,39
-2020-05-06,Columbia University Irving Medical Center,7,40
-2020-05-06,Democratic National Convention,7,41
-2020-05-06,Drug Administration,7,42
-2020-05-06,Emergency Management Agency,7,43
-2020-05-06,National Institute Of Allergy,7,44
-2020-05-06,Northwestern University,7,45
-2020-05-06,Royal College Of Pediatricians,7,46
-2020-05-06,University Of Washington,7,47
-2020-05-06,Cnn,8,34
-2020-05-06,National Institutes Of Health,8,35
-2020-05-06,Umass Memorial Medical Center,8,36
-2020-05-06,Young,8,37
+2020-05-06,American Heart Association,7,39
+2020-05-06,Centers For Medicare,7,40
+2020-05-06,Children National Hospital,7,41
+2020-05-06,Columbia University Irving Medical Center,7,42
+2020-05-06,Democratic National Convention,7,43
+2020-05-06,Emergency Management Agency,7,44
+2020-05-06,Glen Ridge Nursing Care Center,7,45
+2020-05-06,Glen Ridge Nursing Center,7,46
+2020-05-06,Medicaid Services,7,47
+2020-05-06,National Institute Of Allergy,7,48
+2020-05-06,Northwestern University,7,49
+2020-05-06,Response Command Center,7,50
+2020-05-06,Cnn,8,35
+2020-05-06,National Institutes Of Health,8,36
+2020-05-06,Umass Memorial Medical Center,8,37
+2020-05-06,Young,8,38
+2020-05-06,Drug Administration,9,34
 2020-05-06,Army Spc,10,26
 2020-05-06,Campaign Stars,10,27
 2020-05-06,Department Of Public Health On Wednesday,10,28
@@ -4669,36 +4669,36 @@ date,organization,count,rn
 2020-05-06,Agricultural Marketing Service,13,21
 2020-05-06,National Guardsmen,14,20
 2020-05-06,Associated Press,15,19
-2020-05-06,Quincy Health,17,17
-2020-05-06,White House,17,18
-2020-05-06,Holyoke Medical Center,18,14
-2020-05-06,Justice Department,18,15
-2020-05-06,New York Times,18,16
+2020-05-06,Quincy Health,17,18
+2020-05-06,Holyoke Medical Center,18,15
+2020-05-06,Justice Department,18,16
+2020-05-06,New York Times,18,17
 2020-05-06,Twitter,19,13
-2020-05-06,Human Services,21,12
+2020-05-06,White House,19,14
 2020-05-06,Department Of Revenue,22,10
 2020-05-06,Facebook,22,11
+2020-05-06,Human Services,22,12
 2020-05-06,Youtube,23,9
-2020-05-06,Courtyard Nursing Care Center,25,6
 2020-05-06,Nan,25,7
 2020-05-06,Walmart,25,8
+2020-05-06,Courtyard Nursing Care Center,26,6
 2020-05-06,Department Of Public Health,28,5
 2020-05-06,Massachusetts Department Of Public Health,31,4
-2020-05-06,National Guard,32,3
 2020-05-06,Centers For Disease,33,2
-2020-05-06,United States,59,1
+2020-05-06,National Guard,33,3
+2020-05-06,United States,61,1
 2020-05-07,Advisory Committee,4,49
 2020-05-07,Airlines For America,4,50
-2020-05-07,Department Of Health,5,42
-2020-05-07,Health Department,5,43
+2020-05-07,Department Of Health,5,43
 2020-05-07,Health Security,5,44
 2020-05-07,Jetblue,5,45
 2020-05-07,Massachusetts Army National Guard,5,46
 2020-05-07,Massachusetts Nurses Association,5,47
 2020-05-07,National Nurses Day,5,48
 2020-05-07,Dana-Farber Cancer Institute,6,39
-2020-05-07,Human Services,6,40
-2020-05-07,University Of Massachusetts,6,41
+2020-05-07,Health Department,6,40
+2020-05-07,Human Services,6,41
+2020-05-07,University Of Massachusetts,6,42
 2020-05-07,American Civil Liberties Union Of Massachusetts,7,23
 2020-05-07,American College Of Obstetricians,7,24
 2020-05-07,Children Nutrition Program,7,25
@@ -4987,56 +4987,56 @@ date,organization,count,rn
 2020-05-12,White House,30,4
 2020-05-12,Department Of Public Health,33,2
 2020-05-12,United States,58,1
-2020-05-13,Barclays,8,45
-2020-05-13,Biomedical Advanced Research,8,46
-2020-05-13,Development Authority,8,47
-2020-05-13,Federation Of State Public Interest Research Groups,8,48
-2020-05-13,Los Angeles International Airport,8,49
-2020-05-13,Massachusetts Nursing Association,8,50
-2020-05-13,American College Of Emergency Physicians,9,44
-2020-05-13,Adm,10,40
+2020-05-13,Barclays,8,44
+2020-05-13,Biomedical Advanced Research,8,45
+2020-05-13,Development Authority,8,46
+2020-05-13,Federation Of State Public Interest Research Groups,8,47
+2020-05-13,Los Angeles International Airport,8,48
+2020-05-13,Massachusetts Nursing Association,8,49
+2020-05-13,Means Committee,8,50
+2020-05-13,American College Of Emergency Physicians,9,43
+2020-05-13,Adm,10,39
+2020-05-13,Linkedin,10,40
 2020-05-13,Massachusetts Restaurant Association,10,41
-2020-05-13,Office Of Health,10,42
-2020-05-13,Supreme Court,10,43
+2020-05-13,Supreme Court,10,42
+2020-05-13,Google,11,38
 2020-05-13,Airlines For America,12,36
-2020-05-13,Google,12,37
-2020-05-13,Linkedin,12,38
-2020-05-13,World Health Organization,12,39
-2020-05-13,America Charities,13,28
-2020-05-13,Centers For Medicare Medicaid Services,13,29
+2020-05-13,World Health Organization,12,37
+2020-05-13,America Charities,13,27
+2020-05-13,Centers For Medicare Medicaid Services,13,28
+2020-05-13,Department Of Health,13,29
 2020-05-13,Employee Relief Fund,13,30
 2020-05-13,Health Insurance Plan Ratings,13,31
 2020-05-13,Medicaid Health Insurance Plan Ratings,13,32
 2020-05-13,National Committee For Quality Assurance,13,33
 2020-05-13,Tufts Health Plan,13,34
 2020-05-13,Tufts Health Plan Foundation,13,35
-2020-05-13,Department Of Health,14,27
 2020-05-13,Health Alert Network,15,25
 2020-05-13,York State Department Of Health,15,26
-2020-05-13,Nan,17,22
 2020-05-13,Pensions Committee,17,23
 2020-05-13,University Of California System,17,24
-2020-05-13,Senate Health,18,21
-2020-05-13,California State University,19,18
-2020-05-13,Harvard Medical School,19,19
+2020-05-13,Harvard Medical School,18,21
+2020-05-13,Senate Health,18,22
+2020-05-13,California State University,19,19
 2020-05-13,National Guard,19,20
-2020-05-13,Johns Hopkins University,20,16
-2020-05-13,Umass Medical School,20,17
-2020-05-13,Associated Press,21,14
-2020-05-13,University Of Massachusetts,21,15
-2020-05-13,Harvard Global Health Institute,22,13
-2020-05-13,Human Services,24,12
-2020-05-13,Centers For Disease,25,10
-2020-05-13,New York Times,25,11
-2020-05-13,Us Centers For Disease,31,9
-2020-05-13,National Institute Of Allergy,33,8
-2020-05-13,Drug Administration,35,7
-2020-05-13,Twitter,36,6
-2020-05-13,Facebook,37,5
-2020-05-13,Cnn,51,3
-2020-05-13,Department Of Public Health,51,4
-2020-05-13,White House,62,2
-2020-05-13,United States,87,1
+2020-05-13,Associated Press,20,15
+2020-05-13,Human Services,20,16
+2020-05-13,Johns Hopkins University,20,17
+2020-05-13,Umass Medical School,20,18
+2020-05-13,Harvard Global Health Institute,21,13
+2020-05-13,University Of Massachusetts,21,14
+2020-05-13,Nan,22,12
+2020-05-13,Centers For Disease,24,11
+2020-05-13,New York Times,25,10
+2020-05-13,National Institute Of Allergy,28,9
+2020-05-13,Us Centers For Disease,31,8
+2020-05-13,Drug Administration,32,7
+2020-05-13,Facebook,34,5
+2020-05-13,Twitter,34,6
+2020-05-13,Department Of Public Health,48,4
+2020-05-13,Cnn,50,3
+2020-05-13,White House,60,2
+2020-05-13,United States,85,1
 2020-05-14,Associated Press,9,45
 2020-05-14,Democratic National Committee,9,46
 2020-05-14,Department Of Revenue,9,47
@@ -5058,15 +5058,15 @@ date,organization,count,rn
 2020-05-14,New York Times,11,36
 2020-05-14,Public Higher Education Network Of Massachusetts,11,37
 2020-05-14,Senate Minority Leader Bruce Tarr,11,38
-2020-05-14,California State University,12,23
 2020-05-14,House Select Committee,12,24
 2020-05-14,Johns Hopkins University,12,25
 2020-05-14,National Institute Of Diabetes,12,26
 2020-05-14,Royal College Of Paediatrics,12,27
 2020-05-14,University Of California,12,28
 2020-05-14,Us Centers For Disease,12,29
-2020-05-14,Democratic Party,13,21
-2020-05-14,Linkedin,13,22
+2020-05-14,California State University,13,21
+2020-05-14,Democratic Party,13,22
+2020-05-14,Linkedin,13,23
 2020-05-14,Harvard Global Health Institute,14,20
 2020-05-14,Massachusetts Senate,15,19
 2020-05-14,National Institutes Of Health,16,18
@@ -5082,7 +5082,7 @@ date,organization,count,rn
 2020-05-14,Twitter,33,8
 2020-05-14,Facebook,42,6
 2020-05-14,Sinai Medical Center,42,7
-2020-05-14,White House,43,5
+2020-05-14,White House,44,5
 2020-05-14,Centers For Disease,50,4
 2020-05-14,Department Of Public Health,64,3
 2020-05-14,Cnn,78,2
@@ -5204,11 +5204,11 @@ date,organization,count,rn
 2020-05-17,Retailers Association Of Massachusetts,7,40
 2020-05-17,Robert Wood Johnson Foundation,7,41
 2020-05-17,Wisconsin Supreme Court,7,42
-2020-05-17,Department Of Health,8,30
-2020-05-17,Facebook,8,31
-2020-05-17,Human Services,8,32
+2020-05-17,Department Of Health,8,31
+2020-05-17,Facebook,8,32
 2020-05-17,Means Committee,8,33
-2020-05-17,Walmart,9,29
+2020-05-17,Human Services,9,29
+2020-05-17,Walmart,9,30
 2020-05-17,Massachusetts Department Of Public Health,10,27
 2020-05-17,Partners In Health,10,28
 2020-05-17,Cain Mechanicals,11,22
@@ -5234,7 +5234,7 @@ date,organization,count,rn
 2020-05-17,Adams Square Baptist Church,18,5
 2020-05-17,Islamic Society Of Western Massachusetts Mohammed Dastigir,18,6
 2020-05-17,Tribune Content Agency,19,4
-2020-05-17,Department Of Public Health,23,3
+2020-05-17,Department Of Public Health,24,3
 2020-05-17,United States,30,2
 2020-05-17,Centers For Disease,36,1
 2020-05-18,Area Planning Council,4,47
@@ -5269,11 +5269,11 @@ date,organization,count,rn
 2020-05-18,American Institute Of Certified Public Accountants,10,20
 2020-05-18,Harvard Medical School,10,21
 2020-05-18,Public Health,12,19
-2020-05-18,Human Services,13,17
 2020-05-18,Retailers Association Of Massachusetts,13,18
-2020-05-18,World Health Organization,14,16
+2020-05-18,World Health Organization,14,17
 2020-05-18,Drug Administration,15,14
 2020-05-18,Facebook,15,15
+2020-05-18,Human Services,15,16
 2020-05-18,Centers For Disease,16,11
 2020-05-18,Reuters,16,12
 2020-05-18,University Of California,16,13
@@ -5284,7 +5284,7 @@ date,organization,count,rn
 2020-05-18,Associated Press,27,6
 2020-05-18,American Academy Of Dermatology,29,5
 2020-05-18,Small Business Administration,30,4
-2020-05-18,Department Of Public Health,34,3
+2020-05-18,Department Of Public Health,36,3
 2020-05-18,Paycheck Protection Program,38,2
 2020-05-18,United States,45,1
 2020-05-19,Administrator Of The Centers For Medicare,6,50
@@ -5319,11 +5319,11 @@ date,organization,count,rn
 2020-05-19,Drug Administration,16,21
 2020-05-19,Reuters,16,22
 2020-05-19,New York Times,17,19
-2020-05-19,Cnn,18,15
 2020-05-19,Department Of Public Health,18,16
 2020-05-19,Johns Hopkins University,18,17
 2020-05-19,Northwestern University,18,18
-2020-05-19,University Of California,19,14
+2020-05-19,Cnn,19,14
+2020-05-19,University Of California,19,15
 2020-05-19,World Health Organization,21,13
 2020-05-19,Colonial Bowling Center,22,9
 2020-05-19,International Candlepin Bowling Association,22,10
@@ -5337,56 +5337,56 @@ date,organization,count,rn
 2020-05-19,Facebook,43,3
 2020-05-19,Associated Press,47,2
 2020-05-19,United States,88,1
-2020-05-20,American Academy Of Dermatology,1,29
-2020-05-20,Boston University,1,30
-2020-05-20,Canadian Wildlife Service,1,31
-2020-05-20,Cnn,1,32
-2020-05-20,Colorado State University,1,33
-2020-05-20,Company Contacts,1,34
-2020-05-20,Democratic House Campaign,1,35
-2020-05-20,Democratic Party,1,36
-2020-05-20,Department Of Transportation,1,37
-2020-05-20,Division Of Infectious Diseases,1,38
-2020-05-20,Federal Reserve Bank,1,39
-2020-05-20,Florida Democratic Party,1,40
-2020-05-20,Goldman Sachs,1,41
-2020-05-20,Kennedy Space Center,1,42
-2020-05-20,Lending Program,1,43
-2020-05-20,Long Term Ecological Research,1,44
-2020-05-20,Massachusetts Department Of Public Health,1,45
-2020-05-20,Massachusetts Department Of Transportation,1,46
-2020-05-20,Massachusetts High Tech Council,1,47
-2020-05-20,Massachusetts Restaurant Association,1,48
-2020-05-20,Mission Accomplished,1,49
-2020-05-20,National Institute Of Allergy,1,50
-2020-05-20,Associated Press,2,9
-2020-05-20,Big Oil,2,10
-2020-05-20,Centers For Medicare Medicaid Service,2,11
-2020-05-20,Community Involved In Sustaining Agriculture,2,12
-2020-05-20,Department Of Public Health On,2,13
-2020-05-20,Eastern Bank,2,14
-2020-05-20,Facebook,2,15
-2020-05-20,Federal Reserve,2,16
-2020-05-20,Harvard Medical School,2,17
-2020-05-20,Mark Jacobson Solutions,2,18
-2020-05-20,Massachusetts Republican Party,2,19
-2020-05-20,Nan,2,20
-2020-05-20,National Association Of State Budget Officers,2,21
-2020-05-20,New York Times,2,22
-2020-05-20,Northeastern University,2,23
-2020-05-20,Office Of Administration,2,24
-2020-05-20,Republican National Committee,2,25
-2020-05-20,Senate Banking Committee,2,26
-2020-05-20,United States,2,27
-2020-05-20,White House,2,28
-2020-05-20,Department Of Public Health,3,7
-2020-05-20,Drug Administration,3,8
-2020-05-20,Twitter,4,6
-2020-05-20,Friendly,5,2
-2020-05-20,Good Shepard Lutheran Church,5,3
-2020-05-20,Helen Mother Of The Emperor Constantine Church,5,4
-2020-05-20,Sacred Heart Church,5,5
-2020-05-20,Massachusetts Council Of Churches,6,1
+2020-05-20,Department Of Corrections,5,40
+2020-05-20,Harvard Medical School,5,41
+2020-05-20,Massachusetts Department Of Public Health,5,42
+2020-05-20,Medicare Services,5,43
+2020-05-20,Miami Winter Party Festival David Mack,5,44
+2020-05-20,National Center,5,45
+2020-05-20,Nissan,5,46
+2020-05-20,Pioneer Institute,5,47
+2020-05-20,Treasury Department,5,48
+2020-05-20,Trump Administration,5,49
+2020-05-20,Walmart,5,50
+2020-05-20,Google,6,34
+2020-05-20,Health Security In Baltimore,6,35
+2020-05-20,Massachusetts Council Of Churches,6,36
+2020-05-20,Miami Beach For Winter Party Festival,6,37
+2020-05-20,Symmons Industries,6,38
+2020-05-20,Yale University,6,39
+2020-05-20,Johns Hopkins Center,7,29
+2020-05-20,National Guard,7,30
+2020-05-20,National Institute Of Allergy,7,31
+2020-05-20,Suffolk University,7,32
+2020-05-20,Tufts Medical Center,7,33
+2020-05-20,Department Of Health,8,24
+2020-05-20,Human Services,8,25
+2020-05-20,Lending Program,8,26
+2020-05-20,Paycheck Protection Program,8,27
+2020-05-20,Retailers Association Of Massachusetts,8,28
+2020-05-20,Cnn,9,20
+2020-05-20,Drug Administration,9,21
+2020-05-20,Winter Party,9,22
+2020-05-20,Youtube,9,23
+2020-05-20,Beth Israel Deaconess Medical Center,11,17
+2020-05-20,Reuters,11,18
+2020-05-20,Umass Memorial Health Care,11,19
+2020-05-20,Facebook,12,14
+2020-05-20,New York Times,12,15
+2020-05-20,Senate Banking Committee,12,16
+2020-05-20,Federal Reserve,13,13
+2020-05-20,Mcdonald,14,12
+2020-05-20,Amerispeak Panel,15,10
+2020-05-20,Nan,15,11
+2020-05-20,Twitter,16,9
+2020-05-20,Department Of Public Health,17,8
+2020-05-20,Public Affairs Research,23,7
+2020-05-20,Centers For Disease,24,6
+2020-05-20,White House,27,5
+2020-05-20,Associated Press,28,4
+2020-05-20,Supreme Court,31,3
+2020-05-20,United States,33,2
+2020-05-20,Instagram,34,1
 2020-05-21,Tufts Medical Center,10,50
 2020-05-21,Department Of Defense,11,45
 2020-05-21,National Institute Of Allergy,11,46
@@ -5737,3 +5737,53 @@ date,organization,count,rn
 2020-05-27,Human Services,29,3
 2020-05-27,Associated Press,38,2
 2020-05-27,United States,43,1
+2020-05-28,Adams National Historical Park,5,45
+2020-05-28,Alliance Health,5,46
+2020-05-28,Alliance Health At West Acres,5,47
+2020-05-28,Athena Health Care Systems,5,48
+2020-05-28,Baptist Church,5,49
+2020-05-28,Colony Center,5,50
+2020-05-28,Delta Air Lines,6,42
+2020-05-28,Sam Club,6,43
+2020-05-28,Worcester Polytechnic Institute,6,44
+2020-05-28,American Airlines,9,35
+2020-05-28,Harvard Medical School,9,36
+2020-05-28,Harvard University,9,37
+2020-05-28,Human Services,9,38
+2020-05-28,Human Services Marylou Sudders,9,39
+2020-05-28,Lehigh University,9,40
+2020-05-28,Life Care Centers Of America,9,41
+2020-05-28,Cnn,10,34
+2020-05-28,Facebook,11,33
+2020-05-28,Apparel Group Ltd,13,15
+2020-05-28,Clearbridge Compensation Group,13,16
+2020-05-28,Covia Holdings Corp,13,17
+2020-05-28,Delta Air Lines Inc,13,18
+2020-05-28,Federal Reserve,13,19
+2020-05-28,Hilton Worldwide Holdings Inc,13,20
+2020-05-28,Lewis Co,13,21
+2020-05-28,Red Robin,13,22
+2020-05-28,Red Robin Gourmet Burgers Inc,13,23
+2020-05-28,Signet Jewelers Ltd,13,24
+2020-05-28,Sirius Xm,13,25
+2020-05-28,Sirius Xm Holdings Inc,13,26
+2020-05-28,Sonic Automotive Inc,13,27
+2020-05-28,Thomson Reuters,13,28
+2020-05-28,Thomson Reuters Corp,13,29
+2020-05-28,Uber Technologies Inc,13,30
+2020-05-28,White House,13,31
+2020-05-28,Workshop Inc,13,32
+2020-05-28,Exchange Commission,14,14
+2020-05-28,American Council On Education,15,9
+2020-05-28,Centers For Disease,15,10
+2020-05-28,Defense Department,15,11
+2020-05-28,Institute Of International Education,15,12
+2020-05-28,New York Times,15,13
+2020-05-28,Massachusetts Department Of Public Health,16,8
+2020-05-28,Nan,17,7
+2020-05-28,Reuters,19,6
+2020-05-28,Department Of Public Health,22,5
+2020-05-28,Associated Press,24,3
+2020-05-28,Life Care Center,24,4
+2020-05-28,Twitter,26,2
+2020-05-28,United States,66,1

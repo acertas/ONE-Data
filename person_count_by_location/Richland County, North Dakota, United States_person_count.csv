@@ -23,55 +23,55 @@ date,person,count,rn
 2020-02-20,Steve Lurie,1,22
 2020-02-20,Teddi Mellencamp,1,23
 2020-02-20,Wang Zhonglin,1,24
-2020-02-28,Aaron Zelinsky,1,1
+2020-02-28,Adam Levy,1,1
 2020-02-28,Ann Wagner R-Mo,1,2
 2020-02-28,Bashir Adigun,1,3
 2020-02-28,Ben Rich,1,4
 2020-02-28,Bernie Sander,1,5
-2020-02-28,Buzzfeed Nidhi Prakash,1,6
-2020-02-28,Caitlin Oprysko,1,7
-2020-02-28,Cara Anna,1,8
-2020-02-28,Claudia Tenney,1,9
-2020-02-28,Dan Grattan,1,10
-2020-02-28,Dan Strumpf,1,11
-2020-02-28,David Lauter,1,12
-2020-02-28,David Leiter,1,13
-2020-02-28,Donie Osullivan,1,14
-2020-02-28,Earl Pomeroy,1,15
-2020-02-28,Elise Pickering,1,16
-2020-02-28,Elise Stefanik,1,17
-2020-02-28,Fred Graefe,1,18
-2020-02-28,Hunter Biden,1,19
-2020-02-28,Jake Pearson,1,20
-2020-02-28,Jared Kushner,1,21
-2020-02-28,Jeff Jensen,1,22
-2020-02-28,Jeff Krilla,1,23
-2020-02-28,John Durham,1,24
-2020-02-28,Jonathan Kravis,1,25
-2020-02-28,Josh Gerstein,1,26
-2020-02-28,Julie Conway,1,27
-2020-02-28,Kathryn Lehman,1,28
-2020-02-28,Kristine Blackwood,1,29
-2020-02-28,Larry Seyfried,1,30
+2020-02-28,Bernie Sanders,1,6
+2020-02-28,Buzzfeed Nidhi Prakash,1,7
+2020-02-28,Caitlin Oprysko,1,8
+2020-02-28,Cara Anna,1,9
+2020-02-28,Cathy Mcmorris Rodgers R-Wash,1,10
+2020-02-28,Claudia Tenney,1,11
+2020-02-28,Collin Binkley,1,12
+2020-02-28,Dan Grattan,1,13
+2020-02-28,Dave Joyce R-Ohio,1,14
+2020-02-28,David Leiter,1,15
+2020-02-28,David Lim,1,16
+2020-02-28,Elise Pickering,1,17
+2020-02-28,Elise Stefanik,1,18
+2020-02-28,Elizabeth Warren,1,19
+2020-02-28,Fred Graefe,1,20
+2020-02-28,Jake Pearson,1,21
+2020-02-28,Jared Kushner,1,22
+2020-02-28,Jeff Jensen,1,23
+2020-02-28,Jeff Krilla,1,24
+2020-02-28,John Durham,1,25
+2020-02-28,Jonathan Kravis,1,26
+2020-02-28,Josh Gerstein,1,27
+2020-02-28,Julie Conway,1,28
+2020-02-28,Kathryn Lehman,1,29
+2020-02-28,Kristine Blackwood,1,30
 2020-02-28,Lisa Murkowski R-Alaska,1,31
 2020-02-28,Los Angeles,1,32
-2020-02-28,Lucia Lebens,1,33
-2020-02-28,Marianne Levine,1,34
-2020-02-28,Martha Roby R-Ala,1,35
-2020-02-28,Max Richtman,1,36
-2020-02-28,Melanie Rhinehart,1,37
+2020-02-28,Marianne Levine,1,33
+2020-02-28,Martha Roby R-Ala,1,34
+2020-02-28,Max Richtman,1,35
+2020-02-28,Melanie Rhinehart,1,36
+2020-02-28,Melike Yetken,1,37
 2020-02-28,Michael Cohen,1,38
 2020-02-28,Michael Flynn,1,39
-2020-02-28,Mike Bloomberg,1,40
-2020-02-28,Milo Jeffrey Krilla,1,41
-2020-02-28,Pete Buttigieg,1,42
-2020-02-28,Richard Donoghue,1,43
-2020-02-28,Robert Hunter Biden,1,44
-2020-02-28,Robert Khuzami,1,45
-2020-02-28,Ron Estes R-Kan,1,46
-2020-02-28,Sam Lancaster,1,47
-2020-02-28,Sara Fagen,1,48
-2020-02-28,Scott Fry,1,49
+2020-02-28,Michael Obrien,1,40
+2020-02-28,Mike Bloomberg,1,41
+2020-02-28,Milo Jeffrey Krilla,1,42
+2020-02-28,Pete Buttigieg,1,43
+2020-02-28,Richard Donoghue,1,44
+2020-02-28,Robert Hunter Biden,1,45
+2020-02-28,Robert Khuzami,1,46
+2020-02-28,Ron Estes R-Kan,1,47
+2020-02-28,Sam Lancaster,1,48
+2020-02-28,Sara Fagen,1,49
 2020-02-28,Steve Womack R-Ark,1,50
 2020-02-29,Bernie Sanders,1,2
 2020-02-29,Crysty Vaughan,1,3
@@ -1165,19 +1165,32 @@ date,person,count,rn
 2020-05-19,Tom Swayngham,1,2
 2020-05-20,Alex Susskind,1,1
 2020-05-20,Ashley Christensen,1,2
-2020-05-20,Craig Richards,1,3
-2020-05-20,Dale Benerofe,1,4
-2020-05-20,Danny Meyer,1,5
-2020-05-20,Elliott Davis,1,6
-2020-05-20,George Washington,1,7
-2020-05-20,Lyla Lila,1,8
-2020-05-20,Marilyn Monroe,1,9
-2020-05-20,Natalie Chanin,1,10
-2020-05-20,Ola Garcia,1,11
-2020-05-20,Patrick Oconnell,1,12
-2020-05-20,Rick Davis,1,13
-2020-05-20,Roberto Velasco,1,14
-2020-05-20,Tonia Wilson,1,15
+2020-05-20,Bernie Sanders,1,3
+2020-05-20,Craig Richards,1,4
+2020-05-20,Dale Benerofe,1,5
+2020-05-20,Dale Treace,1,6
+2020-05-20,Danny Meyer,1,7
+2020-05-20,Donald Trump,1,8
+2020-05-20,Elliott Davis,1,9
+2020-05-20,George Washington,1,10
+2020-05-20,Hillary Clinton,1,11
+2020-05-20,James Gray,1,12
+2020-05-20,Lyla Lila,1,13
+2020-05-20,Marilyn Monroe,1,14
+2020-05-20,Mark Caudill,1,15
+2020-05-20,Natalie Chanin,1,16
+2020-05-20,Ola Garcia,1,17
+2020-05-20,Pam Bautz,1,18
+2020-05-20,Patrick Oconnell,1,19
+2020-05-20,Paulette Hankins,1,20
+2020-05-20,Reed Richmond,1,21
+2020-05-20,Reid Millard,1,22
+2020-05-20,Rick Davis,1,23
+2020-05-20,Robert Wilkie,1,24
+2020-05-20,Roberto Velasco,1,25
+2020-05-20,Tonia Wilson,1,26
+2020-05-20,Troy Williams,1,27
+2020-05-20,Young Marines,1,28
 2020-05-21,Chris Whitmire,1,1
 2020-05-21,David Stukus,1,2
 2020-05-21,James Gray,1,3
@@ -1231,3 +1244,8 @@ date,person,count,rn
 2020-05-27,Steve Cook,1,22
 2020-05-27,Tim Copsey,1,23
 2020-05-27,Tyrell Williams,1,24
+2020-05-28,David Stukus,1,1
+2020-05-28,Mike Dewine,1,2
+2020-05-28,Nan,1,3
+2020-05-28,Peter Van Runkle,1,4
+2020-05-28,Zach Tuggle,1,5

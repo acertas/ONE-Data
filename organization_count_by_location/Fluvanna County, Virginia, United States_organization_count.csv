@@ -3581,7 +3581,6 @@ date,organization,count,rn
 2020-04-23,Senate Democrats,7,47
 2020-04-23,Senate Minority Leader Tommy Norment,7,48
 2020-04-23,Virginia Hospital Healthcare Association,7,49
-2020-04-23,American Health Care Association,8,30
 2020-04-23,Banner University Medical Center,8,31
 2020-04-23,Central Vermont Medical Center,8,32
 2020-04-23,Fralin Biomedical Research Institute,8,33
@@ -3596,32 +3595,33 @@ date,organization,count,rn
 2020-04-23,Virginia Division Of Consolidated Laboratory Services,8,42
 2020-04-23,Virginia Health,8,43
 2020-04-23,Workforce Development Advisor Megan Healy,8,44
-2020-04-23,Drug Administration,9,25
-2020-04-23,Prince William Health District,9,26
-2020-04-23,Rappahannock Health District,9,27
-2020-04-23,Virginia Employment Commission,9,28
-2020-04-23,Virginia National Guard,9,29
-2020-04-23,Corporation Commission,10,20
-2020-04-23,Nan,10,21
+2020-04-23,American Health Care Association,9,25
+2020-04-23,Drug Administration,9,26
+2020-04-23,Prince William Health District,9,27
+2020-04-23,Rappahannock Health District,9,28
+2020-04-23,Virginia Employment Commission,9,29
+2020-04-23,Virginia National Guard,9,30
+2020-04-23,Corporation Commission,10,21
 2020-04-23,Peninsula Health District,10,22
 2020-04-23,Trump Administration,10,23
 2020-04-23,Virginia Science Museum,10,24
 2020-04-23,Department Of Motor Vehicles,11,18
 2020-04-23,Filler,11,19
-2020-04-23,Cnn,14,15
-2020-04-23,Human Services,14,16
+2020-04-23,Nan,11,20
+2020-04-23,Cnn,14,16
 2020-04-23,Virginia State Police,14,17
+2020-04-23,Human Services,15,15
 2020-04-23,National Guard,17,14
 2020-04-23,Supreme Court,19,13
-2020-04-23,Facebook,20,12
+2020-04-23,Facebook,21,12
 2020-04-23,Centers For Disease,24,11
 2020-04-23,Science Museum Of Virginia,29,10
 2020-04-23,American Navy,37,7
 2020-04-23,Security Council,37,8
 2020-04-23,United States Navy,37,9
 2020-04-23,United Nations,38,6
-2020-04-23,Virginia Department Of Health,40,5
-2020-04-23,Associated Press,42,4
+2020-04-23,Associated Press,42,5
+2020-04-23,Virginia Department Of Health,43,4
 2020-04-23,Twitter,44,3
 2020-04-23,White House,58,2
 2020-04-23,United States,77,1
@@ -3663,11 +3663,11 @@ date,organization,count,rn
 2020-04-24,National Guard,15,14
 2020-04-24,New York Times,15,15
 2020-04-24,Paycheck Protection Program,15,16
-2020-04-24,Google,16,11
-2020-04-24,Walmart,16,12
+2020-04-24,Google,16,12
 2020-04-24,Facebook,17,8
 2020-04-24,Oval Office,17,9
 2020-04-24,Technology Directorate,17,10
+2020-04-24,Walmart,17,11
 2020-04-24,Emergency Management Agency,20,7
 2020-04-24,Department Of Homeland Security,21,6
 2020-04-24,Associated Press,26,5
@@ -3680,28 +3680,28 @@ date,organization,count,rn
 2020-04-25,Congressional Budget Office,4,48
 2020-04-25,Development Authority,4,49
 2020-04-25,Google,4,50
-2020-04-25,American Health Care Association,5,34
-2020-04-25,Bon Secours Mercy Medical Group In Portsmouth,5,35
-2020-04-25,Cabinet Health,5,36
-2020-04-25,Centers For Medicare,5,37
-2020-04-25,Department Of Homeland Security,5,38
-2020-04-25,Oval Office,5,39
-2020-04-25,Reuters,5,40
-2020-04-25,Technology Directorate,5,41
-2020-04-25,Thomas Jefferson Health District,5,42
-2020-04-25,Virginia Alcoholic Beverage Control Authority,5,43
-2020-04-25,Virginia Department Of Emergency Management,5,44
+2020-04-25,American Health Care Association,5,35
+2020-04-25,Bon Secours Mercy Medical Group In Portsmouth,5,36
+2020-04-25,Cabinet Health,5,37
+2020-04-25,Centers For Medicare,5,38
+2020-04-25,Department Of Homeland Security,5,39
+2020-04-25,Oval Office,5,40
+2020-04-25,Reuters,5,41
+2020-04-25,Technology Directorate,5,42
+2020-04-25,Thomas Jefferson Health District,5,43
+2020-04-25,Virginia Alcoholic Beverage Control Authority,5,44
 2020-04-25,Virginia State Police,5,45
-2020-04-25,Cnn,6,27
-2020-04-25,Emergency Management Agency,6,28
-2020-04-25,Health Department,6,29
-2020-04-25,Johns Hopkins University,6,30
-2020-04-25,Virginia University,6,31
-2020-04-25,World Health Organization,6,32
-2020-04-25,Youtube,6,33
-2020-04-25,Nan,7,25
-2020-04-25,Walmart,7,26
-2020-04-25,Virginia Commonwealth University,8,24
+2020-04-25,Cnn,6,29
+2020-04-25,Health Department,6,30
+2020-04-25,Johns Hopkins University,6,31
+2020-04-25,Virginia University,6,32
+2020-04-25,World Health Organization,6,33
+2020-04-25,Youtube,6,34
+2020-04-25,Nan,7,26
+2020-04-25,Virginia Department Of Emergency Management,7,27
+2020-04-25,Walmart,7,28
+2020-04-25,Emergency Management Agency,8,24
+2020-04-25,Virginia Commonwealth University,8,25
 2020-04-25,Corporation Commission,9,14
 2020-04-25,Marine Corps Base Quantico,9,15
 2020-04-25,Peninsula Acting Health,9,16
@@ -3717,7 +3717,7 @@ date,organization,count,rn
 2020-04-25,Department Of Motor Vehicles,12,11
 2020-04-25,Supreme Court,13,9
 2020-04-25,Virginia National Guard,13,10
-2020-04-25,Associated Press,14,8
+2020-04-25,Associated Press,15,8
 2020-04-25,National Guard,16,7
 2020-04-25,Twitter,21,5
 2020-04-25,White House,21,6
@@ -3725,30 +3725,30 @@ date,organization,count,rn
 2020-04-25,United States,27,3
 2020-04-25,Centers For Disease,29,2
 2020-04-25,Virginia Department Of Health,34,1
-2020-04-26,Affinity Health Services,3,43
-2020-04-26,Business Task,3,44
-2020-04-26,Centers For Disease Control Prevention,3,45
-2020-04-26,Healthcare Center,3,46
-2020-04-26,Human Services Daniel Carey,3,47
-2020-04-26,Indiana Regional Medical Center,3,48
-2020-04-26,Kroger,3,49
-2020-04-26,Loyola Law School In Los Angeles,3,50
-2020-04-26,Fairfax Health District,4,27
-2020-04-26,Falls Church,4,28
-2020-04-26,Healthcare Association,4,29
-2020-04-26,Javits Center,4,30
-2020-04-26,Marine Corps Base Quantico,4,31
-2020-04-26,Peninsula Acting Health,4,32
-2020-04-26,Prince William Health District,4,33
-2020-04-26,Rappahannock Health District,4,34
-2020-04-26,Rappahannock-Rapidan Health District,4,35
-2020-04-26,University Of Florida,4,36
-2020-04-26,Virginia Commonwealth University,4,37
-2020-04-26,Virginia Division Of Consolidated Laboratory Services,4,38
-2020-04-26,Virginia National Guard,4,39
-2020-04-26,Workforce Development Advisor Megan Healy,4,40
-2020-04-26,World Health Organization,4,41
-2020-04-26,York University School Of Law Brennan Center,4,42
+2020-04-26,Affinity Health Services,3,44
+2020-04-26,Business Task,3,45
+2020-04-26,Centers For Disease Control Prevention,3,46
+2020-04-26,Healthcare Center,3,47
+2020-04-26,Human Services Daniel Carey,3,48
+2020-04-26,Indiana Regional Medical Center,3,49
+2020-04-26,Kroger,3,50
+2020-04-26,Emergency Management Agency,4,27
+2020-04-26,Fairfax Health District,4,28
+2020-04-26,Falls Church,4,29
+2020-04-26,Healthcare Association,4,30
+2020-04-26,Javits Center,4,31
+2020-04-26,Marine Corps Base Quantico,4,32
+2020-04-26,Peninsula Acting Health,4,33
+2020-04-26,Prince William Health District,4,34
+2020-04-26,Rappahannock Health District,4,35
+2020-04-26,Rappahannock-Rapidan Health District,4,36
+2020-04-26,University Of Florida,4,37
+2020-04-26,Virginia Commonwealth University,4,38
+2020-04-26,Virginia Division Of Consolidated Laboratory Services,4,39
+2020-04-26,Virginia National Guard,4,40
+2020-04-26,Workforce Development Advisor Megan Healy,4,41
+2020-04-26,World Health Organization,4,42
+2020-04-26,York University School Of Law Brennan Center,4,43
 2020-04-26,Census Bureau,5,18
 2020-04-26,Corporation Commission,5,19
 2020-04-26,Johns Hopkins University,5,20
@@ -3775,12 +3775,12 @@ date,organization,count,rn
 2020-04-26,United States,16,3
 2020-04-26,Centers For Disease,19,2
 2020-04-26,Virginia Department Of Health,24,1
-2020-04-27,Drug Administration,8,48
 2020-04-27,Fairfax Health District,8,49
 2020-04-27,Google,8,50
-2020-04-27,Johns Hopkins University,9,45
-2020-04-27,Louisiana Center,9,46
-2020-04-27,Virginia University,9,47
+2020-04-27,Drug Administration,9,45
+2020-04-27,Johns Hopkins University,9,46
+2020-04-27,Louisiana Center,9,47
+2020-04-27,Virginia University,9,48
 2020-04-27,Falls Church,10,38
 2020-04-27,Kroger,10,39
 2020-04-27,National Governors Association,10,40
@@ -3793,13 +3793,13 @@ date,organization,count,rn
 2020-04-27,Virginia Hospital Healthcare Association,11,35
 2020-04-27,Virginia Senate,11,36
 2020-04-27,Walmart,11,37
-2020-04-27,Department Of Juvenile Justice,13,30
-2020-04-27,Nan,13,31
+2020-04-27,Department Of Juvenile Justice,13,31
 2020-04-27,Virginia Health,13,32
 2020-04-27,Associated Press,14,26
 2020-04-27,Manson Youth Institution,14,27
-2020-04-27,New York Times,14,28
-2020-04-27,World Health Organization,14,29
+2020-04-27,Nan,14,28
+2020-04-27,New York Times,14,29
+2020-04-27,World Health Organization,14,30
 2020-04-27,Law Center,15,24
 2020-04-27,National Guard,15,25
 2020-04-27,Legal Aid Justice Center,16,20
@@ -3825,37 +3825,37 @@ date,organization,count,rn
 2020-04-27,Bon Air Juvenile Correctional Center,35,3
 2020-04-27,Virginia Department Of Health,51,2
 2020-04-27,United States,57,1
-2020-04-28,Msnbc,7,49
-2020-04-28,Nan,7,50
+2020-04-28,Msnbc,7,50
 2020-04-28,Accordius Health Harrisonburg,8,43
 2020-04-28,Caddo Juvenile Detention Center,8,44
 2020-04-28,Healthcare Association,8,45
-2020-04-28,Republican Senate,8,46
-2020-04-28,Senate Republican,8,47
-2020-04-28,World Health Organization,8,48
-2020-04-28,Cargill,9,35
-2020-04-28,Human Services,9,36
+2020-04-28,Nan,8,46
+2020-04-28,Republican Senate,8,47
+2020-04-28,Senate Republican,8,48
+2020-04-28,World Health Organization,8,49
+2020-04-28,Cargill,9,36
 2020-04-28,International Society For Traumatic Stress,9,37
 2020-04-28,Lord Fairfax Health District,9,38
 2020-04-28,Reuters,9,39
 2020-04-28,Stanford University Professor Debra Kaysen,9,40
 2020-04-28,Tyson Foods,9,41
 2020-04-28,Walmart,9,42
+2020-04-28,Human Services,10,35
 2020-04-28,Health System University Hospital,11,34
 2020-04-28,Virginia University,13,33
 2020-04-28,Manson Youth Institution,14,31
 2020-04-28,New York Daily News,14,32
 2020-04-28,National Suicide Prevention Lifeline,15,30
 2020-04-28,Association Of Virginia Gun,16,29
-2020-04-28,Cnn,18,26
 2020-04-28,Facebook,18,27
 2020-04-28,Prisoner Health,18,28
-2020-04-28,Virginia Citizens Defense League,19,25
-2020-04-28,Columbia University Irving Medical Center,20,21
-2020-04-28,Department Of Health,20,22
+2020-04-28,Cnn,19,25
+2020-04-28,Virginia Citizens Defense League,19,26
+2020-04-28,Columbia University Irving Medical Center,20,22
 2020-04-28,Maryland Court,20,23
 2020-04-28,Virginia Department Of Corrections,20,24
-2020-04-28,New York Times,21,20
+2020-04-28,Department Of Health,21,21
+2020-04-28,New York Times,22,20
 2020-04-28,University Of Virginia,23,19
 2020-04-28,Administration For Children Services,24,7
 2020-04-28,Bon Air Juvenile Correctional Center,24,8
@@ -3872,47 +3872,47 @@ date,organization,count,rn
 2020-04-28,Associated Press,25,6
 2020-04-28,Twitter,27,4
 2020-04-28,Virginia Department,27,5
-2020-04-28,White House,28,3
-2020-04-28,Virginia Department Of Health,44,2
-2020-04-28,United States,65,1
-2020-04-29,Administration For Children Services,6,47
-2020-04-29,American College Of Emergency Physicians,6,48
-2020-04-29,Bon Air Juvenile Correctional Center,6,49
-2020-04-29,Crossroads Juvenile Center,6,50
-2020-04-29,Department Of Health,7,40
-2020-04-29,Emergency Management Agency,7,41
-2020-04-29,Pennsylvania Supreme Court,7,42
-2020-04-29,Republican Party Of Virginia,7,43
-2020-04-29,University Of Virginia,7,44
-2020-04-29,University Of Washington,7,45
-2020-04-29,Virginia Department Of Juvenile Justice,7,46
-2020-04-29,Columbia University Irving Medical Center,8,29
-2020-04-29,Department Of Motor Vehicles,8,30
-2020-04-29,Marine Corps Base Quantico,8,31
-2020-04-29,Nan,8,32
-2020-04-29,Peninsula Acting Health,8,33
-2020-04-29,Prince William Health District,8,34
-2020-04-29,Rappahannock Health District,8,35
-2020-04-29,Rappahannock-Rapidan Health District,8,36
-2020-04-29,Virginia Division Of Consolidated Laboratory Services,8,37
-2020-04-29,Virginia National Guard,8,38
-2020-04-29,Workforce Development Advisor Megan Healy,8,39
-2020-04-29,National Guard,9,26
-2020-04-29,Virginia Health,9,27
-2020-04-29,Young,9,28
-2020-04-29,American Civil Liberties Union,10,20
+2020-04-28,White House,29,3
+2020-04-28,Virginia Department Of Health,45,2
+2020-04-28,United States,66,1
+2020-04-29,Administration For Children Services,6,48
+2020-04-29,American College Of Emergency Physicians,6,49
+2020-04-29,Bon Air Juvenile Correctional Center,6,50
+2020-04-29,Department Of Health,7,42
+2020-04-29,Emergency Management Agency,7,43
+2020-04-29,Pennsylvania Supreme Court,7,44
+2020-04-29,University Of Virginia,7,45
+2020-04-29,University Of Washington,7,46
+2020-04-29,Virginia Department Of Juvenile Justice,7,47
+2020-04-29,Columbia University Irving Medical Center,8,31
+2020-04-29,Department Of Motor Vehicles,8,32
+2020-04-29,Marine Corps Base Quantico,8,33
+2020-04-29,Nan,8,34
+2020-04-29,Peninsula Acting Health,8,35
+2020-04-29,Prince William Health District,8,36
+2020-04-29,Rappahannock Health District,8,37
+2020-04-29,Rappahannock-Rapidan Health District,8,38
+2020-04-29,Virginia Division Of Consolidated Laboratory Services,8,39
+2020-04-29,Virginia National Guard,8,40
+2020-04-29,Workforce Development Advisor Megan Healy,8,41
+2020-04-29,National Guard,9,27
+2020-04-29,Virginia Department Of Elections,9,28
+2020-04-29,Virginia Health,9,29
+2020-04-29,Young,9,30
 2020-04-29,Corporation Commission,10,21
 2020-04-29,Human Services,10,22
 2020-04-29,Msnbc,10,23
 2020-04-29,Peninsula Health District,10,24
-2020-04-29,Supreme Court,10,25
-2020-04-29,Virginia Department,11,17
-2020-04-29,Virginia Employment Commission,11,18
-2020-04-29,Virginia Hospital Healthcare Association,11,19
-2020-04-29,Fairfax Health District,12,15
-2020-04-29,Falls Church,12,16
-2020-04-29,Tyson Foods,13,13
-2020-04-29,Youtube,13,14
+2020-04-29,Republican Party Of Virginia,10,25
+2020-04-29,Supreme Court,10,26
+2020-04-29,Virginia Department,11,18
+2020-04-29,Virginia Employment Commission,11,19
+2020-04-29,Virginia Hospital Healthcare Association,11,20
+2020-04-29,Fairfax Health District,12,16
+2020-04-29,Falls Church,12,17
+2020-04-29,American Civil Liberties Union,13,13
+2020-04-29,Tyson Foods,13,14
+2020-04-29,Youtube,13,15
 2020-04-29,Trump Administration,14,11
 2020-04-29,Virginia University,14,12
 2020-04-29,Google,15,10
@@ -3924,7 +3924,7 @@ date,organization,count,rn
 2020-04-29,White House,41,4
 2020-04-29,Virginia Department Of Health,42,3
 2020-04-29,Centers For Disease,50,2
-2020-04-29,United States,58,1
+2020-04-29,United States,61,1
 2020-04-30,American Airlines,7,37
 2020-04-30,American College Of Emergency Physicians,7,38
 2020-04-30,Biocomplexity Institute,7,39
@@ -3935,10 +3935,10 @@ date,organization,count,rn
 2020-04-30,Convention Center To Be,7,44
 2020-04-30,Governor Calls Out Liberty University,7,45
 2020-04-30,Health Dan Carey,7,46
-2020-04-30,Health Dr,7,47
-2020-04-30,Liberty University,7,48
-2020-04-30,Mental Health Services Administration,7,49
-2020-04-30,National Children Alliance,7,50
+2020-04-30,Health Department,7,47
+2020-04-30,Health Dr,7,48
+2020-04-30,Liberty University,7,49
+2020-04-30,Mental Health Services Administration,7,50
 2020-04-30,Childhelp National Child Abuse Hotline,8,31
 2020-04-30,Drug Administration,8,32
 2020-04-30,Family Services Agency,8,33
@@ -3952,14 +3952,14 @@ date,organization,count,rn
 2020-04-30,Healthcare Association,9,28
 2020-04-30,Johns Hopkins University,9,29
 2020-04-30,Virginia Department Of Housing,9,30
-2020-04-30,Virginia Department Of Corrections,10,21
 2020-04-30,Virginia University,10,22
 2020-04-30,Writers Randall Chase In Dover,10,23
-2020-04-30,Department Of Health,11,17
 2020-04-30,Google,11,18
 2020-04-30,National Guard,11,19
 2020-04-30,Virginia Department,11,20
-2020-04-30,University Of Virginia,12,16
+2020-04-30,Virginia Department Of Corrections,11,21
+2020-04-30,Department Of Health,12,16
+2020-04-30,University Of Virginia,12,17
 2020-04-30,Circuit Court,14,14
 2020-04-30,Reuters,14,15
 2020-04-30,Cnn,15,13
@@ -3971,8 +3971,8 @@ date,organization,count,rn
 2020-04-30,Facebook,23,6
 2020-04-30,Tyson Foods,23,7
 2020-04-30,Emergency Management Agency,32,5
-2020-04-30,White House,35,4
-2020-04-30,Virginia Department Of Health,36,3
+2020-04-30,White House,36,4
+2020-04-30,Virginia Department Of Health,37,3
 2020-04-30,Centers For Disease,45,2
 2020-04-30,United States,47,1
 2020-05-01,Associated Press,6,47
@@ -4127,17 +4127,17 @@ date,organization,count,rn
 2020-05-03,United States,37,1
 2020-05-04,Google,7,49
 2020-05-04,Human Services,7,50
-2020-05-04,Anchorage Capital Group,8,42
-2020-05-04,Associated Press,8,43
+2020-05-04,Anchorage Capital Group,8,43
 2020-05-04,Fauquier Health,8,44
 2020-05-04,Healthcare Association,8,45
 2020-05-04,Nan,8,46
 2020-05-04,National Mall,8,47
 2020-05-04,Paycheck Protection Program,8,48
-2020-05-04,Drug Administration,9,38
-2020-05-04,Johns Hopkins University,9,39
-2020-05-04,Prince William Health District On,9,40
-2020-05-04,World Health Organization,9,41
+2020-05-04,Associated Press,9,38
+2020-05-04,Drug Administration,9,39
+2020-05-04,Johns Hopkins University,9,40
+2020-05-04,Prince William Health District On,9,41
+2020-05-04,World Health Organization,9,42
 2020-05-04,Mexico Social Security Institute,11,37
 2020-05-04,Health Ministry,13,35
 2020-05-04,United Nations,13,36
@@ -4173,8 +4173,8 @@ date,organization,count,rn
 2020-05-04,Supreme Court,42,5
 2020-05-04,Lighthouse Fellowship Church,44,4
 2020-05-04,United States,54,3
-2020-05-04,Justice Department,59,1
-2020-05-04,Virginia Department Of Health,59,2
+2020-05-04,Justice Department,59,2
+2020-05-04,Virginia Department Of Health,60,1
 2020-05-05,Corporation Commission,5,50
 2020-05-05,Falls Church,6,44
 2020-05-05,Fauquier Health,6,45
@@ -4225,9 +4225,10 @@ date,organization,count,rn
 2020-05-05,United States,34,3
 2020-05-05,Associated Press,37,2
 2020-05-05,White House,40,1
-2020-05-06,Cnn,5,47
-2020-05-06,New York Times,5,48
-2020-05-06,Virginia Department Of Elections,5,49
+2020-05-06,Cnn,5,46
+2020-05-06,New York Times,5,47
+2020-05-06,Virginia Department Of Elections,5,48
+2020-05-06,Virginia Health Department,5,49
 2020-05-06,Virginia Hospital Healthcare Association,5,50
 2020-05-06,Britain National Cyber Security Centre,6,40
 2020-05-06,Human Services,6,41
@@ -4235,17 +4236,16 @@ date,organization,count,rn
 2020-05-06,Johns Hopkins University,6,43
 2020-05-06,Supreme Court,6,44
 2020-05-06,Us Navy Super Hornet,6,45
-2020-05-06,Virginia Health Department,6,46
 2020-05-06,University Of Virginia,7,39
-2020-05-06,Emergency Management Agency,8,37
-2020-05-06,Nan,8,38
+2020-05-06,Emergency Management Agency,8,38
 2020-05-06,Chippewa National Forest,9,30
 2020-05-06,Drug Administration,9,31
-2020-05-06,Public Safety Officers Benefits Program,9,32
-2020-05-06,Us Air,9,33
-2020-05-06,Us Army,9,34
-2020-05-06,Us Naval War College,9,35
-2020-05-06,Us Navy,9,36
+2020-05-06,Nan,9,32
+2020-05-06,Public Safety Officers Benefits Program,9,33
+2020-05-06,Us Air,9,34
+2020-05-06,Us Army,9,35
+2020-05-06,Us Naval War College,9,36
+2020-05-06,Us Navy,9,37
 2020-05-06,Department Of Corrections,10,26
 2020-05-06,Facebook,10,27
 2020-05-06,Tennessee Supreme Court,10,28
@@ -4261,8 +4261,8 @@ date,organization,count,rn
 2020-05-06,Virginia University,15,17
 2020-05-06,Honeywell,16,16
 2020-05-06,Centers For Disease,22,15
+2020-05-06,Virginia Department Of Health,23,14
 2020-05-06,Nuclear Forces Treaty,24,13
-2020-05-06,Virginia Department Of Health,24,14
 2020-05-06,Senate Armed Services Committee On,26,12
 2020-05-06,Associated Press,29,6
 2020-05-06,Lockheed Martin,29,7
@@ -4312,8 +4312,8 @@ date,organization,count,rn
 2020-05-07,Virginia National Guard,12,18
 2020-05-07,Emergency Management Agency,13,14
 2020-05-07,Paycheck Protection Program,13,15
-2020-05-07,Nan,14,12
 2020-05-07,Virginia Hospital Healthcare Association,14,13
+2020-05-07,Nan,15,12
 2020-05-07,Department Of Health,17,11
 2020-05-07,Department Of Justice,18,10
 2020-05-07,White House Coronavirus Task,19,9
@@ -4331,10 +4331,10 @@ date,organization,count,rn
 2020-05-08,Human Services,6,46
 2020-05-08,International Department,6,47
 2020-05-08,Writer Henry Kurz,6,48
-2020-05-08,Johns Hopkins University,7,43
 2020-05-08,Trader Joe,7,44
-2020-05-08,Korea Centers For Disease,8,41
-2020-05-08,White House,8,42
+2020-05-08,Johns Hopkins University,8,42
+2020-05-08,Korea Centers For Disease,8,43
+2020-05-08,White House,9,41
 2020-05-08,Corporation Commission,10,30
 2020-05-08,Department Of Motor Vehicles,10,31
 2020-05-08,Fauquier Health,10,32
@@ -4350,30 +4350,30 @@ date,organization,count,rn
 2020-05-08,Reuters,11,27
 2020-05-08,United Nations,11,28
 2020-05-08,Virginia Employment Commission,11,29
-2020-05-08,Department Of Justice,12,21
-2020-05-08,Falls Church,12,22
-2020-05-08,National Guard,12,23
+2020-05-08,Department Of Justice,12,22
+2020-05-08,Falls Church,12,23
 2020-05-08,Peninsula Health District,12,24
 2020-05-08,Virginia Health Department,12,25
-2020-05-08,Virginia Health,13,20
+2020-05-08,National Guard,13,20
+2020-05-08,Virginia Health,13,21
 2020-05-08,Costco Wholesale Club,15,15
 2020-05-08,Mcdonald,15,16
 2020-05-08,Retail Industry Leaders Association,15,17
 2020-05-08,Sam Club In Fullerton,15,18
 2020-05-08,Walgreens,15,19
 2020-05-08,Centers For Disease,16,14
-2020-05-08,Family Dollar,17,11
-2020-05-08,Virginia National Guard,17,12
+2020-05-08,Family Dollar,17,12
 2020-05-08,Workers International Union,17,13
-2020-05-08,Walmart,18,10
+2020-05-08,Virginia National Guard,18,10
+2020-05-08,Walmart,18,11
 2020-05-08,Supreme Court,19,9
 2020-05-08,Twitter,22,8
 2020-05-08,Facebook,25,7
 2020-05-08,White House Coronavirus Task,28,6
 2020-05-08,Justice Department,29,5
 2020-05-08,Virginia Department Of Health,32,4
-2020-05-08,Associated Press,35,2
 2020-05-08,Lighthouse Fellowship Church,35,3
+2020-05-08,Associated Press,36,2
 2020-05-08,United States,38,1
 2020-05-09,Airlines For America,4,39
 2020-05-09,Catholic Church,4,40
@@ -4667,8 +4667,8 @@ date,organization,count,rn
 2020-05-14,Facebook,10,11
 2020-05-14,Falls Church,11,10
 2020-05-14,Cnn,12,9
-2020-05-14,Bureau Of Prisons,13,7
 2020-05-14,Supreme Court,13,8
+2020-05-14,Bureau Of Prisons,15,7
 2020-05-14,Justice Department,18,6
 2020-05-14,Associated Press,20,5
 2020-05-14,Centers For Disease,23,4
@@ -4720,7 +4720,7 @@ date,organization,count,rn
 2020-05-15,Falls Church,22,6
 2020-05-15,National Guard,22,7
 2020-05-15,Senate Majority Leader Mitch Mcconnell,22,8
-2020-05-15,Centers For Disease,27,5
+2020-05-15,Centers For Disease,28,5
 2020-05-15,Trump Administration,31,4
 2020-05-15,White House,38,3
 2020-05-15,Virginia Department Of Health,47,2
@@ -4862,18 +4862,18 @@ date,organization,count,rn
 2020-05-18,Prince William Health District,11,16
 2020-05-18,Supreme Court,11,17
 2020-05-18,Facebook,12,14
-2020-05-18,Alzheimer Association,13,5
-2020-05-18,Centers For Medicare,13,6
-2020-05-18,Department Of Social Services,13,7
-2020-05-18,Kaiser Family Foundation,13,8
-2020-05-18,Medicaid Services,13,9
-2020-05-18,Office Of The State Long,13,10
-2020-05-18,United States,13,11
+2020-05-18,Alzheimer Association,13,6
+2020-05-18,Centers For Medicare,13,7
+2020-05-18,Department Of Social Services,13,8
+2020-05-18,Kaiser Family Foundation,13,9
+2020-05-18,Medicaid Services,13,10
+2020-05-18,Office Of The State Long,13,11
 2020-05-18,Virginia Center,13,12
 2020-05-18,Virginia Health Care Association,13,13
-2020-05-18,White House,17,4
+2020-05-18,United States,14,5
+2020-05-18,White House,18,4
 2020-05-18,National Guard,21,3
-2020-05-18,Centers For Disease,25,2
+2020-05-18,Centers For Disease,26,2
 2020-05-18,Virginia Department Of Health,40,1
 2020-05-19,Corporation Commission,5,37
 2020-05-19,Drug Administration,5,38
@@ -4925,56 +4925,56 @@ date,organization,count,rn
 2020-05-19,Virginia Department Of Health,29,3
 2020-05-19,United States,38,2
 2020-05-19,White House,42,1
-2020-05-20,Business Development Strategist,1,37
-2020-05-20,Caregiver Services Corps,1,38
-2020-05-20,City Council,1,39
-2020-05-20,Company Contacts,1,40
-2020-05-20,Cortana Place Acquisitions,1,41
-2020-05-20,Crew Janci,1,42
-2020-05-20,Defense Department,1,43
-2020-05-20,Developer Seefried Industrial Properties,1,44
-2020-05-20,Dillard,1,45
-2020-05-20,Dl Investments,1,46
-2020-05-20,Dorothy Hart Community Center,1,47
-2020-05-20,Facebook,1,48
-2020-05-20,Farmers To Families Food Box Program,1,49
-2020-05-20,Hazardous Materials Safety Administration,1,50
-2020-05-20,Christ United Methodist Church,2,16
-2020-05-20,Civil Rights Division,2,17
-2020-05-20,Cnn,2,18
-2020-05-20,Department Of Agriculture,2,19
-2020-05-20,Department Of Health,2,20
-2020-05-20,Department Of Justice,2,21
-2020-05-20,Department Of Veterans Affairs,2,22
-2020-05-20,Federal Reserve,2,23
-2020-05-20,Food Box Distribution Program,2,24
-2020-05-20,Harvard Global Health Institute,2,25
-2020-05-20,Instagram,2,26
-2020-05-20,Johns Hopkins University,2,27
-2020-05-20,Justice Department On,2,28
-2020-05-20,Kate Collins Middle School,2,29
-2020-05-20,National Institutes Of Health,2,30
-2020-05-20,Senate Banking Committee,2,31
-2020-05-20,Staunton City Council,2,32
-2020-05-20,Staunton City School Board,2,33
-2020-05-20,United Nations,2,34
-2020-05-20,Veterans Affairs,2,35
-2020-05-20,Virginia Department Of Elections,2,36
-2020-05-20,Associated Press,3,6
-2020-05-20,Coronavirus Food Assistance Program,3,7
-2020-05-20,Farm Bureau,3,8
-2020-05-20,Human Services,3,9
-2020-05-20,Senate Majority Leader Mitch Mcconnell,3,10
-2020-05-20,Trump Administration,3,11
-2020-05-20,United States Department Of Agriculture,3,12
-2020-05-20,Virginia Department Of Health,3,13
-2020-05-20,Virginia Farm Bureau State Board,3,14
-2020-05-20,World Health Organization,3,15
-2020-05-20,Department Of Public Health,4,3
-2020-05-20,Supreme Court,4,4
-2020-05-20,United States,4,5
-2020-05-20,Georgia Department Of Public Health,5,2
-2020-05-20,White House,8,1
+2020-05-20,A Department Of Justice,4,37
+2020-05-20,Accordius Health Harrisonburg,4,38
+2020-05-20,Augusta Health,4,39
+2020-05-20,California Gov,4,40
+2020-05-20,Cargill,4,41
+2020-05-20,Christ United Methodist Church,4,42
+2020-05-20,Corporation Commission,4,43
+2020-05-20,Department Of Agriculture,4,44
+2020-05-20,Department Of Motor Vehicles,4,45
+2020-05-20,Department Of Public Health,4,46
+2020-05-20,Department Of Veterans Affairs,4,47
+2020-05-20,Fairfax Health District,4,48
+2020-05-20,Fauquier Health,4,49
+2020-05-20,Food Box Distribution Program,4,50
+2020-05-20,Falls Church,5,31
+2020-05-20,Federal Reserve,5,32
+2020-05-20,Georgia Department Of Public Health,5,33
+2020-05-20,Prince William Health District,5,34
+2020-05-20,United Nations,5,35
+2020-05-20,Virginia Health Department,5,36
+2020-05-20,Farm Bureau,6,22
+2020-05-20,Health Department,6,23
+2020-05-20,National Institutes Of Health,6,24
+2020-05-20,New York Times,6,25
+2020-05-20,Peninsula Health District,6,26
+2020-05-20,United States Department Of Agriculture,6,27
+2020-05-20,Virginia Department Of Elections,6,28
+2020-05-20,Virginia Employment Commission,6,29
+2020-05-20,Virginia Farm Bureau State Board,6,30
+2020-05-20,Coronavirus Food Assistance Program,7,18
+2020-05-20,Senate Majority Leader Mitch Mcconnell,7,19
+2020-05-20,Virginia Hospital Healthcare Association,7,20
+2020-05-20,Virginia State Police,7,21
+2020-05-20,Civil Rights Division,8,14
+2020-05-20,Cnn,8,15
+2020-05-20,Department Of Justice,8,16
+2020-05-20,Justice Department On,8,17
+2020-05-20,Johns Hopkins University,9,12
+2020-05-20,World Health Organization,9,13
+2020-05-20,Associated Press,10,9
+2020-05-20,Supreme Court,10,10
+2020-05-20,Trump Administration,10,11
+2020-05-20,Centers For Disease,12,6
+2020-05-20,Human Services,12,7
+2020-05-20,United States,12,8
+2020-05-20,Department Of Health,15,4
+2020-05-20,Twitter,15,5
+2020-05-20,Facebook,16,3
+2020-05-20,White House,24,2
+2020-05-20,Virginia Department Of Health,25,1
 2020-05-21,American Airlines,4,45
 2020-05-21,Bylaws Committee,4,46
 2020-05-21,City Council,4,47
@@ -5325,3 +5325,53 @@ date,organization,count,rn
 2020-05-27,Associated Press,20,3
 2020-05-27,White House,21,2
 2020-05-27,Virginia Department Of Health,22,1
+2020-05-28,American Civil Liberties Union,4,41
+2020-05-28,Arby,4,42
+2020-05-28,Burger King,4,43
+2020-05-28,City Council,4,44
+2020-05-28,Department Of Agriculture,4,45
+2020-05-28,Emergency Management Agency,4,46
+2020-05-28,Harvard Law School,4,47
+2020-05-28,House Committee On Education,4,48
+2020-05-28,Justice Department,4,49
+2020-05-28,Labor Committee Workforce Protections Subcommittee,4,50
+2020-05-28,American Heart Association Stroke Council,5,38
+2020-05-28,Stroke Center,5,39
+2020-05-28,Virginia State Police,5,40
+2020-05-28,Nan,6,36
+2020-05-28,Virginia Supreme Court,6,37
+2020-05-28,Fairfax Health District,7,22
+2020-05-28,Falls Church,7,23
+2020-05-28,Fauquier Health,7,24
+2020-05-28,Marine Corps Base Quantico,7,25
+2020-05-28,Peninsula Acting Health,7,26
+2020-05-28,Rappahannock Health District,7,27
+2020-05-28,Rappahannock-Rapidan Health District,7,28
+2020-05-28,Virginia Center,7,29
+2020-05-28,Virginia Division Of Consolidated Laboratory Services,7,30
+2020-05-28,Virginia Employment Commission,7,31
+2020-05-28,Virginia Health,7,32
+2020-05-28,Virginia Hospital Healthcare Association,7,33
+2020-05-28,White House,7,34
+2020-05-28,Workforce Development Advisor Megan Healy,7,35
+2020-05-28,Associated Press,8,18
+2020-05-28,Department Of Motor Vehicles,8,19
+2020-05-28,Peninsula Health District,8,20
+2020-05-28,Trump Administration,8,21
+2020-05-28,Corporation Commission,9,13
+2020-05-28,Department Of Health,9,14
+2020-05-28,National Guard,9,15
+2020-05-28,United States,9,16
+2020-05-28,Virginia Health Department,9,17
+2020-05-28,George Mason University,10,8
+2020-05-28,Health Administration,10,9
+2020-05-28,Labor Department,10,10
+2020-05-28,Prince William Health District,10,11
+2020-05-28,Senate Democrats,10,12
+2020-05-28,Supreme Court,11,6
+2020-05-28,Virginia University,11,7
+2020-05-28,Twitter,13,5
+2020-05-28,Virginia National Guard,15,4
+2020-05-28,Facebook,17,3
+2020-05-28,Centers For Disease,27,2
+2020-05-28,Virginia Department Of Health,36,1

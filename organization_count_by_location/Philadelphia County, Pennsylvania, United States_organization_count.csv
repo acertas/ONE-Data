@@ -3346,8 +3346,8 @@ date,organization,count,rn
 2020-04-25,Bryant Family Foundation,1,46
 2020-04-25,Center City,1,47
 2020-04-25,Central Texas Food Bank,1,48
-2020-04-25,Cnn,1,49
-2020-04-25,Columbia University,1,50
+2020-04-25,Cigna,1,49
+2020-04-25,Citizens Bank,1,50
 2020-04-25,Art Science Group,2,16
 2020-04-25,Associated Press,2,17
 2020-04-25,Banana Republic,2,18
@@ -3583,30 +3583,30 @@ date,organization,count,rn
 2020-04-29,City University Of New York,34,3
 2020-04-29,Facebook,42,2
 2020-04-29,United States,52,1
-2020-04-30,American Enterprise Institute,4,44
-2020-04-30,Aviation Administration,4,45
-2020-04-30,Catholic Church,4,46
+2020-04-30,American Enterprise Institute,4,42
+2020-04-30,Aviation Administration,4,43
+2020-04-30,Catholic Church,4,44
+2020-04-30,City Council,4,45
+2020-04-30,European Union,4,46
 2020-04-30,Google,4,47
 2020-04-30,Justice Department,4,48
 2020-04-30,Roman Catholic Church,4,49
 2020-04-30,Ruth Chris Steak House,4,50
-2020-04-30,Army Corps Of Engineers,5,35
-2020-04-30,Center City,5,36
-2020-04-30,City Council,5,37
-2020-04-30,Corona Center,5,38
-2020-04-30,Dog Center,5,39
-2020-04-30,Navy Comfort,5,40
-2020-04-30,Paycheck Protection Program,5,41
-2020-04-30,Spanish Health,5,42
-2020-04-30,Youtube,5,43
+2020-04-30,Army Corps Of Engineers,5,34
+2020-04-30,Center City,5,35
+2020-04-30,Corona Center,5,36
+2020-04-30,Dog Center,5,37
+2020-04-30,Navy Comfort,5,38
+2020-04-30,Paycheck Protection Program,5,39
+2020-04-30,Spanish Health,5,40
+2020-04-30,Youtube,5,41
 2020-04-30,A Navy,6,27
-2020-04-30,European Union,6,28
-2020-04-30,London School Of Hygiene Tropical Medicine,6,29
-2020-04-30,National Guard,6,30
-2020-04-30,Southeast Veteran Center,6,31
-2020-04-30,Twitter,6,32
-2020-04-30,Veterans Affairs,6,33
-2020-04-30,Wellness Center,6,34
+2020-04-30,London School Of Hygiene Tropical Medicine,6,28
+2020-04-30,National Guard,6,29
+2020-04-30,Southeast Veteran Center,6,30
+2020-04-30,Twitter,6,31
+2020-04-30,Veterans Affairs,6,32
+2020-04-30,Wellness Center,6,33
 2020-04-30,Centers For Disease,7,12
 2020-04-30,Department Of Health,7,13
 2020-04-30,Dizzy Club,7,14
@@ -3623,16 +3623,16 @@ date,organization,count,rn
 2020-04-30,Smithsonian,7,25
 2020-04-30,Thelonious Monk Institute Of Jazz,7,26
 2020-04-30,Hospital Of The University Of Pennsylvania,8,11
-2020-04-30,Temple University,12,8
-2020-04-30,University Of Pennsylvania,12,9
-2020-04-30,World Health Organization,12,10
-2020-04-30,City University Of New York,13,6
-2020-04-30,George Washington University,13,7
-2020-04-30,Associated Press,14,4
-2020-04-30,Columbia University,14,5
-2020-04-30,Microsoft,16,3
-2020-04-30,Facebook,23,2
-2020-04-30,United States,37,1
+2020-04-30,City University Of New York,9,8
+2020-04-30,George Washington University,9,9
+2020-04-30,World Health Organization,9,10
+2020-04-30,Columbia University,10,7
+2020-04-30,Microsoft,12,4
+2020-04-30,Temple University,12,5
+2020-04-30,University Of Pennsylvania,12,6
+2020-04-30,Associated Press,13,3
+2020-04-30,Facebook,19,2
+2020-04-30,United States,35,1
 2020-05-01,Bloomberg,4,35
 2020-05-01,Bureau Of Prisons,4,36
 2020-05-01,Catholic Human Services,4,37
@@ -3983,12 +3983,11 @@ date,organization,count,rn
 2020-05-07,Department Of Health,6,3
 2020-05-07,Supreme Court,6,4
 2020-05-07,United States,20,1
-2020-05-08,Children National Hospital,3,41
-2020-05-08,Community Legal Services Of Philadelphia,3,42
-2020-05-08,Department Of Labor Industry,3,43
-2020-05-08,Harvard Medical School,3,44
-2020-05-08,Main Line Health,3,45
-2020-05-08,National Institute Of Allergy,3,46
+2020-05-08,Children National Hospital,3,42
+2020-05-08,Community Legal Services Of Philadelphia,3,43
+2020-05-08,Department Of Labor Industry,3,44
+2020-05-08,Harvard Medical School,3,45
+2020-05-08,Main Line Health,3,46
 2020-05-08,Nemours Children Health System,3,47
 2020-05-08,Ochsner Medical Center,3,48
 2020-05-08,Paycheck Protection Program,3,49
@@ -4001,9 +4000,10 @@ date,organization,count,rn
 2020-05-08,Fire Department,4,35
 2020-05-08,Gilead Sciences,4,36
 2020-05-08,Health Department,4,37
-2020-05-08,National Institutes Of Health,4,38
-2020-05-08,Temple University Hospital,4,39
-2020-05-08,Tribune Content Agency,4,40
+2020-05-08,National Institute Of Allergy,4,38
+2020-05-08,National Institutes Of Health,4,39
+2020-05-08,Temple University Hospital,4,40
+2020-05-08,Tribune Content Agency,4,41
 2020-05-08,Bethune Elementary School,5,16
 2020-05-08,Bethune Elementary School On,5,17
 2020-05-08,Calvary Church,5,18
@@ -4018,21 +4018,21 @@ date,organization,count,rn
 2020-05-08,Port Authority Bus Terminal In Manhattan,5,27
 2020-05-08,School District,5,28
 2020-05-08,Science Leadership Academy,5,29
-2020-05-08,Centers For Disease,6,9
 2020-05-08,Department Of Health,6,10
 2020-05-08,Hospital Of The University Of Pennsylvania,6,11
 2020-05-08,Human Services,6,12
 2020-05-08,Southern Poverty Law Center,6,13
 2020-05-08,World Health Organization,6,14
 2020-05-08,Yosemite Falls In Yosemite National Park,6,15
-2020-05-08,White House,7,8
+2020-05-08,Centers For Disease,7,8
+2020-05-08,White House,7,9
 2020-05-08,Kings Canyon National Parks,11,7
 2020-05-08,Aramark,12,6
 2020-05-08,Twitter,13,5
 2020-05-08,Associated Press,14,4
 2020-05-08,Yosemite National Park,15,3
 2020-05-08,Facebook,16,2
-2020-05-08,United States,19,1
+2020-05-08,United States,20,1
 2020-05-09,Book Website Character Lab,2,13
 2020-05-09,Carnegie Mellon University,2,14
 2020-05-09,Center On Reinventing Public Education,2,15
@@ -4183,53 +4183,53 @@ date,organization,count,rn
 2020-05-11,Temple University,14,3
 2020-05-11,Facebook,17,2
 2020-05-11,United States,24,1
-2020-05-12,Amtrak,3,38
-2020-05-12,Brennan Center,3,39
-2020-05-12,Democratic Party,3,40
-2020-05-12,Department Of Community,3,41
-2020-05-12,Department Of Economic Opportunity,3,42
-2020-05-12,Economic Development,3,43
-2020-05-12,High School,3,44
-2020-05-12,Human Services,3,45
-2020-05-12,Instagram,3,46
-2020-05-12,Morris,3,47
-2020-05-12,National Guard,3,48
-2020-05-12,National Law Enforcement Memorial,3,49
-2020-05-12,National Police Week,3,50
+2020-05-12,Amtrak,3,40
+2020-05-12,Brennan Center,3,41
+2020-05-12,Commonwealth Court,3,42
+2020-05-12,Democratic Party,3,43
+2020-05-12,Department Of Economic Opportunity,3,44
+2020-05-12,Governor Office,3,45
+2020-05-12,High School,3,46
+2020-05-12,Human Services,3,47
+2020-05-12,Instagram,3,48
+2020-05-12,Morris,3,49
+2020-05-12,National Guard,3,50
 2020-05-12,African American Museum,4,12
 2020-05-12,African American Museum Of Philadelphia,4,13
 2020-05-12,Art Museum,4,14
 2020-05-12,Associated Press,4,15
 2020-05-12,Barnes Foundation,4,16
 2020-05-12,Cultural Fund,4,17
-2020-05-12,Department Of Special Collections,4,18
-2020-05-12,Firestone Library,4,19
-2020-05-12,Franklin Institute,4,20
-2020-05-12,Free Library,4,21
-2020-05-12,Funding For The African American Museum,4,22
-2020-05-12,Hospital Of The University Of Pennsylvania,4,23
-2020-05-12,Independence National Historic Park,4,24
-2020-05-12,International Affairs,4,25
-2020-05-12,Manuscripts Division,4,26
-2020-05-12,New York Times,4,27
-2020-05-12,Office Of Arts,4,28
-2020-05-12,Office Of The City Representative,4,29
-2020-05-12,Princeton Institute For International,4,30
-2020-05-12,Princeton University Library,4,31
-2020-05-12,Princeton University Library Special Collections,4,32
-2020-05-12,Program In Latin American,4,33
-2020-05-12,Reuters,4,34
-2020-05-12,University Of Pennsylvania,4,35
-2020-05-12,Vanderbilt University,4,36
-2020-05-12,Woodrow Wilson School Of Public,4,37
-2020-05-12,Center City,5,4
-2020-05-12,Cnn,5,5
-2020-05-12,Facebook,5,6
+2020-05-12,Department Of Community,4,18
+2020-05-12,Department Of Special Collections,4,19
+2020-05-12,Economic Development,4,20
+2020-05-12,Firestone Library,4,21
+2020-05-12,Franklin Institute,4,22
+2020-05-12,Free Library,4,23
+2020-05-12,Funding For The African American Museum,4,24
+2020-05-12,Hospital Of The University Of Pennsylvania,4,25
+2020-05-12,Independence National Historic Park,4,26
+2020-05-12,International Affairs,4,27
+2020-05-12,Manuscripts Division,4,28
+2020-05-12,New York Times,4,29
+2020-05-12,Office Of Arts,4,30
+2020-05-12,Office Of The City Representative,4,31
+2020-05-12,Princeton Institute For International,4,32
+2020-05-12,Princeton University Library,4,33
+2020-05-12,Princeton University Library Special Collections,4,34
+2020-05-12,Program In Latin American,4,35
+2020-05-12,Reuters,4,36
+2020-05-12,University Of Pennsylvania,4,37
+2020-05-12,Vanderbilt University,4,38
+2020-05-12,Woodrow Wilson School Of Public,4,39
+2020-05-12,Center City,5,5
+2020-05-12,Cnn,5,6
 2020-05-12,Nan,5,7
 2020-05-12,Temple University,5,8
 2020-05-12,Twitter,5,9
 2020-05-12,University Of Pittsburgh,5,10
 2020-05-12,World Health Organization,5,11
+2020-05-12,Facebook,6,4
 2020-05-12,City Council,7,3
 2020-05-12,White House,11,2
 2020-05-12,United States,15,1
@@ -4583,29 +4583,56 @@ date,organization,count,rn
 2020-05-19,Tribune News Service,4,15
 2020-05-19,University Of Pittsburgh,4,16
 2020-05-19,United States,7,1
-2020-05-20,Blue Spear Solutions,1,4
-2020-05-20,Council On Contemporary Families,1,5
-2020-05-20,Department Of Revenue,1,6
-2020-05-20,Department Of Treasury,1,7
-2020-05-20,Emerson College,1,8
-2020-05-20,Family Therapy Training Center,1,9
-2020-05-20,Florida Department Of Law Enforcement,1,10
-2020-05-20,Imperial College,1,11
-2020-05-20,Kenyon College,1,12
-2020-05-20,Manorcare Health Services In Sinking Spring,1,13
-2020-05-20,Marjory Stoneman Douglas High School In Parkland,1,14
-2020-05-20,Marshals Office,1,15
-2020-05-20,National Guard,1,16
-2020-05-20,Naturalization Service,1,17
-2020-05-20,Parkhouse Rehabilitation Nursing Center,1,18
-2020-05-20,Property Tax Rent Rebate Program,1,19
-2020-05-20,Sheriff Office,1,20
-2020-05-20,Tallahassee Police Department,1,21
-2020-05-20,United States Marshals Office,1,22
-2020-05-20,Wellness Center,1,23
-2020-05-20,Nan,2,2
-2020-05-20,Pennsylvania Association Of Realtors,2,3
-2020-05-20,Department Of Health,3,1
+2020-05-20,Brigham Young University,3,21
+2020-05-20,Center City,3,22
+2020-05-20,City Council,3,23
+2020-05-20,Comedy Central,3,24
+2020-05-20,Delta Air Lines,3,25
+2020-05-20,Disabilities Association Of America,3,26
+2020-05-20,First United Church,3,27
+2020-05-20,Georgia State University,3,28
+2020-05-20,Google,3,29
+2020-05-20,Indiana Department,3,30
+2020-05-20,Jersey Department Of Education,3,31
+2020-05-20,Knight Center,3,32
+2020-05-20,Masjidullah Inc,3,33
+2020-05-20,Mental Health Services,3,34
+2020-05-20,Nan,3,35
+2020-05-20,National Center,3,36
+2020-05-20,National Guard,3,37
+2020-05-20,Neon Museum,3,38
+2020-05-20,Neon Museum Lost Vegas,3,39
+2020-05-20,Oregon Department Of Education,3,40
+2020-05-20,Parent Advocacy Network,3,41
+2020-05-20,Penn Wood High School,3,42
+2020-05-20,Pennsylvania Department Of Health,3,43
+2020-05-20,Pew Research Center,3,44
+2020-05-20,Supreme Court,3,45
+2020-05-20,Thomas Jefferson University,3,46
+2020-05-20,Timberline High School In Lacey,3,47
+2020-05-20,Twitter,3,48
+2020-05-20,Us Centers For Disease,3,49
+2020-05-20,Wellness Center,3,50
+2020-05-20,Academic Affairs Of Thomas Jefferson University,4,12
+2020-05-20,Associated Press,4,13
+2020-05-20,Center City Philadelphia,4,14
+2020-05-20,National Institute Of Allergy,4,15
+2020-05-20,National Institutes Of Health,4,16
+2020-05-20,Sidney Kimmel Medical College,4,17
+2020-05-20,Spirits Council Of The United States,4,18
+2020-05-20,Tavern Association,4,19
+2020-05-20,White House,4,20
+2020-05-20,American Academic Health System,5,5
+2020-05-20,Centers For Disease,5,6
+2020-05-20,Department Of Biotechnology,5,7
+2020-05-20,Hahnemann University Hospital,5,8
+2020-05-20,Jefferson Department Of Microbiology,5,9
+2020-05-20,Temple University Liacouras Center,5,10
+2020-05-20,Vincent Medical Center,5,11
+2020-05-20,Jefferson Vaccine Institute,7,4
+2020-05-20,Facebook,8,3
+2020-05-20,Department Of Health,11,2
+2020-05-20,United States,20,1
 2020-05-21,African American History Museum,2,43
 2020-05-21,American Association Of Suicidology,2,44
 2020-05-21,American Foundation For Suicide Prevention,2,45
@@ -4956,3 +4983,53 @@ date,organization,count,rn
 2020-05-27,Temple University,7,3
 2020-05-27,Twitter,7,4
 2020-05-27,United States,9,1
+2020-05-28,Academy Of Natural Sciences Of Drexel University,2,48
+2020-05-28,Barnes Foundation,2,49
+2020-05-28,Census Bureau,2,50
+2020-05-28,American Airlines,3,32
+2020-05-28,American Airlines Group Inc,3,33
+2020-05-28,Burlington High School,3,34
+2020-05-28,Delta Air Lines Inc,3,35
+2020-05-28,Free Library Foundation,3,36
+2020-05-28,Government Accountability Office,3,37
+2020-05-28,Health Rachel Levine,3,38
+2020-05-28,House State Government Committee,3,39
+2020-05-28,Lincoln Institute Of Land,3,40
+2020-05-28,Msnbc,3,41
+2020-05-28,Pennsylvania Supreme Court,3,42
+2020-05-28,Reuters,3,43
+2020-05-28,School Leader At South Philly Library,3,44
+2020-05-28,Tribune Content Agency,3,45
+2020-05-28,United Airlines Holdings Inc,3,46
+2020-05-28,Universal Studios,3,47
+2020-05-28,America Health Insurance Plans,4,16
+2020-05-28,American Dental Association,4,17
+2020-05-28,American Enterprise Institute,4,18
+2020-05-28,Drexel University,4,19
+2020-05-28,Federal Reserve,4,20
+2020-05-28,Human Resources Department,4,21
+2020-05-28,Mestichelli Barnes Dental Associates,4,22
+2020-05-28,Nan,4,23
+2020-05-28,Pennsylvania Coalition For Oral Health,4,24
+2020-05-28,Public Health Management Co,4,25
+2020-05-28,Public Health Management Corp,4,26
+2020-05-28,Rite Aid,4,27
+2020-05-28,Robert Wood Johnson Foundation,4,28
+2020-05-28,Southeastern Veteran Center,4,29
+2020-05-28,Temple Kornberg School Of Dentistry,4,30
+2020-05-28,Veterans Affairs,4,31
+2020-05-28,Twitter,5,13
+2020-05-28,University Of Pennsylvania,5,14
+2020-05-28,White House,5,15
+2020-05-28,Public Health,6,11
+2020-05-28,United States,6,12
+2020-05-28,Bloomfield School District,7,9
+2020-05-28,Senate Majority Leader Mitch Mcconnell,7,10
+2020-05-28,Pennsylvania Department Of Health,9,8
+2020-05-28,Associated Press,10,5
+2020-05-28,City Council,10,6
+2020-05-28,Temple University,10,7
+2020-05-28,Government Committee,11,4
+2020-05-28,Department Of Health,14,3
+2020-05-28,Centers For Disease,22,1
+2020-05-28,Facebook,22,2

@@ -2844,29 +2844,28 @@ date,organization,count,rn
 2020-04-22,Johns Hopkins University,69,3
 2020-04-22,World Health Organization,103,2
 2020-04-22,United States,170,1
-2020-04-23,Berkshire Hathaway Inc,4,36
-2020-04-23,Bloomberg,4,37
-2020-04-23,Cargill,4,38
-2020-04-23,Cargill Inc,4,39
-2020-04-23,China Communist Party,4,40
-2020-04-23,Emergency Management Agency,4,41
-2020-04-23,Health Care Enhancement,4,42
-2020-04-23,Kansas City Fire Department,4,43
-2020-04-23,Missouri Hospital Association,4,44
-2020-04-23,Missouri National Guard,4,45
-2020-04-23,Missouri Supreme Court,4,46
-2020-04-23,Missouri University Of Science,4,47
-2020-04-23,National Pork Board,4,48
-2020-04-23,Republican Party,4,49
-2020-04-23,Reuters,4,50
-2020-04-23,Britain National Health Service,5,28
-2020-04-23,China Foreign Ministry,5,29
-2020-04-23,Hastings College Of The Law,5,30
-2020-04-23,Health Department,5,31
-2020-04-23,Missouri Democratic Party,5,32
-2020-04-23,Missouri Department Of Corrections,5,33
-2020-04-23,Nan,5,34
-2020-04-23,Senate Majority Leader Mitch Mcconnell,5,35
+2020-04-23,Berkshire Hathaway Inc,4,38
+2020-04-23,Bloomberg,4,39
+2020-04-23,Cargill,4,40
+2020-04-23,Cargill Inc,4,41
+2020-04-23,China Communist Party,4,42
+2020-04-23,Emergency Management Agency,4,43
+2020-04-23,Health Care Enhancement,4,44
+2020-04-23,Kansas City Fire Department,4,45
+2020-04-23,Missouri Hospital Association,4,46
+2020-04-23,Missouri National Guard,4,47
+2020-04-23,Missouri Supreme Court,4,48
+2020-04-23,Missouri University Of Science,4,49
+2020-04-23,National Pork Board,4,50
+2020-04-23,Britain National Health Service,5,29
+2020-04-23,China Foreign Ministry,5,30
+2020-04-23,Hastings College Of The Law,5,31
+2020-04-23,Health Department,5,32
+2020-04-23,Missouri Democratic Party,5,33
+2020-04-23,Missouri Department Of Corrections,5,34
+2020-04-23,Nan,5,35
+2020-04-23,Senate Majority Leader Mitch Mcconnell,5,36
+2020-04-23,Small Business Administration,5,37
 2020-04-23,Association Of American Railroads,6,19
 2020-04-23,Centers For Disease,6,20
 2020-04-23,Community Party Of China,6,21
@@ -2875,7 +2874,8 @@ date,organization,count,rn
 2020-04-23,Goldman Sachs Group Inc,6,24
 2020-04-23,Nike Inc,6,25
 2020-04-23,See Candies,6,26
-2020-04-23,White House,6,27
+2020-04-23,Supreme Court,6,27
+2020-04-23,White House,6,28
 2020-04-23,Council Of Economic Advisers,7,16
 2020-04-23,Department Of State Health Services,7,17
 2020-04-23,Missouri Department Of Labor,7,18
@@ -2892,7 +2892,7 @@ date,organization,count,rn
 2020-04-23,Senior Services,14,6
 2020-04-23,Johns Hopkins University Center,16,4
 2020-04-23,Chinese Communist Party,19,3
-2020-04-23,Paycheck Protection Program,21,2
+2020-04-23,Paycheck Protection Program,22,2
 2020-04-23,United States,51,1
 2020-04-24,Alaska Airlines,3,50
 2020-04-24,Chinese Foreign Ministry,4,37
@@ -3099,14 +3099,14 @@ date,organization,count,rn
 2020-04-28,Department Of Revenue,4,40
 2020-04-28,Emergency Management Agency,4,41
 2020-04-28,European Union,4,42
-2020-04-28,Foundation Formula,4,43
-2020-04-28,Funding Working Group On,4,44
-2020-04-28,Health Lab,4,45
-2020-04-28,John Hopkins University,4,46
-2020-04-28,Missouri Municipal League,4,47
-2020-04-28,Municipal League,4,48
-2020-04-28,Nan,4,49
-2020-04-28,National Association Of Counties,4,50
+2020-04-28,Facebook,4,43
+2020-04-28,Foundation Formula,4,44
+2020-04-28,Funding Working Group On,4,45
+2020-04-28,Health Lab,4,46
+2020-04-28,John Hopkins University,4,47
+2020-04-28,Missouri Municipal League,4,48
+2020-04-28,Municipal League,4,49
+2020-04-28,Nan,4,50
 2020-04-28,Department Of Justice,5,33
 2020-04-28,Department Of Labor,5,34
 2020-04-28,European Commission,5,35
@@ -3119,71 +3119,71 @@ date,organization,count,rn
 2020-04-28,Justice Department,7,27
 2020-04-28,University Of Missouri,7,28
 2020-04-28,Us Centers For Disease,7,29
-2020-04-28,Democratic State Convention,8,22
-2020-04-28,Louis Clergy Coalition,8,23
-2020-04-28,Missouri Democratic Party,8,24
-2020-04-28,Missouri Department Of Health,8,25
-2020-04-28,Centers For Medicaid,9,16
-2020-04-28,Health Department,9,17
-2020-04-28,Johns Hopkins University,9,18
-2020-04-28,Medicare Services,9,19
-2020-04-28,Missouri Chamber,9,20
-2020-04-28,Missouri Restaurant Association,9,21
-2020-04-28,Missouri Hospital Association,11,14
-2020-04-28,Senior Services,11,15
-2020-04-28,Google,12,11
-2020-04-28,University Of Texas At Austin,12,12
-2020-04-28,Wisconsin Department Of Natural Resources,12,13
+2020-04-28,Democratic State Convention,8,23
+2020-04-28,Louis Clergy Coalition,8,24
+2020-04-28,Missouri Democratic Party,8,25
+2020-04-28,Health Department,9,20
+2020-04-28,Johns Hopkins University,9,21
+2020-04-28,Missouri Chamber,9,22
+2020-04-28,Centers For Medicaid,10,16
+2020-04-28,Medicare Services,10,17
+2020-04-28,Missouri Department Of Health,10,18
+2020-04-28,Missouri Restaurant Association,10,19
+2020-04-28,Missouri Hospital Association,11,15
+2020-04-28,Google,12,12
+2020-04-28,University Of Texas At Austin,12,13
+2020-04-28,Wisconsin Department Of Natural Resources,12,14
 2020-04-28,Associated Press,13,9
 2020-04-28,Oval Office,13,10
+2020-04-28,Senior Services,13,11
 2020-04-28,House Budget Committee,14,8
 2020-04-28,National Institute Of Allergy,15,7
-2020-04-28,Cnn,19,6
+2020-04-28,Cnn,20,6
 2020-04-28,Centers For Disease,22,5
 2020-04-28,Georgia Department Of Public Health,27,4
 2020-04-28,United States,30,3
 2020-04-28,White House,32,1
 2020-04-28,World Health Organization,32,2
-2020-04-29,Buffalo National River,4,33
-2020-04-29,City Council,4,34
-2020-04-29,Columbia Fire Department,4,35
-2020-04-29,Community Children Services,4,36
-2020-04-29,Department Of Elementary,4,37
-2020-04-29,Forest Service,4,38
-2020-04-29,Funding Working Group On,4,39
-2020-04-29,Google,4,40
-2020-04-29,Government Public Health Department In Wyandotte,4,41
-2020-04-29,Health Department Administrator Kandra Counts,4,42
-2020-04-29,Kansas Department Of Health,4,43
-2020-04-29,Kansas Department Of Labor,4,44
-2020-04-29,Midwest Health System,4,45
-2020-04-29,Missouri Municipal League,4,46
-2020-04-29,Municipal League,4,47
-2020-04-29,National Association Of Counties,4,48
-2020-04-29,National United Nurses,4,49
-2020-04-29,Ozark National Scenic Riverways,4,50
-2020-04-29,Department Of Corrections,5,29
-2020-04-29,Economic Club Of Washington,5,30
-2020-04-29,Missouri Department Of Corrections,5,31
-2020-04-29,Southeast Correctional Center,5,32
+2020-04-29,City Council,4,37
+2020-04-29,Columbia Fire Department,4,38
+2020-04-29,Community Children Services,4,39
+2020-04-29,Department Of Elementary,4,40
+2020-04-29,Funding Working Group On,4,41
+2020-04-29,Google,4,42
+2020-04-29,Government Public Health Department In Wyandotte,4,43
+2020-04-29,Kansas Department Of Health,4,44
+2020-04-29,Kansas Department Of Labor,4,45
+2020-04-29,Midwest Health System,4,46
+2020-04-29,Missouri Municipal League,4,47
+2020-04-29,Municipal League,4,48
+2020-04-29,National Association Of Counties,4,49
+2020-04-29,National United Nurses,4,50
+2020-04-29,Buffalo National River,5,29
+2020-04-29,Department Of Corrections,5,30
+2020-04-29,Economic Club Of Washington,5,31
+2020-04-29,Forest Service,5,32
+2020-04-29,Health Department Administrator Kandra Counts,5,33
+2020-04-29,Missouri Department Of Corrections,5,34
+2020-04-29,Ozark National Scenic Riverways,5,35
+2020-04-29,Southeast Correctional Center,5,36
 2020-04-29,Missouri Department Of Labor,6,25
 2020-04-29,New York Times,6,26
 2020-04-29,Republican House Budget Committee,6,27
 2020-04-29,World Health Organization,6,28
-2020-04-29,Chinese Communist Party,7,20
-2020-04-29,Democratic State Convention,7,21
+2020-04-29,Chinese Communist Party,7,21
 2020-04-29,Johns Hopkins University,7,22
 2020-04-29,National Institute Of Allergy,7,23
 2020-04-29,Wisconsin Department Of Natural Resources,7,24
-2020-04-29,Boone Hospital Center,9,15
-2020-04-29,Funding Working Group In Jefferson City,9,16
-2020-04-29,Louis Clergy Coalition,9,17
-2020-04-29,Missouri Democratic Party,9,18
+2020-04-29,Democratic State Convention,8,20
+2020-04-29,Boone Hospital Center,9,17
+2020-04-29,Funding Working Group In Jefferson City,9,18
 2020-04-29,Oval Office,9,19
-2020-04-29,Health Department,10,12
-2020-04-29,Missouri Department Of Health,10,13
-2020-04-29,University Of Missouri,10,14
-2020-04-29,Missouri Hospital Association,11,11
+2020-04-29,Health Department,10,13
+2020-04-29,Louis Clergy Coalition,10,14
+2020-04-29,Missouri Democratic Party,10,15
+2020-04-29,University Of Missouri,10,16
+2020-04-29,Missouri Department Of Health,11,11
+2020-04-29,Missouri Hospital Association,11,12
 2020-04-29,Emergency Management Agency,12,10
 2020-04-29,Centers For Disease,13,8
 2020-04-29,Missouri Chamber,13,9
@@ -3192,7 +3192,7 @@ date,organization,count,rn
 2020-04-29,Department Of Health,15,6
 2020-04-29,White House,20,4
 2020-04-29,Facebook,23,3
-2020-04-29,Senior Services,24,2
+2020-04-29,Senior Services,25,2
 2020-04-29,United States,28,1
 2020-04-30,Chinese Communist Party,3,27
 2020-04-30,City Council,3,28
@@ -3264,7 +3264,6 @@ date,organization,count,rn
 2020-05-01,Missouri Department Of Commerce,4,48
 2020-05-01,Missouri Department Of Elementary,4,49
 2020-05-01,Missouri Housing Development Commission,4,50
-2020-05-01,Associated Press,5,23
 2020-05-01,Fannie Mae,5,24
 2020-05-01,Governor Office,5,25
 2020-05-01,Health Department,5,26
@@ -3273,12 +3272,13 @@ date,organization,count,rn
 2020-05-01,Tribune Content Agency,5,29
 2020-05-01,United Nations,5,30
 2020-05-01,American Federation Of Government,6,16
-2020-05-01,Dartmouth Institute,6,17
-2020-05-01,Marion Regional Medical Center,6,18
-2020-05-01,National Nurses United,6,19
-2020-05-01,Research Medical Center,6,20
-2020-05-01,University Of Chicago,6,21
-2020-05-01,University Of Iowa,6,22
+2020-05-01,Associated Press,6,17
+2020-05-01,Dartmouth Institute,6,18
+2020-05-01,Marion Regional Medical Center,6,19
+2020-05-01,National Nurses United,6,20
+2020-05-01,Research Medical Center,6,21
+2020-05-01,University Of Chicago,6,22
+2020-05-01,University Of Iowa,6,23
 2020-05-01,Department Of Health,7,11
 2020-05-01,Frontier Health,7,12
 2020-05-01,Missouri Republican Party,7,13
@@ -3287,32 +3287,32 @@ date,organization,count,rn
 2020-05-01,Republican Party,9,9
 2020-05-01,Tyson Foods,9,10
 2020-05-01,Health Administration,11,8
-2020-05-01,Missouri Department Of Health,12,5
-2020-05-01,Nan,12,6
-2020-05-01,Supreme Court,12,7
+2020-05-01,Missouri Department Of Health,12,7
+2020-05-01,Nan,13,5
+2020-05-01,Supreme Court,13,6
 2020-05-01,Senior Services,15,4
 2020-05-01,Facebook,17,3
 2020-05-01,United States,23,2
 2020-05-01,White House,31,1
-2020-05-02,American Car Rental Association,3,40
-2020-05-02,China National Health Commission,3,41
-2020-05-02,Enterprise Holdings,3,42
-2020-05-02,India Ministry Of Home Affairs,3,43
-2020-05-02,Isabella Geriatric Center,3,44
-2020-05-02,Martini,3,45
-2020-05-02,Mcdonald,3,46
-2020-05-02,Michigan Senate,3,47
-2020-05-02,Ministry Of Health,3,48
-2020-05-02,National Car,3,49
-2020-05-02,National Informatics Centre,3,50
+2020-05-02,American Car Rental Association,3,41
+2020-05-02,China National Health Commission,3,42
+2020-05-02,Enterprise Holdings,3,43
+2020-05-02,India Ministry Of Home Affairs,3,44
+2020-05-02,Isabella Geriatric Center,3,45
+2020-05-02,Martini,3,46
+2020-05-02,Mcdonald,3,47
+2020-05-02,Michigan Senate,3,48
+2020-05-02,Ministry Of Health,3,49
+2020-05-02,National Car,3,50
 2020-05-02,Joseph City Council,4,32
 2020-05-02,Justice Department,4,33
 2020-05-02,Missouri Hospital Association,4,34
 2020-05-02,Mother Brewing Company,4,35
 2020-05-02,National News,4,36
 2020-05-02,Southeast Correctional Center,4,37
-2020-05-02,United States Army Lieutenant,4,38
-2020-05-02,Youtube,4,39
+2020-05-02,Twitter,4,38
+2020-05-02,United States Army Lieutenant,4,39
+2020-05-02,Youtube,4,40
 2020-05-02,Administration Sarah Steelman,5,23
 2020-05-02,Department Of Agriculture,5,24
 2020-05-02,Department Of Public Health,5,25
@@ -3439,8 +3439,8 @@ date,organization,count,rn
 2020-05-04,Missouri Department Of Corrections,9,8
 2020-05-04,Missouri Department Of Health,11,6
 2020-05-04,Supreme Court,11,7
-2020-05-04,Facebook,12,5
-2020-05-04,Senior Services,13,4
+2020-05-04,Facebook,13,4
+2020-05-04,Senior Services,13,5
 2020-05-04,Centers For Disease,14,3
 2020-05-04,White House,16,2
 2020-05-04,United States,25,1
@@ -3491,9 +3491,9 @@ date,organization,count,rn
 2020-05-05,Nan,9,7
 2020-05-05,Centers For Disease,14,4
 2020-05-05,United States,14,5
-2020-05-05,Facebook,17,2
-2020-05-05,Missouri Department Of Health,17,3
-2020-05-05,Senior Services,25,1
+2020-05-05,Facebook,17,3
+2020-05-05,Missouri Department Of Health,18,2
+2020-05-05,Senior Services,26,1
 2020-05-06,Costco,4,45
 2020-05-06,Department Of Corrections,4,46
 2020-05-06,Food Bank,4,47
@@ -3544,14 +3544,14 @@ date,organization,count,rn
 2020-05-06,Health Administration,24,3
 2020-05-06,Associated Press,26,2
 2020-05-06,Centers For Disease,31,1
-2020-05-07,Health Department,3,49
-2020-05-07,Missouri Department Of Agriculture,3,50
+2020-05-07,Health Department,3,50
 2020-05-07,Drug Administration,4,43
 2020-05-07,Human Services,4,44
 2020-05-07,Midwest Center,4,45
 2020-05-07,Missouri Services Navigator,4,46
 2020-05-07,Nan,4,47
-2020-05-07,Pfizer,4,48
+2020-05-07,Paycheck Protection Program,4,48
+2020-05-07,Pfizer,4,49
 2020-05-07,Cnn,5,38
 2020-05-07,Coronavirus Relief Fund,5,39
 2020-05-07,Missouri Air National Guard,5,40
@@ -3594,25 +3594,25 @@ date,organization,count,rn
 2020-05-07,United States,23,4
 2020-05-07,Centers For Disease,26,1
 2020-05-07,Department Of Social Services,26,2
-2020-05-08,Braun,2,41
-2020-05-08,Cato Institute,2,42
-2020-05-08,China Task,2,43
-2020-05-08,Citizens Memorial Health Care Foundation,2,44
-2020-05-08,Festus Manor Care Center,2,45
-2020-05-08,House Financial Services Committee,2,46
-2020-05-08,Illinois Department Of Employment Security,2,47
-2020-05-08,Illinois Department Of Public Health,2,48
-2020-05-08,Jetblue,2,49
-2020-05-08,Johns Hopkins University,2,50
+2020-05-08,Braun,2,43
+2020-05-08,Cato Institute,2,44
+2020-05-08,China Task,2,45
+2020-05-08,Citizens Memorial Health Care Foundation,2,46
+2020-05-08,Festus Manor Care Center,2,47
+2020-05-08,House Financial Services Committee,2,48
+2020-05-08,Illinois Department Of Employment Security,2,49
+2020-05-08,Illinois Department Of Public Health,2,50
 2020-05-08,Cnn,3,32
 2020-05-08,International Court,3,33
-2020-05-08,Life Care Center,3,34
-2020-05-08,Louis County Department Of Public Health,3,35
-2020-05-08,Morningside Church,3,36
-2020-05-08,Public Service Recognition Week,3,37
-2020-05-08,Senate Joint Resolution,3,38
-2020-05-08,Twitter,3,39
-2020-05-08,Tyson Foods,3,40
+2020-05-08,Kansas Department Of Public Health,3,34
+2020-05-08,Liberty University,3,35
+2020-05-08,Life Care Center,3,36
+2020-05-08,Louis County Department Of Public Health,3,37
+2020-05-08,Morningside Church,3,38
+2020-05-08,Public Service Recognition Week,3,39
+2020-05-08,Senate Joint Resolution,3,40
+2020-05-08,Twitter,3,41
+2020-05-08,Tyson Foods,3,42
 2020-05-08,Centers For Medicare,4,16
 2020-05-08,Craven High School,4,17
 2020-05-08,Democrats In Congress,4,18
@@ -3629,10 +3629,10 @@ date,organization,count,rn
 2020-05-08,Oval Office,4,29
 2020-05-08,Small Business Administration,4,30
 2020-05-08,University Of California San Francisco,4,31
-2020-05-08,Centers For Disease,5,12
 2020-05-08,Health Department,5,13
 2020-05-08,Justice Department,5,14
 2020-05-08,World Health Organization,5,15
+2020-05-08,Centers For Disease,6,12
 2020-05-08,Missouri Department Of Health,7,10
 2020-05-08,Senior Services,7,11
 2020-05-08,Pfizer,8,8
@@ -3644,48 +3644,48 @@ date,organization,count,rn
 2020-05-08,Facebook,13,2
 2020-05-08,Human Services,13,3
 2020-05-08,United States,21,1
-2020-05-09,American Airlines,2,25
-2020-05-09,Britain National Health Service,2,26
-2020-05-09,Bureau Of Labor Statistics,2,27
-2020-05-09,Central Pa Food Bank,2,28
-2020-05-09,Central Pennsylvania Food Bank,2,29
-2020-05-09,China Ministry Of Foreign Affairs,2,30
-2020-05-09,City Council,2,31
-2020-05-09,City Health Officials,2,32
-2020-05-09,Communications Commission,2,33
-2020-05-09,Council Of Economic Advisers,2,34
-2020-05-09,Department Of Agriculture,2,35
-2020-05-09,Department Of Human Services,2,36
-2020-05-09,Drug Administration On,2,37
-2020-05-09,Freedom Movement United States,2,38
-2020-05-09,Hallie Wells Middle School,2,39
-2020-05-09,House Ethics Committee,2,40
-2020-05-09,Human Service,2,41
-2020-05-09,Human Service Teresa Miller,2,42
-2020-05-09,Imperial College London,2,43
-2020-05-09,Instagram,2,44
-2020-05-09,Marquette High School In Chesterfield On,2,45
-2020-05-09,Minutes Of The Missouri House Ethics Committee,2,46
-2020-05-09,Missouri Auditor Office,2,47
-2020-05-09,Missouri Department Of Economic Development,2,48
-2020-05-09,Missouri Department Of Labor,2,49
-2020-05-09,National Teacher Appreciation Week,2,50
-2020-05-09,Credit Tim Bommel House Communications,3,16
-2020-05-09,Department Of Elementary,3,17
-2020-05-09,Emergency Management Agency,3,18
-2020-05-09,House Budget Committee,3,19
-2020-05-09,Human Services,3,20
-2020-05-09,Johns Hopkins University,3,21
-2020-05-09,Missouri Hospital Association,3,22
-2020-05-09,Nan,3,23
-2020-05-09,Saint Louis University,3,24
-2020-05-09,Health Department,4,13
-2020-05-09,Jewish Community Relations Council Of St,4,14
-2020-05-09,Twitter,4,15
+2020-05-09,American Airlines,2,27
+2020-05-09,Britain National Health Service,2,28
+2020-05-09,Central Pa Food Bank,2,29
+2020-05-09,Central Pennsylvania Food Bank,2,30
+2020-05-09,China Ministry Of Foreign Affairs,2,31
+2020-05-09,City Council,2,32
+2020-05-09,City Health Officials,2,33
+2020-05-09,Communications Commission,2,34
+2020-05-09,Council Of Economic Advisers,2,35
+2020-05-09,Department Of Agriculture,2,36
+2020-05-09,Department Of Human Services,2,37
+2020-05-09,Drug Administration On,2,38
+2020-05-09,Freedom Movement United States,2,39
+2020-05-09,Hallie Wells Middle School,2,40
+2020-05-09,House Ethics Committee,2,41
+2020-05-09,Human Service,2,42
+2020-05-09,Human Service Teresa Miller,2,43
+2020-05-09,Imperial College London,2,44
+2020-05-09,Instagram,2,45
+2020-05-09,Marquette High School In Chesterfield On,2,46
+2020-05-09,Minutes Of The Missouri House Ethics Committee,2,47
+2020-05-09,Missouri Auditor Office,2,48
+2020-05-09,Missouri Department Of Economic Development,2,49
+2020-05-09,Missouri Department Of Labor,2,50
+2020-05-09,Bureau Of Labor Statistics,3,16
+2020-05-09,Credit Tim Bommel House Communications,3,17
+2020-05-09,Department Of Elementary,3,18
+2020-05-09,Emergency Management Agency,3,19
+2020-05-09,House Budget Committee,3,20
+2020-05-09,Human Services,3,21
+2020-05-09,Johns Hopkins University,3,22
+2020-05-09,Missouri Hospital Association,3,23
+2020-05-09,Nan,3,24
+2020-05-09,Saint Louis University,3,25
+2020-05-09,Senate Majority Leader Mitch Mcconnell,3,26
+2020-05-09,Health Department,4,14
+2020-05-09,Jewish Community Relations Council Of St,4,15
 2020-05-09,Centers For Disease,5,9
 2020-05-09,Facebook,5,10
 2020-05-09,Missouri Legislature,5,11
 2020-05-09,Missouri Senate,5,12
+2020-05-09,Twitter,5,13
 2020-05-09,Appropriations Committee,6,4
 2020-05-09,Department Of Health,6,5
 2020-05-09,Missouri Department Of Health,6,6
@@ -3844,13 +3844,12 @@ date,organization,count,rn
 2020-05-12,Senate Rules Committee,9,3
 2020-05-12,White House,10,2
 2020-05-12,Senate Majority Leader Mitch Mcconnell,13,1
-2020-05-13,Cnn,3,44
-2020-05-13,Death Penalty Information Center,3,45
-2020-05-13,Health Midwest,3,46
-2020-05-13,House Financial Services Committee,3,47
-2020-05-13,Level I Trauma Center,3,48
-2020-05-13,Menorah Medical Center,3,49
-2020-05-13,Missouri School Board Association,3,50
+2020-05-13,Cnn,3,45
+2020-05-13,Death Penalty Information Center,3,46
+2020-05-13,Health Midwest,3,47
+2020-05-13,House Financial Services Committee,3,48
+2020-05-13,Level I Trauma Center,3,49
+2020-05-13,Menorah Medical Center,3,50
 2020-05-13,American Civil Liberties Union,4,30
 2020-05-13,Centers For Disease,4,31
 2020-05-13,Defamation League,4,32
@@ -3863,8 +3862,9 @@ date,organization,count,rn
 2020-05-13,Missouri Voter Protection Coalition,4,39
 2020-05-13,Public Affairs Research,4,40
 2020-05-13,School Of Medicine,4,41
-2020-05-13,Thomson Reuters,4,42
-2020-05-13,Thomson Reuters Trust Principles,4,43
+2020-05-13,Senate Republicans,4,42
+2020-05-13,Thomson Reuters,4,43
+2020-05-13,Thomson Reuters Trust Principles,4,44
 2020-05-13,Cerner Corp,5,25
 2020-05-13,Louis Regional Chamber,5,26
 2020-05-13,Missouri Department Of Economic Development,5,27
@@ -3878,16 +3878,16 @@ date,organization,count,rn
 2020-05-13,National Multifamily Housing Council,7,20
 2020-05-13,Paycheck Protection Program,7,21
 2020-05-13,Thomson Reuters Foundation,7,22
-2020-05-13,Barton Missouri Department Of Corrections,9,12
-2020-05-13,Instagram,9,13
-2020-05-13,Senate Majority Whip John Thune,9,14
-2020-05-13,Senior Services,9,15
+2020-05-13,Barton Missouri Department Of Corrections,9,13
+2020-05-13,Instagram,9,14
+2020-05-13,Senate Majority Whip John Thune,9,15
 2020-05-13,Supreme Court,9,16
 2020-05-13,Missouri Department Of Health,10,11
-2020-05-13,Department Of Health,13,8
-2020-05-13,Missouri Supreme Court On,13,9
-2020-05-13,Senate Majority Leader Mitch Mcconnell,13,10
-2020-05-13,Facebook,14,7
+2020-05-13,Senior Services,10,12
+2020-05-13,Missouri Supreme Court On,13,10
+2020-05-13,Department Of Health,14,7
+2020-05-13,Facebook,14,8
+2020-05-13,Senate Majority Leader Mitch Mcconnell,14,9
 2020-05-13,Tennessee Supreme Court,15,6
 2020-05-13,Human Services,16,5
 2020-05-13,United States,18,4
@@ -4044,19 +4044,17 @@ date,organization,count,rn
 2020-05-16,Senate Republicans,14,2
 2020-05-16,United States,14,3
 2020-05-16,Associated Press,21,1
-2020-05-17,American Jewish Committee,1,42
-2020-05-17,American Jewish Committee St,1,43
-2020-05-17,Anna Marie Alliance In St,1,44
-2020-05-17,Apple Inc,1,45
-2020-05-17,Bass Pro Shops,1,46
-2020-05-17,Be Well Community,1,47
-2020-05-17,Boards Of Health,1,48
-2020-05-17,Boone Hospital Center,1,49
-2020-05-17,British Transport Police,1,50
-2020-05-17,Arts Council,2,14
-2020-05-17,Battle Against Novel Coronaviruschina Foreign Ministry On,2,15
-2020-05-17,Catholic Studies Centre,2,16
-2020-05-17,Centers For Disease,2,17
+2020-05-17,American Jewish Committee,1,43
+2020-05-17,American Jewish Committee St,1,44
+2020-05-17,Anna Marie Alliance In St,1,45
+2020-05-17,Apple Inc,1,46
+2020-05-17,Bass Pro Shops,1,47
+2020-05-17,Be Well Community,1,48
+2020-05-17,Boards Of Health,1,49
+2020-05-17,Boone Hospital Center,1,50
+2020-05-17,Arts Council,2,15
+2020-05-17,Battle Against Novel Coronaviruschina Foreign Ministry On,2,16
+2020-05-17,Catholic Studies Centre,2,17
 2020-05-17,Chinese Communist Party,2,18
 2020-05-17,Chinese Foreign Ministry,2,19
 2020-05-17,Costco,2,20
@@ -4064,26 +4062,28 @@ date,organization,count,rn
 2020-05-17,Dierbergs,2,22
 2020-05-17,Fedex,2,23
 2020-05-17,George Washington University Program On Extremism,2,24
-2020-05-17,Huawei,2,25
-2020-05-17,Instagram,2,26
-2020-05-17,Louis County Police Department,2,27
-2020-05-17,Louis University,2,28
-2020-05-17,Missouri Alliance For Retired Americans,2,29
-2020-05-17,Missouri Legislature,2,30
-2020-05-17,Missouri Southern State University,2,31
-2020-05-17,Missouri Western State University,2,32
-2020-05-17,Nan,2,33
-2020-05-17,National Governors Association,2,34
-2020-05-17,Neiman Marcus Group,2,35
-2020-05-17,New York Times,2,36
-2020-05-17,Republican Party,2,37
-2020-05-17,Reuters,2,38
-2020-05-17,Schnucks,2,39
-2020-05-17,University City,2,40
-2020-05-17,While The Chinese Communist Party,2,41
-2020-05-17,Department Of Health,3,11
-2020-05-17,Louis Metropolitan Pandemic Task Force On,3,12
-2020-05-17,Twitter,3,13
+2020-05-17,Health Department,2,25
+2020-05-17,Huawei,2,26
+2020-05-17,Instagram,2,27
+2020-05-17,Louis County Police Department,2,28
+2020-05-17,Louis University,2,29
+2020-05-17,Missouri Alliance For Retired Americans,2,30
+2020-05-17,Missouri Legislature,2,31
+2020-05-17,Missouri Southern State University,2,32
+2020-05-17,Missouri Western State University,2,33
+2020-05-17,Nan,2,34
+2020-05-17,National Governors Association,2,35
+2020-05-17,Neiman Marcus Group,2,36
+2020-05-17,New York Times,2,37
+2020-05-17,Republican Party,2,38
+2020-05-17,Reuters,2,39
+2020-05-17,Schnucks,2,40
+2020-05-17,University City,2,41
+2020-05-17,While The Chinese Communist Party,2,42
+2020-05-17,Centers For Disease,3,11
+2020-05-17,Department Of Health,3,12
+2020-05-17,Louis Metropolitan Pandemic Task Force On,3,13
+2020-05-17,Twitter,3,14
 2020-05-17,Housing Authority,4,6
 2020-05-17,Human Services,4,7
 2020-05-17,Human Services Department,4,8
@@ -4091,9 +4091,9 @@ date,organization,count,rn
 2020-05-17,World Health Organization,4,10
 2020-05-17,Missouri Department Of Health,5,4
 2020-05-17,Senior Services,5,5
-2020-05-17,Associated Press,8,1
-2020-05-17,Facebook,8,2
-2020-05-17,United States,8,3
+2020-05-17,Associated Press,8,2
+2020-05-17,Facebook,8,3
+2020-05-17,United States,9,1
 2020-05-18,African Reserve Bank,1,34
 2020-05-18,Astrazeneca,1,35
 2020-05-18,Bank Indonesia,1,36
@@ -4133,9 +4133,9 @@ date,organization,count,rn
 2020-05-18,Missouri Department Of Health,3,16
 2020-05-18,Us Court,3,17
 2020-05-18,Walter Barton Missouri Department Of Corrections,3,18
-2020-05-18,Centers For Disease,4,9
 2020-05-18,Senior Services,4,10
 2020-05-18,White House,4,11
+2020-05-18,Centers For Disease,5,9
 2020-05-18,District Court,6,6
 2020-05-18,Missouri Supreme Court,6,7
 2020-05-18,Nan,6,8
@@ -4194,36 +4194,56 @@ date,organization,count,rn
 2020-05-19,United States,17,3
 2020-05-19,Associated Press,22,2
 2020-05-19,Missouri Department Of Corrections,23,1
-2020-05-20,American Civil Liberties Union Capital Punishment,1,18
-2020-05-20,Ap Missouri Department Of Corrections,1,19
-2020-05-20,Centers For Disease,1,20
-2020-05-20,Central Methodist University,1,21
-2020-05-20,Cnn,1,22
-2020-05-20,Festus Manor Care Center,1,23
-2020-05-20,Health Department,1,24
-2020-05-20,Missouri Department Of Health,1,25
-2020-05-20,Missouri Supreme Court,1,26
-2020-05-20,Missouri Voter Protection Coalition,1,27
-2020-05-20,Nan,1,28
-2020-05-20,Senior Services,1,29
-2020-05-20,Walter Barton Missouri Department Of Corrections,1,30
-2020-05-20,Amnesty International,2,10
-2020-05-20,Boeing,2,11
-2020-05-20,Crew Program,2,12
-2020-05-20,Demonstration Mission,2,13
-2020-05-20,Kennedy Space Center On,2,14
-2020-05-20,Spacex,2,15
-2020-05-20,Supreme Court On,2,16
-2020-05-20,Tribune Content Agency,2,17
-2020-05-20,Circuit Court,3,7
-2020-05-20,Death Penalty Information Center,3,8
-2020-05-20,Missouri State University,3,9
-2020-05-20,Supreme Court,5,5
-2020-05-20,Twitter,5,6
-2020-05-20,United States,8,4
-2020-05-20,Associated Press,10,2
-2020-05-20,Texas Department Of Criminal Justice,10,3
-2020-05-20,Missouri Department Of Corrections,17,1
+2020-05-20,America Honors The High School Class,2,48
+2020-05-20,American Community,2,49
+2020-05-20,Amnesty International United States,2,50
+2020-05-20,American Bar Association,3,32
+2020-05-20,Board Of Aldermen Health,3,33
+2020-05-20,Department Of Health,3,34
+2020-05-20,Drug Administration,3,35
+2020-05-20,Human Services Committee,3,36
+2020-05-20,Johns Hopkins University,3,37
+2020-05-20,Kansas City Health Department,3,38
+2020-05-20,Louis County Health Department,3,39
+2020-05-20,Missouri Department Of Health,3,40
+2020-05-20,Missouri Hospital Association,3,41
+2020-05-20,Missouri Public Health Association,3,42
+2020-05-20,Missouri State University,3,43
+2020-05-20,Missouri Voter Protection Coalition,3,44
+2020-05-20,Paycheck Protection Program,3,45
+2020-05-20,Thomson Reuters Trust Principles,3,46
+2020-05-20,Walter Barton Missouri Department Of Corrections,3,47
+2020-05-20,Cnn,4,28
+2020-05-20,Human Services,4,29
+2020-05-20,Members Of Louisville Metro Police Department,4,30
+2020-05-20,University Of Missouri,4,31
+2020-05-20,Festus Manor Care Center,5,24
+2020-05-20,Missouri Chamber,5,25
+2020-05-20,Senior Services,5,26
+2020-05-20,White House,5,27
+2020-05-20,A Missouri Department Of Corrections,6,16
+2020-05-20,Boeing,6,17
+2020-05-20,Circuit Court,6,18
+2020-05-20,Crew Program,6,19
+2020-05-20,Demonstration Mission,6,20
+2020-05-20,Kennedy Space Center On,6,21
+2020-05-20,Spacex,6,22
+2020-05-20,Tribune Content Agency,6,23
+2020-05-20,Facebook,7,14
+2020-05-20,Reuters,7,15
+2020-05-20,American Civil Liberties Union,9,13
+2020-05-20,Amnesty International,10,10
+2020-05-20,Supreme Court,10,11
+2020-05-20,Supreme Court On,10,12
+2020-05-20,Correctional Center,14,8
+2020-05-20,Texas Department Of Criminal Justice,14,9
+2020-05-20,Missouri Supreme Court,15,7
+2020-05-20,Death Penalty Information Center,16,5
+2020-05-20,Us Supreme Court,16,6
+2020-05-20,Twitter,17,4
+2020-05-20,Associated Press,21,3
+2020-05-20,Missouri Department Of Corrections,43,2
+2020-05-20,United States,55,1
 2020-05-21,A National Public Radio,2,45
 2020-05-21,American Federation Of Labor,2,46
 2020-05-21,Department Of Economic Development,2,47
@@ -4574,3 +4594,53 @@ date,organization,count,rn
 2020-05-27,Twitter,26,3
 2020-05-27,United States,28,2
 2020-05-27,Associated Press,40,1
+2020-05-28,A State Department,4,40
+2020-05-28,Ap National Writer,4,41
+2020-05-28,Chinese Communist Party,4,42
+2020-05-28,Department Of Health,4,43
+2020-05-28,Foreign Ministry,4,44
+2020-05-28,Freedom Center,4,45
+2020-05-28,Freeman Health System,4,46
+2020-05-28,Frontier Health Rehabilitation,4,47
+2020-05-28,House Budget Committee,4,48
+2020-05-28,International Religious Freedom,4,49
+2020-05-28,Louis County Health Department,4,50
+2020-05-28,American Civil Liberties Union Of Missouri,5,33
+2020-05-28,Centers For Medicare,5,34
+2020-05-28,Central Correctional Center,5,35
+2020-05-28,Department Of Correction,5,36
+2020-05-28,Medicaid Services,5,37
+2020-05-28,Missouri Corrections Officers Association,5,38
+2020-05-28,Missouri Department Of Corrections,5,39
+2020-05-28,Communications Decency,6,28
+2020-05-28,National Guard,6,29
+2020-05-28,National People Congress,6,30
+2020-05-28,Party Cove,6,31
+2020-05-28,Southeast Correctional Center,6,32
+2020-05-28,Diocese Of Knoxville,7,23
+2020-05-28,Light Of Christ Lutheran Church,7,24
+2020-05-28,Lutheran Church,7,25
+2020-05-28,Mccabe United Methodist Church,7,26
+2020-05-28,Memorial Lutheran Church,7,27
+2020-05-28,Aaron,8,18
+2020-05-28,End Times Christian Assembly In St,8,19
+2020-05-28,Louis Health Department,8,20
+2020-05-28,Louis Metropolitan Clergy Coalition,8,21
+2020-05-28,Walmart,8,22
+2020-05-28,Reuters,9,17
+2020-05-28,Circuit Court,10,14
+2020-05-28,Columbia University,10,15
+2020-05-28,Kaiser Family Foundation,10,16
+2020-05-28,Google,11,12
+2020-05-28,Missouri Department Of Health,11,13
+2020-05-28,Johns Hopkins University,13,9
+2020-05-28,Senior Services,13,10
+2020-05-28,White House,13,11
+2020-05-28,Twitter,18,8
+2020-05-28,Cnn,19,5
+2020-05-28,Great Clips Inc,19,6
+2020-05-28,New York Times,19,7
+2020-05-28,Health Department,23,4
+2020-05-28,Associated Press,26,3
+2020-05-28,Facebook,38,1
+2020-05-28,United States,38,2

@@ -3204,19 +3204,19 @@ date,organization,count,rn
 2020-05-12,Public Health,1,48
 2020-05-12,Rehabilitation Center,1,49
 2020-05-12,Royal Air,1,50
-2020-05-12,Indiana State Department Of Health,2,12
+2020-05-12,Health News,2,10
+2020-05-12,Indiana State Department Of Health,2,11
+2020-05-12,United States,2,12
 2020-05-12,University Of Rochester,2,13
-2020-05-12,Health News,3,10
-2020-05-12,United States,3,11
 2020-05-12,Connecticut Children Medical Centre,4,9
 2020-05-12,Office Of The State Inspector General,5,8
 2020-05-12,Department Of Corrections,6,7
-2020-05-12,Roanoke County Police Department,8,5
-2020-05-12,Virginia Association Of Chiefs Of Police,8,6
-2020-05-12,Connecticut Children Medical Center,10,4
-2020-05-12,Associated Press,11,3
-2020-05-12,Centers For Disease,13,2
-2020-05-12,Yale Health,16,1
+2020-05-12,Connecticut Children Medical Center,7,6
+2020-05-12,Roanoke County Police Department,8,4
+2020-05-12,Virginia Association Of Chiefs Of Police,8,5
+2020-05-12,Centers For Disease,9,3
+2020-05-12,Associated Press,10,2
+2020-05-12,Yale Health,12,1
 2020-05-13,A Benefit Corporation,1,21
 2020-05-13,Annenberg School For Communication,1,22
 2020-05-13,Bee Corp,1,23
@@ -3531,11 +3531,56 @@ date,organization,count,rn
 2020-05-19,Ymca,2,11
 2020-05-19,Connecticut Beauty Association,3,1
 2020-05-19,Michigan Conservative Coalition,3,2
-2020-05-20,Associated Press,1,5
-2020-05-20,Centers For Disease,2,3
-2020-05-20,Florida Department Of Health,2,4
-2020-05-20,Connecticut Beauty Association,3,1
-2020-05-20,Michigan Conservative Coalition,3,2
+2020-05-20,Academic Continuation Task,1,14
+2020-05-20,Appellate Division,1,15
+2020-05-20,Associated Press,1,16
+2020-05-20,Bethel University,1,17
+2020-05-20,Bj Wholesale Club,1,18
+2020-05-20,Board Panel,1,19
+2020-05-20,Buffalo Office,1,20
+2020-05-20,City Council,1,21
+2020-05-20,Connecticut Children Medical Center,1,22
+2020-05-20,Court Clarifies Procedure For Preclusion Of Physician,1,23
+2020-05-20,Dow Chemical,1,24
+2020-05-20,Environmental Affairs,1,25
+2020-05-20,Facebook,1,26
+2020-05-20,Georgia State University,1,27
+2020-05-20,Hamberger Weiss,1,28
+2020-05-20,Holy Cross College,1,29
+2020-05-20,Iu Research,1,30
+2020-05-20,Ivy Tech Community College,1,31
+2020-05-20,Lasalle,1,32
+2020-05-20,Michigan Senate,1,33
+2020-05-20,National Bureau Of Economic Research,1,34
+2020-05-20,National Workers Compensation Defense Network,1,35
+2020-05-20,New York Times,1,36
+2020-05-20,Office Of Children,1,37
+2020-05-20,Ohio State University,1,38
+2020-05-20,Oneill School,1,39
+2020-05-20,Oneill School Of Public,1,40
+2020-05-20,Other Court Decisions Of Interest,1,41
+2020-05-20,Republic Services,1,42
+2020-05-20,Saint Mary College,1,43
+2020-05-20,School Closures,1,44
+2020-05-20,Second Missionary Baptist Church,1,45
+2020-05-20,Senate Republican,1,46
+2020-05-20,Supreme Court,1,47
+2020-05-20,Temple University,1,48
+2020-05-20,Third Department,1,49
+2020-05-20,U-M Institute For Global Change Biology,1,50
+2020-05-20,Florida Department Of Health,2,11
+2020-05-20,Indiana University,2,12
+2020-05-20,Penfield Presbyterian Early Learning Center,2,13
+2020-05-20,Browncroft Day Care Center,3,2
+2020-05-20,Connecticut Beauty Association,3,3
+2020-05-20,Family Services,3,4
+2020-05-20,Johns Hopkins University,3,5
+2020-05-20,Michigan Conservative Coalition,3,6
+2020-05-20,National Child Care Association,3,7
+2020-05-20,National Women Law Center,3,8
+2020-05-20,Rales Health Center,3,9
+2020-05-20,Ymca,3,10
+2020-05-20,Centers For Disease,4,1
 2020-05-21,American Hotel,1,12
 2020-05-21,Bureau Of Justice Assistance,1,13
 2020-05-21,Centers For Disease,1,14
@@ -3806,3 +3851,45 @@ date,organization,count,rn
 2020-05-27,University Of San Francisco,2,7
 2020-05-27,University Of South Florida,2,8
 2020-05-27,Twitter,4,1
+2020-05-28,Advisory Council,1,7
+2020-05-28,Ball State University,1,8
+2020-05-28,Board Of Health,1,9
+2020-05-28,Catholic News Service,1,10
+2020-05-28,Centers For Disease,1,11
+2020-05-28,Community Foundation Of Morgan,1,12
+2020-05-28,Connecticut State Police,1,13
+2020-05-28,Crane Army,1,14
+2020-05-28,Department Of Defense,1,15
+2020-05-28,Department Of Health,1,16
+2020-05-28,Department Of Workforce Development,1,17
+2020-05-28,Dundee Community Schools,1,18
+2020-05-28,Facebook,1,19
+2020-05-28,Foellinger Foundation,1,20
+2020-05-28,Friendly,1,21
+2020-05-28,Indiana State Department Of Health,1,22
+2020-05-28,Interfaith Community Services,1,23
+2020-05-28,Iu Restart Committee,1,24
+2020-05-28,Kendrick Foundation,1,25
+2020-05-28,Kittleman Associates,1,26
+2020-05-28,Mckinsey Co,1,27
+2020-05-28,Michigan Department Of Education,1,28
+2020-05-28,Monroe Middle School,1,29
+2020-05-28,Morgan,1,30
+2020-05-28,Paul Episcopal Church,1,31
+2020-05-28,Polis Center,1,32
+2020-05-28,Polis Center At Indiana University,1,33
+2020-05-28,Santa Cruz Foundation For The Performing Arts,1,34
+2020-05-28,Services Administration,1,35
+2020-05-28,Space Museum In Manhattan,1,36
+2020-05-28,Supplemental Nutrition Assistance Program,1,37
+2020-05-28,United Health Foundation,1,38
+2020-05-28,United States,1,39
+2020-05-28,University Of The Connecticut,1,40
+2020-05-28,Veterans Affairs,1,41
+2020-05-28,York Civil Liberties Union,1,42
+2020-05-28,Associated Press,2,5
+2020-05-28,Walmart,2,6
+2020-05-28,Indiana University,3,3
+2020-05-28,Louis Metropolitan Clergy Coalition,3,4
+2020-05-28,Columbia University,4,1
+2020-05-28,Louis Health Department,4,2

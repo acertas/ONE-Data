@@ -316,16 +316,16 @@ date,person,count,rn
 2020-03-24,Annette Rodriguez,2,38
 2020-03-24,Barbara Canales,2,39
 2020-03-24,Hubert Mcnally,2,40
-2020-03-24,Jason Alexander,2,41
-2020-03-24,Jeffrey Brown,2,42
-2020-03-24,John Benjamin Hickey,2,43
-2020-03-24,John Carucci,2,44
-2020-03-24,John Glover,2,45
-2020-03-24,Justin Kirk,2,46
-2020-03-24,Paula Vogel,2,47
-2020-03-24,Rodney Reed,2,48
-2020-03-24,Sean Strawbridge,2,49
-2020-03-24,Tom Kirdahy,2,50
+2020-03-24,James Dailey,2,41
+2020-03-24,Jason Alexander,2,42
+2020-03-24,Jeffrey Brown,2,43
+2020-03-24,John Benjamin Hickey,2,44
+2020-03-24,John Carucci,2,45
+2020-03-24,John Glover,2,46
+2020-03-24,John Hummel,2,47
+2020-03-24,Justin Kirk,2,48
+2020-03-24,Paula Vogel,2,49
+2020-03-24,Sean Strawbridge,2,50
 2020-03-24,Al Worden,3,33
 2020-03-24,Joe Mccomb,3,34
 2020-03-24,Kenny Rogers,3,35
@@ -1185,14 +1185,16 @@ date,person,count,rn
 2020-05-11,Gavin Newsom,1,4
 2020-05-11,Matt Jensen,1,5
 2020-05-11,Raul Rosario,1,6
-2020-05-12,Beverly Patlan,1,6
-2020-05-12,John Powell,1,7
-2020-05-12,Nan,1,8
-2020-05-12,Peter Zanoni,1,9
-2020-05-12,Arnold Angel Soto,2,2
-2020-05-12,Elva Estrada,2,3
-2020-05-12,Greg Abbott,2,4
+2020-05-12,Barbara Canales,1,6
+2020-05-12,Beverly Patlan,1,7
+2020-05-12,John Powell,1,8
+2020-05-12,Nan,1,9
+2020-05-12,Peter Zanoni,1,10
+2020-05-12,Robert Rocha,1,11
+2020-05-12,Elva Estrada,2,4
 2020-05-12,Joe Mccomb,2,5
+2020-05-12,Arnold Angel Soto,3,2
+2020-05-12,Greg Abbott,3,3
 2020-05-12,Annette Rodriguez,4,1
 2020-05-13,Annette Rodriguez,1,1
 2020-05-13,Barbara Canales,1,2
@@ -1373,6 +1375,15 @@ date,person,count,rn
 2020-05-19,Will Finn,1,31
 2020-05-19,Greg Abbott,2,1
 2020-05-19,Peter Zanoni,2,2
+2020-05-20,Anna Fierova,1,1
+2020-05-20,Annette Rodriguez,1,2
+2020-05-20,Joe Mccomb,1,3
+2020-05-20,John Cornyn,1,4
+2020-05-20,Krista Piferrer,1,5
+2020-05-20,Royce West,1,6
+2020-05-20,Shutterstock John Cornyn,1,7
+2020-05-20,Vince Leibowitz,1,8
+2020-05-20,Wikimedia Commons Iamhasanansari Royce,1,9
 2020-05-21,Ahmaud Arbery,1,3
 2020-05-21,Amber Ainsworth,1,4
 2020-05-21,Andrew Weissmann,1,5
@@ -1478,3 +1489,12 @@ date,person,count,rn
 2020-05-27,Philippe Tissot,1,6
 2020-05-27,Richard Conlon,1,7
 2020-05-27,Nan,2,1
+2020-05-28,Chris Thomasson,1,6
+2020-05-28,Kara Sands,1,7
+2020-05-28,Lori Garcia,1,8
+2020-05-28,Madison Ramos,1,9
+2020-05-28,Annette Rodriguez,2,2
+2020-05-28,Christine Mann,2,3
+2020-05-28,Greg Abbott,2,4
+2020-05-28,Peter Zanoni,2,5
+2020-05-28,Barbara Canales,5,1

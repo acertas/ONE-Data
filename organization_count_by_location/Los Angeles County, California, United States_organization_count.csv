@@ -3966,8 +3966,8 @@ date,organization,count,rn
 2020-04-23,Nan,13,9
 2020-04-23,Facebook,16,8
 2020-04-23,White House,17,7
-2020-04-23,Tribune Content Agency,18,6
 2020-04-23,City Council,19,5
+2020-04-23,Tribune Content Agency,19,6
 2020-04-23,University Of California,20,4
 2020-04-23,Instagram,21,2
 2020-04-23,Twitter,21,3
@@ -4164,10 +4164,10 @@ date,organization,count,rn
 2020-04-27,University Of Pennsylvania,8,12
 2020-04-27,Disney,9,10
 2020-04-27,Harvard University,10,9
-2020-04-27,Instagram,13,7
-2020-04-27,Nan,13,8
+2020-04-27,Instagram,13,8
 2020-04-27,Google,14,5
-2020-04-27,Tribune Content Agency,14,6
+2020-04-27,Nan,14,6
+2020-04-27,Tribune Content Agency,14,7
 2020-04-27,Cnn,19,4
 2020-04-27,White House,20,3
 2020-04-27,Twitter,24,2
@@ -4202,20 +4202,20 @@ date,organization,count,rn
 2020-04-28,Associated Press,9,21
 2020-04-28,Drug Administration,9,22
 2020-04-28,Facebook,9,23
-2020-04-28,Johns Hopkins University,11,17
-2020-04-28,Netflix,11,18
+2020-04-28,Johns Hopkins University,11,18
 2020-04-28,Reuters,11,19
 2020-04-28,Stern,11,20
 2020-04-28,Clorox,12,15
 2020-04-28,Disney,12,16
+2020-04-28,Netflix,12,17
 2020-04-28,Tribune Content Agency,14,14
 2020-04-28,Nan,17,13
 2020-04-28,Wisconsin Department Of Natural Resources,18,12
 2020-04-28,National Institute Of Allergy,20,10
 2020-04-28,University Of Texas At Austin,20,11
-2020-04-28,Instagram,21,7
 2020-04-28,Oval Office,21,8
 2020-04-28,Twitter,21,9
+2020-04-28,Instagram,22,7
 2020-04-28,Cnn,32,6
 2020-04-28,Georgia Department Of Public Health,33,5
 2020-04-28,Centers For Disease,36,4
@@ -4563,14 +4563,14 @@ date,organization,count,rn
 2020-05-05,Spacex,7,12
 2020-05-05,Associated Press,8,10
 2020-05-05,Cnn,8,11
-2020-05-05,Instagram,9,8
 2020-05-05,University Of California,9,9
-2020-05-05,Tribune Content Agency,10,7
-2020-05-05,White House,11,6
+2020-05-05,Instagram,10,8
+2020-05-05,Tribune Content Agency,11,6
+2020-05-05,White House,11,7
 2020-05-05,Netflix,14,5
-2020-05-05,Nan,15,3
-2020-05-05,Twitter,15,4
+2020-05-05,Nan,15,4
 2020-05-05,Facebook,16,2
+2020-05-05,Twitter,16,3
 2020-05-05,United States,44,1
 2020-05-06,Bureau Of Prisons,7,43
 2020-05-06,Centers For Disease,7,44
@@ -4897,14 +4897,14 @@ date,organization,count,rn
 2020-05-12,Public Health,4,37
 2020-05-12,Reuters,4,38
 2020-05-12,Sheriff Department,4,39
-2020-05-12,Albertsons Co,5,20
-2020-05-12,Facebook,5,21
-2020-05-12,New York Times,5,22
-2020-05-12,Starbucks,5,23
+2020-05-12,Facebook,5,22
+2020-05-12,New York Times,5,23
 2020-05-12,Texas A M University,5,24
 2020-05-12,Youtube,5,25
-2020-05-12,Massachusetts Nursing Association,6,18
-2020-05-12,Virginia State Firemen Association,6,19
+2020-05-12,Albertsons Co,6,18
+2020-05-12,Massachusetts Nursing Association,6,19
+2020-05-12,Starbucks,6,20
+2020-05-12,Virginia State Firemen Association,6,21
 2020-05-12,Bureau Of Prisons,7,16
 2020-05-12,Ronald Reagan Presidential Library,7,17
 2020-05-12,Disney,8,13
@@ -4920,7 +4920,7 @@ date,organization,count,rn
 2020-05-12,Tribune Content Agency,17,5
 2020-05-12,Nan,18,4
 2020-05-12,United States,23,3
-2020-05-12,Associated Press,27,2
+2020-05-12,Associated Press,28,2
 2020-05-12,Twitter,36,1
 2020-05-13,California Association Of School Counselors,5,50
 2020-05-13,Oval Office,6,47
@@ -5272,55 +5272,56 @@ date,organization,count,rn
 2020-05-19,Nan,13,4
 2020-05-19,Tribune Content Agency,13,5
 2020-05-19,Instagram,18,1
-2020-05-20,Associated Press,1,16
-2020-05-20,Beauty Federation Of California,1,17
-2020-05-20,California Department Of Public Health,1,18
-2020-05-20,Centers For Disease Control,1,19
-2020-05-20,Centers For Medicare,1,20
-2020-05-20,Commerce Committee,1,21
-2020-05-20,Democratic Party,1,22
-2020-05-20,Division Of Main Justice,1,23
-2020-05-20,Drug Enforcement Administration,1,24
-2020-05-20,Exchange Commission,1,25
-2020-05-20,Family Center,1,26
-2020-05-20,Glenn Senate,1,27
-2020-05-20,Harris School Of Public,1,28
-2020-05-20,Health Care Enhancement,1,29
-2020-05-20,Hearing Association,1,30
-2020-05-20,House Energy,1,31
-2020-05-20,John Glenn College Of Public Affairs,1,32
-2020-05-20,Justice Department,1,33
-2020-05-20,Mcdonnell Supreme Court,1,34
-2020-05-20,Medicaid Services,1,35
-2020-05-20,Missouri State University,1,36
-2020-05-20,New York Times,1,37
-2020-05-20,Ohio State University,1,38
-2020-05-20,Republican National Committee,1,39
-2020-05-20,Reuters,1,40
-2020-05-20,Senate Intelligence Committee,1,41
-2020-05-20,Speech Pathology Department At Ohio State University,1,42
-2020-05-20,Spokespersons For The Justice Department,1,43
-2020-05-20,Supreme Court,1,44
-2020-05-20,Supreme Court Justice Clarence Thomas,1,45
-2020-05-20,University Of Chicago,1,46
-2020-05-20,Warnermedia Company,1,47
-2020-05-20,White House,1,48
-2020-05-20,Yahoo,1,49
-2020-05-20,Fire Department,2,7
-2020-05-20,Flagstaff Medical Center,2,8
-2020-05-20,Gallup Indian Medical Center,2,9
-2020-05-20,Lifeguard Division,2,10
-2020-05-20,Nanizhoozhi Center,2,11
-2020-05-20,Paycheck Protection Program,2,12
-2020-05-20,Public Health,2,13
-2020-05-20,Public Health Department Dr,2,14
-2020-05-20,Tribune Content Agency,2,15
-2020-05-20,Cnn,3,4
-2020-05-20,Nan,3,5
-2020-05-20,Xinhua,3,6
-2020-05-20,Instagram,5,3
-2020-05-20,Twitter,6,2
-2020-05-20,United States,7,1
+2020-05-20,City Council,4,39
+2020-05-20,Department Of Public Health,4,40
+2020-05-20,Drug Administration,4,41
+2020-05-20,Exchange Commission,4,42
+2020-05-20,Founder Of Old School,4,43
+2020-05-20,Larry Bird Videos Old School,4,44
+2020-05-20,National Institute Of Allergy,4,45
+2020-05-20,Natural Health Succes Freedom,4,46
+2020-05-20,Public Health Department Dr,4,47
+2020-05-20,Southern Poverty Law Center,4,48
+2020-05-20,Toyota,4,49
+2020-05-20,University Of Southern California,4,50
+2020-05-20,American Heart Association,5,25
+2020-05-20,American Heart Association News,5,26
+2020-05-20,California Department Of Public Health,5,27
+2020-05-20,Flagstaff Medical Center,5,28
+2020-05-20,Gallup Indian Medical Center,5,29
+2020-05-20,Grossman School Of Medicine,5,30
+2020-05-20,Her Oprah Winfrey Charitable Foundation,5,31
+2020-05-20,Nanizhoozhi Center,5,32
+2020-05-20,Notre Dame University,5,33
+2020-05-20,Sarah Ross Soter Center,5,34
+2020-05-20,Supreme Court,5,35
+2020-05-20,Women Cardiovascular Research,5,36
+2020-05-20,World Trade Center,5,37
+2020-05-20,York City Family Justice Center,5,38
+2020-05-20,Great Smoky Mountains National Park,6,20
+2020-05-20,Mcdonald,6,21
+2020-05-20,Space Agency,6,22
+2020-05-20,United Airlines,6,23
+2020-05-20,Wordpress,6,24
+2020-05-20,Family Research Council,7,17
+2020-05-20,Sexual Health Education,7,18
+2020-05-20,Youtube,7,19
+2020-05-20,California State University,8,14
+2020-05-20,Johns Hopkins University,8,15
+2020-05-20,National Weather Service,8,16
+2020-05-20,Public Health,9,13
+2020-05-20,Google,10,12
+2020-05-20,New York Times,11,11
+2020-05-20,Cnn,12,7
+2020-05-20,Nan,12,8
+2020-05-20,Tribune Content Agency,12,9
+2020-05-20,White House,12,10
+2020-05-20,Facebook,13,6
+2020-05-20,Instagram,15,5
+2020-05-20,Associated Press,16,4
+2020-05-20,Centers For Disease,21,2
+2020-05-20,Twitter,21,3
+2020-05-20,United States,51,1
 2020-05-21,A Walt Disney Co,3,45
 2020-05-21,African Union,3,46
 2020-05-21,Ahold,3,47
@@ -5671,3 +5672,53 @@ date,organization,count,rn
 2020-05-27,United States,15,3
 2020-05-27,Twitter,21,2
 2020-05-27,Disney,27,1
+2020-05-28,Aljazeera,2,48
+2020-05-28,American Airlines,2,49
+2020-05-28,American Civil Liberties Union,2,50
+2020-05-28,Ahmanson Recruit Training Center,3,29
+2020-05-28,Association Of Mature American Citizens,3,30
+2020-05-28,Big League Politics,3,31
+2020-05-28,Boeing,3,32
+2020-05-28,Cross Culture Christian Center,3,33
+2020-05-28,Department Of Beaches,3,34
+2020-05-28,Department Of Public Social Services,3,35
+2020-05-28,Dollar Tree,3,36
+2020-05-28,Emergency Renters Relief Program,3,37
+2020-05-28,Google,3,38
+2020-05-28,National Institutes Of Health,3,39
+2020-05-28,National Intelligence,3,40
+2020-05-28,National Intelligence Richard Grenell,3,41
+2020-05-28,Netflix,3,42
+2020-05-28,Roman Catholic Diocese Of Orange,3,43
+2020-05-28,Saint Vincent Medical Center,3,44
+2020-05-28,Third Baptist Church,3,45
+2020-05-28,Walt Disney Co,3,46
+2020-05-28,Walt Disney Company,3,47
+2020-05-28,Bureau Of Criminal Apprehension,4,22
+2020-05-28,City Council,4,23
+2020-05-28,Johns Hopkins University,4,24
+2020-05-28,New York Times,4,25
+2020-05-28,Public Health,4,26
+2020-05-28,Reuters,4,27
+2020-05-28,Walt Disney,4,28
+2020-05-28,Bureau Of Prisons,5,17
+2020-05-28,Minneapolis Police Department,5,18
+2020-05-28,Msnbc,5,19
+2020-05-28,University Of California,5,20
+2020-05-28,World Health Organization,5,21
+2020-05-28,Department Of Public Health,7,14
+2020-05-28,Instagram,7,15
+2020-05-28,National Guard,7,16
+2020-05-28,Minnesota Department Of Criminal Apprehension,8,11
+2020-05-28,Tribune Content Agency,8,12
+2020-05-28,Youtube,8,13
+2020-05-28,Autozone,10,10
+2020-05-28,Associated Press,11,9
+2020-05-28,Disney,12,6
+2020-05-28,Facebook,12,7
+2020-05-28,White House,12,8
+2020-05-28,Centers For Disease,14,4
+2020-05-28,Nan,14,5
+2020-05-28,Cnn,16,3
+2020-05-28,United States,25,2
+2020-05-28,Twitter,27,1

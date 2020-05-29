@@ -2828,8 +2828,8 @@ date,organization,count,rn
 2020-04-24,York University,6,14
 2020-04-24,Centers For Disease,7,5
 2020-04-24,Mexico Department Of Workforce Solutions,7,6
-2020-04-24,Department Of Health,9,3
 2020-04-24,Life Care Center,9,4
+2020-04-24,Department Of Health,10,3
 2020-04-24,Mexico Department Of Health,11,2
 2020-04-24,United States,18,1
 2020-04-25,Arizona Department Of Public Safety,2,38
@@ -2947,13 +2947,13 @@ date,organization,count,rn
 2020-04-27,First Baptist Church,2,41
 2020-04-27,Hobbs Police,2,42
 2020-04-27,Human Services,2,43
-2020-04-27,Instagram,2,44
-2020-04-27,Investment Council,2,45
-2020-04-27,Kansas Supreme Court,2,46
-2020-04-27,Kickstart Fund,2,47
-2020-04-27,Land Grant Permanent Fund,2,48
-2020-04-27,Legacy Church,2,49
-2020-04-27,Mcdonald,2,50
+2020-04-27,Human Services Department,2,44
+2020-04-27,Instagram,2,45
+2020-04-27,Investment Council,2,46
+2020-04-27,Kansas Supreme Court,2,47
+2020-04-27,Kickstart Fund,2,48
+2020-04-27,Land Grant Permanent Fund,2,49
+2020-04-27,Legacy Church,2,50
 2020-04-27,Ahmed Associates,3,24
 2020-04-27,National Guard,3,25
 2020-04-27,Schuster Tax Service In Beaverton,3,26
@@ -2978,8 +2978,8 @@ date,organization,count,rn
 2020-04-27,University Of New Mexico,10,9
 2020-04-27,Wellbrook Rehabilitation Center,10,10
 2020-04-27,Life Care Center,12,5
-2020-04-27,Department Of Health,15,3
 2020-04-27,United States,15,4
+2020-04-27,Department Of Health,16,3
 2020-04-27,Associated Press,18,2
 2020-04-27,Mexico Department Of Health,26,1
 2020-04-28,Aleut Community Of St,3,31
@@ -4082,56 +4082,56 @@ date,organization,count,rn
 2020-05-19,Flagstaff Medical Center,13,3
 2020-05-19,Gallup Indian Medical Center,15,2
 2020-05-19,Associated Press,16,1
-2020-05-20,California Department Of Justice,1,48
-2020-05-20,California Rifle Pistol Association,1,49
-2020-05-20,Clovi Plains Regional Medical Center,1,50
-2020-05-20,Mexico Racing Commission,2,46
-2020-05-20,Nan,2,47
-2020-05-20,Ap Technology Writer,3,11
-2020-05-20,Aztec Health Care In Aztec,3,12
-2020-05-20,Bandelier National Monument,3,13
-2020-05-20,Canyon Transitional Rehabilitation Center,3,14
-2020-05-20,Central Desert Behavioral Health In Albuquerque,3,15
-2020-05-20,Chevron,3,16
-2020-05-20,Dungarvin New Mexico,3,17
-2020-05-20,Exxonmobil,3,18
-2020-05-20,Fort Union National Monument,3,19
-2020-05-20,Google,3,20
-2020-05-20,Greenpeace,3,21
-2020-05-20,Health Care Of Albuquerque,3,22
-2020-05-20,Ladera Center,3,23
-2020-05-20,Lincoln National Forest,3,24
-2020-05-20,Mckinley Care Center,3,25
-2020-05-20,Mexico Outdoor Recreation Division,3,26
-2020-05-20,Mexico State Police,3,27
-2020-05-20,Microsoft,3,28
-2020-05-20,Morgan,3,29
-2020-05-20,Morgan Lee Associated,3,30
-2020-05-20,National Park Service,3,31
-2020-05-20,National Weather Service In Albuquerque,3,32
-2020-05-20,Outdoor Equity Fund,3,33
-2020-05-20,Pacifica Senior Living Center Santa Fe,3,34
-2020-05-20,Pecos National Historical Park,3,35
-2020-05-20,Raytheon,3,36
-2020-05-20,Raytheon Technologies Corp,3,37
-2020-05-20,Research Laboratory At Kirtland Air Force,3,38
-2020-05-20,Robin House Assisted Living Center,3,39
-2020-05-20,Sandia Ridge Center,3,40
-2020-05-20,Shell,3,41
-2020-05-20,Technology Park On Albuquerque,3,42
-2020-05-20,Tungland Corporation In Farmington,3,43
-2020-05-20,Valles Caldera National,3,44
-2020-05-20,Wellbrook Transitional Rehabilitation Center,3,45
-2020-05-20,Heartland Continuing Care Center,4,9
-2020-05-20,Mexico Department Of Health,4,10
-2020-05-20,Associated Press,5,4
-2020-05-20,Flagstaff Medical Center,5,5
-2020-05-20,Gallup Indian Medical Center,5,6
-2020-05-20,Mexico Association Of Realtors,5,7
-2020-05-20,Nanizhoozhi Center,5,8
-2020-05-20,Department Of Health,6,3
-2020-05-20,Life Care Center,9,1
-2020-05-20,Mexico Corrections Department,9,2
+2020-05-20,Bandelier National Monument,3,40
+2020-05-20,Brusly Police Department,3,41
+2020-05-20,Caroline County Sheriff Office,3,42
+2020-05-20,Casa Maria Health Care Center,3,43
+2020-05-20,Fort Union National Monument,3,44
+2020-05-20,International Folk Art Market,3,45
+2020-05-20,Morgan,3,46
+2020-05-20,National Park Service,3,47
+2020-05-20,Oil Conservation Division,3,48
+2020-05-20,Pecos National Historical Park,3,49
+2020-05-20,Raytheon,3,50
+2020-05-20,Baylor University,4,30
+2020-05-20,Indigenous Impact Rapid Response Initiative,4,31
+2020-05-20,Instagram,4,32
+2020-05-20,Loyola Marymount University,4,33
+2020-05-20,Mexico Association Of Realtors,4,34
+2020-05-20,Mexico State University,4,35
+2020-05-20,Nan,4,36
+2020-05-20,Navarro Community College,4,37
+2020-05-20,Public Education Commission,4,38
+2020-05-20,University Of New Mexico,4,39
+2020-05-20,Chevron,5,25
+2020-05-20,Mexico State Police,5,26
+2020-05-20,Shell,5,27
+2020-05-20,Texas A M University,5,28
+2020-05-20,White House,5,29
+2020-05-20,Aztec Health Care In Aztec,6,14
+2020-05-20,Central Desert Behavioral Health In Albuquerque,6,15
+2020-05-20,Dungarvin New Mexico,6,16
+2020-05-20,Health Care Of Albuquerque,6,17
+2020-05-20,Ladera Center,6,18
+2020-05-20,Mckinley Care Center,6,19
+2020-05-20,Pacifica Senior Living Center Santa Fe,6,20
+2020-05-20,Robin House Assisted Living Center,6,21
+2020-05-20,Sandia Ridge Center,6,22
+2020-05-20,Tungland Corporation In Farmington,6,23
+2020-05-20,Wellbrook Transitional Rehabilitation Center,6,24
+2020-05-20,Facebook,7,11
+2020-05-20,Heartland Continuing Care Center,7,12
+2020-05-20,Mexico Department Of Health,7,13
+2020-05-20,Reuters,10,10
+2020-05-20,Department Of Health,12,9
+2020-05-20,Life Care Center,13,6
+2020-05-20,Mexico Corrections Department,13,7
+2020-05-20,Morgan Lee Associated,13,8
+2020-05-20,Associated Press,14,5
+2020-05-20,United States,15,4
+2020-05-20,Flagstaff Medical Center,20,3
+2020-05-20,Nanizhoozhi Center,21,2
+2020-05-20,Gallup Indian Medical Center,23,1
 2020-05-21,Boeing,4,42
 2020-05-21,Health Department,4,43
 2020-05-21,Indian Affairs Tara Sweeney,4,44
@@ -4482,3 +4482,53 @@ date,organization,count,rn
 2020-05-27,Republican Party,12,4
 2020-05-27,Health Department,14,2
 2020-05-27,Associated Press,20,1
+2020-05-28,Aztec Health Care In Aztec,4,29
+2020-05-28,Casa Maria Health Care Center,4,30
+2020-05-28,Central Desert Behavioral Health In Albuquerque,4,31
+2020-05-28,Democratic Party,4,32
+2020-05-28,Dungarvin New Mexico,4,33
+2020-05-28,Government Accountability Office,4,34
+2020-05-28,Health Care Of Albuquerque,4,35
+2020-05-28,Heartland Continuing Care Center,4,36
+2020-05-28,Life Care Center,4,37
+2020-05-28,Mckinley Care Center,4,38
+2020-05-28,Mexico Air Base Becomes Home,4,39
+2020-05-28,Pacifica Senior Living Center Santa Fe,4,40
+2020-05-28,Qingdao Opis Commodity Co,4,41
+2020-05-28,Rehab Center,4,42
+2020-05-28,Rich Resource Global Supply Chain Guangzhou,4,43
+2020-05-28,Robin House Assisted Living Center,4,44
+2020-05-28,Russell Contreras Associated,4,45
+2020-05-28,San Juan Center,4,46
+2020-05-28,Sandia Ridge Center,4,47
+2020-05-28,University Of New Mexico,4,48
+2020-05-28,Wellbrook Transitional Rehabilitation Center,4,49
+2020-05-28,Zhejiang Jufeng Drilling Decoration Co,4,50
+2020-05-28,Ana County Commission,5,26
+2020-05-28,Fedex,5,27
+2020-05-28,Mexico Corrections Department,5,28
+2020-05-28,Democratic Senate,6,22
+2020-05-28,Desert Visitor Center,6,23
+2020-05-28,Drug Administration,6,24
+2020-05-28,Forest National Park,6,25
+2020-05-28,Mexico Department Of Health,7,21
+2020-05-28,Republican Party,8,19
+2020-05-28,United States,8,20
+2020-05-28,Facebook,9,17
+2020-05-28,Human Services,9,18
+2020-05-28,Human Services Department,10,14
+2020-05-28,Mexico Military Institute,10,15
+2020-05-28,Twitter,10,16
+2020-05-28,White House,11,13
+2020-05-28,Navajo Department Of Health,12,12
+2020-05-28,Indian Health Service,14,11
+2020-05-28,Department Of Health,15,9
+2020-05-28,Sheriff Office,15,10
+2020-05-28,Centers For Disease,16,8
+2020-05-28,American Airlines,17,3
+2020-05-28,Frontier Airlines,17,4
+2020-05-28,Health Department,17,5
+2020-05-28,Roswell International Air Center,17,6
+2020-05-28,United Airlines,17,7
+2020-05-28,Republican Party Of New Mexico,18,2
+2020-05-28,Associated Press,19,1

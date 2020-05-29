@@ -3291,24 +3291,24 @@ date,organization,count,rn
 2020-04-23,United States,12,3
 2020-04-23,Associated Press,16,2
 2020-04-23,Utah Department Of Health,20,1
-2020-04-24,Centers For Disease,2,48
 2020-04-24,Cnn,2,49
 2020-04-24,Coronavirus Relief Fund,2,50
-2020-04-24,Committee Makes Recommendations To Governor,3,33
-2020-04-24,Community Task,3,34
-2020-04-24,Governor Office Of Management,3,35
-2020-04-24,Iowa Workforce Development,3,36
-2020-04-24,Legislature Approves Federal,3,37
-2020-04-24,Manorcare Health Services,3,38
-2020-04-24,Multicultural Task,3,39
-2020-04-24,Navajo Department Of Health,3,40
-2020-04-24,Salt Lake County Medical Society,3,41
-2020-04-24,Screen Actors Guild Awards In Los Angeles,3,42
-2020-04-24,University Of Iowa,3,43
-2020-04-24,University Of Minnesota,3,44
-2020-04-24,Utah Department Of Workforce Services,3,45
-2020-04-24,Utah Public Health,3,46
-2020-04-24,World Health Organization,3,47
+2020-04-24,Centers For Disease,3,33
+2020-04-24,Committee Makes Recommendations To Governor,3,34
+2020-04-24,Community Task,3,35
+2020-04-24,Governor Office Of Management,3,36
+2020-04-24,Iowa Workforce Development,3,37
+2020-04-24,Legislature Approves Federal,3,38
+2020-04-24,Manorcare Health Services,3,39
+2020-04-24,Multicultural Task,3,40
+2020-04-24,Navajo Department Of Health,3,41
+2020-04-24,Salt Lake County Medical Society,3,42
+2020-04-24,Screen Actors Guild Awards In Los Angeles,3,43
+2020-04-24,University Of Iowa,3,44
+2020-04-24,University Of Minnesota,3,45
+2020-04-24,Utah Department Of Workforce Services,3,46
+2020-04-24,Utah Public Health,3,47
+2020-04-24,World Health Organization,3,48
 2020-04-24,City Council,4,17
 2020-04-24,Cultural Interpretive Center,4,18
 2020-04-24,Department Of Workforce Services,4,19
@@ -3331,11 +3331,11 @@ date,organization,count,rn
 2020-04-24,Sanford Health,6,13
 2020-04-24,Teva Pharmaceutical,6,14
 2020-04-24,Utah Republican Party,6,15
-2020-04-24,Department Of Health,7,7
-2020-04-24,Nan,7,8
+2020-04-24,Department Of Health,7,8
 2020-04-24,Paycheck Protection Program,7,9
 2020-04-24,Test Iowa Initiative,7,10
-2020-04-24,White House,8,6
+2020-04-24,Nan,8,6
+2020-04-24,White House,8,7
 2020-04-24,University Of Utah,9,4
 2020-04-24,Utah Department Of Health,9,5
 2020-04-24,Nomi Health,12,3
@@ -3491,15 +3491,13 @@ date,organization,count,rn
 2020-04-27,Utah Legislature,6,3
 2020-04-27,White House,6,4
 2020-04-27,Centers For Disease,8,1
-2020-04-28,Alaska Housing Finance Corporation,1,42
-2020-04-28,Alaska Supreme Court,1,43
-2020-04-28,Alex Brandon Associated Press Steven Mnuchin,1,44
-2020-04-28,Alphabet Inc Google,1,45
-2020-04-28,Amazon Web Services,1,46
-2020-04-28,America Competitive Nuclear Advantage,1,47
-2020-04-28,American Council,1,48
-2020-04-28,Apartment Association Of Central Oklahoma,1,49
-2020-04-28,Apartment Association Of North Carolina,1,50
+2020-04-28,Alaska Housing Finance Corporation,1,44
+2020-04-28,Alaska Supreme Court,1,45
+2020-04-28,Alex Brandon Associated Press Steven Mnuchin,1,46
+2020-04-28,Alphabet Inc Google,1,47
+2020-04-28,Amazon Web Services,1,48
+2020-04-28,America Competitive Nuclear Advantage,1,49
+2020-04-28,American Community,1,50
 2020-04-28,American Council Of The Blind,2,26
 2020-04-28,City Council,2,27
 2020-04-28,Clorox,2,28
@@ -3511,11 +3509,13 @@ date,organization,count,rn
 2020-04-28,Jetblue,2,34
 2020-04-28,Microsoft,2,35
 2020-04-28,National Guard,2,36
-2020-04-28,Utah Health Department,2,37
-2020-04-28,Utah Manufacturer Association,2,38
-2020-04-28,Utah Republican Party,2,39
-2020-04-28,White House,2,40
-2020-04-28,World Health Organization,2,41
+2020-04-28,Supreme Court,2,37
+2020-04-28,Utah Elections Office,2,38
+2020-04-28,Utah Health Department,2,39
+2020-04-28,Utah Manufacturer Association,2,40
+2020-04-28,Utah Republican Party,2,41
+2020-04-28,White House,2,42
+2020-04-28,World Health Organization,2,43
 2020-04-28,Canyonlands National Park,3,15
 2020-04-28,Citizens Bank,3,16
 2020-04-28,Community Spirit Bank,3,17
@@ -3546,9 +3546,8 @@ date,organization,count,rn
 2020-04-29,Aluminum Association,2,48
 2020-04-29,Amtrak,2,49
 2020-04-29,Association For Accessible Medicines,2,50
-2020-04-29,Centers For Medicare,3,35
-2020-04-29,Detroit The Justice Department,3,36
-2020-04-29,Facebook,3,37
+2020-04-29,Centers For Medicare,3,36
+2020-04-29,Detroit The Justice Department,3,37
 2020-04-29,Google,3,38
 2020-04-29,Indian National Film Award,3,39
 2020-04-29,Johns Hopkins University Center,3,40
@@ -3557,11 +3556,12 @@ date,organization,count,rn
 2020-04-29,Southeast Utah Public Health Department,3,43
 2020-04-29,Us Justice Department,3,44
 2020-04-29,Utah Manufacturers Association,3,45
-2020-04-29,Federal Reserve,4,30
-2020-04-29,Health Department,4,31
-2020-04-29,Instagram,4,32
-2020-04-29,Young,4,33
-2020-04-29,Youtube,4,34
+2020-04-29,Facebook,4,30
+2020-04-29,Federal Reserve,4,31
+2020-04-29,Health Department,4,32
+2020-04-29,Instagram,4,33
+2020-04-29,Young,4,34
+2020-04-29,Youtube,4,35
 2020-04-29,Drug Administration Emergency Use Authorization,5,23
 2020-04-29,Human Services,5,24
 2020-04-29,Justice Department,5,25
@@ -3569,20 +3569,20 @@ date,organization,count,rn
 2020-04-29,U School Of Medicine,5,27
 2020-04-29,White House,5,28
 2020-04-29,World Health Organization,5,29
-2020-04-29,Costco,6,16
 2020-04-29,Department Of Justice,6,17
 2020-04-29,National Park Service,6,18
 2020-04-29,Officials At Death Valley National Park,6,19
 2020-04-29,Teton National Park,6,20
 2020-04-29,Verizon,6,21
 2020-04-29,Yellowstone National Park,6,22
-2020-04-29,Nan,7,15
+2020-04-29,Costco,7,15
+2020-04-29,Nan,7,16
 2020-04-29,Centers For Disease,9,12
 2020-04-29,Gp Silver,9,13
 2020-04-29,My Doctor Suggests,9,14
 2020-04-29,University Of Utah,10,11
-2020-04-29,Twitter,11,9
 2020-04-29,United States,11,10
+2020-04-29,Twitter,12,9
 2020-04-29,Utah National Guard,13,8
 2020-04-29,Drug Administration,15,5
 2020-04-29,Drug Administration On,15,6
@@ -3594,12 +3594,12 @@ date,organization,count,rn
 2020-04-30,Health Security,3,42
 2020-04-30,Johns Hopkins Center,3,43
 2020-04-30,Johns Hopkins University,3,44
-2020-04-30,National Institute Of Allergy,3,45
-2020-04-30,National Park Service,3,46
-2020-04-30,Officials At Death Valley National Park,3,47
-2020-04-30,Silver Health Institute,3,48
-2020-04-30,Teton National Park,3,49
-2020-04-30,Utah State University,3,50
+2020-04-30,Nan,3,45
+2020-04-30,National Institute Of Allergy,3,46
+2020-04-30,National Park Service,3,47
+2020-04-30,Officials At Death Valley National Park,3,48
+2020-04-30,Silver Health Institute,3,49
+2020-04-30,Teton National Park,3,50
 2020-04-30,Instagram,4,35
 2020-04-30,Iowa Department Of Public Health,4,36
 2020-04-30,Johns Hopkins Bloomberg School Of Public Health,4,37
@@ -3636,8 +3636,8 @@ date,organization,count,rn
 2020-04-30,European Technical Advisory Group,14,7
 2020-04-30,National Health Service,14,8
 2020-04-30,World Health Organization,14,9
-2020-04-30,Utah Manufacturers Association,16,5
-2020-04-30,White House,17,4
+2020-04-30,Utah Manufacturers Association,17,4
+2020-04-30,White House,17,5
 2020-04-30,United States,18,3
 2020-04-30,Associated Press,20,2
 2020-04-30,Centers For Disease,24,1
@@ -4340,7 +4340,7 @@ date,organization,count,rn
 2020-05-14,Justice Department,12,5
 2020-05-14,Senate For,13,3
 2020-05-14,Cato Institute,14,2
-2020-05-14,Senate Majority Leader Mitch Mcconnell,15,1
+2020-05-14,Senate Majority Leader Mitch Mcconnell,16,1
 2020-05-15,Citigroup,2,49
 2020-05-15,Democrat In Congress,2,50
 2020-05-15,Abbott Laboratories,3,36
@@ -4591,56 +4591,56 @@ date,organization,count,rn
 2020-05-19,White House,15,4
 2020-05-19,United States,16,2
 2020-05-19,Cnn,17,1
-2020-05-20,American Council On Education,1,5
-2020-05-20,Ap Technology Writer,1,6
-2020-05-20,Bandelier National Monument,1,7
-2020-05-20,Braun,1,8
-2020-05-20,Brigham Young University,1,9
-2020-05-20,Canyon Transitional Rehabilitation Center,1,10
-2020-05-20,Catholic Community Services,1,11
-2020-05-20,Catholic Community Services Of Utah,1,12
-2020-05-20,Chevron,1,13
-2020-05-20,Department Of Justice,1,14
-2020-05-20,Exxonmobil,1,15
-2020-05-20,Fiscal Analyst Office,1,16
-2020-05-20,Fort Union National Monument,1,17
-2020-05-20,Girls Club,1,18
-2020-05-20,Google,1,19
-2020-05-20,Greenpeace,1,20
-2020-05-20,Howard University,1,21
-2020-05-20,Judiciary Committee,1,22
-2020-05-20,Legislature Executive Appropriations Committee On,1,23
-2020-05-20,Life Care Center,1,24
-2020-05-20,Lincoln National Forest,1,25
-2020-05-20,Mexico Association Of Realtors,1,26
-2020-05-20,Mexico Corrections Department,1,27
-2020-05-20,Mexico Outdoor Recreation Division,1,28
-2020-05-20,Mexico State Police,1,29
-2020-05-20,Microsoft,1,30
-2020-05-20,Morgan Lee Associated,1,31
-2020-05-20,National Correspondent Matt Gutman,1,32
-2020-05-20,National Intelligence Richard Grenell,1,33
-2020-05-20,National Park Service,1,34
-2020-05-20,National Weather Service In Albuquerque,1,35
-2020-05-20,Outdoor Equity Fund,1,36
-2020-05-20,Pecos National Historical Park,1,37
-2020-05-20,Point Of The Mountain State Land Authority,1,38
-2020-05-20,Raytheon,1,39
-2020-05-20,Raytheon Technologies Corp,1,40
-2020-05-20,Refugee Service,1,41
-2020-05-20,Research Laboratory At Kirtland Air Force,1,42
-2020-05-20,Senate Homeland Security Committee,1,43
-2020-05-20,Senate Judiciary Committee,1,44
-2020-05-20,Senate Minority Leader Chuck Schumer,1,45
-2020-05-20,Senate Republicans,1,46
-2020-05-20,Senior National Correspondent Paula Faris,1,47
-2020-05-20,Shell,1,48
-2020-05-20,Southern Utah University,1,49
-2020-05-20,Technology Park On Albuquerque,1,50
-2020-05-20,Justice Department,2,3
-2020-05-20,Twitter,2,4
-2020-05-20,Associated Press,3,1
-2020-05-20,United States,3,2
+2020-05-20,American Civil Liberties Union,2,41
+2020-05-20,American Council On Education,2,42
+2020-05-20,Arches National Park,2,43
+2020-05-20,Associates In Las Vegas,2,44
+2020-05-20,Brigham Young University,2,45
+2020-05-20,Bureau Of Land Management,2,46
+2020-05-20,Bureau Of Prisons,2,47
+2020-05-20,Catholic Community Services,2,48
+2020-05-20,Catholic Community Services Of Utah,2,49
+2020-05-20,Daily Caller News Foundation,2,50
+2020-05-20,Bandelier National Monument,3,22
+2020-05-20,Fort Union National Monument,3,23
+2020-05-20,Human Services,3,24
+2020-05-20,Kem Gardner Policy Institute,3,25
+2020-05-20,Life Care Center,3,26
+2020-05-20,Mexico Corrections Department,3,27
+2020-05-20,Morgan Lee Associated,3,28
+2020-05-20,National Park Service,3,29
+2020-05-20,National Safety Council,3,30
+2020-05-20,Pecos National Historical Park,3,31
+2020-05-20,Raytheon,3,32
+2020-05-20,Raytheon Technologies Corp,3,33
+2020-05-20,Research Laboratory At Kirtland Air Force,3,34
+2020-05-20,Safety Association,3,35
+2020-05-20,Technology Park On Albuquerque,3,36
+2020-05-20,United Nations,3,37
+2020-05-20,University Of Utah,3,38
+2020-05-20,Utah Public Health Department,3,39
+2020-05-20,Valles Caldera National,3,40
+2020-05-20,Google,4,15
+2020-05-20,Justice Department Bureau Of Justice Statistics,4,16
+2020-05-20,National Law Enforcement Officers Memorial Fund,4,17
+2020-05-20,National Police Week,4,18
+2020-05-20,Senate Republicans,4,19
+2020-05-20,University Of Buffalo,4,20
+2020-05-20,York Police Department,4,21
+2020-05-20,American Tribal Healing Centers,5,7
+2020-05-20,Facebook,5,8
+2020-05-20,Kensington College School Of Law,5,9
+2020-05-20,Maine Bureau Of Insurance,5,10
+2020-05-20,National Association Of Insurance Commissioners,5,11
+2020-05-20,Nevada Supreme Court,5,12
+2020-05-20,Tribal Active Management Services,5,13
+2020-05-20,White House,5,14
+2020-05-20,Twitter,6,5
+2020-05-20,Utah Department Of Health,6,6
+2020-05-20,Centers For Disease,7,3
+2020-05-20,Supreme Court,7,4
+2020-05-20,Associated Press,14,2
+2020-05-20,United States,20,1
 2020-05-21,Bombardier,3,27
 2020-05-21,Bureau Of Land Management,3,28
 2020-05-21,Child Health Awareness Month,3,29
@@ -4991,3 +4991,53 @@ date,organization,count,rn
 2020-05-27,Utah State University,8,2
 2020-05-27,World Health Organization,8,3
 2020-05-27,United States,17,1
+2020-05-28,Brennan Center,2,46
+2020-05-28,Cheyenne Chamber,2,47
+2020-05-28,Election Commission,2,48
+2020-05-28,Google,2,49
+2020-05-28,Instagram,2,50
+2020-05-28,Carnegie Mellon University,3,27
+2020-05-28,City Council,3,28
+2020-05-28,City Department,3,29
+2020-05-28,Community Task,3,30
+2020-05-28,Department Of Health,3,31
+2020-05-28,Facebook,3,32
+2020-05-28,His National Guard,3,33
+2020-05-28,Maryland Army National Guard,3,34
+2020-05-28,Medicaid Services,3,35
+2020-05-28,Msnbc,3,36
+2020-05-28,National Conference Of State Legislatures,3,37
+2020-05-28,National Folk Festival,3,38
+2020-05-28,Nomi Health,3,39
+2020-05-28,Oxford University,3,40
+2020-05-28,Society Environmental,3,41
+2020-05-28,University Of Maryland,3,42
+2020-05-28,University Of Utah,3,43
+2020-05-28,Utah Department Of Public Health,3,44
+2020-05-28,Utah Task,3,45
+2020-05-28,Nan,4,26
+2020-05-28,Associated Press,5,13
+2020-05-28,Autozone,5,14
+2020-05-28,Big League Politics,5,15
+2020-05-28,California Supreme Court Justice Leondra Kruger,5,16
+2020-05-28,Catholic News Service,5,17
+2020-05-28,Cnn,5,18
+2020-05-28,Indian Council Of Medical Research,5,19
+2020-05-28,Labor Department,5,20
+2020-05-28,Minnesota National Guard,5,21
+2020-05-28,Navajo Nation Department Of Justice,5,22
+2020-05-28,Southern Utah University,5,23
+2020-05-28,Utah Department Of Health,5,24
+2020-05-28,Utah State University,5,25
+2020-05-28,Agriculture Organization,6,8
+2020-05-28,Chinese Communist Party,6,9
+2020-05-28,Paycheck Protection Program,6,10
+2020-05-28,Republican Party,6,11
+2020-05-28,Zagg Inc,6,12
+2020-05-28,Democratic Party,7,5
+2020-05-28,Reuters,7,6
+2020-05-28,Supreme Court,7,7
+2020-05-28,Navajo Department Of Health,8,4
+2020-05-28,Twitter,11,3
+2020-05-28,Centers For Disease,12,2
+2020-05-28,United States,14,1

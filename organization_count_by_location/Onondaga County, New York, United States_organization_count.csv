@@ -2927,31 +2927,28 @@ date,organization,count,rn
 2020-04-27,Google,6,3
 2020-04-27,Facebook,7,2
 2020-04-27,Twitter,8,1
-2020-04-28,Aero National,1,26
-2020-04-28,Asbury Park,1,27
-2020-04-28,Bank Arts Center,1,28
-2020-04-28,Charlottesville Police,1,29
-2020-04-28,Christopher Community,1,30
-2020-04-28,Columbia University Irving Medical Center,1,31
-2020-04-28,Economic Resiliency Task,1,32
-2020-04-28,Fleetwood High School,1,33
-2020-04-28,Health System University Hospital,1,34
-2020-04-28,Instagram,1,35
-2020-04-28,Jefferson Community College,1,36
-2020-04-28,Johns Hopkins University,1,37
-2020-04-28,Joseph Hospital School Of Radiology,1,38
-2020-04-28,Liberty University,1,39
-2020-04-28,Long Island,1,40
-2020-04-28,Medstar Health,1,41
-2020-04-28,Minority Economic Alliance,1,42
-2020-04-28,National Nurses Day,1,43
-2020-04-28,Navy Angels,1,44
-2020-04-28,New York Post,1,45
-2020-04-28,News Network,1,46
-2020-04-28,Pathfinder Bank,1,47
-2020-04-28,Paycheck Protection Program,1,48
-2020-04-28,Prudential Center,1,49
-2020-04-28,Siena College,1,50
+2020-04-28,Aero National,1,29
+2020-04-28,Asbury Park,1,30
+2020-04-28,Bank Arts Center,1,31
+2020-04-28,Charlottesville Police,1,32
+2020-04-28,Christopher Community,1,33
+2020-04-28,Cohen Children Medical Center,1,34
+2020-04-28,Columbia University,1,35
+2020-04-28,Columbia University Irving Medical Center,1,36
+2020-04-28,Economic Resiliency Task,1,37
+2020-04-28,Health System University Hospital,1,38
+2020-04-28,Instagram,1,39
+2020-04-28,Jefferson Community College,1,40
+2020-04-28,Johns Hopkins University,1,41
+2020-04-28,Liberty University,1,42
+2020-04-28,Long Island,1,43
+2020-04-28,Minority Economic Alliance,1,44
+2020-04-28,National Nurses Day,1,45
+2020-04-28,Navy Angels,1,46
+2020-04-28,New York Post,1,47
+2020-04-28,News Network,1,48
+2020-04-28,Pathfinder Bank,1,49
+2020-04-28,Paycheck Protection Program,1,50
 2020-04-28,American Portfolios Advisor Council,2,14
 2020-04-28,American Portfolios Advisory Solutions,2,15
 2020-04-28,Business Development,2,16
@@ -2962,8 +2959,11 @@ date,organization,count,rn
 2020-04-28,Department Of Homeland Security,2,21
 2020-04-28,Facebook,2,22
 2020-04-28,Fender,2,23
-2020-04-28,National Sales Ken Aulbach,2,24
-2020-04-28,York State Society For Human Resources Management,2,25
+2020-04-28,Fleetwood High School,2,24
+2020-04-28,Joseph Hospital School Of Radiology,2,25
+2020-04-28,Medstar Health,2,26
+2020-04-28,National Sales Ken Aulbach,2,27
+2020-04-28,York State Society For Human Resources Management,2,28
 2020-04-28,Building Health Care Capacity,3,4
 2020-04-28,Bureau Of Prisons,3,5
 2020-04-28,Centers For Disease,3,6
@@ -3790,56 +3790,56 @@ date,organization,count,rn
 2020-05-15,White House,4,3
 2020-05-15,Nan,5,2
 2020-05-15,Facebook,7,1
-2020-05-16,Associated Press,1,33
-2020-05-16,C Venture Group,1,34
-2020-05-16,Civil Service Employees Association Central Region,1,35
-2020-05-16,Cnn,1,36
-2020-05-16,Department Of Ag,1,37
-2020-05-16,Directors Guild,1,38
-2020-05-16,Facebook,1,39
-2020-05-16,International Alliance Of Theatrical Stage,1,40
-2020-05-16,International Association Of Machinists Aerospace Workers,1,41
-2020-05-16,International Brotherhood Of Boilermakers,1,42
-2020-05-16,International Brotherhood Of Electrical Workers,1,43
-2020-05-16,International Longshore,1,44
-2020-05-16,International Union Of Painters,1,45
-2020-05-16,Postal Service,1,46
-2020-05-16,Services Improvement,1,47
-2020-05-16,Sidney Center,1,48
-2020-05-16,Warehouse Union,1,49
-2020-05-16,White House,1,50
-2020-05-16,Fa Relaxing Center,2,26
-2020-05-16,Lincoln Center,2,27
-2020-05-16,London School Of Economics,2,28
-2020-05-16,New York Times,2,29
-2020-05-16,School Administrators Association Of New York,2,30
-2020-05-16,Senate Majority Leader Mitch Mcconnell,2,31
-2020-05-16,Twitter,2,32
-2020-05-16,Brookings Institution,3,1
-2020-05-16,Department Of Defense,3,2
-2020-05-16,Department Of Education,3,3
-2020-05-16,Department Of Energy,3,4
-2020-05-16,Department Of Health,3,5
-2020-05-16,Department Of Homeland Security,3,6
-2020-05-16,Federal Reserve,3,7
-2020-05-16,Government Accountability Office,3,8
-2020-05-16,Los Angeles Lakers,3,9
-2020-05-16,Nan,3,10
-2020-05-16,National Security Council,3,11
-2020-05-16,Partnership For Public Service,3,12
-2020-05-16,Pew Research,3,13
-2020-05-16,Revenue Service,3,14
-2020-05-16,Small Business Administration,3,15
-2020-05-16,Treasury Department,3,16
-2020-05-16,United States,3,17
-2020-05-16,University Of Chicago Booth School Of Business,3,18
-2020-05-16,University Of North Carolina,3,19
-2020-05-16,University Of Pennsylvania,3,20
-2020-05-16,University Of Texas,3,21
-2020-05-16,University Of Virginia,3,22
-2020-05-16,Vanderbilt University,3,23
-2020-05-16,Veterans Affairs,3,24
-2020-05-16,York University,3,25
+2020-05-16,Associated Press,1,39
+2020-05-16,C Venture Group,1,40
+2020-05-16,Civil Service Employees Association Central Region,1,41
+2020-05-16,Cnn,1,42
+2020-05-16,Department Of Ag,1,43
+2020-05-16,Directors Guild,1,44
+2020-05-16,Facebook,1,45
+2020-05-16,International Alliance Of Theatrical Stage,1,46
+2020-05-16,International Association Of Machinists Aerospace Workers,1,47
+2020-05-16,International Brotherhood Of Boilermakers,1,48
+2020-05-16,International Brotherhood Of Electrical Workers,1,49
+2020-05-16,International Longshore,1,50
+2020-05-16,Fa Relaxing Center,2,32
+2020-05-16,Lincoln Center,2,33
+2020-05-16,London School Of Economics,2,34
+2020-05-16,New York Times,2,35
+2020-05-16,School Administrators Association Of New York,2,36
+2020-05-16,Senate Majority Leader Mitch Mcconnell,2,37
+2020-05-16,York State Team,2,38
+2020-05-16,Albany Medical Center,3,3
+2020-05-16,Brookings Institution,3,4
+2020-05-16,Committee On Open Government,3,5
+2020-05-16,Department Of Defense,3,6
+2020-05-16,Department Of Education,3,7
+2020-05-16,Department Of Energy,3,8
+2020-05-16,Department Of Homeland Security,3,9
+2020-05-16,Empire Center,3,10
+2020-05-16,Empire State College,3,11
+2020-05-16,Federal Reserve,3,12
+2020-05-16,Government Accountability Office,3,13
+2020-05-16,Los Angeles Lakers,3,14
+2020-05-16,Nan,3,15
+2020-05-16,National Security Council,3,16
+2020-05-16,Network New York,3,17
+2020-05-16,Partnership For Public Service,3,18
+2020-05-16,Pew Research,3,19
+2020-05-16,Revenue Service,3,20
+2020-05-16,Small Business Administration,3,21
+2020-05-16,Treasury Department,3,22
+2020-05-16,Twitter,3,23
+2020-05-16,University Of Chicago Booth School Of Business,3,24
+2020-05-16,University Of North Carolina,3,25
+2020-05-16,University Of Pennsylvania,3,26
+2020-05-16,University Of Texas,3,27
+2020-05-16,University Of Virginia,3,28
+2020-05-16,Vanderbilt University,3,29
+2020-05-16,Veterans Affairs,3,30
+2020-05-16,York University,3,31
+2020-05-16,United States,4,2
+2020-05-16,Department Of Health,6,1
 2020-05-17,Bornblum Jewish Community School,1,30
 2020-05-17,Boy Scouts,1,31
 2020-05-17,Catholic Health Services Of Long Island,1,32
@@ -3990,10 +3990,56 @@ date,organization,count,rn
 2020-05-19,Kings County Hospital Center,7,1
 2020-05-19,New York Times,7,2
 2020-05-19,University Hospital,7,3
-2020-05-20,Department Of Health,1,4
-2020-05-20,Department Of Agriculture,2,2
-2020-05-20,Onondaga County Health,2,3
-2020-05-20,Nan,3,1
+2020-05-20,American Academy Of Pediatrics,1,15
+2020-05-20,Berger Commission,1,16
+2020-05-20,Boscov,1,17
+2020-05-20,Brown University In Providence,1,18
+2020-05-20,Centers For Disease,1,19
+2020-05-20,Columbia Business School,1,20
+2020-05-20,Court St,1,21
+2020-05-20,Department Of Agriculture,1,22
+2020-05-20,Department Of Health,1,23
+2020-05-20,Department Of Neurology,1,24
+2020-05-20,Downstate Medical School,1,25
+2020-05-20,Feinstein Institute For Medical Research In Manhasset,1,26
+2020-05-20,Food Bank,1,27
+2020-05-20,Friendly,1,28
+2020-05-20,Google,1,29
+2020-05-20,Greater New York Hospital Association,1,30
+2020-05-20,Harvard Medical School,1,31
+2020-05-20,Health Care Facilities,1,32
+2020-05-20,Kings County Hospital Center,1,33
+2020-05-20,Langone Health,1,34
+2020-05-20,Langone Huntington Medical Group,1,35
+2020-05-20,Long Term Care Community Coalition,1,36
+2020-05-20,Master Of Public Administration,1,37
+2020-05-20,Missio Church,1,38
+2020-05-20,National Institutes Of Health,1,39
+2020-05-20,Network New York,1,40
+2020-05-20,New York Times,1,41
+2020-05-20,Northwell Health Huntington Hospital,1,42
+2020-05-20,Onondaga County Health,1,43
+2020-05-20,Summit Federal Credit Union,1,44
+2020-05-20,Transportation Authority,1,45
+2020-05-20,Tribune Content Agency,1,46
+2020-05-20,Twitter,1,47
+2020-05-20,United States,1,48
+2020-05-20,University Hospital,1,49
+2020-05-20,University Of Massachusetts,1,50
+2020-05-20,Community Development Block,2,2
+2020-05-20,Facebook,2,3
+2020-05-20,House Appropriations Committee,2,4
+2020-05-20,Ohio University,2,5
+2020-05-20,Park Police,2,6
+2020-05-20,Public Health,2,7
+2020-05-20,Reuters,2,8
+2020-05-20,School At Cornell University,2,9
+2020-05-20,Senate Democratic,2,10
+2020-05-20,Senate Majority Leader Mitch Mcconnell On,2,11
+2020-05-20,Senate Republicans,2,12
+2020-05-20,Worker Institute,2,13
+2020-05-20,Workplace Health Safety Programs,2,14
+2020-05-20,Nan,4,1
 2020-05-21,Church Unleashed In Commack,1,12
 2020-05-21,Cornell University,1,13
 2020-05-21,Culver,1,14
@@ -4330,3 +4376,53 @@ date,organization,count,rn
 2020-05-27,Northeastern University,4,3
 2020-05-27,Northwell Health Huntington Hospital On Long Island,4,4
 2020-05-27,United States,6,1
+2020-05-28,Albany Times Union,1,15
+2020-05-28,American Massage Therapy Association,1,16
+2020-05-28,Amtrak,1,17
+2020-05-28,Associated Press,1,18
+2020-05-28,Aviation Administration,1,19
+2020-05-28,Best Buy,1,20
+2020-05-28,Campaign For New York Health,1,21
+2020-05-28,Cross County Shopping Center,1,22
+2020-05-28,Department Of Labor,1,23
+2020-05-28,Department Of Labor Worker Adjustment,1,24
+2020-05-28,Dick Sporting Goods,1,25
+2020-05-28,Empire Center,1,26
+2020-05-28,Empire State Development,1,27
+2020-05-28,Federal Reserve Bank,1,28
+2020-05-28,Feet Office,1,29
+2020-05-28,Greater Oswego-Fulton Chamber,1,30
+2020-05-28,Hand In Health,1,31
+2020-05-28,Hofstra University,1,32
+2020-05-28,Instagram,1,33
+2020-05-28,Market Committee,1,34
+2020-05-28,Marx Realty,1,35
+2020-05-28,National Domestic Violence Hotline,1,36
+2020-05-28,Port Authority Of New York,1,37
+2020-05-28,Pyramid Brokerage Company,1,38
+2020-05-28,Pyramid Management Group,1,39
+2020-05-28,Retail Council Of New York,1,40
+2020-05-28,Simon Development Group,1,41
+2020-05-28,Space Museum In Manhattan,1,42
+2020-05-28,Stanford University,1,43
+2020-05-28,Stony Brook University Program In Public Health,1,44
+2020-05-28,Transportation Authority,1,45
+2020-05-28,Veterans Affairs,1,46
+2020-05-28,Waldron Albany Times Union,1,47
+2020-05-28,Waldron Times Union,1,48
+2020-05-28,Waldron Times Union Photo,1,49
+2020-05-28,White House,1,50
+2020-05-28,Department Of Taxation,2,2
+2020-05-28,Department Of Transportation,2,3
+2020-05-28,Girls Club In Brooklyn,2,4
+2020-05-28,Northwell Health On,2,5
+2020-05-28,Office Of Information,2,6
+2020-05-28,Public Employees Federation,2,7
+2020-05-28,Safe Center,2,8
+2020-05-28,Senate Republicans,2,9
+2020-05-28,Shore University Hospital In Manhasset,2,10
+2020-05-28,Technology Services,2,11
+2020-05-28,Times Union,2,12
+2020-05-28,United Nations Population Fund,2,13
+2020-05-28,York State Council On Women,2,14
+2020-05-28,Nan,4,1

@@ -3563,8 +3563,8 @@ date,organization,count,rn
 2020-05-04,Communities United For Police Reform,6,5
 2020-05-04,Police Benevolent Association,6,6
 2020-05-04,Legal Aid Society,8,4
-2020-05-04,Instagram,9,3
-2020-05-04,Museum Of Art,10,2
+2020-05-04,Instagram,10,2
+2020-05-04,Museum Of Art,10,3
 2020-05-04,United States,12,1
 2020-05-05,Allis-Chalmers Co,1,37
 2020-05-05,Amtrak,1,38
@@ -4316,20 +4316,56 @@ date,organization,count,rn
 2020-05-19,Writer Marina Villeneuve,11,3
 2020-05-19,York Democratic Party,12,2
 2020-05-19,Democratic Party,14,1
-2020-05-20,Abigail Compton Collegian Media Group,1,1
-2020-05-20,Aggieville Business Association,1,2
-2020-05-20,Circuit Court,1,3
-2020-05-20,Costume Institute,1,4
-2020-05-20,Facebook,1,5
-2020-05-20,Instagram,1,6
-2020-05-20,Kansas State University,1,7
-2020-05-20,Museum Of Art,1,8
-2020-05-20,Nan,1,9
-2020-05-20,New York Daily News,1,10
-2020-05-20,Student Governing Association,1,11
-2020-05-20,Tribune Content Agency,1,12
-2020-05-20,Twitter,1,13
-2020-05-20,United States,1,14
+2020-05-20,Abigail Compton Collegian Media Group,1,28
+2020-05-20,Aggieville Business Association,1,29
+2020-05-20,Air India,1,30
+2020-05-20,Alliance For Securing Democracy,1,31
+2020-05-20,Atlantic Health System Morristown Medical Center,1,32
+2020-05-20,Birmingham Museum Of Art,1,33
+2020-05-20,Bloomberg,1,34
+2020-05-20,Butler Institute Of American Art,1,35
+2020-05-20,China Foreign Affairs Ministry,1,36
+2020-05-20,Chinese Communist Party,1,37
+2020-05-20,Cincinnati Art Museum,1,38
+2020-05-20,Circuit Court,1,39
+2020-05-20,Citigroup Inc,1,40
+2020-05-20,Columbia Presbyterian Medical Center,1,41
+2020-05-20,Communities United For Police Reform,1,42
+2020-05-20,Congressional Budget Office,1,43
+2020-05-20,Coronavirus Resource Center,1,44
+2020-05-20,Costume Institute,1,45
+2020-05-20,Council Of Economic Advisers,1,46
+2020-05-20,Drug Administration,1,47
+2020-05-20,Everson Museum Of Art,1,48
+2020-05-20,Facebook R D Center,1,49
+2020-05-20,Federation Of Indian,1,50
+2020-05-20,Citigroup,2,15
+2020-05-20,Da Office,2,16
+2020-05-20,Deutsche Bank,2,17
+2020-05-20,Facebook,2,18
+2020-05-20,Instagram,2,19
+2020-05-20,Justice Investment Initiative,2,20
+2020-05-20,Massachusetts Institute Of Technology,2,21
+2020-05-20,National Institutes Of Health,2,22
+2020-05-20,New York Daily News,2,23
+2020-05-20,Partnership For New York City,2,24
+2020-05-20,Reuters,2,25
+2020-05-20,Rudin Center,2,26
+2020-05-20,York University,2,27
+2020-05-20,Associated Press,3,10
+2020-05-20,Centers For Disease,3,11
+2020-05-20,Columbia University,3,12
+2020-05-20,Transportation Authority,3,13
+2020-05-20,York Civil Liberties Union,3,14
+2020-05-20,House Oversight Committee On,4,7
+2020-05-20,Twitter,4,8
+2020-05-20,United States,4,9
+2020-05-20,Beth Israel Deaconess Medical Center,5,3
+2020-05-20,Department Of Health,5,4
+2020-05-20,Human Services,5,5
+2020-05-20,Interfaith Advisory Council,5,6
+2020-05-20,World Health Organization,6,2
+2020-05-20,Museum Of Art,8,1
 2020-05-21,Alphonsus High School In Manhattan,1,36
 2020-05-21,Bath Body Works,1,37
 2020-05-21,Battelle Memorial Institute,1,38
@@ -4628,3 +4664,53 @@ date,organization,count,rn
 2020-05-27,York Stock Exchange,4,6
 2020-05-27,York Taxi Workers Alliance,4,7
 2020-05-27,White House,6,1
+2020-05-28,A New York City Family Court,1,15
+2020-05-28,A Pandemic Wont Kill The Open Office,1,16
+2020-05-28,A Siena College,1,17
+2020-05-28,Advertisement A New York City Family Court,1,18
+2020-05-28,Bing Guan Research,1,19
+2020-05-28,Blood Center,1,20
+2020-05-28,Bronx Criminal Court,1,21
+2020-05-28,Business Interruption Group,1,22
+2020-05-28,Census Bureau,1,23
+2020-05-28,Community Board,1,24
+2020-05-28,Community Care,1,25
+2020-05-28,Community Oriented Policing Services,1,26
+2020-05-28,Congress On,1,27
+2020-05-28,Cornell University Weill Cornell Medical College,1,28
+2020-05-28,Department Of Buildings,1,29
+2020-05-28,Department Of Homeless Services,1,30
+2020-05-28,Department Of Justice,1,31
+2020-05-28,Department Of Social Services,1,32
+2020-05-28,El Torito,1,33
+2020-05-28,Hospitality Alliance,1,34
+2020-05-28,Hotel Belleclaire,1,35
+2020-05-28,Insurance Information Institute,1,36
+2020-05-28,Justice Department,1,37
+2020-05-28,Kansas Senate,1,38
+2020-05-28,Kansas Senate To Democratic Gov,1,39
+2020-05-28,Legal Defense Fund,1,40
+2020-05-28,Metasub International Consortium,1,41
+2020-05-28,Msnbc,1,42
+2020-05-28,Nan,1,43
+2020-05-28,National Diversity Coalition,1,44
+2020-05-28,National Science Foundation,1,45
+2020-05-28,New York Daily News,1,46
+2020-05-28,New York Knicks,1,47
+2020-05-28,Office Of Court Administration,1,48
+2020-05-28,R Street Institute,1,49
+2020-05-28,Reuters,1,50
+2020-05-28,Associated Press,2,3
+2020-05-28,Bloomberg,2,4
+2020-05-28,Citizens Budget Commission,2,5
+2020-05-28,City Council,2,6
+2020-05-28,Cnn,2,7
+2020-05-28,Facebook,2,8
+2020-05-28,Google,2,9
+2020-05-28,Mount Sinai Medical Center,2,10
+2020-05-28,Museum Of Art,2,11
+2020-05-28,New York Times,2,12
+2020-05-28,Restaurant Associates,2,13
+2020-05-28,Twitter,2,14
+2020-05-28,White House,3,2
+2020-05-28,United States,5,1

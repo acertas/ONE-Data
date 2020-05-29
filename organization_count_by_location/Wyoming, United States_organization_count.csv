@@ -2608,9 +2608,9 @@ date,organization,count,rn
 2020-04-24,Valley Electric Association,8,6
 2020-04-24,Public Health Laboratory,9,5
 2020-04-24,United States,10,4
-2020-04-24,Centers For Disease,22,2
-2020-04-24,Department Of Health,22,3
-2020-04-24,Health Department,23,1
+2020-04-24,Centers For Disease,22,3
+2020-04-24,Department Of Health,23,1
+2020-04-24,Health Department,23,2
 2020-04-25,Agriculture Department,1,25
 2020-04-25,America Health,1,26
 2020-04-25,American Civil Liberties Union Of Kentucky,1,27
@@ -3838,13 +3838,56 @@ date,organization,count,rn
 2020-05-19,Centers For Disease,9,3
 2020-05-19,Health Department,13,2
 2020-05-19,Department Of Health,15,1
-2020-05-20,Police Department,1,7
-2020-05-20,Cody Country Chamber,2,3
-2020-05-20,Health Department,2,4
-2020-05-20,National Park Service,2,5
-2020-05-20,Shoshone National Forest,2,6
-2020-05-20,Department Of Health,3,2
-2020-05-20,Yellowstone National Park,4,1
+2020-05-20,A Harvard School Of Public Health,1,48
+2020-05-20,Arizona Industrial Commission,1,49
+2020-05-20,Boscov,1,50
+2020-05-20,Bloomberg,2,27
+2020-05-20,Business Council,2,28
+2020-05-20,Castle Rock Medical Center Green River,2,29
+2020-05-20,Centers For Disease,2,30
+2020-05-20,Disabilities Association Of America,2,31
+2020-05-20,Indiana Department,2,32
+2020-05-20,Jersey Department Of Education,2,33
+2020-05-20,Nan,2,34
+2020-05-20,National Center,2,35
+2020-05-20,Northern Arapaho Business Council,2,36
+2020-05-20,Oregon Department Of Education,2,37
+2020-05-20,Parent Advocacy Network,2,38
+2020-05-20,Pew Research Center,2,39
+2020-05-20,Public Health Laboratory,2,40
+2020-05-20,Republican Party,2,41
+2020-05-20,Senate Democratic,2,42
+2020-05-20,Senate Majority Leader Mitch Mcconnell,2,43
+2020-05-20,Shoshone National Forest,2,44
+2020-05-20,Timberline High School In Lacey,2,45
+2020-05-20,Vital Statistics Services Office,2,46
+2020-05-20,White House,2,47
+2020-05-20,Community Resources Supporting Americans Financially,3,26
+2020-05-20,Big Horn Coal Co,4,12
+2020-05-20,Bighorn National Forest,4,13
+2020-05-20,Carbon Research,4,14
+2020-05-20,Cody Country Chamber,4,15
+2020-05-20,Department Of Environmental Quality,4,16
+2020-05-20,Eastern Wyoming College,4,17
+2020-05-20,Environmental Quality Council,4,18
+2020-05-20,National Coal Council,4,19
+2020-05-20,National Parks Conservation Association,4,20
+2020-05-20,Natural Resources Defense Council,4,21
+2020-05-20,Navajo Transitional Energy Co,4,22
+2020-05-20,Powder River Basin Resource Council,4,23
+2020-05-20,Ramaco Resources Inc,4,24
+2020-05-20,Senate Republicans,4,25
+2020-05-20,National Park Service,5,11
+2020-05-20,Associated Press,6,10
+2020-05-20,Facebook,7,8
+2020-05-20,Yellowstone National Park,7,9
+2020-05-20,Health Department,9,6
+2020-05-20,Supreme Court,9,7
+2020-05-20,Department Of Health,10,3
+2020-05-20,Environmental Protection Agency,10,4
+2020-05-20,Public Works Committee,10,5
+2020-05-20,Senate Environment,11,2
+2020-05-20,United States,17,1
 2020-05-21,Auburn University,2,33
 2020-05-21,Census Bureau,2,34
 2020-05-21,Charles Schwab,2,35
@@ -4185,3 +4228,53 @@ date,organization,count,rn
 2020-05-27,United States,9,3
 2020-05-27,Associated Press,12,2
 2020-05-27,Department Of Health,13,1
+2020-05-28,American Bar Association,2,35
+2020-05-28,Business Interruption Stipend Program,2,36
+2020-05-28,Cnn,2,37
+2020-05-28,Colorado Disaster Emergency Fund,2,38
+2020-05-28,Colorado Division Of Fire Prevention,2,39
+2020-05-28,Colorado Division Of Insurance,2,40
+2020-05-28,Community Development Authority,2,41
+2020-05-28,Coronavirus Business Relief Stipend Program,2,42
+2020-05-28,Coronavirus Mitigation Stipend Program,2,43
+2020-05-28,Disaster Emergency Fund,2,44
+2020-05-28,Greater Rochester Chamber,2,45
+2020-05-28,Left Congress,2,46
+2020-05-28,Life Care Center,2,47
+2020-05-28,Morgan,2,48
+2020-05-28,Morris,2,49
+2020-05-28,National Mining Association,2,50
+2020-05-28,Castle Rock Medical Center Green River,3,15
+2020-05-28,Colorado Tourism Office,3,16
+2020-05-28,Consensus Revenue Estimating Group Do,3,17
+2020-05-28,Dearborn Heights City Council,3,18
+2020-05-28,Dearborn Heights Police Department,3,19
+2020-05-28,Department Of Tourism,3,20
+2020-05-28,Henry Ford College,3,21
+2020-05-28,Henry Ford College Vice,3,22
+2020-05-28,Legislature Joint Revenue Committee,3,23
+2020-05-28,Msnbc,3,24
+2020-05-28,New York Post,3,25
+2020-05-28,New York Times,3,26
+2020-05-28,Public Health Order,3,27
+2020-05-28,Rehabilitation Center,3,28
+2020-05-28,Revenue Committee,3,29
+2020-05-28,Senate Republicans,3,30
+2020-05-28,Senate Revenue Committee,3,31
+2020-05-28,Student Affairs Daniel Herbst,3,32
+2020-05-28,Teton District Health,3,33
+2020-05-28,While The Legislature,3,34
+2020-05-28,Aviation Administration,4,8
+2020-05-28,Health Department,4,9
+2020-05-28,Jackson Police Department,4,10
+2020-05-28,National Parks Conservation Association,4,11
+2020-05-28,Tony Chamber,4,12
+2020-05-28,Town Council,4,13
+2020-05-28,Twitter,4,14
+2020-05-28,Centers For Disease,7,7
+2020-05-28,Department Of Health,9,5
+2020-05-28,Nan,9,6
+2020-05-28,United States,10,4
+2020-05-28,Yellowstone National Park,13,3
+2020-05-28,Teton National Park,15,2
+2020-05-28,Associated Press,17,1

@@ -211,27 +211,27 @@ date,person,count,rn
 2020-03-06,Teresa Johnson,3,25
 2020-03-06,Tom Gong,3,26
 2020-03-06,Yvonne Maldonado,3,27
-2020-03-07,Barbie Robinson,1,44
-2020-03-07,David Kline,1,45
-2020-03-07,Erica Ymane,1,46
-2020-03-07,Lynda Daniels,1,47
-2020-03-07,Mark Baldassare,1,48
-2020-03-07,Martin Espinoza,1,49
+2020-03-07,Christian Hill,1,43
+2020-03-07,David Kline,1,44
+2020-03-07,Erica Ymane,1,45
+2020-03-07,Lynda Daniels,1,46
+2020-03-07,Mark Baldassare,1,47
+2020-03-07,Martin Espinoza,1,48
+2020-03-07,Mike Kinney,1,49
 2020-03-07,Nan,1,50
 2020-03-07,Aimee Sisson,2,30
 2020-03-07,Anita Chabria,2,31
 2020-03-07,Barbara Ferrer,2,32
 2020-03-07,Las Vegas,2,33
 2020-03-07,Lisa Goodwin,2,34
-2020-03-07,Mike Kinney,2,35
-2020-03-07,Noam Levey,2,36
-2020-03-07,Phan Ngo,2,37
-2020-03-07,Phil Willon,2,38
-2020-03-07,Ricardo Lara,2,39
-2020-03-07,Robert Levin,2,40
-2020-03-07,Ron Chapman,2,41
-2020-03-07,Ruben Vives,2,42
-2020-03-07,Scott Morrow,2,43
+2020-03-07,Noam Levey,2,35
+2020-03-07,Phan Ngo,2,36
+2020-03-07,Phil Willon,2,37
+2020-03-07,Ricardo Lara,2,38
+2020-03-07,Robert Levin,2,39
+2020-03-07,Ron Chapman,2,40
+2020-03-07,Ruben Vives,2,41
+2020-03-07,Scott Morrow,2,42
 2020-03-07,Aimee Brewer,3,8
 2020-03-07,Alex Azar,3,9
 2020-03-07,Alice Fong Yu,3,10
@@ -1847,6 +1847,47 @@ date,person,count,rn
 2020-05-19,Robin Jankewicz,2,5
 2020-05-19,Santa Clara,2,6
 2020-05-19,Scott Rafferty,2,7
+2020-05-20,Alvaro Bedoya,1,2
+2020-05-20,Arun Goel,1,3
+2020-05-20,Barbara Porter,1,4
+2020-05-20,Bradley Cooper,1,5
+2020-05-20,Cesar Zepeda,1,6
+2020-05-20,Colin Tooze,1,7
+2020-05-20,Cory Doctorow,1,8
+2020-05-20,David Campos,1,9
+2020-05-20,David Haubert,1,10
+2020-05-20,Debbie Toth,1,11
+2020-05-20,Drobot Shutterstock,1,12
+2020-05-20,El Cerrito,1,13
+2020-05-20,Frances Hsieh,1,14
+2020-05-20,Gabe Klein,1,15
+2020-05-20,Gavin Newsom,1,16
+2020-05-20,Hillary Ronen,1,17
+2020-05-20,Jamie Williams,1,18
+2020-05-20,Jascha Franklin-Hodge,1,19
+2020-05-20,John Ellis,1,20
+2020-05-20,Justice John Roberts,1,21
+2020-05-20,Justice Sonia Sotomayor,1,22
+2020-05-20,Justice Sotomayor,1,23
+2020-05-20,Keeley Christensen,1,24
+2020-05-20,Kelly Akemi Groth,1,25
+2020-05-20,Kevin Webb,1,26
+2020-05-20,Linda Jacobs,1,27
+2020-05-20,Linda Smith,1,28
+2020-05-20,Maryam Davis,1,29
+2020-05-20,Newell Arnerich,1,30
+2020-05-20,Nosrat Akbari,1,31
+2020-05-20,Robert Gardner,1,32
+2020-05-20,Sarah Souza,1,33
+2020-05-20,Seleta Reynolds,1,34
+2020-05-20,Shawn Kumagai,1,35
+2020-05-20,Stefanie Brodie,1,36
+2020-05-20,Tim Black,1,37
+2020-05-20,Uber Colin Tooze,1,38
+2020-05-20,Uber Tooze,1,39
+2020-05-20,Victor Aguilar Jr,1,40
+2020-05-20,Yanukit Shutterstock,1,41
+2020-05-20,Los Angeles,2,1
 2020-05-21,Andrew Keen,1,33
 2020-05-21,Barbara Feder Ostrov,1,34
 2020-05-21,Bonnie Ronk,1,35
@@ -2031,3 +2072,7 @@ date,person,count,rn
 2020-05-27,Steve Hill,1,24
 2020-05-27,Tim Pronovost,1,25
 2020-05-27,Gavin Newsom,2,1
+2020-05-28,Chris Farnitano,1,1
+2020-05-28,Gavin Newsom,1,2
+2020-05-28,Melissa Figueroa,1,3
+2020-05-28,Ted Toppin,1,4

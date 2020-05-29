@@ -3314,42 +3314,42 @@ date,organization,count,rn
 2020-04-24,White House,30,4
 2020-04-24,United States,34,2
 2020-04-24,Tennessee Department Of Health,42,1
-2020-04-25,Baylor School,4,46
-2020-04-25,Cnn,4,47
-2020-04-25,Human Services,4,48
-2020-04-25,Johns Hopkins University,4,49
-2020-04-25,Maryland Emergency Management Agency,4,50
-2020-04-25,Alliance Defending Freedom,5,35
-2020-04-25,American Civil Liberties Union,5,36
-2020-04-25,Centers For Medicare,5,37
-2020-04-25,Economic Policy Institute,5,38
-2020-04-25,Gallatin Center,5,39
-2020-04-25,Labor Department,5,40
-2020-04-25,Medicaid Services,5,41
-2020-04-25,Tabernacle Church,5,42
-2020-04-25,Tennessee Department Of Tourist Development,5,43
-2020-04-25,Tennessee National Guard,5,44
-2020-04-25,World Health Organization,5,45
-2020-04-25,Arkansas Department Of Corrections,6,22
-2020-04-25,Community Correction Center,6,23
-2020-04-25,Marion Correctional Institution,6,24
-2020-04-25,Michigan Department Of Corrections,6,25
-2020-04-25,Neuse Correctional Institution In Goldsboro,6,26
-2020-04-25,Ohio Department Of Rehabilitation,6,27
-2020-04-25,Stern,6,28
-2020-04-25,Tennessee Economic Recovery Group,6,29
-2020-04-25,Tennessee Poison Center,6,30
-2020-04-25,Turney Center Industrial,6,31
-2020-04-25,University Of Texas,6,32
-2020-04-25,Washington State Department Of Corrections,6,33
-2020-04-25,York Department Of Corrections,6,34
-2020-04-25,Department Of Correction,7,15
-2020-04-25,Drug Administration On,7,16
-2020-04-25,George Washington University,7,17
-2020-04-25,Justice Department,7,18
-2020-04-25,Paycheck Protection Program,7,19
-2020-04-25,Reuters,7,20
-2020-04-25,Tennessee Department Of Correction,7,21
+2020-04-25,Arkansas Department Of Corrections,3,49
+2020-04-25,Community Correction Center,3,50
+2020-04-25,Baylor School,4,32
+2020-04-25,Cnn,4,33
+2020-04-25,Department Of Correction,4,34
+2020-04-25,George Washington University,4,35
+2020-04-25,Human Services,4,36
+2020-04-25,Johns Hopkins University,4,37
+2020-04-25,Maryland Emergency Management Agency,4,38
+2020-04-25,National Guard,4,39
+2020-04-25,New York Times,4,40
+2020-04-25,Oklahoma State Medical Association,4,41
+2020-04-25,Oval Office Occupant,4,42
+2020-04-25,Public Health Laboratory,4,43
+2020-04-25,Reckitt Benckiser,4,44
+2020-04-25,Reuters,4,45
+2020-04-25,Texas Workforce Commission,4,46
+2020-04-25,University Of Southern California,4,47
+2020-04-25,While The Tennessee Department Health,4,48
+2020-04-25,Alliance Defending Freedom,5,21
+2020-04-25,American Civil Liberties Union,5,22
+2020-04-25,Centers For Medicare,5,23
+2020-04-25,Economic Policy Institute,5,24
+2020-04-25,Gallatin Center,5,25
+2020-04-25,Labor Department,5,26
+2020-04-25,Medicaid Services,5,27
+2020-04-25,Tabernacle Church,5,28
+2020-04-25,Tennessee Department Of Tourist Development,5,29
+2020-04-25,Tennessee National Guard,5,30
+2020-04-25,World Health Organization,5,31
+2020-04-25,Tennessee Economic Recovery Group,6,19
+2020-04-25,Tennessee Poison Center,6,20
+2020-04-25,Drug Administration On,7,15
+2020-04-25,Justice Department,7,16
+2020-04-25,Paycheck Protection Program,7,17
+2020-04-25,Tennessee Department Of Correction,7,18
 2020-04-25,Health Department,8,14
 2020-04-25,Emergency Management Agency,9,11
 2020-04-25,Nan,9,12
@@ -3358,12 +3358,12 @@ date,organization,count,rn
 2020-04-25,Novartis,11,9
 2020-04-25,Sanford Health,11,10
 2020-04-25,Twitter,12,7
-2020-04-25,Centers For Disease,19,6
+2020-04-25,Centers For Disease,18,6
 2020-04-25,Tennessee Department Of Health,21,5
 2020-04-25,Department Of Health,22,4
-2020-04-25,Associated Press,25,3
-2020-04-25,White House,26,2
-2020-04-25,United States,27,1
+2020-04-25,United States,24,3
+2020-04-25,Associated Press,25,2
+2020-04-25,White House,26,1
 2020-04-26,Association Of Practising Accountants,3,48
 2020-04-26,Battle Ground Academy In Franklin,3,49
 2020-04-26,Baylor School,3,50
@@ -3471,7 +3471,6 @@ date,organization,count,rn
 2020-04-28,Kroger Delta Cherokee Health Systems,9,49
 2020-04-28,Riverside Baptist Church,9,50
 2020-04-28,University Of Tennessee,10,44
-2020-04-28,Johns Hopkins University,11,37
 2020-04-28,Kroger Health Associates,11,38
 2020-04-28,Nan,11,39
 2020-04-28,New York Times,11,40
@@ -3480,8 +3479,9 @@ date,organization,count,rn
 2020-04-28,Tennessee National Guard,11,43
 2020-04-28,Cherokee Health,12,33
 2020-04-28,Food Bank,12,34
-2020-04-28,Kroger Co,12,35
-2020-04-28,Kroger Health Virtual Assessment Tool,12,36
+2020-04-28,Johns Hopkins University,12,35
+2020-04-28,Kroger Co,12,36
+2020-04-28,Kroger Health Virtual Assessment Tool,12,37
 2020-04-28,National Guard,13,32
 2020-04-28,Arkansas Department Of Health,14,28
 2020-04-28,Caddo Juvenile Detention Center,14,29
@@ -3764,44 +3764,44 @@ date,organization,count,rn
 2020-05-03,Virginia Department Of Juvenile Justice,22,13
 2020-05-03,Young,22,14
 2020-05-03,United States,45,1
-2020-05-04,Christ Community,4,42
-2020-05-04,Christ Community Church,4,43
-2020-05-04,Cnn,4,44
-2020-05-04,Dean Of The College Of Medicine,4,45
-2020-05-04,Gibson,4,46
-2020-05-04,Instagram,4,47
-2020-05-04,Jackson Chamber,4,48
-2020-05-04,Madison Co,4,49
-2020-05-04,National Weather Service,4,50
-2020-05-04,Department Of Health,5,40
-2020-05-04,Nan,5,41
+2020-05-04,Baylor School,3,46
+2020-05-04,Blackman Community Center,3,47
+2020-05-04,Blackman Community Club,3,48
+2020-05-04,Blackman Home Demonstration Club,3,49
+2020-05-04,Brennan Center,3,50
+2020-05-04,Cnn,4,43
+2020-05-04,Dean Of The College Of Medicine,4,44
+2020-05-04,Department Of Defense,4,45
+2020-05-04,Department Of Health,5,39
+2020-05-04,Drug Administration,5,40
+2020-05-04,Health Department,5,41
+2020-05-04,White House,5,42
 2020-05-04,Administration For Children Services,6,23
 2020-05-04,Bon Air Juvenile Correctional Center,6,24
-2020-05-04,Centers For Disease,6,25
-2020-05-04,Crossroads Juvenile Center,6,26
-2020-05-04,Horizon Juvenile Center,6,27
-2020-05-04,Legal Aid Justice Center Just Children Program,6,28
-2020-05-04,Louisiana Office Of Juvenile Justice,6,29
-2020-05-04,Manson Youth Institution,6,30
-2020-05-04,Maryland Court,6,31
-2020-05-04,Pennsylvania Supreme Court,6,32
-2020-05-04,Prisoner Health,6,33
-2020-05-04,Simon Town Center,6,34
-2020-05-04,Swanson Center,6,35
-2020-05-04,Tennessee Department Of Children Services,6,36
-2020-05-04,Virginia Department,6,37
-2020-05-04,Virginia Department Of Juvenile Justice,6,38
-2020-05-04,Young,6,39
-2020-05-04,Facebook,7,21
-2020-05-04,Health Department,7,22
-2020-05-04,Associated Press,8,18
+2020-05-04,Crossroads Juvenile Center,6,25
+2020-05-04,Horizon Juvenile Center,6,26
+2020-05-04,Legal Aid Justice Center Just Children Program,6,27
+2020-05-04,Louisiana Office Of Juvenile Justice,6,28
+2020-05-04,Manson Youth Institution,6,29
+2020-05-04,Maryland Court,6,30
+2020-05-04,Pennsylvania Supreme Court,6,31
+2020-05-04,Prisoner Health,6,32
+2020-05-04,Simon Town Center,6,33
+2020-05-04,Swanson Center,6,34
+2020-05-04,Tennessee Department Of Children Services,6,35
+2020-05-04,Virginia Department,6,36
+2020-05-04,Virginia Department Of Juvenile Justice,6,37
+2020-05-04,Young,6,38
+2020-05-04,American Academy Of Pediatrics,7,20
+2020-05-04,Cdc Us Centers For Disease,7,21
+2020-05-04,Facebook,7,22
 2020-05-04,Twitter,8,19
-2020-05-04,United States Today Network,8,20
 2020-05-04,Ace Hardware,9,13
-2020-05-04,American Academy Of Pediatrics,9,14
-2020-05-04,Cdc Us Centers For Disease,9,15
+2020-05-04,Associated Press,9,14
+2020-05-04,Centers For Disease,9,15
 2020-05-04,Mcminn Commission,9,16
-2020-05-04,United Stats Navy,9,17
+2020-05-04,United States Today Network,9,17
+2020-05-04,United Stats Navy,9,18
 2020-05-04,Georgia Children Medical Group,11,12
 2020-05-04,Simon Town Center At Cobb,12,11
 2020-05-04,Commission Budget Committee,13,10
@@ -3897,12 +3897,12 @@ date,organization,count,rn
 2020-05-06,Health Department,13,19
 2020-05-06,Public Safety Officers Benefits Program,13,20
 2020-05-06,Tennessee Department Of Health,13,21
-2020-05-06,Cnn,14,17
-2020-05-06,Senate Majority Leader Jack Johnson,15,15
-2020-05-06,Supreme Court,15,16
+2020-05-06,Cnn,15,15
+2020-05-06,Senate Majority Leader Jack Johnson,15,16
+2020-05-06,Supreme Court,15,17
 2020-05-06,Twitter,17,14
-2020-05-06,Centers For Disease,20,13
-2020-05-06,Gilead Sciences,21,12
+2020-05-06,Centers For Disease,21,12
+2020-05-06,Gilead Sciences,21,13
 2020-05-06,Department Of Corrections,25,11
 2020-05-06,Tennessee Supreme Court,26,10
 2020-05-06,Department Of Health,28,7
@@ -3990,16 +3990,16 @@ date,organization,count,rn
 2020-05-08,Austin Peay State University,7,25
 2020-05-08,European Union,7,26
 2020-05-08,Tennessee National Guard,7,27
-2020-05-08,Department Of Correction,8,22
-2020-05-08,Health Department,8,23
-2020-05-08,Nan,8,24
+2020-05-08,Department Of Correction,8,23
+2020-05-08,Health Department,8,24
+2020-05-08,Nan,9,22
 2020-05-08,World Health Organization,10,21
 2020-05-08,Cnn,11,19
 2020-05-08,Trousdale Turner Correctional Center,11,20
-2020-05-08,Associated Press,12,18
-2020-05-08,White House,13,17
-2020-05-08,Centers For Disease,16,15
+2020-05-08,Associated Press,13,18
+2020-05-08,White House,14,17
 2020-05-08,United States,16,16
+2020-05-08,Centers For Disease,17,15
 2020-05-08,Aaron,18,8
 2020-05-08,Department Of Emergency Communications,18,9
 2020-05-08,Knoxville Police Department,18,10
@@ -4145,11 +4145,11 @@ date,organization,count,rn
 2020-05-11,American Civil Liberties Union Of Tennessee,7,20
 2020-05-11,Beacon Center,7,21
 2020-05-11,Refugee Rights Coalition,7,22
-2020-05-11,Associated Press,9,18
 2020-05-11,Senate Health,9,19
-2020-05-11,Federal Reserve,10,15
-2020-05-11,Health Department,10,16
-2020-05-11,Us Centers For Disease,10,17
+2020-05-11,Associated Press,10,15
+2020-05-11,Federal Reserve,10,16
+2020-05-11,Health Department,10,17
+2020-05-11,Us Centers For Disease,10,18
 2020-05-11,Cnn,11,13
 2020-05-11,Thomson Reuters Trust Principles,11,14
 2020-05-11,Pensions Committee,13,12
@@ -4160,10 +4160,10 @@ date,organization,count,rn
 2020-05-11,United States,25,7
 2020-05-11,Reuters,27,6
 2020-05-11,Honeywell International Inc,32,5
-2020-05-11,Centers For Disease,38,4
-2020-05-11,National Institute Of Allergy,70,3
-2020-05-11,Drug Administration,74,2
-2020-05-11,White House,83,1
+2020-05-11,Centers For Disease,39,4
+2020-05-11,National Institute Of Allergy,71,3
+2020-05-11,Drug Administration,75,2
+2020-05-11,White House,84,1
 2020-05-12,Commission To Consider Grant Application,5,49
 2020-05-12,Communications District,5,50
 2020-05-12,University Of Washington,6,48
@@ -4564,55 +4564,56 @@ date,organization,count,rn
 2020-05-19,American Civil Liberties Union,41,3
 2020-05-19,Human Services,42,2
 2020-05-19,United States,54,1
-2020-05-20,Beacon Center,1,28
-2020-05-20,Centers For Disease,1,29
-2020-05-20,Concordia Pharmaceuticals,1,30
-2020-05-20,Department Of Health,1,31
-2020-05-20,Drug Administration,1,32
-2020-05-20,Education Law Center,1,33
-2020-05-20,Emergency Communication Center,1,34
-2020-05-20,European Union,1,35
-2020-05-20,Florida Department Of Health,1,36
-2020-05-20,Great Smoky Mountains National Park Clingmans Dome,1,37
-2020-05-20,Health Ministry,1,38
-2020-05-20,Institute For Justice,1,39
-2020-05-20,Jackson Health System,1,40
-2020-05-20,Liberty Justice Center,1,41
-2020-05-20,Louisiana Office Of Motor Vehicles,1,42
-2020-05-20,National Institute On Drug Abuse,1,43
-2020-05-20,Southern Poverty Law Center,1,44
-2020-05-20,Supreme Court,1,45
-2020-05-20,Team For Overdose Prevention,1,46
-2020-05-20,Tennessee Court,1,47
-2020-05-20,White House,1,48
-2020-05-20,World Health Organization,1,49
-2020-05-20,Academic Services,2,11
-2020-05-20,Association Of Diving Instructors Rescue Scuba Diver,2,12
-2020-05-20,Austin Peay State University,2,13
-2020-05-20,Belmont University,2,14
-2020-05-20,Community Service Award,2,15
-2020-05-20,Facebook,2,16
-2020-05-20,Honors College,2,17
-2020-05-20,Honors College Ambassador,2,18
-2020-05-20,Miracle Walls Of Maryville College,2,19
-2020-05-20,Nan,2,20
-2020-05-20,Outstanding Community Service Award,2,21
-2020-05-20,Saint Thomas Health Partners,2,22
-2020-05-20,Service Community Service Award,2,23
-2020-05-20,Student Affairs,2,24
-2020-05-20,Tennessee Regional Forensic Center,2,25
-2020-05-20,Tennessee State University,2,26
-2020-05-20,University Of Tennessee,2,27
-2020-05-20,Associated Press,3,8
-2020-05-20,Tn Department,3,9
-2020-05-20,Tn Department Of Health,3,10
-2020-05-20,Refugee Rights Coalition,6,7
-2020-05-20,Educational Fund,7,6
-2020-05-20,Tennessee Association Of Chiefs Of Police,8,5
-2020-05-20,American Civil Liberties Union,9,2
-2020-05-20,Fraternal Order Of Police,9,3
-2020-05-20,Human Services,9,4
-2020-05-20,United States,10,1
+2020-05-20,Adm,4,39
+2020-05-20,America Health,4,40
+2020-05-20,Barclays Center On,4,41
+2020-05-20,Baylor School,4,42
+2020-05-20,Concordia Pharmaceuticals,4,43
+2020-05-20,Drug Administration,4,44
+2020-05-20,Florida Department Of Health,4,45
+2020-05-20,Health Department,4,46
+2020-05-20,Jackson Health System,4,47
+2020-05-20,Kaiser Health News,4,48
+2020-05-20,Louisiana Office Of Motor Vehicles,4,49
+2020-05-20,New York Times,4,50
+2020-05-20,Health Ministry,5,36
+2020-05-20,National Institutes Of Health,5,37
+2020-05-20,World Health Organization,5,38
+2020-05-20,European Union,6,35
+2020-05-20,Georgetown University,7,32
+2020-05-20,Refugee Rights Coalition,7,33
+2020-05-20,University Of Tennessee,7,34
+2020-05-20,Her Oprah Winfrey Charitable Foundation,9,30
+2020-05-20,Twitter,9,31
+2020-05-20,Aegis Sciences Corp,10,26
+2020-05-20,Harvard Global Health Institute,10,27
+2020-05-20,Rite Aid,10,28
+2020-05-20,White House,10,29
+2020-05-20,Great Smoky Mountains National Park,11,24
+2020-05-20,Tennessee Association Of Chiefs Of Police,11,25
+2020-05-20,Educational Fund,12,23
+2020-05-20,Fraternal Order Of Police,13,22
+2020-05-20,Centers For Disease,14,21
+2020-05-20,American Civil Liberties Union,18,20
+2020-05-20,Human Services,19,19
+2020-05-20,National Guard,21,17
+2020-05-20,Zion Baptist Church Bishop Joseph Walker,21,18
+2020-05-20,Department Of Health,24,15
+2020-05-20,Tennessee Department Of Health,24,16
+2020-05-20,Kroger,25,14
+2020-05-20,Barclays Center,26,10
+2020-05-20,Forum In Inglewood,26,11
+2020-05-20,Living Classrooms Foundation,26,12
+2020-05-20,Mount Pilgrim Missionary Baptist Church,26,13
+2020-05-20,Facebook,27,8
+2020-05-20,Girls Club Of East Mississippi,27,9
+2020-05-20,America Food Fund,28,6
+2020-05-20,Relief Fund,28,7
+2020-05-20,United States,34,5
+2020-05-20,Mount Zion Baptist Church,37,4
+2020-05-20,Associated Press,49,3
+2020-05-20,Oprah Winfrey Charitable Foundation,55,2
+2020-05-20,Tennessee State University,66,1
 2020-05-21,American Civil Liberties Union Of Tennessee,3,49
 2020-05-21,Gallatin High School In Gallatin,3,50
 2020-05-21,Baylor School,4,39
@@ -4963,3 +4964,53 @@ date,organization,count,rn
 2020-05-27,United States,11,3
 2020-05-27,Centers For Disease,12,2
 2020-05-27,Tennessee Department Of Health,15,1
+2020-05-28,American Civil Liberties Union Of Tennessee,4,49
+2020-05-28,Cnn,4,50
+2020-05-28,Nan,5,47
+2020-05-28,White House,5,48
+2020-05-28,Autozone,6,35
+2020-05-28,Boeing,6,36
+2020-05-28,Ford Explorer Police Interceptor,6,37
+2020-05-28,Infiniti,6,38
+2020-05-28,Light Of Christ Lutheran Church,6,39
+2020-05-28,Lutheran Church,6,40
+2020-05-28,Mccabe United Methodist Church,6,41
+2020-05-28,Memorial Lutheran Church,6,42
+2020-05-28,Nissan,6,43
+2020-05-28,Ohio State University,6,44
+2020-05-28,Supreme Court,6,45
+2020-05-28,Wendy,6,46
+2020-05-28,Belmont University,7,13
+2020-05-28,Community School,7,14
+2020-05-28,Diocese Of Knoxville,7,15
+2020-05-28,Disney,7,16
+2020-05-28,Drug Task,7,17
+2020-05-28,Economic Recovery Group,7,18
+2020-05-28,Facebook,7,19
+2020-05-28,Family Justice Center,7,20
+2020-05-28,Gallatin Center,7,21
+2020-05-28,Health On,7,22
+2020-05-28,John Hopkins University,7,23
+2020-05-28,Knoxville Health Department,7,24
+2020-05-28,Life Care Center,7,25
+2020-05-28,Martha Obryan Center,7,26
+2020-05-28,Mcdonald,7,27
+2020-05-28,Morgan,7,28
+2020-05-28,Oneida High School,7,29
+2020-05-28,Renfro Corp,7,30
+2020-05-28,Stage Stores,7,31
+2020-05-28,Tennessee Department Of Labor,7,32
+2020-05-28,University Of Tennessee,7,33
+2020-05-28,Workforce Development,7,34
+2020-05-28,Hennepin County Medical Centre,8,11
+2020-05-28,Senate Committee On Health,8,12
+2020-05-28,Department Of Health,9,10
+2020-05-28,Google,10,9
+2020-05-28,Health Department,11,8
+2020-05-28,New York Times,12,6
+2020-05-28,Tennessee Department Of Education,12,7
+2020-05-28,Centers For Disease,16,5
+2020-05-28,Associated Press,20,4
+2020-05-28,Twitter,21,3
+2020-05-28,Tennessee Department Of Health,23,2
+2020-05-28,United States,26,1

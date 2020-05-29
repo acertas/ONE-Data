@@ -2418,20 +2418,17 @@ date,organization,count,rn
 2020-05-07,Department Of Labor Workforce Development,3,1
 2020-05-07,Labor Department,3,2
 2020-05-07,University Of Memphis,3,3
-2020-05-08,Austin Peay State University,1,4
-2020-05-08,Baylor School,1,5
-2020-05-08,Centers For Disease,1,6
-2020-05-08,Centers For Disease Control,1,7
-2020-05-08,Cumberland University,1,8
-2020-05-08,Department Of Health,1,9
-2020-05-08,Department Of Labor Workforce Development,1,10
-2020-05-08,Gibson,1,11
-2020-05-08,Health Department,1,12
-2020-05-08,Health Science Center,1,13
-2020-05-08,Labor Department,1,14
-2020-05-08,Lipscomb University,1,15
-2020-05-08,Maryville College,1,16
-2020-05-08,Nan,1,17
+2020-05-08,Austin Peay State University,1,7
+2020-05-08,Baylor School,1,8
+2020-05-08,Centers For Disease,1,9
+2020-05-08,Centers For Disease Control,1,10
+2020-05-08,Cumberland University,1,11
+2020-05-08,Department Of Health,1,12
+2020-05-08,Gibson,1,13
+2020-05-08,Health Department,1,14
+2020-05-08,Health Science Center,1,15
+2020-05-08,Lipscomb University,1,16
+2020-05-08,Maryville College,1,17
 2020-05-08,Pellissippi State Community College,1,18
 2020-05-08,Public Health Laboratory,1,19
 2020-05-08,Senate Education Committee,1,20
@@ -2450,7 +2447,10 @@ date,organization,count,rn
 2020-05-08,Workforce Community Solutions,1,33
 2020-05-08,American Academy Of Pediatrics,2,1
 2020-05-08,Cdc Us Centers For Disease,2,2
-2020-05-08,Georgia Children Medical Group,2,3
+2020-05-08,Department Of Labor Workforce Development,2,3
+2020-05-08,Georgia Children Medical Group,2,4
+2020-05-08,Labor Department,2,5
+2020-05-08,Nan,2,6
 2020-05-09,Administration For Children Services,1,2
 2020-05-09,Baylor School,1,3
 2020-05-09,Bon Air Juvenile Correctional Center,1,4
@@ -2671,16 +2671,41 @@ date,organization,count,rn
 2020-05-19,White House,1,23
 2020-05-19,American Civil Liberties Union,2,1
 2020-05-19,United States,2,2
-2020-05-20,American Civil Liberties Union,1,1
-2020-05-20,Beacon Center,1,2
-2020-05-20,Education Law Center,1,3
-2020-05-20,Institute For Justice,1,4
-2020-05-20,Liberty Justice Center,1,5
-2020-05-20,Southern Poverty Law Center,1,6
-2020-05-20,Supreme Court,1,7
-2020-05-20,Team For Overdose Prevention,1,8
-2020-05-20,Tennessee Court,1,9
-2020-05-20,Tennessee Regional Forensic Center,1,10
+2020-05-20,Associated Press,1,25
+2020-05-20,Baylor School,1,26
+2020-05-20,Department Of Health,1,27
+2020-05-20,Express,1,28
+2020-05-20,Health Department,1,29
+2020-05-20,Public Health Laboratory,1,30
+2020-05-20,Team For Overdose Prevention,1,31
+2020-05-20,Tennessee Department Of Health,1,32
+2020-05-20,Tennessee Regional Forensic Center,1,33
+2020-05-20,Twitter,1,34
+2020-05-20,While The Tennessee Department Health,1,35
+2020-05-20,American Express,2,9
+2020-05-20,American Hotel Lodging Association Hospitality For Hope,2,10
+2020-05-20,Educational Fund,2,11
+2020-05-20,Hampton Brand Operations Council,2,12
+2020-05-20,Hospitality Services,2,13
+2020-05-20,Hotel News,2,14
+2020-05-20,Hyatt Place Operations Advisory Committee,2,15
+2020-05-20,Marriott International,2,16
+2020-05-20,Mcneill Hotel Company,2,17
+2020-05-20,Mcneill Hotels,2,18
+2020-05-20,National Fraternal Order Of Police,2,19
+2020-05-20,National Guard,2,20
+2020-05-20,Partnership Circle Award,2,21
+2020-05-20,Realty Management Division For Goldman Sachs,2,22
+2020-05-20,Suites Owner Advisory Council,2,23
+2020-05-20,Visitors Bureau,2,24
+2020-05-20,Beacon Center,3,2
+2020-05-20,Education Law Center,3,3
+2020-05-20,Institute For Justice,3,4
+2020-05-20,Liberty Justice Center,3,5
+2020-05-20,Southern Poverty Law Center,3,6
+2020-05-20,Supreme Court,3,7
+2020-05-20,Tennessee Court,3,8
+2020-05-20,American Civil Liberties Union,5,1
 2020-05-21,Army Redstone Arsenal,1,10
 2020-05-21,Baylor School,1,11
 2020-05-21,Beacon Center,1,12
@@ -2836,3 +2861,27 @@ date,organization,count,rn
 2020-05-27,Senate Democratic Caucus,2,4
 2020-05-27,Tennessee Democratic Party State Executive Committee,2,5
 2020-05-27,Facebook,3,1
+2020-05-28,American Civil Liberties Union,1,6
+2020-05-28,Autozone,1,7
+2020-05-28,Brennan Center,1,8
+2020-05-28,Central District Health Department,1,9
+2020-05-28,Democracy Program,1,10
+2020-05-28,Department Of Justice,1,11
+2020-05-28,Facebook,1,12
+2020-05-28,Indiana State Department Of Health On,1,13
+2020-05-28,Indiana University,1,14
+2020-05-28,Legal Defense Fund,1,15
+2020-05-28,National Guard,1,16
+2020-05-28,Police Lives Matter,1,17
+2020-05-28,Republican National Committee,1,18
+2020-05-28,Southern Poverty Law Center,1,19
+2020-05-28,Supreme Court,1,20
+2020-05-28,Twitter,1,21
+2020-05-28,United States,1,22
+2020-05-28,University Of Texas,1,23
+2020-05-28,Wendy,1,24
+2020-05-28,Campaign Legal Center,2,3
+2020-05-28,Kroger,2,4
+2020-05-28,Lawyer Committee For Civil Rights Under Law,2,5
+2020-05-28,American Civil Liberties Union Of Tennessee,3,1
+2020-05-28,Walmart,3,2

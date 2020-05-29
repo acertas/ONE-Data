@@ -3360,15 +3360,14 @@ date,organization,count,rn
 2020-04-22,Northern Vermont University,9,2
 2020-04-22,Castleton University,13,1
 2020-04-23,American Civil Liberties Union,2,44
-2020-04-23,Association Of Nurse Practitioners,2,45
-2020-04-23,Barre Town Elementary Middle School,2,46
-2020-04-23,Democratic National Committee,2,47
-2020-04-23,Democratic Senatorial Campaign Committee,2,48
-2020-04-23,Department Of Agriculture,2,49
-2020-04-23,Finger Lakes National Forests,2,50
-2020-04-23,Baltimore Va Medical Center,3,29
-2020-04-23,Castleton University,3,30
-2020-04-23,Cnn,3,31
+2020-04-23,Americorps,2,45
+2020-04-23,Association Of Nurse Practitioners,2,46
+2020-04-23,Barre Town Elementary Middle School,2,47
+2020-04-23,City University Of New York,2,48
+2020-04-23,Community Tracing Collaborative,2,49
+2020-04-23,Democratic National Committee,2,50
+2020-04-23,Baltimore Va Medical Center,3,30
+2020-04-23,Castleton University,3,31
 2020-04-23,College System,3,32
 2020-04-23,Copernicus Community Center On,3,33
 2020-04-23,Department Of Veterans Affairs,3,34
@@ -3382,17 +3381,18 @@ date,organization,count,rn
 2020-04-23,Vermont Technical College,3,42
 2020-04-23,Vermont Technical College In Randolph,3,43
 2020-04-23,Banner University Medical Center,4,23
-2020-04-23,Democratic Party,4,24
-2020-04-23,Department Of Public Works,4,25
-2020-04-23,National Association Of Government,4,26
-2020-04-23,Northern Vermont University In Johnson,4,27
-2020-04-23,Vermont Health,4,28
+2020-04-23,Cnn,4,24
+2020-04-23,Democratic Party,4,25
+2020-04-23,Department Of Public Works,4,26
+2020-04-23,National Association Of Government,4,27
+2020-04-23,Northern Vermont University In Johnson,4,28
+2020-04-23,Vermont Health,4,29
 2020-04-23,Corrections Department,5,22
 2020-04-23,Northern Vermont University,6,20
 2020-04-23,Pew Research Center,6,21
-2020-04-23,United States,7,19
-2020-04-23,University Of Vermont,8,17
-2020-04-23,Writer Lisa Rathke,8,18
+2020-04-23,United States,8,17
+2020-04-23,University Of Vermont,8,18
+2020-04-23,Writer Lisa Rathke,8,19
 2020-04-23,Central Vermont Medical Center,9,15
 2020-04-23,Veterans Affairs,9,16
 2020-04-23,Vermont Health Department,10,14
@@ -3406,8 +3406,8 @@ date,organization,count,rn
 2020-04-23,Senate Democrats,13,9
 2020-04-23,Senate Veterans Affairs Committee,13,10
 2020-04-23,Veterans Healthcare Policy Institute,13,11
-2020-04-23,Emergency Management Agency,14,3
-2020-04-23,Centers For Disease,17,2
+2020-04-23,Emergency Management Agency,15,3
+2020-04-23,Centers For Disease,18,2
 2020-04-23,Associated Press,26,1
 2020-04-24,Agency Of Agriculture,2,31
 2020-04-24,Agency On,2,32
@@ -4059,35 +4059,35 @@ date,organization,count,rn
 2020-05-06,Senate Appropriations Committee,12,3
 2020-05-06,United States,13,2
 2020-05-06,Associated Press,14,1
-2020-05-07,Abbott Laboratories,2,28
-2020-05-07,American Postal Workers Union,2,29
-2020-05-07,Arizona Department Of Health Services,2,30
-2020-05-07,Association Of American Medical Colleges,2,31
-2020-05-07,Association Of Public Health Laboratories,2,32
-2020-05-07,Centers For Disease,2,33
-2020-05-07,Costco,2,34
-2020-05-07,Democratic National Convention,2,35
-2020-05-07,Drug Administration,2,36
-2020-05-07,Exchange Commission,2,37
-2020-05-07,Harris Teeter,2,38
-2020-05-07,Kroger,2,39
-2020-05-07,Moveon,2,40
-2020-05-07,National Cancer Institute,2,41
-2020-05-07,Oregon Health Authority,2,42
-2020-05-07,Oval Office,2,43
-2020-05-07,Pew Research Service,2,44
-2020-05-07,Postal Service,2,45
-2020-05-07,Purdue University,2,46
-2020-05-07,Republican Party,2,47
-2020-05-07,Reuters,2,48
-2020-05-07,Senate Democrats,2,49
-2020-05-07,Supporters Of The Postal Service,2,50
+2020-05-07,Abbott Laboratories,2,29
+2020-05-07,American Postal Workers Union,2,30
+2020-05-07,Arizona Department Of Health Services,2,31
+2020-05-07,Association Of American Medical Colleges,2,32
+2020-05-07,Association Of Public Health Laboratories,2,33
+2020-05-07,Centers For Disease,2,34
+2020-05-07,Costco,2,35
+2020-05-07,Democratic National Convention,2,36
+2020-05-07,Drug Administration,2,37
+2020-05-07,Exchange Commission,2,38
+2020-05-07,Harris Teeter,2,39
+2020-05-07,Kroger,2,40
+2020-05-07,Moveon,2,41
+2020-05-07,National Cancer Institute,2,42
+2020-05-07,Oregon Health Authority,2,43
+2020-05-07,Oval Office,2,44
+2020-05-07,Pew Research Service,2,45
+2020-05-07,Postal Service,2,46
+2020-05-07,Purdue University,2,47
+2020-05-07,Republican Party,2,48
+2020-05-07,Reuters,2,49
+2020-05-07,Senate Democrats,2,50
 2020-05-07,Champlain College,3,22
 2020-05-07,Cnn,3,23
 2020-05-07,Department Of Health,3,24
 2020-05-07,Johns Hopkins University,3,25
 2020-05-07,Twitter,3,26
 2020-05-07,White House,3,27
+2020-05-07,World Health Organization,3,28
 2020-05-07,Alice Hyde Medical Center,4,15
 2020-05-07,Democratic Party,4,16
 2020-05-07,Elizabethtown Community Hospital,4,17
@@ -4298,11 +4298,11 @@ date,organization,count,rn
 2020-05-11,Health Department Laboratory,5,14
 2020-05-11,National Institute Of Allergy,5,15
 2020-05-11,Vermont Healthcare Emergency Preparedness Coalition,5,16
-2020-05-11,Facebook,6,9
-2020-05-11,Walmart,6,10
-2020-05-11,White House,6,11
+2020-05-11,Facebook,6,10
+2020-05-11,Walmart,6,11
 2020-05-11,Progressive International,7,7
 2020-05-11,Vermont Department Of Health,7,8
+2020-05-11,White House,7,9
 2020-05-11,Vermont School For Girls,9,6
 2020-05-11,Bennington College,11,4
 2020-05-11,Upper Valley Aquatic Center,11,5
@@ -4709,18 +4709,56 @@ date,organization,count,rn
 2020-05-19,United States,12,3
 2020-05-19,Vermont Department Of Health,16,2
 2020-05-19,Health Department,19,1
-2020-05-20,Circuit Court,1,6
-2020-05-20,Community Development Agency,1,7
-2020-05-20,Department Of Public Safety,1,8
-2020-05-20,Nan,1,9
-2020-05-20,New York Daily News,1,10
-2020-05-20,Tribune Content Agency,1,11
-2020-05-20,Vermont State Police,1,12
-2020-05-20,Club Fitness,2,4
-2020-05-20,Club Fitness Of Vermont,2,5
-2020-05-20,Community Development,3,2
-2020-05-20,Health Department,3,3
-2020-05-20,Agency Of Commerce,4,1
+2020-05-20,Academic Planning Center,3,24
+2020-05-20,Club Fitness,3,25
+2020-05-20,Cnn,3,26
+2020-05-20,Community Development Agency,3,27
+2020-05-20,Cultural Relief Grant Program,3,28
+2020-05-20,Democratic National Convention,3,29
+2020-05-20,Department Of Public Safety,3,30
+2020-05-20,District Court,3,31
+2020-05-20,Farmers To Families Food Box Program,3,32
+2020-05-20,Global Authority On Workplace Culture,3,33
+2020-05-20,Management Of Information Of Technology,3,34
+2020-05-20,National Endowment For The Arts,3,35
+2020-05-20,National Endowment For The Humanities,3,36
+2020-05-20,National Security Advisor,3,37
+2020-05-20,New York Times,3,38
+2020-05-20,Off Center,3,39
+2020-05-20,Office Of Strategic Gifts,3,40
+2020-05-20,Paycheck Protection Program,3,41
+2020-05-20,Senate Majority Leader Mitch Mcconnell,3,42
+2020-05-20,Small Business Association,3,43
+2020-05-20,University Of Virginia,3,44
+2020-05-20,Verisign,3,45
+2020-05-20,Vermont Arts Council,3,46
+2020-05-20,Vermont Comedy Club,3,47
+2020-05-20,Vermont Comedy Club In Burlington,3,48
+2020-05-20,Vermont Creative Network,3,49
+2020-05-20,Vermont State Police,3,50
+2020-05-20,Department Of Corrections,4,12
+2020-05-20,Department Of Tourism,4,13
+2020-05-20,Drug Administration,4,14
+2020-05-20,Economic Development,4,15
+2020-05-20,House Appropriations Committee,4,16
+2020-05-20,Human Rights Campaign,4,17
+2020-05-20,Human Services,4,18
+2020-05-20,Scott Administration,4,19
+2020-05-20,Twitter,4,20
+2020-05-20,United States,4,21
+2020-05-20,University Of Vermont,4,22
+2020-05-20,Vermont Department Of Corrections,4,23
+2020-05-20,Club Fitness Of Vermont,5,9
+2020-05-20,Democratic Party,5,10
+2020-05-20,Nan,5,11
+2020-05-20,Vermont Department Of Health,7,8
+2020-05-20,Centers For Disease,8,6
+2020-05-20,National Federation Of Independent Businesses,8,7
+2020-05-20,White House,10,5
+2020-05-20,Agency Of Commerce,11,3
+2020-05-20,Health Department,11,4
+2020-05-20,Community Development,12,2
+2020-05-20,Department Of Health,14,1
 2020-05-21,Allearth Renewables,2,27
 2020-05-21,Carbon Neutral Cities Alliance,2,28
 2020-05-21,Castleton University,2,29
@@ -5071,3 +5109,53 @@ date,organization,count,rn
 2020-05-27,Paycheck Protection Program,5,4
 2020-05-27,Twitter,5,5
 2020-05-27,Human Services,9,1
+2020-05-28,Burlington Free,2,41
+2020-05-28,Champlain Valley Union High School,2,42
+2020-05-28,Essex High School,2,43
+2020-05-28,Fiscal Office,2,44
+2020-05-28,Head Of School Twila Perry,2,45
+2020-05-28,House Committee On Education,2,46
+2020-05-28,Labor Committee Workforce Protections Subcommittee,2,47
+2020-05-28,Lyndon Institute,2,48
+2020-05-28,Lyndon Town School,2,49
+2020-05-28,Means Committee,2,50
+2020-05-28,Department Of Corrections,3,28
+2020-05-28,Google,3,29
+2020-05-28,House Committee On Business,3,30
+2020-05-28,Marlboro College,3,31
+2020-05-28,Marlboro College Vermont,3,32
+2020-05-28,Oregon Employment Department,3,33
+2020-05-28,Progressive Party,3,34
+2020-05-28,Republican Governor Association,3,35
+2020-05-28,Reuters,3,36
+2020-05-28,Scott Administration,3,37
+2020-05-28,Vermont Retail Grocers Association,3,38
+2020-05-28,Vermont Specialty Food Association,3,39
+2020-05-28,White House,3,40
+2020-05-28,Cnn,4,15
+2020-05-28,Department Of Health,4,16
+2020-05-28,Emory University,4,17
+2020-05-28,Georgetown University,4,18
+2020-05-28,Health Administration,4,19
+2020-05-28,Health Statistics,4,20
+2020-05-28,Johns Hopkins University,4,21
+2020-05-28,Labor Department,4,22
+2020-05-28,Nan,4,23
+2020-05-28,Prevention National Center,4,24
+2020-05-28,Senate Democrats,4,25
+2020-05-28,University Of Mississippi,4,26
+2020-05-28,Vermont Department Of Health,4,27
+2020-05-28,American Legion,5,4
+2020-05-28,B Company,5,5
+2020-05-28,Calvary Division,5,6
+2020-05-28,Department Of State Attorneys,5,7
+2020-05-28,Infantry Division,5,8
+2020-05-28,Johnsbury Academy,5,9
+2020-05-28,Johnsbury Center Cemetery,5,10
+2020-05-28,Johnsbury Trade School,5,11
+2020-05-28,Lyndon State College,5,12
+2020-05-28,Rogers Williams University In Bristol,5,13
+2020-05-28,Vermont National Guard,5,14
+2020-05-28,Centers For Disease,6,2
+2020-05-28,United States,6,3
+2020-05-28,Associated Press,9,1

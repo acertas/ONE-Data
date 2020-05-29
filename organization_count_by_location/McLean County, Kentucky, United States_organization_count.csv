@@ -3727,28 +3727,28 @@ date,organization,count,rn
 2020-04-22,Centers For Disease,20,2
 2020-04-22,United States,20,3
 2020-04-22,Illinois Department Of Public Health,28,1
-2020-04-23,American Civil Liberties Union,3,39
 2020-04-23,American Express,3,40
 2020-04-23,American Hotel,3,41
-2020-04-23,Clorox,3,42
-2020-04-23,Federal Reserve,3,43
-2020-04-23,Health Administration,3,44
-2020-04-23,Illinois Department Of Children,3,45
-2020-04-23,Illinois Department Of Corrections,3,46
-2020-04-23,Illinois Department Of Employment Security Worknet,3,47
-2020-04-23,Illinois Department Of Public Health Director,3,48
-2020-04-23,Illinois Department Of Revenue,3,49
-2020-04-23,Illinois Department Of Veteran Affairs,3,50
-2020-04-23,Department Of Health,4,29
-2020-04-23,Human Services,4,30
-2020-04-23,Illinois Department Of Human Services,4,31
-2020-04-23,Paycheck Protection Program,4,32
-2020-04-23,Senate Republicans,4,33
-2020-04-23,Thomson Reuters Trust Principles,4,34
-2020-04-23,Twitter,4,35
-2020-04-23,United Nations,4,36
-2020-04-23,University Of Chicago,4,37
-2020-04-23,World Health Organization,4,38
+2020-04-23,Civil Rights Division,3,42
+2020-04-23,Clorox,3,43
+2020-04-23,Federal Reserve,3,44
+2020-04-23,Health Administration,3,45
+2020-04-23,Illinois Department Of Children,3,46
+2020-04-23,Illinois Department Of Corrections,3,47
+2020-04-23,Illinois Department Of Employment Security Worknet,3,48
+2020-04-23,Illinois Department Of Public Health Director,3,49
+2020-04-23,Illinois Department Of Revenue,3,50
+2020-04-23,American Civil Liberties Union,4,29
+2020-04-23,Department Of Health,4,30
+2020-04-23,Human Services,4,31
+2020-04-23,Illinois Department Of Human Services,4,32
+2020-04-23,Paycheck Protection Program,4,33
+2020-04-23,Senate Republicans,4,34
+2020-04-23,Thomson Reuters Trust Principles,4,35
+2020-04-23,Twitter,4,36
+2020-04-23,United Nations,4,37
+2020-04-23,University Of Chicago,4,38
+2020-04-23,World Health Organization,4,39
 2020-04-23,Aurora Police Department,5,21
 2020-04-23,Cnn,5,22
 2020-04-23,Drug Administration,5,23
@@ -3763,13 +3763,13 @@ date,organization,count,rn
 2020-04-23,University Of Illinois College Of Medicine,6,20
 2020-04-23,Exchange Commission,7,15
 2020-04-23,Msnbc,7,16
-2020-04-23,Associated Press,8,10
 2020-04-23,Ishares National Muni Bond Exchange Traded Fund,8,11
 2020-04-23,National Governors Association On,8,12
 2020-04-23,Response Fund,8,13
 2020-04-23,Reuters,8,14
-2020-04-23,Illinois National Guard,9,8
-2020-04-23,New York Times,9,9
+2020-04-23,Associated Press,9,8
+2020-04-23,Illinois National Guard,9,9
+2020-04-23,New York Times,9,10
 2020-04-23,Facebook,11,5
 2020-04-23,Illinois Senate,11,6
 2020-04-23,White House,11,7
@@ -3963,9 +3963,9 @@ date,organization,count,rn
 2020-04-27,Associated Press,6,15
 2020-04-27,Facebook,6,16
 2020-04-27,Illinois Worker Compensation Commission,6,17
-2020-04-27,Nan,7,13
 2020-04-27,Walmart,7,14
-2020-04-27,Paycheck Protection Program,8,12
+2020-04-27,Nan,8,12
+2020-04-27,Paycheck Protection Program,8,13
 2020-04-27,Illinois Department Of Public Health,10,9
 2020-04-27,New York Times,10,10
 2020-04-27,United States,10,11
@@ -4012,9 +4012,9 @@ date,organization,count,rn
 2020-04-28,Human Services,9,16
 2020-04-28,Illinois Association Of Healthcare Facilities,9,17
 2020-04-28,Reuters,9,18
-2020-04-28,Illinois Senate,10,13
-2020-04-28,Paycheck Protection Program,10,14
+2020-04-28,Illinois Senate,10,14
 2020-04-28,United Nations,10,15
+2020-04-28,Paycheck Protection Program,11,13
 2020-04-28,Republican Party,12,12
 2020-04-28,Facebook,13,10
 2020-04-28,Senate Republicans,13,11
@@ -4023,8 +4023,8 @@ date,organization,count,rn
 2020-04-28,Nan,17,7
 2020-04-28,Senate Majority Leader Mitch Mcconnell,18,6
 2020-04-28,White House,24,5
-2020-04-28,Twitter,28,4
 2020-04-28,Illinois Department Of Public Health,29,3
+2020-04-28,Twitter,29,4
 2020-04-28,Cnn,39,2
 2020-04-28,United States,41,1
 2020-04-29,American Civil Liberties Union,4,36
@@ -4042,26 +4042,27 @@ date,organization,count,rn
 2020-04-29,Illinois Manufacturer Association,4,48
 2020-04-29,Illinois Masonic Medical Center,4,49
 2020-04-29,Illinois Supreme Court,4,50
-2020-04-29,Emergency Management Agency,5,31
+2020-04-29,Emergency Management Agency,5,30
+2020-04-29,Health Department,5,31
 2020-04-29,Heritage Health,5,32
 2020-04-29,New York Times,5,33
 2020-04-29,Public Health Department,5,34
 2020-04-29,Twitter,5,35
-2020-04-29,Coronavirus Relief Fund,6,25
-2020-04-29,Gannett,6,26
-2020-04-29,Health Department,6,27
-2020-04-29,Illinois Association Of Health Care Facilities,6,28
-2020-04-29,National Employment Law,6,29
-2020-04-29,Senate Minority Leader Chuck Schumer,6,30
+2020-04-29,Coronavirus Relief Fund,6,23
+2020-04-29,Gannett,6,24
+2020-04-29,Illinois Association Of Health Care Facilities,6,25
+2020-04-29,Illinois Department Of Public Health On,6,26
+2020-04-29,Illinois Worker Compensation Commission,6,27
+2020-04-29,National Employment Law,6,28
+2020-04-29,Senate Minority Leader Chuck Schumer,6,29
 2020-04-29,Cnn,7,20
-2020-04-29,Illinois Department Of Public Health On,7,21
-2020-04-29,Illinois Worker Compensation Commission,7,22
-2020-04-29,Moody,7,23
-2020-04-29,National Governors Association,7,24
+2020-04-29,Moody,7,21
+2020-04-29,National Governors Association,7,22
 2020-04-29,Heritage Operations Group,8,19
 2020-04-29,Supreme Court,9,18
-2020-04-29,District Appellate Court,10,16
-2020-04-29,Health Administration,10,17
+2020-04-29,District Appellate Court,10,15
+2020-04-29,Health Administration,10,16
+2020-04-29,Winnebago County Circuit Court,10,17
 2020-04-29,American Meat Institute,11,8
 2020-04-29,Hawkeye Community College,11,9
 2020-04-29,National Pork Producers Council,11,10
@@ -4069,9 +4070,8 @@ date,organization,count,rn
 2020-04-29,Safety Administration,11,12
 2020-04-29,Walmart,11,13
 2020-04-29,Waterloo City Council,11,14
-2020-04-29,Winnebago County Circuit Court,11,15
-2020-04-29,Nan,14,6
-2020-04-29,Senate Majority Leader Mitch Mcconnell,14,7
+2020-04-29,Nan,13,7
+2020-04-29,Senate Majority Leader Mitch Mcconnell,14,6
 2020-04-29,Associated Press,15,4
 2020-04-29,Centers For Disease,15,5
 2020-04-29,United States,23,3
@@ -4206,16 +4206,16 @@ date,organization,count,rn
 2020-05-02,Bloomberg,8,23
 2020-05-02,Thomas More Society,8,24
 2020-05-02,Korea Centers For Disease,9,22
-2020-05-02,Costco,11,14
-2020-05-02,Disney,11,15
-2020-05-02,Gilead Sciences,11,16
-2020-05-02,Infectious Disease Research,11,17
-2020-05-02,Pixar,11,18
-2020-05-02,Simon Property Group,11,19
-2020-05-02,University Of Minnesota Center,11,20
-2020-05-02,World Health Organization,11,21
-2020-05-02,Health Administration,12,12
-2020-05-02,Twitter,12,13
+2020-05-02,Costco,11,15
+2020-05-02,Disney,11,16
+2020-05-02,Gilead Sciences,11,17
+2020-05-02,Infectious Disease Research,11,18
+2020-05-02,Pixar,11,19
+2020-05-02,Simon Property Group,11,20
+2020-05-02,University Of Minnesota Center,11,21
+2020-05-02,Health Administration,12,13
+2020-05-02,World Health Organization,12,14
+2020-05-02,Twitter,13,12
 2020-05-02,Centers For Disease,14,10
 2020-05-02,Illinois Department Of Public Health,14,11
 2020-05-02,Department Of Health,19,6
@@ -4226,31 +4226,30 @@ date,organization,count,rn
 2020-05-02,Freedom Movement United States,20,4
 2020-05-02,Health Department,20,5
 2020-05-02,United States,35,2
-2020-05-02,White House,38,1
-2020-05-03,Abbott Labs,1,46
-2020-05-03,African Development Bank,1,47
-2020-05-03,Airlines Co,1,48
-2020-05-03,Allianz,1,49
-2020-05-03,American Airlines Group Inc,1,50
+2020-05-02,White House,39,1
+2020-05-03,Abbott Labs,1,48
+2020-05-03,African Development Bank,1,49
+2020-05-03,Airlines Co,1,50
 2020-05-03,Auschwitz Museum,2,28
 2020-05-03,Baptist Church,2,29
-2020-05-03,Catholic Church,2,30
-2020-05-03,Census Bureau,2,31
-2020-05-03,Cobble Hill Health Center,2,32
-2020-05-03,Department Of Health,2,33
-2020-05-03,Drug Administration,2,34
-2020-05-03,Freedom Movement United States,2,35
-2020-05-03,Health Administration,2,36
-2020-05-03,Illinois Department Of Veteran Affairs,2,37
-2020-05-03,Illinois Manufacturer Association,2,38
-2020-05-03,Illinois Public Health,2,39
-2020-05-03,Illinois Worker Compensation Commission,2,40
-2020-05-03,National Economic Council,2,41
-2020-05-03,National Magazine Award,2,42
-2020-05-03,News Bureau,2,43
-2020-05-03,Physician Of The United States Congress,2,44
-2020-05-03,Presbyterian Church,2,45
-2020-05-03,Bureau Of Prisons,3,16
+2020-05-03,Bureau Of Prison,2,30
+2020-05-03,Catholic Church,2,31
+2020-05-03,Census Bureau,2,32
+2020-05-03,Cobble Hill Health Center,2,33
+2020-05-03,Correctional Center,2,34
+2020-05-03,Department Of Health,2,35
+2020-05-03,Drug Administration,2,36
+2020-05-03,Freedom Movement United States,2,37
+2020-05-03,Health Administration,2,38
+2020-05-03,Illinois Department Of Veteran Affairs,2,39
+2020-05-03,Illinois Manufacturer Association,2,40
+2020-05-03,Illinois Public Health,2,41
+2020-05-03,Illinois Worker Compensation Commission,2,42
+2020-05-03,National Economic Council,2,43
+2020-05-03,National Magazine Award,2,44
+2020-05-03,News Bureau,2,45
+2020-05-03,Physician Of The United States Congress,2,46
+2020-05-03,Presbyterian Church,2,47
 2020-05-03,Coronavirus Relief Fund,3,17
 2020-05-03,Crisis Communication Team,3,18
 2020-05-03,Illinois Public Health Association,3,19
@@ -4262,10 +4261,11 @@ date,organization,count,rn
 2020-05-03,Senate Democrats,3,25
 2020-05-03,Senate Majority Leader,3,26
 2020-05-03,Senate Majority Leader Mitch Mcconnell,3,27
-2020-05-03,Department Of Public Health,4,12
-2020-05-03,Emergency Management Agency,4,13
-2020-05-03,Nan,4,14
-2020-05-03,National Governors Association,4,15
+2020-05-03,Bureau Of Prisons,4,12
+2020-05-03,Department Of Public Health,4,13
+2020-05-03,Emergency Management Agency,4,14
+2020-05-03,Nan,4,15
+2020-05-03,National Governors Association,4,16
 2020-05-03,Cnn,5,9
 2020-05-03,Thompson Center,5,10
 2020-05-03,Twitter,5,11
@@ -4376,7 +4376,7 @@ date,organization,count,rn
 2020-05-05,Twitter,13,4
 2020-05-05,Associated Press,14,3
 2020-05-05,United States,20,2
-2020-05-05,Illinois Department Of Public Health,36,1
+2020-05-05,Illinois Department Of Public Health,37,1
 2020-05-06,Alden Network,3,42
 2020-05-06,American Medical Association,3,43
 2020-05-06,Bloomberg,3,44
@@ -4386,14 +4386,13 @@ date,organization,count,rn
 2020-05-06,Group Management Association,3,48
 2020-05-06,Health Care Payment Learning Action Network,3,49
 2020-05-06,Health Department,3,50
-2020-05-06,Bradley-Bourbonnais Community High School In Bradley,4,25
-2020-05-06,College Of Education,4,26
-2020-05-06,Department Of Education,4,27
-2020-05-06,Depaulia Depaul University Lincoln Park,4,28
-2020-05-06,Faculty Council,4,29
-2020-05-06,Financial Aid Department,4,30
-2020-05-06,Higher Education Emergency Relief Fund,4,31
-2020-05-06,Illinois Department Of Public Health For,4,32
+2020-05-06,Bradley-Bourbonnais Community High School In Bradley,4,26
+2020-05-06,College Of Education,4,27
+2020-05-06,Department Of Education,4,28
+2020-05-06,Depaulia Depaul University Lincoln Park,4,29
+2020-05-06,Faculty Council,4,30
+2020-05-06,Financial Aid Department,4,31
+2020-05-06,Higher Education Emergency Relief Fund,4,32
 2020-05-06,Illinois Economic Policy Institute,4,33
 2020-05-06,Instagram,4,34
 2020-05-06,Office Of Financial Aid,4,35
@@ -4407,76 +4406,77 @@ date,organization,count,rn
 2020-05-06,Harrah Metropolis Hotel,5,18
 2020-05-06,Illinois Association Of Health Care Facilities,5,19
 2020-05-06,Illinois Department Of Employment Security,5,20
-2020-05-06,Illinois Municipal League,5,21
-2020-05-06,Nan,5,22
-2020-05-06,University Of Illinois Chicago,5,23
-2020-05-06,Villas Senior Care Community In Springfield,5,24
-2020-05-06,City View Multicare Center,6,12
-2020-05-06,Johns Hopkins University,6,13
-2020-05-06,National Nurses Week,6,14
-2020-05-06,Senate Appropriations Committee,6,15
-2020-05-06,Tribune Content Agency,6,16
-2020-05-06,Department Of Public Health,7,11
-2020-05-06,Empire Center,8,10
+2020-05-06,Illinois Department Of Public Health For,5,21
+2020-05-06,Illinois Municipal League,5,22
+2020-05-06,Nan,5,23
+2020-05-06,University Of Illinois Chicago,5,24
+2020-05-06,Villas Senior Care Community In Springfield,5,25
+2020-05-06,City View Multicare Center,6,13
+2020-05-06,Johns Hopkins University,6,14
+2020-05-06,National Nurses Week,6,15
+2020-05-06,Senate Appropriations Committee,6,16
+2020-05-06,Tribune Content Agency,7,12
+2020-05-06,Department Of Public Health,8,10
+2020-05-06,Empire Center,8,11
 2020-05-06,Amita Health Adventist Medical Center Bolingbrook,9,9
 2020-05-06,University Of Illinois At Chicago,10,8
 2020-05-06,Centers For Disease,14,6
 2020-05-06,White House,14,7
 2020-05-06,Twitter,15,5
-2020-05-06,Associated Press,19,4
-2020-05-06,Facebook,20,3
+2020-05-06,Associated Press,20,3
+2020-05-06,Facebook,20,4
 2020-05-06,United States,21,2
-2020-05-06,Illinois Department Of Public Health,34,1
-2020-05-07,American Association,5,46
-2020-05-07,Bloom Energy,5,47
-2020-05-07,Capitol Bureau,5,48
-2020-05-07,Department Of Homeland Security,5,49
-2020-05-07,Department Of Public Health,5,50
-2020-05-07,Harvard University,6,40
-2020-05-07,Illinois Department Of Human Rights,6,41
-2020-05-07,Illinois National Guard,6,42
-2020-05-07,Paycheck Protection Program,6,43
-2020-05-07,Woodbine Rehabilitation Healthcare Center,6,44
-2020-05-07,Youtube,6,45
-2020-05-07,Foreign Ministry,7,35
-2020-05-07,Illinois Restaurant Association,7,36
-2020-05-07,Johns Hopkins University,7,37
-2020-05-07,Tribune Content Agency,7,38
-2020-05-07,Wordpress,7,39
+2020-05-06,Illinois Department Of Public Health,36,1
+2020-05-07,American Association,5,47
+2020-05-07,Bloom Energy,5,48
+2020-05-07,Capitol Bureau,5,49
+2020-05-07,Department Of Homeland Security,5,50
+2020-05-07,Harvard University,6,41
+2020-05-07,Illinois Department Of Human Rights,6,42
+2020-05-07,Illinois National Guard,6,43
+2020-05-07,Paycheck Protection Program,6,44
+2020-05-07,Woodbine Rehabilitation Healthcare Center,6,45
+2020-05-07,Youtube,6,46
+2020-05-07,Foreign Ministry,7,36
+2020-05-07,Illinois Restaurant Association,7,37
+2020-05-07,Johns Hopkins University,7,38
+2020-05-07,Tribune Content Agency,7,39
+2020-05-07,Wordpress,7,40
 2020-05-07,Department Of Health,8,33
-2020-05-07,Thomson Reuters Trust Principles,8,34
-2020-05-07,Caterpillar Inc,9,29
-2020-05-07,Lancaster University,9,30
-2020-05-07,Republican National Committee,9,31
-2020-05-07,Republican National Convention In Charlotte,9,32
-2020-05-07,Democratic Party,10,23
-2020-05-07,Illinois Department Of Employment Security,10,24
-2020-05-07,Illinois Economic Policy Institute,10,25
-2020-05-07,Nan,10,26
-2020-05-07,Washington Post,10,27
-2020-05-07,York Stock Exchange,10,28
-2020-05-07,Cnn,11,18
-2020-05-07,Facebook,11,19
-2020-05-07,Senate Majority Leader Mitch Mcconnell,11,20
-2020-05-07,Society For Post,11,21
-2020-05-07,Supreme Court,11,22
-2020-05-07,Amtrak,12,17
-2020-05-07,Alden Network,13,13
-2020-05-07,Illinois Association Of Health Care Facilities,13,14
-2020-05-07,Republican Party,13,15
-2020-05-07,Tree Of Life Justice League,13,16
+2020-05-07,Illinois Department Of Public Health For,8,34
+2020-05-07,Thomson Reuters Trust Principles,8,35
+2020-05-07,Caterpillar Inc,9,32
+2020-05-07,Democratic Party,10,24
+2020-05-07,Illinois Department Of Employment Security,10,25
+2020-05-07,Illinois Economic Policy Institute,10,26
+2020-05-07,Lancaster University,10,27
+2020-05-07,Republican National Committee,10,28
+2020-05-07,Republican National Convention In Charlotte,10,29
+2020-05-07,Washington Post,10,30
+2020-05-07,York Stock Exchange,10,31
+2020-05-07,Cnn,11,19
+2020-05-07,Facebook,11,20
+2020-05-07,Senate Majority Leader Mitch Mcconnell,11,21
+2020-05-07,Society For Post,11,22
+2020-05-07,Supreme Court,11,23
+2020-05-07,Nan,12,18
+2020-05-07,Alden Network,13,14
+2020-05-07,Amtrak,13,15
+2020-05-07,Illinois Association Of Health Care Facilities,13,16
+2020-05-07,Tree Of Life Justice League,13,17
+2020-05-07,Republican Party,14,13
 2020-05-07,Msnbc,16,12
 2020-05-07,New York Times,17,11
 2020-05-07,White House,20,10
 2020-05-07,Caterpillar,21,7
 2020-05-07,Ford Motor Co,21,8
 2020-05-07,Motors Co,21,9
-2020-05-07,Associated Press,24,5
 2020-05-07,Centers For Disease,24,6
-2020-05-07,Reuters,30,4
-2020-05-07,World Health Organization,31,3
-2020-05-07,Illinois Department Of Public Health,45,2
-2020-05-07,United States,50,1
+2020-05-07,Associated Press,28,5
+2020-05-07,Reuters,31,4
+2020-05-07,World Health Organization,32,3
+2020-05-07,United States,51,2
+2020-05-07,Illinois Department Of Public Health,52,1
 2020-05-08,American Samoa Coronavirus Task,3,37
 2020-05-08,Catholic News Agency,3,38
 2020-05-08,China Task,3,39
@@ -4709,24 +4709,24 @@ date,organization,count,rn
 2020-05-12,Supreme Court,5,22
 2020-05-12,Senate Majority Leader Mitch Mcconnell,6,19
 2020-05-12,Senate Republicans,6,20
-2020-05-12,Alabama Legislature,7,14
-2020-05-12,Associated Press,7,15
-2020-05-12,Drug Administration,7,16
-2020-05-12,Illinois Supreme Court,7,17
+2020-05-12,Alabama Legislature,7,15
+2020-05-12,Associated Press,7,16
+2020-05-12,Drug Administration,7,17
 2020-05-12,Thompson Center,7,18
 2020-05-12,Centers For Disease,8,12
-2020-05-12,Postal Service,8,13
+2020-05-12,Illinois Supreme Court,8,13
+2020-05-12,Postal Service,8,14
 2020-05-12,Democrats In Congress,9,9
 2020-05-12,Illinois Department Of Public Health On,9,10
 2020-05-12,Treasury Department,9,11
-2020-05-12,New York Times,10,7
-2020-05-12,Twitter,10,8
+2020-05-12,New York Times,10,8
+2020-05-12,Twitter,11,7
 2020-05-12,Illinois Senate,12,5
 2020-05-12,Nan,12,6
 2020-05-12,Cnn,14,4
-2020-05-12,United States,16,3
+2020-05-12,United States,17,3
 2020-05-12,White House,20,2
-2020-05-12,Illinois Department Of Public Health,35,1
+2020-05-12,Illinois Department Of Public Health,36,1
 2020-05-13,Appellate Court,4,34
 2020-05-13,Associated Press,4,35
 2020-05-13,Board Of Health On,4,36
@@ -4777,19 +4777,18 @@ date,organization,count,rn
 2020-05-13,United States,18,3
 2020-05-13,Department Of Public Health,22,2
 2020-05-13,Illinois Department Of Public Health,65,1
-2020-05-14,A United Airlines,2,38
-2020-05-14,Advertisement Rush Medical Center,2,39
-2020-05-14,Agribusiness Management Program,2,40
-2020-05-14,American Civil Liberties Union,2,41
-2020-05-14,American Lung Association,2,42
-2020-05-14,American Seed Trade Association,2,43
-2020-05-14,American Soybean Association,2,44
-2020-05-14,Capitol Senate,2,45
-2020-05-14,Catholic Diocese Of Rockford,2,46
-2020-05-14,Centers For Medicare Medicaid Services,2,47
-2020-05-14,Claremont Mckenna College,2,48
-2020-05-14,Commerce Committee,2,49
-2020-05-14,Community Development Block Grant,2,50
+2020-05-14,A United Airlines,2,39
+2020-05-14,Advertisement Rush Medical Center,2,40
+2020-05-14,Agribusiness Management Program,2,41
+2020-05-14,American Civil Liberties Union,2,42
+2020-05-14,American Lung Association,2,43
+2020-05-14,American Seed Trade Association,2,44
+2020-05-14,American Soybean Association,2,45
+2020-05-14,Capitol Senate,2,46
+2020-05-14,Catholic Diocese Of Rockford,2,47
+2020-05-14,Centers For Medicare Medicaid Services,2,48
+2020-05-14,Claremont Mckenna College,2,49
+2020-05-14,Commerce Committee,2,50
 2020-05-14,American Wind Energy Association,3,15
 2020-05-14,Catholic Church,3,16
 2020-05-14,Centers For Medicare,3,17
@@ -4811,8 +4810,9 @@ date,organization,count,rn
 2020-05-14,Raytheon,3,33
 2020-05-14,Reuters,3,34
 2020-05-14,Solar Energy Industries Association,3,35
-2020-05-14,United States Naval Academy,3,36
-2020-05-14,Wood Mackenzie Power Renewables,3,37
+2020-05-14,Supreme Court,3,36
+2020-05-14,United States Naval Academy,3,37
+2020-05-14,Wood Mackenzie Power Renewables,3,38
 2020-05-14,A United Airlines Holdings Inc,4,11
 2020-05-14,Associated Press,4,12
 2020-05-14,Wisconsin Supreme Court,4,13
@@ -4823,9 +4823,9 @@ date,organization,count,rn
 2020-05-14,Department Of Public Health,6,6
 2020-05-14,Facebook,6,7
 2020-05-14,Nan,6,8
-2020-05-14,White House,7,4
 2020-05-14,Centers For Disease,8,3
-2020-05-14,United States,18,2
+2020-05-14,White House,8,4
+2020-05-14,United States,19,2
 2020-05-14,Illinois Department Of Public Health,26,1
 2020-05-15,Board Of Health,3,45
 2020-05-15,Cnn,3,46
@@ -4961,20 +4961,20 @@ date,organization,count,rn
 2020-05-17,University Of Maryland School Of Medicine,3,41
 2020-05-17,White House National Security Council,3,42
 2020-05-17,White House National Security Council Policy Coordination,3,43
-2020-05-17,Reuters,4,14
-2020-05-17,Thompson Center,4,15
-2020-05-17,Twitter,4,16
-2020-05-17,Facebook,5,12
-2020-05-17,Lasalle,5,13
-2020-05-17,Bible Baptist Church,6,9
-2020-05-17,First Liberty Institute,6,10
-2020-05-17,University Of Alabama At Birmingham,6,11
+2020-05-17,Bible Baptist Church,4,11
+2020-05-17,First Liberty Institute,4,12
+2020-05-17,Reuters,4,13
+2020-05-17,Thompson Center,4,14
+2020-05-17,Twitter,4,15
+2020-05-17,University Of Alabama At Birmingham,4,16
+2020-05-17,Facebook,5,9
+2020-05-17,Lasalle,5,10
+2020-05-17,Associated Press,7,6
+2020-05-17,Cnn,7,7
 2020-05-17,World Health Organization,7,8
-2020-05-17,Associated Press,8,7
-2020-05-17,Cnn,9,6
+2020-05-17,Johns Hopkins University,9,5
 2020-05-17,Centers For Disease,11,3
-2020-05-17,Johns Hopkins University,11,4
-2020-05-17,White House,11,5
+2020-05-17,White House,11,4
 2020-05-17,Illinois Department Of Public Health,14,2
 2020-05-17,United States,17,1
 2020-05-18,A Bria Health Services,2,42
@@ -5077,56 +5077,56 @@ date,organization,count,rn
 2020-05-19,United Methodist Church,13,8
 2020-05-19,Illinois Department Of Public Health,16,2
 2020-05-19,United States,27,1
-2020-05-20,Albert Einstein College Of Medicine,1,14
-2020-05-20,Army Sgt,1,15
-2020-05-20,Chinese Communist Party,1,16
-2020-05-20,Commission On Government Forecasting,1,17
-2020-05-20,Division Of Infectious Diseases,1,18
-2020-05-20,Fears Nachawati Law Firm,1,19
-2020-05-20,Human Services,1,20
-2020-05-20,Illinois Department Of Human Services,1,21
-2020-05-20,Illinois Department Of Public Health On,1,22
-2020-05-20,Innovative Proteins Manufacturing,1,23
-2020-05-20,Johnson Johnson,1,24
-2020-05-20,Journal Of The American College Of Cardiology,1,25
-2020-05-20,Knox College,1,26
-2020-05-20,Lee Enterprises Central Illinois,1,27
-2020-05-20,Marriott International Inc,1,28
-2020-05-20,Mcdonald Corp,1,29
-2020-05-20,Mcdonalds,1,30
-2020-05-20,Md Anderson Cancer Center,1,31
-2020-05-20,Montefiore Health System,1,32
-2020-05-20,Morgan,1,33
-2020-05-20,Nan,1,34
-2020-05-20,North-Central Region Bureau,1,35
-2020-05-20,Office Of Mental Health,1,36
-2020-05-20,Peoria City County Health Department,1,37
-2020-05-20,Religion News Foundation,1,38
-2020-05-20,Roosevelt University,1,39
-2020-05-20,Rush College Of Health Sciences,1,40
-2020-05-20,Rush University Medical Center,1,41
-2020-05-20,Scott Air Force,1,42
-2020-05-20,Security Services,1,43
-2020-05-20,Stanford University,1,44
-2020-05-20,Supreme Court,1,45
-2020-05-20,Thompson Center,1,46
-2020-05-20,Twitter,1,47
-2020-05-20,University Of Chicago,1,48
-2020-05-20,Us Centers For Disease,1,49
-2020-05-20,Walmart,1,50
-2020-05-20,Associated Press,2,3
-2020-05-20,Catholic Diocese Of Knoxville,2,4
-2020-05-20,Council Of Bishops,2,5
-2020-05-20,Facebook,2,6
-2020-05-20,Federation Of Diocesan Liturgical,2,7
-2020-05-20,Lutheran Church,2,8
-2020-05-20,Mcdonald,2,9
-2020-05-20,Public Health,2,10
-2020-05-20,Saint Ambrose Catholic Church,2,11
-2020-05-20,Thomistic Institute,2,12
-2020-05-20,United Methodist Church,2,13
-2020-05-20,United States,4,2
-2020-05-20,Illinois Department Of Public Health,5,1
+2020-05-20,Democratic National Convention,3,36
+2020-05-20,Department Of Health,3,37
+2020-05-20,Domino Pizza,3,38
+2020-05-20,El Torito,3,39
+2020-05-20,House Oversight Committee,3,40
+2020-05-20,Instagram,3,41
+2020-05-20,National Beef Packaging,3,42
+2020-05-20,National Public Radio,3,43
+2020-05-20,Pandemic Response Accountability Committee,3,44
+2020-05-20,Paycheck Protection Program,3,45
+2020-05-20,Republican National Convention,3,46
+2020-05-20,Twitter,3,47
+2020-05-20,Walmart,3,48
+2020-05-20,Welcome To Wednesday Overnight Health Care,3,49
+2020-05-20,Workers Union,3,50
+2020-05-20,Catholic Diocese Of Knoxville,4,18
+2020-05-20,Council Of Bishops,4,19
+2020-05-20,Federation Of Diocesan Liturgical,4,20
+2020-05-20,Illinois National Guard,4,21
+2020-05-20,Illinois Senate,4,22
+2020-05-20,Kroger,4,23
+2020-05-20,Lutheran Church,4,24
+2020-05-20,Mcdonald,4,25
+2020-05-20,Metro Praise International Church On,4,26
+2020-05-20,Nan,4,27
+2020-05-20,New York Times,4,28
+2020-05-20,Reuters,4,29
+2020-05-20,Saint Ambrose Catholic Church,4,30
+2020-05-20,Science Academy,4,31
+2020-05-20,Science Academy On,4,32
+2020-05-20,Thomistic Institute,4,33
+2020-05-20,United Methodist Church,4,34
+2020-05-20,Ywca,4,35
+2020-05-20,Cnn,5,11
+2020-05-20,Committee On Administrative,5,12
+2020-05-20,Family Services,5,13
+2020-05-20,Human Services,5,14
+2020-05-20,Illinois Legislature,5,15
+2020-05-20,Philadelphia Romanian Church,5,16
+2020-05-20,Stanford University,5,17
+2020-05-20,Centers For Disease,6,8
+2020-05-20,Supreme Court,6,9
+2020-05-20,Tribune Content Agency,6,10
+2020-05-20,Drug Administration,7,5
+2020-05-20,Public Health,7,6
+2020-05-20,White House,7,7
+2020-05-20,Associated Press,11,3
+2020-05-20,Facebook,11,4
+2020-05-20,United States,14,2
+2020-05-20,Illinois Department Of Public Health,29,1
 2020-05-21,America Food Fund,3,31
 2020-05-21,Astrazeneca,3,32
 2020-05-21,Bos Center,3,33
@@ -5477,3 +5477,53 @@ date,organization,count,rn
 2020-05-27,White House,14,3
 2020-05-27,Illinois Department Of Employment Security,16,2
 2020-05-27,Illinois Department Of Public Health,24,1
+2020-05-28,Assistance To Firefighters Grant Program,4,32
+2020-05-28,Community Oriented Policing Services,4,33
+2020-05-28,Congressional Research Service,4,34
+2020-05-28,Department Of Labor,4,35
+2020-05-28,Department Of State Health Services,4,36
+2020-05-28,Edward Byrne Memorial Justice Assistance Grant Program,4,37
+2020-05-28,Fire Department In Champaign,4,38
+2020-05-28,House Energy,4,39
+2020-05-28,Howard University,4,40
+2020-05-28,Illinois Department Of Commerce,4,41
+2020-05-28,International Association Of Chiefs Of Police,4,42
+2020-05-28,International Association Of Fire Chiefs,4,43
+2020-05-28,International Justice Mission,4,44
+2020-05-28,Labor Department,4,45
+2020-05-28,Msnbc,4,46
+2020-05-28,National Bureau Of Investigation,4,47
+2020-05-28,National Sun Yat-Sen University,4,48
+2020-05-28,Springfield Police Department,4,49
+2020-05-28,Testing Insights Initiative,4,50
+2020-05-28,Bay United Pentecostal Church,5,24
+2020-05-28,Board Of Health,5,25
+2020-05-28,Boston University School Of Medicine,5,26
+2020-05-28,Circuit Court,5,27
+2020-05-28,Department Of Homeland Security,5,28
+2020-05-28,Louis County Department Of Health,5,29
+2020-05-28,University Of Chicago,5,30
+2020-05-28,University Of Illinois,5,31
+2020-05-28,Justice Department,6,20
+2020-05-28,National Guard,6,21
+2020-05-28,Us Centers For Disease,6,22
+2020-05-28,Us Department Of Defense,6,23
+2020-05-28,Associated Press,7,13
+2020-05-28,Emergency Management Agency,7,14
+2020-05-28,Harvard Medical School,7,15
+2020-05-28,Health International,7,16
+2020-05-28,Nan,7,17
+2020-05-28,New York Times,7,18
+2020-05-28,University Of California,7,19
+2020-05-28,Elim Romanian Pentecostal Church,8,12
+2020-05-28,Twitter,9,11
+2020-05-28,Human Services,10,10
+2020-05-28,Facebook,12,8
+2020-05-28,Public Health,12,9
+2020-05-28,White House,15,7
+2020-05-28,Centers For Disease,16,6
+2020-05-28,Cnn,17,4
+2020-05-28,Supreme Court,17,5
+2020-05-28,Johns Hopkins University,18,3
+2020-05-28,United States,31,2
+2020-05-28,Illinois Department Of Public Health,34,1

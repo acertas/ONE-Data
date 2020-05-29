@@ -3885,15 +3885,15 @@ date,organization,count,rn
 2020-04-23,Johns Hopkins University,13,29
 2020-04-23,Reuters,13,30
 2020-04-23,Public Affairs Research,14,27
-2020-04-23,Nan,15,26
 2020-04-23,Augusta University,16,24
 2020-04-23,Georgia State University,16,25
+2020-04-23,Nan,16,26
 2020-04-23,Google,19,23
-2020-04-23,Cnn,20,19
-2020-04-23,Department Of State Health Services,20,20
-2020-04-23,Tyson Foods Inc,20,21
-2020-04-23,University Of Minnesota,20,22
+2020-04-23,Cnn,20,20
+2020-04-23,Department Of State Health Services,20,21
+2020-04-23,Tyson Foods Inc,20,22
 2020-04-23,National Guard,21,18
+2020-04-23,University Of Minnesota,21,19
 2020-04-23,Centers For Disease,23,17
 2020-04-23,University Of Iowa,24,16
 2020-04-23,Health Security,29,13
@@ -3908,7 +3908,7 @@ date,organization,count,rn
 2020-04-23,Nomi Health,45,6
 2020-04-23,Iowa Department Of Public Health,71,5
 2020-04-23,White House,82,4
-2020-04-23,Tyson Foods,95,3
+2020-04-23,Tyson Foods,96,3
 2020-04-23,Associated Press,102,2
 2020-04-23,United States,116,1
 2020-04-24,Centers For Medicare Medicaid Services,5,49
@@ -3961,56 +3961,56 @@ date,organization,count,rn
 2020-04-24,Nomi Health,54,3
 2020-04-24,Twitter,55,2
 2020-04-24,United States,66,1
-2020-04-25,Cargill,4,42
-2020-04-25,Department Of Public Health,4,43
-2020-04-25,Development Office,4,44
-2020-04-25,Human Services,4,45
-2020-04-25,Jim Klein Realty,4,46
-2020-04-25,Lenovo,4,47
-2020-04-25,Maryland Emergency Management Agency,4,48
-2020-04-25,New York Post,4,49
-2020-04-25,Oklahoma State Medical Association,4,50
-2020-04-25,American Civil Liberties Union,5,40
-2020-04-25,World Health Organization,5,41
-2020-04-25,Arkansas Department Of Corrections,6,23
-2020-04-25,Community Correction Center,6,24
-2020-04-25,George Washington University,6,25
-2020-04-25,Johns Hopkins University,6,26
-2020-04-25,Marion Correctional Institution,6,27
-2020-04-25,Michigan Department Of Corrections,6,28
-2020-04-25,Neuse Correctional Institution In Goldsboro,6,29
-2020-04-25,Ohio Department Of Rehabilitation,6,30
-2020-04-25,Stern,6,31
-2020-04-25,Tennessee Department Of Correction,6,32
-2020-04-25,Tennessee Poison Center,6,33
-2020-04-25,Test Iowa Initiative,6,34
-2020-04-25,Turney Center Industrial,6,35
-2020-04-25,Tyson Foods,6,36
-2020-04-25,University Of Texas,6,37
-2020-04-25,Washington State Department Of Corrections,6,38
-2020-04-25,York Department Of Corrections,6,39
-2020-04-25,Cnn,7,18
-2020-04-25,Department Of Correction,7,19
-2020-04-25,Drug Administration On,7,20
-2020-04-25,Paycheck Protection Program,7,21
-2020-04-25,Twitter,7,22
-2020-04-25,Drug Administration,8,15
-2020-04-25,Iowa Department Of Public Health,8,16
-2020-04-25,Nan,8,17
-2020-04-25,Teva Pharmaceutical,9,14
+2020-04-25,Alabama Department Of Public Health,3,47
+2020-04-25,Alliant Energy,3,48
+2020-04-25,Arkansas Department Of Corrections,3,49
+2020-04-25,Community Correction Center,3,50
+2020-04-25,Cargill,4,29
+2020-04-25,Department Of Correction,4,30
+2020-04-25,Department Of Public Health,4,31
+2020-04-25,Development Office,4,32
+2020-04-25,Human Services,4,33
+2020-04-25,Jim Klein Realty,4,34
+2020-04-25,Lenovo,4,35
+2020-04-25,Maryland Emergency Management Agency,4,36
+2020-04-25,New York Post,4,37
+2020-04-25,Oklahoma State Medical Association,4,38
+2020-04-25,Oval Office Occupant,4,39
+2020-04-25,Reckitt Benckiser,4,40
+2020-04-25,Republican Party,4,41
+2020-04-25,School Advancement For Remsen St,4,42
+2020-04-25,Tennessee Department Of Tourist Development,4,43
+2020-04-25,Tennessee Economic Recovery Group,4,44
+2020-04-25,Workers Union,4,45
+2020-04-25,Youtube,4,46
+2020-04-25,American Civil Liberties Union,5,27
+2020-04-25,World Health Organization,5,28
+2020-04-25,Johns Hopkins University,6,22
+2020-04-25,Tennessee Department Of Correction,6,23
+2020-04-25,Tennessee Poison Center,6,24
+2020-04-25,Test Iowa Initiative,6,25
+2020-04-25,Tyson Foods,6,26
+2020-04-25,Cnn,7,17
+2020-04-25,Drug Administration On,7,18
+2020-04-25,Paycheck Protection Program,7,19
+2020-04-25,Reuters,7,20
+2020-04-25,Twitter,7,21
+2020-04-25,Drug Administration,8,14
+2020-04-25,Iowa Department Of Public Health,8,15
+2020-04-25,Nan,8,16
+2020-04-25,Teva Pharmaceutical,9,13
 2020-04-25,Emergency Management Agency,10,11
 2020-04-25,Nomi Health,10,12
-2020-04-25,Reuters,10,13
 2020-04-25,Novartis,11,9
 2020-04-25,Sanford Health,11,10
 2020-04-25,Circuit Court,12,8
 2020-04-25,Facebook,14,6
 2020-04-25,Tennessee Department Of Health,14,7
 2020-04-25,Department Of Health,16,5
-2020-04-25,Centers For Disease,23,4
+2020-04-25,Centers For Disease,22,4
 2020-04-25,Associated Press,26,3
 2020-04-25,White House,33,2
-2020-04-25,United States,41,1
+2020-04-25,United States,38,1
 2020-04-26,Banana Republic,4,48
 2020-04-26,Boeing,4,49
 2020-04-26,Dick Sporting Goods,4,50
@@ -4061,21 +4061,21 @@ date,organization,count,rn
 2020-04-26,Associated Press,24,3
 2020-04-26,White House,31,2
 2020-04-26,United States,52,1
-2020-04-27,Democratic National Committee,6,45
-2020-04-27,Iowa Events Center,6,46
-2020-04-27,Johns Hopkins University,6,47
-2020-04-27,National Beef,6,48
-2020-04-27,National Pork Producers Council,6,49
-2020-04-27,Senate Minority Leader Janet Petersen,6,50
-2020-04-27,Democratic Party,7,42
-2020-04-27,Department Of Health,7,43
-2020-04-27,Us Department Of Agriculture,7,44
+2020-04-27,Democratic National Committee,6,46
+2020-04-27,Iowa Events Center,6,47
+2020-04-27,Johns Hopkins University,6,48
+2020-04-27,National Beef,6,49
+2020-04-27,National Pork Producers Council,6,50
+2020-04-27,Democratic Party,7,43
+2020-04-27,Department Of Health,7,44
+2020-04-27,Us Department Of Agriculture,7,45
 2020-04-27,Bloomberg,8,36
 2020-04-27,Congressional Budget Office,8,37
 2020-04-27,Council Bluffs,8,38
 2020-04-27,Department Of Juvenile Justice,8,39
-2020-04-27,National Pork Board,8,40
-2020-04-27,University Of Washington,8,41
+2020-04-27,National Guard,8,40
+2020-04-27,National Pork Board,8,41
+2020-04-27,University Of Washington,8,42
 2020-04-27,Caddo Juvenile Detention Center,9,34
 2020-04-27,Facebook,9,35
 2020-04-27,Nan,11,32
@@ -4103,36 +4103,36 @@ date,organization,count,rn
 2020-04-27,Louisiana Office Of Juvenile Justice,24,13
 2020-04-27,Swanson Center,24,14
 2020-04-27,White House,26,9
-2020-04-27,Iowa Department Of Public Health,29,8
+2020-04-27,Iowa Department Of Public Health,30,8
 2020-04-27,Associated Press,35,7
 2020-04-27,Workers International Union,38,6
 2020-04-27,American Meat Institute,40,5
 2020-04-27,Associates In Ames,41,4
 2020-04-27,New York Times,64,3
-2020-04-27,Tyson Foods,78,2
-2020-04-27,United States,109,1
-2020-04-28,American Meat Institute,9,50
-2020-04-28,Associates In Ames,10,41
-2020-04-28,Bloomberg,10,42
-2020-04-28,Caddo Juvenile Detention Center,10,43
-2020-04-28,Cargill Inc,10,44
-2020-04-28,Health Department,10,45
-2020-04-28,Sanderson Farms Inc,10,46
-2020-04-28,Trousdale Turner Correctional Center,10,47
-2020-04-28,University Of Washington,10,48
-2020-04-28,Walmart,10,49
-2020-04-28,Emory University School Of Medicine,11,35
-2020-04-28,Japan Medical Association,11,36
-2020-04-28,National Beef,11,37
-2020-04-28,Robert Koch Institute,11,38
-2020-04-28,Tyson Foods Inc,11,39
-2020-04-28,University Of Nebraska Medical Center,11,40
-2020-04-28,Department Of Health,12,34
+2020-04-27,Tyson Foods,79,2
+2020-04-27,United States,111,1
+2020-04-28,Associates In Ames,10,42
+2020-04-28,Bloomberg,10,43
+2020-04-28,Caddo Juvenile Detention Center,10,44
+2020-04-28,Cargill Inc,10,45
+2020-04-28,Health Department,10,46
+2020-04-28,Sanderson Farms Inc,10,47
+2020-04-28,Trousdale Turner Correctional Center,10,48
+2020-04-28,University Of Washington,10,49
+2020-04-28,Walmart,10,50
+2020-04-28,Emory University School Of Medicine,11,36
+2020-04-28,Japan Medical Association,11,37
+2020-04-28,National Beef,11,38
+2020-04-28,Robert Koch Institute,11,39
+2020-04-28,Tyson Foods Inc,11,40
+2020-04-28,University Of Nebraska Medical Center,11,41
+2020-04-28,Department Of Health,12,35
 2020-04-28,Facebook,13,32
 2020-04-28,Manson Youth Institution,13,33
-2020-04-28,Johns Hopkins University,16,31
-2020-04-28,Prisoner Health,17,29
-2020-04-28,Reuters,17,30
+2020-04-28,National Guard,13,34
+2020-04-28,Johns Hopkins University,17,29
+2020-04-28,Prisoner Health,17,30
+2020-04-28,Reuters,17,31
 2020-04-28,Nan,20,28
 2020-04-28,Council Bluffs,21,23
 2020-04-28,Drug Administration,21,24
@@ -4157,7 +4157,7 @@ date,organization,count,rn
 2020-04-28,Centers For Disease,33,6
 2020-04-28,New York Times,33,7
 2020-04-28,Associated Press,34,5
-2020-04-28,Iowa Department Of Public Health,36,4
+2020-04-28,Iowa Department Of Public Health,35,4
 2020-04-28,White House,43,3
 2020-04-28,Tyson Foods,74,2
 2020-04-28,United States,123,1
@@ -4201,7 +4201,7 @@ date,organization,count,rn
 2020-04-29,Tyson Foods Inc,24,13
 2020-04-29,Tennessee Department Of Health,26,12
 2020-04-29,Workers International Union,28,11
-2020-04-29,Iowa Department Of Public Health,29,10
+2020-04-29,Iowa Department Of Public Health,30,10
 2020-04-29,New York Times,36,9
 2020-04-29,Twitter,38,8
 2020-04-29,Council Bluffs,40,7
@@ -4246,10 +4246,10 @@ date,organization,count,rn
 2020-04-30,Drug Administration,13,18
 2020-04-30,Supreme Court,14,16
 2020-04-30,Youtube,14,17
-2020-04-30,Bloomberg,15,13
-2020-04-30,Iowa Department Of Public Health,15,14
+2020-04-30,Bloomberg,15,14
 2020-04-30,University Of Iowa,15,15
-2020-04-30,Iowa Pork Producers Association,16,12
+2020-04-30,Iowa Department Of Public Health,16,12
+2020-04-30,Iowa Pork Producers Association,16,13
 2020-04-30,Tennessee Department Of Health,17,11
 2020-04-30,Department Of Health,18,10
 2020-04-30,Cnn,24,8
@@ -4319,9 +4319,9 @@ date,organization,count,rn
 2020-05-02,Iowa Medical Society,3,45
 2020-05-02,Iowa National Guard In Johnston,3,46
 2020-05-02,Japan Medical Association,3,47
-2020-05-02,Oval Office,3,48
-2020-05-02,Senate Majority Leader Mitch Mcconnell,3,49
-2020-05-02,Small Business Administration,3,50
+2020-05-02,Msnbc,3,48
+2020-05-02,Oval Office,3,49
+2020-05-02,Senate Majority Leader Mitch Mcconnell,3,50
 2020-05-02,Catholic Church,4,28
 2020-05-02,Council Bluffs,4,29
 2020-05-02,Harvard Kennedy School,4,30
@@ -4354,13 +4354,13 @@ date,organization,count,rn
 2020-05-02,Department Of Health,10,10
 2020-05-02,Interfaith Alliance,11,8
 2020-05-02,Tennessee Department Of Health,11,9
-2020-05-02,Associated Press,12,5
 2020-05-02,Centers For Disease,12,6
 2020-05-02,Culver,12,7
+2020-05-02,Associated Press,13,5
 2020-05-02,Twitter,15,4
-2020-05-02,United States,18,3
+2020-05-02,United States,19,3
 2020-05-02,Iowa Department Of Public Health,20,2
-2020-05-02,White House,22,1
+2020-05-02,White House,23,1
 2020-05-03,Action Fund Senior Vice,2,48
 2020-05-03,Ad Hoc Committee,2,49
 2020-05-03,American Immigration Council Organization,2,50
@@ -4411,24 +4411,24 @@ date,organization,count,rn
 2020-05-03,White House,8,4
 2020-05-03,Associated Press,13,2
 2020-05-03,United States,27,1
-2020-05-04,Administration For Children Services,4,44
-2020-05-04,Bon Air Juvenile Correctional Center,4,45
-2020-05-04,Costco,4,46
-2020-05-04,Crossroads Juvenile Center,4,47
-2020-05-04,Horizon Juvenile Center,4,48
-2020-05-04,Iowa Department Of Natural Resources,4,49
-2020-05-04,Legal Aid Justice Center Just Children Program,4,50
+2020-05-04,Administration For Children Services,4,41
+2020-05-04,Bon Air Juvenile Correctional Center,4,42
+2020-05-04,Costco,4,43
+2020-05-04,Crossroads Juvenile Center,4,44
+2020-05-04,Horizon Juvenile Center,4,45
+2020-05-04,Instagram,4,46
+2020-05-04,Iowa Department Of Natural Resources,4,47
+2020-05-04,Legal Aid Justice Center Just Children Program,4,48
+2020-05-04,Louisiana Office Of Juvenile Justice,4,49
+2020-05-04,Manson Youth Institution,4,50
 2020-05-04,Commission Budget Committee,5,36
 2020-05-04,Hygienic Lab,5,37
 2020-05-04,Iowa National Guard,5,38
-2020-05-04,New York Times,5,39
-2020-05-04,Supreme Court,5,40
-2020-05-04,United States Today Network,5,41
-2020-05-04,World Health Organization,5,42
-2020-05-04,Youtube,5,43
+2020-05-04,Supreme Court,5,39
+2020-05-04,Youtube,5,40
 2020-05-04,Department Of Public Health,6,32
-2020-05-04,Instagram,6,33
-2020-05-04,Simon Town Center,6,34
+2020-05-04,Simon Town Center,6,33
+2020-05-04,United States Today Network,6,34
 2020-05-04,Unitypoint Health,6,35
 2020-05-04,Bloomberg,7,25
 2020-05-04,Health Insurance Portability,7,26
@@ -4437,130 +4437,130 @@ date,organization,count,rn
 2020-05-04,Tennessee Department Of Health,7,29
 2020-05-04,Unitypoint Health In Marshalltown,7,30
 2020-05-04,University Of Northern Iowa,7,31
-2020-05-04,Cnn,8,24
-2020-05-04,White House,9,23
-2020-05-04,Emergency Operations Center,10,22
-2020-05-04,Iowa Department Of Public Health Deputy,11,21
-2020-05-04,A Centers For Disease,12,17
-2020-05-04,Iowa State University,12,18
-2020-05-04,Simon Town Center At Cobb,12,19
-2020-05-04,Twitter,12,20
-2020-05-04,Beverly Centers In Los Angeles,15,15
+2020-05-04,Cnn,8,23
+2020-05-04,Iowa Department Of Public Health Deputy,8,24
+2020-05-04,Emergency Operations Center,9,22
+2020-05-04,A Centers For Disease,12,18
+2020-05-04,Iowa State University,12,19
+2020-05-04,Simon Town Center At Cobb,12,20
+2020-05-04,Twitter,12,21
+2020-05-04,White House,14,17
+2020-05-04,Beverly Centers In Los Angeles,15,14
+2020-05-04,Iowa Department Of Human Services,15,15
 2020-05-04,Simon Property Group,15,16
-2020-05-04,Georgetown University,18,10
-2020-05-04,Neiman Marcus,18,11
-2020-05-04,Starbucks,18,12
-2020-05-04,Taubman Centers,18,13
-2020-05-04,Victoria Secret,18,14
-2020-05-04,Iowa Department Of Human Services,19,9
-2020-05-04,Woodward Resource Center,20,8
-2020-05-04,Centers For Disease,22,7
-2020-05-04,Facebook,26,5
-2020-05-04,Tyson Foods,26,6
-2020-05-04,University Of Iowa,27,4
+2020-05-04,Woodward Resource Center,16,13
+2020-05-04,Georgetown University,18,8
+2020-05-04,Neiman Marcus,18,9
+2020-05-04,Starbucks,18,10
+2020-05-04,Taubman Centers,18,11
+2020-05-04,Victoria Secret,18,12
+2020-05-04,University Of Iowa,23,7
+2020-05-04,Centers For Disease,25,6
+2020-05-04,Facebook,26,4
+2020-05-04,Tyson Foods,26,5
 2020-05-04,Iowa Department Of Public Health,28,3
-2020-05-04,United States,29,2
-2020-05-04,Associated Press,32,1
-2020-05-05,A Centers For Disease,12,46
-2020-05-05,Civil Protection Agency,12,47
-2020-05-05,Department Of Corrections,12,48
-2020-05-05,Hygienic Lab,12,49
-2020-05-05,Simon Property Group,12,50
-2020-05-05,Human Services,13,40
-2020-05-05,Iowa National Guard,13,41
-2020-05-05,National Guard,13,42
-2020-05-05,National Guardsmen,13,43
-2020-05-05,Neiman Marcus,13,44
-2020-05-05,Simon Town Center At Cobb,13,45
-2020-05-05,Iowa Premium National Beef In Tama,14,34
-2020-05-05,Iowa State University,14,35
-2020-05-05,National Beef,14,36
-2020-05-05,Tennessee Department Of Health,14,37
-2020-05-05,Tennessee Supreme Court,14,38
-2020-05-05,World Health Organization,14,39
-2020-05-05,Georgetown University,15,30
-2020-05-05,Nan,15,31
-2020-05-05,Taubman Centers,15,32
-2020-05-05,Victoria Secret,15,33
-2020-05-05,Emergency Operations Center,16,25
-2020-05-05,Instagram,16,26
-2020-05-05,Senate Majority Leader Mitch Mcconnell,16,27
-2020-05-05,Starbucks,16,28
-2020-05-05,University Of Iowa,16,29
-2020-05-05,New York Times,17,24
-2020-05-05,Woodward Resource Center,18,23
-2020-05-05,Iowa Department Of Human Services,19,22
-2020-05-05,Cnn,20,21
-2020-05-05,Britain National Cyber Security Centre,21,19
-2020-05-05,Infrastructure Security Agency,21,20
-2020-05-05,Iowa Department Of Public Health Deputy,22,18
-2020-05-05,Iowa Department Of Education,23,17
+2020-05-04,United States,31,2
+2020-05-04,Associated Press,33,1
+2020-05-05,Hygienic Lab,11,50
+2020-05-05,A Centers For Disease,12,43
+2020-05-05,Civil Protection Agency,12,44
+2020-05-05,Department Of Corrections,12,45
+2020-05-05,Iowa National Guard,12,46
+2020-05-05,National Guard,12,47
+2020-05-05,National Guardsmen,12,48
+2020-05-05,Simon Property Group,12,49
+2020-05-05,Human Services,13,37
+2020-05-05,Iowa Premium National Beef In Tama,13,38
+2020-05-05,Iowa State University,13,39
+2020-05-05,Neiman Marcus,13,40
+2020-05-05,Simon Town Center At Cobb,13,41
+2020-05-05,World Health Organization,13,42
+2020-05-05,National Beef,14,33
+2020-05-05,Tennessee Department Of Health,14,34
+2020-05-05,Tennessee Supreme Court,14,35
+2020-05-05,University Of Iowa,14,36
+2020-05-05,Georgetown University,15,27
+2020-05-05,Instagram,15,28
+2020-05-05,Nan,15,29
+2020-05-05,Senate Majority Leader Mitch Mcconnell,15,30
+2020-05-05,Taubman Centers,15,31
+2020-05-05,Victoria Secret,15,32
+2020-05-05,New York Times,16,24
+2020-05-05,Starbucks,16,25
+2020-05-05,Woodward Resource Center,16,26
+2020-05-05,Emergency Operations Center,17,23
+2020-05-05,Iowa Department Of Human Services,18,22
+2020-05-05,Cnn,19,21
+2020-05-05,Iowa Department Of Public Health Deputy,20,20
+2020-05-05,Britain National Cyber Security Centre,21,18
+2020-05-05,Infrastructure Security Agency,21,19
+2020-05-05,Iowa Department Of Education,22,17
+2020-05-05,Department Of Health,24,14
 2020-05-05,Imperial College London,24,15
 2020-05-05,Natural Resources Agency,24,16
-2020-05-05,Department Of Health,25,14
-2020-05-05,Twitter,26,13
+2020-05-05,Twitter,25,13
 2020-05-05,Chippewa National Forest,27,11
 2020-05-05,Public Safety Officers Benefits Program,27,12
 2020-05-05,Honeywell,30,10
 2020-05-05,Department Of Correction,36,9
 2020-05-05,Trousdale Turner Correctional Center,37,8
 2020-05-05,Facebook,41,7
-2020-05-05,Centers For Disease,59,6
-2020-05-05,Tyson Foods,69,5
-2020-05-05,Iowa Department Of Public Health,71,4
-2020-05-05,White House,80,3
-2020-05-05,Associated Press,81,2
-2020-05-05,United States,96,1
-2020-05-06,Costco,8,49
-2020-05-06,Kaiser Family Foundation,8,50
+2020-05-05,Centers For Disease,58,6
+2020-05-05,Iowa Department Of Public Health,66,5
+2020-05-05,Tyson Foods,68,4
+2020-05-05,White House,79,3
+2020-05-05,Associated Press,80,2
+2020-05-05,United States,94,1
+2020-05-06,Costco,8,50
 2020-05-06,Britain National Cyber Security Centre,9,41
 2020-05-06,Cross Culture Christian Center,9,42
 2020-05-06,Health Administration,9,43
 2020-05-06,Infrastructure Security Agency,9,44
 2020-05-06,Iowa Department Of Education,9,45
 2020-05-06,Iowa Department Of Public,9,46
-2020-05-06,Johns Hopkins University,9,47
+2020-05-06,National Nurses Day,9,47
 2020-05-06,Senate Majority Leader Jack Johnson,9,48
-2020-05-06,Facebook,10,40
-2020-05-06,Nan,11,38
-2020-05-06,Republican Party,11,39
-2020-05-06,Chippewa National Forest,13,34
-2020-05-06,National Nurses Day,13,35
-2020-05-06,Public Safety Officers Benefits Program,13,36
-2020-05-06,White House Coronavirus Task,13,37
-2020-05-06,European Union,14,31
-2020-05-06,Matrix Medical Network,14,32
-2020-05-06,New York Times,14,33
-2020-05-06,Human Services,15,29
-2020-05-06,Thomson Reuters Trust Principles,15,30
-2020-05-06,Justice Department,17,27
-2020-05-06,Twitter,17,28
-2020-05-06,Coronavirus Task,18,22
-2020-05-06,Costco Wholesale Corp,18,23
-2020-05-06,Kroger Co,18,24
-2020-05-06,Wendy,18,25
-2020-05-06,Wendy Co,18,26
-2020-05-06,Gilead Sciences,21,21
-2020-05-06,National Pork Board,22,20
-2020-05-06,Department Of Health,23,18
-2020-05-06,Senate Majority Leader Mitch Mcconnell,23,19
-2020-05-06,Supreme Court,24,17
-2020-05-06,Department Of Corrections,25,16
-2020-05-06,Cnn,26,14
-2020-05-06,Tennessee Supreme Court,26,15
-2020-05-06,Reuters,27,13
-2020-05-06,Imperial College London,28,11
-2020-05-06,Natural Resources Agency,28,12
-2020-05-06,Department Of Correction,33,10
-2020-05-06,Trousdale Turner Correctional Center,35,9
-2020-05-06,Oval Office,36,8
+2020-05-06,University Of Iowa,9,49
+2020-05-06,Facebook,10,37
+2020-05-06,Republican Party,10,38
+2020-05-06,Thomson Reuters Trust Principles,10,39
+2020-05-06,White House Coronavirus Task,10,40
+2020-05-06,Johns Hopkins University,11,35
+2020-05-06,Nan,11,36
+2020-05-06,Justice Department,12,34
+2020-05-06,Chippewa National Forest,13,27
+2020-05-06,Costco Wholesale Corp,13,28
+2020-05-06,Human Services,13,29
+2020-05-06,Kroger Co,13,30
+2020-05-06,New York Times,13,31
+2020-05-06,Public Safety Officers Benefits Program,13,32
+2020-05-06,Wendy Co,13,33
+2020-05-06,European Union,14,24
+2020-05-06,Matrix Medical Network,14,25
+2020-05-06,Wendy,14,26
+2020-05-06,Coronavirus Task,16,23
+2020-05-06,Twitter,17,22
+2020-05-06,Gilead Sciences,21,20
+2020-05-06,Reuters,21,21
+2020-05-06,National Pork Board,22,19
+2020-05-06,Department Of Health,23,17
+2020-05-06,Senate Majority Leader Mitch Mcconnell,23,18
+2020-05-06,Supreme Court,24,16
+2020-05-06,Department Of Corrections,25,15
+2020-05-06,Cnn,26,12
+2020-05-06,Oval Office,26,13
+2020-05-06,Tennessee Supreme Court,26,14
+2020-05-06,Imperial College London,28,10
+2020-05-06,Natural Resources Agency,28,11
+2020-05-06,Department Of Correction,33,9
+2020-05-06,Trousdale Turner Correctional Center,35,8
+2020-05-06,Honeywell,38,7
 2020-05-06,Centers For Disease,41,6
-2020-05-06,Honeywell,41,7
 2020-05-06,Associated Press,63,5
-2020-05-06,Tyson Foods,69,4
-2020-05-06,Iowa Department Of Public Health,71,3
-2020-05-06,United States,78,2
-2020-05-06,White House,146,1
+2020-05-06,Iowa Department Of Public Health,69,4
+2020-05-06,Tyson Foods,71,3
+2020-05-06,United States,77,2
+2020-05-06,White House,132,1
 2020-05-07,American Association Of Nurse Practitioners,8,38
 2020-05-07,Arizona Department Of Health Services,8,39
 2020-05-07,Arizona State University,8,40
@@ -4592,14 +4592,14 @@ date,organization,count,rn
 2020-05-07,University Of Washington,12,30
 2020-05-07,Department Of Public Health,13,20
 2020-05-07,Johns Hopkins University,13,21
-2020-05-07,University Of Iowa,14,19
 2020-05-07,Human Services,15,17
 2020-05-07,Hygienic Lab,15,18
+2020-05-07,University Of Iowa,15,19
 2020-05-07,Facebook,18,16
 2020-05-07,Iowa Workforce Development,19,14
 2020-05-07,New York Times,19,15
-2020-05-07,Emergency Operations Center,21,12
 2020-05-07,Thomson Reuters Trust Principles,21,13
+2020-05-07,Emergency Operations Center,22,12
 2020-05-07,Nan,23,11
 2020-05-07,Reuters,33,10
 2020-05-07,Oval Office Of The White House,40,9
@@ -4608,36 +4608,36 @@ date,organization,count,rn
 2020-05-07,Oval Office,58,6
 2020-05-07,Associated Press,60,5
 2020-05-07,Centers For Disease,61,4
-2020-05-07,Tyson Foods,83,3
+2020-05-07,Tyson Foods,84,3
 2020-05-07,United States,97,2
-2020-05-07,White House,176,1
-2020-05-08,Al Jazeera,7,42
-2020-05-08,American Civil Liberties Union Of Tennessee,7,43
-2020-05-08,European Union,7,44
-2020-05-08,Faith Christian Outreach Church,7,45
-2020-05-08,Labor Department,7,46
-2020-05-08,Msnbc,7,47
-2020-05-08,Thomson Reuters Trust Principles,7,48
-2020-05-08,Us Senate,7,49
-2020-05-08,Waterloo City Council,7,50
-2020-05-08,Supreme Court,8,38
-2020-05-08,Trousdale Turner Correctional Center,8,39
-2020-05-08,Twitter,8,40
-2020-05-08,Young,8,41
-2020-05-08,Alamo Heights Baptist Church,9,33
-2020-05-08,Gibson,9,34
-2020-05-08,Office For Civil Rights,9,35
-2020-05-08,Treasury Department,9,36
-2020-05-08,Trump International Hotel,9,37
-2020-05-08,Mcdonald,10,32
-2020-05-08,Chinese Communist Party,11,31
-2020-05-08,American Farm Bureau,12,28
-2020-05-08,Iowa National Guard,12,29
-2020-05-08,Midwest Center,12,30
-2020-05-08,Department Of Health,13,27
+2020-05-07,White House,178,1
+2020-05-08,Al Jazeera,7,44
+2020-05-08,American Civil Liberties Union Of Tennessee,7,45
+2020-05-08,European Union,7,46
+2020-05-08,Faith Christian Outreach Church,7,47
+2020-05-08,Labor Department,7,48
+2020-05-08,Msnbc,7,49
+2020-05-08,Thomson Reuters Trust Principles,7,50
+2020-05-08,Supreme Court,8,40
+2020-05-08,Trousdale Turner Correctional Center,8,41
+2020-05-08,University Of Iowa,8,42
+2020-05-08,Young,8,43
+2020-05-08,Alamo Heights Baptist Church,9,35
+2020-05-08,Gibson,9,36
+2020-05-08,Office For Civil Rights,9,37
+2020-05-08,Treasury Department,9,38
+2020-05-08,Trump International Hotel,9,39
+2020-05-08,Mcdonald,10,34
+2020-05-08,Chinese Communist Party,11,32
+2020-05-08,Johns Hopkins University,11,33
+2020-05-08,American Farm Bureau,12,29
+2020-05-08,Iowa National Guard,12,30
+2020-05-08,Midwest Center,12,31
+2020-05-08,Department Of Health,13,28
 2020-05-08,New York Times,15,24
 2020-05-08,Oval Office Of The White House,15,25
-2020-05-08,Workers Union,15,26
+2020-05-08,Twitter,15,26
+2020-05-08,Workers Union,15,27
 2020-05-08,Honeywell,17,22
 2020-05-08,Walmart,17,23
 2020-05-08,Amerispeak Panel,18,18
@@ -4652,15 +4652,15 @@ date,organization,count,rn
 2020-05-08,Ethics Religious Liberty Commission,27,10
 2020-05-08,Justice Department,27,11
 2020-05-08,Southern Baptist Convention,27,12
-2020-05-08,Iowa Department Of Public Health,29,9
-2020-05-08,Oval Office,30,8
+2020-05-08,Iowa Department Of Public Health,30,8
+2020-05-08,Oval Office,30,9
 2020-05-08,Cnn,46,7
 2020-05-08,Public Affairs Research,51,6
-2020-05-08,Centers For Disease,61,4
 2020-05-08,United States,61,5
-2020-05-08,Tyson Foods,69,3
-2020-05-08,Associated Press,73,2
-2020-05-08,White House,171,1
+2020-05-08,Centers For Disease,62,4
+2020-05-08,Tyson Foods,70,3
+2020-05-08,Associated Press,74,2
+2020-05-08,White House,173,1
 2020-05-09,Alamo Heights Baptist Church,6,47
 2020-05-09,Bloomberg,6,48
 2020-05-09,Department Of Public Health,6,49
@@ -4804,13 +4804,13 @@ date,organization,count,rn
 2020-05-11,Honeywell International Inc,32,10
 2020-05-11,Iowa Department Of Public Health,43,8
 2020-05-11,Reuters,43,9
-2020-05-11,Associated Press,44,7
+2020-05-11,Associated Press,45,7
 2020-05-11,United States,58,6
 2020-05-11,Human Services,61,5
-2020-05-11,Centers For Disease,101,4
-2020-05-11,National Institute Of Allergy,122,3
-2020-05-11,Drug Administration,126,2
-2020-05-11,White House,267,1
+2020-05-11,Centers For Disease,102,4
+2020-05-11,National Institute Of Allergy,123,3
+2020-05-11,Drug Administration,127,2
+2020-05-11,White House,268,1
 2020-05-12,British Transport Police,8,46
 2020-05-12,Budget Committee,8,47
 2020-05-12,European Union,8,48
@@ -4907,7 +4907,7 @@ date,organization,count,rn
 2020-05-13,Iowa Citizens For Community Improvement,37,7
 2020-05-13,Tyson Foods,41,5
 2020-05-13,University Of Iowa,41,6
-2020-05-13,Associated Press,48,4
+2020-05-13,Associated Press,49,4
 2020-05-13,Iowa Department Of Public Health,59,3
 2020-05-13,United States,60,2
 2020-05-13,White House,113,1
@@ -4919,18 +4919,18 @@ date,organization,count,rn
 2020-05-14,Senate Health Committee,7,48
 2020-05-14,Tennessee Department Of Health,7,49
 2020-05-14,Trump Administration,7,50
-2020-05-14,Agency Transition Directors Council,8,34
-2020-05-14,Department Of Commerce,8,35
-2020-05-14,Legislature On,8,36
+2020-05-14,Agency Transition Directors Council,8,35
+2020-05-14,Department Of Commerce,8,36
 2020-05-14,Office Of Management,8,37
 2020-05-14,Pennsylvania Department Of Health,8,38
 2020-05-14,Services Administration,8,39
 2020-05-14,Vought,8,40
 2020-05-14,White House Transition Coordinating Council,8,41
 2020-05-14,White House Transition Council,8,42
-2020-05-14,National Intelligence,9,31
-2020-05-14,Senate Intelligence Committee,9,32
-2020-05-14,World Health Organization,9,33
+2020-05-14,Legislature On,9,31
+2020-05-14,National Intelligence,9,32
+2020-05-14,Senate Intelligence Committee,9,33
+2020-05-14,World Health Organization,9,34
 2020-05-14,Advocacy For Planned Parenthood Action Fund,10,23
 2020-05-14,Bylaws Committee,10,24
 2020-05-14,Human Services Department,10,25
@@ -4943,24 +4943,24 @@ date,organization,count,rn
 2020-05-14,National Institute Of Allergy,11,20
 2020-05-14,Republican National Committee,11,21
 2020-05-14,Senate Majority Leader Jack Whitver,11,22
-2020-05-14,Cnn,12,17
-2020-05-14,Democratic Party,12,18
-2020-05-14,Department Of Health,13,16
-2020-05-14,Iowa Legislature,16,13
-2020-05-14,Supreme Court,16,14
+2020-05-14,Cnn,12,18
+2020-05-14,Democratic Party,13,16
+2020-05-14,Department Of Health,13,17
 2020-05-14,Twitter,16,15
-2020-05-14,Johns Hopkins University,18,12
+2020-05-14,Supreme Court,17,14
+2020-05-14,Iowa Legislature,18,12
+2020-05-14,Johns Hopkins University,18,13
 2020-05-14,Iowa Citizens For Community Improvement,19,10
 2020-05-14,Tyson Foods,19,11
-2020-05-14,Monmouth University,20,8
-2020-05-14,University Of Iowa,20,9
-2020-05-14,Iowa Department Of Public Health,21,6
+2020-05-14,Monmouth University,20,9
 2020-05-14,New York Times,21,7
-2020-05-14,Trump Justice Department,23,5
+2020-05-14,University Of Iowa,21,8
+2020-05-14,Iowa Department Of Public Health,23,5
+2020-05-14,Trump Justice Department,23,6
 2020-05-14,Associated Press,27,4
 2020-05-14,United States,35,3
-2020-05-14,Justice Department,45,2
-2020-05-14,White House,62,1
+2020-05-14,Justice Department,46,2
+2020-05-14,White House,63,1
 2020-05-15,Advocacy For Planned Parenthood Action Fund,6,32
 2020-05-15,Agency Transition Directors Council,6,33
 2020-05-15,Agriculture Committee,6,34
@@ -5209,58 +5209,58 @@ date,organization,count,rn
 2020-05-19,White House,41,5
 2020-05-19,Human Services,46,4
 2020-05-19,Supreme Court,50,3
-2020-05-19,Associated Press,52,2
+2020-05-19,Associated Press,53,2
 2020-05-19,United States,66,1
-2020-05-20,Academic Services,1,19
-2020-05-20,American Farm Bureau Federation,1,20
-2020-05-20,American Meat Institute,1,21
-2020-05-20,Association Of Diving Instructors Rescue Scuba Diver,1,22
-2020-05-20,Austin Peay State University,1,23
-2020-05-20,Belmont University,1,24
-2020-05-20,Cargill,1,25
-2020-05-20,Centers For Disease,1,26
-2020-05-20,Community Service Award,1,27
-2020-05-20,Concordia Pharmaceuticals,1,28
-2020-05-20,Costco,1,29
-2020-05-20,Department Inspector,1,30
-2020-05-20,Department Of Administrative Services,1,31
-2020-05-20,Department Of Health,1,32
-2020-05-20,Drug Administration,1,33
-2020-05-20,European Union,1,34
-2020-05-20,Facebook,1,35
-2020-05-20,Florida Department Of Health,1,36
-2020-05-20,Great Smoky Mountains National Park Clingmans Dome,1,37
-2020-05-20,Health Ministry,1,38
-2020-05-20,Honors College,1,39
-2020-05-20,Honors College Ambassador,1,40
-2020-05-20,House Foreign Affairs,1,41
-2020-05-20,House Foreign Affairs Committee,1,42
-2020-05-20,Indian Health Services,1,43
-2020-05-20,Inspection Service,1,44
-2020-05-20,Intelligence Community Inspector,1,45
-2020-05-20,Iowa Department Of Homeland Security,1,46
-2020-05-20,Iowa National Guard,1,47
-2020-05-20,Jackson Health System,1,48
-2020-05-20,Kroger,1,49
-2020-05-20,Louisiana Office Of Motor Vehicles,1,50
-2020-05-20,Cnn,2,16
-2020-05-20,Tn Department,2,17
-2020-05-20,Tn Department Of Health,2,18
-2020-05-20,Go Fund Me,3,11
-2020-05-20,Human Services Department,3,12
-2020-05-20,Iowa Economic Development Authority,3,13
-2020-05-20,Nan,3,14
-2020-05-20,White House,3,15
-2020-05-20,Educational Fund,6,7
-2020-05-20,Iowa Department Of Public Health,6,8
-2020-05-20,Refugee Rights Coalition,6,9
-2020-05-20,Tyson Foods,6,10
-2020-05-20,American Civil Liberties Union,8,3
-2020-05-20,Associated Press,8,4
-2020-05-20,Fraternal Order Of Police,8,5
-2020-05-20,Tennessee Association Of Chiefs Of Police,8,6
-2020-05-20,United States,10,2
-2020-05-20,Human Services,11,1
+2020-05-20,Aegis Sciences Corp,7,42
+2020-05-20,Concordia Pharmaceuticals,7,43
+2020-05-20,Drug Administration,7,44
+2020-05-20,Florida Department Of Health,7,45
+2020-05-20,Harvard Global Health Institute,7,46
+2020-05-20,Health Administration,7,47
+2020-05-20,Human Services Department,7,48
+2020-05-20,Jackson Health System,7,49
+2020-05-20,Louisiana Office Of Motor Vehicles,7,50
+2020-05-20,Department Inspector,8,38
+2020-05-20,Health Ministry,8,39
+2020-05-20,Hygienic Lab,8,40
+2020-05-20,World Health Organization,8,41
+2020-05-20,Commodity Credit Corporation,9,32
+2020-05-20,Educational Fund,9,33
+2020-05-20,European Union,9,34
+2020-05-20,Growth Energy,9,35
+2020-05-20,Her Oprah Winfrey Charitable Foundation,9,36
+2020-05-20,Iowa National Guard,9,37
+2020-05-20,Cnn,11,26
+2020-05-20,Fraternal Order Of Police,11,27
+2020-05-20,Great Smoky Mountains National Park,11,28
+2020-05-20,Republican National Committee,11,29
+2020-05-20,Tennessee Association Of Chiefs Of Police,11,30
+2020-05-20,Zion Baptist Church Bishop Joseph Walker,11,31
+2020-05-20,Nan,12,24
+2020-05-20,National Guard,12,25
+2020-05-20,American Civil Liberties Union,13,22
+2020-05-20,Tennessee Department Of Health,13,23
+2020-05-20,Kroger,14,20
+2020-05-20,Tyson Foods,14,21
+2020-05-20,Mount Pilgrim Missionary Baptist Church,15,19
+2020-05-20,Barclays Center,16,16
+2020-05-20,Forum In Inglewood,16,17
+2020-05-20,Living Classrooms Foundation,16,18
+2020-05-20,America Food Fund,17,13
+2020-05-20,Relief Fund,17,14
+2020-05-20,Supreme Court,17,15
+2020-05-20,Girls Club Of East Mississippi,18,12
+2020-05-20,Department Of Health,19,11
+2020-05-20,Centers For Disease,21,10
+2020-05-20,Iowa Department Of Public Health,22,9
+2020-05-20,Mount Zion Baptist Church,24,8
+2020-05-20,Human Services,25,7
+2020-05-20,Facebook,28,5
+2020-05-20,White House,28,6
+2020-05-20,Oprah Winfrey Charitable Foundation,36,4
+2020-05-20,United States,38,3
+2020-05-20,Tennessee State University,40,2
+2020-05-20,Associated Press,54,1
 2020-05-21,American Civil Liberties Union Of Iowa,5,43
 2020-05-21,American Community,5,44
 2020-05-21,Castleton University,5,45
@@ -5611,3 +5611,53 @@ date,organization,count,rn
 2020-05-27,Iowa Department Of Public Health,14,4
 2020-05-27,Centers For Disease,15,2
 2020-05-27,United States,31,1
+2020-05-28,Department Of Public Health Deputy,4,49
+2020-05-28,Department Of Veterans Affairs,4,50
+2020-05-28,Chinese Communist Party,5,46
+2020-05-28,Iowa Citizens For Community Improvement,5,47
+2020-05-28,Paycheck Protection Program,5,48
+2020-05-28,Cnn,6,25
+2020-05-28,Drug Task,6,26
+2020-05-28,Economic Recovery Group,6,27
+2020-05-28,Family Justice Center,6,28
+2020-05-28,Gallatin Center,6,29
+2020-05-28,Google,6,30
+2020-05-28,Health Department,6,31
+2020-05-28,Health On,6,32
+2020-05-28,John Hopkins University,6,33
+2020-05-28,Knoxville Health Department,6,34
+2020-05-28,Life Care Center,6,35
+2020-05-28,Mcdonald,6,36
+2020-05-28,Morgan,6,37
+2020-05-28,Nan,6,38
+2020-05-28,Oneida High School,6,39
+2020-05-28,Renfro Corp,6,40
+2020-05-28,Senate Minority Leader Sen,6,41
+2020-05-28,Stage Stores,6,42
+2020-05-28,Tennessee Department Of Labor,6,43
+2020-05-28,University Of Tennessee,6,44
+2020-05-28,Workforce Development,6,45
+2020-05-28,Department Of Public Health,7,18
+2020-05-28,Iowa Department Of Public Health Deputy,7,19
+2020-05-28,Iowa State University,7,20
+2020-05-28,Senate Committee On Health,7,21
+2020-05-28,Sioux Center,7,22
+2020-05-28,Tyson Foods Inc,7,23
+2020-05-28,Workers International Union,7,24
+2020-05-28,University Of Iowa,8,17
+2020-05-28,New York Times,9,16
+2020-05-28,Facebook,10,15
+2020-05-28,Hazardous Materials Safety Administration,11,10
+2020-05-28,Office Of Foreign Missions,11,11
+2020-05-28,Senate Democratic,11,12
+2020-05-28,Senate Democrats,11,13
+2020-05-28,Tyson Foods,11,14
+2020-05-28,Centers For Disease,13,9
+2020-05-28,Tennessee Department Of Health,14,8
+2020-05-28,Human Services,16,7
+2020-05-28,Twitter,17,6
+2020-05-28,Department Of Health,19,5
+2020-05-28,Associated Press,20,3
+2020-05-28,Iowa Department Of Public Health,20,4
+2020-05-28,White House,24,2
+2020-05-28,United States,54,1

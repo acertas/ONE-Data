@@ -4099,13 +4099,12 @@ date,organization,count,rn
 2020-04-22,Reuters,60,3
 2020-04-22,White House,94,2
 2020-04-22,United States,171,1
-2020-04-23,Bureau Of Prisons,7,47
-2020-04-23,Del Rio Civic Center,7,48
-2020-04-23,Exchange Commission,7,49
-2020-04-23,Health Administrator Esmeralda Guajardo,7,50
-2020-04-23,Payroll Protection Program,8,44
-2020-04-23,Public Affairs Research,8,45
-2020-04-23,Senate Majority Leader Mitch Mcconnell,8,46
+2020-04-23,Bureau Of Prisons,7,48
+2020-04-23,Del Rio Civic Center,7,49
+2020-04-23,Exchange Commission,7,50
+2020-04-23,Payroll Protection Program,8,45
+2020-04-23,Public Affairs Research,8,46
+2020-04-23,Senate Majority Leader Mitch Mcconnell,8,47
 2020-04-23,Defense Department,9,36
 2020-04-23,Department Of Homeland Security,9,37
 2020-04-23,Department Of State Health Services,9,38
@@ -4113,7 +4112,8 @@ date,organization,count,rn
 2020-04-23,Food Bank,9,40
 2020-04-23,Harvard University,9,41
 2020-04-23,Strategic Petroleum,9,42
-2020-04-23,York Mercantile Exchange,9,43
+2020-04-23,Supplemental Nutrition Assistance Program,9,43
+2020-04-23,York Mercantile Exchange,9,44
 2020-04-23,Federal Reserve,10,35
 2020-04-23,University Of Texas At Austin,11,34
 2020-04-23,Goldman Sachs,12,31
@@ -4136,11 +4136,11 @@ date,organization,count,rn
 2020-04-23,Nan,23,16
 2020-04-23,Texas Supreme Court,25,15
 2020-04-23,Facebook,26,14
-2020-04-23,Walmart,27,13
+2020-04-23,Walmart,28,13
 2020-04-23,Human Services,29,11
 2020-04-23,Supreme Court,29,12
-2020-04-23,Paycheck Protection Program,31,9
 2020-04-23,Texas Department Of State Health Services,31,10
+2020-04-23,Paycheck Protection Program,33,9
 2020-04-23,Reuters,35,8
 2020-04-23,Human Services Commission,36,7
 2020-04-23,White House,38,6
@@ -4149,31 +4149,31 @@ date,organization,count,rn
 2020-04-23,Twitter,39,5
 2020-04-23,Associated Press,50,2
 2020-04-23,United States,84,1
-2020-04-24,Department Of Health,8,45
-2020-04-24,Federal Reserve Bank,8,46
-2020-04-24,Justice Department,8,47
+2020-04-24,Department Of Health,8,46
+2020-04-24,Federal Reserve Bank,8,47
 2020-04-24,National Guard,8,48
 2020-04-24,Organization Of The Petroleum Exporting Counties,8,49
 2020-04-24,Ruth Chris Steak House,8,50
 2020-04-24,Africa Centers For Disease,9,39
 2020-04-24,Google,9,40
-2020-04-24,Occidental Petroleum Corp,9,41
-2020-04-24,Supreme Court,9,42
-2020-04-24,Texas A M University,9,43
-2020-04-24,University Of Texas Anderson Cancer Center,9,44
-2020-04-24,John Hopkins University,10,37
-2020-04-24,Nan,10,38
-2020-04-24,Circuit Court,11,31
-2020-04-24,Cnn,11,32
-2020-04-24,Drug Administration,11,33
-2020-04-24,European Union,11,34
-2020-04-24,Public Affairs Research,11,35
-2020-04-24,University Of Texas Texas Tribune Poll,11,36
-2020-04-24,Texas Workforce Commission,12,30
-2020-04-24,Federal Reserve,13,27
-2020-04-24,Small Business Administration,13,28
-2020-04-24,Thomson Reuters Trust Principles,13,29
+2020-04-24,Justice Department,9,41
+2020-04-24,Occidental Petroleum Corp,9,42
+2020-04-24,Supreme Court,9,43
+2020-04-24,Texas A M University,9,44
+2020-04-24,University Of Texas Anderson Cancer Center,9,45
+2020-04-24,John Hopkins University,10,38
+2020-04-24,Circuit Court,11,32
+2020-04-24,Cnn,11,33
+2020-04-24,Drug Administration,11,34
+2020-04-24,European Union,11,35
+2020-04-24,Public Affairs Research,11,36
+2020-04-24,University Of Texas Texas Tribune Poll,11,37
+2020-04-24,Nan,12,31
+2020-04-24,Federal Reserve,13,28
+2020-04-24,Texas Workforce Commission,13,29
+2020-04-24,Thomson Reuters Trust Principles,13,30
 2020-04-24,Instagram,14,26
+2020-04-24,Small Business Administration,14,27
 2020-04-24,American Institute Of Architects,15,20
 2020-04-24,American Legion,15,21
 2020-04-24,European Society Of Clinical Microbiology,15,22
@@ -4181,20 +4181,20 @@ date,organization,count,rn
 2020-04-24,National Sanitation Foundation,15,24
 2020-04-24,Walmart,15,25
 2020-04-24,University Of Texas At Austin,16,19
-2020-04-24,Treasury Department,17,18
 2020-04-24,Human Services Commission,18,17
-2020-04-24,Department Of Homeland Security,19,14
-2020-04-24,New York Times,19,15
+2020-04-24,Treasury Department,18,18
+2020-04-24,Department Of Homeland Security,19,15
 2020-04-24,Texas Supreme Court,19,16
+2020-04-24,New York Times,20,14
 2020-04-24,Bloomberg,21,12
 2020-04-24,Human Services,21,13
-2020-04-24,Paycheck Protection Program,24,10
 2020-04-24,World Health Organization,24,11
 2020-04-24,Associated Press,25,8
-2020-04-24,Texas Department Of State Health Services,25,9
-2020-04-24,Facebook,27,5
+2020-04-24,Paycheck Protection Program,25,9
+2020-04-24,Texas Department Of State Health Services,25,10
 2020-04-24,Texas Health,27,6
 2020-04-24,Twitter,27,7
+2020-04-24,Facebook,28,5
 2020-04-24,Reuters,34,4
 2020-04-24,White House,47,3
 2020-04-24,Centers For Disease,48,2
@@ -4249,29 +4249,29 @@ date,organization,count,rn
 2020-04-25,University Of Texas Texas Tribune Poll,22,4
 2020-04-25,Centers For Disease,27,2
 2020-04-25,United States,56,1
-2020-04-26,Affairs Chad Wootton,3,49
-2020-04-26,American Airlines Center,3,50
-2020-04-26,Circuit Court,4,28
-2020-04-26,House Oversight Committee,4,29
-2020-04-26,Human Services Commission,4,30
-2020-04-26,Jude Catholic Church,4,31
-2020-04-26,Leadership Academy At Como Elementary,4,32
-2020-04-26,Leonard Middle School,4,33
-2020-04-26,Linkedin,4,34
-2020-04-26,National Guard,4,35
-2020-04-26,National Vote At Home Institute,4,36
-2020-04-26,Nicholas Catholic Church,4,37
-2020-04-26,Postal Service,4,38
-2020-04-26,Reuters,4,39
-2020-04-26,Texas Comptroller Office,4,40
-2020-04-26,Texas Department Of Health,4,41
-2020-04-26,Theological Foundation In Mishawaka,4,42
-2020-04-26,Tribune Content Agency,4,43
-2020-04-26,Trump Administration,4,44
-2020-04-26,University Of Texas,4,45
-2020-04-26,Walgreens,4,46
-2020-04-26,Walmart,4,47
-2020-04-26,Your Service,4,48
+2020-04-26,American Civil Liberties Union,4,28
+2020-04-26,Bureau Of Prisons,4,29
+2020-04-26,Circuit Court,4,30
+2020-04-26,House Oversight Committee,4,31
+2020-04-26,Human Services Commission,4,32
+2020-04-26,Jude Catholic Church,4,33
+2020-04-26,Leadership Academy At Como Elementary,4,34
+2020-04-26,Leonard Middle School,4,35
+2020-04-26,Linkedin,4,36
+2020-04-26,National Guard,4,37
+2020-04-26,National Vote At Home Institute,4,38
+2020-04-26,Nicholas Catholic Church,4,39
+2020-04-26,Postal Service,4,40
+2020-04-26,Reuters,4,41
+2020-04-26,Texas Comptroller Office,4,42
+2020-04-26,Texas Department Of Health,4,43
+2020-04-26,Theological Foundation In Mishawaka,4,44
+2020-04-26,Tribune Content Agency,4,45
+2020-04-26,Trump Administration,4,46
+2020-04-26,University Of Texas,4,47
+2020-04-26,Walgreens,4,48
+2020-04-26,Walmart,4,49
+2020-04-26,Your Service,4,50
 2020-04-26,Tarrant Area Food Bank,5,26
 2020-04-26,Texas National Guard,5,27
 2020-04-26,Cnn,6,21
@@ -4282,42 +4282,42 @@ date,organization,count,rn
 2020-04-26,Texas Division Of Emergency Management,7,20
 2020-04-26,Paycheck Protection Program,8,19
 2020-04-26,John Hopkins University,12,18
-2020-04-26,Human Services,13,12
-2020-04-26,Nan,13,13
+2020-04-26,Human Services,13,13
 2020-04-26,National Academy Of Sciences,13,14
 2020-04-26,Public Affairs Research,13,15
 2020-04-26,Texas Department Of Licensing,13,16
 2020-04-26,University Of Texas At Austin,13,17
-2020-04-26,University Of Texas Texas Tribune Poll,14,10
-2020-04-26,White House,14,11
-2020-04-26,Associated Press,15,7
-2020-04-26,Texas Department Of State Health Services,15,8
-2020-04-26,University Of Texas Texas Tribune,15,9
+2020-04-26,Nan,14,11
+2020-04-26,White House,14,12
+2020-04-26,Associated Press,15,8
+2020-04-26,Texas Department Of State Health Services,15,9
+2020-04-26,University Of Texas Texas Tribune Poll,15,10
 2020-04-26,National Institutes Of Health,16,6
+2020-04-26,University Of Texas Texas Tribune,16,7
 2020-04-26,Twitter,18,5
-2020-04-26,Centers For Disease,19,4
-2020-04-26,Facebook,20,3
+2020-04-26,Facebook,20,4
+2020-04-26,Centers For Disease,21,3
 2020-04-26,World Health Organization,23,2
-2020-04-26,United States,41,1
-2020-04-27,Morris,8,45
+2020-04-26,United States,43,1
 2020-04-27,Reuters,8,46
 2020-04-27,Texas Health Presbyterian Hospital Denton,8,47
 2020-04-27,Texas Poison Center,8,48
 2020-04-27,Texas Poison Center Network,8,49
 2020-04-27,Yougov,8,50
-2020-04-27,Cigna,9,39
-2020-04-27,City Council,9,40
-2020-04-27,Democratic Party,9,41
-2020-04-27,Office Of Science,9,42
-2020-04-27,Texas Coalition For Animal Protection In Denton,9,43
-2020-04-27,Vaccine Development At Texas Children Hospital,9,44
+2020-04-27,Cigna,9,40
+2020-04-27,City Council,9,41
+2020-04-27,Democratic Party,9,42
+2020-04-27,Office Of Science,9,43
+2020-04-27,Texas Coalition For Animal Protection In Denton,9,44
+2020-04-27,Vaccine Development At Texas Children Hospital,9,45
 2020-04-27,Duke-Margolis Center,10,32
 2020-04-27,Harvard University,10,33
 2020-04-27,Health Policy At Duke University,10,34
 2020-04-27,Medicaid Services,10,35
-2020-04-27,Tyson Foods,10,36
-2020-04-27,World Health Organization,10,37
-2020-04-27,Youtube,10,38
+2020-04-27,Morris,10,36
+2020-04-27,Tyson Foods,10,37
+2020-04-27,World Health Organization,10,38
+2020-04-27,Youtube,10,39
 2020-04-27,Texas National Guard,11,30
 2020-04-27,Walgreens,11,31
 2020-04-27,American Veterinary Medical Association,12,24
@@ -4331,9 +4331,9 @@ date,organization,count,rn
 2020-04-27,University Of Texas,16,21
 2020-04-27,Johns Hopkins University,17,19
 2020-04-27,Republican National Committee,17,20
-2020-04-27,Republican Party,19,17
-2020-04-27,Supreme Court,19,18
-2020-04-27,Small Business Administration,21,16
+2020-04-27,Republican Party,19,18
+2020-04-27,Small Business Administration,21,17
+2020-04-27,Supreme Court,22,16
 2020-04-27,Paycheck Protection Program,23,14
 2020-04-27,University Of Texas At Austin,23,15
 2020-04-27,Associated Press,24,10
@@ -4342,31 +4342,31 @@ date,organization,count,rn
 2020-04-27,Twitter,24,13
 2020-04-27,Human Services,25,8
 2020-04-27,University Of Texas Texas Tribune,25,9
-2020-04-27,Nan,28,7
+2020-04-27,Nan,29,7
 2020-04-27,Public Affairs Research,30,6
-2020-04-27,Facebook,38,5
+2020-04-27,Facebook,42,5
 2020-04-27,University Of Texas Texas Tribune Poll,45,4
-2020-04-27,White House,46,3
+2020-04-27,White House,48,3
 2020-04-27,Centers For Disease,52,2
 2020-04-27,United States,75,1
-2020-04-28,Harvard University,7,45
-2020-04-28,John Hopkins University,7,46
-2020-04-28,Navy Blue Angels,7,47
-2020-04-28,Paycheck Protection Program,7,48
-2020-04-28,Texas Court,7,49
-2020-04-28,Texas Health,7,50
-2020-04-28,Baylor College Of Medicine,8,38
-2020-04-28,Governor Office,8,39
-2020-04-28,Kaiser Health News,8,40
-2020-04-28,Midland Health Department,8,41
-2020-04-28,National Guard,8,42
+2020-04-28,Department Of Health,7,45
+2020-04-28,Harvard University,7,46
+2020-04-28,John Hopkins University,7,47
+2020-04-28,Navy Blue Angels,7,48
+2020-04-28,Paycheck Protection Program,7,49
+2020-04-28,Texas Court,7,50
+2020-04-28,Baylor College Of Medicine,8,39
+2020-04-28,Governor Office,8,40
+2020-04-28,Kaiser Health News,8,41
+2020-04-28,Midland Health Department,8,42
 2020-04-28,Texas A M Health Science Center,8,43
 2020-04-28,University Of Texas Texas Tribune Poll,8,44
 2020-04-28,Aetna,9,33
 2020-04-28,America Health Insurance,9,34
 2020-04-28,Cigna,9,35
-2020-04-28,Warnermedia Company,9,36
-2020-04-28,Wisconsin Department Of Natural Resources,9,37
+2020-04-28,National Guard,9,36
+2020-04-28,Warnermedia Company,9,37
+2020-04-28,Wisconsin Department Of Natural Resources,9,38
 2020-04-28,Brazos County Health District,10,31
 2020-04-28,Republican National Committee,10,32
 2020-04-28,Oval Office,11,29
@@ -4383,122 +4383,122 @@ date,organization,count,rn
 2020-04-28,Young,15,21
 2020-04-28,Health Security,16,17
 2020-04-28,Johns Hopkins Center,16,18
-2020-04-28,Human Services,18,16
-2020-04-28,Supreme Court,19,14
-2020-04-28,Texas A M University,19,15
+2020-04-28,Human Services,19,14
+2020-04-28,Supreme Court,19,15
+2020-04-28,Texas A M University,19,16
 2020-04-28,University Of Texas At Austin,21,13
 2020-04-28,Nan,22,12
 2020-04-28,Johns Hopkins University,25,11
-2020-04-28,Twitter,30,10
-2020-04-28,Associated Press,31,9
-2020-04-28,Texas Department Of State Health Services,35,8
+2020-04-28,Twitter,31,10
+2020-04-28,Associated Press,35,8
+2020-04-28,Texas Department Of State Health Services,35,9
 2020-04-28,Georgia Department Of Public Health,36,7
 2020-04-28,New York Times,40,6
 2020-04-28,World Health Organization,49,5
 2020-04-28,Centers For Disease,51,3
 2020-04-28,Cnn,51,4
-2020-04-28,White House,77,2
-2020-04-28,United States,85,1
-2020-04-29,A Justice Department,7,47
-2020-04-29,A Treasury Department,7,48
-2020-04-29,Msnbc,7,49
+2020-04-28,White House,80,2
+2020-04-28,United States,88,1
+2020-04-29,A Justice Department,7,48
+2020-04-29,A Treasury Department,7,49
 2020-04-29,Texas A M Health Science Center,7,50
-2020-04-29,Austin Public Health,8,40
-2020-04-29,Department Of Health,8,41
-2020-04-29,Paycheck Protection Program,8,42
-2020-04-29,Republican National Committee,8,43
-2020-04-29,Revenue Service,8,44
-2020-04-29,University Of Texas Texas Tribune Poll,8,45
-2020-04-29,World Health Organization,8,46
-2020-04-29,Justice Department,9,36
-2020-04-29,Kaiser Family Foundation,9,37
-2020-04-29,Small Business Administration,9,38
-2020-04-29,Texas Medical Association,9,39
-2020-04-29,Bloomberg,10,33
-2020-04-29,New York Times,10,34
-2020-04-29,Philippe,10,35
-2020-04-29,China National Health Commission,11,24
-2020-04-29,Cnn,11,25
+2020-04-29,Austin Public Health,8,41
+2020-04-29,Department Of Health,8,42
+2020-04-29,Msnbc,8,43
+2020-04-29,Republican National Committee,8,44
+2020-04-29,Revenue Service,8,45
+2020-04-29,University Of Texas Texas Tribune Poll,8,46
+2020-04-29,World Health Organization,8,47
+2020-04-29,Justice Department,9,38
+2020-04-29,Kaiser Family Foundation,9,39
+2020-04-29,Texas Medical Association,9,40
+2020-04-29,Bloomberg,10,35
+2020-04-29,New York Times,10,36
+2020-04-29,Philippe,10,37
+2020-04-29,China National Health Commission,11,25
 2020-04-29,Health Administration,11,26
 2020-04-29,National Institute Of Allergy,11,27
 2020-04-29,National People Congress,11,28
 2020-04-29,Oval Office,11,29
-2020-04-29,Texas Health,11,30
-2020-04-29,University Of Texas,11,31
-2020-04-29,Xinhua News Agency,11,32
-2020-04-29,Drug Administration,12,22
-2020-04-29,Instagram,12,23
+2020-04-29,Paycheck Protection Program,11,30
+2020-04-29,Small Business Administration,11,31
+2020-04-29,Texas Health,11,32
+2020-04-29,University Of Texas,11,33
+2020-04-29,Xinhua News Agency,11,34
+2020-04-29,Drug Administration,12,23
+2020-04-29,Instagram,12,24
+2020-04-29,Cnn,13,22
 2020-04-29,City Council,14,21
-2020-04-29,Costco,15,17
-2020-04-29,Department Of State Health Services,15,18
-2020-04-29,Human Services Commission,15,19
-2020-04-29,Treasury Department,15,20
-2020-04-29,Reuters,20,16
-2020-04-29,Texas Department Of State Health Services,21,14
-2020-04-29,University Of Texas At Austin,21,15
-2020-04-29,Associated Press,22,11
-2020-04-29,Human Services,22,12
-2020-04-29,Nan,22,13
-2020-04-29,Texas Workforce Commission,23,10
+2020-04-29,Costco,15,18
+2020-04-29,Department Of State Health Services,15,19
+2020-04-29,Human Services Commission,15,20
+2020-04-29,Treasury Department,16,17
+2020-04-29,Reuters,21,15
+2020-04-29,Texas Department Of State Health Services,21,16
+2020-04-29,Associated Press,22,13
+2020-04-29,Human Services,22,14
+2020-04-29,Nan,23,10
+2020-04-29,Texas Workforce Commission,23,11
+2020-04-29,University Of Texas At Austin,23,12
 2020-04-29,Johns Hopkins University,24,9
 2020-04-29,Center Carswell,26,8
 2020-04-29,Supreme Court,30,7
 2020-04-29,Bureau Of Prisons,31,6
-2020-04-29,Twitter,37,5
-2020-04-29,Centers For Disease,40,3
-2020-04-29,Facebook,40,4
-2020-04-29,White House,49,2
-2020-04-29,United States,92,1
-2020-04-30,A Texas Workforce Commission,12,45
-2020-04-30,Department Of Labor,12,46
-2020-04-30,Drug Administration,12,47
-2020-04-30,League City,12,48
-2020-04-30,Reuters,12,49
+2020-04-29,Twitter,38,5
+2020-04-29,Centers For Disease,42,4
+2020-04-29,Facebook,44,3
+2020-04-29,White House,50,2
+2020-04-29,United States,93,1
+2020-04-30,A Texas Workforce Commission,12,47
+2020-04-30,Drug Administration,12,48
+2020-04-30,League City,12,49
 2020-04-30,Spacex,12,50
-2020-04-30,Center Carswell,13,39
-2020-04-30,Federal Reserve,13,40
-2020-04-30,Health State Services,13,41
-2020-04-30,Kaiser Family Foundation,13,42
-2020-04-30,Texas Railroad Commission,13,43
-2020-04-30,Walmart,13,44
+2020-04-30,Center Carswell,13,40
+2020-04-30,Department Of Labor,13,41
+2020-04-30,Federal Reserve,13,42
+2020-04-30,Health State Services,13,43
+2020-04-30,Reuters,13,44
+2020-04-30,Texas Railroad Commission,13,45
+2020-04-30,Walmart,13,46
 2020-04-30,American Airlines Group Inc,14,37
-2020-04-30,Texas A M University,14,38
+2020-04-30,Kaiser Family Foundation,14,38
+2020-04-30,Texas A M University,14,39
 2020-04-30,Delta Air Lines,15,33
 2020-04-30,Paycheck Protection Program,15,34
 2020-04-30,Southwest Airlines,15,35
 2020-04-30,United Airlines,15,36
-2020-04-30,Freedom Of Information Foundation Of Texas,16,30
 2020-04-30,University Of North Texas Health Science Center,16,31
 2020-04-30,Ut Health,16,32
-2020-04-30,American Airlines,17,29
-2020-04-30,Health Administration,18,27
-2020-04-30,Texas Democratic Party,18,28
+2020-04-30,American Airlines,17,30
+2020-04-30,Freedom Of Information Foundation Of Texas,18,27
+2020-04-30,Health Administration,18,28
+2020-04-30,Texas Democratic Party,18,29
 2020-04-30,Oval Office,19,26
 2020-04-30,Baylor University,20,25
 2020-04-30,Land Office,21,24
-2020-04-30,Costco,23,22
-2020-04-30,Human Services Commission,23,23
-2020-04-30,Texas Health,25,21
-2020-04-30,Bureau Of Prisons,26,17
-2020-04-30,City Council,26,18
-2020-04-30,Cnn,26,19
-2020-04-30,Nan,26,20
+2020-04-30,Costco,24,22
+2020-04-30,Human Services Commission,24,23
+2020-04-30,Bureau Of Prisons,26,19
+2020-04-30,Cnn,26,20
+2020-04-30,Nan,26,21
+2020-04-30,City Council,27,17
+2020-04-30,Texas Health,27,18
 2020-04-30,Johns Hopkins University,29,16
 2020-04-30,Anita Hill Senate,30,14
 2020-04-30,Clinton Foundation,30,15
 2020-04-30,Republican National Committee,31,12
 2020-04-30,Texas Workforce Commission,31,13
 2020-04-30,Democratic National Committee,32,11
-2020-04-30,Human Services,36,10
-2020-04-30,Centers For Disease,43,9
-2020-04-30,Texas Department Of State Health Services,44,8
-2020-04-30,New York Times,47,7
+2020-04-30,Human Services,37,10
+2020-04-30,Centers For Disease,44,8
+2020-04-30,Texas Department Of State Health Services,44,9
+2020-04-30,New York Times,48,7
 2020-04-30,Supreme Court,53,6
-2020-04-30,Facebook,64,5
+2020-04-30,Facebook,65,5
 2020-04-30,White House,67,4
 2020-04-30,Twitter,78,3
-2020-04-30,Associated Press,84,2
-2020-04-30,United States,97,1
+2020-04-30,Associated Press,85,2
+2020-04-30,United States,99,1
 2020-05-01,Brazos County Health District,10,43
 2020-05-01,Emergency Management Agency,10,44
 2020-05-01,Kaiser Family Foundation,10,45
@@ -4506,7 +4506,7 @@ date,organization,count,rn
 2020-05-01,Office Of The Attending Physician,10,47
 2020-05-01,Senate Democratic,10,48
 2020-05-01,Senate Rules Committee,10,49
-2020-05-01,While The Senate,10,50
+2020-05-01,Texas Supreme Court,10,50
 2020-05-01,Baylor University,11,37
 2020-05-01,Bergdorf Goodman,11,38
 2020-05-01,British Airways,11,39
@@ -4523,11 +4523,11 @@ date,organization,count,rn
 2020-05-01,Human Services,14,27
 2020-05-01,Treasury Department,14,28
 2020-05-01,University Of Texas At Austin,14,29
-2020-05-01,New York Times,16,24
-2020-05-01,Reuters,16,25
+2020-05-01,New York Times,16,25
 2020-05-01,Texas Health,16,26
-2020-05-01,Texas A M University,17,23
-2020-05-01,Senate Majority Leader Mitch Mcconnell,19,22
+2020-05-01,Texas A M University,18,24
+2020-05-01,Reuters,19,22
+2020-05-01,Senate Majority Leader Mitch Mcconnell,19,23
 2020-05-01,Cnn,20,20
 2020-05-01,Johns Hopkins University,20,21
 2020-05-01,Nan,21,16
@@ -4547,7 +4547,7 @@ date,organization,count,rn
 2020-05-01,Drug Administration,42,5
 2020-05-01,Associated Press,56,4
 2020-05-01,Centers For Disease,60,3
-2020-05-01,United States,70,2
+2020-05-01,United States,71,2
 2020-05-01,White House,90,1
 2020-05-02,A Texas Workforce Commission,4,47
 2020-05-02,Emergency Management Agency,4,48
@@ -4578,16 +4578,16 @@ date,organization,count,rn
 2020-05-02,Korea Centers For Disease,10,23
 2020-05-02,Msnbc,10,24
 2020-05-02,Supreme Court,10,25
-2020-05-02,Facebook,11,17
-2020-05-02,Human Services,11,18
-2020-05-02,Nan,11,19
+2020-05-02,Facebook,11,18
+2020-05-02,Human Services,11,19
 2020-05-02,Reuters,11,20
 2020-05-02,Transit Authority,11,21
 2020-05-02,Africa Centers For Disease,12,12
 2020-05-02,Centers For Disease,12,13
 2020-05-02,Cnn,12,14
 2020-05-02,Freedom Movement United States,12,15
-2020-05-02,Texas Democratic Party,12,16
+2020-05-02,Nan,12,16
+2020-05-02,Texas Democratic Party,12,17
 2020-05-02,Health Department,13,10
 2020-05-02,World Health Organization,13,11
 2020-05-02,Twitter,14,9
@@ -4668,10 +4668,10 @@ date,organization,count,rn
 2020-05-04,Thomson Reuters Trust Principles,11,36
 2020-05-04,European Union,12,32
 2020-05-04,Texas Railroad,12,33
-2020-05-04,Human Services,13,29
 2020-05-04,Nan,13,30
 2020-05-04,United States Senate,13,31
-2020-05-04,Railroad Commission,14,28
+2020-05-04,Human Services,14,28
+2020-05-04,Railroad Commission,14,29
 2020-05-04,Senate Majority Leader Mitch Mcconnell,16,25
 2020-05-04,University Of Texas At Austin,16,26
 2020-05-04,World Health Organization,16,27
@@ -4694,9 +4694,9 @@ date,organization,count,rn
 2020-05-04,Facebook,34,6
 2020-05-04,Reuters,34,7
 2020-05-04,Supreme Court,34,8
-2020-05-04,Associated Press,36,4
-2020-05-04,Twitter,36,5
+2020-05-04,Associated Press,36,5
 2020-05-04,Cnn,38,3
+2020-05-04,Twitter,38,4
 2020-05-04,White House,50,2
 2020-05-04,United States,128,1
 2020-05-05,Financial Services Committee,9,50
@@ -4723,11 +4723,11 @@ date,organization,count,rn
 2020-05-05,Honeywell International Inc,18,29
 2020-05-05,Institute For Health Metrics,19,27
 2020-05-05,University Of Washington,19,28
-2020-05-05,Nuclear Regulatory Commission,21,24
-2020-05-05,Texas Department Of Criminal Justice,21,25
+2020-05-05,Nuclear Regulatory Commission,21,25
 2020-05-05,Texas Education Agency,21,26
 2020-05-05,Facebook,23,22
 2020-05-05,Johns Hopkins University,23,23
+2020-05-05,Texas Department Of Criminal Justice,23,24
 2020-05-05,Texas Health,24,21
 2020-05-05,United States Senate,26,20
 2020-05-05,Human Services,29,19
@@ -4737,51 +4737,51 @@ date,organization,count,rn
 2020-05-05,Nan,38,14
 2020-05-05,New York Times,38,15
 2020-05-05,Reuters,40,13
-2020-05-05,Justice Department,41,11
-2020-05-05,Texas Department Of State Health Services,41,12
+2020-05-05,Justice Department,41,12
+2020-05-05,Texas Department Of State Health Services,42,11
 2020-05-05,Centers For Disease,43,9
 2020-05-05,Senate Democratic,43,10
 2020-05-05,Senate Republicans,44,8
 2020-05-05,Senate Intelligence Committee,51,7
 2020-05-05,Senate Majority Leader Mitch Mcconnell,52,6
 2020-05-05,Cnn,62,5
-2020-05-05,Associated Press,71,4
+2020-05-05,Associated Press,73,4
 2020-05-05,National Intelligence,88,3
-2020-05-05,White House,117,2
-2020-05-05,United States,130,1
-2020-05-06,Ap Supreme Court Twitter,10,40
-2020-05-06,Association Of American Medical Colleges,10,41
-2020-05-06,Banking Committee,10,42
-2020-05-06,Google,10,43
-2020-05-06,Health Security,10,44
-2020-05-06,Instagram,10,45
-2020-05-06,Johns Hopkins Center,10,46
-2020-05-06,Members Of Congress,10,47
-2020-05-06,Texas Department Of Criminal Justice,10,48
+2020-05-05,White House,119,2
+2020-05-05,United States,132,1
+2020-05-06,Ap Supreme Court Twitter,10,41
+2020-05-06,Association Of American Medical Colleges,10,42
+2020-05-06,Banking Committee,10,43
+2020-05-06,Google,10,44
+2020-05-06,Health Security,10,45
+2020-05-06,Instagram,10,46
+2020-05-06,Johns Hopkins Center,10,47
+2020-05-06,Members Of Congress,10,48
 2020-05-06,Thomson Reuters Trust Principles,10,49
 2020-05-06,University College London Genetics Institute,10,50
-2020-05-06,Banana Republic,11,31
-2020-05-06,Gap Inc,11,32
-2020-05-06,National Institutes Of Health,11,33
-2020-05-06,Old Navy,11,34
-2020-05-06,Senate Democratic,11,35
-2020-05-06,Senate Republican,11,36
-2020-05-06,Texas Health,11,37
-2020-05-06,University Of Washington Institute For Health Metrics,11,38
-2020-05-06,Us Census Bureau,11,39
-2020-05-06,World Health Organization,12,30
-2020-05-06,National Guard,14,28
-2020-05-06,Security Administration,14,29
+2020-05-06,Banana Republic,11,32
+2020-05-06,Gap Inc,11,33
+2020-05-06,National Institutes Of Health,11,34
+2020-05-06,Old Navy,11,35
+2020-05-06,Senate Democratic,11,36
+2020-05-06,Senate Republican,11,37
+2020-05-06,Texas Health,11,38
+2020-05-06,University Of Washington Institute For Health Metrics,11,39
+2020-05-06,Us Census Bureau,11,40
+2020-05-06,World Health Organization,12,31
+2020-05-06,National Guard,14,29
+2020-05-06,Security Administration,14,30
 2020-05-06,Drug Administration,15,26
-2020-05-06,Texas Division Of Emergency Management,15,27
+2020-05-06,Texas Department Of Criminal Justice,15,27
+2020-05-06,Texas Division Of Emergency Management,15,28
 2020-05-06,Honeywell International Inc,16,24
 2020-05-06,Texas Education Agency,16,25
 2020-05-06,House Intelligence Committee,19,23
 2020-05-06,Treasury Department,20,22
-2020-05-06,Human Services,22,18
 2020-05-06,Paycheck Protection Program,22,19
 2020-05-06,Texas Democratic Party,22,20
 2020-05-06,Walmart,22,21
+2020-05-06,Human Services,23,18
 2020-05-06,National Intelligence,24,16
 2020-05-06,Senate Republicans,24,17
 2020-05-06,Senate Intelligence Committee,25,15
@@ -4796,9 +4796,9 @@ date,organization,count,rn
 2020-05-06,Supreme Court,43,6
 2020-05-06,Cnn,44,5
 2020-05-06,Senate Majority Leader Mitch Mcconnell,47,4
-2020-05-06,Associated Press,68,3
-2020-05-06,White House,107,2
-2020-05-06,United States,128,1
+2020-05-06,Associated Press,70,3
+2020-05-06,White House,112,2
+2020-05-06,United States,129,1
 2020-05-07,Gilead Sciences Inc,13,42
 2020-05-07,Infectious Disease Research,13,43
 2020-05-07,Justice Department,13,44
@@ -4817,56 +4817,56 @@ date,organization,count,rn
 2020-05-07,France Pasteur Institute,16,33
 2020-05-07,Thomson Reuters Trust Principles,16,34
 2020-05-07,Youtube,16,35
-2020-05-07,Centers For Medicare,17,29
-2020-05-07,Institute For Clinical,17,30
-2020-05-07,Means Health Subcommittee,17,31
+2020-05-07,Centers For Medicare,17,30
+2020-05-07,Institute For Clinical,17,31
 2020-05-07,Zs Associates,17,32
 2020-05-07,Kaiser Family Foundation,18,27
-2020-05-07,Republican Executive Committee,18,28
-2020-05-07,Human Services,19,26
-2020-05-07,National Institutes Of Health,20,25
+2020-05-07,Means Health Subcommittee,18,28
+2020-05-07,Republican Executive Committee,18,29
+2020-05-07,Human Services,20,25
+2020-05-07,National Institutes Of Health,20,26
 2020-05-07,Medicaid Services,21,21
 2020-05-07,New York Times,21,22
 2020-05-07,Paycheck Protection Program,21,23
 2020-05-07,Rice University,21,24
 2020-05-07,Texas Workforce Commission,24,20
 2020-05-07,Laredo Police Department,26,19
-2020-05-07,Drug Administration,27,17
 2020-05-07,Texas Department Of State Health Services,27,18
+2020-05-07,Drug Administration,28,17
 2020-05-07,Reuters,31,16
 2020-05-07,Public Affairs Research,32,15
 2020-05-07,Msnbc,38,14
-2020-05-07,Cnn,40,13
+2020-05-07,Cnn,41,13
 2020-05-07,Facebook,44,12
 2020-05-07,Johns Hopkins University,46,11
-2020-05-07,Nan,68,9
-2020-05-07,Twitter,68,10
+2020-05-07,Nan,68,10
 2020-05-07,Centers For Disease,70,7
 2020-05-07,Oval Office,70,8
+2020-05-07,Twitter,70,9
 2020-05-07,Texas Supreme Court On,76,6
 2020-05-07,Texas Supreme Court,94,5
-2020-05-07,Associated Press,104,4
+2020-05-07,Associated Press,105,4
 2020-05-07,Supreme Court,133,3
 2020-05-07,United States,159,2
 2020-05-07,White House,232,1
-2020-05-08,Texas Department Of Criminal Justice,8,50
 2020-05-08,Costco,9,43
 2020-05-08,Council Member Ann Kitchen,9,44
 2020-05-08,District Court,9,45
 2020-05-08,Justice Center,9,46
 2020-05-08,Neiman Marcus Group,9,47
 2020-05-08,Rice University,9,48
-2020-05-08,University Of Texas At Austin,9,49
-2020-05-08,Commissioners Court,10,37
-2020-05-08,Drug Administration,10,38
-2020-05-08,Labor Department,10,39
+2020-05-08,Tyson Foods,9,49
+2020-05-08,University Of Texas At Austin,9,50
+2020-05-08,Commissioners Court,10,38
+2020-05-08,Drug Administration,10,39
 2020-05-08,Moody,10,40
 2020-05-08,Reuters,10,41
 2020-05-08,World Health Organization,10,42
 2020-05-08,Austin Public Health,11,33
 2020-05-08,City Council,11,34
-2020-05-08,Msnbc,11,35
-2020-05-08,Texas Workforce Commission,11,36
+2020-05-08,Labor Department,11,35
+2020-05-08,Msnbc,11,36
+2020-05-08,Texas Workforce Commission,11,37
 2020-05-08,Human Services Commission,12,31
 2020-05-08,Walmart,12,32
 2020-05-08,Austin City Council,13,27
@@ -4885,7 +4885,7 @@ date,organization,count,rn
 2020-05-08,Human Services,18,16
 2020-05-08,Johns Hopkins University,18,17
 2020-05-08,Treasury Department,20,15
-2020-05-08,Texas Department Of State Health Services,21,14
+2020-05-08,Texas Department Of State Health Services,22,14
 2020-05-08,Cnn,24,13
 2020-05-08,Facebook,28,12
 2020-05-08,Nan,30,11
@@ -4897,7 +4897,7 @@ date,organization,count,rn
 2020-05-08,Associated Press,69,5
 2020-05-08,Supreme Court,79,4
 2020-05-08,Texas Supreme Court,96,3
-2020-05-08,United States,105,2
+2020-05-08,United States,108,2
 2020-05-08,White House,132,1
 2020-05-09,Federal Reserve Bank,7,48
 2020-05-09,Religion News Foundation,7,49
@@ -4905,24 +4905,24 @@ date,organization,count,rn
 2020-05-09,Department Of State Health Services,8,45
 2020-05-09,Treasury Department,8,46
 2020-05-09,World Health Organization,8,47
-2020-05-09,Air France,9,33
-2020-05-09,American Civil Liberties Union Of Nebraska,9,34
-2020-05-09,Genome Center,9,35
-2020-05-09,Human Services Commission,9,36
-2020-05-09,Jetblue,9,37
-2020-05-09,Labor Department,9,38
-2020-05-09,Oval Office,9,39
+2020-05-09,Air France,9,34
+2020-05-09,American Civil Liberties Union Of Nebraska,9,35
+2020-05-09,Genome Center,9,36
+2020-05-09,Human Services Commission,9,37
+2020-05-09,Jetblue,9,38
+2020-05-09,Labor Department,9,39
 2020-05-09,Rockefeller University,9,40
 2020-05-09,School Of Public Affairs,9,41
 2020-05-09,Texas State University,9,42
 2020-05-09,Wisconsin Supreme Court,9,43
 2020-05-09,York State Department Of Health,9,44
-2020-05-09,Amerispeak Panel,10,31
-2020-05-09,Caddell Construction Company,10,32
+2020-05-09,Amerispeak Panel,10,32
+2020-05-09,Caddell Construction Company,10,33
 2020-05-09,European University Institute On,11,27
 2020-05-09,International Monetary Fund,11,28
 2020-05-09,New York Times,11,29
-2020-05-09,Texas Health,11,30
+2020-05-09,Oval Office,11,30
+2020-05-09,Texas Health,11,31
 2020-05-09,Rice University,12,25
 2020-05-09,Tyson Foods,12,26
 2020-05-09,Ethics Religious Liberty Commission,13,23
@@ -4940,12 +4940,12 @@ date,organization,count,rn
 2020-05-09,Tabernacle Baptist Church,28,13
 2020-05-09,Department Of Homeland Security,29,10
 2020-05-09,Human Services,29,11
-2020-05-09,Texas Supreme Court,31,9
+2020-05-09,Texas Supreme Court,33,9
 2020-05-09,Reuters,37,8
 2020-05-09,Johns Hopkins University,40,6
 2020-05-09,Twitter,40,7
 2020-05-09,Centers For Disease,43,5
-2020-05-09,Supreme Court,54,4
+2020-05-09,Supreme Court,55,4
 2020-05-09,White House,68,3
 2020-05-09,Associated Press,77,2
 2020-05-09,United States,99,1
@@ -5038,8 +5038,8 @@ date,organization,count,rn
 2020-05-11,Thomson Reuters Trust Principles,17,15
 2020-05-11,Apple Inc,18,12
 2020-05-11,Intel Corp,18,13
-2020-05-11,Nan,20,10
 2020-05-11,Taiwan Semiconductor Manufacturing Co,20,11
+2020-05-11,Nan,21,10
 2020-05-11,Facebook,22,7
 2020-05-11,Intel,22,8
 2020-05-11,Samsung,22,9
@@ -5054,7 +5054,7 @@ date,organization,count,rn
 2020-05-12,Glorious Way Church,9,47
 2020-05-12,Google,9,48
 2020-05-12,Party Time Bar,9,49
-2020-05-12,Toney Burger Activity Center,9,50
+2020-05-12,Texas A M Health Science Center,9,50
 2020-05-12,Group On,10,43
 2020-05-12,Nan,10,44
 2020-05-12,Health Department,11,41
@@ -5096,9 +5096,9 @@ date,organization,count,rn
 2020-05-12,Centers For Disease,42,6
 2020-05-12,Facebook,44,5
 2020-05-12,Texas Department Of State Health Services,45,4
-2020-05-12,Twitter,74,3
-2020-05-12,White House,87,2
-2020-05-12,United States,107,1
+2020-05-12,Twitter,75,3
+2020-05-12,White House,89,2
+2020-05-12,United States,109,1
 2020-05-13,Braswell High School In Little Elm,9,49
 2020-05-13,Human Services Commission In Austin,9,50
 2020-05-13,China Group Tribune News Service,10,45
@@ -5145,10 +5145,10 @@ date,organization,count,rn
 2020-05-13,Human Services,37,7
 2020-05-13,Centers For Disease,39,5
 2020-05-13,Texas Health,39,6
-2020-05-13,White House,55,4
+2020-05-13,White House,56,4
 2020-05-13,Spacex,58,3
 2020-05-13,Twitter,65,2
-2020-05-13,United States,66,1
+2020-05-13,United States,67,1
 2020-05-14,Commerce Subcommittee On Health,8,47
 2020-05-14,Curative Inc,8,48
 2020-05-14,Democratic National Committee,8,49
@@ -5159,30 +5159,30 @@ date,organization,count,rn
 2020-05-14,Bloomberg,10,41
 2020-05-14,Texas Department Of Emergency Management,10,42
 2020-05-14,Texas Health,10,43
-2020-05-14,Democratic Party,11,38
-2020-05-14,Paycheck Protection Program,11,39
-2020-05-14,Senate Intelligence Committee,11,40
-2020-05-14,National Institute Of Allergy,12,35
-2020-05-14,Republicans In Congress,12,36
-2020-05-14,Texas National Guard,12,37
-2020-05-14,Tribune Content Agency,13,33
-2020-05-14,United Nations,13,34
-2020-05-14,World Health Organization,14,32
+2020-05-14,Democratic Party,11,39
+2020-05-14,Paycheck Protection Program,11,40
+2020-05-14,National Institute Of Allergy,12,37
+2020-05-14,Texas National Guard,12,38
+2020-05-14,Senate Intelligence Committee,13,34
+2020-05-14,Tribune Content Agency,13,35
+2020-05-14,United Nations,13,36
+2020-05-14,Republicans In Congress,14,32
+2020-05-14,World Health Organization,14,33
 2020-05-14,Homebase,15,29
 2020-05-14,Labor Department,15,30
 2020-05-14,Texas Education Agency,15,31
 2020-05-14,Reuters,16,28
 2020-05-14,Nan,18,27
-2020-05-14,Justice Department,19,25
 2020-05-14,New York Times,19,26
-2020-05-14,Texas Division Of Emergency Management,20,23
-2020-05-14,Texas Military Department,20,24
-2020-05-14,Johns Hopkins University,21,22
+2020-05-14,Texas Division Of Emergency Management,20,24
+2020-05-14,Texas Military Department,20,25
+2020-05-14,Johns Hopkins University,21,23
 2020-05-14,Drug Administration,23,21
+2020-05-14,Justice Department,23,22
 2020-05-14,Cnn,26,20
-2020-05-14,Associated Press,27,18
 2020-05-14,Texas Department Of Criminal Justice,27,19
-2020-05-14,Federal Reserve,29,17
+2020-05-14,Federal Reserve,29,18
+2020-05-14,Associated Press,31,17
 2020-05-14,Facebook,33,16
 2020-05-14,Centers For Disease,34,14
 2020-05-14,Twitter,34,15
@@ -5192,11 +5192,11 @@ date,organization,count,rn
 2020-05-14,Biomedical Advanced Research,56,9
 2020-05-14,Supreme Court,56,10
 2020-05-14,Development Authority,57,8
-2020-05-14,National Institutes Of Health,58,5
-2020-05-14,Texas Supreme Court,58,6
+2020-05-14,National Institutes Of Health,58,6
 2020-05-14,United States,58,7
 2020-05-14,Department Of Health,59,4
-2020-05-14,Texas Democratic Party,64,3
+2020-05-14,Texas Supreme Court,59,5
+2020-05-14,Texas Democratic Party,65,3
 2020-05-14,Human Services,74,2
 2020-05-14,White House,115,1
 2020-05-15,Congress On,13,48
@@ -5236,19 +5236,19 @@ date,organization,count,rn
 2020-05-15,Youtube,25,18
 2020-05-15,Biomedical Advanced Research,26,15
 2020-05-15,Development Authority,28,14
-2020-05-15,Drug Administration,34,12
 2020-05-15,Emergency Management Agency,34,13
+2020-05-15,Drug Administration,35,12
 2020-05-15,Cnn,38,11
 2020-05-15,Texas Supreme Court,39,10
-2020-05-15,Twitter,45,9
-2020-05-15,Associated Press,46,8
-2020-05-15,Department Of Health,47,7
+2020-05-15,Twitter,46,9
+2020-05-15,Associated Press,47,7
+2020-05-15,Department Of Health,47,8
 2020-05-15,Justice Department,51,6
 2020-05-15,Human Services,53,5
 2020-05-15,White House,54,4
-2020-05-15,Centers For Disease,63,3
+2020-05-15,Centers For Disease,64,3
 2020-05-15,Supreme Court,70,2
-2020-05-15,United States,84,1
+2020-05-15,United States,85,1
 2020-05-16,Canyon National Park,6,46
 2020-05-16,Community Development Clinic,6,47
 2020-05-16,Harvard University,6,48
@@ -5256,16 +5256,16 @@ date,organization,count,rn
 2020-05-16,Texas Court,6,50
 2020-05-16,Nan,7,44
 2020-05-16,Sears,7,45
-2020-05-16,Alphabet Inc Google,8,40
-2020-05-16,City Council,8,41
+2020-05-16,Alphabet Inc Google,8,41
 2020-05-16,Facebook Inc,8,42
 2020-05-16,Neiman Marcus Group,8,43
 2020-05-16,Apple Inc,9,34
-2020-05-16,Cnn,9,35
-2020-05-16,National Guard,9,36
-2020-05-16,Neiman Marcus,9,37
-2020-05-16,Stage Stores,9,38
-2020-05-16,Texas Emergency Medical Task,9,39
+2020-05-16,City Council,9,35
+2020-05-16,Cnn,9,36
+2020-05-16,National Guard,9,37
+2020-05-16,Neiman Marcus,9,38
+2020-05-16,Stage Stores,9,39
+2020-05-16,Texas Emergency Medical Task,9,40
 2020-05-16,House Judiciary Committee,10,31
 2020-05-16,New York Times,10,32
 2020-05-16,Researchers At Harvard University,10,33
@@ -5282,23 +5282,23 @@ date,organization,count,rn
 2020-05-16,Texas Restaurant Association,18,21
 2020-05-16,Texas Division Of Emergency Management,19,18
 2020-05-16,World Health Organization,19,19
-2020-05-16,Johns Hopkins University,20,16
 2020-05-16,Twitter,20,17
+2020-05-16,Johns Hopkins University,21,16
 2020-05-16,Google,22,13
 2020-05-16,Harvard Global Health Institute,22,14
 2020-05-16,Texas Democratic Party,22,15
 2020-05-16,Justice Department,23,12
 2020-05-16,Supreme Court,24,10
 2020-05-16,Texas Department Of State Health Services,24,11
-2020-05-16,American Airlines Center,25,7
-2020-05-16,Centers For Disease,25,8
+2020-05-16,American Airlines Center,25,8
 2020-05-16,Stay Safe Business Program,25,9
-2020-05-16,Facebook,29,5
+2020-05-16,Centers For Disease,26,7
 2020-05-16,Human Services,29,6
+2020-05-16,Facebook,30,5
 2020-05-16,White House,56,4
 2020-05-16,Texas Supreme Court,59,3
 2020-05-16,Associated Press,61,2
-2020-05-16,United States,69,1
+2020-05-16,United States,70,1
 2020-05-17,American Airlines Center,4,48
 2020-05-17,Brookings Institution,4,49
 2020-05-17,Department Of Criminal Justice,4,50
@@ -5345,8 +5345,8 @@ date,organization,count,rn
 2020-05-17,Paycheck Protection Program,16,7
 2020-05-17,Texas Department Of State Health Services,23,5
 2020-05-17,Texas Supreme Court,23,6
-2020-05-17,Associated Press,24,3
-2020-05-17,Centers For Disease,24,4
+2020-05-17,Associated Press,24,4
+2020-05-17,Centers For Disease,25,3
 2020-05-17,United States,27,2
 2020-05-17,White House,30,1
 2020-05-18,American Airlines Center,7,45
@@ -5391,7 +5391,7 @@ date,organization,count,rn
 2020-05-18,World Health Organization,15,17
 2020-05-18,National Guard,16,9
 2020-05-18,Reuters,16,10
-2020-05-18,Nan,18,8
+2020-05-18,Nan,19,8
 2020-05-18,Human Services,22,7
 2020-05-18,Texas Supreme Court,27,6
 2020-05-18,Centers For Disease,31,5
@@ -5402,15 +5402,15 @@ date,organization,count,rn
 2020-05-19,Amazon Web Service,6,48
 2020-05-19,Ashford Hospitality,6,49
 2020-05-19,Ashford Inc,6,50
-2020-05-19,Brazos County Health District,7,44
-2020-05-19,Drug Administration,7,45
-2020-05-19,Election Commission,7,46
-2020-05-19,Texas A M University,7,47
+2020-05-19,Brazos County Health District,7,45
+2020-05-19,Drug Administration,7,46
+2020-05-19,Election Commission,7,47
 2020-05-19,Department Of Justice,8,39
 2020-05-19,Indiana Supreme Court,8,40
 2020-05-19,Neiman Marcus,8,41
-2020-05-19,Texas Workforce Commission,8,42
-2020-05-19,University Of Texas At Austin,8,43
+2020-05-19,Texas A M University,8,42
+2020-05-19,Texas Workforce Commission,8,43
+2020-05-19,University Of Texas At Austin,8,44
 2020-05-19,American Civil Liberties Union,9,26
 2020-05-19,Capital Area Immigrant Rights Coalition,9,27
 2020-05-19,Hecht,9,28
@@ -5449,56 +5449,56 @@ date,organization,count,rn
 2020-05-19,White House,32,3
 2020-05-19,Associated Press,59,1
 2020-05-19,United States,59,2
-2020-05-20,Aerospace Workers,1,47
-2020-05-20,Army Sgt,1,48
-2020-05-20,Baden-Powell Council,1,49
-2020-05-20,Baylor College Of Medicine,1,50
-2020-05-20,American Academy Of Pediatrics,2,25
-2020-05-20,Amnesty International,2,26
-2020-05-20,Ap Missouri Department Of Corrections,2,27
-2020-05-20,Centers For Disease Control Prevention,2,28
-2020-05-20,Christus Spohn Health System,2,29
-2020-05-20,City Council,2,30
-2020-05-20,Cnn,2,31
-2020-05-20,Department Of Health,2,32
-2020-05-20,Facebook,2,33
-2020-05-20,Harvard Global Health Institute,2,34
-2020-05-20,Health Department,2,35
-2020-05-20,Holy Ghost Church,2,36
-2020-05-20,Johns Hopkins University,2,37
-2020-05-20,Little Birdies Child Care Center,2,38
-2020-05-20,Lockheed Martin,2,39
-2020-05-20,National Low Income Housing Coalition,2,40
-2020-05-20,Supreme Court On,2,41
-2020-05-20,Texas Department Of State Health Services,2,42
-2020-05-20,University Of Houston,2,43
-2020-05-20,Walmart,2,44
-2020-05-20,World Health Organization,2,45
-2020-05-20,Young Disciples Discovery Center,2,46
-2020-05-20,Democratic Party,3,19
-2020-05-20,Department Of Public Health,3,20
-2020-05-20,Georgia Department Of Public Health,3,21
-2020-05-20,Network Ch,3,22
-2020-05-20,Paycheck Protection Program,3,23
-2020-05-20,University Of California,3,24
-2020-05-20,American Civil Liberties Union,4,14
-2020-05-20,Imperial College,4,15
-2020-05-20,Nicholas Rister At Cook Children Medical Center,4,16
-2020-05-20,Northwell Health,4,17
-2020-05-20,Us Centers For Disease,4,18
-2020-05-20,Centers For Disease,5,12
-2020-05-20,Department Of Homeland Security,5,13
-2020-05-20,Nan,6,9
-2020-05-20,Texas Democractic Party,6,10
-2020-05-20,Tribune Content Agency,6,11
-2020-05-20,Missouri Department Of Corrections,9,8
-2020-05-20,Texas Department Of Criminal Justice,12,7
-2020-05-20,Circuit Court,15,5
-2020-05-20,Supreme Court,15,6
-2020-05-20,Associated Press,19,4
-2020-05-20,United States,21,3
-2020-05-20,Texas Supreme Court,26,2
-2020-05-20,Texas Democratic Party,44,1
+2020-05-20,American Medical Association,10,47
+2020-05-20,Department Of Homeland Security,10,48
+2020-05-20,Electoral College,10,49
+2020-05-20,Henry Ford Health System,10,50
+2020-05-20,Johns Hopkins University,11,45
+2020-05-20,Missouri Department Of Corrections,11,46
+2020-05-20,Aurora Police Department,12,37
+2020-05-20,Cnn,12,38
+2020-05-20,Imperial College,12,39
+2020-05-20,Nicholas Rister At Cook Children Medical Center,12,40
+2020-05-20,Northwell Health,12,41
+2020-05-20,Tribune Content Agency,12,42
+2020-05-20,United Nations,12,43
+2020-05-20,Waffle House,12,44
+2020-05-20,Reuters,13,36
+2020-05-20,Democratic Party,14,34
+2020-05-20,Republican National Committee,14,35
+2020-05-20,Barclays Center,15,30
+2020-05-20,Forum In Inglewood,15,31
+2020-05-20,Girls Club Of East Mississippi,15,32
+2020-05-20,Living Classrooms Foundation,15,33
+2020-05-20,Emory University,16,24
+2020-05-20,Louisiana Office Of Motor Vehicles,16,25
+2020-05-20,Mexico Foreign Affairs,16,26
+2020-05-20,Mount Pilgrim Missionary Baptist Church,16,27
+2020-05-20,Oprah Winfrey Charitable Foundation,16,28
+2020-05-20,Paycheck Protection Program,16,29
+2020-05-20,America Food Fund,18,17
+2020-05-20,Kroger,18,18
+2020-05-20,Mount Zion Baptist Church,18,19
+2020-05-20,Relief Fund,18,20
+2020-05-20,Tennessee State University,18,21
+2020-05-20,Texas Department Of Criminal Justice,18,22
+2020-05-20,Workers International Union,18,23
+2020-05-20,Justice Department On,20,16
+2020-05-20,Department Of Health,21,15
+2020-05-20,Justice Department,23,12
+2020-05-20,Nan,23,13
+2020-05-20,Texas Department Of State Health Services,23,14
+2020-05-20,World Health Organization,29,11
+2020-05-20,Centers For Disease,31,10
+2020-05-20,Supreme Court,42,9
+2020-05-20,Twitter,45,8
+2020-05-20,Facebook,46,7
+2020-05-20,White House,58,6
+2020-05-20,Circuit Court,65,5
+2020-05-20,Texas Supreme Court,68,4
+2020-05-20,Associated Press,78,3
+2020-05-20,United States,93,2
+2020-05-20,Texas Democratic Party,122,1
 2020-05-21,Austin Public Health,6,42
 2020-05-21,Department Of Defense,6,43
 2020-05-21,Department Of Health,6,44
@@ -5849,3 +5849,53 @@ date,organization,count,rn
 2020-05-27,White House,25,3
 2020-05-27,Twitter,35,2
 2020-05-27,United States,54,1
+2020-05-28,American College Of Obstetricians,8,44
+2020-05-28,Chinese Communist Party,8,45
+2020-05-28,Means Committee,8,46
+2020-05-28,Michigan Supreme Court,8,47
+2020-05-28,Supreme Court,8,48
+2020-05-28,Texas Senate,8,49
+2020-05-28,World Health Organization,8,50
+2020-05-28,Human Services Commission,9,37
+2020-05-28,Paycheck Protection Program,9,38
+2020-05-28,Public Affairs Research,9,39
+2020-05-28,Texas Health,9,40
+2020-05-28,Texas Military Department,9,41
+2020-05-28,Texas Republican Supreme Court,9,42
+2020-05-28,Vanderbilt University Medical Center,9,43
+2020-05-28,New York Times,10,34
+2020-05-28,Texas A M University,10,35
+2020-05-28,Youtube,10,36
+2020-05-28,American Civil Liberties Union,11,25
+2020-05-28,National Institutes Of Health,11,26
+2020-05-28,Oval Office,11,27
+2020-05-28,Republican Supreme Court,11,28
+2020-05-28,Republican Texas Supreme Court,11,29
+2020-05-28,Story Company,11,30
+2020-05-28,Texas Department Of Criminal Justice,11,31
+2020-05-28,Texas Department Of State Health Services,11,32
+2020-05-28,United States Congress,11,33
+2020-05-28,Drug Administration,12,22
+2020-05-28,Republican Party,12,23
+2020-05-28,Texas Division Of Emergency Management,12,24
+2020-05-28,Johns Hopkins University,13,20
+2020-05-28,National Guard,13,21
+2020-05-28,Health Ministry,14,19
+2020-05-28,Nan,15,18
+2020-05-28,Cnn,16,15
+2020-05-28,Department Of Labor,16,16
+2020-05-28,Justice Department,16,17
+2020-05-28,Democratic Party Of Texas,17,14
+2020-05-28,Google,18,13
+2020-05-28,Centers For Disease,22,12
+2020-05-28,Human Services,23,11
+2020-05-28,Circuit Court,26,9
+2020-05-28,Texas Supreme Court On,26,10
+2020-05-28,Facebook,30,8
+2020-05-28,Reuters,40,7
+2020-05-28,White House,49,6
+2020-05-28,United States,52,5
+2020-05-28,Twitter,53,4
+2020-05-28,Associated Press,59,3
+2020-05-28,Texas Democratic Party,79,2
+2020-05-28,Texas Supreme Court,121,1

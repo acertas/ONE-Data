@@ -28,13 +28,13 @@ date,person,count,rn
 2020-03-07,Michael Devoll,1,4
 2020-03-07,Paula Bailey,1,5
 2020-03-07,Robert Baldwin,1,6
-2020-03-08,Abdolreza Mesri,2,44
-2020-03-08,Ben Kesslen,2,45
-2020-03-08,Cavallini James,2,46
-2020-03-08,Christian Ayers,2,47
-2020-03-08,Erik Ortiz,2,48
-2020-03-08,Giuseppe Conte,2,49
-2020-03-08,Hala Zayed,2,50
+2020-03-08,Ben Kesslen,2,44
+2020-03-08,Cecilia Fabiano Lapresse,2,45
+2020-03-08,Ed Jones,2,46
+2020-03-08,Erik Ortiz,2,47
+2020-03-08,Giuseppe Conte,2,48
+2020-03-08,Kevin Frayer Getty,2,49
+2020-03-08,Laura Kelly,2,50
 2020-03-08,Ashraf Khalil,3,34
 2020-03-08,Bernie Sanders,3,35
 2020-03-08,Dennis Romero,3,36
@@ -83,13 +83,13 @@ date,person,count,rn
 2020-03-09,Ashraf Ghani,3,30
 2020-03-09,Asia Pacific,3,31
 2020-03-09,Christopher Cavoli,3,32
-2020-03-09,Elaine Chao,3,33
-2020-03-09,Frank Mckenzie,3,34
-2020-03-09,Gavin Newsom,3,35
-2020-03-09,Gerd Clabaugh,3,36
-2020-03-09,James Mcconville,3,37
-2020-03-09,John Redd,3,38
-2020-03-09,Jonathan Rath Hoffman,3,39
+2020-03-09,David Norquist,3,33
+2020-03-09,Elaine Chao,3,34
+2020-03-09,Frank Mckenzie,3,35
+2020-03-09,Gavin Newsom,3,36
+2020-03-09,Gerd Clabaugh,3,37
+2020-03-09,James Mcconville,3,38
+2020-03-09,John Redd,3,39
 2020-03-09,Julia Brownley,3,40
 2020-03-09,Karl Schultz,3,41
 2020-03-09,Kate Brown,3,42
@@ -783,43 +783,56 @@ date,person,count,rn
 2020-05-19,Los Angeles,1,8
 2020-05-19,Maureen Elias,1,9
 2020-05-19,Nan,1,10
-2020-05-20,Anatoli Ivanishin,1,1
-2020-05-20,Anatoly Ivanishin,1,2
-2020-05-20,Andrew Morgan,1,3
-2020-05-20,Astrophotographer Mike Cuffe,1,4
-2020-05-20,Casey Jones,1,5
-2020-05-20,Charlie Duke,1,6
-2020-05-20,Chirag Upreti,1,7
-2020-05-20,Chris Cassidy,1,8
-2020-05-20,Esa Xmm-Newton V Parekh,1,9
-2020-05-20,Europe Xmm-Newton,1,10
-2020-05-20,Fred Haise,1,11
-2020-05-20,Gerald Eichst,1,12
-2020-05-20,Gianluca Masi,1,13
-2020-05-20,Hanneke Weitering,1,14
-2020-05-20,Indian Ocean,1,15
-2020-05-20,Isabel Mathew,1,16
-2020-05-20,Ivan Vagner,1,17
-2020-05-20,Jack Swigert,1,18
-2020-05-20,Jessica Meir,1,19
-2020-05-20,Jim Lovell,1,20
-2020-05-20,John Young,1,21
-2020-05-20,Jonathan Mcdowell,1,22
-2020-05-20,Jpl-Caltech Swri Tanya Oleksuik,1,23
-2020-05-20,Ken Mattingly,1,24
-2020-05-20,Kevin Gill,1,25
-2020-05-20,Leonhard Euler,1,26
-2020-05-20,Los Angeles,1,27
-2020-05-20,Meghan Bartels,1,28
-2020-05-20,Nathaniel Mathew,1,29
-2020-05-20,Natlarmymuseum Morgan,1,30
-2020-05-20,Oleg Skripochka,1,31
-2020-05-20,Pacific Ocean,1,32
-2020-05-20,Petr Hor,1,33
-2020-05-20,Ralph Northam,1,34
-2020-05-20,Tariq Malik,1,35
-2020-05-20,Tina Pappas Lee,1,36
-2020-05-20,William Herschel,1,37
+2020-05-20,Alejandro Amaya,1,4
+2020-05-20,Anatoli Ivanishin,1,5
+2020-05-20,Anatoly Ivanishin,1,6
+2020-05-20,Andrew Morgan,1,7
+2020-05-20,Astrophotographer Mike Cuffe,1,8
+2020-05-20,Bijan Ghaisar,1,9
+2020-05-20,Casey Jones,1,10
+2020-05-20,Charlie Duke,1,11
+2020-05-20,Chirag Upreti,1,12
+2020-05-20,Chris Cassidy,1,13
+2020-05-20,Esa Xmm-Newton V Parekh,1,14
+2020-05-20,Europe Xmm-Newton,1,15
+2020-05-20,Fred Haise,1,16
+2020-05-20,Gerald Eichst,1,17
+2020-05-20,Gianluca Masi,1,18
+2020-05-20,Hanneke Weitering,1,19
+2020-05-20,Indian Ocean,1,20
+2020-05-20,Isabel Mathew,1,21
+2020-05-20,Ivan Vagner,1,22
+2020-05-20,Jack Swigert,1,23
+2020-05-20,Jessica Meir,1,24
+2020-05-20,Jim Lovell,1,25
+2020-05-20,John Young,1,26
+2020-05-20,Jonathan Mcdowell,1,27
+2020-05-20,Jpl-Caltech Swri Tanya Oleksuik,1,28
+2020-05-20,Ken Mattingly,1,29
+2020-05-20,Kevin Gill,1,30
+2020-05-20,Kyle Manikas,1,31
+2020-05-20,Lanny Erdos,1,32
+2020-05-20,Leonhard Euler,1,33
+2020-05-20,Los Angeles,1,34
+2020-05-20,Lucas Vinyard,1,35
+2020-05-20,Meghan Bartels,1,36
+2020-05-20,Nathaniel Mathew,1,37
+2020-05-20,Natlarmymuseum Morgan,1,38
+2020-05-20,Oleg Skripochka,1,39
+2020-05-20,Pacific Ocean,1,40
+2020-05-20,Paul Meyer,1,41
+2020-05-20,Petr Hor,1,42
+2020-05-20,Ralph Northam,1,43
+2020-05-20,Rebecca Vanhornby,1,44
+2020-05-20,Sergeant Paul Meyer,1,45
+2020-05-20,Shutterstock Omer Gulas,1,46
+2020-05-20,Steve Descano,1,47
+2020-05-20,Tariq Malik,1,48
+2020-05-20,Thomas Connolly,1,49
+2020-05-20,Tina Pappas Lee,1,50
+2020-05-20,Kyle Wilson,2,1
+2020-05-20,Rebecca Vanhorn,2,2
+2020-05-20,Scott Dingle,2,3
 2020-05-21,Nan,1,4
 2020-05-21,Rebecca Vanhornby,1,5
 2020-05-21,Kyle Wilson,2,1
@@ -883,3 +896,19 @@ date,person,count,rn
 2020-05-26,Yukmila Soriano,1,27
 2020-05-27,Darius Holweg,1,1
 2020-05-27,Tim Kaine,1,2
+2020-05-28,Ann Marie Maher,1,3
+2020-05-28,Cantor Susan Caro,1,4
+2020-05-28,Christine Cutler,1,5
+2020-05-28,Dan Storck,1,6
+2020-05-28,David Platt,1,7
+2020-05-28,Frank Lloyd Wright Pope-Leighey,1,8
+2020-05-28,Jessica Wainer,1,9
+2020-05-28,Jonathan Leeman,1,10
+2020-05-28,Michael Cutler,1,11
+2020-05-28,Rebecca Messman,1,12
+2020-05-28,Rizwan Jaka,1,13
+2020-05-28,Roger Schultz,1,14
+2020-05-28,Sheryl Lynn,1,15
+2020-05-28,Tim Barwick,1,16
+2020-05-28,Deborah Birx,2,1
+2020-05-28,Ralph Northam,2,2

@@ -3644,7 +3644,6 @@ date,organization,count,rn
 2020-04-23,Harvard Institute Of Politics,9,50
 2020-04-23,Pew Research Center,10,47
 2020-04-23,Senate Republican,10,48
-2020-04-23,Emergency Operations Center,11,38
 2020-04-23,Food Bank Council Of Michigan,11,39
 2020-04-23,Michigan Chamber,11,40
 2020-04-23,Michigan Department Of Agriculture,11,41
@@ -3653,8 +3652,9 @@ date,organization,count,rn
 2020-04-23,Rural Development,11,44
 2020-04-23,Skillman Foundation,11,45
 2020-04-23,Washington Post,11,46
-2020-04-23,Public Health,12,36
-2020-04-23,Strategic National,12,37
+2020-04-23,Emergency Operations Center,12,36
+2020-04-23,Public Health,12,37
+2020-04-23,Strategic National,12,38
 2020-04-23,Postal Service,13,34
 2020-04-23,Republican Party,13,35
 2020-04-23,Congressional Budget Office,14,32
@@ -3664,37 +3664,37 @@ date,organization,count,rn
 2020-04-23,New York Times,15,30
 2020-04-23,Toyota,15,31
 2020-04-23,Michigan Office Of The Governor,18,27
-2020-04-23,Democratic Party,19,22
-2020-04-23,Nan,19,23
+2020-04-23,Democratic Party,19,23
 2020-04-23,Paycheck Protection Program,19,24
 2020-04-23,Payroll Protection Program,19,25
 2020-04-23,Senate Majority Leader Mitch Mcconnell,19,26
-2020-04-23,Republicans In Congress,20,21
+2020-04-23,Republicans In Congress,20,22
+2020-04-23,Nan,21,21
 2020-04-23,National Governors Association,24,20
 2020-04-23,A Corrections Department,25,18
 2020-04-23,Thomson Reuters Trust Principles,25,19
 2020-04-23,Small Business Administration,26,17
-2020-04-23,Drug Administration,29,14
-2020-04-23,Henry Ford Health System,29,15
+2020-04-23,Drug Administration,29,15
 2020-04-23,Michigan Department Of Health,29,16
-2020-04-23,Department Of Health,32,12
-2020-04-23,University Of Michigan,32,13
+2020-04-23,Henry Ford Health System,30,14
+2020-04-23,Department Of Health,32,13
+2020-04-23,University Of Michigan,33,12
 2020-04-23,Twitter,34,11
 2020-04-23,Cnn,35,10
-2020-04-23,Beaumont Health,36,9
-2020-04-23,Reuters,46,8
+2020-04-23,Beaumont Health,37,9
+2020-04-23,Reuters,48,8
 2020-04-23,Facebook,52,7
-2020-04-23,Human Services,59,6
+2020-04-23,Human Services,60,6
 2020-04-23,Associated Press,64,5
 2020-04-23,Centers For Disease,67,4
 2020-04-23,Msnbc,75,3
-2020-04-23,United States,84,2
-2020-04-23,White House,115,1
+2020-04-23,United States,87,2
+2020-04-23,White House,117,1
 2020-04-24,Drug Administration,10,46
 2020-04-24,Emergency Management Agency,10,47
 2020-04-24,Kentucky Senate,10,48
 2020-04-24,National Institute Of Allergy,10,49
-2020-04-24,Youtube,10,50
+2020-04-24,United Nations,10,50
 2020-04-24,Cornell University,11,44
 2020-04-24,Supreme Court,11,45
 2020-04-24,Ford Motor Co,12,37
@@ -3714,37 +3714,37 @@ date,organization,count,rn
 2020-04-24,Michigan Department Of Agriculture,16,29
 2020-04-24,Recovery Initiative,16,30
 2020-04-24,Rural Development,17,27
-2020-04-24,Democratic Party,19,25
-2020-04-24,Johns Hopkins University,19,26
-2020-04-24,Food Bank Council Of Michigan,20,23
-2020-04-24,Msnbc,20,24
-2020-04-24,University Of Michigan,21,22
+2020-04-24,Democratic Party,19,26
+2020-04-24,Food Bank Council Of Michigan,20,24
+2020-04-24,Msnbc,20,25
+2020-04-24,Johns Hopkins University,21,22
+2020-04-24,University Of Michigan,21,23
 2020-04-24,Republican Party,23,21
 2020-04-24,Nan,24,20
 2020-04-24,World Health Organization,26,19
 2020-04-24,Cnn,29,18
 2020-04-24,New York Times,30,16
 2020-04-24,Reuters,30,17
-2020-04-24,Centers For Disease,34,15
-2020-04-24,Paycheck Protection Program,35,13
-2020-04-24,Postal Service,35,14
-2020-04-24,Congressional Budget Office,36,10
-2020-04-24,Means Committee,36,11
-2020-04-24,Payroll Protection Program,36,12
+2020-04-24,Paycheck Protection Program,35,14
+2020-04-24,Postal Service,35,15
+2020-04-24,Centers For Disease,36,10
+2020-04-24,Congressional Budget Office,36,11
+2020-04-24,Means Committee,36,12
+2020-04-24,Payroll Protection Program,36,13
 2020-04-24,Michigan Department Of Health,40,9
 2020-04-24,Human Services,42,8
 2020-04-24,Facebook,45,7
 2020-04-24,Senate Majority Leader Mitch Mcconnell,46,6
 2020-04-24,Small Business Administration,48,5
-2020-04-24,Associated Press,59,4
+2020-04-24,Associated Press,60,4
 2020-04-24,Twitter,68,3
 2020-04-24,United States,101,2
 2020-04-24,White House,120,1
-2020-04-25,Baylor College Of Medicine,5,50
+2020-04-25,Baylor College Of Medicine,5,49
+2020-04-25,Children Health Defense,5,50
 2020-04-25,Kaiser Health News,6,46
 2020-04-25,Michigan Senate,6,47
 2020-04-25,Senate District,6,48
-2020-04-25,Youtube,6,49
 2020-04-25,Drug Administration,7,43
 2020-04-25,Instagram,7,44
 2020-04-25,Senate Majority Leader Mike Shirkey,7,45
@@ -3754,42 +3754,42 @@ date,organization,count,rn
 2020-04-25,Toyota,8,42
 2020-04-25,Cnn,9,37
 2020-04-25,Democratic Party,9,38
-2020-04-25,Arkansas Department Of Corrections,10,25
-2020-04-25,Community Correction Center,10,26
-2020-04-25,Department Of Correction,10,27
-2020-04-25,George Washington University,10,28
-2020-04-25,Marion Correctional Institution,10,29
-2020-04-25,Msnbc,10,30
-2020-04-25,Neuse Correctional Institution In Goldsboro,10,31
-2020-04-25,Ohio Department Of Rehabilitation,10,32
-2020-04-25,Stern,10,33
+2020-04-25,American Legislative Exchange Council,10,22
+2020-04-25,Arkansas Department Of Corrections,10,23
+2020-04-25,Community Correction Center,10,24
+2020-04-25,Department Of Correction,10,25
+2020-04-25,George Washington University,10,26
+2020-04-25,Marion Correctional Institution,10,27
+2020-04-25,Msnbc,10,28
+2020-04-25,Neuse Correctional Institution In Goldsboro,10,29
+2020-04-25,Ohio Department Of Rehabilitation,10,30
+2020-04-25,Stern,10,31
+2020-04-25,Tea Party,10,32
+2020-04-25,Tea Party Patriots,10,33
 2020-04-25,Turney Center Industrial,10,34
 2020-04-25,Washington State Department Of Corrections,10,35
 2020-04-25,York Department Of Corrections,10,36
-2020-04-25,American Legislative Exchange Council,11,18
-2020-04-25,Cooley Law School Lansing,11,19
-2020-04-25,Michigan Freedom Fund,11,20
-2020-04-25,Michigan University Cooley Law School,11,21
-2020-04-25,Tea Party,11,22
-2020-04-25,Tea Party Patriots,11,23
-2020-04-25,University Of Texas,11,24
-2020-04-25,Johns Hopkins University,12,15
-2020-04-25,New York Times,12,16
-2020-04-25,Pennsylvania Firearms Association,12,17
+2020-04-25,Cooley Law School Lansing,11,17
+2020-04-25,Michigan Freedom Fund,11,18
+2020-04-25,Michigan University Cooley Law School,11,19
+2020-04-25,New York Times,11,20
+2020-04-25,University Of Texas,11,21
+2020-04-25,Johns Hopkins University,12,14
+2020-04-25,Pennsylvania Firearms Association,12,15
+2020-04-25,University Of Michigan,12,16
 2020-04-25,Michigan Conservative Coalition,13,12
 2020-04-25,Michigan Department Of Health,13,13
-2020-04-25,University Of Michigan,13,14
 2020-04-25,Human Services,14,11
 2020-04-25,Michigan Department Of Corrections,15,9
 2020-04-25,Nan,15,10
 2020-04-25,Associated Press,16,8
+2020-04-25,Republican Party,22,6
 2020-04-25,Reuters,22,7
-2020-04-25,Republican Party,23,6
 2020-04-25,Centers For Disease,26,5
-2020-04-25,Twitter,33,4
-2020-04-25,Facebook,42,3
-2020-04-25,White House,46,2
-2020-04-25,United States,63,1
+2020-04-25,Twitter,32,4
+2020-04-25,Facebook,41,3
+2020-04-25,White House,45,2
+2020-04-25,United States,62,1
 2020-04-26,Council Of Economic Advisers,6,43
 2020-04-26,Department Of Corrections,6,44
 2020-04-26,Department Of Health,6,45
@@ -3798,11 +3798,11 @@ date,organization,count,rn
 2020-04-26,Melinda Gates Foundation,6,48
 2020-04-26,Michigan Department Of Health,6,49
 2020-04-26,Michigan Freedom Fund,6,50
-2020-04-26,Chinese Communist Party,7,38
-2020-04-26,Clorox,7,39
-2020-04-26,Johns Hopkins University,7,40
-2020-04-26,University Of Kansas School Of Law,7,41
-2020-04-26,Youtube,7,42
+2020-04-26,Chinese Communist Party,7,39
+2020-04-26,Clorox,7,40
+2020-04-26,Johns Hopkins University,7,41
+2020-04-26,University Of Kansas School Of Law,7,42
+2020-04-26,Youtube,8,38
 2020-04-26,Democratic Party,9,36
 2020-04-26,New York Times,9,37
 2020-04-26,Cooley Law School Lansing,10,31
@@ -3819,11 +3819,11 @@ date,organization,count,rn
 2020-04-26,Centers For Disease,15,22
 2020-04-26,Us Centers For Disease,15,23
 2020-04-26,World Health Organization,15,24
-2020-04-26,Senate Majority Leader Mitch Mcconnell,18,20
-2020-04-26,Twitter,18,21
+2020-04-26,Senate Majority Leader Mitch Mcconnell,18,21
 2020-04-26,National Governors Association,19,19
+2020-04-26,Twitter,19,20
 2020-04-26,Cnn,23,18
-2020-04-26,Facebook,25,17
+2020-04-26,Facebook,26,17
 2020-04-26,Stern,33,16
 2020-04-26,White House,35,14
 2020-04-26,York Department Of Corrections,35,15
@@ -3839,7 +3839,7 @@ date,organization,count,rn
 2020-04-26,Washington State Department Of Corrections,46,7
 2020-04-26,Michigan Department Of Corrections,50,3
 2020-04-26,Reuters,53,2
-2020-04-26,United States,97,1
+2020-04-26,United States,98,1
 2020-04-27,Access Program For Convalescent Plasma,6,48
 2020-04-27,Carolina Peace Resource Center,6,49
 2020-04-27,China National Health Commission,6,50
@@ -3890,12 +3890,12 @@ date,organization,count,rn
 2020-04-27,White House,48,3
 2020-04-27,United States,49,2
 2020-04-27,Facebook,57,1
-2020-04-28,Democratic Party,8,50
-2020-04-28,Michigan Department Of Corrections,9,45
-2020-04-28,Michigan Economic Recovery Council,9,46
-2020-04-28,Michigan Poison Center,9,47
-2020-04-28,Paycheck Protection Program,9,48
-2020-04-28,Senate Majority Leader Mike Shirkey,9,49
+2020-04-28,Google,9,45
+2020-04-28,Michigan Department Of Corrections,9,46
+2020-04-28,Michigan Economic Recovery Council,9,47
+2020-04-28,Michigan Poison Center,9,48
+2020-04-28,Paycheck Protection Program,9,49
+2020-04-28,Senate Majority Leader Mike Shirkey,9,50
 2020-04-28,Michigan Office Of The Governor,10,42
 2020-04-28,Midwestern University,10,43
 2020-04-28,Walmart,10,44
@@ -3920,10 +3920,10 @@ date,organization,count,rn
 2020-04-28,Senate Majority,16,28
 2020-04-28,National Republican Senatorial Committee,17,21
 2020-04-28,Republican National Committee,17,22
-2020-04-28,Johns Hopkins University,19,19
 2020-04-28,Justice Department,19,20
 2020-04-28,Instagram,20,17
-2020-04-28,Nan,20,18
+2020-04-28,Johns Hopkins University,20,18
+2020-04-28,Nan,20,19
 2020-04-28,Motors Co,21,15
 2020-04-28,Whitmer Michigan Economic Recovery Council,21,16
 2020-04-28,Department Of Justice,22,13
@@ -3935,21 +3935,21 @@ date,organization,count,rn
 2020-04-28,Twitter,31,8
 2020-04-28,Human Services,33,7
 2020-04-28,Reuters,47,6
-2020-04-28,White House,50,5
-2020-04-28,Associated Press,55,4
-2020-04-28,Centers For Disease,56,3
-2020-04-28,University Of Michigan,57,2
-2020-04-28,United States,72,1
+2020-04-28,White House,55,5
+2020-04-28,Centers For Disease,56,4
+2020-04-28,Associated Press,57,2
+2020-04-28,University Of Michigan,57,3
+2020-04-28,United States,77,1
 2020-04-29,Beaumont Health,6,48
 2020-04-29,California Superior Court,6,49
 2020-04-29,Food Bank Council Of Michigan,6,50
-2020-04-29,Centers For Medicare,7,44
-2020-04-29,Democratic Party,7,45
-2020-04-29,Medicaid Services,7,46
-2020-04-29,Michigan State Police,7,47
+2020-04-29,Centers For Medicare,7,45
+2020-04-29,Democratic Party,7,46
+2020-04-29,Medicaid Services,7,47
 2020-04-29,Drug Administration,8,41
 2020-04-29,Michigan Conservative Coalition,8,42
-2020-04-29,Michigan Supreme Court,8,43
+2020-04-29,Michigan State Police,8,43
+2020-04-29,Michigan Supreme Court,8,44
 2020-04-29,Ford Motor Co,9,37
 2020-04-29,Michigan Department Of Corrections,9,38
 2020-04-29,Michigan League,9,39
@@ -3973,9 +3973,9 @@ date,organization,count,rn
 2020-04-29,Senate Leadership Fund,16,22
 2020-04-29,National Republican Senatorial Committee,17,18
 2020-04-29,Senate Majority,17,19
-2020-04-29,Cnn,19,16
 2020-04-29,Republican National Committee,19,17
-2020-04-29,Johns Hopkins University,20,15
+2020-04-29,Cnn,20,15
+2020-04-29,Johns Hopkins University,20,16
 2020-04-29,Nan,21,13
 2020-04-29,Reuters,21,14
 2020-04-29,Instagram,22,11
@@ -3985,11 +3985,11 @@ date,organization,count,rn
 2020-04-29,University Of Michigan,27,8
 2020-04-29,Human Services,30,7
 2020-04-29,Associated Press,34,6
-2020-04-29,Facebook,43,4
 2020-04-29,Libertarian Party,43,5
-2020-04-29,White House,44,3
-2020-04-29,Twitter,56,2
-2020-04-29,United States,81,1
+2020-04-29,Facebook,44,4
+2020-04-29,White House,46,3
+2020-04-29,Twitter,58,2
+2020-04-29,United States,83,1
 2020-04-30,Democratic National Convention,10,44
 2020-04-30,Democratic Senatorial Campaign Committee,10,45
 2020-04-30,Department Of Health,10,46
@@ -4034,8 +4034,8 @@ date,organization,count,rn
 2020-04-30,Michigan Department Of Health,35,8
 2020-04-30,Republican Party,35,9
 2020-04-30,Human Services,43,7
-2020-04-30,Associated Press,48,5
-2020-04-30,Reuters,48,6
+2020-04-30,Associated Press,48,6
+2020-04-30,Reuters,49,5
 2020-04-30,Twitter,55,4
 2020-04-30,Facebook,64,3
 2020-04-30,United States,80,2
@@ -4073,14 +4073,14 @@ date,organization,count,rn
 2020-05-01,National Nurses United,27,20
 2020-05-01,Republican Party,29,19
 2020-05-01,Michigan Department Of Health,30,18
-2020-05-01,Centers For Disease,31,16
 2020-05-01,Johns Hopkins University,31,17
-2020-05-01,Walmart,32,15
+2020-05-01,Centers For Disease,32,15
+2020-05-01,Walmart,32,16
 2020-05-01,Reuters,33,13
 2020-05-01,Senate Republican,33,14
 2020-05-01,University Of Michigan,37,12
 2020-05-01,Human Services,38,11
-2020-05-01,Nan,50,10
+2020-05-01,Nan,51,10
 2020-05-01,Facebook,56,9
 2020-05-01,Senate Majority Leader Mike Shirkey,74,8
 2020-05-01,Cnn,79,7
@@ -4088,8 +4088,8 @@ date,organization,count,rn
 2020-05-01,Michigan State Police,85,5
 2020-05-01,Twitter,87,4
 2020-05-01,Associated Press,98,3
-2020-05-01,United States,120,2
-2020-05-01,White House,140,1
+2020-05-01,United States,122,2
+2020-05-01,White House,141,1
 2020-05-02,Chevron Corp,6,44
 2020-05-02,Gilead Sciences,6,45
 2020-05-02,Harvard University,6,46
@@ -4109,13 +4109,13 @@ date,organization,count,rn
 2020-05-02,United Nations,7,43
 2020-05-02,Health Department,8,32
 2020-05-02,Oval Office,8,33
-2020-05-02,Marquette Branch Prison,9,27
-2020-05-02,Michigan National Guard,9,28
-2020-05-02,Nan,9,29
+2020-05-02,Marquette Branch Prison,9,28
+2020-05-02,Michigan National Guard,9,29
 2020-05-02,National Guard,9,30
 2020-05-02,Supreme Court,9,31
-2020-05-02,National Institute Of Allergy,10,25
-2020-05-02,Youtube,10,26
+2020-05-02,Nan,10,25
+2020-05-02,National Institute Of Allergy,10,26
+2020-05-02,Youtube,10,27
 2020-05-02,Department Of Public Health,11,21
 2020-05-02,Michigan State Police,11,22
 2020-05-02,New York Times,11,23
@@ -4123,9 +4123,9 @@ date,organization,count,rn
 2020-05-02,Michigan Department Of Corrections,12,19
 2020-05-02,Schwartz,12,20
 2020-05-02,Reuters,14,18
-2020-05-02,Centers For Disease,15,16
 2020-05-02,Instagram,15,17
-2020-05-02,World Health Organization,16,15
+2020-05-02,Centers For Disease,16,15
+2020-05-02,World Health Organization,16,16
 2020-05-02,Michigan Department Of Health,17,14
 2020-05-02,Human Services,19,13
 2020-05-02,Senate Majority Leader Mike Shirkey,20,12
@@ -4138,7 +4138,7 @@ date,organization,count,rn
 2020-05-02,Southern Poverty Law Center,33,5
 2020-05-02,Facebook,39,4
 2020-05-02,Associated Press,47,3
-2020-05-02,United States,54,2
+2020-05-02,United States,55,2
 2020-05-02,White House,63,1
 2020-05-03,Google,5,45
 2020-05-03,Green Party,5,46
@@ -4190,15 +4190,15 @@ date,organization,count,rn
 2020-05-03,United States,48,3
 2020-05-03,White House,76,2
 2020-05-03,Cnn,81,1
-2020-05-04,A Centers For Disease,9,42
-2020-05-04,Emergency Services Mark Ghilarducci,9,43
-2020-05-04,Green Party,9,44
-2020-05-04,Henry Ford Health System,9,45
-2020-05-04,Libertarian Party,9,46
-2020-05-04,Michigan Senate Minority Leader Jim Ananich,9,47
-2020-05-04,National Governor Association,9,48
-2020-05-04,Tapper On State Of The Union,9,49
-2020-05-04,Us Navy Blue Angels,9,50
+2020-05-04,A Centers For Disease,8,50
+2020-05-04,Emergency Services Mark Ghilarducci,9,42
+2020-05-04,Green Party,9,43
+2020-05-04,Henry Ford Health System,9,44
+2020-05-04,Libertarian Party,9,45
+2020-05-04,Michigan Senate Minority Leader Jim Ananich,9,46
+2020-05-04,National Governor Association,9,47
+2020-05-04,Tapper On State Of The Union,9,48
+2020-05-04,Us Navy Blue Angels,9,49
 2020-05-04,Michigan Department Of Corrections,10,36
 2020-05-04,National Mall,10,37
 2020-05-04,National Rifle Association,10,38
@@ -4213,109 +4213,109 @@ date,organization,count,rn
 2020-05-04,Public Affairs Research,13,30
 2020-05-04,Republican Party,13,31
 2020-05-04,Emergency Management Agency,14,28
+2020-05-04,Senate Republicans,15,26
 2020-05-04,Southern Poverty Law Center,15,27
 2020-05-04,Arab American National Museum,16,22
 2020-05-04,Census Bureau,16,23
 2020-05-04,Linkedin,16,24
 2020-05-04,Senate Majority Leader Mike Shirkey,16,25
-2020-05-04,Senate Republicans,16,26
-2020-05-04,Michigan State Police,18,21
-2020-05-04,Bloomberg,19,19
+2020-05-04,Tyson Foods,18,21
+2020-05-04,Bloomberg,19,18
+2020-05-04,Michigan State Police,19,19
 2020-05-04,Reuters,19,20
-2020-05-04,Department Of Health,20,17
-2020-05-04,Nan,20,18
-2020-05-04,Tyson Foods,21,16
-2020-05-04,Centers For Disease,22,15
+2020-05-04,Department Of Health,20,16
+2020-05-04,Nan,20,17
+2020-05-04,Centers For Disease,21,15
 2020-05-04,Instagram,23,14
 2020-05-04,New York Times,25,13
 2020-05-04,University Of Michigan,26,12
-2020-05-04,Michigan Department Of Health,32,11
+2020-05-04,Michigan Department Of Health,31,11
 2020-05-04,Supreme Court,38,10
+2020-05-04,Human Services,53,9
 2020-05-04,Facebook,54,8
-2020-05-04,Human Services,54,9
 2020-05-04,Family Dollar,55,7
 2020-05-04,Twitter,57,6
-2020-05-04,Associated Press,63,5
+2020-05-04,Associated Press,60,5
 2020-05-04,Johns Hopkins University,83,4
 2020-05-04,United States,88,3
-2020-05-04,Cnn,122,2
-2020-05-04,White House,142,1
-2020-05-05,A Centers For Disease,13,48
-2020-05-05,Isabella Geriatric Center,13,49
-2020-05-05,Parker Jewish Institute In Queens,13,50
-2020-05-05,A Michigan State Police,14,43
-2020-05-05,Capitol Commission,14,44
+2020-05-04,Cnn,120,2
+2020-05-04,White House,141,1
+2020-05-05,Isabella Geriatric Center,13,48
+2020-05-05,Parker Jewish Institute In Queens,13,49
+2020-05-05,Youtube,13,50
+2020-05-05,A Michigan State Police,14,44
 2020-05-05,Henry Ford Health System,14,45
 2020-05-05,Michigan Information Research Service,14,46
 2020-05-05,Michigan State Capitol Commission,14,47
-2020-05-05,Beaumont Health,15,38
-2020-05-05,New York Mercantile Exchange,15,39
-2020-05-05,Reuters,15,40
-2020-05-05,Walgreens,15,41
-2020-05-05,York Mercantile Exchange,15,42
-2020-05-05,American Health Care Association,17,29
-2020-05-05,Dollar Tree,17,30
-2020-05-05,Emergency Management Agency,17,31
-2020-05-05,Honeywell International,17,32
-2020-05-05,Instagram,17,33
-2020-05-05,Michigan Capitol Commission,17,34
-2020-05-05,Mission District,17,35
-2020-05-05,National Center,17,36
-2020-05-05,Trauma Center,17,37
-2020-05-05,University Of California San Francisco,18,28
+2020-05-05,Beaumont Health,15,37
+2020-05-05,Capitol Commission,15,38
+2020-05-05,Emergency Management Agency,15,39
+2020-05-05,New York Mercantile Exchange,15,40
+2020-05-05,Reuters,15,41
+2020-05-05,Walgreens,15,42
+2020-05-05,York Mercantile Exchange,15,43
+2020-05-05,American Health Care Association,17,30
+2020-05-05,Honeywell International,17,31
+2020-05-05,Instagram,17,32
+2020-05-05,Michigan Capitol Commission,17,33
+2020-05-05,Mission District,17,34
+2020-05-05,National Center,17,35
+2020-05-05,Trauma Center,17,36
+2020-05-05,Dollar Tree,18,28
+2020-05-05,University Of California San Francisco,18,29
+2020-05-05,Tyson Foods,19,26
 2020-05-05,U K Office For National Statistics On,19,27
 2020-05-05,Christie,20,24
 2020-05-05,Michigan State Police,20,25
-2020-05-05,Nan,20,26
-2020-05-05,Fox Business Network,21,20
-2020-05-05,John Hopkins University,21,21
-2020-05-05,Ralphs,21,22
-2020-05-05,Tyson Foods,21,23
+2020-05-05,Fox Business Network,21,21
+2020-05-05,John Hopkins University,21,22
+2020-05-05,Ralphs,21,23
 2020-05-05,Costco,22,17
 2020-05-05,Honeywell,22,18
 2020-05-05,Kroger Health,22,19
+2020-05-05,Nan,22,20
 2020-05-05,Kroger,23,16
+2020-05-05,University Of Michigan,26,15
 2020-05-05,Drug Administration,28,14
-2020-05-05,University Of Michigan,28,15
-2020-05-05,Michigan Department Of Health,34,13
-2020-05-05,Senate Majority Leader Mike Shirkey,35,12
+2020-05-05,Michigan Department Of Health,33,12
+2020-05-05,Senate Majority Leader Mike Shirkey,33,13
 2020-05-05,Centers For Disease,42,10
 2020-05-05,Twitter,42,11
-2020-05-05,Johns Hopkins University,44,9
-2020-05-05,Human Services,51,7
-2020-05-05,New York Times,51,8
+2020-05-05,Johns Hopkins University,45,9
+2020-05-05,Human Services,50,8
+2020-05-05,New York Times,51,7
 2020-05-05,Cnn,58,6
-2020-05-05,Facebook,65,5
-2020-05-05,Associated Press,71,4
-2020-05-05,Family Dollar,103,2
-2020-05-05,United States,103,3
-2020-05-05,White House,116,1
-2020-05-06,Cbs News,6,43
-2020-05-06,Cork University Hospital,6,44
-2020-05-06,Credit George Washington University Hospital,6,45
-2020-05-06,Department Of Health,6,46
-2020-05-06,Diageo,6,47
-2020-05-06,France Federation Of Commerce,6,48
-2020-05-06,Health Brett Giroir,6,49
-2020-05-06,Holly Police,6,50
+2020-05-05,Facebook,66,5
+2020-05-05,Associated Press,68,4
+2020-05-05,Family Dollar,102,3
+2020-05-05,United States,105,2
+2020-05-05,White House,117,1
+2020-05-06,Cbs News,6,44
+2020-05-06,Cork University Hospital,6,45
+2020-05-06,Credit George Washington University Hospital,6,46
+2020-05-06,Department Of Health,6,47
+2020-05-06,Diageo,6,48
+2020-05-06,France Federation Of Commerce,6,49
+2020-05-06,Health Brett Giroir,6,50
 2020-05-06,Board Of Trustees,7,41
 2020-05-06,Justice Department,7,42
+2020-05-06,Research Service,7,43
 2020-05-06,Jewish Democratic Council Of America,8,38
 2020-05-06,Michigan State University,8,39
 2020-05-06,University Of Washington,8,40
-2020-05-06,Cherry Health,9,33
-2020-05-06,Michigan State Capitol Commission,9,34
+2020-05-06,Cherry Health,9,34
 2020-05-06,Michigan State Police,9,35
 2020-05-06,Oval Office,9,36
 2020-05-06,Paycheck Protection Program,9,37
 2020-05-06,Drug Administration,10,25
 2020-05-06,Health Department,10,26
-2020-05-06,Msnbc,10,27
-2020-05-06,Pfizer,10,28
-2020-05-06,Southern Poverty Law Center,10,29
-2020-05-06,Stony Brook University Hospital,10,30
-2020-05-06,Tyson Foods,10,31
-2020-05-06,Youtube,10,32
+2020-05-06,Michigan State Capitol Commission,10,27
+2020-05-06,Msnbc,10,28
+2020-05-06,Pfizer,10,29
+2020-05-06,Southern Poverty Law Center,10,30
+2020-05-06,Stony Brook University Hospital,10,31
+2020-05-06,Tyson Foods,10,32
+2020-05-06,Youtube,10,33
 2020-05-06,Michigan Legislature,11,23
 2020-05-06,York University School Of Global Public Health,11,24
 2020-05-06,Isabella Geriatric Center,13,21
@@ -4324,7 +4324,7 @@ date,organization,count,rn
 2020-05-06,World Health Organization,14,20
 2020-05-06,Parker Jewish Institute In Queens,15,17
 2020-05-06,Senate Majority Leader Mike Shirkey,15,18
-2020-05-06,Reuters,16,16
+2020-05-06,Reuters,17,16
 2020-05-06,Centers For Disease,20,14
 2020-05-06,Nan,20,15
 2020-05-06,Dollar Tree,22,11
@@ -4336,10 +4336,10 @@ date,organization,count,rn
 2020-05-06,Family Dollar,33,6
 2020-05-06,Human Services,33,7
 2020-05-06,Facebook,40,5
-2020-05-06,Cnn,46,4
+2020-05-06,Cnn,47,4
 2020-05-06,Associated Press,51,3
 2020-05-06,White House,72,2
-2020-05-06,United States,89,1
+2020-05-06,United States,90,1
 2020-05-07,American Hospital Association,8,44
 2020-05-07,Democratic Party,8,45
 2020-05-07,Harvard University,8,46
@@ -4414,12 +4414,12 @@ date,organization,count,rn
 2020-05-08,Centers For Medicare,12,27
 2020-05-08,Michigan Capitol Commission,12,28
 2020-05-08,Nan,12,29
-2020-05-08,Dollar Tree,13,24
-2020-05-08,Gilead Sciences,13,25
-2020-05-08,Supreme Court,13,26
-2020-05-08,Google,14,23
+2020-05-08,Dollar Tree,13,25
+2020-05-08,Gilead Sciences,13,26
+2020-05-08,Google,14,24
 2020-05-08,Drug Administration,15,21
-2020-05-08,Walmart,15,22
+2020-05-08,Supreme Court,15,22
+2020-05-08,Walmart,15,23
 2020-05-08,Michigan Supreme Court,16,20
 2020-05-08,Motors Co,17,19
 2020-05-08,Tesla Inc,19,18
@@ -4440,20 +4440,20 @@ date,organization,count,rn
 2020-05-08,White House,50,4
 2020-05-08,Associated Press,59,2
 2020-05-08,United States,77,1
-2020-05-09,Ap Photo Paul Sancya Republican Senate,4,50
-2020-05-09,Democratic Party,5,45
-2020-05-09,Health Care Enhancement,5,46
-2020-05-09,Michigan Supreme Court,5,47
-2020-05-09,Reuters,5,48
-2020-05-09,Wayne County Sheriff Office,5,49
+2020-05-09,Association Of American Medical Colleges,5,46
+2020-05-09,Health Care Enhancement,5,47
+2020-05-09,Health Security,5,48
+2020-05-09,Johns Hopkins Center,5,49
+2020-05-09,Michigan Supreme Court,5,50
 2020-05-09,Amerisourcebergen,6,37
-2020-05-09,Emergency Management Agency,6,38
-2020-05-09,Human Services Department,6,39
-2020-05-09,Michigan State Police,6,40
-2020-05-09,Michigan State University,6,41
-2020-05-09,National Institutes Of Health,6,42
-2020-05-09,National Institutes Of Health Dr,6,43
-2020-05-09,Washington Center,6,44
+2020-05-09,Democratic Party,6,38
+2020-05-09,Emergency Management Agency,6,39
+2020-05-09,Human Services Department,6,40
+2020-05-09,Michigan State Police,6,41
+2020-05-09,Michigan State University,6,42
+2020-05-09,National Institutes Of Health,6,43
+2020-05-09,National Institutes Of Health Dr,6,44
+2020-05-09,Washington Center,6,45
 2020-05-09,Costco Wholesale Club,7,28
 2020-05-09,National Republican Senatorial Committee,7,29
 2020-05-09,New York Times,7,30
@@ -4473,23 +4473,23 @@ date,organization,count,rn
 2020-05-09,Facebook,10,19
 2020-05-09,Sam Club In Fullerton,10,20
 2020-05-09,White House Coronavirus Task,11,18
-2020-05-09,American Academy Of Pediatrics,12,14
-2020-05-09,Department Of Health,12,15
+2020-05-09,American Academy Of Pediatrics,12,15
 2020-05-09,Mcdonald,12,16
 2020-05-09,Michigan Department Of Health,12,17
-2020-05-09,Johns Hopkins University,13,12
-2020-05-09,Supreme Court,13,13
+2020-05-09,Department Of Health,13,12
+2020-05-09,Johns Hopkins University,13,13
+2020-05-09,Supreme Court,13,14
 2020-05-09,Pew Research Center,15,11
-2020-05-09,Us Centers For Disease,16,10
 2020-05-09,Family Dollar,17,9
-2020-05-09,Cnn,19,8
-2020-05-09,University Of Michigan,20,7
+2020-05-09,Us Centers For Disease,17,10
+2020-05-09,Cnn,20,7
+2020-05-09,University Of Michigan,20,8
 2020-05-09,Drug Administration,21,5
 2020-05-09,Human Services,21,6
 2020-05-09,Associated Press,24,4
 2020-05-09,Gilead Sciences,26,3
-2020-05-09,United States,50,2
-2020-05-09,White House,53,1
+2020-05-09,United States,51,2
+2020-05-09,White House,54,1
 2020-05-10,Department Of Veterans Affairs,4,41
 2020-05-10,Ford Motor Company,4,42
 2020-05-10,Indiana Department Of Workforce Development,4,43
@@ -4540,9 +4540,9 @@ date,organization,count,rn
 2020-05-10,Human Services,18,3
 2020-05-10,White House,32,2
 2020-05-10,United States,35,1
-2020-05-11,American Health Care Association,4,48
-2020-05-11,Capital Commission,4,49
-2020-05-11,Department Of Public Health,4,50
+2020-05-11,America Health Insurance Plans,4,48
+2020-05-11,American Health Care Association,4,49
+2020-05-11,Blue Care Network Of Michigan,4,50
 2020-05-11,Family Dollar,5,42
 2020-05-11,National Guard,5,43
 2020-05-11,National Institute Of Allergy,5,44
@@ -4584,37 +4584,37 @@ date,organization,count,rn
 2020-05-11,Senate Majority Leader Mike Shirkey,16,9
 2020-05-11,Centers For Disease,19,8
 2020-05-11,Michigan Department Of Health,21,7
-2020-05-11,Cnn,22,6
-2020-05-11,Human Services,24,5
-2020-05-11,White House,27,4
-2020-05-11,Twitter,28,3
+2020-05-11,Cnn,24,5
+2020-05-11,Human Services,24,6
+2020-05-11,Twitter,28,4
+2020-05-11,White House,29,3
 2020-05-11,Facebook,49,2
 2020-05-11,United States,56,1
-2020-05-12,Alliance For Public Education,6,39
-2020-05-12,Bay Mills Indian Community,6,40
-2020-05-12,During A Senate,6,41
-2020-05-12,Food Bank,6,42
-2020-05-12,Gilean Sciences,6,43
-2020-05-12,Harvard Project On American Indian Economic Development,6,44
-2020-05-12,Japan Ministry Of Health,6,45
-2020-05-12,Michigan Republican Party,6,46
-2020-05-12,National Congress,6,47
-2020-05-12,Oval Office,6,48
-2020-05-12,Republican National Committee,6,49
-2020-05-12,Senate Majority Leader Arlan Meekhof,6,50
-2020-05-12,Democratic National Committee,7,35
-2020-05-12,Michigan Transportation Asset Management Council,7,36
-2020-05-12,Senate Republicans,7,37
-2020-05-12,Transportation Committee,7,38
-2020-05-12,Gilead Sciences,8,29
-2020-05-12,Michigan State University,8,30
-2020-05-12,Morris,8,31
-2020-05-12,Paycheck Protection Program,8,32
-2020-05-12,Senate Minority Leader Jim Ananich,8,33
-2020-05-12,Walmart,8,34
+2020-05-12,Alliance For Public Education,6,41
+2020-05-12,Bay Mills Indian Community,6,42
+2020-05-12,Circuit Court,6,43
+2020-05-12,During A Senate,6,44
+2020-05-12,Food Bank,6,45
+2020-05-12,Ford Motor Co,6,46
+2020-05-12,Gilean Sciences,6,47
+2020-05-12,Harvard Project On American Indian Economic Development,6,48
+2020-05-12,Japan Ministry Of Health,6,49
+2020-05-12,Michigan Republican Party,6,50
+2020-05-12,Democratic National Committee,7,36
+2020-05-12,Honeywell,7,37
+2020-05-12,Michigan Transportation Asset Management Council,7,38
+2020-05-12,Senate Republicans,7,39
+2020-05-12,Transportation Committee,7,40
+2020-05-12,Gilead Sciences,8,30
+2020-05-12,Michigan State University,8,31
+2020-05-12,Morris,8,32
+2020-05-12,Paycheck Protection Program,8,33
+2020-05-12,Senate Minority Leader Jim Ananich,8,34
+2020-05-12,Walmart,8,35
 2020-05-12,Harvard Global Health Institute,9,26
 2020-05-12,Michigan Air National Guard,9,27
-2020-05-12,University Of Michigan Hospital,9,28
+2020-05-12,Thomson Reuters Trust Principles,9,28
+2020-05-12,University Of Michigan Hospital,9,29
 2020-05-12,Centers For Disease,10,23
 2020-05-12,Drug Administration,10,24
 2020-05-12,Tribune Content Agency,10,25
@@ -4623,23 +4623,23 @@ date,organization,count,rn
 2020-05-12,Cnn,12,18
 2020-05-12,New York Times,12,19
 2020-05-12,Supreme Court,12,20
-2020-05-12,Reuters,13,17
-2020-05-12,Treasury Department,14,16
-2020-05-12,Nan,16,15
+2020-05-12,Treasury Department,14,17
+2020-05-12,Nan,16,16
 2020-05-12,Michigan Capitol Commission,19,13
-2020-05-12,Twitter,19,14
+2020-05-12,Reuters,19,14
+2020-05-12,Twitter,19,15
 2020-05-12,Department Of Health,23,10
 2020-05-12,Johns Hopkins University,23,11
 2020-05-12,National Guard,23,12
 2020-05-12,Associated Press,25,9
-2020-05-12,White House,26,8
-2020-05-12,University Of Michigan,27,7
-2020-05-12,Michigan Department Of Health,28,6
-2020-05-12,Capitol Commission,30,5
-2020-05-12,Senate Majority Leader Mike Shirkey,32,4
-2020-05-12,United States,46,3
+2020-05-12,University Of Michigan,27,8
+2020-05-12,Michigan Department Of Health,28,7
+2020-05-12,Capitol Commission,30,6
+2020-05-12,Senate Majority Leader Mike Shirkey,32,5
+2020-05-12,White House,34,4
+2020-05-12,United States,48,3
 2020-05-12,Human Services,52,2
-2020-05-12,Facebook,64,1
+2020-05-12,Facebook,65,1
 2020-05-13,Alliance For Public Education,8,39
 2020-05-13,Centers For Disease Controlin,8,40
 2020-05-13,Health Partners,8,41
@@ -4695,51 +4695,51 @@ date,organization,count,rn
 2020-05-14,Senate Majority Leader Mike Shirkey,12,50
 2020-05-14,Human Services Department,13,47
 2020-05-14,Club Ritz,14,46
-2020-05-14,Johns Hopkins University,16,42
-2020-05-14,Republican National Committee,16,43
-2020-05-14,Tribal Council,16,44
-2020-05-14,Wisconsin Restaurant Association,16,45
-2020-05-14,Ap Michigan Governors Office,17,39
-2020-05-14,Democratic National Committee,17,40
-2020-05-14,Youtube,17,41
+2020-05-14,Youtube,15,45
+2020-05-14,Ap Michigan Governors Office,16,40
+2020-05-14,Johns Hopkins University,16,41
+2020-05-14,Republican National Committee,16,42
+2020-05-14,Tribal Council,16,43
+2020-05-14,Wisconsin Restaurant Association,16,44
+2020-05-14,Democratic National Committee,17,38
+2020-05-14,Unemployment Insurance Agency,17,39
 2020-05-14,Msnbc,18,35
 2020-05-14,National Governors Association On,18,36
 2020-05-14,National Park Service,18,37
-2020-05-14,Unemployment Insurance Agency,18,38
+2020-05-14,Justice Department,19,33
 2020-05-14,Tesla Inc,19,34
-2020-05-14,Federal Reserve,20,31
-2020-05-14,Republicans In Congress,20,32
-2020-05-14,Thomson Reuters Trust Principles,20,33
-2020-05-14,Centers For Disease,21,29
-2020-05-14,Justice Department,21,30
+2020-05-14,Centers For Disease,20,29
+2020-05-14,Federal Reserve,20,30
+2020-05-14,Republicans In Congress,20,31
+2020-05-14,Thomson Reuters Trust Principles,20,32
 2020-05-14,Osborn High School,22,28
-2020-05-14,Democratic Party,23,26
+2020-05-14,Democratic Party,23,25
+2020-05-14,Department Of Licensing,23,26
 2020-05-14,Michigan Department Of Education,23,27
-2020-05-14,Department Of Licensing,25,25
-2020-05-14,Nan,28,24
+2020-05-14,Regulatory Affairs,27,24
+2020-05-14,Nan,28,23
+2020-05-14,Michigan Office Of The Governor,29,21
 2020-05-14,New York Times,29,22
-2020-05-14,Regulatory Affairs,29,23
-2020-05-14,Association Of Wisconsin Tourism Attractions,30,21
+2020-05-14,Association Of Wisconsin Tourism Attractions,30,20
 2020-05-14,Costco,31,19
-2020-05-14,Michigan Office Of The Governor,31,20
 2020-05-14,Tavern League,32,18
 2020-05-14,University Of Michigan,34,17
 2020-05-14,Department Of Health,35,15
 2020-05-14,Michigan Legislature,35,16
 2020-05-14,Department Of Health Services,37,14
-2020-05-14,Reuters,41,13
-2020-05-14,Michigan Department Of Health,42,12
+2020-05-14,Michigan Department Of Health,40,13
+2020-05-14,Reuters,41,12
 2020-05-14,Walmart,49,11
 2020-05-14,Supreme Court,53,10
-2020-05-14,Cnn,65,9
-2020-05-14,Human Services,71,8
-2020-05-14,Facebook,76,7
-2020-05-14,White House,82,6
-2020-05-14,Michigan State Police,85,4
-2020-05-14,Twitter,85,5
-2020-05-14,Wisconsin Supreme Court,102,3
-2020-05-14,United States,123,2
-2020-05-14,Associated Press,128,1
+2020-05-14,Cnn,59,9
+2020-05-14,Human Services,66,8
+2020-05-14,Facebook,74,7
+2020-05-14,White House,76,6
+2020-05-14,Twitter,83,5
+2020-05-14,Michigan State Police,84,4
+2020-05-14,Wisconsin Supreme Court,99,3
+2020-05-14,United States,118,2
+2020-05-14,Associated Press,125,1
 2020-05-15,Democratic National Committee,8,41
 2020-05-15,Drug Administration,8,42
 2020-05-15,House Fiscal Agency Analystjim Stansell,8,43
@@ -4763,14 +4763,14 @@ date,organization,count,rn
 2020-05-15,Georgia Health System,13,29
 2020-05-15,House Fiscal Agency,13,30
 2020-05-15,Attorneys Association Of Michigan,14,28
-2020-05-15,Reuters,15,26
 2020-05-15,Walmart,15,27
 2020-05-15,Centers For Disease,16,20
 2020-05-15,Honda,16,21
 2020-05-15,Justice Department,16,22
 2020-05-15,Mercedes,16,23
-2020-05-15,Subaru,16,24
-2020-05-15,Volkswagen,16,25
+2020-05-15,Reuters,16,24
+2020-05-15,Subaru,16,25
+2020-05-15,Volkswagen,16,26
 2020-05-15,Department Of Labor,18,18
 2020-05-15,Michigan Supreme Court,18,19
 2020-05-15,Michigan State Police,19,17
@@ -4785,10 +4785,10 @@ date,organization,count,rn
 2020-05-15,Cnn,38,7
 2020-05-15,Human Services,38,8
 2020-05-15,Supreme Court,43,6
-2020-05-15,Facebook,44,5
+2020-05-15,Facebook,45,5
 2020-05-15,Wisconsin Supreme Court,47,4
 2020-05-15,Associated Press,54,3
-2020-05-15,White House,60,2
+2020-05-15,White House,62,2
 2020-05-15,United States,89,1
 2020-05-16,A Michigan State Police,5,49
 2020-05-16,A New York Federal Reserve Bank,5,50
@@ -4916,130 +4916,130 @@ date,organization,count,rn
 2020-05-18,Warren Truck Assembly Plant,15,30
 2020-05-18,Thomson Reuters Trust Principles,18,26
 2020-05-18,Republican Legislature,19,25
-2020-05-18,Nan,20,24
-2020-05-18,World Health Organization,21,23
+2020-05-18,Nan,21,23
+2020-05-18,World Health Organization,21,24
 2020-05-18,Johns Hopkins University,22,22
 2020-05-18,Motors Co,24,21
-2020-05-18,Cnn,27,20
-2020-05-18,Ford Motor Company,28,17
-2020-05-18,Michigan Retailers Association,28,18
-2020-05-18,New York Times,28,19
+2020-05-18,Cnn,28,17
+2020-05-18,Ford Motor Company,28,18
+2020-05-18,Michigan Retailers Association,28,19
+2020-05-18,New York Times,28,20
 2020-05-18,Centers For Disease,30,15
 2020-05-18,Senate Republicans,30,16
 2020-05-18,Michigan Department Of Corrections,31,14
 2020-05-18,Ford Motor Co,33,12
 2020-05-18,Michigan Republican Party,33,13
 2020-05-18,Department Of Labor,36,11
-2020-05-18,Ge Healthcare,40,9
-2020-05-18,Twitter,40,10
+2020-05-18,Ge Healthcare,40,10
+2020-05-18,Twitter,41,9
 2020-05-18,Reuters,45,8
 2020-05-18,Associated Press,46,7
 2020-05-18,Michigan Restaurant Lodging Association,49,6
-2020-05-18,Michigan Department Of Health,57,5
+2020-05-18,Michigan Department Of Health,60,5
 2020-05-18,Facebook,62,4
-2020-05-18,Human Services,83,3
+2020-05-18,Human Services,86,3
 2020-05-18,White House,93,2
 2020-05-18,United States,101,1
-2020-05-19,Bureau Of Elections,7,44
-2020-05-19,First National Building,7,45
-2020-05-19,Michigan Conservative Coalition,7,46
-2020-05-19,Michigan Ecnomic Recovery Council,7,47
-2020-05-19,Michigan Health,7,48
-2020-05-19,Michigan Public Service Commission,7,49
-2020-05-19,Michigan Supreme Court,7,50
-2020-05-19,Department Of Health,8,39
-2020-05-19,Michigan Office Of The Governor,8,40
-2020-05-19,Republican National Committee,8,41
-2020-05-19,United Nations,8,42
-2020-05-19,University Of Michigan,8,43
-2020-05-19,Development Ben Carson,9,36
-2020-05-19,Instagram,9,37
-2020-05-19,Minor Inc,9,38
-2020-05-19,Drug Administration,10,31
-2020-05-19,Ford Motor Company,10,32
-2020-05-19,Michigan Chamber,10,33
-2020-05-19,Michigan Retail Association,10,34
-2020-05-19,Tribune Content Agency,10,35
-2020-05-19,Ford Motor Company Rawsonville,11,29
-2020-05-19,Supreme Court,11,30
-2020-05-19,Republican Legislature,12,26
-2020-05-19,Senate Majority Leader Mike Shirkey R-Clarklake,12,27
-2020-05-19,Wayne State University,12,28
-2020-05-19,Department Of Attorney,13,23
-2020-05-19,Reuters,13,24
+2020-05-19,Bureau Of Elections,7,45
+2020-05-19,First National Building,7,46
+2020-05-19,Michigan Conservative Coalition,7,47
+2020-05-19,Michigan Ecnomic Recovery Council,7,48
+2020-05-19,Michigan Health,7,49
+2020-05-19,Michigan Public Service Commission,7,50
+2020-05-19,Department Of Health,8,40
+2020-05-19,Michigan Office Of The Governor,8,41
+2020-05-19,Republican National Committee,8,42
+2020-05-19,United Nations,8,43
+2020-05-19,University Of Michigan,8,44
+2020-05-19,Development Ben Carson,9,37
+2020-05-19,Instagram,9,38
+2020-05-19,Minor Inc,9,39
+2020-05-19,Drug Administration,10,34
+2020-05-19,Ford Motor Company,10,35
+2020-05-19,Republican Party,10,36
+2020-05-19,Ford Motor Company Rawsonville,11,32
+2020-05-19,Tribune Content Agency,11,33
+2020-05-19,Michigan Chamber,12,26
+2020-05-19,Michigan Retail Association,12,27
+2020-05-19,Republican Legislature,12,28
+2020-05-19,Senate Majority Leader Mike Shirkey R-Clarklake,12,29
+2020-05-19,Supreme Court,12,30
+2020-05-19,Wayne State University,12,31
+2020-05-19,Department Of Attorney,13,24
 2020-05-19,World Health Organization,13,25
 2020-05-19,Michigan Department Of Corrections,14,22
-2020-05-19,Facebook,15,21
-2020-05-19,Free Press On,16,18
-2020-05-19,Michigan Economic Recovery Council,16,19
-2020-05-19,Michigan Republican Party,16,20
-2020-05-19,Senate Republicans,17,17
-2020-05-19,Johns Hopkins University,18,16
+2020-05-19,Reuters,14,23
+2020-05-19,Free Press On,16,20
+2020-05-19,Michigan Republican Party,16,21
+2020-05-19,Senate Republicans,17,19
+2020-05-19,Facebook,18,16
+2020-05-19,Johns Hopkins University,18,17
+2020-05-19,Michigan Economic Recovery Council,18,18
 2020-05-19,Department Of Labor,22,15
-2020-05-19,Michigan Retailers Association,23,14
-2020-05-19,Centers For Disease,24,13
-2020-05-19,Honeywell,26,12
-2020-05-19,Twitter,27,11
-2020-05-19,Cnn,28,10
-2020-05-19,Nan,29,9
+2020-05-19,Centers For Disease,24,14
+2020-05-19,Michigan Retailers Association,25,13
+2020-05-19,Honeywell,27,12
+2020-05-19,Cnn,28,11
+2020-05-19,Nan,29,10
+2020-05-19,Twitter,30,9
 2020-05-19,Ge Healthcare,31,8
 2020-05-19,Associated Press,32,7
-2020-05-19,Ford Motor Co,34,6
-2020-05-19,Michigan Restaurant Lodging Association,37,5
-2020-05-19,Michigan Department Of Health,46,4
-2020-05-19,Human Services,57,3
-2020-05-19,United States,61,2
-2020-05-19,White House,93,1
-2020-05-20,Aloysius Church On,1,43
-2020-05-20,Bureau Of Elections,1,44
-2020-05-20,Covenant Medical Center,1,45
-2020-05-20,Covenant Medical Center Harrison,1,46
-2020-05-20,Democratic House Campaign,1,47
-2020-05-20,Eliza Hall Institute Of Medical Research,1,48
-2020-05-20,Federal Reserve,1,49
-2020-05-20,Florida Democratic Party,1,50
-2020-05-20,Centers For Disease Control,2,36
-2020-05-20,Democratic Party,2,37
-2020-05-20,Drug Administration,2,38
-2020-05-20,Lake Superior State University In Sault Ste,2,39
-2020-05-20,Minor Inc,2,40
-2020-05-20,Nan,2,41
-2020-05-20,Northern Michigan University,2,42
-2020-05-20,A Department Of Homeland Security,3,31
-2020-05-20,Bloomfield School District,3,32
-2020-05-20,Ge Healthcare,3,33
-2020-05-20,Twitter,3,34
-2020-05-20,Wayne Intermediate School District,3,35
-2020-05-20,Connecticut Beauty Association,4,12
-2020-05-20,Consumers Energy,4,13
-2020-05-20,Consumers Energy Clean Energy Plan,4,14
-2020-05-20,Energy Music Theatre,4,15
-2020-05-20,Facebook,4,16
-2020-05-20,Ford Motor Company Rawsonville,4,17
-2020-05-20,Google,4,18
-2020-05-20,John Hopkins University,4,19
-2020-05-20,Michigan Conservative Coalition,4,20
-2020-05-20,Movement At Home,4,21
-2020-05-20,Movement Music Festival,4,22
-2020-05-20,Movement Music Festival In Detroit,4,23
-2020-05-20,Museum Of Art,4,24
-2020-05-20,Neuvokas Corporation In Ahmeek,4,25
-2020-05-20,Oval Office,4,26
-2020-05-20,Plymouth Lions Club,4,27
-2020-05-20,Relief Fund,4,28
-2020-05-20,Steven Pham Movement Music Festival,4,29
-2020-05-20,University Of Michigan,4,30
-2020-05-20,World Health Organization,5,10
-2020-05-20,Youtube,5,11
-2020-05-20,Associated Press,6,9
-2020-05-20,Ford Motor Co,7,7
-2020-05-20,Johns Hopkins University,7,8
-2020-05-20,Ford Motor Company,8,6
-2020-05-20,Centers For Disease,9,5
-2020-05-20,Honeywell,12,4
-2020-05-20,United States,13,3
-2020-05-20,Cnn,14,2
-2020-05-20,White House,27,1
+2020-05-19,Ford Motor Co,35,6
+2020-05-19,Michigan Restaurant Lodging Association,39,5
+2020-05-19,Michigan Department Of Health,47,4
+2020-05-19,Human Services,58,3
+2020-05-19,United States,63,2
+2020-05-19,White House,95,1
+2020-05-20,Blue Care Network,11,48
+2020-05-20,Governmental Affairs Committee,11,49
+2020-05-20,Homeland Security Committee,11,50
+2020-05-20,A Senate,12,44
+2020-05-20,Ge Healthcare,12,45
+2020-05-20,Instagram,12,46
+2020-05-20,Office Of Management,12,47
+2020-05-20,Bullock Creek High School,13,39
+2020-05-20,Democratic National Committee,13,40
+2020-05-20,Justice Department,13,41
+2020-05-20,Midland Family Center,13,42
+2020-05-20,Senate Homeland Security,13,43
+2020-05-20,European Union,14,38
+2020-05-20,Ford Motor,16,35
+2020-05-20,Msnbc,16,36
+2020-05-20,Tea Party,16,37
+2020-05-20,New York Times,18,33
+2020-05-20,Republican Party,18,34
+2020-05-20,Youtube,19,32
+2020-05-20,Reuters,21,31
+2020-05-20,Emergency Management Agency,23,29
+2020-05-20,Midland High School,23,30
+2020-05-20,Energy Regulatory Commission,24,28
+2020-05-20,National Guard,26,27
+2020-05-20,Michigan Department Of Health,27,26
+2020-05-20,Bureau Of Elections,28,23
+2020-05-20,Michigan National Guard,28,24
+2020-05-20,Nan,28,25
+2020-05-20,Dow Chemical Co,29,20
+2020-05-20,Ford Motor Co,29,21
+2020-05-20,World Health Organization,29,22
+2020-05-20,Oval Office,30,18
+2020-05-20,Senate Republicans,30,19
+2020-05-20,Dow Chemical,32,17
+2020-05-20,Ford Motor Company,35,16
+2020-05-20,University Of Michigan,37,15
+2020-05-20,Human Services,38,14
+2020-05-20,Honeywell,40,13
+2020-05-20,Michigan Conservative Coalition,41,12
+2020-05-20,Johns Hopkins University,50,11
+2020-05-20,Facebook,60,10
+2020-05-20,National Weather Service,73,9
+2020-05-20,Treasury Department,81,8
+2020-05-20,Centers For Disease,83,7
+2020-05-20,Cnn,87,6
+2020-05-20,United States,95,5
+2020-05-20,Republican National Committee,102,4
+2020-05-20,Twitter,138,3
+2020-05-20,Associated Press,153,2
+2020-05-20,White House,179,1
 2020-05-21,Andrews Air Force,26,49
 2020-05-21,University Of Florida,26,50
 2020-05-21,Columbia University,28,48
@@ -5083,11 +5083,11 @@ date,organization,count,rn
 2020-05-21,Reuters,112,10
 2020-05-21,Republican National Committee,127,9
 2020-05-21,Republican Party,139,8
-2020-05-21,Centers For Disease,151,7
+2020-05-21,Centers For Disease,152,7
 2020-05-21,Twitter,214,6
 2020-05-21,Cnn,247,5
 2020-05-21,Associated Press,273,4
-2020-05-21,United States,335,3
+2020-05-21,United States,336,3
 2020-05-21,Ford Motor Co,391,2
 2020-05-21,White House,695,1
 2020-05-22,Chinese Communist Party,18,48
@@ -5390,3 +5390,53 @@ date,organization,count,rn
 2020-05-27,White House,57,3
 2020-05-27,United States,65,2
 2020-05-27,Twitter,66,1
+2020-05-28,Communications Decency,7,50
+2020-05-28,Agent Charitable Fund,8,34
+2020-05-28,Bureau Of Prisons,8,35
+2020-05-28,Elevator Co,8,36
+2020-05-28,Farm Bureau Insurance,8,37
+2020-05-28,Gleaners Community Food Bank,8,38
+2020-05-28,Governor Office,8,39
+2020-05-28,Justice Department,8,40
+2020-05-28,Michigan Bean Commission,8,41
+2020-05-28,Michigan Department Of Agriculture,8,42
+2020-05-28,Michigan Department Of Licensing,8,43
+2020-05-28,Michigan Farm Bureau Family Of Companies,8,44
+2020-05-28,Michigan Food Bank,8,45
+2020-05-28,Michigan Potato Industry Commission,8,46
+2020-05-28,Recovery Initiative,8,47
+2020-05-28,Republican National Committee,8,48
+2020-05-28,Rural Development,8,49
+2020-05-28,Michigan Department Of Environment,9,29
+2020-05-28,Michigan Department Of Treasury,9,30
+2020-05-28,Regulatory Affairs,9,31
+2020-05-28,Universal Studios,9,32
+2020-05-28,World Health Organization,9,33
+2020-05-28,Circuit Court,10,23
+2020-05-28,Food Bank Council Of Michigan,10,24
+2020-05-28,Michigan National Guard,10,25
+2020-05-28,Michigan State Police,10,26
+2020-05-28,New York Times,10,27
+2020-05-28,University Of California,10,28
+2020-05-28,Michigan Court,11,22
+2020-05-28,Bipartisan Policy Center,12,19
+2020-05-28,Department Of Health,12,20
+2020-05-28,Senate Oversight Committee,12,21
+2020-05-28,American Enterprise Institute,13,17
+2020-05-28,Supreme Court,13,18
+2020-05-28,National Guard,15,16
+2020-05-28,Department Of Justice,16,15
+2020-05-28,Bloomfield School District,21,14
+2020-05-28,Michigan Supreme Court,25,13
+2020-05-28,Johns Hopkins University,28,12
+2020-05-28,Senate Majority Leader Mitch Mcconnell,29,11
+2020-05-28,Cnn,31,9
+2020-05-28,University Of Michigan,31,10
+2020-05-28,White House,32,8
+2020-05-28,Centers For Disease,33,7
+2020-05-28,Facebook,38,4
+2020-05-28,Michigan Department Of Health,38,5
+2020-05-28,Twitter,38,6
+2020-05-28,Associated Press,49,3
+2020-05-28,Human Services,50,2
+2020-05-28,United States,58,1

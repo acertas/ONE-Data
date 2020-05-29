@@ -4113,14 +4113,10 @@ date,organization,count,rn
 2020-04-25,Exxon,3,47
 2020-04-25,Glaxosmithkline Plc,3,48
 2020-04-25,Google,3,49
-2020-04-25,Home Owner Loan Corporation,3,50
-2020-04-25,Boeing,4,18
-2020-04-25,Centers For Disease,4,19
-2020-04-25,Christ Medical Center,4,20
-2020-04-25,Community First Medical Center,4,21
-2020-04-25,Department Of Health Ohio,4,22
-2020-04-25,Department Of Public Health,4,23
-2020-04-25,Embraer,4,24
+2020-04-25,Health Ministry On,3,50
+2020-04-25,Centers For Disease,4,22
+2020-04-25,Christ Medical Center,4,23
+2020-04-25,Community First Medical Center,4,24
 2020-04-25,Emory University School Of Medicine,4,25
 2020-04-25,Illinois Masonic Medical Center,4,26
 2020-04-25,Infectious Diseases Society Of America,4,27
@@ -4130,21 +4126,25 @@ date,organization,count,rn
 2020-04-25,Reckitt Benckiser Group,4,31
 2020-04-25,Rush University Medical Center,4,32
 2020-04-25,Small Business Administration,4,33
-2020-04-25,Department Of Homeland Security,5,10
-2020-04-25,Elizabeth Medical Center,5,11
-2020-04-25,Facebook,5,12
-2020-04-25,Health Saints Mary,5,13
-2020-04-25,Illinois Department Of Public Health,5,14
-2020-04-25,Nan,5,15
-2020-04-25,Paycheck Protection Program,5,16
-2020-04-25,Treasury Department,5,17
-2020-04-25,Bloomberg,6,8
+2020-04-25,Boeing,5,12
+2020-04-25,Department Of Homeland Security,5,13
+2020-04-25,Elizabeth Medical Center,5,14
+2020-04-25,Embraer,5,15
+2020-04-25,Facebook,5,16
+2020-04-25,Health Saints Mary,5,17
+2020-04-25,Illinois Department Of Public Health,5,18
+2020-04-25,Nan,5,19
+2020-04-25,Paycheck Protection Program,5,20
+2020-04-25,Treasury Department,5,21
 2020-04-25,Cnn,6,9
-2020-04-25,Reuters,7,6
-2020-04-25,Twitter,7,7
-2020-04-25,Johns Hopkins University,11,5
-2020-04-25,Associated Press,12,4
-2020-04-25,White House,15,3
+2020-04-25,Department Of Health Ohio,6,10
+2020-04-25,Department Of Public Health,6,11
+2020-04-25,Reuters,7,8
+2020-04-25,Bloomberg,8,6
+2020-04-25,Twitter,8,7
+2020-04-25,Associated Press,12,5
+2020-04-25,Johns Hopkins University,13,4
+2020-04-25,White House,16,3
 2020-04-25,World Health Organization,17,2
 2020-04-25,United States,31,1
 2020-04-26,Airbus,3,31
@@ -4397,20 +4397,20 @@ date,organization,count,rn
 2020-04-30,Illinois Department Of Public Health,27,3
 2020-04-30,Boeing,28,2
 2020-04-30,United States,53,1
-2020-05-01,Airline Weekly,7,40
-2020-05-01,Airlines For America,7,41
-2020-05-01,Atmosphere Research Group,7,42
-2020-05-01,Dallas Fort Worth International Airport,7,43
-2020-05-01,Francis Medical Center,7,44
-2020-05-01,Health Care,7,45
-2020-05-01,Johns Hopkins University School Of Nursing,7,46
-2020-05-01,Little Company Of Mary Medical Center,7,47
-2020-05-01,Newton Care Center,7,48
-2020-05-01,Ohare International Airport,7,49
-2020-05-01,San Diego International Airport,7,50
-2020-05-01,Campaign For Tobacco,8,37
-2020-05-01,National Institute On Drug Abuse,8,38
-2020-05-01,Paycheck Protection Program,8,39
+2020-05-01,Airline Weekly,7,41
+2020-05-01,Airlines For America,7,42
+2020-05-01,Atmosphere Research Group,7,43
+2020-05-01,Dallas Fort Worth International Airport,7,44
+2020-05-01,Francis Medical Center,7,45
+2020-05-01,Health Care,7,46
+2020-05-01,Johns Hopkins University School Of Nursing,7,47
+2020-05-01,Little Company Of Mary Medical Center,7,48
+2020-05-01,Newton Care Center,7,49
+2020-05-01,Ohare International Airport,7,50
+2020-05-01,A Justice Department,8,37
+2020-05-01,Campaign For Tobacco,8,38
+2020-05-01,National Institute On Drug Abuse,8,39
+2020-05-01,Paycheck Protection Program,8,40
 2020-05-01,Gilead Sciences,9,33
 2020-05-01,Illinois State University,9,34
 2020-05-01,International Air Transport Association,9,35
@@ -4424,9 +4424,9 @@ date,organization,count,rn
 2020-05-01,Instagram,13,25
 2020-05-01,Shore University Hospital,13,26
 2020-05-01,World Health Organization,13,27
-2020-05-01,Cnn,14,21
-2020-05-01,Illinois Department Of Public Health,14,22
+2020-05-01,Cnn,14,22
 2020-05-01,Nan,14,23
+2020-05-01,Illinois Department Of Public Health,15,21
 2020-05-01,Tribune Content Agency,18,20
 2020-05-01,Association Of Flight Attendants,22,13
 2020-05-01,Aviation Administration,22,14
@@ -4444,9 +4444,9 @@ date,organization,count,rn
 2020-05-01,Drug Administration,33,6
 2020-05-01,American Airlines,34,5
 2020-05-01,Centers For Disease,39,4
-2020-05-01,Associated Press,42,2
 2020-05-01,United States,42,3
-2020-05-01,White House,43,1
+2020-05-01,White House,43,2
+2020-05-01,Associated Press,44,1
 2020-05-02,Ap Legal Affairs Writer Michael Tarm,3,43
 2020-05-02,City Council,3,44
 2020-05-02,Delta Air Lines,3,45
@@ -4643,7 +4643,7 @@ date,organization,count,rn
 2020-05-05,Purdue University,17,10
 2020-05-05,James Beard Foundation,18,6
 2020-05-05,United Airlines,24,5
-2020-05-05,Centers For Disease,26,4
+2020-05-05,Centers For Disease,27,4
 2020-05-05,Reuters,33,3
 2020-05-05,White House,38,2
 2020-05-05,United States,46,1
@@ -4697,23 +4697,23 @@ date,organization,count,rn
 2020-05-06,Facebook,20,3
 2020-05-06,White House,35,2
 2020-05-06,United States,48,1
-2020-05-07,Alliance Healthcare,5,47
-2020-05-07,Altitude Health Services,5,48
-2020-05-07,Democratic Party,5,49
-2020-05-07,Harvard Medical School,5,50
-2020-05-07,Emergency Management Agency,6,45
-2020-05-07,Illinois Department Of Corrections,6,46
-2020-05-07,Civil Works Administration,7,35
-2020-05-07,Department Of Labor,7,36
-2020-05-07,Diagnostics Inc,7,37
-2020-05-07,Illinois Department Of Public Health For,7,38
-2020-05-07,Morgan,7,39
-2020-05-07,Muzak Corporation,7,40
-2020-05-07,New York Times,7,41
-2020-05-07,Society For Post,7,42
-2020-05-07,Tommy,7,43
-2020-05-07,Union Pacific Railroad,7,44
-2020-05-07,Tribune Content Agency,8,34
+2020-05-07,Civil Works Administration,5,42
+2020-05-07,Democratic Party,5,43
+2020-05-07,Department Of Labor,5,44
+2020-05-07,Emergency Management Agency,5,45
+2020-05-07,Javits Center As New York Gov,5,46
+2020-05-07,Morgan,5,47
+2020-05-07,Muzak Corporation,5,48
+2020-05-07,Network Science Institute,5,49
+2020-05-07,Network Science Institute At Northeastern University,5,50
+2020-05-07,Illinois Department Of Corrections,6,39
+2020-05-07,New York Times,6,40
+2020-05-07,Rehabilitation Center,6,41
+2020-05-07,Diagnostics Inc,7,36
+2020-05-07,Illinois Department Of Public Health For,7,37
+2020-05-07,Society For Post,7,38
+2020-05-07,Supreme Court,8,34
+2020-05-07,Tribune Content Agency,8,35
 2020-05-07,Alden Network,9,31
 2020-05-07,Illinois Association Of Health Care Facilities,9,32
 2020-05-07,Virginia Commonwealth University,9,33
@@ -4733,20 +4733,20 @@ date,organization,count,rn
 2020-05-07,Army Corps Of Engineers,11,16
 2020-05-07,Reuters,11,17
 2020-05-07,Treasury Department,11,18
-2020-05-07,Department Of Justice,12,11
-2020-05-07,Federal Reserve Bank,12,12
+2020-05-07,Department Of Justice,12,10
+2020-05-07,Federal Reserve Bank,12,11
+2020-05-07,Northwestern University,12,12
 2020-05-07,Paycheck Protection Program,12,13
 2020-05-07,Tree Of Life Justice League,12,14
-2020-05-07,Northwestern University,13,10
-2020-05-07,Facebook,14,8
-2020-05-07,Labor Department,14,9
-2020-05-07,Associated Press,15,7
-2020-05-07,Cnn,17,5
-2020-05-07,Nan,17,6
-2020-05-07,White House,19,4
+2020-05-07,Facebook,13,9
+2020-05-07,Labor Department,14,8
+2020-05-07,Associated Press,15,6
+2020-05-07,Cnn,15,7
+2020-05-07,Nan,16,5
+2020-05-07,White House,18,4
 2020-05-07,Illinois Department Of Public Health,23,3
-2020-05-07,Centers For Disease,32,2
-2020-05-07,United States,60,1
+2020-05-07,Centers For Disease,31,2
+2020-05-07,United States,56,1
 2020-05-08,American Heart Association,4,47
 2020-05-08,Athersys Inc,4,48
 2020-05-08,Brookings Institution,4,49
@@ -4911,31 +4911,31 @@ date,organization,count,rn
 2020-05-11,Treasury Department,4,48
 2020-05-11,Tyson Foods Inc,4,49
 2020-05-11,United Parcel Service,4,50
-2020-05-11,Anthony,5,26
-2020-05-11,Arlington Heights School District,5,27
-2020-05-11,Benito Juarez Community Academy,5,28
-2020-05-11,Elim Romanian Pentecostal Church,5,29
-2020-05-11,Google,5,30
-2020-05-11,Mansueto High School,5,31
-2020-05-11,Melinda Gates Foundation,5,32
-2020-05-11,National Education Association,5,33
-2020-05-11,Thomas Middle School In Arlington Heights,5,34
-2020-05-11,Walmart,5,35
+2020-05-11,Anthony,5,28
+2020-05-11,Arlington Heights School District,5,29
+2020-05-11,Benito Juarez Community Academy,5,30
+2020-05-11,Google,5,31
+2020-05-11,Mansueto High School,5,32
+2020-05-11,Melinda Gates Foundation,5,33
+2020-05-11,National Education Association,5,34
+2020-05-11,Thomas Middle School In Arlington Heights,5,35
 2020-05-11,Winnetka School District,5,36
-2020-05-11,Department Of Public Health,6,25
-2020-05-11,Community Organized Relief Effort,7,22
-2020-05-11,Office Building,7,23
-2020-05-11,University Of Chicago,7,24
+2020-05-11,Department Of Public Health,6,26
+2020-05-11,Walmart,6,27
+2020-05-11,Community Organized Relief Effort,7,23
+2020-05-11,Office Building,7,24
+2020-05-11,University Of Chicago,7,25
 2020-05-11,Abbott Laboratories,8,17
 2020-05-11,Drug Administration On,8,18
 2020-05-11,Eisenhower Executive Office Building,8,19
-2020-05-11,Members Of The Secret Service,8,20
-2020-05-11,New York Times,8,21
-2020-05-11,Economic Policy Institute,10,12
-2020-05-11,Family Christian Health Center,10,13
-2020-05-11,Nan,10,14
-2020-05-11,Reuters,10,15
-2020-05-11,Thompson Center,10,16
+2020-05-11,Elim Romanian Pentecostal Church,8,20
+2020-05-11,Members Of The Secret Service,8,21
+2020-05-11,New York Times,8,22
+2020-05-11,Economic Policy Institute,10,13
+2020-05-11,Family Christian Health Center,10,14
+2020-05-11,Nan,10,15
+2020-05-11,Reuters,10,16
+2020-05-11,Thompson Center,11,12
 2020-05-11,Pew Research Center,14,11
 2020-05-11,Facebook,15,10
 2020-05-11,National Institute Of Allergy,18,9
@@ -4943,8 +4943,8 @@ date,organization,count,rn
 2020-05-11,Associated Press,23,5
 2020-05-11,Centers For Disease,23,6
 2020-05-11,Illinois Department Of Public Health,23,7
-2020-05-11,Cnn,25,3
 2020-05-11,Twitter,25,4
+2020-05-11,Cnn,27,3
 2020-05-11,United States,34,2
 2020-05-11,White House,35,1
 2020-05-12,American Academy Of Liturgy,3,36
@@ -4988,8 +4988,8 @@ date,organization,count,rn
 2020-05-12,Illinois Supreme Court,10,12
 2020-05-12,Reuters,11,11
 2020-05-12,University Of Chicago,12,10
-2020-05-12,Nan,13,9
 2020-05-12,Centers For Disease,14,8
+2020-05-12,Nan,14,9
 2020-05-12,Associated Press,16,4
 2020-05-12,Facebook,16,5
 2020-05-12,White House,16,6
@@ -5297,17 +5297,16 @@ date,organization,count,rn
 2020-05-18,Facebook,23,3
 2020-05-18,Twitter,24,2
 2020-05-18,United States,42,1
-2020-05-19,Brave Space Alliance,3,45
-2020-05-19,Cass Information Systems,3,46
-2020-05-19,Census Bureau American Community,3,47
-2020-05-19,Clare Progressive Catholic Church,3,48
-2020-05-19,Drug Administration,3,49
-2020-05-19,Elections Commission,3,50
+2020-05-19,Brave Space Alliance,3,46
+2020-05-19,Cass Information Systems,3,47
+2020-05-19,Census Bureau American Community,3,48
+2020-05-19,Clare Progressive Catholic Church,3,49
+2020-05-19,Democratic Union,3,50
 2020-05-19,Catholic News Service,4,42
 2020-05-19,Metro Praise International Church On,4,43
-2020-05-19,Youtube,4,44
-2020-05-19,Elim Romanian Pentecostal Church On,5,36
-2020-05-19,Health Administration,5,37
+2020-05-19,Service Employees International Union,4,44
+2020-05-19,Youtube,4,45
+2020-05-19,Elim Romanian Pentecostal Church On,5,37
 2020-05-19,Instagram,5,38
 2020-05-19,New York Times,5,39
 2020-05-19,Religion News Foundation,5,40
@@ -5317,10 +5316,11 @@ date,organization,count,rn
 2020-05-19,Boeing,6,29
 2020-05-19,Catholic University Of America,6,30
 2020-05-19,Chicago Depaul University,6,31
-2020-05-19,United Airline,6,32
-2020-05-19,United Express,6,33
-2020-05-19,University Of Notre Dame,6,34
-2020-05-19,Us Airways,6,35
+2020-05-19,Health Administration,6,32
+2020-05-19,United Airline,6,33
+2020-05-19,United Express,6,34
+2020-05-19,University Of Notre Dame,6,35
+2020-05-19,Us Airways,6,36
 2020-05-19,Catholic Diocese Of Knoxville,8,25
 2020-05-19,Nan,8,26
 2020-05-19,American Airlines,9,17
@@ -5341,62 +5341,62 @@ date,organization,count,rn
 2020-05-19,European Union,11,10
 2020-05-19,Metro Praise International Church,12,8
 2020-05-19,Tribune Content Agency,13,7
-2020-05-19,Facebook,15,6
-2020-05-19,Centers For Disease,16,4
-2020-05-19,Human Services,16,5
+2020-05-19,Centers For Disease,16,5
+2020-05-19,Human Services,16,6
 2020-05-19,Associated Press,17,3
+2020-05-19,Facebook,17,4
 2020-05-19,Twitter,29,2
-2020-05-19,United States,52,1
-2020-05-20,Albert Einstein College Of Medicine,1,32
-2020-05-20,American Farm Bureau Federation,1,33
-2020-05-20,American Meat Institute,1,34
-2020-05-20,Associated Press,1,35
-2020-05-20,Cargill,1,36
-2020-05-20,Centers For Disease,1,37
-2020-05-20,Commission On Government Forecasting,1,38
-2020-05-20,Costco,1,39
-2020-05-20,Council On Contemporary Families,1,40
-2020-05-20,Daley Center,1,41
-2020-05-20,Drug Administration,1,42
-2020-05-20,Emerson College,1,43
-2020-05-20,Family Therapy Training Center,1,44
-2020-05-20,Georgetown University,1,45
-2020-05-20,Girls Club,1,46
-2020-05-20,Howard University,1,47
-2020-05-20,Human Services,1,48
-2020-05-20,Illinois National Guard,1,49
-2020-05-20,Inspection Service,1,50
-2020-05-20,Catholic Diocese Of Knoxville,2,10
-2020-05-20,Council Of Bishops,2,11
-2020-05-20,Facebook,2,12
-2020-05-20,Federation Of Diocesan Liturgical,2,13
-2020-05-20,Glacier National Park,2,14
-2020-05-20,Great Sand Dunes National Park,2,15
-2020-05-20,Illinois Department Of Public Health,2,16
-2020-05-20,Lutheran Church,2,17
-2020-05-20,Mercedes Benz,2,18
-2020-05-20,Mountain National Park,2,19
-2020-05-20,National Domestic Workers Alliance,2,20
-2020-05-20,National Parks,2,21
-2020-05-20,Porsche,2,22
-2020-05-20,Public Health,2,23
-2020-05-20,Saint Ambrose Catholic Church,2,24
-2020-05-20,Syracuse University,2,25
-2020-05-20,Theodore Roosevelt National Park,2,26
-2020-05-20,Thomistic Institute,2,27
-2020-05-20,United Methodist Church,2,28
-2020-05-20,University Of Chicago,2,29
-2020-05-20,Wind Cave National Park,2,30
-2020-05-20,Youtube,2,31
-2020-05-20,Community Organized Relief Effort,4,5
-2020-05-20,Gibsons Restaurant Group,4,6
-2020-05-20,James Beard Foundation,4,7
-2020-05-20,Montessori School Of Englewood,4,8
-2020-05-20,White House,4,9
-2020-05-20,Science Academy,5,2
-2020-05-20,Tribune Content Agency,5,3
-2020-05-20,Twitter,5,4
-2020-05-20,United States,7,1
+2020-05-19,United States,54,1
+2020-05-20,Clorox Co,7,50
+2020-05-20,American Civil Liberties Union,8,45
+2020-05-20,Clorox,8,46
+2020-05-20,Drug Administration,8,47
+2020-05-20,Instagram,8,48
+2020-05-20,Service Employees International Union,8,49
+2020-05-20,Defense Ministry,9,41
+2020-05-20,European Union,9,42
+2020-05-20,Spanish Health,9,43
+2020-05-20,Walmart,9,44
+2020-05-20,Employment Security Department,10,35
+2020-05-20,International Monetary,10,36
+2020-05-20,Parliament On,10,37
+2020-05-20,Popular Party,10,38
+2020-05-20,Spain Supreme Court,10,39
+2020-05-20,World Bank,10,40
+2020-05-20,Mcdonald,11,33
+2020-05-20,New York Times,11,34
+2020-05-20,Illinois Department Of Public Health,13,28
+2020-05-20,Lear Corp,13,29
+2020-05-20,Public Health,13,30
+2020-05-20,Tribune Content Agency,13,31
+2020-05-20,Youtube,13,32
+2020-05-20,Energy Regulatory Commission,14,24
+2020-05-20,National Weather Service On,14,25
+2020-05-20,United Airlines,14,26
+2020-05-20,University Of Notre Dame,14,27
+2020-05-20,Johns Hopkins University,15,21
+2020-05-20,Reuters,15,22
+2020-05-20,World Health Organization,15,23
+2020-05-20,Dow Chemical,17,17
+2020-05-20,Dow Chemical Co,17,18
+2020-05-20,National Weather Service,17,19
+2020-05-20,Public Affairs Research,17,20
+2020-05-20,White House,21,16
+2020-05-20,Mount Pilgrim Missionary Baptist Church,28,15
+2020-05-20,America Food Fund,29,10
+2020-05-20,Barclays Center,29,11
+2020-05-20,Centers For Disease,29,12
+2020-05-20,Forum In Inglewood,29,13
+2020-05-20,Relief Fund,29,14
+2020-05-20,Twitter,30,9
+2020-05-20,Living Classrooms Foundation,33,8
+2020-05-20,Girls Club Of East Mississippi,34,7
+2020-05-20,Mount Zion Baptist Church,36,5
+2020-05-20,Tennessee State University,36,6
+2020-05-20,Oprah Winfrey Charitable Foundation,47,4
+2020-05-20,United States,51,3
+2020-05-20,Facebook,57,2
+2020-05-20,Associated Press,78,1
 2020-05-21,Dow Chemical Co,6,47
 2020-05-21,Illinois National Guard,6,48
 2020-05-21,Illinois Restaurant Association,6,49
@@ -5675,13 +5675,13 @@ date,organization,count,rn
 2020-05-26,Illinois Department Of Public Health,6,23
 2020-05-26,Instagram,6,24
 2020-05-26,National Academy Of Television Arts,6,25
+2020-05-26,Institute For Policy Research At Northwestern University,8,21
 2020-05-26,University Of Kentucky College Of Law,8,22
-2020-05-26,Institute For Legal Reform,9,20
-2020-05-26,University Of Detroit Mercy,9,21
-2020-05-26,Institute For Policy Research At Northwestern University,10,16
-2020-05-26,University Of Louisville,10,17
-2020-05-26,University Of Wyoming College Of Law,10,18
-2020-05-26,World Health Organization,10,19
+2020-05-26,Institute For Legal Reform,9,19
+2020-05-26,University Of Detroit Mercy,9,20
+2020-05-26,University Of Louisville,10,16
+2020-05-26,University Of Wyoming College Of Law,10,17
+2020-05-26,World Health Organization,10,18
 2020-05-26,Centers For Disease,11,11
 2020-05-26,Facebook,11,12
 2020-05-26,Fordham University,11,13
@@ -5693,10 +5693,10 @@ date,organization,count,rn
 2020-05-26,Mcdonald,13,8
 2020-05-26,Radio Television Digital News Association,13,9
 2020-05-26,United Press International,13,10
-2020-05-26,Nan,16,4
+2020-05-26,Nan,15,4
 2020-05-26,White House,25,3
 2020-05-26,United States,26,2
-2020-05-26,Associated Press,34,1
+2020-05-26,Associated Press,33,1
 2020-05-27,Adtalem Global Education Foundation,3,49
 2020-05-27,Adtalem Global Education Inc,3,50
 2020-05-27,Bureau Of Investigation,4,36
@@ -5747,3 +5747,53 @@ date,organization,count,rn
 2020-05-27,United States,32,4
 2020-05-27,Twitter,36,2
 2020-05-27,Associated Press,42,1
+2020-05-28,American Eagle Outfitters,3,47
+2020-05-28,Amtrak,3,48
+2020-05-28,Ap National News,3,49
+2020-05-28,Bloomberg,3,50
+2020-05-28,Disney,4,38
+2020-05-28,Ford Explorer Police Interceptor,4,39
+2020-05-28,Google,4,40
+2020-05-28,Illinois Policy Institute,4,41
+2020-05-28,Infiniti,4,42
+2020-05-28,Nissan,4,43
+2020-05-28,Northwestern University,4,44
+2020-05-28,Ohio State University,4,45
+2020-05-28,World Health Organization,4,46
+2020-05-28,Centers For Disease,5,34
+2020-05-28,Depaul University,5,35
+2020-05-28,European Union,5,36
+2020-05-28,Public Affairs Research,5,37
+2020-05-28,American Airlines,6,22
+2020-05-28,Circuit Court,6,23
+2020-05-28,Diamond Group,6,24
+2020-05-28,Economic Policy Institute,6,25
+2020-05-28,Johns Hopkins University,6,26
+2020-05-28,Paycheck Protection Program,6,27
+2020-05-28,Service Employees International Union,6,28
+2020-05-28,Small Business Administration,6,29
+2020-05-28,Supreme Court,6,30
+2020-05-28,Tribune Content Agency,6,31
+2020-05-28,Union Pacific,6,32
+2020-05-28,W Diamond Group,6,33
+2020-05-28,Cnn,7,13
+2020-05-28,Communications Workers Of America,7,14
+2020-05-28,Detention Center,7,15
+2020-05-28,Dill Pickle Co,7,16
+2020-05-28,International Union,7,17
+2020-05-28,Managers Association,7,18
+2020-05-28,National Labor Relations Board,7,19
+2020-05-28,Reuters,7,20
+2020-05-28,Workers Union,7,21
+2020-05-28,Block Club,8,9
+2020-05-28,Boeing,8,10
+2020-05-28,Elim Romanian Pentecostal Church,8,11
+2020-05-28,Nan,8,12
+2020-05-28,Mcdonald,9,8
+2020-05-28,Illinois Department Of Public Health,11,6
+2020-05-28,White House,11,7
+2020-05-28,Twitter,12,5
+2020-05-28,University Of Chicago,13,4
+2020-05-28,Facebook,17,3
+2020-05-28,Associated Press,21,2
+2020-05-28,United States,24,1

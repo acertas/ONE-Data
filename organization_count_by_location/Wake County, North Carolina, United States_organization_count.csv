@@ -2548,32 +2548,31 @@ date,organization,count,rn
 2020-04-26,Sheriff Office,6,16
 2020-04-26,Treyburn Rehabilitation Center,6,17
 2020-04-26,United States,6,18
-2020-04-27,Amway,1,42
-2020-04-27,Assembly Speaker Robin Vos,1,43
-2020-04-27,Atrium Health,1,44
-2020-04-27,Central Piedmont Community College,1,45
-2020-04-27,Citizen Free,1,46
-2020-04-27,Cooper Department Of Health,1,47
-2020-04-27,Department Of Health Services,1,48
-2020-04-27,Department Of Transportation,1,49
-2020-04-27,Federal Reserve,1,50
+2020-04-27,Amway,1,44
+2020-04-27,Assembly Speaker Robin Vos,1,45
+2020-04-27,Atrium Health,1,46
+2020-04-27,Central Piedmont Community College,1,47
+2020-04-27,Citizen Free,1,48
+2020-04-27,Cooper Department Of Health,1,49
+2020-04-27,Department Of Health Services,1,50
 2020-04-27,Carolina Community Tracing Collaborative,2,32
 2020-04-27,Cnn,2,33
 2020-04-27,Department Of Emergency Management,2,34
-2020-04-27,Los Angeles County Sheriff Department,2,35
-2020-04-27,Microsoft,2,36
-2020-04-27,Msnbc,2,37
-2020-04-27,New York Times,2,38
-2020-04-27,Paycheck Protection Program,2,39
-2020-04-27,Rahm Emanuelcolumbia University,2,40
-2020-04-27,Senate Minority Leader Chuck Schumer,2,41
+2020-04-27,Department Of Transportation,2,35
+2020-04-27,Los Angeles County Sheriff Department,2,36
+2020-04-27,Microsoft,2,37
+2020-04-27,Msnbc,2,38
+2020-04-27,New York Times,2,39
+2020-04-27,Paycheck Protection Program,2,40
+2020-04-27,Rahm Emanuelcolumbia University,2,41
+2020-04-27,Senate Minority Leader Chuck Schumer,2,42
+2020-04-27,University Of North Carolina,2,43
 2020-04-27,Carolina Department Of Public Safety,4,27
 2020-04-27,Department Of Public Safety,4,28
 2020-04-27,Netflix,4,29
 2020-04-27,York Fire Department,4,30
 2020-04-27,York Police Department,4,31
 2020-04-27,Carolina Correctional Institution For Women,5,26
-2020-04-27,Associated Press,6,10
 2020-04-27,Carolina Department Of Public Instruction,6,11
 2020-04-27,Communicable Disease Branch,6,12
 2020-04-27,Coronavirus Task,6,13
@@ -2590,10 +2589,11 @@ date,organization,count,rn
 2020-04-27,Treyburn Rehabilitation Center,6,24
 2020-04-27,Vidant Health,6,25
 2020-04-27,American Airlines,7,5
-2020-04-27,Department Of Health,7,6
-2020-04-27,Division Of Employment Security,7,7
-2020-04-27,Rehabilitation Center,7,8
-2020-04-27,United States,7,9
+2020-04-27,Associated Press,7,6
+2020-04-27,Department Of Health,7,7
+2020-04-27,Division Of Employment Security,7,8
+2020-04-27,Rehabilitation Center,7,9
+2020-04-27,United States,7,10
 2020-04-27,Carolina Department Of Health,8,2
 2020-04-27,Centers For Disease,8,3
 2020-04-27,Facebook,8,4
@@ -3594,23 +3594,56 @@ date,organization,count,rn
 2020-05-19,Stewart Detention Center,2,7
 2020-05-19,Centers For Disease,3,1
 2020-05-19,United States,3,2
-2020-05-20,Bureau Of Prisons,1,4
-2020-05-20,Call The Health Department,1,5
-2020-05-20,Carolina Department Of Health,1,6
-2020-05-20,Department Of Employment Security,1,7
-2020-05-20,Health Department,1,8
-2020-05-20,Health Mandy Cohen,1,9
-2020-05-20,Icahn School Of Medicine At Mount Sinai,1,10
-2020-05-20,Korean Centers For Disease,1,11
-2020-05-20,Manna Church,1,12
-2020-05-20,Moderna Inc,1,13
-2020-05-20,Nc Department Of Transportation,1,14
-2020-05-20,Vanderbilt University Medical Center,1,15
-2020-05-20,World Health,1,16
-2020-05-20,World Health Organization,1,17
-2020-05-20,Centers For Disease,2,2
-2020-05-20,Department Of Health,2,3
-2020-05-20,Human Services,3,1
+2020-05-20,Bureau Of Prisons,1,26
+2020-05-20,Call The Health Department,1,27
+2020-05-20,Carolina Council Of Churches,1,28
+2020-05-20,Carolina Department Of Transportation,1,29
+2020-05-20,Carolina Senate,1,30
+2020-05-20,Christian Group Calls On Congress To Investigate,1,31
+2020-05-20,Concord Police Seize,1,32
+2020-05-20,Department Of Employment Security,1,33
+2020-05-20,Department Of Public Health,1,34
+2020-05-20,Drug Administration,1,35
+2020-05-20,Early College,1,36
+2020-05-20,Hair Is Essential Association,1,37
+2020-05-20,Health Department,1,38
+2020-05-20,Health Mandy Cohen,1,39
+2020-05-20,Icahn School Of Medicine At Mount Sinai,1,40
+2020-05-20,Korean Centers For Disease,1,41
+2020-05-20,Manna Church,1,42
+2020-05-20,Meck Commissioners Form Recovery Task,1,43
+2020-05-20,Moderna Inc,1,44
+2020-05-20,National Weather Service,1,45
+2020-05-20,Nc Department Of Transportation,1,46
+2020-05-20,Network Monitoring,1,47
+2020-05-20,Quarry View Court,1,48
+2020-05-20,Recovery Task,1,49
+2020-05-20,Senate Judiciary Committee,1,50
+2020-05-20,Carolina Department Of Health,2,22
+2020-05-20,Health Care,2,23
+2020-05-20,John Locke Foundation,2,24
+2020-05-20,Senate Majority Leader Mitch Mcconnell,2,25
+2020-05-20,Department Of Health,3,20
+2020-05-20,Warnermedia Company,3,21
+2020-05-20,Baltimore Health,4,15
+2020-05-20,Family Dollar,4,16
+2020-05-20,Human Services,4,17
+2020-05-20,Mcdonald,4,18
+2020-05-20,Workers International Union,4,19
+2020-05-20,Centers For Disease,6,14
+2020-05-20,Giant Food,7,5
+2020-05-20,Retail Industry Leaders Association,7,6
+2020-05-20,Sam Club,7,7
+2020-05-20,Sam Club In Fullerton,7,8
+2020-05-20,Team Members,7,9
+2020-05-20,United States,7,10
+2020-05-20,University Of Nicosia,7,11
+2020-05-20,Us Centers For Disease,7,12
+2020-05-20,Walmart,7,13
+2020-05-20,Facebook,8,3
+2020-05-20,Johns Hopkins University,8,4
+2020-05-20,White House,9,2
+2020-05-20,Cnn,16,1
 2020-05-21,Brewery Nightclub Association,1,24
 2020-05-21,Carolina Complete Count Commission,1,25
 2020-05-21,Carolina Craft Brewers Guild,1,26
@@ -3883,3 +3916,38 @@ date,organization,count,rn
 2020-05-27,Gibson,2,6
 2020-05-27,Morrison,2,7
 2020-05-27,Facebook,3,1
+2020-05-28,Advantage College Planning,1,22
+2020-05-28,Associated Press,1,23
+2020-05-28,Baltimore Health,1,24
+2020-05-28,Carolina University,1,25
+2020-05-28,Department Of Employment Security,1,26
+2020-05-28,Department Of Health,1,27
+2020-05-28,Elementary School In Raleigh,1,28
+2020-05-28,Facebook,1,29
+2020-05-28,Human Services,1,30
+2020-05-28,Johns Hopkins University,1,31
+2020-05-28,Saint Augustine University In Raleigh,1,32
+2020-05-28,Sanderson High School,1,33
+2020-05-28,Us Centers For Disease,1,34
+2020-05-28,William Peace University,1,35
+2020-05-28,Brody Gold Humanism Honor Society,2,4
+2020-05-28,Brody School Of Medicine,2,5
+2020-05-28,Centers For Disease,2,6
+2020-05-28,Computing Services,2,7
+2020-05-28,Cypress Glen Retirement Center,2,8
+2020-05-28,Department Of Bioethics,2,9
+2020-05-28,Department Of Economics,2,10
+2020-05-28,Department Of Engineering,2,11
+2020-05-28,Department Of Statistics,2,12
+2020-05-28,Gold Foundation,2,13
+2020-05-28,Gold Humanism Honor Society,2,14
+2020-05-28,Information Technology,2,15
+2020-05-28,Nan,2,16
+2020-05-28,Rehabilitation Center,2,17
+2020-05-28,Union St,2,18
+2020-05-28,Vidant Health,2,19
+2020-05-28,Vidant Medical Center,2,20
+2020-05-28,Village Center,2,21
+2020-05-28,Cnn,3,1
+2020-05-28,United States,3,2
+2020-05-28,White House,3,3

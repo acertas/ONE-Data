@@ -3059,50 +3059,50 @@ date,organization,count,rn
 2020-04-25,Higher Education Emergency Relief Fund,7,3
 2020-04-25,White House,7,4
 2020-04-25,United States,10,1
-2020-04-26,Alvarium Beer Co,2,24
-2020-04-26,Auto Group,2,25
-2020-04-26,Bad Sons Co,2,26
-2020-04-26,Central Connecticut State University,2,27
-2020-04-26,Congregate Care Workforce Stabilization Fund,2,28
-2020-04-26,Conn Beerd Brewing Co,2,29
-2020-04-26,Conn Pottertown Brewing Co,2,30
-2020-04-26,Conn Tox Brewing Co,2,31
-2020-04-26,Conn Tribus Beer Co,2,32
-2020-04-26,Connecticut Restaurant Association,2,33
-2020-04-26,Ct Brewers Guild,2,34
-2020-04-26,Ct Hospitality Employee Relief Fund,2,35
-2020-04-26,Ct Restaurant Association,2,36
-2020-04-26,Department Of Correction,2,37
-2020-04-26,Department Of Education,2,38
-2020-04-26,Department Of Public Health,2,39
-2020-04-26,Educational Foundation,2,40
-2020-04-26,Ellington Ad Hoc Patriotic Committee,2,41
-2020-04-26,England Brewing Co,2,42
-2020-04-26,Guild Pils,2,43
-2020-04-26,Hartford Foundation For,2,44
-2020-04-26,Higher Education Emergency Relief Fund,2,45
-2020-04-26,Hollow Brewing Company Bristol,2,46
-2020-04-26,Institute For Health Metrics,2,47
-2020-04-26,Iowa Pork Producers Association,2,48
-2020-04-26,Parks Division,2,49
-2020-04-26,Paycheck Protection Program,2,50
-2020-04-26,A Department Of Homeland Security,3,19
-2020-04-26,Department Of Health,3,20
-2020-04-26,Human Services,3,21
-2020-04-26,National Guard,3,22
-2020-04-26,Office Of Health,3,23
+2020-04-26,Alvarium Beer Co,2,25
+2020-04-26,Auto Group,2,26
+2020-04-26,Bad Sons Co,2,27
+2020-04-26,Central Connecticut State University,2,28
+2020-04-26,Congregate Care Workforce Stabilization Fund,2,29
+2020-04-26,Conn Beerd Brewing Co,2,30
+2020-04-26,Conn Pottertown Brewing Co,2,31
+2020-04-26,Conn Tox Brewing Co,2,32
+2020-04-26,Conn Tribus Beer Co,2,33
+2020-04-26,Connecticut Restaurant Association,2,34
+2020-04-26,Ct Brewers Guild,2,35
+2020-04-26,Ct Hospitality Employee Relief Fund,2,36
+2020-04-26,Ct Restaurant Association,2,37
+2020-04-26,Department Of Correction,2,38
+2020-04-26,Department Of Education,2,39
+2020-04-26,Department Of Public Health,2,40
+2020-04-26,Educational Foundation,2,41
+2020-04-26,Ellington Ad Hoc Patriotic Committee,2,42
+2020-04-26,England Brewing Co,2,43
+2020-04-26,Golden Crest Nursing Centre,2,44
+2020-04-26,Guild Pils,2,45
+2020-04-26,Hartford Foundation For,2,46
+2020-04-26,Higher Education Emergency Relief Fund,2,47
+2020-04-26,Hollow Brewing Company Bristol,2,48
+2020-04-26,Institute For Health Metrics,2,49
+2020-04-26,Iowa Pork Producers Association,2,50
+2020-04-26,A Department Of Homeland Security,3,21
+2020-04-26,Department Of Health,3,22
+2020-04-26,National Guard,3,23
+2020-04-26,Paycheck Protection Program,3,24
 2020-04-26,A Pew Research Center,4,7
 2020-04-26,American Civil Liberties Union,4,8
 2020-04-26,Harvard Kennedy School Of Government,4,9
 2020-04-26,Health Statistics,4,10
-2020-04-26,Kansas Department Of Health,4,11
-2020-04-26,Kansas Senate,4,12
-2020-04-26,Mcdonald,4,13
-2020-04-26,National Center,4,14
-2020-04-26,National Governors Association,4,15
-2020-04-26,National Institute Of Allergy,4,16
-2020-04-26,Senate Majority Leader Mitch Mcconnell,4,17
-2020-04-26,World Health Organization,4,18
+2020-04-26,Human Services,4,11
+2020-04-26,Kansas Department Of Health,4,12
+2020-04-26,Kansas Senate,4,13
+2020-04-26,Mcdonald,4,14
+2020-04-26,National Center,4,15
+2020-04-26,National Governors Association,4,16
+2020-04-26,National Institute Of Allergy,4,17
+2020-04-26,Office Of Health,4,18
+2020-04-26,Senate Majority Leader Mitch Mcconnell,4,19
+2020-04-26,World Health Organization,4,20
 2020-04-26,Facebook,5,4
 2020-04-26,Google,5,5
 2020-04-26,Johns Hopkins University,5,6
@@ -4220,14 +4220,14 @@ date,organization,count,rn
 2020-05-19,Ocean State Coalition,2,40
 2020-05-19,Office For Civil Rights,2,41
 2020-05-19,Paul Quinn College,2,42
-2020-05-19,Pixar,2,43
-2020-05-19,Portland Press Herald,2,44
-2020-05-19,Providence City Council,2,45
-2020-05-19,Providence Police,2,46
-2020-05-19,Rhode Island Department Of Health,2,47
-2020-05-19,Rhode Island Department Of Health On,2,48
-2020-05-19,Rhode Island School Of Design,2,49
-2020-05-19,School Of The Art Insititute,2,50
+2020-05-19,Paycheck Protection Program,2,43
+2020-05-19,Pixar,2,44
+2020-05-19,Portland Press Herald,2,45
+2020-05-19,Providence City Council,2,46
+2020-05-19,Providence Police,2,47
+2020-05-19,Rhode Island Department Of Health,2,48
+2020-05-19,Rhode Island Department Of Health On,2,49
+2020-05-19,Rhode Island School Of Design,2,50
 2020-05-19,American Civil Liberties Union Of Rhode Island,3,16
 2020-05-19,Nan,3,17
 2020-05-19,White House,3,18
@@ -4246,15 +4246,56 @@ date,organization,count,rn
 2020-05-19,Google,13,2
 2020-05-19,Twitter,13,3
 2020-05-19,Department Of Health,16,1
-2020-05-20,Department Of Health,1,1
-2020-05-20,Department Of Public Health,1,2
-2020-05-20,Dunkin Donuts Center,1,3
-2020-05-20,Google,1,4
-2020-05-20,Infosys,1,5
-2020-05-20,Johnson Wales University,1,6
-2020-05-20,Narragansett Town Council,1,7
-2020-05-20,Roch Fresh Foods,1,8
-2020-05-20,Town Council,1,9
+2020-05-20,Aaron Stubbs,2,42
+2020-05-20,Association Of Town Solicitors,2,43
+2020-05-20,Brennan Center Democracy Program,2,44
+2020-05-20,Bryant University,2,45
+2020-05-20,Centers For Medicare,2,46
+2020-05-20,Club Fitness Of Vermont,2,47
+2020-05-20,Connie Harrison,2,48
+2020-05-20,Dallas Koehn,2,49
+2020-05-20,Department Of Children,2,50
+2020-05-20,American Civil Liberties Union,3,30
+2020-05-20,American Civil Liberties Union Of Rhode Island,3,31
+2020-05-20,American Health Care Association,3,32
+2020-05-20,Anthony,3,33
+2020-05-20,Chilean Air,3,34
+2020-05-20,Coronavirus Food Assistance Program,3,35
+2020-05-20,Dunkin Donuts Center,3,36
+2020-05-20,Facebook,3,37
+2020-05-20,Johnson Wales University,3,38
+2020-05-20,Joshua Tree National Park,3,39
+2020-05-20,Providence College,3,40
+2020-05-20,Supreme Court,3,41
+2020-05-20,Department Of Public Works,4,24
+2020-05-20,Navy Beach,4,25
+2020-05-20,Notre Dame University,4,26
+2020-05-20,Ocean State Coalition,4,27
+2020-05-20,University Of Notre Dame,4,28
+2020-05-20,Watchdog Team,4,29
+2020-05-20,Jeonmin High School In Daejeon,5,22
+2020-05-20,National Guard,5,23
+2020-05-20,Google,6,19
+2020-05-20,Narragansett Town Council,6,20
+2020-05-20,Ponder High School,6,21
+2020-05-20,Infosys,7,15
+2020-05-20,Mass At Christ The King Catholic Church,7,16
+2020-05-20,Rhode Island Department Of Health,7,17
+2020-05-20,Twitter,7,18
+2020-05-20,Popular Party,8,13
+2020-05-20,Town Council,8,14
+2020-05-20,California State University,9,12
+2020-05-20,Department Of Health,14,10
+2020-05-20,Human Services,14,11
+2020-05-20,Health Security,16,8
+2020-05-20,Johns Hopkins Center,16,9
+2020-05-20,Roman Catholic Diocese Of Providence,17,7
+2020-05-20,Department Of Public Health,18,6
+2020-05-20,Virtual Family Assistance Center,21,5
+2020-05-20,City Council,23,3
+2020-05-20,Johns Hopkins University,23,4
+2020-05-20,United States,32,2
+2020-05-20,Associated Press,40,1
 2020-05-21,American Health Care Association,2,43
 2020-05-21,Bay Media Group,2,44
 2020-05-21,Beacon Communications,2,45
@@ -4604,3 +4645,53 @@ date,organization,count,rn
 2020-05-27,Rhode Island National Guard,17,3
 2020-05-27,House Oversight Committee,18,2
 2020-05-27,Department Of Health,19,1
+2020-05-28,Alabama State Health,2,39
+2020-05-28,American Airlines,2,40
+2020-05-28,Blackstone Valley Community Health Care,2,41
+2020-05-28,Commerce Department,2,42
+2020-05-28,Delta Airlines,2,43
+2020-05-28,Drug Administration,2,44
+2020-05-28,Facebook,2,45
+2020-05-28,Falvey Insurance Group,2,46
+2020-05-28,Hampshire Coalition Of Recovery Residences,2,47
+2020-05-28,Holy Family Church,2,48
+2020-05-28,Johns Hopkins University,2,49
+2020-05-28,Martyrs Church,2,50
+2020-05-28,American Health Care Association,3,27
+2020-05-28,Arlington National Cemetery,3,28
+2020-05-28,Centers For Disease,3,29
+2020-05-28,Faculty Practice Plan Services,3,30
+2020-05-28,Harborview Medical Center,3,31
+2020-05-28,Health Emergencies Program,3,32
+2020-05-28,National Capital Region Gen,3,33
+2020-05-28,Oregon Health Authority,3,34
+2020-05-28,Providence Journal School,3,35
+2020-05-28,Republican National Convention,3,36
+2020-05-28,University Of Washington Medical Center,3,37
+2020-05-28,Veterans Affairs Hospital In Portland,3,38
+2020-05-28,Department Of Environmental Management,4,19
+2020-05-28,England First Amendment Coalition,4,20
+2020-05-28,Rhode Island Broadcasters Association,4,21
+2020-05-28,Rhode Island Department Of Health,4,22
+2020-05-28,Rhode Island National Guard Pfc,4,23
+2020-05-28,Rhode Island Press Association,4,24
+2020-05-28,Rhode Island Public Transit Authority,4,25
+2020-05-28,World Health Organization,4,26
+2020-05-28,Rhode Island National Guard,5,18
+2020-05-28,Boston College,6,12
+2020-05-28,Community College Of Rhode Island,6,13
+2020-05-28,Department Of Education,6,14
+2020-05-28,Johnson Wales University,6,15
+2020-05-28,Rhode Island College,6,16
+2020-05-28,University Of Rhode Island,6,17
+2020-05-28,Department Of Labor,7,10
+2020-05-28,White House,7,11
+2020-05-28,American Civil Liberties Union Of Rhode Island,9,5
+2020-05-28,Division Of Motor Vehicles,9,6
+2020-05-28,Providence Performing Arts Center,9,7
+2020-05-28,Rhode Island Commerce Corporation,9,8
+2020-05-28,United States,9,9
+2020-05-28,House Oversight Committee,10,4
+2020-05-28,Twitter,11,3
+2020-05-28,Associated Press,15,2
+2020-05-28,Department Of Health,18,1

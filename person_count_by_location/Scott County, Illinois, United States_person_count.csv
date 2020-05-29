@@ -47,24 +47,24 @@ date,person,count,rn
 2020-02-27,Nancy Messonnier,79,3
 2020-02-27,Donald Trump,81,2
 2020-02-27,Mike Pence,91,1
-2020-02-28,Aaron Jackson,1,36
 2020-02-28,Amy Jones,1,37
 2020-02-28,Amy Thoreson,1,38
-2020-02-28,Beth Meyerson,1,39
-2020-02-28,Charlie Brown,1,40
-2020-02-28,Ed Clere,1,41
-2020-02-28,Forrest Crawford,1,42
-2020-02-28,Greg Gonsalves,1,43
+2020-02-28,Augusta Waterville,1,39
+2020-02-28,Beth Meyerson,1,40
+2020-02-28,Charlie Brown,1,41
+2020-02-28,Dan Mcclain,1,42
+2020-02-28,Jacob Howell,1,43
 2020-02-28,Janet Hill,1,44
 2020-02-28,Jim Merritt,1,45
-2020-02-28,John Croasdell,1,46
-2020-02-28,John Mellencamp,1,47
-2020-02-28,Li Wenliang,1,48
-2020-02-28,Nan,1,49
+2020-02-28,Jimmy Kimmel,1,46
+2020-02-28,John Croasdell,1,47
+2020-02-28,John Mellencamp,1,48
+2020-02-28,Li Wenliang,1,49
 2020-02-28,Ngozi Ezike,1,50
 2020-02-28,Ken Dilanian,2,33
 2020-02-28,Leana Wen,2,34
-2020-02-28,Tom Davies,2,35
+2020-02-28,Nan,2,35
+2020-02-28,Tom Davies,2,36
 2020-02-28,Alain Berset,3,25
 2020-02-28,Aston Martin,3,26
 2020-02-28,Daniel Arkin,3,27
@@ -885,6 +885,14 @@ date,person,count,rn
 2020-05-19,Kris Schiffler,2,3
 2020-05-19,Tim Walz,2,4
 2020-05-19,William Cashman,2,5
+2020-05-20,Agua Fresca Cerveza,1,3
+2020-05-20,Brendan Mcgivney,1,4
+2020-05-20,Nan,1,5
+2020-05-20,Primus Microcerveceria,1,6
+2020-05-20,Shannon Kinsella,1,7
+2020-05-20,Terrence Antonio James,1,8
+2020-05-20,Brian Lynch,2,1
+2020-05-20,Kinley Graber,2,2
 2020-05-23,Tate Reeves,1,1
 2020-05-23,Thomas Dobbs,1,2
 2020-05-24,Barbara Cegavske,1,1
@@ -918,3 +926,36 @@ date,person,count,rn
 2020-05-27,Steve May,1,8
 2020-05-27,Tabytha Luikens,1,9
 2020-05-27,Tim Walz,1,10
+2020-05-28,Abby Finkenauer,1,4
+2020-05-28,Amanda Waske,1,5
+2020-05-28,Anthony Fauci,1,6
+2020-05-28,Bill Lee,1,7
+2020-05-28,Bobby Schilling,1,8
+2020-05-28,Brett Giroir,1,9
+2020-05-28,Cindy Axne,1,10
+2020-05-28,Dave Loebsack,1,11
+2020-05-28,David Cleary,1,12
+2020-05-28,Jamie Fitzgerald,1,13
+2020-05-28,Jared Effler,1,14
+2020-05-28,Jeanny Phillips,1,15
+2020-05-28,Jeff Tibbals,1,16
+2020-05-28,Jim Jordan,1,17
+2020-05-28,Kim Reynolds,1,18
+2020-05-28,Lamar Alexander,1,19
+2020-05-28,Mariannette Miller,1,20
+2020-05-28,Michelle King,1,21
+2020-05-28,Paul Pate,1,22
+2020-05-28,Rick Phillips,1,23
+2020-05-28,Rita Hart,1,24
+2020-05-28,Robert Redfield,1,25
+2020-05-28,Roxanna Moritz,1,26
+2020-05-28,Scott Countians,1,27
+2020-05-28,Stephen Hahn,1,28
+2020-05-28,Steve King,1,29
+2020-05-28,Steven Everly,1,30
+2020-05-28,Tim Borchardt,1,31
+2020-05-28,Travis Weipert,1,32
+2020-05-28,Trousdale Turner,1,33
+2020-05-28,Joni Ernst,2,2
+2020-05-28,Nan,2,3
+2020-05-28,Donald Trump,3,1

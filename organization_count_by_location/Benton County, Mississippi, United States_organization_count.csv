@@ -3423,18 +3423,18 @@ date,organization,count,rn
 2020-04-23,Department Of Employment,4,48
 2020-04-23,Homeland Security Advisory Council,4,49
 2020-04-23,Kennewick High School,4,50
-2020-04-23,Economic Development,5,35
-2020-04-23,Health Regulation,5,36
-2020-04-23,Hormel,5,37
-2020-04-23,Hormel Foods,5,38
-2020-04-23,Human Services,5,39
+2020-04-23,Economic Development,5,36
+2020-04-23,Health Regulation,5,37
+2020-04-23,Hormel,5,38
+2020-04-23,Hormel Foods,5,39
 2020-04-23,Infectious Disease Research,5,40
 2020-04-23,M Medical School,5,41
 2020-04-23,Minnesota Health Department,5,42
 2020-04-23,Senate Majority Leader Mitch Mcconnell,5,43
 2020-04-23,Emergency Operations Center,6,32
-2020-04-23,Iowa Department Of Public Health,6,33
-2020-04-23,Tyson Fresh Meats Group,6,34
+2020-04-23,Human Services,6,33
+2020-04-23,Iowa Department Of Public Health,6,34
+2020-04-23,Tyson Fresh Meats Group,6,35
 2020-04-23,Minnesota Chamber,7,31
 2020-04-23,Minnesota Fund,8,30
 2020-04-23,Albanian Parliament,9,24
@@ -3446,26 +3446,26 @@ date,organization,count,rn
 2020-04-23,Youtube,11,23
 2020-04-23,European Commission,13,21
 2020-04-23,Pakistan Medical Association,13,22
-2020-04-23,Alliance Defending Freedom,14,15
-2020-04-23,Army Commander Shavendra Silva,14,16
-2020-04-23,Cnn,14,17
-2020-04-23,Department Of Health,14,18
+2020-04-23,Alliance Defending Freedom,14,16
+2020-04-23,Army Commander Shavendra Silva,14,17
+2020-04-23,Cnn,14,18
 2020-04-23,Justice Department,14,19
 2020-04-23,World Heath Organization,14,20
+2020-04-23,Department Of Health,15,15
 2020-04-23,International Mother Earth Day,18,14
 2020-04-23,Twitter,22,13
 2020-04-23,European Union,27,12
 2020-04-23,Associated Press,28,11
-2020-04-23,Facebook,29,10
+2020-04-23,Facebook,30,10
 2020-04-23,Threat Analysis Group,33,9
 2020-04-23,Google,34,8
 2020-04-23,Centers For Disease,39,7
 2020-04-23,Minnesota Department Of Health,43,6
 2020-04-23,United Nations,44,5
-2020-04-23,White House,47,4
+2020-04-23,White House,48,4
 2020-04-23,World Health Organization,50,3
-2020-04-23,University Of Minnesota,85,2
-2020-04-23,United States,86,1
+2020-04-23,University Of Minnesota,86,2
+2020-04-23,United States,87,1
 2020-04-24,Albanian Parliament,5,40
 2020-04-24,Coalition Of Epidemic Preparedness Innovation,5,41
 2020-04-24,Emory University,5,42
@@ -3508,7 +3508,7 @@ date,organization,count,rn
 2020-04-24,United Nations,17,12
 2020-04-24,Associated Press,19,9
 2020-04-24,Centers For Disease,19,10
-2020-04-24,Minnesota Department Of Health,23,8
+2020-04-24,Minnesota Department Of Health,24,8
 2020-04-24,Senate Majority Leader Mitch Mcconnell,26,7
 2020-04-24,Alliance Defending Freedom,27,6
 2020-04-24,Justice Department,30,5
@@ -3558,10 +3558,10 @@ date,organization,count,rn
 2020-04-25,Chinese Communist Party,9,9
 2020-04-25,Paycheck Protection Program,9,10
 2020-04-25,Reuters,9,11
-2020-04-25,Minnesota Department Of Health,10,8
 2020-04-25,Facebook,11,5
-2020-04-25,White House,11,6
-2020-04-25,World Health Organization,11,7
+2020-04-25,Minnesota Department Of Health,11,6
+2020-04-25,White House,11,7
+2020-04-25,World Health Organization,11,8
 2020-04-25,Centers For Disease,12,3
 2020-04-25,Twitter,12,4
 2020-04-25,University Of Minnesota,13,2
@@ -3616,106 +3616,106 @@ date,organization,count,rn
 2020-04-26,World Health Organization,12,3
 2020-04-26,White House,13,2
 2020-04-26,United States,22,1
-2020-04-27,Apple Valley High School,3,25
-2020-04-27,China National Health Commission,3,26
-2020-04-27,Democrat Coalition,3,27
-2020-04-27,Department Of Justice,3,28
-2020-04-27,Fair Recovery Task,3,29
-2020-04-27,Georgia Barbers Network,3,30
-2020-04-27,Green Bay Press Gazette,3,31
-2020-04-27,Harvard University,3,32
-2020-04-27,Hawaii Department Of Transportation,3,33
-2020-04-27,Health Administration,3,34
-2020-04-27,House Natural Resources Committee Republicans,3,35
-2020-04-27,Institute For Health Metrics,3,36
-2020-04-27,Johns Hopkins University,3,37
-2020-04-27,Linkedin,3,38
-2020-04-27,Minnesota Small Business Emergency Loan Program,3,39
-2020-04-27,National Guard,3,40
-2020-04-27,National Republican Senatorial Committee,3,41
-2020-04-27,New York Times,3,42
-2020-04-27,Office Of Congressional,3,43
-2020-04-27,Pandemic Unemployment Assistance Program,3,44
-2020-04-27,Paycheck Protection Program,3,45
-2020-04-27,Pearson,3,46
-2020-04-27,Public Health Order,3,47
-2020-04-27,Senate Democratic Caucus,3,48
-2020-04-27,Senate Minority Leader Chuck Schumer,3,49
-2020-04-27,Senate Republicans,3,50
-2020-04-27,Department Of Health,4,23
-2020-04-27,Johnson Johnson,4,24
-2020-04-27,Democratic Party,5,17
-2020-04-27,Minnesota Business Partnership,5,18
-2020-04-27,Minnesota Department Of Employment,5,19
-2020-04-27,Nan,5,20
-2020-04-27,People Center,5,21
-2020-04-27,Youtube,5,22
-2020-04-27,Access Program For Convalescent Plasma,6,12
-2020-04-27,Economic Development,6,13
-2020-04-27,Google,6,14
-2020-04-27,Treasury Department,6,15
-2020-04-27,Us Navy,6,16
-2020-04-27,Associated Press,7,10
-2020-04-27,Small Business Administration,7,11
-2020-04-27,Cnn,9,8
-2020-04-27,Twitter,9,9
-2020-04-27,Facebook,13,7
-2020-04-27,World Health Organization,14,6
-2020-04-27,Minnesota Department Of Health,15,5
-2020-04-27,University Of Minnesota,16,4
-2020-04-27,Centers For Disease,17,3
-2020-04-27,White House,18,2
-2020-04-27,United States,28,1
-2020-04-28,Africa Association Of Mineworkers,4,41
-2020-04-28,American Civil Liberties Union,4,42
-2020-04-28,Ap National News,4,43
-2020-04-28,Catholic Church,4,44
-2020-04-28,Construction Union,4,45
-2020-04-28,Department Store Union,4,46
-2020-04-28,Facebook,4,47
-2020-04-28,Glencore,4,48
-2020-04-28,Glencore Plc,4,49
-2020-04-28,Group Plc,4,50
-2020-04-28,House Health,5,37
+2020-04-27,Apple Valley High School,3,27
+2020-04-27,China National Health Commission,3,28
+2020-04-27,Democrat Coalition,3,29
+2020-04-27,Department Of Justice,3,30
+2020-04-27,Fair Recovery Task,3,31
+2020-04-27,Georgia Barbers Network,3,32
+2020-04-27,Green Bay Press Gazette,3,33
+2020-04-27,Harvard University,3,34
+2020-04-27,Hawaii Department Of Transportation,3,35
+2020-04-27,Health Administration,3,36
+2020-04-27,House Natural Resources Committee Republicans,3,37
+2020-04-27,Institute For Health Metrics,3,38
+2020-04-27,Johns Hopkins University,3,39
+2020-04-27,Linkedin,3,40
+2020-04-27,Minnesota Department Of Labor,3,41
+2020-04-27,Minnesota Small Business Emergency Loan Program,3,42
+2020-04-27,National Guard,3,43
+2020-04-27,National Republican Senatorial Committee,3,44
+2020-04-27,New York Times,3,45
+2020-04-27,Office Of Congressional,3,46
+2020-04-27,Pandemic Unemployment Assistance Program,3,47
+2020-04-27,Paycheck Protection Program,3,48
+2020-04-27,Pearson,3,49
+2020-04-27,Public Health Order,3,50
+2020-04-27,Department Of Health,4,24
+2020-04-27,Johnson Johnson,4,25
+2020-04-27,Time Warner Company,4,26
+2020-04-27,Democratic Party,5,21
+2020-04-27,Minnesota Business Partnership,5,22
+2020-04-27,Youtube,5,23
+2020-04-27,A Quinnipiac University,6,15
+2020-04-27,Access Program For Convalescent Plasma,6,16
+2020-04-27,Google,6,17
+2020-04-27,Minnesota Department Of Employment,6,18
+2020-04-27,Treasury Department,6,19
+2020-04-27,Us Navy,6,20
+2020-04-27,Economic Development,7,13
+2020-04-27,Small Business Administration,7,14
+2020-04-27,People Center,8,12
+2020-04-27,Nan,9,11
+2020-04-27,Associated Press,10,10
+2020-04-27,Facebook,13,9
+2020-04-27,World Health Organization,14,8
+2020-04-27,Twitter,15,7
+2020-04-27,Minnesota Department Of Health,19,6
+2020-04-27,Cnn,20,4
+2020-04-27,University Of Minnesota,20,5
+2020-04-27,Centers For Disease,23,3
+2020-04-27,White House,31,2
+2020-04-27,United States,39,1
+2020-04-28,Africa Association Of Mineworkers,4,40
+2020-04-28,American Civil Liberties Union,4,41
+2020-04-28,Ap National News,4,42
+2020-04-28,Catholic Church,4,43
+2020-04-28,Construction Union,4,44
+2020-04-28,Department Store Union,4,45
+2020-04-28,Facebook,4,46
+2020-04-28,Glencore,4,47
+2020-04-28,Glencore Plc,4,48
+2020-04-28,Group Plc,4,49
+2020-04-28,Health Ministry,4,50
+2020-04-28,Flickr,5,37
 2020-04-28,Human Services,5,38
-2020-04-28,Human Services Committee,5,39
-2020-04-28,Labor Department,5,40
-2020-04-28,Department Of Health,6,31
-2020-04-28,Flickr,6,32
+2020-04-28,Labor Department,5,39
+2020-04-28,Department Of Health,6,32
 2020-04-28,Mcdonalds,6,33
 2020-04-28,National Guard,6,34
 2020-04-28,Southside Harm Reduction Services In Minneapolis,6,35
 2020-04-28,Tyson Foods,6,36
-2020-04-28,Johns Hopkins University,7,29
-2020-04-28,White House Coronavirus Task,7,30
-2020-04-28,Reuters,8,28
-2020-04-28,People Center,9,27
-2020-04-28,Labor Party,10,24
-2020-04-28,Minnesota Senate,10,25
-2020-04-28,Nan,10,26
+2020-04-28,Johns Hopkins University,7,30
+2020-04-28,White House Coronavirus Task,7,31
+2020-04-28,Honeywell,8,27
+2020-04-28,People Center,8,28
+2020-04-28,Reuters,8,29
+2020-04-28,Labor Party,9,25
+2020-04-28,Nan,9,26
+2020-04-28,Minnesota Senate,10,24
 2020-04-28,Health Department,11,23
+2020-04-28,Cnn,12,21
 2020-04-28,World Health Organization,12,22
-2020-04-28,Cnn,13,20
-2020-04-28,New York Times,13,21
-2020-04-28,Coronavirus Task,14,19
-2020-04-28,Harvard Global Health Institute,15,16
-2020-04-28,Oval Office,15,17
+2020-04-28,Coronavirus Task,13,19
+2020-04-28,New York Times,13,20
+2020-04-28,Harvard Global Health Institute,15,17
 2020-04-28,While The University Of Minnesota,15,18
+2020-04-28,Trump Administration,16,16
 2020-04-28,Feinberg School Of Medicine At Northwestern University,17,13
 2020-04-28,Nomi Health,17,14
 2020-04-28,Thermo Fisher,17,15
-2020-04-28,Health Security,18,10
-2020-04-28,Johns Hopkins Center,18,11
-2020-04-28,Trump Administration,18,12
-2020-04-28,Ge Healthcare,20,9
-2020-04-28,Twitter,29,8
-2020-04-28,United States,40,7
-2020-04-28,Minnesota Department Of Health,42,6
-2020-04-28,Associated Press,46,5
-2020-04-28,Centers For Disease,60,4
-2020-04-28,University Of Minnesota,89,3
-2020-04-28,Drug Administration,94,2
-2020-04-28,White House,96,1
+2020-04-28,Health Security,18,11
+2020-04-28,Johns Hopkins Center,18,12
+2020-04-28,Ge Healthcare,20,10
+2020-04-28,Oval Office,21,9
+2020-04-28,Twitter,36,8
+2020-04-28,United States,38,7
+2020-04-28,Minnesota Department Of Health,41,6
+2020-04-28,Associated Press,44,5
+2020-04-28,Centers For Disease,58,4
+2020-04-28,University Of Minnesota,84,3
+2020-04-28,Drug Administration,91,2
+2020-04-28,White House,101,1
 2020-04-29,Air Canada,9,46
 2020-04-29,American Airline,9,47
 2020-04-29,American Airlines,9,48
@@ -3741,14 +3741,14 @@ date,organization,count,rn
 2020-04-29,Greater Minnesota Worker Center,15,28
 2020-04-29,Department Store Union,16,26
 2020-04-29,Labor Department,16,27
-2020-04-29,Pew Research Center,17,22
-2020-04-29,Trump Administration,17,23
+2020-04-29,Pew Research Center,17,23
 2020-04-29,Us Centers For Disease,17,24
 2020-04-29,White House Coronavirus Task,17,25
-2020-04-29,Labor Party,18,21
+2020-04-29,Labor Party,18,22
 2020-04-29,Facebook,20,18
 2020-04-29,Health Department,20,19
 2020-04-29,Nan,20,20
+2020-04-29,Trump Administration,20,21
 2020-04-29,Tyson Foods Inc,23,17
 2020-04-29,Reuters,24,16
 2020-04-29,Coronavirus Task,26,14
@@ -3760,95 +3760,95 @@ date,organization,count,rn
 2020-04-29,Oval Office,61,9
 2020-04-29,Associated Press,75,8
 2020-04-29,Cnn,77,7
-2020-04-29,Twitter,109,6
+2020-04-29,Twitter,112,6
 2020-04-29,University Of Minnesota,137,5
-2020-04-29,Centers For Disease,138,4
+2020-04-29,Centers For Disease,145,4
 2020-04-29,Drug Administration,150,3
 2020-04-29,United States,166,2
-2020-04-29,White House,172,1
-2020-04-30,Thomas More Society,5,50
-2020-04-30,Department Of Labor,6,42
-2020-04-30,Google,6,43
-2020-04-30,Minnesota Retailers Association,6,44
-2020-04-30,Morrison,6,45
-2020-04-30,Public Health,6,46
-2020-04-30,Public Health At Iowa State University,6,47
-2020-04-30,Reuters,6,48
-2020-04-30,Stearns Co,6,49
-2020-04-30,Greater Minnesota Worker Center,7,41
-2020-04-30,Association Of Minnesota Counties,8,32
-2020-04-30,Department Of Agriculture,8,33
-2020-04-30,Health Administration,8,34
-2020-04-30,His Department,8,35
-2020-04-30,Labor Department,8,36
-2020-04-30,Msnbc,8,37
-2020-04-30,Stern,8,38
-2020-04-30,White House Coronavirus Task,8,39
-2020-04-30,World Health Organization,8,40
-2020-04-30,Centers Of Disease,9,30
-2020-04-30,New York Times,9,31
-2020-04-30,Department Of Employment,10,22
-2020-04-30,Facebook,10,23
-2020-04-30,Minnesota Health,10,24
-2020-04-30,National Republican Congressional Committee,10,25
-2020-04-30,Quinnipiac University,10,26
-2020-04-30,Republican National Committee Spring,10,27
-2020-04-30,Trump Administration,10,28
-2020-04-30,University Of North Florida,10,29
-2020-04-30,Cnn,11,19
-2020-04-30,Department Of Health,11,20
-2020-04-30,Oval Office,11,21
-2020-04-30,Ge Healthcare,12,15
-2020-04-30,Johns Hopkins University,12,16
-2020-04-30,Senate Majority Leader Paul Gazelka,12,17
-2020-04-30,Walmart,12,18
-2020-04-30,Health Department,15,13
-2020-04-30,Minnesota Pork Producers Association,15,14
-2020-04-30,Hormel Foods,17,12
-2020-04-30,Economic Development,19,9
-2020-04-30,Jennie-O Turkey,19,10
+2020-04-29,White House,179,1
+2020-04-30,Department Of Labor,6,44
+2020-04-30,Eisenhower Executive Office Building,6,45
+2020-04-30,Google,6,46
+2020-04-30,Minnesota Retailers Association,6,47
+2020-04-30,Morrison,6,48
+2020-04-30,Office Of Management,6,49
+2020-04-30,Public Health,6,50
+2020-04-30,Greater Minnesota Worker Center,7,42
+2020-04-30,National Security Council,7,43
+2020-04-30,Association Of Minnesota Counties,8,33
+2020-04-30,Department Of Agriculture,8,34
+2020-04-30,Health Administration,8,35
+2020-04-30,His Department,8,36
+2020-04-30,Labor Department,8,37
+2020-04-30,Msnbc,8,38
+2020-04-30,Stern,8,39
+2020-04-30,White House Coronavirus Task,8,40
+2020-04-30,World Health Organization,8,41
+2020-04-30,Centers Of Disease,9,31
+2020-04-30,New York Times,9,32
+2020-04-30,Department Of Employment,10,23
+2020-04-30,Facebook,10,24
+2020-04-30,Minnesota Health,10,25
+2020-04-30,National Republican Congressional Committee,10,26
+2020-04-30,Quinnipiac University,10,27
+2020-04-30,Republican National Committee Spring,10,28
+2020-04-30,Trump Administration,10,29
+2020-04-30,University Of North Florida,10,30
+2020-04-30,Department Of Health,11,22
+2020-04-30,Ge Healthcare,12,18
+2020-04-30,Johns Hopkins University,12,19
+2020-04-30,Senate Majority Leader Paul Gazelka,12,20
+2020-04-30,Walmart,12,21
+2020-04-30,Honeywell,14,17
+2020-04-30,Health Department,15,16
+2020-04-30,Minnesota Pork Producers Association,16,15
+2020-04-30,Cnn,17,13
+2020-04-30,Oval Office,17,14
+2020-04-30,Hormel Foods,18,12
+2020-04-30,Economic Development,19,10
 2020-04-30,Nan,19,11
+2020-04-30,Jennie-O Turkey,20,9
 2020-04-30,Drug Administration,22,8
-2020-04-30,Associated Press,24,7
+2020-04-30,Associated Press,29,7
 2020-04-30,Twitter,38,6
-2020-04-30,University Of Minnesota,51,5
-2020-04-30,White House,60,4
-2020-04-30,Minnesota Department Of Health,64,3
-2020-04-30,Centers For Disease,69,2
-2020-04-30,United States,80,1
+2020-04-30,University Of Minnesota,52,5
+2020-04-30,Minnesota Department Of Health,65,4
+2020-04-30,White House,72,3
+2020-04-30,Centers For Disease,74,2
+2020-04-30,United States,81,1
 2020-05-01,Abacus Group,2,50
-2020-05-01,Angel Fund,3,31
-2020-05-01,Community Services,3,32
-2020-05-01,Dartmouth Institute,3,33
-2020-05-01,European Union,3,34
-2020-05-01,Justice Department,3,35
-2020-05-01,Land Services,3,36
-2020-05-01,Mayo Clinic Health System,3,37
-2020-05-01,Medtronic,3,38
-2020-05-01,Minnesota Department Of Employment,3,39
-2020-05-01,Minnesota Department Of Human Services,3,40
-2020-05-01,National Institutes Of Health,3,41
-2020-05-01,Neuroleadership Institute,3,42
-2020-05-01,Sciences At Lawrence University,3,43
+2020-05-01,Angel Fund,3,34
+2020-05-01,Community Services,3,35
+2020-05-01,Dartmouth Institute,3,36
+2020-05-01,European Union,3,37
+2020-05-01,Justice Department,3,38
+2020-05-01,Land Services,3,39
+2020-05-01,Mayo Clinic Health System,3,40
+2020-05-01,Medtronic,3,41
+2020-05-01,Minnesota Department Of Employment,3,42
+2020-05-01,Minnesota Department Of Human Services,3,43
 2020-05-01,Supreme Court,3,44
 2020-05-01,Tribune Content Agency,3,45
 2020-05-01,University Of Chicago,3,46
 2020-05-01,University Of Iowa,3,47
 2020-05-01,Winona City Council,3,48
 2020-05-01,Winona Health,3,49
-2020-05-01,Global Health In Emergency Medicine,4,26
-2020-05-01,House Agriculture Committee,4,27
-2020-05-01,Minnesota Health Department,4,28
-2020-05-01,Saint Therese Senior Services,4,29
-2020-05-01,Threat Analysis Group,4,30
+2020-05-01,Global Health In Emergency Medicine,4,27
+2020-05-01,House Agriculture Committee,4,28
+2020-05-01,Minnesota Health Department,4,29
+2020-05-01,Neuroleadership Institute,4,30
+2020-05-01,Saint Therese Senior Services,4,31
+2020-05-01,Sciences At Lawrence University,4,32
+2020-05-01,Threat Analysis Group,4,33
 2020-05-01,Department Of Health,5,18
 2020-05-01,Facebook,5,19
 2020-05-01,Google,5,20
 2020-05-01,Minnesota Department Of Health On,5,21
 2020-05-01,Minnesota Retailers Association,5,22
 2020-05-01,Msnbc,5,23
-2020-05-01,Service Employees International Union,5,24
-2020-05-01,United Nations,5,25
+2020-05-01,National Institutes Of Health,5,24
+2020-05-01,Service Employees International Union,5,25
+2020-05-01,United Nations,5,26
 2020-05-01,Drug Administration,6,16
 2020-05-01,Nan,6,17
 2020-05-01,Cnn,7,12
@@ -3861,11 +3861,11 @@ date,organization,count,rn
 2020-05-01,World Health Organization,11,8
 2020-05-01,White House Correspondent Association,13,7
 2020-05-01,Twitter,19,6
-2020-05-01,Centers For Disease,26,5
-2020-05-01,University Of Minnesota,27,4
+2020-05-01,University Of Minnesota,27,5
+2020-05-01,Centers For Disease,29,4
 2020-05-01,Minnesota Department Of Health,32,3
-2020-05-01,White House,37,2
-2020-05-01,United States,43,1
+2020-05-01,White House,42,2
+2020-05-01,United States,44,1
 2020-05-02,Commission On Federal Election Reform,3,42
 2020-05-02,Crime Prevention Research Center,3,43
 2020-05-02,Dallas City Council,3,44
@@ -3910,7 +3910,7 @@ date,organization,count,rn
 2020-05-02,Allina Health,10,7
 2020-05-02,Health Administration,10,8
 2020-05-02,Minnesota Health,10,9
-2020-05-02,White House,12,6
+2020-05-02,White House,13,6
 2020-05-02,Infectious Disease Research,15,5
 2020-05-02,Centers For Disease,17,4
 2020-05-02,University Of Minnesota,22,3
@@ -4016,39 +4016,39 @@ date,organization,count,rn
 2020-05-04,Centers For Disease,40,3
 2020-05-04,United States,55,2
 2020-05-04,White House,61,1
-2020-05-05,Department Of Minnesota Management,4,44
-2020-05-05,Liberty Baptist Church,4,45
-2020-05-05,National Guard,4,46
-2020-05-05,National Science Foundation,4,47
-2020-05-05,New York Post,4,48
-2020-05-05,University Of Maryland,4,49
-2020-05-05,Us Military Academy At West Point,4,50
+2020-05-05,Centers For Medicare,4,46
+2020-05-05,Department Of Minnesota Management,4,47
+2020-05-05,Elmhurst Hospital Center,4,48
+2020-05-05,European Commission,4,49
+2020-05-05,Kaiser Family Foundation,4,50
 2020-05-05,Clean Water Services,5,42
 2020-05-05,Minnesota Chamber,5,43
-2020-05-05,Department Of Employment,6,36
-2020-05-05,Emergency Management Agency,6,37
-2020-05-05,Institute For Health Metrics,6,38
-2020-05-05,Oregon State University,6,39
-2020-05-05,Senate Majority Leader Paul Gazelka,6,40
-2020-05-05,University Of Washington,6,41
-2020-05-05,Drug Administration,7,34
+2020-05-05,New York Post,5,44
+2020-05-05,University Of Maryland,5,45
+2020-05-05,Department Of Employment,6,37
+2020-05-05,Emergency Management Agency,6,38
+2020-05-05,Institute For Health Metrics,6,39
+2020-05-05,Oregon State University,6,40
+2020-05-05,Senate Majority Leader Paul Gazelka,6,41
 2020-05-05,Health Administration,7,35
-2020-05-05,Coronavirus Task,8,28
-2020-05-05,Facebook,8,29
-2020-05-05,Minnesota Senate On,8,30
-2020-05-05,Mn Senate,8,31
-2020-05-05,National Forest,8,32
-2020-05-05,National Park Service,8,33
-2020-05-05,Economic Development,9,25
-2020-05-05,Mcdonald,9,26
-2020-05-05,Navajo Department Of Health,9,27
-2020-05-05,Arizona At Joint Base Andrews,10,20
-2020-05-05,Nan,10,21
-2020-05-05,Tyson Foods,10,22
-2020-05-05,University Of Minnesota,10,23
-2020-05-05,Voyageurs National Park,10,24
+2020-05-05,University Of Washington,7,36
+2020-05-05,Drug Administration,8,29
+2020-05-05,Facebook,8,30
+2020-05-05,Minnesota Senate On,8,31
+2020-05-05,Mn Senate,8,32
+2020-05-05,National Forest,8,33
+2020-05-05,National Park Service,8,34
+2020-05-05,Economic Development,9,26
+2020-05-05,Mcdonald,9,27
+2020-05-05,Navajo Department Of Health,9,28
+2020-05-05,Arizona At Joint Base Andrews,10,21
+2020-05-05,Coronavirus Task,10,22
+2020-05-05,Nan,10,23
+2020-05-05,University Of Minnesota,10,24
+2020-05-05,Voyageurs National Park,10,25
 2020-05-05,Health Jan Malcolm,11,18
 2020-05-05,Thomson Reuters Trust Principles,11,19
+2020-05-05,Tyson Foods,11,20
 2020-05-05,Associated Press,12,14
 2020-05-05,Health Department,12,15
 2020-05-05,Senate Republican,12,16
@@ -4057,15 +4057,15 @@ date,organization,count,rn
 2020-05-05,Department Of Health,15,10
 2020-05-05,Honeywell,15,11
 2020-05-05,Human Services,15,12
-2020-05-05,New York Times,19,9
-2020-05-05,Cnn,20,8
-2020-05-05,Johns Hopkins University,23,7
-2020-05-05,Honeywell International Inc,24,6
-2020-05-05,Centers For Disease,29,4
+2020-05-05,Cnn,20,9
+2020-05-05,New York Times,21,8
+2020-05-05,Honeywell International Inc,24,7
+2020-05-05,Johns Hopkins University,27,6
 2020-05-05,Reuters,29,5
-2020-05-05,Minnesota Department Of Health,37,3
-2020-05-05,United States,68,2
-2020-05-05,White House,71,1
+2020-05-05,Centers For Disease,30,4
+2020-05-05,Minnesota Department Of Health,38,3
+2020-05-05,United States,69,2
+2020-05-05,White House,75,1
 2020-05-06,Chippewa National Forest,5,41
 2020-05-06,Department Of Agriculture,5,42
 2020-05-06,Department Of Natural Resources,5,43
@@ -4146,8 +4146,7 @@ date,organization,count,rn
 2020-05-07,Minnesota National Guard,11,23
 2020-05-07,Twitter,12,21
 2020-05-07,World Health Organization,12,22
-2020-05-07,Abacus Pharma International,13,12
-2020-05-07,Cnn,13,13
+2020-05-07,Abacus Pharma International,13,13
 2020-05-07,Foundation For Innovative New Diagnostics,13,14
 2020-05-07,Infectious Disease Research,13,15
 2020-05-07,Infectious Disease Society Of America,13,16
@@ -4155,17 +4154,18 @@ date,organization,count,rn
 2020-05-07,Quest Diagnostics,13,18
 2020-05-07,University Of Washington School Of Medicine,13,19
 2020-05-07,Young,13,20
-2020-05-07,Abbott Labs,14,10
-2020-05-07,Nan,14,11
+2020-05-07,Abbott Labs,14,11
+2020-05-07,Nan,14,12
 2020-05-07,Associated Press,15,7
-2020-05-07,Drug Administration,15,8
-2020-05-07,Honeywell,15,9
+2020-05-07,Cnn,15,8
+2020-05-07,Drug Administration,15,9
+2020-05-07,Honeywell,15,10
 2020-05-07,National Guard,21,6
 2020-05-07,Centers For Disease,22,5
-2020-05-07,White House,23,4
+2020-05-07,White House,25,4
 2020-05-07,University Of Minnesota,27,3
 2020-05-07,Minnesota Department Of Health,28,2
-2020-05-07,United States,51,1
+2020-05-07,United States,53,1
 2020-05-08,Abuse Incest National Network,2,49
 2020-05-08,Agricultural Sciences,2,50
 2020-05-08,Colorado Department Of Health,3,35
@@ -4416,37 +4416,37 @@ date,organization,count,rn
 2020-05-12,Health Department,23,2
 2020-05-12,United States,23,3
 2020-05-12,Minnesota Department Of Health,30,1
-2020-05-13,Brainerd Lakes Chamber,2,38
-2020-05-13,Communications Committee,2,39
-2020-05-13,Dakota Department Of Health,2,40
-2020-05-13,Drug Administration,2,41
-2020-05-13,Health Economist Stefan,2,42
-2020-05-13,Health Improvement Partnership,2,43
-2020-05-13,Health Midwest,2,44
-2020-05-13,High School For Recording Arts,2,45
-2020-05-13,Its Impact On Our Mental Health,2,46
-2020-05-13,Level I Trauma Center,2,47
-2020-05-13,M Health Fairview,2,48
-2020-05-13,Menorah Medical Center,2,49
-2020-05-13,Minnesota Department Of Agriculture,2,50
-2020-05-13,Associated Press,3,27
-2020-05-13,Department Of Health,3,28
-2020-05-13,Environmental Health Sciences,3,29
-2020-05-13,Human Services,3,30
-2020-05-13,Public Health Lab,3,31
-2020-05-13,Senate Majority Leader Paul Gazelka,3,32
-2020-05-13,Senior Environmental Health,3,33
-2020-05-13,Thomson Reuters Trust Principles,3,34
-2020-05-13,Us Senate,3,35
-2020-05-13,World Health Organization,3,36
-2020-05-13,Young,3,37
-2020-05-13,Cnn,4,20
-2020-05-13,Democrats In Congress,4,21
-2020-05-13,Health Department,4,22
-2020-05-13,Minnesota Legislature,4,23
-2020-05-13,National Institute Of Allergy,4,24
-2020-05-13,New York Times,4,25
-2020-05-13,White House,4,26
+2020-05-13,Bix Produce Company,2,40
+2020-05-13,Brainerd Lakes Chamber,2,41
+2020-05-13,Communications Committee,2,42
+2020-05-13,Dakota Department Of Health,2,43
+2020-05-13,Drug Administration,2,44
+2020-05-13,Health Economist Stefan,2,45
+2020-05-13,Health Improvement Partnership,2,46
+2020-05-13,Health Midwest,2,47
+2020-05-13,High School For Recording Arts,2,48
+2020-05-13,Its Impact On Our Mental Health,2,49
+2020-05-13,Level I Trauma Center,2,50
+2020-05-13,Department Of Administration,3,28
+2020-05-13,Department Of Health,3,29
+2020-05-13,Economic Development,3,30
+2020-05-13,Environmental Health Sciences,3,31
+2020-05-13,Human Services,3,32
+2020-05-13,Public Health Lab,3,33
+2020-05-13,Senate Majority Leader Paul Gazelka,3,34
+2020-05-13,Senior Environmental Health,3,35
+2020-05-13,Thomson Reuters Trust Principles,3,36
+2020-05-13,Us Senate,3,37
+2020-05-13,World Health Organization,3,38
+2020-05-13,Young,3,39
+2020-05-13,Associated Press,4,20
+2020-05-13,Cnn,4,21
+2020-05-13,Democrats In Congress,4,22
+2020-05-13,Health Department,4,23
+2020-05-13,Minnesota Legislature,4,24
+2020-05-13,National Institute Of Allergy,4,25
+2020-05-13,New York Times,4,26
+2020-05-13,White House,4,27
 2020-05-13,Senate Republican,6,19
 2020-05-13,Campaign Legal Center,7,16
 2020-05-13,Nan,7,17
@@ -4590,31 +4590,31 @@ date,organization,count,rn
 2020-05-16,Viacom,3,47
 2020-05-16,Walmart,3,48
 2020-05-16,Wells Fargo,3,49
-2020-05-16,Associated Press,4,23
 2020-05-16,Minnesota Board Of Animal Health,4,24
 2020-05-16,National Republican Congressional Committee,4,25
 2020-05-16,White House,4,26
-2020-05-16,Instagram,5,19
-2020-05-16,Minnesota Republican Party,5,20
-2020-05-16,Public Health,5,21
-2020-05-16,Youtube,5,22
+2020-05-16,Associated Press,5,19
+2020-05-16,Instagram,5,20
+2020-05-16,Minnesota Republican Party,5,21
+2020-05-16,Public Health,5,22
+2020-05-16,Youtube,5,23
 2020-05-16,Dakota Department Of Health On,6,16
 2020-05-16,Research Coordinator,6,17
 2020-05-16,Terrorism Task,6,18
-2020-05-16,Minnesota Department Of Health,7,15
-2020-05-16,Centers For Disease,8,12
 2020-05-16,Facebook,8,13
-2020-05-16,Wisconsin Supreme Court On,8,14
-2020-05-16,New York Times,9,11
+2020-05-16,Minnesota Department Of Health,8,14
+2020-05-16,Wisconsin Supreme Court On,8,15
+2020-05-16,Centers For Disease,9,11
+2020-05-16,New York Times,9,12
 2020-05-16,Paul International Airport,10,10
-2020-05-16,Health Department,11,6
 2020-05-16,Minnesota Department Of Health On,11,7
 2020-05-16,Rosedale Center,11,8
 2020-05-16,Senate Majority Leader Paul Gazelka,11,9
-2020-05-16,University Of Minnesota,14,5
-2020-05-16,Department Of Health,15,3
-2020-05-16,United States,15,4
+2020-05-16,Health Department,12,6
+2020-05-16,Department Of Health,15,4
+2020-05-16,University Of Minnesota,15,5
 2020-05-16,Twitter,16,2
+2020-05-16,United States,16,3
 2020-05-16,Supreme Court,17,1
 2020-05-17,Access Program,1,37
 2020-05-17,Aspen Institute,1,38
@@ -4766,46 +4766,56 @@ date,organization,count,rn
 2020-05-19,Economic Development,13,3
 2020-05-19,Minnesota Department Of Health,15,2
 2020-05-19,United States,20,1
-2020-05-20,Administration Alice Roberts Davis,1,12
-2020-05-20,American Meat Institute,1,13
-2020-05-20,Augustana Care Health,1,14
-2020-05-20,Bloomberg,1,15
-2020-05-20,Campaign Legal Center,1,16
-2020-05-20,Cargill,1,17
-2020-05-20,Centers For Disease,1,18
-2020-05-20,Costco,1,19
-2020-05-20,Department Of Health,1,20
-2020-05-20,Emergency Food Network,1,21
-2020-05-20,Essentia Health,1,22
-2020-05-20,Health Department,1,23
-2020-05-20,Huawei,1,24
-2020-05-20,Inspection Service,1,25
-2020-05-20,Kroger,1,26
-2020-05-20,M Health Fairview Southdale,1,27
-2020-05-20,Memorial Health Hospital,1,28
-2020-05-20,Minnesota Counties Intergovernmental,1,29
-2020-05-20,Minnesota Nurses Association,1,30
-2020-05-20,Monson Fruit Co,1,31
-2020-05-20,National Environmental Law,1,32
-2020-05-20,Paycheck Protection Program,1,33
-2020-05-20,Ridge Health,1,34
-2020-05-20,Senate Family Care,1,35
-2020-05-20,Small Business Administration,1,36
-2020-05-20,University Of Chicago,1,37
-2020-05-20,Us Department Of Agriculture,1,38
-2020-05-20,Washington State Potato Commission,1,39
-2020-05-20,Women Voters Of Minnesota Education Fund,1,40
-2020-05-20,American Farm Bureau Federation,2,4
-2020-05-20,Bix Produce Company,2,5
-2020-05-20,Economic Development,2,6
-2020-05-20,Minnesota Department Of Heath On,2,7
-2020-05-20,Minnesota Hospital Association,2,8
-2020-05-20,Nan,2,9
-2020-05-20,Twitter,2,10
-2020-05-20,United States,2,11
-2020-05-20,Department Of Administration,3,2
-2020-05-20,Minnesota Department Of Health,3,3
-2020-05-20,Associated Press,4,1
+2020-05-20,Allina Health System,2,47
+2020-05-20,American Farm Bureau Federation,2,48
+2020-05-20,Arcadia High School,2,49
+2020-05-20,Augustana Care Health,2,50
+2020-05-20,Brett Kavanaugh Supreme Court,3,28
+2020-05-20,Brown College,3,29
+2020-05-20,Columbia Law School,3,30
+2020-05-20,Human Services,3,31
+2020-05-20,Instagram,3,32
+2020-05-20,Interact Center,3,33
+2020-05-20,Ivy League,3,34
+2020-05-20,Joe Biden University Of Delaware,3,35
+2020-05-20,Memorial Health Hospital,3,36
+2020-05-20,Minnesota Chamber,3,37
+2020-05-20,Minnesota Department Of Human Services,3,38
+2020-05-20,Minnesota Department Of Labor,3,39
+2020-05-20,Office Of Senate Fair Employment Practices,3,40
+2020-05-20,People With Past Health Traumas,3,41
+2020-05-20,Senate Judiciary Committee,3,42
+2020-05-20,Supreme Court Justice,3,43
+2020-05-20,University Of Delaware,3,44
+2020-05-20,University Of Manitoba,3,45
+2020-05-20,Walmart,3,46
+2020-05-20,Minnesota Department Of Administration On,4,20
+2020-05-20,Minnesota Disability Law Center,4,21
+2020-05-20,Minnesota Organization For Habilitation,4,22
+2020-05-20,Republican Senate,4,23
+2020-05-20,Salvation Army,4,24
+2020-05-20,Salvation Army Northern Division,4,25
+2020-05-20,Senate Majority Leader Paul Gazelka,4,26
+2020-05-20,Supreme Court,4,27
+2020-05-20,White House,5,19
+2020-05-20,Bix Produce Company,6,16
+2020-05-20,Minnesota Department Of Health On,6,17
+2020-05-20,Nan,6,18
+2020-05-20,Health Department,7,14
+2020-05-20,University Of Minnesota,7,15
+2020-05-20,Minnesota Department Of Heath On,8,12
+2020-05-20,New York Times,8,13
+2020-05-20,Department Of Administration,9,9
+2020-05-20,Minnesota Hospital Association,9,10
+2020-05-20,Minnesota Nurses Association,9,11
+2020-05-20,Department Of Employment,10,7
+2020-05-20,Facebook,10,8
+2020-05-20,Department Of Health,11,6
+2020-05-20,Twitter,12,5
+2020-05-20,Associated Press,13,4
+2020-05-20,United States,14,3
+2020-05-20,Economic Development,18,2
+2020-05-20,Minnesota Department Of Health,21,1
 2020-05-21,Ag Committee,4,31
 2020-05-21,Agriculture Committee,4,32
 2020-05-21,Becket Fund,4,33
@@ -5156,3 +5166,53 @@ date,organization,count,rn
 2020-05-27,White House,31,4
 2020-05-27,Twitter,36,2
 2020-05-27,Cnn,38,1
+2020-05-28,Al Jazeera,4,48
+2020-05-28,Aljazeera,4,49
+2020-05-28,Breakfast Club,4,50
+2020-05-28,Anthony,5,45
+2020-05-28,Department Of Health,5,46
+2020-05-28,Us Department Of Justice,5,47
+2020-05-28,Democratic National Committee,6,40
+2020-05-28,Instagram,6,41
+2020-05-28,Nan,6,42
+2020-05-28,National Urban League,6,43
+2020-05-28,Third Police Precinct,6,44
+2020-05-28,Association Of Mature American Citizens,7,30
+2020-05-28,Big League Politics,7,31
+2020-05-28,Free Minnesota Small Business Coalition,7,32
+2020-05-28,Minnesota National Guard,7,33
+2020-05-28,Minnesota Supreme Court,7,34
+2020-05-28,Mn Supreme Court,7,35
+2020-05-28,National Intelligence,7,36
+2020-05-28,National Intelligence Richard Grenell,7,37
+2020-05-28,Us Attorney Office,7,38
+2020-05-28,Wendy,7,39
+2020-05-28,Minnesota Department Of Criminal Apprehension,8,27
+2020-05-28,Police Officers Federation Of Minneapolis,8,28
+2020-05-28,World Health Organization,8,29
+2020-05-28,Bureau Of Criminal Apprehension,9,19
+2020-05-28,Bureau Of Investigation,9,20
+2020-05-28,Department Of Justice,9,21
+2020-05-28,Federal Bureau Of Investigation,9,22
+2020-05-28,Google,9,23
+2020-05-28,Health Department,9,24
+2020-05-28,Paycheck Protection Program,9,25
+2020-05-28,Youtube,9,26
+2020-05-28,Walmart,10,18
+2020-05-28,Center Wayne Reyes,11,15
+2020-05-28,Centers For Disease,11,16
+2020-05-28,Minnesota Department Of Public Safety,11,17
+2020-05-28,Democratic Party,12,14
+2020-05-28,Reuters,13,13
+2020-05-28,Associated Press,14,11
+2020-05-28,Msnbc,14,12
+2020-05-28,Justice Department,15,10
+2020-05-28,National Guard,18,9
+2020-05-28,Minnesota Department Of Health,20,8
+2020-05-28,Autozone,22,7
+2020-05-28,New York Times,23,6
+2020-05-28,White House,28,5
+2020-05-28,Facebook,41,4
+2020-05-28,Cnn,45,3
+2020-05-28,Twitter,46,2
+2020-05-28,United States,47,1

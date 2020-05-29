@@ -3396,35 +3396,30 @@ date,organization,count,rn
 2020-05-10,Uc Health System,2,3
 2020-05-10,University Of Cincinnati,2,4
 2020-05-10,University Of Louisville,2,5
-2020-05-11,Alabama Department Of Public,1,22
-2020-05-11,Alabama Public Health Department,1,23
-2020-05-11,Associated Press,1,24
-2020-05-11,Birmingham City Council On,1,25
-2020-05-11,Bishop Seabury Academy,1,26
-2020-05-11,Cabinet For Health,1,27
-2020-05-11,Centers For Disease,1,28
-2020-05-11,Centers For Medicare,1,29
-2020-05-11,Child Protection Services,1,30
-2020-05-11,Cnn,1,31
-2020-05-11,Concord University,1,32
-2020-05-11,District Court,1,33
-2020-05-11,Dodge,1,34
-2020-05-11,Drug Administration,1,35
-2020-05-11,Hong Kong University Of Science,1,36
-2020-05-11,Jefferson Chamber,1,37
-2020-05-11,Jefferson County Health Department,1,38
-2020-05-11,Jefferson County Health Department Facebook,1,39
-2020-05-11,Kentucky Association Of Health Care Facilities,1,40
-2020-05-11,Kentucky Senior Living Association,1,41
-2020-05-11,Medicaid Services,1,42
-2020-05-11,National Opinion Research Center,1,43
-2020-05-11,National Thoroughbred Racing Association,1,44
-2020-05-11,Northern Kentucky University,1,45
-2020-05-11,Ohio Environmental Protection Agency,1,46
-2020-05-11,Ohio Public Works Commission,1,47
-2020-05-11,Olaf College,1,48
-2020-05-11,Partners In Health,1,49
-2020-05-11,Potemkin Public Health,1,50
+2020-05-11,Alabama Department Of Public,1,27
+2020-05-11,Alabama Public Health Department,1,28
+2020-05-11,Associated Press,1,29
+2020-05-11,Birmingham City Council On,1,30
+2020-05-11,Bishop Seabury Academy,1,31
+2020-05-11,Cabinet For Health,1,32
+2020-05-11,Centers For Disease,1,33
+2020-05-11,Centers For Medicare,1,34
+2020-05-11,Child Protection Services,1,35
+2020-05-11,Cnn,1,36
+2020-05-11,Concord University,1,37
+2020-05-11,District Court,1,38
+2020-05-11,Dodge,1,39
+2020-05-11,Drug Administration,1,40
+2020-05-11,Education Workforce Development Cabinet,1,41
+2020-05-11,Hong Kong University Of Science,1,42
+2020-05-11,Jefferson Chamber,1,43
+2020-05-11,Jefferson County Health Department,1,44
+2020-05-11,Jefferson County Health Department Facebook,1,45
+2020-05-11,Kentucky Association Of Health Care Facilities,1,46
+2020-05-11,Kentucky Senior Living Association,1,47
+2020-05-11,Labor Department,1,48
+2020-05-11,Medicaid Services,1,49
+2020-05-11,National Opinion Research Center,1,50
 2020-05-11,Alabama Department Of Public Health,2,10
 2020-05-11,Auditor Office,2,11
 2020-05-11,Council On,2,12
@@ -3433,10 +3428,15 @@ date,organization,count,rn
 2020-05-11,Family Services,2,15
 2020-05-11,Health Department,2,16
 2020-05-11,Nan,2,17
-2020-05-11,Office Of Emergency Management,2,18
-2020-05-11,Payroll Protection Program,2,19
-2020-05-11,Sheriff Office,2,20
-2020-05-11,Small Business Administration,2,21
+2020-05-11,Northern Kentucky University,2,18
+2020-05-11,Office Of Emergency Management,2,19
+2020-05-11,Payroll Protection Program,2,20
+2020-05-11,Sheriff Office,2,21
+2020-05-11,Small Business Administration,2,22
+2020-05-11,Tommy,2,23
+2020-05-11,Uc Health System,2,24
+2020-05-11,University Of Cincinnati,2,25
+2020-05-11,University Of Louisville,2,26
 2020-05-11,American Express,3,2
 2020-05-11,Facebook,3,3
 2020-05-11,Instagram,3,4
@@ -3821,17 +3821,56 @@ date,organization,count,rn
 2020-05-19,Family Services,3,3
 2020-05-19,White House,3,4
 2020-05-19,Facebook,4,1
-2020-05-20,Nan,1,9
-2020-05-20,National Domestic Workers Alliance,1,10
-2020-05-20,United States,1,11
-2020-05-20,Centers For Disease,2,1
-2020-05-20,Department Of Health Services,2,2
-2020-05-20,Festus Manor Care Center,2,3
-2020-05-20,Health Department,2,4
-2020-05-20,Missouri Department Of Health,2,5
-2020-05-20,Senior Services,2,6
-2020-05-20,Supreme Court,2,7
-2020-05-20,Wisconsin Department Of Health Services,2,8
+2020-05-20,Academic Affairs,1,15
+2020-05-20,Alabama Department Of Public,1,16
+2020-05-20,Alabama Department Of Public Health,1,17
+2020-05-20,Alabama Public Health Department,1,18
+2020-05-20,Altamont High School,1,19
+2020-05-20,American College Of Allergy,1,20
+2020-05-20,Babson Survey Group,1,21
+2020-05-20,California State University System,1,22
+2020-05-20,Calvary Church,1,23
+2020-05-20,Child Support Enforcement Agency,1,24
+2020-05-20,Chinese Communist Party,1,25
+2020-05-20,Co Facebook,1,26
+2020-05-20,College Board,1,27
+2020-05-20,Community Development Block Grant,1,28
+2020-05-20,Community Health Center,1,29
+2020-05-20,Community Housing Improvement Program,1,30
+2020-05-20,Community Housing Investment Program,1,31
+2020-05-20,Costco,1,32
+2020-05-20,Derek Bok Center,1,33
+2020-05-20,Drug Administration,1,34
+2020-05-20,Federal Reserve,1,35
+2020-05-20,Gates Foundation,1,36
+2020-05-20,Harvard University,1,37
+2020-05-20,Health Affairs,1,38
+2020-05-20,Instagram,1,39
+2020-05-20,Investment Partnership Program,1,40
+2020-05-20,Johns Hopkins University,1,41
+2020-05-20,Kentucky Derby Museum,1,42
+2020-05-20,Labor Department,1,43
+2020-05-20,Lamar Institute Of Technology,1,44
+2020-05-20,Lamar State College Orange,1,45
+2020-05-20,Lamar State College Port Arthur,1,46
+2020-05-20,Lamar University,1,47
+2020-05-20,Melinda Gates Foundation,1,48
+2020-05-20,Miles College,1,49
+2020-05-20,Moody,1,50
+2020-05-20,Bloomberg,2,7
+2020-05-20,Festus Manor Care Center,2,8
+2020-05-20,Health Department,2,9
+2020-05-20,Missouri Department Of Health,2,10
+2020-05-20,National Domestic Workers Alliance,2,11
+2020-05-20,Senior Services,2,12
+2020-05-20,Supreme Court,2,13
+2020-05-20,Wisconsin Department Of Health Services,2,14
+2020-05-20,Department Of Health Services,3,4
+2020-05-20,Georgia Bureau Of Investigation,3,5
+2020-05-20,Nan,3,6
+2020-05-20,Centers For Disease,4,2
+2020-05-20,Twitter,4,3
+2020-05-20,United States,9,1
 2020-05-21,Adult Sunday School,1,11
 2020-05-21,Adult Worship Service,1,12
 2020-05-21,Alabama Department Of Public,1,13
@@ -4122,3 +4161,53 @@ date,organization,count,rn
 2020-05-27,Senate Majority Leader Mitch Mcconnell,3,4
 2020-05-27,Family Services,4,1
 2020-05-27,Kentucky Cabinet For Health,4,2
+2020-05-28,Adult Sunday School,1,11
+2020-05-28,Adult Worship Service,1,12
+2020-05-28,Alabama Department Of Public,1,13
+2020-05-28,Alabama Public Health Department,1,14
+2020-05-28,American Baptist Church,1,15
+2020-05-28,Assembly On Facebook,1,16
+2020-05-28,Bethany Lutheran Church,1,17
+2020-05-28,Bible School,1,18
+2020-05-28,Byers High School,1,19
+2020-05-28,Byers High School In Denver,1,20
+2020-05-28,Calvary Baptist Church,1,21
+2020-05-28,Canby Friends Church,1,22
+2020-05-28,Central Church,1,23
+2020-05-28,Church Service,1,24
+2020-05-28,City Council On,1,25
+2020-05-28,Colorado College,1,26
+2020-05-28,Colorado School Of Mines,1,27
+2020-05-28,Cornell University,1,28
+2020-05-28,Council Bluffs,1,29
+2020-05-28,Daniels Fund,1,30
+2020-05-28,Elk Horn Lutheran Community Outreach,1,31
+2020-05-28,Exchange Pub,1,32
+2020-05-28,Family Sunday School,1,33
+2020-05-28,Farm Service Agency,1,34
+2020-05-28,Fellowship Church,1,35
+2020-05-28,First Assembly Of God,1,36
+2020-05-28,First Baptist Church,1,37
+2020-05-28,First Church,1,38
+2020-05-28,First Evangelical Lutheran Church,1,39
+2020-05-28,First United Presbyterian Church,1,40
+2020-05-28,Free Church,1,41
+2020-05-28,High School,1,42
+2020-05-28,High School In Denver,1,43
+2020-05-28,High School Seniors Plan For College,1,44
+2020-05-28,Holy Cross Lutheran Church,1,45
+2020-05-28,House Agriculture Committee,1,46
+2020-05-28,Immanuel Lutheran Church,1,47
+2020-05-28,John United Church,1,48
+2020-05-28,Johns Hopkins University,1,49
+2020-05-28,Joy Club,1,50
+2020-05-28,Alabama Department Of Public Health,2,2
+2020-05-28,Arkansas Department Of Health,2,3
+2020-05-28,Beaumont City Council,2,4
+2020-05-28,Beaumont Housing Authority,2,5
+2020-05-28,Facebook,2,6
+2020-05-28,Mount Calvary Baptist Church,2,7
+2020-05-28,National Institutes,2,8
+2020-05-28,National Institutes Of Health,2,9
+2020-05-28,Youtube,2,10
+2020-05-28,United States,4,1

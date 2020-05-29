@@ -4108,16 +4108,16 @@ date,organization,count,rn
 2020-04-23,Columbia University,35,43
 2020-04-23,Medtronic,35,44
 2020-04-23,National Guard,35,45
-2020-04-23,Whole Foods,37,41
-2020-04-23,Us Centers For Disease,38,40
 2020-04-23,University Of Minnesota,39,39
+2020-04-23,Us Centers For Disease,39,40
+2020-04-23,Whole Foods,39,41
 2020-04-23,Biomedical Advanced Research,40,38
 2020-04-23,Youtube,42,37
 2020-04-23,Health Department,44,36
-2020-04-23,National Institute Of Allergy,45,33
 2020-04-23,Northwell Health,45,34
 2020-04-23,Threat Analysis Group,45,35
 2020-04-23,Labor Department,46,32
+2020-04-23,National Institute Of Allergy,46,33
 2020-04-23,National Institutes Of Health,47,31
 2020-04-23,University Of Washington,49,30
 2020-04-23,Mount Sinai Health System,50,27
@@ -4127,98 +4127,98 @@ date,organization,count,rn
 2020-04-23,Small Business Administration,55,25
 2020-04-23,Development Authority,56,24
 2020-04-23,Thomson Reuters Trust Principles,57,23
-2020-04-23,Msnbc,63,22
-2020-04-23,Drug Administration,79,20
-2020-04-23,Human Services,79,21
-2020-04-23,Instagram,92,19
-2020-04-23,Nan,93,18
-2020-04-23,United Nations,94,17
+2020-04-23,Msnbc,65,22
+2020-04-23,Drug Administration,79,21
+2020-04-23,Human Services,82,20
+2020-04-23,Nan,93,19
+2020-04-23,Instagram,94,17
+2020-04-23,United Nations,94,18
 2020-04-23,Google,120,16
 2020-04-23,Paycheck Protection Program,121,15
-2020-04-23,Department Of Health,123,14
-2020-04-23,Senate Majority Leader Mitch Mcconnell,125,13
-2020-04-23,Johns Hopkins University,138,12
-2020-04-23,Facebook,139,11
+2020-04-23,Senate Majority Leader Mitch Mcconnell,125,14
+2020-04-23,Department Of Health,126,13
+2020-04-23,Facebook,139,12
+2020-04-23,Johns Hopkins University,141,11
 2020-04-23,Associated Press,160,10
-2020-04-23,Bloomberg,165,9
+2020-04-23,Bloomberg,166,9
 2020-04-23,World Health Organization,168,8
-2020-04-23,Cnn,184,7
+2020-04-23,Cnn,187,7
 2020-04-23,Reuters,208,6
-2020-04-23,Twitter,213,5
+2020-04-23,Twitter,215,5
 2020-04-23,Centers For Disease,276,4
-2020-04-23,White House,359,3
-2020-04-23,New York Times,420,2
-2020-04-23,United States,637,1
-2020-04-24,Emergency Management Agency,36,49
-2020-04-24,Walmart,36,50
-2020-04-24,Development Authority,37,47
-2020-04-24,National Guard,37,48
-2020-04-24,Naval Air,38,41
-2020-04-24,Naval Air Forces Pacific,38,42
-2020-04-24,Oval Office,38,43
-2020-04-24,Treasury Department,38,44
-2020-04-24,University Of Minnesota,38,45
-2020-04-24,Youtube,38,46
-2020-04-24,New York Post,39,39
-2020-04-24,Senate Republican,39,40
-2020-04-24,Langone Health,40,38
-2020-04-24,National Institutes Of Health,43,36
-2020-04-24,Supreme Court,43,37
-2020-04-24,Northwell Health,44,35
-2020-04-24,Us Navy,46,34
-2020-04-24,Bloomberg,47,33
-2020-04-24,Columbia University,48,31
-2020-04-24,Ivy League,48,32
+2020-04-23,White House,363,3
+2020-04-23,New York Times,421,2
+2020-04-23,United States,641,1
+2020-04-24,Development Authority,37,49
+2020-04-24,National Guard,37,50
+2020-04-24,Emergency Management Agency,38,43
+2020-04-24,Naval Air,38,44
+2020-04-24,Naval Air Forces Pacific,38,45
+2020-04-24,Oval Office,38,46
+2020-04-24,Treasury Department,38,47
+2020-04-24,Youtube,38,48
+2020-04-24,Senate Republican,39,42
+2020-04-24,European Union,40,39
+2020-04-24,Langone Health,40,40
+2020-04-24,New York Post,40,41
+2020-04-24,National Institutes Of Health,43,37
+2020-04-24,Supreme Court,43,38
+2020-04-24,University Of Minnesota,44,36
+2020-04-24,Northwell Health,46,34
+2020-04-24,Us Navy,46,35
+2020-04-24,Columbia University,48,32
+2020-04-24,Ivy League,48,33
+2020-04-24,Bloomberg,50,31
 2020-04-24,Northeastern University,52,30
-2020-04-24,Labor Department,54,29
+2020-04-24,Labor Department,55,29
 2020-04-24,National Governors Association,59,28
-2020-04-24,United Nations,61,27
-2020-04-24,National Institute Of Allergy,62,26
-2020-04-24,Small Business Administration,65,25
-2020-04-24,Google,70,23
+2020-04-24,National Institute Of Allergy,62,27
+2020-04-24,Small Business Administration,65,26
+2020-04-24,United Nations,67,25
 2020-04-24,Health Department,70,24
-2020-04-24,Thomson Reuters Trust Principles,72,22
-2020-04-24,Msnbc,76,21
-2020-04-24,Human Services,78,20
-2020-04-24,Nan,79,19
-2020-04-24,Adm,80,18
+2020-04-24,Thomson Reuters Trust Principles,73,23
+2020-04-24,Msnbc,76,22
+2020-04-24,Google,77,21
+2020-04-24,Nan,79,20
+2020-04-24,Adm,81,18
+2020-04-24,Human Services,81,19
 2020-04-24,Instagram,90,17
 2020-04-24,Senate Majority Leader Mitch Mcconnell,129,16
 2020-04-24,Department Of Health,137,15
-2020-04-24,Facebook,142,14
+2020-04-24,Facebook,143,14
 2020-04-24,Johns Hopkins University,144,13
 2020-04-24,Department Of Homeland Security,148,12
-2020-04-24,Associated Press,155,11
-2020-04-24,World Health Organization,172,10
-2020-04-24,Paycheck Protection Program,178,9
+2020-04-24,Associated Press,160,11
+2020-04-24,Paycheck Protection Program,178,10
+2020-04-24,World Health Organization,179,9
 2020-04-24,Drug Administration,193,8
-2020-04-24,Reuters,205,7
-2020-04-24,Cnn,271,6
-2020-04-24,Centers For Disease,300,5
+2020-04-24,Reuters,208,7
+2020-04-24,Cnn,272,6
+2020-04-24,Centers For Disease,306,5
 2020-04-24,Twitter,320,4
-2020-04-24,White House,429,3
-2020-04-24,New York Times,524,2
-2020-04-24,United States,645,1
+2020-04-24,White House,436,3
+2020-04-24,New York Times,528,2
+2020-04-24,United States,654,1
 2020-04-25,National Institutes Of Health,20,49
 2020-04-25,York University,20,50
 2020-04-25,News Of The Navy,21,48
 2020-04-25,Bureau Of Investigations,23,45
 2020-04-25,National Security Advisor Michael Flynn,23,46
 2020-04-25,University Of California,23,47
-2020-04-25,Columbia University,24,44
 2020-04-25,Big League Politics,25,39
 2020-04-25,Catholic Church On,25,40
-2020-04-25,International Business Times,25,41
-2020-04-25,Javits Center,25,42
-2020-04-25,Land Rover,25,43
+2020-04-25,Columbia University,25,41
+2020-04-25,International Business Times,25,42
+2020-04-25,Javits Center,25,43
+2020-04-25,Land Rover,25,44
 2020-04-25,Republican Senate Majority Leader Mitch Mcconnell,26,37
 2020-04-25,Tribune Content Agency,26,38
 2020-04-25,Walmart,27,36
 2020-04-25,Clorox,30,33
 2020-04-25,New York Post,30,34
 2020-04-25,Youtube,30,35
-2020-04-25,Department Of Homeland Security,31,31
-2020-04-25,Health Department,31,32
+2020-04-25,Department Of Homeland Security,31,32
+2020-04-25,Health Department,32,31
 2020-04-25,Human Services,33,30
 2020-04-25,Justice Department,34,29
 2020-04-25,Emergency Management Agency,37,28
@@ -4230,23 +4230,23 @@ date,organization,count,rn
 2020-04-25,Supreme Court On,46,24
 2020-04-25,Johns Hopkins University,48,21
 2020-04-25,Bloomberg,50,20
-2020-04-25,Nan,55,18
 2020-04-25,National Guard,55,19
+2020-04-25,Nan,56,18
 2020-04-25,Msnbc,58,17
 2020-04-25,Paycheck Protection Program,59,16
 2020-04-25,Navy Capt,68,15
 2020-04-25,Instagram,74,14
 2020-04-25,Drug Administration,85,13
-2020-04-25,Centers For Disease,87,12
 2020-04-25,Adm,88,11
+2020-04-25,Centers For Disease,88,12
 2020-04-25,House Armed Services Committee,91,10
-2020-04-25,Associated Press,95,9
-2020-04-25,World Health Organization,96,8
+2020-04-25,Associated Press,96,8
+2020-04-25,World Health Organization,96,9
 2020-04-25,Facebook,108,7
-2020-04-25,Cnn,122,6
+2020-04-25,Cnn,123,6
 2020-04-25,Reuters,140,5
 2020-04-25,Twitter,168,4
-2020-04-25,White House,212,3
+2020-04-25,White House,213,3
 2020-04-25,New York Times,346,2
 2020-04-25,United States,404,1
 2020-04-26,Disaster Relief Fund,15,49
@@ -4259,11 +4259,11 @@ date,organization,count,rn
 2020-04-26,Army Ryan Mccarthy,17,41
 2020-04-26,John Hopkins University,17,42
 2020-04-26,Msnbc,17,43
-2020-04-26,Health Statistics,18,36
-2020-04-26,National Center,18,37
+2020-04-26,Health Statistics,18,37
 2020-04-26,New York Daily News,18,38
 2020-04-26,Supreme Court,18,39
 2020-04-26,York University,18,40
+2020-04-26,National Center,19,36
 2020-04-26,Coast Guard Academy,20,34
 2020-04-26,Congressional Budget Office,20,35
 2020-04-26,Department Of Labor,22,33
@@ -4278,10 +4278,10 @@ date,organization,count,rn
 2020-04-26,Bloomberg,28,24
 2020-04-26,Google,31,23
 2020-04-26,Boeing,32,22
-2020-04-26,Human Services,35,20
 2020-04-26,Reuters,35,21
-2020-04-26,National Institute Of Allergy,36,19
-2020-04-26,Javits Center,38,18
+2020-04-26,National Institute Of Allergy,36,20
+2020-04-26,Human Services,38,18
+2020-04-26,Javits Center,38,19
 2020-04-26,Northwell Health,39,17
 2020-04-26,Nan,47,16
 2020-04-26,Emergency Management Agency,48,15
@@ -4291,64 +4291,64 @@ date,organization,count,rn
 2020-04-26,Associated Press,63,11
 2020-04-26,Senate Majority Leader Mitch Mcconnell,69,10
 2020-04-26,Facebook,75,9
-2020-04-26,Johns Hopkins University,102,8
-2020-04-26,Centers For Disease,116,7
-2020-04-26,Twitter,118,6
-2020-04-26,World Health Organization,123,5
-2020-04-26,New York Times,140,4
+2020-04-26,Johns Hopkins University,103,8
+2020-04-26,Centers For Disease,117,7
+2020-04-26,Twitter,119,6
+2020-04-26,World Health Organization,124,5
+2020-04-26,New York Times,141,4
 2020-04-26,Cnn,155,3
-2020-04-26,White House,213,2
-2020-04-26,United States,395,1
+2020-04-26,White House,214,2
+2020-04-26,United States,400,1
 2020-04-27,Army Corps Of Engineers,22,48
 2020-04-27,Chinese Communist Party,22,49
 2020-04-27,Democrat In Congress,22,50
 2020-04-27,Defense Department,24,46
-2020-04-27,Siena College,24,47
-2020-04-27,Emergency Management Agency,25,43
-2020-04-27,National Institute Of Allergy,25,44
-2020-04-27,Small Business Administration,25,45
-2020-04-27,Supreme Court,26,42
+2020-04-27,Emergency Management Agency,24,47
+2020-04-27,National Institute Of Allergy,25,45
+2020-04-27,Siena College,26,42
+2020-04-27,Small Business Administration,26,43
+2020-04-27,Supreme Court,26,44
 2020-04-27,Bloomberg,27,40
 2020-04-27,Microsoft,27,41
 2020-04-27,Columbia University,28,39
-2020-04-27,American University,31,36
-2020-04-27,Google,31,37
+2020-04-27,American University,31,37
 2020-04-27,National Health Service,31,38
 2020-04-27,Department Of Labor,32,35
+2020-04-27,Google,32,36
 2020-04-27,Clorox,33,33
 2020-04-27,Congressional Budget Office,33,34
 2020-04-27,National Restaurant Association,34,32
+2020-04-27,Northwell Health,36,31
 2020-04-27,Health Department,37,30
-2020-04-27,Northwell Health,37,31
 2020-04-27,National Guard,38,29
 2020-04-27,Youtube,42,28
-2020-04-27,Instagram,44,27
+2020-04-27,Instagram,45,27
 2020-04-27,Msnbc,46,26
-2020-04-27,New York Post,47,24
 2020-04-27,York Democratic Party,47,25
+2020-04-27,New York Post,48,24
 2020-04-27,National Governors Association,50,23
 2020-04-27,Democratic National Convention,51,22
 2020-04-27,York Working Families Party,52,21
-2020-04-27,City Council,55,19
 2020-04-27,Human Services,55,20
+2020-04-27,City Council,59,19
 2020-04-27,Nan,69,18
-2020-04-27,Department Of Health,77,16
-2020-04-27,Drug Administration,77,17
-2020-04-27,Senate Majority Leader Mitch Mcconnell,80,15
-2020-04-27,Paycheck Protection Program,86,14
-2020-04-27,Reuters,87,13
-2020-04-27,Johns Hopkins University,102,12
-2020-04-27,World Health Organization,103,11
-2020-04-27,Democratic National Committee,127,10
-2020-04-27,Facebook,129,9
-2020-04-27,Democratic Party,135,8
-2020-04-27,Associated Press,155,7
-2020-04-27,Centers For Disease,197,6
-2020-04-27,Twitter,200,5
-2020-04-27,Cnn,272,4
-2020-04-27,White House,327,3
-2020-04-27,New York Times,340,2
-2020-04-27,United States,548,1
+2020-04-27,Department Of Health,77,17
+2020-04-27,Drug Administration,78,16
+2020-04-27,Senate Majority Leader Mitch Mcconnell,83,15
+2020-04-27,Paycheck Protection Program,87,14
+2020-04-27,Reuters,88,13
+2020-04-27,Johns Hopkins University,103,11
+2020-04-27,World Health Organization,103,12
+2020-04-27,Democratic National Committee,128,10
+2020-04-27,Facebook,130,9
+2020-04-27,Democratic Party,136,8
+2020-04-27,Associated Press,159,7
+2020-04-27,Centers For Disease,200,6
+2020-04-27,Twitter,202,5
+2020-04-27,Cnn,273,4
+2020-04-27,White House,332,3
+2020-04-27,New York Times,341,2
+2020-04-27,United States,557,1
 2020-04-28,Oval Office,33,50
 2020-04-28,City Council,35,48
 2020-04-28,Supreme Court,35,49
@@ -4363,7 +4363,7 @@ date,organization,count,rn
 2020-04-28,University Of Sao Paulo,44,39
 2020-04-28,International Monetary Fund,45,38
 2020-04-28,American Hospital Association,46,37
-2020-04-28,Democratic National Convention,48,36
+2020-04-28,Democratic National Convention,47,36
 2020-04-28,Small Business Administration,50,35
 2020-04-28,Msnbc,51,34
 2020-04-28,Cypru Telecommunications Authority,52,33
@@ -4374,30 +4374,30 @@ date,organization,count,rn
 2020-04-28,America Health Insurance,61,26
 2020-04-28,Tyson Foods,61,27
 2020-04-28,Youtube,61,28
-2020-04-28,Department Of Health,65,25
-2020-04-28,Nan,66,23
-2020-04-28,National Health Service,66,24
+2020-04-28,Department Of Health,65,24
+2020-04-28,Nan,65,25
+2020-04-28,National Health Service,66,23
 2020-04-28,United Nations,67,22
 2020-04-28,European Union,70,21
 2020-04-28,Instagram,71,20
 2020-04-28,Human Services,73,19
-2020-04-28,New York Post,75,18
-2020-04-28,Drug Administration,76,17
+2020-04-28,New York Post,74,18
+2020-04-28,Drug Administration,75,17
 2020-04-28,Columbia University Irving Medical Center,85,16
 2020-04-28,Navy Blue Angels,95,15
 2020-04-28,Paycheck Protection Program,97,14
 2020-04-28,Reuters,99,13
 2020-04-28,Democratic National Committee,100,12
-2020-04-28,Johns Hopkins University,125,11
+2020-04-28,Johns Hopkins University,124,11
 2020-04-28,Democratic Party,137,10
-2020-04-28,Facebook,148,9
+2020-04-28,Facebook,149,9
 2020-04-28,World Health Organization,181,8
 2020-04-28,Cnn,187,7
-2020-04-28,Associated Press,196,6
-2020-04-28,Centers For Disease,202,5
-2020-04-28,Twitter,219,4
-2020-04-28,White House,405,3
-2020-04-28,New York Times,521,2
+2020-04-28,Associated Press,197,6
+2020-04-28,Centers For Disease,203,5
+2020-04-28,Twitter,217,4
+2020-04-28,White House,410,3
+2020-04-28,New York Times,520,2
 2020-04-28,United States,527,1
 2020-04-29,Javits Center,39,49
 2020-04-29,Workers International Union,39,50
@@ -4408,97 +4408,97 @@ date,organization,count,rn
 2020-04-29,Bureau Of Prisons,46,43
 2020-04-29,Commerce Department,46,44
 2020-04-29,New York Daily News,49,42
-2020-04-29,Democratic National Convention,52,40
-2020-04-29,York Police Department,52,41
-2020-04-29,Walmart,53,39
-2020-04-29,John Hopkins University,55,37
-2020-04-29,Msnbc,55,38
+2020-04-29,Democratic National Convention,51,41
+2020-04-29,York Police Department,52,40
+2020-04-29,Walmart,54,39
+2020-04-29,John Hopkins University,55,38
+2020-04-29,Msnbc,56,37
 2020-04-29,Senate Democratic,57,35
 2020-04-29,Transportation Authority,57,36
 2020-04-29,Senate Republicans,59,34
 2020-04-29,Instagram,60,33
 2020-04-29,Us Navy,64,32
 2020-04-29,Gilead Sciences,67,31
-2020-04-29,Supreme Court,70,30
-2020-04-29,Human Services,72,29
-2020-04-29,Department Of Health,73,28
+2020-04-29,Supreme Court,69,30
+2020-04-29,Human Services,73,29
+2020-04-29,Department Of Health,75,25
 2020-04-29,Google,75,26
-2020-04-29,University Of California,75,27
+2020-04-29,New York Post,75,27
+2020-04-29,University Of California,75,28
 2020-04-29,National Institutes Of Health,76,24
-2020-04-29,New York Post,76,25
 2020-04-29,Bloomberg,82,23
-2020-04-29,Democratic Party,86,22
-2020-04-29,Tyson Foods,88,21
+2020-04-29,Democratic Party,85,22
+2020-04-29,Tyson Foods,87,21
 2020-04-29,Youtube,89,20
-2020-04-29,Nan,93,19
-2020-04-29,Paycheck Protection Program,98,18
+2020-04-29,Nan,94,19
+2020-04-29,Paycheck Protection Program,97,18
 2020-04-29,Senate Majority Leader Mitch Mcconnell,99,17
 2020-04-29,Defamation League,119,16
+2020-04-29,World Health Organization,120,15
 2020-04-29,Orthodox Jewish Public Affairs Council,121,14
-2020-04-29,World Health Organization,121,15
 2020-04-29,National Institute Of Allergy,124,13
-2020-04-29,Johns Hopkins University,132,12
-2020-04-29,Drug Administration,133,11
-2020-04-29,Navy Blue Angels,148,10
-2020-04-29,Reuters,149,9
-2020-04-29,Facebook,186,8
-2020-04-29,Centers For Disease,207,7
-2020-04-29,Cnn,208,6
-2020-04-29,Associated Press,225,5
-2020-04-29,Twitter,371,4
+2020-04-29,Johns Hopkins University,129,12
+2020-04-29,Drug Administration,132,11
+2020-04-29,Navy Blue Angels,148,9
+2020-04-29,Reuters,148,10
+2020-04-29,Facebook,183,8
+2020-04-29,Centers For Disease,206,7
+2020-04-29,Cnn,209,6
+2020-04-29,Associated Press,230,5
+2020-04-29,Twitter,367,4
 2020-04-29,White House,423,3
-2020-04-29,New York Times,514,2
-2020-04-29,United States,692,1
-2020-04-30,Department Of Social Services,37,49
-2020-04-30,European Technical Advisory Group,37,50
-2020-04-30,Navy Blue Angels,39,48
-2020-04-30,Riders Alliance,40,46
-2020-04-30,York State Health Department,40,47
-2020-04-30,National Institutes Of Health,41,44
-2020-04-30,Paycheck Protection Program,41,45
-2020-04-30,Chinese Communist Party,42,42
-2020-04-30,Labor Department,42,43
-2020-04-30,Thomson Reuters Trust Principles,45,41
-2020-04-30,Bureau Of Prisons,48,40
-2020-04-30,National Health Service,54,39
-2020-04-30,Republican National Committee,56,38
-2020-04-30,New York Post,57,37
-2020-04-30,Instagram,58,36
-2020-04-30,Oval Office,61,34
-2020-04-30,Youtube,61,35
-2020-04-30,Defamation League,62,33
-2020-04-30,Transportation Authority,64,32
-2020-04-30,Justice Department,65,31
-2020-04-30,York City Office Of Emergency Management,66,30
-2020-04-30,Google,67,29
-2020-04-30,National Guard,68,27
-2020-04-30,Senate Majority Leader Mitch Mcconnell,68,28
-2020-04-30,Human Services,74,26
-2020-04-30,Department Of Defense,80,25
-2020-04-30,Democratic Party,84,24
-2020-04-30,Nan,87,23
-2020-04-30,Drug Administration,88,21
-2020-04-30,National Institute Of Allergy,88,22
-2020-04-30,Defense Department,91,20
-2020-04-30,Northwell Health,100,19
-2020-04-30,A Navy,104,18
-2020-04-30,Supreme Court,109,17
-2020-04-30,Bloomberg,110,16
-2020-04-30,New York Daily News,111,15
-2020-04-30,Msnbc,112,14
-2020-04-30,York Police Department,119,13
-2020-04-30,World Health Organization,145,12
-2020-04-30,Department Of Health,158,11
-2020-04-30,Reuters,172,10
-2020-04-30,Johns Hopkins University,179,9
-2020-04-30,Facebook,194,8
-2020-04-30,Centers For Disease,211,7
-2020-04-30,Cnn,248,6
-2020-04-30,Twitter,250,5
-2020-04-30,Associated Press,310,4
-2020-04-30,White House,392,3
-2020-04-30,New York Times,519,2
-2020-04-30,United States,575,1
+2020-04-29,New York Times,518,2
+2020-04-29,United States,687,1
+2020-04-30,Treasury Department,34,50
+2020-04-30,European Technical Advisory Group,35,48
+2020-04-30,Senate Republicans,35,49
+2020-04-30,York State Health Department,36,47
+2020-04-30,Navy Blue Angels,38,45
+2020-04-30,Riders Alliance,38,46
+2020-04-30,Labor Department,39,43
+2020-04-30,Paycheck Protection Program,39,44
+2020-04-30,Chinese Communist Party,41,42
+2020-04-30,Thomson Reuters Trust Principles,43,41
+2020-04-30,Bureau Of Prisons,45,40
+2020-04-30,National Health Service,48,39
+2020-04-30,Instagram,51,38
+2020-04-30,New York Post,53,37
+2020-04-30,Republican National Committee,54,36
+2020-04-30,Oval Office,55,35
+2020-04-30,Youtube,57,34
+2020-04-30,Defamation League,59,33
+2020-04-30,Justice Department,62,31
+2020-04-30,Transportation Authority,62,32
+2020-04-30,National Guard,63,29
+2020-04-30,York City Office Of Emergency Management,63,30
+2020-04-30,Senate Majority Leader Mitch Mcconnell,65,28
+2020-04-30,Google,66,27
+2020-04-30,Human Services,70,26
+2020-04-30,Department Of Defense,74,25
+2020-04-30,Drug Administration,78,23
+2020-04-30,National Institute Of Allergy,78,24
+2020-04-30,Democratic Party,81,22
+2020-04-30,Nan,87,21
+2020-04-30,Defense Department,88,20
+2020-04-30,Northwell Health,92,19
+2020-04-30,A Navy,100,18
+2020-04-30,Msnbc,105,17
+2020-04-30,New York Daily News,106,16
+2020-04-30,Bloomberg,107,15
+2020-04-30,Supreme Court,108,14
+2020-04-30,York Police Department,112,13
+2020-04-30,World Health Organization,141,12
+2020-04-30,Department Of Health,150,11
+2020-04-30,Reuters,165,10
+2020-04-30,Johns Hopkins University,166,9
+2020-04-30,Facebook,180,8
+2020-04-30,Centers For Disease,196,7
+2020-04-30,Twitter,233,6
+2020-04-30,Cnn,235,5
+2020-04-30,Associated Press,303,4
+2020-04-30,White House,371,3
+2020-04-30,New York Times,484,2
+2020-04-30,United States,539,1
 2020-05-01,University Of Delaware,27,50
 2020-05-01,Department Of Homeland Security,28,47
 2020-05-01,Fedex,28,48
@@ -4507,13 +4507,13 @@ date,organization,count,rn
 2020-05-01,York State Funeral Directors Association,29,46
 2020-05-01,Foreign Ministry,30,43
 2020-05-01,Hudson Institute,30,44
-2020-05-01,Human Services,31,41
 2020-05-01,Javits Center,31,42
-2020-05-01,National Institutes Of Health,32,39
-2020-05-01,York Police Department,32,40
+2020-05-01,Human Services,32,39
+2020-05-01,National Institutes Of Health,32,40
+2020-05-01,York Police Department,32,41
 2020-05-01,Jetblue,33,38
-2020-05-01,Northwell Health,34,37
 2020-05-01,Montefiore Medical Center,35,36
+2020-05-01,Northwell Health,35,37
 2020-05-01,Biden Senate,37,35
 2020-05-01,National Guard,38,34
 2020-05-01,National Intelligence,43,31
@@ -4523,18 +4523,18 @@ date,organization,count,rn
 2020-05-01,Senate Majority Leader Mitch Mcconnell,44,29
 2020-05-01,Whole Foods,44,30
 2020-05-01,University Of California,46,27
-2020-05-01,Google,47,26
-2020-05-01,Transportation Authority,48,25
+2020-05-01,Google,48,25
+2020-05-01,Transportation Authority,48,26
 2020-05-01,Paycheck Protection Program,49,24
 2020-05-01,Thomson Reuters Trust Principles,50,23
 2020-05-01,Supreme Court,51,22
 2020-05-01,Bloomberg,66,21
 2020-05-01,New York Post,68,20
 2020-05-01,Drug Administration,69,19
-2020-05-01,Emergency Management Agency,70,18
+2020-05-01,Emergency Management Agency,71,18
 2020-05-01,Instagram,72,17
-2020-05-01,Department Of Health,77,15
 2020-05-01,Johns Hopkins University,77,16
+2020-05-01,Department Of Health,78,15
 2020-05-01,Democratic Party,81,14
 2020-05-01,Nan,88,13
 2020-05-01,World Health Organization,95,12
@@ -4543,69 +4543,69 @@ date,organization,count,rn
 2020-05-01,Facebook,113,9
 2020-05-01,Reuters,144,8
 2020-05-01,Centers For Disease,159,7
-2020-05-01,Twitter,198,6
-2020-05-01,White House,226,5
+2020-05-01,Twitter,199,6
+2020-05-01,White House,227,5
 2020-05-01,Cnn,234,4
 2020-05-01,Associated Press,263,3
-2020-05-01,New York Times,376,2
-2020-05-01,United States,453,1
+2020-05-01,New York Times,377,2
+2020-05-01,United States,454,1
 2020-05-02,End Defense Solutions,16,50
 2020-05-02,Ben-Gurion International,17,47
 2020-05-02,Oval Office,17,48
 2020-05-02,University Of California,17,49
 2020-05-02,Israeli Health Ministry,18,45
 2020-05-02,Writer Colleen Slevin,18,46
-2020-05-02,York Health,19,44
-2020-05-02,El Al,20,39
-2020-05-02,Gilead Sciences,20,40
-2020-05-02,Israel Foreign Ministry,20,41
-2020-05-02,Msnbc,20,42
+2020-05-02,El Al,20,40
+2020-05-02,Gilead Sciences,20,41
+2020-05-02,Israel Foreign Ministry,20,42
 2020-05-02,Walmart,20,43
+2020-05-02,York Health,20,44
 2020-05-02,Bloomberg,21,36
 2020-05-02,Harvard University,21,37
-2020-05-02,United Nations,21,38
+2020-05-02,Msnbc,21,38
+2020-05-02,United Nations,21,39
 2020-05-02,Science Department,22,35
 2020-05-02,National Institute Of Allergy,23,33
 2020-05-02,Transit Authority,23,34
-2020-05-02,Google,26,31
 2020-05-02,New York Post,26,32
-2020-05-02,Javits Center,27,28
-2020-05-02,Johns Hopkins University,27,29
-2020-05-02,Youtube,27,30
+2020-05-02,Google,27,28
+2020-05-02,Javits Center,27,29
+2020-05-02,Johns Hopkins University,27,30
+2020-05-02,Youtube,27,31
 2020-05-02,Montefiore Medical Center,31,27
 2020-05-02,National Institutes Of Health Dr,32,26
-2020-05-02,Northwell Health,33,25
-2020-05-02,City Council Speaker Corey Johnson,35,23
-2020-05-02,Health Department,35,24
-2020-05-02,Human Services,40,22
-2020-05-02,York City Police Department,41,21
+2020-05-02,Northwell Health,34,25
+2020-05-02,City Council Speaker Corey Johnson,35,24
+2020-05-02,Health Department,36,23
+2020-05-02,Human Services,41,21
+2020-05-02,York City Police Department,41,22
 2020-05-02,Mount Sinai Hospital Health System,43,20
-2020-05-02,Emergency Management Agency,45,17
-2020-05-02,Mount Sinai Health System,45,18
-2020-05-02,Nan,45,19
+2020-05-02,Emergency Management Agency,46,18
+2020-05-02,Nan,46,19
+2020-05-02,Mount Sinai Health System,50,17
 2020-05-02,Isabella Geriatric Center,51,16
 2020-05-02,Transportation Authority,52,15
 2020-05-02,Shore University Hospital,53,14
-2020-05-02,World Health Organization,57,13
-2020-05-02,Instagram,60,12
+2020-05-02,Instagram,60,13
+2020-05-02,World Health Organization,62,12
 2020-05-02,Facebook,63,11
-2020-05-02,Cnn,64,10
-2020-05-02,Department Of Health,65,9
+2020-05-02,Cnn,65,10
+2020-05-02,Department Of Health,66,9
 2020-05-02,Reuters,67,8
 2020-05-02,Centers For Disease,70,7
 2020-05-02,Drug Administration,90,6
-2020-05-02,Twitter,93,5
-2020-05-02,New York Times,136,4
-2020-05-02,White House,165,3
-2020-05-02,Associated Press,205,2
-2020-05-02,United States,293,1
-2020-05-03,Google,10,49
-2020-05-03,Harvard Medical School,10,50
+2020-05-02,Twitter,94,5
+2020-05-02,New York Times,139,4
+2020-05-02,White House,171,3
+2020-05-02,Associated Press,211,2
+2020-05-02,United States,294,1
+2020-05-03,Google,10,50
 2020-05-03,Bureau Of Prisons,11,44
 2020-05-03,Georgetown University,11,45
 2020-05-03,Montefiore Medical Center,11,46
 2020-05-03,Msnbc,11,47
-2020-05-03,Oxford University,11,48
+2020-05-03,Oval Office,11,48
+2020-05-03,Oxford University,11,49
 2020-05-03,City Council Speaker Corey Johnson,12,39
 2020-05-03,Democratic Party,12,40
 2020-05-03,National Guard,12,41
@@ -4614,109 +4614,109 @@ date,organization,count,rn
 2020-05-03,Harvard University,13,36
 2020-05-03,Pew Research Center,13,37
 2020-05-03,York City Parks Department,13,38
-2020-05-03,Andrews Air Force,14,31
-2020-05-03,Emergency Management Agency,14,32
-2020-05-03,Mount Sinai Hospital Health System,14,33
-2020-05-03,New York Daily News,14,34
+2020-05-03,Andrews Air Force,14,32
+2020-05-03,Emergency Management Agency,14,33
+2020-05-03,Mount Sinai Hospital Health System,14,34
 2020-05-03,York City Police Department,14,35
 2020-05-03,Instagram,15,30
-2020-05-03,Mount Sinai Health System,16,28
-2020-05-03,Treasury Department,16,29
-2020-05-03,Bloomberg,17,26
-2020-05-03,New York Post,17,27
-2020-05-03,Ashford Inc,18,25
-2020-05-03,Small Business Administration,19,24
-2020-05-03,Nan,20,22
-2020-05-03,National Institute Of Allergy,20,23
-2020-05-03,Youtube,21,21
-2020-05-03,Federal Reserve,25,19
-2020-05-03,Transportation Authority,25,20
+2020-05-03,New York Daily News,15,31
+2020-05-03,Bloomberg,17,27
+2020-05-03,Mount Sinai Health System,17,28
+2020-05-03,New York Post,17,29
+2020-05-03,Treasury Department,18,26
+2020-05-03,Ashford Inc,20,23
+2020-05-03,Nan,20,24
+2020-05-03,National Institute Of Allergy,20,25
+2020-05-03,Small Business Administration,21,21
+2020-05-03,Youtube,21,22
+2020-05-03,Transportation Authority,26,20
+2020-05-03,Federal Reserve,27,19
 2020-05-03,York Police Department,28,18
-2020-05-03,Paycheck Protection Program,29,17
-2020-05-03,Supreme Court,31,16
-2020-05-03,Drug Administration,32,14
+2020-05-03,Paycheck Protection Program,31,17
 2020-05-03,Reuters,32,15
-2020-05-03,University Of Southern California,33,13
-2020-05-03,Human Services,37,12
-2020-05-03,Department Of Health,41,11
-2020-05-03,Johns Hopkins University,43,10
+2020-05-03,Supreme Court,32,16
+2020-05-03,Drug Administration,33,13
+2020-05-03,University Of Southern California,33,14
+2020-05-03,Human Services,38,12
+2020-05-03,Department Of Health,43,10
+2020-05-03,Johns Hopkins University,43,11
 2020-05-03,Facebook,47,9
-2020-05-03,Twitter,57,8
-2020-05-03,Cnn,62,7
-2020-05-03,World Health Organization,72,6
-2020-05-03,Associated Press,80,5
-2020-05-03,Centers For Disease,83,4
-2020-05-03,White House,122,3
-2020-05-03,New York Times,156,2
-2020-05-03,United States,248,1
-2020-05-04,Democratic National Committee,20,47
-2020-05-04,Infectious Disease Research,20,48
-2020-05-04,National Guard,20,49
-2020-05-04,Officials At Drexel University,20,50
-2020-05-04,Drexel University,21,45
-2020-05-04,Johns Hopkins Bloomberg School Of Public Health,21,46
-2020-05-04,Anastopoulo Law Firm,22,40
-2020-05-04,Purdue University,22,41
-2020-05-04,United Nations,22,42
-2020-05-04,University Of Colorado,22,43
-2020-05-04,Us Supreme Court,22,44
-2020-05-04,Amazon Web Services,23,38
-2020-05-04,National Institute Of Allergy,23,39
-2020-05-04,Bloomberg,24,35
-2020-05-04,Columbia University,24,36
-2020-05-04,Vanderbilt University,24,37
-2020-05-04,Department Of Education,26,32
-2020-05-04,Gilead Sciences,26,33
-2020-05-04,White House Coronavirus Task,26,34
-2020-05-04,University Of Washington,27,31
-2020-05-04,Department Of Homeland Security,28,28
-2020-05-04,National Institutes Of Health,28,29
+2020-05-03,Twitter,59,8
+2020-05-03,Cnn,63,7
+2020-05-03,World Health Organization,73,6
+2020-05-03,Associated Press,81,5
+2020-05-03,Centers For Disease,85,4
+2020-05-03,White House,126,3
+2020-05-03,New York Times,159,2
+2020-05-03,United States,251,1
+2020-05-04,Boeing,18,47
+2020-05-04,National Guard,18,48
+2020-05-04,Walmart,18,49
+2020-05-04,White House Coronavirus Task,18,50
+2020-05-04,Johns Hopkins Bloomberg School Of Public Health,19,46
+2020-05-04,Officials At Drexel University,20,45
+2020-05-04,Drexel University,21,41
+2020-05-04,Gilead Sciences,21,42
+2020-05-04,National Institute Of Allergy,21,43
+2020-05-04,United Nations,21,44
+2020-05-04,Amazon Web Services,22,36
+2020-05-04,Anastopoulo Law Firm,22,37
+2020-05-04,Purdue University,22,38
+2020-05-04,University Of Colorado,22,39
+2020-05-04,Us Supreme Court,22,40
+2020-05-04,Bloomberg,23,34
+2020-05-04,Vanderbilt University,23,35
+2020-05-04,Columbia University,24,33
+2020-05-04,National Institutes Of Health,26,31
+2020-05-04,University Of Washington,26,32
+2020-05-04,Department Of Homeland Security,28,29
 2020-05-04,University Of Chicago,28,30
-2020-05-04,European Union,29,27
+2020-05-04,Department Of Education,29,27
+2020-05-04,European Union,29,28
+2020-05-04,Instagram,32,26
+2020-05-04,Google,33,24
 2020-05-04,Montefiore Medical Center,33,25
-2020-05-04,Paycheck Protection Program,33,26
-2020-05-04,Google,34,24
-2020-05-04,Instagram,36,23
-2020-05-04,Justice Department,37,21
-2020-05-04,University Of California,37,22
-2020-05-04,New York Post,39,20
-2020-05-04,Emergency Management Agency,40,18
-2020-05-04,Health Department,40,19
-2020-05-04,Nan,43,16
-2020-05-04,Youtube,43,17
-2020-05-04,World Health Organization,60,15
-2020-05-04,Human Services,67,14
-2020-05-04,Department Of Health,68,13
-2020-05-04,Supreme Court,71,12
-2020-05-04,Drug Administration,82,11
-2020-05-04,Reuters,91,10
-2020-05-04,Centers For Disease,98,8
-2020-05-04,Johns Hopkins University,98,9
-2020-05-04,Twitter,101,7
-2020-05-04,Facebook,116,6
-2020-05-04,Associated Press,117,5
-2020-05-04,Cnn,157,4
-2020-05-04,White House,221,3
-2020-05-04,New York Times,308,2
-2020-05-04,United States,479,1
+2020-05-04,Justice Department,34,23
+2020-05-04,New York Post,35,21
+2020-05-04,Paycheck Protection Program,35,22
+2020-05-04,Health Department,36,19
+2020-05-04,University Of California,36,20
+2020-05-04,Emergency Management Agency,40,17
+2020-05-04,Youtube,40,18
+2020-05-04,Nan,42,16
+2020-05-04,World Health Organization,58,15
+2020-05-04,Human Services,59,14
+2020-05-04,Department Of Health,65,13
+2020-05-04,Supreme Court,67,12
+2020-05-04,Drug Administration,73,11
+2020-05-04,Reuters,89,10
+2020-05-04,Centers For Disease,91,9
+2020-05-04,Johns Hopkins University,92,8
+2020-05-04,Twitter,94,7
+2020-05-04,Facebook,107,6
+2020-05-04,Associated Press,111,5
+2020-05-04,Cnn,141,4
+2020-05-04,White House,209,3
+2020-05-04,New York Times,281,2
+2020-05-04,United States,454,1
 2020-05-05,Justice Department,23,50
 2020-05-05,National Institute Of Allergy,24,47
 2020-05-05,Oval Office,24,48
 2020-05-05,Senate Appropriations Committee,24,49
 2020-05-05,Writer Jim Mustian,25,46
-2020-05-05,Coronavirus Task,27,43
-2020-05-05,Department Of Defense,27,44
-2020-05-05,York City Health Department,27,45
+2020-05-05,Coronavirus Task,27,44
+2020-05-05,Department Of Defense,27,45
 2020-05-05,Democratic Party,28,41
 2020-05-05,Paycheck Protection Program,28,42
+2020-05-05,York City Health Department,28,43
 2020-05-05,Stony Brook University Hospital,29,39
 2020-05-05,Washington Post,29,40
 2020-05-05,University Of California,30,38
 2020-05-05,Senate Majority Leader Mitch Mcconnell,31,37
 2020-05-05,Columbia University,32,35
 2020-05-05,Msnbc,32,36
-2020-05-05,Thomson Reuters Trust Principles,34,34
 2020-05-05,Honeywell,35,33
+2020-05-05,Thomson Reuters Trust Principles,35,34
 2020-05-05,Office Of Special Counsel,37,32
 2020-05-05,National Institutes Of Health,39,30
 2020-05-05,Supreme Court,39,31
@@ -4725,7 +4725,7 @@ date,organization,count,rn
 2020-05-05,Bloomberg,48,28
 2020-05-05,Instagram,49,26
 2020-05-05,Youtube,52,25
-2020-05-05,Health Department,53,24
+2020-05-05,Health Department,54,24
 2020-05-05,Nan,55,23
 2020-05-05,Melinda Gates Foundation,56,22
 2020-05-05,Parker Jewish Institute In Queens,61,21
@@ -4735,20 +4735,20 @@ date,organization,count,rn
 2020-05-05,Google,68,17
 2020-05-05,University Of Washington,74,16
 2020-05-05,Human Services,103,15
-2020-05-05,Johns Hopkins University,111,14
+2020-05-05,Johns Hopkins University,112,14
 2020-05-05,Facebook,134,13
-2020-05-05,Department Of Health,136,11
-2020-05-05,Drug Administration,136,12
+2020-05-05,Department Of Health,137,12
+2020-05-05,Drug Administration,138,11
 2020-05-05,Twitter,142,10
 2020-05-05,New York Post,144,9
 2020-05-05,World Health Organization,148,8
 2020-05-05,Cnn,155,7
 2020-05-05,Centers For Disease,166,6
-2020-05-05,Reuters,168,5
-2020-05-05,Associated Press,223,4
-2020-05-05,White House,360,3
+2020-05-05,Reuters,170,5
+2020-05-05,Associated Press,224,4
+2020-05-05,White House,362,3
 2020-05-05,New York Times,457,2
-2020-05-05,United States,578,1
+2020-05-05,United States,582,1
 2020-05-06,Imperial College London,32,50
 2020-05-06,Chinese Communist Party,33,46
 2020-05-06,House Energy,33,47
@@ -4759,24 +4759,24 @@ date,organization,count,rn
 2020-05-06,Google,37,43
 2020-05-06,Paycheck Protection Program,38,41
 2020-05-06,York City Health,38,42
-2020-05-06,Thomson Reuters Trust Principles,40,40
 2020-05-06,Cohen Children Medical Center,41,39
+2020-05-06,Thomson Reuters Trust Principles,41,40
 2020-05-06,Columbia University,43,38
 2020-05-06,National Institutes Of Health,44,37
 2020-05-06,Melinda Gates Foundation,45,36
 2020-05-06,Emergency Management Agency,46,35
 2020-05-06,Democratic National Convention,48,33
 2020-05-06,Senate Appropriations Committee,48,34
-2020-05-06,Honeywell,49,32
-2020-05-06,Stony Brook University Hospital,51,30
-2020-05-06,Transportation Authority,51,31
+2020-05-06,Honeywell,51,30
+2020-05-06,Stony Brook University Hospital,51,31
+2020-05-06,Transportation Authority,51,32
 2020-05-06,Empire Center,53,29
 2020-05-06,Instagram,54,28
 2020-05-06,Supreme Court,55,27
 2020-05-06,Youtube,60,26
 2020-05-06,Kansas State University,61,25
-2020-05-06,Nan,64,23
 2020-05-06,York City Health Department,64,24
+2020-05-06,Nan,65,23
 2020-05-06,Isabella Geriatric Center,70,22
 2020-05-06,Office Of Special Counsel,73,21
 2020-05-06,Parker Jewish Institute In Queens,76,20
@@ -4785,34 +4785,34 @@ date,organization,count,rn
 2020-05-06,Drug Administration,89,17
 2020-05-06,Msnbc,91,16
 2020-05-06,Johns Hopkins University,93,15
-2020-05-06,Democratic Party,106,14
+2020-05-06,Democratic Party,104,14
 2020-05-06,New York Post,118,13
-2020-05-06,Human Services,121,12
+2020-05-06,Human Services,122,12
 2020-05-06,Centers For Disease,129,11
 2020-05-06,World Health Organization,130,10
-2020-05-06,Department Of Health,156,9
+2020-05-06,Department Of Health,157,9
 2020-05-06,Facebook,162,8
-2020-05-06,Reuters,173,7
-2020-05-06,Twitter,189,6
-2020-05-06,Cnn,285,5
+2020-05-06,Reuters,176,7
+2020-05-06,Twitter,190,6
+2020-05-06,Cnn,284,5
 2020-05-06,Associated Press,295,4
-2020-05-06,New York Times,395,3
-2020-05-06,White House,428,2
+2020-05-06,New York Times,396,3
+2020-05-06,White House,430,2
 2020-05-06,United States,726,1
-2020-05-07,Centers For Medicare,24,47
-2020-05-07,Federal Reserve Bank,24,48
-2020-05-07,Labor Department,24,49
-2020-05-07,Treasury Department,24,50
-2020-05-07,Columbia University,25,44
-2020-05-07,National Guard,25,45
-2020-05-07,World Trade Center,25,46
+2020-05-07,Centers For Medicare,24,48
+2020-05-07,Federal Reserve Bank,24,49
+2020-05-07,National Institute Of Allergy,24,50
+2020-05-07,Columbia University,25,45
+2020-05-07,National Guard,25,46
+2020-05-07,World Trade Center,25,47
+2020-05-07,Labor Department,27,44
 2020-05-07,Chinese Communist Party,28,41
 2020-05-07,Mount Sinai Health System,28,42
 2020-05-07,Senate Majority Leader Mitch Mcconnell,28,43
 2020-05-07,Melinda Gates Foundation,29,40
 2020-05-07,Jetblue,30,38
 2020-05-07,Neiman Marcus Group,30,39
-2020-05-07,Thomson Reuters Trust Principles,31,37
+2020-05-07,Thomson Reuters Trust Principles,32,37
 2020-05-07,Bloomberg,33,35
 2020-05-07,National Institutes Of Health,33,36
 2020-05-07,Neiman Marcus,37,34
@@ -4823,44 +4823,44 @@ date,organization,count,rn
 2020-05-07,Translational Genomics Research Institute,43,28
 2020-05-07,Yale School Of Public Health,43,29
 2020-05-07,Youtube,43,30
-2020-05-07,Human Services,44,25
 2020-05-07,Network Science Institute At Northeastern University,44,26
 2020-05-07,Department Of Homeland Security,45,23
-2020-05-07,Supreme Court,45,24
+2020-05-07,Human Services,45,24
+2020-05-07,Supreme Court,45,25
 2020-05-07,United Nations,46,22
 2020-05-07,Emergency Management Agency,48,21
 2020-05-07,Oval Office,52,19
 2020-05-07,Paycheck Protection Program,52,20
 2020-05-07,Instagram,55,17
 2020-05-07,Scripps Research,55,18
-2020-05-07,Drug Administration,66,16
-2020-05-07,Johns Hopkins University,68,15
-2020-05-07,Msnbc,69,14
+2020-05-07,Drug Administration,67,16
+2020-05-07,Johns Hopkins University,69,14
+2020-05-07,Msnbc,69,15
 2020-05-07,Nan,72,13
-2020-05-07,Google,84,12
+2020-05-07,Google,85,12
 2020-05-07,World Health Organization,91,11
-2020-05-07,Department Of Health,99,10
-2020-05-07,Reuters,117,9
+2020-05-07,Department Of Health,100,10
+2020-05-07,Reuters,119,9
 2020-05-07,Facebook,122,8
-2020-05-07,Centers For Disease,135,6
-2020-05-07,Cnn,135,7
-2020-05-07,Associated Press,162,5
+2020-05-07,Centers For Disease,135,7
+2020-05-07,Cnn,137,6
+2020-05-07,Associated Press,164,5
 2020-05-07,Twitter,189,4
-2020-05-07,White House,260,3
-2020-05-07,New York Times,332,2
-2020-05-07,United States,561,1
-2020-05-08,Chinese Communist Party,17,47
-2020-05-08,Development Authority,17,48
-2020-05-08,Health Department,17,49
-2020-05-08,Microsoft,17,50
-2020-05-08,Department Of Justice,18,44
-2020-05-08,Supreme Court,18,45
-2020-05-08,York Times Company,18,46
-2020-05-08,Frontier Airlines,19,42
-2020-05-08,Pfizer,19,43
-2020-05-08,Jetblue,20,40
-2020-05-08,University Of California,20,41
-2020-05-08,York City Health,21,39
+2020-05-07,White House,265,3
+2020-05-07,New York Times,334,2
+2020-05-07,United States,564,1
+2020-05-08,Chinese Communist Party,17,48
+2020-05-08,Development Authority,17,49
+2020-05-08,Medicaid Services,17,50
+2020-05-08,Department Of Justice,18,45
+2020-05-08,Supreme Court,18,46
+2020-05-08,York Times Company,18,47
+2020-05-08,Frontier Airlines,19,43
+2020-05-08,Pfizer,19,44
+2020-05-08,Jetblue,20,41
+2020-05-08,University Of California,20,42
+2020-05-08,York City Health,21,40
+2020-05-08,Health Department,22,39
 2020-05-08,University Of Maryland,23,37
 2020-05-08,Yale School Of Public Health,23,38
 2020-05-08,York Police Department,24,36
@@ -4876,19 +4876,19 @@ date,organization,count,rn
 2020-05-08,Thomson Reuters Trust Principles,31,28
 2020-05-08,National Bureau Of Economic Research,33,24
 2020-05-08,Walmart,33,25
-2020-05-08,Emergency Management Agency,35,22
-2020-05-08,Mcdonald,35,23
-2020-05-08,United Nations,37,21
+2020-05-08,Emergency Management Agency,35,23
+2020-05-08,United Nations,37,22
+2020-05-08,Mcdonald,39,21
 2020-05-08,Bloomberg,40,20
 2020-05-08,Google,41,19
 2020-05-08,Instagram,46,18
 2020-05-08,Federal Reserve,47,17
-2020-05-08,Nan,48,16
+2020-05-08,Nan,49,16
 2020-05-08,Johns Hopkins University,53,15
-2020-05-08,Human Services,60,14
+2020-05-08,Human Services,61,14
 2020-05-08,Labor Department,67,13
-2020-05-08,Department Of Health,68,11
-2020-05-08,Facebook,68,12
+2020-05-08,Facebook,72,12
+2020-05-08,Department Of Health,73,11
 2020-05-08,Drug Administration,81,10
 2020-05-08,World Health Organization,90,9
 2020-05-08,Cnn,109,8
@@ -4897,30 +4897,30 @@ date,organization,count,rn
 2020-05-08,Centers For Disease,130,5
 2020-05-08,Twitter,156,4
 2020-05-08,White House,183,3
-2020-05-08,New York Times,294,2
+2020-05-08,New York Times,295,2
 2020-05-08,United States,405,1
-2020-05-09,Cornell University,15,45
-2020-05-09,Harvard University,15,46
-2020-05-09,Miss America Organization,15,47
-2020-05-09,Pride Coalition,15,48
-2020-05-09,Thomson Reuters Trust Principles,15,49
+2020-05-09,Cornell University,15,46
+2020-05-09,Harvard University,15,47
+2020-05-09,Miss America Organization,15,48
+2020-05-09,Pride Coalition,15,49
 2020-05-09,York City Council,15,50
-2020-05-09,Committee To Reduce Infection Deaths,16,41
-2020-05-09,Korea Centers For Disease,16,42
-2020-05-09,Society For,16,43
-2020-05-09,Yale School Of Public Health,16,44
-2020-05-09,Bureau Of Labor Statistics,17,39
-2020-05-09,Workers Union,17,40
-2020-05-09,National Guard,18,38
+2020-05-09,Committee To Reduce Infection Deaths,16,42
+2020-05-09,Korea Centers For Disease,16,43
+2020-05-09,Society For,16,44
+2020-05-09,Yale School Of Public Health,16,45
+2020-05-09,Bureau Of Labor Statistics,17,40
+2020-05-09,Workers Union,17,41
+2020-05-09,National Guard,18,39
 2020-05-09,Amerispeak Panel,19,33
 2020-05-09,Ethics Religious Liberty Commission,19,34
 2020-05-09,Public Affairs Research,19,35
 2020-05-09,Religion News Foundation,19,36
 2020-05-09,Southern Baptist Convention,19,37
-2020-05-09,Korean Central News Agency On,21,30
-2020-05-09,Nan,21,31
+2020-05-09,Thomson Reuters Trust Principles,19,38
+2020-05-09,Korean Central News Agency On,21,31
 2020-05-09,York Genome Center,21,32
-2020-05-09,Youtube,22,29
+2020-05-09,Nan,22,29
+2020-05-09,Youtube,22,30
 2020-05-09,Northwell Health,23,27
 2020-05-09,York Police Department,23,28
 2020-05-09,Instagram,25,25
@@ -4935,11 +4935,11 @@ date,organization,count,rn
 2020-05-09,Johns Hopkins University,33,17
 2020-05-09,Security Council,35,16
 2020-05-09,Human Services,36,15
-2020-05-09,York State Department Of Health,37,14
+2020-05-09,York State Department Of Health,38,14
 2020-05-09,United Nations,43,13
 2020-05-09,Drug Administration,50,12
 2020-05-09,Facebook,52,11
-2020-05-09,Reuters,56,10
+2020-05-09,Reuters,62,10
 2020-05-09,Cnn,64,9
 2020-05-09,Twitter,73,7
 2020-05-09,World Health Organization,73,8
@@ -4966,39 +4966,39 @@ date,organization,count,rn
 2020-05-10,Harvard Global Health Institute,25,36
 2020-05-10,Nan,25,37
 2020-05-10,Transportation Authority,25,38
-2020-05-10,United Nations,27,32
-2020-05-10,Youtube,27,33
+2020-05-10,United Nations,27,33
 2020-05-10,Oval Office,28,30
 2020-05-10,Strategic National,28,31
+2020-05-10,Youtube,28,32
 2020-05-10,National Institutes Of Health,29,29
 2020-05-10,Reform Committee,30,28
 2020-05-10,University Of Washington,31,27
 2020-05-10,Institute For Health Metrics,32,26
 2020-05-10,Congress On,43,25
-2020-05-10,Kings Harbor Multicare Center,44,23
 2020-05-10,National Institute Of Allergy,44,24
+2020-05-10,Kings Harbor Multicare Center,45,23
 2020-05-10,York State Department Of Health,50,22
 2020-05-10,Supreme Court,52,21
 2020-05-10,York Genome Center,54,20
-2020-05-10,Society For,58,18
 2020-05-10,World Health Organization,58,19
-2020-05-10,Committee To Reduce Infection Deaths,60,17
-2020-05-10,Johns Hopkins University,61,15
-2020-05-10,Rockefeller University,61,16
-2020-05-10,Facebook,63,14
-2020-05-10,Health Department,65,13
-2020-05-10,National Guard,70,12
-2020-05-10,Reuters,81,11
-2020-05-10,Human Services,97,9
-2020-05-10,Twitter,97,10
+2020-05-10,Society For,59,18
+2020-05-10,Committee To Reduce Infection Deaths,61,16
+2020-05-10,Rockefeller University,61,17
+2020-05-10,Johns Hopkins University,62,15
+2020-05-10,Facebook,64,14
+2020-05-10,Health Department,66,13
+2020-05-10,National Guard,71,12
+2020-05-10,Reuters,91,11
+2020-05-10,Human Services,97,10
+2020-05-10,Twitter,98,9
 2020-05-10,Cnn,124,8
 2020-05-10,Drug Administration,130,7
 2020-05-10,Department Of Health,141,6
 2020-05-10,New York Times,157,5
-2020-05-10,Associated Press,202,4
+2020-05-10,Associated Press,203,4
 2020-05-10,Centers For Disease,225,3
 2020-05-10,White House,229,2
-2020-05-10,United States,292,1
+2020-05-10,United States,293,1
 2020-05-11,Emergency Management Agency,21,50
 2020-05-11,Congress On,22,47
 2020-05-11,Department Of Veterans Affairs,22,48
@@ -5020,9 +5020,9 @@ date,organization,count,rn
 2020-05-11,Justice Department,28,31
 2020-05-11,National Institute Of Allergy,28,32
 2020-05-11,Bloomberg,29,30
-2020-05-11,Google,32,28
 2020-05-11,York Department Of Health,32,29
-2020-05-11,Oval Office,33,27
+2020-05-11,Oval Office,33,28
+2020-05-11,Google,34,27
 2020-05-11,National Guard,36,26
 2020-05-11,Youtube,37,25
 2020-05-11,University Of California,38,24
@@ -5032,22 +5032,22 @@ date,organization,count,rn
 2020-05-11,Supreme Court,45,20
 2020-05-11,York State Department Of Health,45,21
 2020-05-11,New York Post,47,18
-2020-05-11,Nan,53,17
+2020-05-11,Nan,54,17
 2020-05-11,Institute For Health Metrics,61,16
 2020-05-11,University Of Washington,64,15
-2020-05-11,Facebook,68,14
+2020-05-11,Facebook,69,14
 2020-05-11,Johns Hopkins University,82,13
 2020-05-11,Human Services,84,12
-2020-05-11,Reuters,86,10
 2020-05-11,World Health Organization,86,11
+2020-05-11,Reuters,88,10
 2020-05-11,Drug Administration,108,9
 2020-05-11,Department Of Health,113,8
 2020-05-11,Twitter,114,7
-2020-05-11,Cnn,120,6
+2020-05-11,Cnn,121,6
 2020-05-11,Centers For Disease,169,5
 2020-05-11,Associated Press,197,4
 2020-05-11,New York Times,250,3
-2020-05-11,White House,292,2
+2020-05-11,White House,294,2
 2020-05-11,United States,445,1
 2020-05-12,Deputy Health,29,49
 2020-05-12,Lufthansa,29,50
@@ -5057,64 +5057,64 @@ date,organization,count,rn
 2020-05-12,Department Of Justice,32,46
 2020-05-12,Netflix,33,44
 2020-05-12,Andrews Naval Air Facility,34,43
-2020-05-12,Boeing,35,39
-2020-05-12,Department Of Homeland Security,35,40
-2020-05-12,Paycheck Protection Program,35,41
+2020-05-12,Boeing,35,40
+2020-05-12,Department Of Homeland Security,35,41
 2020-05-12,Pensions Committee On,35,42
-2020-05-12,United Airlines,36,37
-2020-05-12,University Of California,36,38
+2020-05-12,Paycheck Protection Program,36,38
+2020-05-12,United Airlines,36,39
 2020-05-12,European Union,37,35
 2020-05-12,National Institutes Of Health,37,36
-2020-05-12,Health Department,39,33
-2020-05-12,Youtube,39,34
+2020-05-12,University Of California,37,37
+2020-05-12,Health Department,38,34
+2020-05-12,Youtube,40,33
 2020-05-12,Us Centers For Disease,43,32
-2020-05-12,New York Post,48,31
-2020-05-12,York State Department Of Health,49,30
+2020-05-12,New York Post,49,30
+2020-05-12,York State Department Of Health,49,31
 2020-05-12,Google,51,29
 2020-05-12,Ryanair,55,28
 2020-05-12,Instagram,57,27
-2020-05-12,Nan,61,26
+2020-05-12,Nan,60,26
 2020-05-12,Adm,62,25
 2020-05-12,Us Supreme Court,66,24
-2020-05-12,Thomson Reuters Trust Principles,72,23
+2020-05-12,Thomson Reuters Trust Principles,70,23
 2020-05-12,Playboy,78,22
 2020-05-12,Human Services,87,21
 2020-05-12,Johns Hopkins University,90,19
 2020-05-12,World Health Organization,90,20
 2020-05-12,Pensions Committee,95,18
 2020-05-12,Department Of Health,100,17
+2020-05-12,Facebook,109,16
 2020-05-12,Drug Administration,110,15
-2020-05-12,Facebook,110,16
 2020-05-12,Cnn,127,14
 2020-05-12,Senate Health,130,13
 2020-05-12,Twitter,153,12
-2020-05-12,Associated Press,155,11
-2020-05-12,National Institute Of Allergy,165,10
+2020-05-12,Associated Press,154,11
+2020-05-12,National Institute Of Allergy,161,10
+2020-05-12,Trump Organization,173,9
 2020-05-12,Justice Department,174,8
-2020-05-12,Trump Organization,174,9
-2020-05-12,Reuters,197,7
-2020-05-12,Centers For Disease,204,6
-2020-05-12,Deutsche Bank,223,5
-2020-05-12,Supreme Court,263,4
-2020-05-12,White House,376,3
-2020-05-12,New York Times,401,2
+2020-05-12,Reuters,195,7
+2020-05-12,Centers For Disease,200,6
+2020-05-12,Deutsche Bank,222,5
+2020-05-12,Supreme Court,262,4
+2020-05-12,White House,372,3
+2020-05-12,New York Times,406,2
 2020-05-12,United States,473,1
-2020-05-13,Bloomberg,21,48
 2020-05-13,Netflix,21,49
 2020-05-13,Senate Republicans,21,50
-2020-05-13,Electoral College,22,44
-2020-05-13,Google,22,45
-2020-05-13,Tesla Inc,22,46
-2020-05-13,United Airlines,22,47
+2020-05-13,Bloomberg,22,45
+2020-05-13,Electoral College,22,46
+2020-05-13,Tesla Inc,22,47
+2020-05-13,United Airlines,22,48
 2020-05-13,Democratic Party,23,42
-2020-05-13,Thomson Reuters Trust Principles,23,43
-2020-05-13,Department Of Public Health,24,37
-2020-05-13,Deutsche Bank,24,38
-2020-05-13,Health Department,24,39
-2020-05-13,Msnbc,24,40
-2020-05-13,Paycheck Protection Program,24,41
-2020-05-13,Federal Reserve,25,35
-2020-05-13,Us Centers For Disease,25,36
+2020-05-13,Google,23,43
+2020-05-13,Thomson Reuters Trust Principles,23,44
+2020-05-13,Department Of Public Health,24,38
+2020-05-13,Deutsche Bank,24,39
+2020-05-13,Health Department,24,40
+2020-05-13,Msnbc,24,41
+2020-05-13,Federal Reserve,25,36
+2020-05-13,Paycheck Protection Program,25,37
+2020-05-13,Us Centers For Disease,27,35
 2020-05-13,National Guard,28,34
 2020-05-13,New York Post,30,33
 2020-05-13,United Nations,31,32
@@ -5128,13 +5128,13 @@ date,organization,count,rn
 2020-05-13,Senate Majority Leader Mitch Mcconnell,37,25
 2020-05-13,Pensions Committee,38,23
 2020-05-13,Senate Health,41,22
-2020-05-13,A Bureau Of Prisons,46,20
-2020-05-13,Instagram,46,21
-2020-05-13,Nan,52,19
+2020-05-13,A Bureau Of Prisons,46,21
+2020-05-13,Instagram,47,20
+2020-05-13,Nan,53,19
 2020-05-13,Drug Administration,57,18
 2020-05-13,Human Services,58,17
-2020-05-13,Facebook,74,16
-2020-05-13,World Health Organization,76,15
+2020-05-13,Facebook,76,15
+2020-05-13,World Health Organization,76,16
 2020-05-13,National Institute Of Allergy,84,14
 2020-05-13,Johns Hopkins University,85,12
 2020-05-13,Supreme Court,85,13
@@ -5144,11 +5144,11 @@ date,organization,count,rn
 2020-05-13,Justice Department,149,8
 2020-05-13,Cnn,155,7
 2020-05-13,Centers For Disease,159,6
-2020-05-13,Associated Press,161,5
-2020-05-13,Twitter,167,4
-2020-05-13,White House,262,3
-2020-05-13,New York Times,282,2
-2020-05-13,United States,447,1
+2020-05-13,Associated Press,162,5
+2020-05-13,Twitter,168,4
+2020-05-13,White House,264,3
+2020-05-13,New York Times,285,2
+2020-05-13,United States,449,1
 2020-05-14,Drug Administration,28,48
 2020-05-14,National Governors Association,28,49
 2020-05-14,York University,28,50
@@ -5175,7 +5175,7 @@ date,organization,count,rn
 2020-05-14,Johns Hopkins University,52,26
 2020-05-14,Supreme Court,52,27
 2020-05-14,Instagram,54,25
-2020-05-14,Nan,56,24
+2020-05-14,Nan,58,24
 2020-05-14,Sergeants Benevolent Association,59,22
 2020-05-14,United Nations,59,23
 2020-05-14,Msnbc,60,21
@@ -5189,66 +5189,66 @@ date,organization,count,rn
 2020-05-14,Department Terence Monahan,83,13
 2020-05-14,World Health Organization,91,12
 2020-05-14,New York Post,121,11
-2020-05-14,Facebook,126,10
+2020-05-14,Facebook,127,10
 2020-05-14,Reuters,144,9
 2020-05-14,Centers For Disease,145,8
 2020-05-14,Department Of Health,157,7
 2020-05-14,Cnn,159,6
-2020-05-14,Associated Press,179,5
-2020-05-14,Twitter,210,4
-2020-05-14,New York Times,293,3
-2020-05-14,White House,316,2
-2020-05-14,United States,446,1
-2020-05-15,Health Security,15,49
-2020-05-15,Johns Hopkins Center,15,50
+2020-05-14,Associated Press,181,5
+2020-05-14,Twitter,212,4
+2020-05-14,New York Times,298,3
+2020-05-14,White House,322,2
+2020-05-14,United States,448,1
+2020-05-15,Development Authority,15,49
+2020-05-15,Health Security,15,50
 2020-05-15,American Health Care Association,16,46
 2020-05-15,New York Stock Exchange,16,47
 2020-05-15,Wisconsin Supreme Court,16,48
-2020-05-15,Emergency Management Agency,17,42
-2020-05-15,Senate Intelligence Committee,17,43
-2020-05-15,United Nations,17,44
+2020-05-15,Emergency Management Agency,17,43
+2020-05-15,Senate Intelligence Committee,17,44
 2020-05-15,York Stock Exchange,17,45
-2020-05-15,Abbott Laboratories,18,39
-2020-05-15,Democratic Party,18,40
-2020-05-15,Southern New York Association,18,41
-2020-05-15,American Medical Association,19,36
-2020-05-15,Biomedical Advanced Research,19,37
-2020-05-15,Walmart,19,38
-2020-05-15,Justice Department,20,32
-2020-05-15,Msnbc,20,33
-2020-05-15,Paycheck Protection Program,20,34
-2020-05-15,Wells Fargo,20,35
-2020-05-15,Youtube,21,31
+2020-05-15,Abbott Laboratories,18,41
+2020-05-15,United Nations,18,42
+2020-05-15,American Medical Association,19,38
+2020-05-15,Democratic Party,19,39
+2020-05-15,Southern New York Association,19,40
+2020-05-15,Biomedical Advanced Research,20,32
+2020-05-15,Justice Department,20,33
+2020-05-15,Msnbc,20,34
+2020-05-15,Paycheck Protection Program,20,35
+2020-05-15,Walmart,20,36
+2020-05-15,Wells Fargo,20,37
 2020-05-15,Long Term Community Care Coalition,22,29
 2020-05-15,Society For,22,30
-2020-05-15,Human Services,23,27
+2020-05-15,Youtube,22,31
 2020-05-15,Supreme Court,23,28
-2020-05-15,Sergeants Benevolent Association,24,26
+2020-05-15,Human Services,24,26
+2020-05-15,Sergeants Benevolent Association,24,27
 2020-05-15,Police Benevolent Association,25,25
-2020-05-15,Google,26,23
 2020-05-15,Thomson Reuters Trust Principles,26,24
 2020-05-15,Department Terence Monahan,27,21
-2020-05-15,York Police Department,27,22
+2020-05-15,Google,27,22
+2020-05-15,York Police Department,27,23
 2020-05-15,Instagram,30,20
 2020-05-15,Johns Hopkins University,31,19
 2020-05-15,York University,34,18
-2020-05-15,National Guard,35,17
-2020-05-15,Health Department,37,16
+2020-05-15,National Guard,36,17
+2020-05-15,Health Department,38,16
 2020-05-15,Senate Majority Leader Mitch Mcconnell,41,15
-2020-05-15,Nan,48,14
+2020-05-15,Nan,49,14
 2020-05-15,Drug Administration,50,13
-2020-05-15,World Health Organization,54,12
+2020-05-15,World Health Organization,55,12
 2020-05-15,New York Post,64,11
-2020-05-15,Facebook,66,10
-2020-05-15,Department Of Health,67,9
+2020-05-15,Facebook,69,10
+2020-05-15,Department Of Health,70,9
 2020-05-15,Cnn,77,8
-2020-05-15,Twitter,85,7
-2020-05-15,Centers For Disease,87,6
+2020-05-15,Twitter,87,7
+2020-05-15,Centers For Disease,89,6
 2020-05-15,Reuters,92,5
-2020-05-15,Associated Press,123,4
-2020-05-15,White House,141,3
-2020-05-15,New York Times,210,2
-2020-05-15,United States,240,1
+2020-05-15,Associated Press,125,4
+2020-05-15,White House,143,3
+2020-05-15,New York Times,212,2
+2020-05-15,United States,245,1
 2020-05-16,Correctional Health Services,10,46
 2020-05-16,Liberty University,10,47
 2020-05-16,Office Of Foreign Missions,10,48
@@ -5261,13 +5261,13 @@ date,organization,count,rn
 2020-05-16,Oval Office,12,42
 2020-05-16,Senate Foreign Relations Committee,12,43
 2020-05-16,World Health Organisation,13,39
-2020-05-16,Democrats In Congress,14,33
-2020-05-16,Emergency Operations Center,14,34
-2020-05-16,Hawaii Department Of The Attorney,14,35
-2020-05-16,Legal Aid Society,14,36
-2020-05-16,Paycheck Protection Program,14,37
-2020-05-16,Supreme Court,14,38
+2020-05-16,Democrats In Congress,14,34
+2020-05-16,Emergency Operations Center,14,35
+2020-05-16,Hawaii Department Of The Attorney,14,36
+2020-05-16,Legal Aid Society,14,37
+2020-05-16,Paycheck Protection Program,14,38
 2020-05-16,Office Of The Inspector,15,32
+2020-05-16,Supreme Court,15,33
 2020-05-16,York State Department Of Health,16,31
 2020-05-16,Department Inspector,17,25
 2020-05-16,House Foreign Affairs Committee,17,26
@@ -5282,73 +5282,73 @@ date,organization,count,rn
 2020-05-16,Nan,24,19
 2020-05-16,Youtube,24,20
 2020-05-16,Johns Hopkins University,26,18
-2020-05-16,Centers For Disease,28,14
-2020-05-16,Drug Administration,28,15
-2020-05-16,Human Services,28,16
-2020-05-16,Senate Majority Leader Mitch Mcconnell,28,17
-2020-05-16,York Police Department,29,13
-2020-05-16,Twitter,34,12
-2020-05-16,Department Of Health,36,11
-2020-05-16,Reuters,38,10
-2020-05-16,Senate Republicans,41,8
+2020-05-16,Drug Administration,28,16
+2020-05-16,Human Services,28,17
+2020-05-16,Senate Majority Leader Mitch Mcconnell,29,14
+2020-05-16,York Police Department,29,15
+2020-05-16,Centers For Disease,30,13
+2020-05-16,Twitter,35,12
+2020-05-16,Department Of Health,38,10
+2020-05-16,Reuters,38,11
 2020-05-16,World Health Organization,41,9
+2020-05-16,Senate Republicans,43,8
 2020-05-16,Instagram,52,7
 2020-05-16,Facebook,53,6
 2020-05-16,Associated Press,58,5
 2020-05-16,Cnn,59,4
-2020-05-16,White House,94,3
+2020-05-16,White House,95,3
 2020-05-16,New York Times,137,2
-2020-05-16,United States,176,1
-2020-05-17,California Labor Federation,9,50
-2020-05-17,Fedex,10,48
-2020-05-17,Obama-Biden Administration,10,49
-2020-05-17,Department Of Homeland Security,11,46
-2020-05-17,Supreme Court,11,47
-2020-05-17,Tribune Content Agency,12,43
-2020-05-17,York Watkins Glen International,12,44
-2020-05-17,Youtube,12,45
-2020-05-17,Bible Baptist Church,13,39
-2020-05-17,First Liberty Institute,13,40
-2020-05-17,Health Department,13,41
-2020-05-17,University Of Alabama At Birmingham,13,42
-2020-05-17,Bloomberg,14,37
-2020-05-17,Kaiser Health News,14,38
-2020-05-17,Turing Pharmaceuticals,16,36
+2020-05-16,United States,177,1
+2020-05-17,Bible Baptist Church,9,48
+2020-05-17,California Labor Federation,9,49
+2020-05-17,Centers For Medicare,9,50
+2020-05-17,Medicaid Services,10,46
+2020-05-17,Obama-Biden Administration,10,47
+2020-05-17,Department Of Homeland Security,11,42
+2020-05-17,Supreme Court,11,43
+2020-05-17,York Watkins Glen International,11,44
+2020-05-17,Youtube,11,45
+2020-05-17,Tribune Content Agency,12,41
+2020-05-17,Bloomberg,14,39
+2020-05-17,Kaiser Health News,14,40
+2020-05-17,National Guard,15,38
+2020-05-17,Turing Pharmaceuticals,16,37
 2020-05-17,Department Terence Monahan,17,31
-2020-05-17,Dunkin Donuts,17,32
-2020-05-17,Mccarran International Airport,17,33
-2020-05-17,National Domestic Violence Hotline,17,34
-2020-05-17,Television New Zealand,17,35
+2020-05-17,Drug Administration,17,32
+2020-05-17,Dunkin Donuts,17,33
+2020-05-17,Mccarran International Airport,17,34
+2020-05-17,National Domestic Violence Hotline,17,35
+2020-05-17,Television New Zealand,17,36
 2020-05-17,Probation Department,18,30
-2020-05-17,American Health Care Association,19,23
-2020-05-17,American Medical Association,19,24
-2020-05-17,Arizona State University,19,25
-2020-05-17,Connecticut State Long Term Care Ombudsman Program,19,26
+2020-05-17,American Health Care Association,19,22
+2020-05-17,American Medical Association,19,23
+2020-05-17,Arizona State University,19,24
+2020-05-17,Connecticut State Long Term Care Ombudsman Program,19,25
+2020-05-17,Health Department,19,26
 2020-05-17,Long Term Care Community Coalition,19,27
 2020-05-17,Network For Public Health Law,19,28
 2020-05-17,Senate On,19,29
-2020-05-17,Drug Administration,20,22
 2020-05-17,Centers For Medicare Medicaid Services,21,20
 2020-05-17,National Governors Association,21,21
 2020-05-17,Obama Administration,22,19
 2020-05-17,Drexel University,23,18
 2020-05-17,New York Post,28,17
-2020-05-17,Nan,31,16
-2020-05-17,Human Services,34,15
-2020-05-17,Senate Majority Leader Mitch Mcconnell,35,14
-2020-05-17,Instagram,36,12
-2020-05-17,World Health Organization,36,13
-2020-05-17,Johns Hopkins University,41,11
-2020-05-17,Centers For Disease,49,10
+2020-05-17,Human Services,29,16
+2020-05-17,Nan,31,15
+2020-05-17,World Health Organization,33,14
+2020-05-17,Johns Hopkins University,34,13
+2020-05-17,Senate Majority Leader Mitch Mcconnell,35,12
+2020-05-17,Instagram,36,11
+2020-05-17,Centers For Disease,47,10
 2020-05-17,Department Of Health,50,9
-2020-05-17,Cnn,55,7
-2020-05-17,Reuters,55,8
-2020-05-17,Facebook,77,6
-2020-05-17,Associated Press,81,5
-2020-05-17,Twitter,86,4
-2020-05-17,White House,109,3
+2020-05-17,Cnn,52,8
+2020-05-17,Reuters,54,7
+2020-05-17,Associated Press,78,6
+2020-05-17,Facebook,82,5
+2020-05-17,Twitter,85,4
+2020-05-17,White House,106,3
 2020-05-17,New York Times,111,2
-2020-05-17,United States,158,1
+2020-05-17,United States,155,1
 2020-05-18,American Federation Of Teachers,13,46
 2020-05-18,Disney,13,47
 2020-05-18,Oval Office,13,48
@@ -5359,14 +5359,14 @@ date,organization,count,rn
 2020-05-18,Microsoft,14,43
 2020-05-18,Msnbc,14,44
 2020-05-18,University Of Alabama At Birmingham,14,45
-2020-05-18,Atlanta Rapid Transit Authority,15,33
-2020-05-18,European Union,15,34
-2020-05-18,Infrastructure Committee,15,35
-2020-05-18,Thomson Reuters Trust Principles,15,36
+2020-05-18,Atlanta Rapid Transit Authority,15,34
+2020-05-18,European Union,15,35
+2020-05-18,Infrastructure Committee,15,36
 2020-05-18,Transit Authority,15,37
 2020-05-18,Transit Union,15,38
 2020-05-18,Union Workers International,15,39
 2020-05-18,Walmart,15,40
+2020-05-18,Thomson Reuters Trust Principles,16,33
 2020-05-18,Costco,18,31
 2020-05-18,Supreme Court,18,32
 2020-05-18,Glaxosmithkline Plc,19,29
@@ -5386,7 +5386,7 @@ date,organization,count,rn
 2020-05-18,Nan,41,16
 2020-05-18,Youtube,43,15
 2020-05-18,Google,47,14
-2020-05-18,Reuters,49,13
+2020-05-18,Reuters,50,13
 2020-05-18,Human Services,51,12
 2020-05-18,Instagram,54,11
 2020-05-18,Associated Press,57,10
@@ -5397,8 +5397,8 @@ date,organization,count,rn
 2020-05-18,Centers For Disease,101,5
 2020-05-18,Facebook,113,4
 2020-05-18,White House,157,3
-2020-05-18,New York Times,214,2
-2020-05-18,United States,285,1
+2020-05-18,New York Times,215,2
+2020-05-18,United States,286,1
 2020-05-19,Department Of Labor,17,47
 2020-05-19,Greater New York Hospital Association,17,48
 2020-05-19,Senate Minority Leader Chuck Schumer,17,49
@@ -5414,9 +5414,9 @@ date,organization,count,rn
 2020-05-19,Google,23,39
 2020-05-19,Vanderbilt University Medical Center,24,37
 2020-05-19,Federal Reserve,25,36
-2020-05-19,Paycheck Protection Program,27,34
-2020-05-19,United Nations,27,35
+2020-05-19,Paycheck Protection Program,27,35
 2020-05-19,Institute For Community Living,28,33
+2020-05-19,United Nations,28,34
 2020-05-19,Walter Reed National Military Medical Center,29,32
 2020-05-19,Mental Health Services Administration,30,29
 2020-05-19,Police Benevolent Association,30,30
@@ -5427,78 +5427,78 @@ date,organization,count,rn
 2020-05-19,Department Of Education,34,26
 2020-05-19,Justice Department,35,24
 2020-05-19,Senate Democratic,40,23
-2020-05-19,Health Department,41,22
+2020-05-19,Health Department,42,22
 2020-05-19,Supreme Court,43,21
 2020-05-19,American Medical Association,44,20
-2020-05-19,Johns Hopkins University,45,18
-2020-05-19,New York Post,45,19
-2020-05-19,Kaiser Family Foundation,46,16
-2020-05-19,Nan,46,17
-2020-05-19,Reuters,47,15
+2020-05-19,Kaiser Family Foundation,46,17
+2020-05-19,Nan,46,18
+2020-05-19,New York Post,46,19
+2020-05-19,Johns Hopkins University,47,15
+2020-05-19,Reuters,47,16
 2020-05-19,Human Services,49,14
 2020-05-19,Instagram,50,13
-2020-05-19,World Health Organization,52,12
+2020-05-19,World Health Organization,55,12
 2020-05-19,Department Of Health,62,11
 2020-05-19,Facebook,65,10
-2020-05-19,Associated Press,97,9
+2020-05-19,Associated Press,98,9
 2020-05-19,Msnbc,116,8
 2020-05-19,Centers For Disease,118,7
-2020-05-19,Cnn,119,6
+2020-05-19,Cnn,122,6
 2020-05-19,Drug Administration,125,5
 2020-05-19,Twitter,159,4
-2020-05-19,White House,242,3
-2020-05-19,New York Times,254,2
-2020-05-19,United States,341,1
-2020-05-20,Columbia University,3,33
-2020-05-20,Department Of Health,3,34
-2020-05-20,Ford Motor Company Rawsonville,3,35
-2020-05-20,Health Administration,3,36
-2020-05-20,Health Department,3,37
-2020-05-20,Honeywell,3,38
-2020-05-20,Human Services,3,39
-2020-05-20,Langone Medical Center,3,40
-2020-05-20,Nan,3,41
-2020-05-20,National Institute Of Allergy,3,42
-2020-05-20,National Institutes Of Health,3,43
-2020-05-20,Science Department,3,44
-2020-05-20,Senate Leader Mitch Mcconnell,3,45
-2020-05-20,Smoothie King Center,3,46
-2020-05-20,University Of Virginia,3,47
-2020-05-20,Veterans Affairs,3,48
-2020-05-20,Walmart,3,49
-2020-05-20,World Health Organization,3,50
-2020-05-20,Baden-Powell Council,4,25
-2020-05-20,Crew Janci,4,26
-2020-05-20,Industrial Development Agency,4,27
-2020-05-20,Leatherstocking Council,4,28
-2020-05-20,Mintaha Neslihan Eroglu Anadolu Agency Getty Images,4,29
-2020-05-20,Seneca Waterways Council,4,30
-2020-05-20,United States District Court,4,31
-2020-05-20,York Police Department,4,32
-2020-05-20,Economic Development,5,24
-2020-05-20,Boy Scouts,6,17
-2020-05-20,Boy Scouts Of America,6,18
-2020-05-20,Centers For Disease,6,19
-2020-05-20,Institute For Community Living,6,20
-2020-05-20,Kaiser Family Foundation,6,21
-2020-05-20,Mental Health Services Administration,6,22
-2020-05-20,York Civil Liberties Union,6,23
-2020-05-20,Emory University In Atlanta,7,15
-2020-05-20,Twitter,7,16
-2020-05-20,Senate Republicans,8,14
-2020-05-20,American Association Of Poison Control Centers,9,8
-2020-05-20,Cnn,9,9
-2020-05-20,Department Of Education,9,10
-2020-05-20,Instagram,9,11
-2020-05-20,Msnbc,9,12
-2020-05-20,Senate Democratic,9,13
-2020-05-20,Department Of Veterans Affairs,10,5
-2020-05-20,New York Times,10,6
-2020-05-20,Police Benevolent Association,10,7
-2020-05-20,Associated Press,11,4
-2020-05-20,Drug Administration,17,3
-2020-05-20,United States,26,2
-2020-05-20,White House,27,1
+2020-05-19,White House,243,3
+2020-05-19,New York Times,257,2
+2020-05-19,United States,344,1
+2020-05-20,Justice Department,16,48
+2020-05-20,Mount Zion Baptist Church,16,49
+2020-05-20,Thomson Reuters Trust Principles,16,50
+2020-05-20,Bureau Of Prisons,17,44
+2020-05-20,European Union,17,45
+2020-05-20,Northwell Health,17,46
+2020-05-20,Veterans Affairs,17,47
+2020-05-20,City Council,18,40
+2020-05-20,Oprah Winfrey Charitable Foundation,18,41
+2020-05-20,Transportation Authority,18,42
+2020-05-20,United Nations,18,43
+2020-05-20,Emory University In Atlanta,19,38
+2020-05-20,Paycheck Protection Program,19,39
+2020-05-20,York University,20,37
+2020-05-20,American Association Of Poison Control Centers,21,35
+2020-05-20,Tennessee State University,21,36
+2020-05-20,Department Of Veterans Affairs,22,33
+2020-05-20,Health Administration,22,34
+2020-05-20,Columbia University,23,30
+2020-05-20,Museum Of Art,23,31
+2020-05-20,Supreme Court,23,32
+2020-05-20,Interfaith Advisory Council,24,28
+2020-05-20,New York Post,24,29
+2020-05-20,Senate Democratic,25,27
+2020-05-20,Senate Republicans,26,26
+2020-05-20,Google,27,24
+2020-05-20,Police Benevolent Association,27,25
+2020-05-20,York Police Department,28,23
+2020-05-20,Health Department,29,22
+2020-05-20,Department Of Education,32,20
+2020-05-20,Nan,32,21
+2020-05-20,Human Services,33,18
+2020-05-20,Msnbc,33,19
+2020-05-20,National Institutes Of Health,34,17
+2020-05-20,York Civil Liberties Union,40,16
+2020-05-20,Johns Hopkins University,41,14
+2020-05-20,National Institute Of Allergy,41,15
+2020-05-20,Department Of Health,42,13
+2020-05-20,Instagram,43,12
+2020-05-20,Reuters,53,11
+2020-05-20,World Health Organization,60,10
+2020-05-20,Cnn,68,8
+2020-05-20,Facebook,68,9
+2020-05-20,Associated Press,86,7
+2020-05-20,Centers For Disease,87,6
+2020-05-20,Drug Administration,96,5
+2020-05-20,Twitter,134,4
+2020-05-20,White House,139,3
+2020-05-20,New York Times,168,2
+2020-05-20,United States,247,1
 2020-05-21,Interfaith Advisory Council,18,47
 2020-05-21,Jewish Telegraphic Agency,18,48
 2020-05-21,Labor Department,18,49
@@ -5749,23 +5749,23 @@ date,organization,count,rn
 2020-05-25,White House,70,3
 2020-05-25,United States,102,2
 2020-05-25,New York Times,129,1
-2020-05-26,Human Services,18,50
-2020-05-26,Delta Air Lines,19,44
-2020-05-26,Department Of Justice,19,45
-2020-05-26,New York Daily News,19,46
-2020-05-26,Qatar Airways,19,47
-2020-05-26,Stock Exchange,19,48
-2020-05-26,Traveler Program,19,49
-2020-05-26,Latam Airlines Group,21,43
-2020-05-26,Army In World War,23,38
-2020-05-26,Glory Days Of Television News,23,39
-2020-05-26,Instagram,23,40
-2020-05-26,Kennedy Space Center,23,41
-2020-05-26,Radio Television Digital News Association,23,42
+2020-05-26,Human Services,18,48
+2020-05-26,Senate Majority Leader Mitch Mcconnell,18,49
+2020-05-26,Stock Exchange,18,50
+2020-05-26,Delta Air Lines,19,43
+2020-05-26,Department Of Justice,19,44
+2020-05-26,New York Daily News,19,45
+2020-05-26,Qatar Airways,19,46
+2020-05-26,Traveler Program,19,47
+2020-05-26,Latam Airlines Group,21,42
+2020-05-26,Army In World War,23,37
+2020-05-26,Glory Days Of Television News,23,38
+2020-05-26,Instagram,23,39
+2020-05-26,Kennedy Space Center,23,40
+2020-05-26,Radio Television Digital News Association,23,41
 2020-05-26,Avianca Holdings,24,34
 2020-05-26,Franklin Templeton,24,35
-2020-05-26,Intercontinental Exchange Inc,24,36
-2020-05-26,Youtube,24,37
+2020-05-26,Youtube,24,36
 2020-05-26,Department Of Environmental Management,25,32
 2020-05-26,Health Emergencies Programme,25,33
 2020-05-26,Google,26,29
@@ -5773,32 +5773,32 @@ date,organization,count,rn
 2020-05-26,York Civil Liberties Union,26,31
 2020-05-26,Health Department,27,28
 2020-05-26,Justice Department,29,27
+2020-05-26,New York Post,31,25
 2020-05-26,United Press International,31,26
 2020-05-26,Columbia University Irving Medical Center,32,24
-2020-05-26,New York Post,32,25
+2020-05-26,Department Of Health,33,22
 2020-05-26,University Of Colorado,33,23
-2020-05-26,Department Of Health,34,21
-2020-05-26,Feinstein Institutes For Medical Research In Manhasset,34,22
+2020-05-26,Feinstein Institutes For Medical Research In Manhasset,34,21
 2020-05-26,Arlington National Cemetery,35,19
 2020-05-26,Janssen Pharmaceuticals,35,20
+2020-05-26,Thomson Reuters Trust Principles,37,18
 2020-05-26,Nan,41,17
-2020-05-26,Thomson Reuters Trust Principles,41,18
+2020-05-26,Drug Administration,46,15
 2020-05-26,National Institutes Of Health,46,16
-2020-05-26,Drug Administration,47,15
-2020-05-26,Centers For Disease,56,14
+2020-05-26,Centers For Disease,55,14
 2020-05-26,World Health Organization,60,13
 2020-05-26,Msnbc,71,12
-2020-05-26,Johns Hopkins University,82,11
-2020-05-26,New York Stock Exchange,86,10
-2020-05-26,Facebook,88,9
-2020-05-26,Reuters,95,8
-2020-05-26,York Stock Exchange,100,7
-2020-05-26,Cnn,115,6
+2020-05-26,Johns Hopkins University,82,10
+2020-05-26,New York Stock Exchange,82,11
+2020-05-26,Facebook,87,9
+2020-05-26,Reuters,88,8
+2020-05-26,York Stock Exchange,94,7
+2020-05-26,Cnn,114,6
 2020-05-26,Associated Press,125,5
-2020-05-26,Twitter,167,4
+2020-05-26,Twitter,166,4
 2020-05-26,White House,187,3
-2020-05-26,New York Times,230,2
-2020-05-26,United States,309,1
+2020-05-26,New York Times,228,2
+2020-05-26,United States,301,1
 2020-05-27,British Columbia Supreme Court,28,46
 2020-05-27,Canada Border Services Agency,28,47
 2020-05-27,Chinese Embassy,28,48
@@ -5849,3 +5849,53 @@ date,organization,count,rn
 2020-05-27,Twitter,307,3
 2020-05-27,New York Times,351,2
 2020-05-27,United States,415,1
+2020-05-28,Assembly Minority Leader,12,48
+2020-05-28,Citizens Budget Commission,12,49
+2020-05-28,Columbia University,12,50
+2020-05-28,Department Of Justice,13,46
+2020-05-28,University Of Chicago,13,47
+2020-05-28,Oval Office,14,45
+2020-05-28,Supreme Court,15,44
+2020-05-28,Boeing,16,42
+2020-05-28,Infectious Disease Research,16,43
+2020-05-28,American Civil Liberties Union,19,39
+2020-05-28,Chinese Communist Party,19,40
+2020-05-28,Communications Decency,19,41
+2020-05-28,University Of Washington,20,38
+2020-05-28,Thomson Reuters Trust Principles,21,37
+2020-05-28,Justice Department,22,36
+2020-05-28,Youtube,23,35
+2020-05-28,National Guard,24,34
+2020-05-28,Senate Majority Leader Mitch Mcconnell,25,33
+2020-05-28,National Institutes Of Health,26,32
+2020-05-28,Nan,30,30
+2020-05-28,Senate Republicans,30,31
+2020-05-28,Paycheck Protection Program,31,29
+2020-05-28,Msnbc,33,28
+2020-05-28,American Foundation For Equal Rights,34,27
+2020-05-28,Instagram,35,25
+2020-05-28,New York Post,35,26
+2020-05-28,Army Of Lovers,38,23
+2020-05-28,Langone Medical Center,38,24
+2020-05-28,Burroughs-Wellcome Corp,42,21
+2020-05-28,Department Of Health,42,22
+2020-05-28,National Press Club,47,20
+2020-05-28,Academy Award,50,17
+2020-05-28,Google,50,18
+2020-05-28,World Health Organization,50,19
+2020-05-28,New York Stock Exchange,56,16
+2020-05-28,Johns Hopkins University,57,15
+2020-05-28,Coalition To Unleash Power,58,13
+2020-05-28,York Stock Exchange,58,14
+2020-05-28,Drug Administration,61,12
+2020-05-28,Centers For Disease,64,10
+2020-05-28,Gay Men Health Crisis,64,11
+2020-05-28,Reuters,70,9
+2020-05-28,National Institute Of Allergy,80,8
+2020-05-28,Cnn,103,7
+2020-05-28,Facebook,121,6
+2020-05-28,Associated Press,131,5
+2020-05-28,Twitter,209,4
+2020-05-28,White House,222,3
+2020-05-28,New York Times,283,2
+2020-05-28,United States,316,1

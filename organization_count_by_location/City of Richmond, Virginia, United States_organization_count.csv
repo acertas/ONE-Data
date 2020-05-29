@@ -2479,14 +2479,12 @@ date,organization,count,rn
 2020-04-29,Tyson Foods,2,45
 2020-04-29,Writers Randall Chase In Dover,2,46
 2020-04-29,Youtube,2,47
-2020-04-29,Allianz,3,10
-2020-04-29,Associated Press,3,11
-2020-04-29,Carolina Real Estate Commission,3,12
-2020-04-29,Department Of Motor Vehicles,3,13
-2020-04-29,Equity Fund,3,14
-2020-04-29,Fairfax Health District,3,15
-2020-04-29,Falls Church,3,16
-2020-04-29,Henderson Middle School,3,17
+2020-04-29,Allianz,3,12
+2020-04-29,Associated Press,3,13
+2020-04-29,Carolina Real Estate Commission,3,14
+2020-04-29,Department Of Motor Vehicles,3,15
+2020-04-29,Fairfax Health District,3,16
+2020-04-29,Falls Church,3,17
 2020-04-29,Marine Corps Base Quantico,3,18
 2020-04-29,Peninsula Acting Health,3,19
 2020-04-29,Peninsula Health District,3,20
@@ -2502,13 +2500,15 @@ date,organization,count,rn
 2020-04-29,Virginia Health,3,30
 2020-04-29,Virginia National Guard,3,31
 2020-04-29,Workforce Development Advisor Megan Healy,3,32
-2020-04-29,Chevron,4,3
-2020-04-29,Corporation Commission,4,4
-2020-04-29,Express,4,5
-2020-04-29,Gibson,4,6
-2020-04-29,United States,4,7
-2020-04-29,Virginia Department Of Health,4,8
-2020-04-29,Young,4,9
+2020-04-29,Chevron,4,5
+2020-04-29,Corporation Commission,4,6
+2020-04-29,Equity Fund,4,7
+2020-04-29,Express,4,8
+2020-04-29,Henderson Middle School,4,9
+2020-04-29,United States,4,10
+2020-04-29,Virginia Department Of Health,4,11
+2020-04-29,Gibson,5,3
+2020-04-29,Young,5,4
 2020-04-29,Centers For Disease,6,2
 2020-04-29,National Guard,7,1
 2020-04-30,A Circuit Court,1,32
@@ -3427,27 +3427,56 @@ date,organization,count,rn
 2020-05-19,Drug Administration,5,3
 2020-05-19,Medicines For All Institute,5,4
 2020-05-19,Melinda Gates Foundation,7,1
-2020-05-20,Association For Accessible Medicines,1,19
-2020-05-20,Department Of Health,1,20
-2020-05-20,Drug Administration,1,21
-2020-05-20,B Corp,2,5
-2020-05-20,Biomedical Advanced Research,2,6
-2020-05-20,Boehringer Ingelheim Chemicals Inc,2,7
-2020-05-20,Caregiver Services Corps,2,8
-2020-05-20,College Of Engineering,2,9
-2020-05-20,Department Of Chemical,2,10
-2020-05-20,Department Of Defense,2,11
-2020-05-20,Development Authority,2,12
-2020-05-20,Ethyl Corp,2,13
-2020-05-20,Howard University Hospital,2,14
-2020-05-20,United States,2,15
-2020-05-20,Virginia Commonwealth University,2,16
-2020-05-20,Virginia Innovation Partnership Authority,2,17
-2020-05-20,World Health Organization,2,18
-2020-05-20,Human Services,3,1
-2020-05-20,Medicines For All Institute,3,2
-2020-05-20,Melinda Gates Foundation,3,3
-2020-05-20,Phlow Corp,3,4
+2020-05-20,A Virginia State Police,1,26
+2020-05-20,Altria Group,1,27
+2020-05-20,Bb T Bank,1,28
+2020-05-20,Capitol Securities Management Inc,1,29
+2020-05-20,Center On Society,1,30
+2020-05-20,Chase Bank,1,31
+2020-05-20,Chesterfield Health Department,1,32
+2020-05-20,Chili,1,33
+2020-05-20,Corporation Commission,1,34
+2020-05-20,Department Of Motor Vehicles,1,35
+2020-05-20,Dodge,1,36
+2020-05-20,Employment Opportunity Commission,1,37
+2020-05-20,Falls Church,1,38
+2020-05-20,Fauquier Health,1,39
+2020-05-20,Gibson,1,40
+2020-05-20,Health Insurance Portability,1,41
+2020-05-20,Health Source,1,42
+2020-05-20,John Middleton Company,1,43
+2020-05-20,Jpmorgan Chase Co,1,44
+2020-05-20,Marine Corps Base Quantico,1,45
+2020-05-20,National Guard,1,46
+2020-05-20,New York Times,1,47
+2020-05-20,Northern Virginia Health Foundation,1,48
+2020-05-20,Peninsula Acting Health,1,49
+2020-05-20,Peninsula Health District,1,50
+2020-05-20,Associated Press,2,11
+2020-05-20,B Corp,2,12
+2020-05-20,Biomedical Advanced Research,2,13
+2020-05-20,Boehringer Ingelheim Chemicals Inc,2,14
+2020-05-20,Caregiver Services Corps,2,15
+2020-05-20,Centers For Disease,2,16
+2020-05-20,College Of Engineering,2,17
+2020-05-20,Department Of Chemical,2,18
+2020-05-20,Department Of Defense,2,19
+2020-05-20,Ethyl Corp,2,20
+2020-05-20,Fairfax Health District,2,21
+2020-05-20,Howard University Hospital,2,22
+2020-05-20,United States,2,23
+2020-05-20,Virginia Innovation Partnership Authority,2,24
+2020-05-20,World Health Organization,2,25
+2020-05-20,Association For Accessible Medicines,3,6
+2020-05-20,Development Authority,3,7
+2020-05-20,Drug Administration,3,8
+2020-05-20,Virginia Commonwealth University,3,9
+2020-05-20,Virginia Department Of Health,3,10
+2020-05-20,Department Of Health,4,5
+2020-05-20,Medicines For All Institute,5,2
+2020-05-20,Melinda Gates Foundation,5,3
+2020-05-20,Phlow Corp,5,4
+2020-05-20,Human Services,6,1
 2020-05-21,Alvogen Pharmaceuticals,1,43
 2020-05-21,Better Business Bureau,1,44
 2020-05-21,Department Of Health,1,45
@@ -3758,3 +3787,45 @@ date,organization,count,rn
 2020-05-27,Family Dollar,7,1
 2020-05-27,Senate Republicans,7,2
 2020-05-27,Virginia Association Of Chiefs Of Police,7,3
+2020-05-28,Blackwood Development,1,5
+2020-05-28,City Council,1,6
+2020-05-28,Cnn,1,7
+2020-05-28,Corporation Commission,1,8
+2020-05-28,Democratic Party,1,9
+2020-05-28,Department Of Motor Vehicles,1,10
+2020-05-28,Facebook,1,11
+2020-05-28,Fairfax Health District,1,12
+2020-05-28,Fauquier Health,1,13
+2020-05-28,George Mason University,1,14
+2020-05-28,Harvard Law School,1,15
+2020-05-28,Infuzion Dance Club,1,16
+2020-05-28,Johns Hopkins University,1,17
+2020-05-28,Kennedy Space Center,1,18
+2020-05-28,M T Bank,1,19
+2020-05-28,Marine Corps Base Quantico,1,20
+2020-05-28,Nan,1,21
+2020-05-28,National Guard,1,22
+2020-05-28,National Hurricane Center,1,23
+2020-05-28,Peninsula Acting Health,1,24
+2020-05-28,Peninsula Health District,1,25
+2020-05-28,Prince William Health District,1,26
+2020-05-28,Rappahannock Health District,1,27
+2020-05-28,Rappahannock-Rapidan Health District,1,28
+2020-05-28,Spacex,1,29
+2020-05-28,Supreme Court,1,30
+2020-05-28,Thomas Jefferson School Of Law,1,31
+2020-05-28,Trump Administration,1,32
+2020-05-28,Virginia Division Of Consolidated Laboratory Services,1,33
+2020-05-28,Virginia Employment Commission,1,34
+2020-05-28,Virginia Health,1,35
+2020-05-28,Virginia Health Department,1,36
+2020-05-28,Virginia Hospital Healthcare Association,1,37
+2020-05-28,Virginia Military Institute,1,38
+2020-05-28,Virginia National Bank,1,39
+2020-05-28,Virginia National Guard,1,40
+2020-05-28,Virginia State University,1,41
+2020-05-28,Workforce Development Advisor Megan Healy,1,42
+2020-05-28,Centers For Disease,2,1
+2020-05-28,Falls Church,2,2
+2020-05-28,United States,2,3
+2020-05-28,Virginia Department Of Health,2,4
