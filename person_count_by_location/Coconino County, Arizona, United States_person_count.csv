@@ -51,9 +51,9 @@ date,person,count,rn
 2020-03-08,Beatrice Roberts,1,8
 2020-03-08,Bradley Walsh,1,9
 2020-03-08,Bruce Pelz,1,10
-2020-03-08,Budd Cort,1,11
-2020-03-08,Burt Brinckerhoff,1,12
-2020-03-08,Chris Chibnall,1,13
+2020-03-08,Bruce Wayne,1,11
+2020-03-08,Budd Cort,1,12
+2020-03-08,Burt Brinckerhoff,1,13
 2020-03-08,Cora Buhlert,1,14
 2020-03-08,David Doering,1,15
 2020-03-08,Dean Koontz,1,16
@@ -62,13 +62,13 @@ date,person,count,rn
 2020-03-08,Elizabeth Shatner,1,19
 2020-03-08,Elon Musk,1,20
 2020-03-08,Hale Appleman,1,21
-2020-03-08,Jack Harkness,1,22
-2020-03-08,Janelle Mon,1,23
-2020-03-08,John Boston,1,24
-2020-03-08,John Dykstra,1,25
-2020-03-08,John Oneill,1,26
-2020-03-08,Josh Jackson,1,27
-2020-03-08,Juli Gugliemi,1,28
+2020-03-08,Helen Dewitt,1,22
+2020-03-08,Jack Harkness,1,23
+2020-03-08,Janelle Mon,1,24
+2020-03-08,John Boston,1,25
+2020-03-08,John Dykstra,1,26
+2020-03-08,John Oneill,1,27
+2020-03-08,Josh Jackson,1,28
 2020-03-08,Julie Cobb,1,29
 2020-03-08,Kate Hatcher,1,30
 2020-03-08,Kevin Roche,1,31
@@ -80,15 +80,15 @@ date,person,count,rn
 2020-03-08,Olivia Taylor Dudley,1,37
 2020-03-08,Parker Stevenson,1,38
 2020-03-08,Pat Mills,1,39
-2020-03-08,Queen Azura,1,40
-2020-03-08,Quentin Tarantino,1,41
-2020-03-08,Rachel Weisz,1,42
-2020-03-08,Riddley Walker,1,43
-2020-03-08,Robert Bloch,1,44
-2020-03-08,Russell Hoban Riddley Walker,1,45
-2020-03-08,Stanley Schmidt,1,46
-2020-03-08,Stella Maeve,1,47
-2020-03-08,Steven Silver,1,48
+2020-03-08,Philip Massey,1,40
+2020-03-08,Queen Azura,1,41
+2020-03-08,Quentin Tarantino,1,42
+2020-03-08,Rachel Weisz,1,43
+2020-03-08,Riddley Walker,1,44
+2020-03-08,Robert Bloch,1,45
+2020-03-08,Russell Hoban Riddley Walker,1,46
+2020-03-08,Stanley Schmidt,1,47
+2020-03-08,Summer Bishil,1,48
 2020-03-08,Veronica Henley,1,49
 2020-03-08,William Shatner,1,50
 2020-03-10,Adrian Skabelund,1,1
@@ -583,7 +583,6 @@ date,person,count,rn
 2020-03-31,Tom Ohalleran,5,3
 2020-03-31,David Bernhardt,7,2
 2020-03-31,Jonathan Nez,8,1
-2020-04-01,Audrey Kuhar,1,50
 2020-04-01,Alexandra Picavet,2,26
 2020-04-01,Alexis Hermosillo,2,27
 2020-04-01,Ali Mokdad,2,28
@@ -603,11 +602,12 @@ date,person,count,rn
 2020-04-01,Mike Pence,2,42
 2020-04-01,Mike Scott,2,43
 2020-04-01,Mila Besich,2,44
-2020-04-01,Nicholas Goodwin,2,45
-2020-04-01,Regina Romero,2,46
-2020-04-01,Ron Desantis,2,47
-2020-04-01,Scott Rivkees,2,48
-2020-04-01,Valerie Molina,2,49
+2020-04-01,Nan,2,45
+2020-04-01,Nicholas Goodwin,2,46
+2020-04-01,Regina Romero,2,47
+2020-04-01,Ron Desantis,2,48
+2020-04-01,Scott Rivkees,2,49
+2020-04-01,Valerie Molina,2,50
 2020-04-01,Ashley Ann Kuzma,3,23
 2020-04-01,Martin Edward Oconnor,3,24
 2020-04-01,Nik Wallenda,3,25
@@ -633,21 +633,22 @@ date,person,count,rn
 2020-04-01,Raul Grijalva,14,3
 2020-04-01,Doug Ducey,15,2
 2020-04-01,David Bernhardt,18,1
-2020-04-02,Brittney Garff,1,35
-2020-04-02,Cara Christ,1,36
-2020-04-02,Cheri Mossburg,1,37
-2020-04-02,Collin Carter,1,38
+2020-04-02,Brittney Garff,1,34
+2020-04-02,Cara Christ,1,35
+2020-04-02,Cheri Mossburg,1,36
+2020-04-02,Collin Carter,1,37
+2020-04-02,Dylan Cole,1,38
 2020-04-02,Emily Niehaus,1,39
 2020-04-02,Emma Griggs,1,40
-2020-04-02,Gabriel Trujillo,1,41
-2020-04-02,Jen Sadoff,1,42
-2020-04-02,Jose Pati,1,43
-2020-04-02,Kayci Cook,1,44
-2020-04-02,Laurel Morales,1,45
-2020-04-02,Los Angeles,1,46
-2020-04-02,Marcelo Ebrard,1,47
-2020-04-02,Marnie Hunter,1,48
-2020-04-02,Mason Thomas,1,49
+2020-04-02,Jose Pati,1,41
+2020-04-02,Kate Condino,1,42
+2020-04-02,Kayci Cook,1,43
+2020-04-02,Laurel Morales,1,44
+2020-04-02,Los Angeles,1,45
+2020-04-02,Marcelo Ebrard,1,46
+2020-04-02,Marnie Hunter,1,47
+2020-04-02,Mason Thomas,1,48
+2020-04-02,Michael D Weahkee,1,49
 2020-04-02,Ned Norris Jr,1,50
 2020-04-02,Al Tompkins,2,19
 2020-04-02,Anthony Fauci,2,20
@@ -661,10 +662,9 @@ date,person,count,rn
 2020-04-02,Jon Jarvis,2,28
 2020-04-02,Kristen Brengel,2,29
 2020-04-02,Lujan Grisham,2,30
-2020-04-02,Michael D Weahkee,2,31
-2020-04-02,Michelle Lujan Grisham,2,32
-2020-04-02,Shelly Clayton,2,33
-2020-04-02,Susan Schurman,2,34
+2020-04-02,Michelle Lujan Grisham,2,31
+2020-04-02,Shelly Clayton,2,32
+2020-04-02,Susan Schurman,2,33
 2020-04-02,Nan,3,18
 2020-04-02,Amanda Bissette,4,16
 2020-04-02,Mladen Antonov,4,17
@@ -1794,3 +1794,30 @@ date,person,count,rn
 2020-05-30,Lindsay Mcelfresh,2,5
 2020-05-30,Lupe Contreras,2,6
 2020-05-30,Ranger Matt Mcgrath,2,7
+2020-05-31,Andrew Hostad,1,4
+2020-05-31,Candice Sando,1,5
+2020-05-31,Julie Ann Overton,1,6
+2020-05-31,Lily Daniels,1,7
+2020-05-31,Lindsay Mcelfresh,1,8
+2020-05-31,Michael Caulkins,1,9
+2020-05-31,Ranger Brian Riley,1,10
+2020-05-31,Ranger Matt Mcgrath,1,11
+2020-05-31,Doug Ducey,2,1
+2020-05-31,Jonathan Nez,2,2
+2020-05-31,Lupe Contreras,2,3
+2020-06-01,Amanda Smith,1,12
+2020-06-01,Annette Bilagody,1,13
+2020-06-01,Attiya Bennett,1,14
+2020-06-01,Jessie Bilagody,1,15
+2020-06-01,Lucita Bennett,1,16
+2020-06-01,Bishop James,2,2
+2020-06-01,Doug Ducey,2,3
+2020-06-01,Harold Nez Frazier,2,4
+2020-06-01,Jean Stowell,2,5
+2020-06-01,Jose Andres,2,6
+2020-06-01,Lily Daniels,2,7
+2020-06-01,Lupe Contreras,2,8
+2020-06-01,Mark Boster Los Angeles,2,9
+2020-06-01,Our Lady,2,10
+2020-06-01,Tai Nguyen,2,11
+2020-06-01,Jonathan Nez,4,1
