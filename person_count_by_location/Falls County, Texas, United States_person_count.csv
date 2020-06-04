@@ -66,10 +66,10 @@ date,person,count,rn
 2020-03-23,Tom Perez,7,19
 2020-03-24,Andrew Cuomo,2,43
 2020-03-24,Carolyn Maloney,2,44
-2020-03-24,Christy Smith,2,45
-2020-03-24,Faiz Shakir,2,46
-2020-03-24,Max Rose,2,47
-2020-03-24,Mike Garcia,2,48
+2020-03-24,Faiz Shakir,2,45
+2020-03-24,Max Rose,2,46
+2020-03-24,Mike Garcia,2,47
+2020-03-24,Nicole Malliotakis,2,48
 2020-03-24,Steve Schale,2,49
 2020-03-24,Suraj Patel,2,50
 2020-03-24,Bernie Sander,4,41
@@ -202,9 +202,9 @@ date,person,count,rn
 2020-03-28,Andrew Cuomo,1,42
 2020-03-28,Bernie Sander,1,43
 2020-03-28,Carolyn Maloney,1,44
-2020-03-28,Christy Smith,1,45
-2020-03-28,Faiz Shakir,1,46
-2020-03-28,Max Rose,1,47
+2020-03-28,Faiz Shakir,1,45
+2020-03-28,Max Rose,1,46
+2020-03-28,Mike Garcia,1,47
 2020-03-28,Nicole Malliotakis,1,48
 2020-03-28,Steve Schale,1,49
 2020-03-28,Suraj Patel,1,50
@@ -253,11 +253,11 @@ date,person,count,rn
 2020-03-29,Bernie Sander,1,43
 2020-03-29,Carolyn Maloney,1,44
 2020-03-29,Christy Smith,1,45
-2020-03-29,Max Rose,1,46
-2020-03-29,Mike Garcia,1,47
-2020-03-29,Nicole Malliotakis,1,48
-2020-03-29,Steve Schale,1,49
-2020-03-29,Suraj Patel,1,50
+2020-03-29,Faiz Shakir,1,46
+2020-03-29,Max Rose,1,47
+2020-03-29,Mike Garcia,1,48
+2020-03-29,Nicole Malliotakis,1,49
+2020-03-29,Steve Schale,1,50
 2020-03-29,Hillary Clinton,2,40
 2020-03-29,Tom Emmer,2,41
 2020-03-29,Liz Brown-Kaiser,3,37
@@ -299,12 +299,12 @@ date,person,count,rn
 2020-03-29,Michael Bloomberg,7,20
 2020-03-29,Roger Lau Rogerlau,7,21
 2020-03-29,Tate Reeves,7,22
-2020-03-30,Bernie Sander,1,42
-2020-03-30,Carolyn Maloney,1,43
-2020-03-30,Christy Smith,1,44
-2020-03-30,Faiz Shakir,1,45
-2020-03-30,Max Rose,1,46
-2020-03-30,Mike Garcia,1,47
+2020-03-30,Andrew Cuomo,1,42
+2020-03-30,Bernie Sander,1,43
+2020-03-30,Carolyn Maloney,1,44
+2020-03-30,Christy Smith,1,45
+2020-03-30,Faiz Shakir,1,46
+2020-03-30,Max Rose,1,47
 2020-03-30,Nicole Malliotakis,1,48
 2020-03-30,Steve Schale,1,49
 2020-03-30,Suraj Patel,1,50
@@ -354,7 +354,7 @@ date,person,count,rn
 2020-03-31,Carolyn Maloney,1,44
 2020-03-31,Christy Smith,1,45
 2020-03-31,Faiz Shakir,1,46
-2020-03-31,Max Rose,1,47
+2020-03-31,Mike Garcia,1,47
 2020-03-31,Nicole Malliotakis,1,48
 2020-03-31,Steve Schale,1,49
 2020-03-31,Suraj Patel,1,50
@@ -554,3 +554,26 @@ date,person,count,rn
 2020-06-01,Wang Yi,2,11
 2020-06-01,William Jefferson Clinton,2,12
 2020-06-01,Zhao Lijian,2,13
+2020-06-03,Albert Einstein,1,1
+2020-06-03,Alex Weinhagen,1,2
+2020-06-03,Anne Watson,1,3
+2020-06-03,Anthony Fauci,1,4
+2020-06-03,Brent Scowcroft,1,5
+2020-06-03,Canaan Selectboard,1,6
+2020-06-03,Catherine Goldsmith,1,7
+2020-06-03,Dan Crenshaw,1,8
+2020-06-03,Deborah Birx,1,9
+2020-06-03,Deng Xiaoping,1,10
+2020-06-03,Frank Sawicki Jr,1,11
+2020-06-03,Josh Hawley,1,12
+2020-06-03,Karen Horn,1,13
+2020-06-03,Lance Gooden,1,14
+2020-06-03,Lea Terhune,1,15
+2020-06-03,Miro Weinberger,1,16
+2020-06-03,Peter Navarro,1,17
+2020-06-03,Richard Nixon,1,18
+2020-06-03,Sandra Vitzthum,1,19
+2020-06-03,Tom Cotton,1,20
+2020-06-03,Wang Yi,1,21
+2020-06-03,William Jefferson Clinton,1,22
+2020-06-03,Zhao Lijian,1,23

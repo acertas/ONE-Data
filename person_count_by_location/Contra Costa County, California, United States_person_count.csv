@@ -212,12 +212,12 @@ date,person,count,rn
 2020-03-06,Tom Gong,3,26
 2020-03-06,Yvonne Maldonado,3,27
 2020-03-07,Alex Wigglesworth,1,43
-2020-03-07,Colleen Shalby,1,44
+2020-03-07,Barbie Robinson,1,44
 2020-03-07,David Kline,1,45
 2020-03-07,David Witt,1,46
 2020-03-07,Erica Ymane,1,47
 2020-03-07,Lynda Daniels,1,48
-2020-03-07,Mark Baldassare,1,49
+2020-03-07,Martin Espinoza,1,49
 2020-03-07,Mike Kinney,1,50
 2020-03-07,Aimee Sisson,2,30
 2020-03-07,Anita Chabria,2,31
@@ -2200,53 +2200,103 @@ date,person,count,rn
 2020-06-01,Keyla Calderon,3,2
 2020-06-01,Los Angeles,3,3
 2020-06-01,George Floyd,5,1
-2020-06-02,Adam Eisen,1,20
-2020-06-02,Adam Popescu,1,21
-2020-06-02,Ahmaud Arbery,1,22
-2020-06-02,Alderman Raymond Lopez,1,23
-2020-06-02,Ashraf Khalil,1,24
-2020-06-02,Bauer Kahan,1,25
-2020-06-02,Breanna Taylor,1,26
-2020-06-02,Carl Guardino,1,27
-2020-06-02,Carl Wolfe,1,28
-2020-06-02,Chris Wikler,1,29
-2020-06-02,Christina Paciolla,1,30
-2020-06-02,Cynthia Laird,1,31
-2020-06-02,Cynthia Laird Clayton,1,32
-2020-06-02,Daisy Nguyen,1,33
-2020-06-02,Dan Mccoy,1,34
-2020-06-02,Dana Johnson,1,35
-2020-06-02,Danny Perez,1,36
-2020-06-02,David Chiu,1,37
-2020-06-02,David Chiu Jesse Gabriel,1,38
-2020-06-02,Dionne Searcey,1,39
-2020-06-02,Donovan Butler,1,40
-2020-06-02,Elliot Spagat,1,41
-2020-06-02,Gary Confenti,1,42
-2020-06-02,Gloria Chan,1,43
-2020-06-02,Harvey Milk,1,44
-2020-06-02,Jack Healy,1,45
-2020-06-02,Jay Cheng,1,46
-2020-06-02,Jesse Gabriel,1,47
-2020-06-02,Jesse Gabriel D-Encino,1,48
-2020-06-02,Jesus Christ,1,49
-2020-06-02,Joe Faraldo,1,50
-2020-06-02,Anna Bauman,2,11
-2020-06-02,Eric Garcetti,2,12
-2020-06-02,Gavin Newsom,2,13
-2020-06-02,Johnna Watson,2,14
-2020-06-02,Keyla Calderon,2,15
-2020-06-02,Lizzie Johnson,2,16
+2020-06-02,Adam Eisen,1,19
+2020-06-02,Adam Popescu,1,20
+2020-06-02,Ahmaud Arbery,1,21
+2020-06-02,Alderman Raymond Lopez,1,22
+2020-06-02,Ashraf Khalil,1,23
+2020-06-02,Bauer Kahan,1,24
+2020-06-02,Breanna Taylor,1,25
+2020-06-02,Brian Heath,1,26
+2020-06-02,Carl Wolfe,1,27
+2020-06-02,Chris Wikler,1,28
+2020-06-02,Christina Paciolla,1,29
+2020-06-02,Cynthia Laird,1,30
+2020-06-02,Cynthia Laird Clayton,1,31
+2020-06-02,Dan Mccoy,1,32
+2020-06-02,Dana Johnson,1,33
+2020-06-02,Danny Perez,1,34
+2020-06-02,David Chiu,1,35
+2020-06-02,David Chiu Jesse Gabriel,1,36
+2020-06-02,Donovan Butler,1,37
+2020-06-02,Elliot Spagat,1,38
+2020-06-02,Gary Confenti,1,39
+2020-06-02,Gloria Chan,1,40
+2020-06-02,Harvey Milk,1,41
+2020-06-02,Howard Markel,1,42
+2020-06-02,Jack Healy,1,43
+2020-06-02,Jay Cheng,1,44
+2020-06-02,Jesse Gabriel,1,45
+2020-06-02,Jesse Gabriel D-Encino,1,46
+2020-06-02,Jesus Christ,1,47
+2020-06-02,Joe Faraldo,1,48
+2020-06-02,John Bauters,1,49
+2020-06-02,John Brennan,1,50
+2020-06-02,Eric Garcetti,2,13
+2020-06-02,Gavin Newsom,2,14
+2020-06-02,Johnna Watson,2,15
+2020-06-02,Keyla Calderon,2,16
 2020-06-02,Mallory Moench,2,17
-2020-06-02,Santa Clara,2,18
-2020-06-02,Thomas Fuller,2,19
-2020-06-02,John King,3,7
-2020-06-02,Los Angeles,3,8
-2020-06-02,Matthew Kawahara,3,9
-2020-06-02,Matthias Gafni,3,10
+2020-06-02,Thomas Fuller,2,18
+2020-06-02,Anna Bauman,3,7
+2020-06-02,John King,3,8
+2020-06-02,Lizzie Johnson,3,9
+2020-06-02,Los Angeles,3,10
+2020-06-02,Matthew Kawahara,3,11
+2020-06-02,Matthias Gafni,3,12
 2020-06-02,Cara Patricia,6,2
 2020-06-02,Falilah Bilal,6,3
 2020-06-02,Frank Ogawa Plaza,6,4
 2020-06-02,James Fisher,6,5
 2020-06-02,Stanley Petey Cox,6,6
 2020-06-02,George Floyd,12,1
+2020-06-03,Ahmaud Arbery,1,4
+2020-06-03,Alexa Penavega,1,5
+2020-06-03,Amy Ragen,1,6
+2020-06-03,Andres Loyola,1,7
+2020-06-03,Aryeh Weingarten,1,8
+2020-06-03,Barbara Lee D-Oakland,1,9
+2020-06-03,Bob Dylan,1,10
+2020-06-03,Breonna Taylor,1,11
+2020-06-03,Carl Guardino,1,12
+2020-06-03,Carlos Penavega,1,13
+2020-06-03,Coldplay Chris Martin,1,14
+2020-06-03,Colin Yasukochi,1,15
+2020-06-03,Cynthia Laird,1,16
+2020-06-03,Dan Mccoy,1,17
+2020-06-03,Dana Johnson,1,18
+2020-06-03,Danny Ruiz,1,19
+2020-06-03,Dashun Burrell,1,20
+2020-06-03,Donald Trump,1,21
+2020-06-03,Elisabeth Middleberg,1,22
+2020-06-03,Fred Lopez,1,23
+2020-06-03,Gianna Harris,1,24
+2020-06-03,Gloria Chan,1,25
+2020-06-03,Jacquie Guzzo,1,26
+2020-06-03,Jakob Dylan,1,27
+2020-06-03,Jamie Foxx,1,28
+2020-06-03,Jason Koch Dambrosio,1,29
+2020-06-03,Jay Cheng,1,30
+2020-06-03,Joan Kroc,1,31
+2020-06-03,Julia Michaels,1,32
+2020-06-03,Karnei Chesed,1,33
+2020-06-03,Keith Boswell,1,34
+2020-06-03,Ken Carlson,1,35
+2020-06-03,Levi Dylan,1,36
+2020-06-03,Linda Smith Wendfeldt,1,37
+2020-06-03,Lisa Gauthier,1,38
+2020-06-03,London Breed,1,39
+2020-06-03,Matt Allen,1,40
+2020-06-03,Matthew Rinn,1,41
+2020-06-03,Owings Merrill,1,42
+2020-06-03,Pat Wadors,1,43
+2020-06-03,Rabb Weingarten,1,44
+2020-06-03,Rick Degolia,1,45
+2020-06-03,Rick Gerharter,1,46
+2020-06-03,Rodney Hicks,1,47
+2020-06-03,Roland Li,1,48
+2020-06-03,Ruben Pulido,1,49
+2020-06-03,Santa Clara,1,50
+2020-06-03,Cesar Zepeda,2,2
+2020-06-03,Jim Mitulski,2,3
+2020-06-03,George Floyd,3,1

@@ -470,50 +470,50 @@ date,person,count,rn
 2020-03-29,Daniel Regenye,1,3
 2020-03-29,Judith Persichilli,1,4
 2020-03-29,Jesse Robertazzi,3,1
-2020-03-30,Abe Friedman,1,15
-2020-03-30,Amy Kennedy,1,16
-2020-03-30,Annette Nunez,1,17
-2020-03-30,Anthony Fauci,1,18
-2020-03-30,Arlene Van Dyk,1,19
-2020-03-30,Bill Gibson,1,20
-2020-03-30,Blake Nelson,1,21
-2020-03-30,Bob Shryock,1,22
-2020-03-30,Bradely Billhimer,1,23
-2020-03-30,Brian Pruitt,1,24
-2020-03-30,Chris Sheldon,1,25
-2020-03-30,Christina Schadewald,1,26
-2020-03-30,Dana Rubinstein,1,27
-2020-03-30,Donald Trump,1,28
-2020-03-30,Eliyohu Zaks,1,29
-2020-03-30,Elizabeth Athos,1,30
-2020-03-30,Elizabeth Muoio,1,31
+2020-03-30,Abe Friedman,1,16
+2020-03-30,Amy Kennedy,1,17
+2020-03-30,Annette Nunez,1,18
+2020-03-30,Anthony Fauci,1,19
+2020-03-30,Arlene Van Dyk,1,20
+2020-03-30,Arthur Phillips,1,21
+2020-03-30,Blake Nelson,1,22
+2020-03-30,Bob Shryock,1,23
+2020-03-30,Bradely Billhimer,1,24
+2020-03-30,Brian Pruitt,1,25
+2020-03-30,Chris Sheldon,1,26
+2020-03-30,Christina Schadewald,1,27
+2020-03-30,Dana Rubinstein,1,28
+2020-03-30,Donald Trump,1,29
+2020-03-30,Eliyohu Zaks,1,30
+2020-03-30,Elizabeth Athos,1,31
 2020-03-30,Fred Madden,1,32
 2020-03-30,George Gore,1,33
 2020-03-30,Gregory Meyer,1,34
-2020-03-30,Hillary Clinton,1,35
-2020-03-30,Jack Ciattarelli,1,36
-2020-03-30,James Kelly,1,37
-2020-03-30,James Riccio,1,38
+2020-03-30,Jack Ciattarelli,1,35
+2020-03-30,James Kelly,1,36
+2020-03-30,James Riccio,1,37
+2020-03-30,Jeff Goldman,1,38
 2020-03-30,Jeremy Schneider,1,39
 2020-03-30,Jesse Robertazzi,1,40
 2020-03-30,John Ducey,1,41
 2020-03-30,John Mele,1,42
 2020-03-30,Judith Persichilli,1,43
-2020-03-30,Kathy Walsh,1,44
-2020-03-30,Kirk Ruoff,1,45
-2020-03-30,Kivvit Zach Silber,1,46
-2020-03-30,Lance Landgraf,1,47
-2020-03-30,Leslie Calabrese,1,48
+2020-03-30,Kirk Ruoff,1,44
+2020-03-30,Kivvit Zach Silber,1,45
+2020-03-30,Lance Landgraf,1,46
+2020-03-30,Leslie Calabrese,1,47
+2020-03-30,Lindy Washburn,1,48
 2020-03-30,Lisa Correra,1,49
 2020-03-30,Marta Harrison,1,50
 2020-03-30,Anthony Vaz,2,7
 2020-03-30,Bon Jovi,2,8
 2020-03-30,Bradley Billhimer,2,9
 2020-03-30,Bruce Springsteen,2,10
-2020-03-30,Jon Stewart,2,11
-2020-03-30,Judy Persichilli,2,12
-2020-03-30,Pat Callahan,2,13
-2020-03-30,Seth Wenig,2,14
+2020-03-30,Elizabeth Muoio,2,11
+2020-03-30,Jon Stewart,2,12
+2020-03-30,Judy Persichilli,2,13
+2020-03-30,Pat Callahan,2,14
+2020-03-30,Seth Wenig,2,15
 2020-03-30,Abraham Haberfeld,3,2
 2020-03-30,Bais Horaah,3,3
 2020-03-30,David Gluck,3,4
@@ -669,15 +669,15 @@ date,person,count,rn
 2020-04-03,Al Barlas,1,27
 2020-04-03,Alice Stockton-Rossini,1,28
 2020-04-03,Bradley Billhimer,1,29
-2020-04-03,Bucky Pizzarelli,1,30
+2020-04-03,Carly Sitrin,1,30
 2020-04-03,Colleen Wilson,1,31
 2020-04-03,Craig Jelinek,1,32
 2020-04-03,Dan Alexander,1,33
-2020-04-03,Donald Guardian,1,34
-2020-04-03,Doug Steinhardt,1,35
-2020-04-03,Dustin Racioppi,1,36
-2020-04-03,Easter Bunny,1,37
-2020-04-03,Everett Falt,1,38
+2020-04-03,Dave Parano,1,34
+2020-04-03,Donald Guardian,1,35
+2020-04-03,Doug Steinhardt,1,36
+2020-04-03,Dustin Racioppi,1,37
+2020-04-03,Easter Bunny,1,38
 2020-04-03,Gurbir Grewal,1,39
 2020-04-03,Hal Wirths,1,40
 2020-04-03,Jennifer Tornetta,1,41
@@ -688,8 +688,8 @@ date,person,count,rn
 2020-04-03,Matt Friedman,1,46
 2020-04-03,Mike Kelly,1,47
 2020-04-03,Mike Pence,1,48
-2020-04-03,Nola Bunny,1,49
-2020-04-03,Pres Jean Mikle,1,50
+2020-04-03,Nick Devlin,1,49
+2020-04-03,Nola Bunny,1,50
 2020-04-03,Alexander Ellison,2,6
 2020-04-03,Bernard Strulovic,2,7
 2020-04-03,Chaim Moshe Strulovic,2,8
@@ -1589,7 +1589,7 @@ date,person,count,rn
 2020-05-13,Nan,1,48
 2020-05-13,Nicholas Capriglione,1,49
 2020-05-13,Nikita Biryukov,1,50
-2020-05-13,Phil Murphy,2,1
+2020-05-13,Phil Murphy,3,1
 2020-05-14,Arianna Esposito,1,7
 2020-05-14,Samantha Wagensommer,1,8
 2020-05-14,Therese Squicciarini,1,9
@@ -1726,3 +1726,18 @@ date,person,count,rn
 2020-05-29,Rob Mcclure Chaplin,1,10
 2020-05-29,Victor Rollo,1,11
 2020-05-29,Chris Smith,2,1
+2020-06-03,Andy Creech,1,1
+2020-06-03,Barack Obama,1,2
+2020-06-03,Donald Trump,1,3
+2020-06-03,Filippo Menczer,1,4
+2020-06-03,Gao Fu,1,5
+2020-06-03,George Floyd,1,6
+2020-06-03,George Soros,1,7
+2020-06-03,Jillian Messina,1,8
+2020-06-03,Joe Biden,1,9
+2020-06-03,Lawrence Gostin,1,10
+2020-06-03,Maria Van Kerkhove,1,11
+2020-06-03,Michael Ryan,1,12
+2020-06-03,Sam Clemens,1,13
+2020-06-03,Sean Duval,1,14
+2020-06-03,Tedros Adhanom Ghebreyesus,1,15
