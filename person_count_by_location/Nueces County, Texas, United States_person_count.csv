@@ -313,6 +313,7 @@ date,person,count,rn
 2020-03-23,Maggie Asfahani,2,7
 2020-03-23,Sharon Hughes,2,8
 2020-03-23,Donald Trump,3,1
+2020-03-24,Annette Rodriguez,2,38
 2020-03-24,Barbara Canales,2,39
 2020-03-24,Hubert Mcnally,2,40
 2020-03-24,Jason Alexander,2,41
@@ -320,17 +321,16 @@ date,person,count,rn
 2020-03-24,John Benjamin Hickey,2,43
 2020-03-24,John Carucci,2,44
 2020-03-24,John Glover,2,45
-2020-03-24,John Hummel,2,46
-2020-03-24,Justin Kirk,2,47
-2020-03-24,Paula Vogel,2,48
+2020-03-24,Justin Kirk,2,46
+2020-03-24,Paula Vogel,2,47
+2020-03-24,Robert Dunham,2,48
 2020-03-24,Tom Kirdahy,2,49
 2020-03-24,Tracy Beatty,2,50
 2020-03-24,Al Worden,3,33
-2020-03-24,Annette Rodriguez,3,34
-2020-03-24,Joe Mccomb,3,35
-2020-03-24,Kenny Rogers,3,36
-2020-03-24,Michael Shannon,3,37
-2020-03-24,Tom Kitt,3,38
+2020-03-24,Joe Mccomb,3,34
+2020-03-24,Kenny Rogers,3,35
+2020-03-24,Michael Shannon,3,36
+2020-03-24,Tom Kitt,3,37
 2020-03-24,Amanda Marzullo,5,21
 2020-03-24,Bill Lee,5,22
 2020-03-24,Deputy Heath Gumm,5,23
@@ -1543,3 +1543,103 @@ date,person,count,rn
 2020-06-03,Nan,2,1
 2020-06-04,Shawna Pruitt,1,2
 2020-06-04,Nan,2,1
+2020-06-05,Amna Nawaz,2,26
+2020-06-05,Amy Mcgrath,2,27
+2020-06-05,Anita Kumar,2,28
+2020-06-05,Anna Palmer,2,29
+2020-06-05,Brian Mahoney,2,30
+2020-06-05,Chick Corea,2,31
+2020-06-05,Colin Powell,2,32
+2020-06-05,Cory Booker,2,33
+2020-06-05,David Cay Johnston Dcreport,2,34
+2020-06-05,Ellen Fleysher,2,35
+2020-06-05,Garrett Ross,2,36
+2020-06-05,John Dadamo,2,37
+2020-06-05,Kishon Mcdonald,2,38
+2020-06-05,Kristen Welker,2,39
+2020-06-05,Matt Zapotosky,2,40
+2020-06-05,Mike Heimowitz,2,41
+2020-06-05,Mitchell Rivard,2,42
+2020-06-05,Patrick Baker,2,43
+2020-06-05,Robin Bravender,2,44
+2020-06-05,Scott Gottlieb,2,45
+2020-06-05,Shane Goldmacher,2,46
+2020-06-05,Shane Huntley,2,47
+2020-06-05,Teodoro Obiang Nguema Mbasogo,2,48
+2020-06-05,Teresa Vilmain,2,49
+2020-06-05,Weber Shandwick Cherith Cleaves,2,50
+2020-06-05,Lee Lester,4,24
+2020-06-05,Patrick Svitek,4,25
+2020-06-05,George Floyd,7,23
+2020-06-05,Dan Patrick,11,22
+2020-06-05,Brehm Facebook,12,15
+2020-06-05,Dennis Bonnen,12,16
+2020-06-05,Gilbert Garcia,12,17
+2020-06-05,James Dickey,12,18
+2020-06-05,Joe Straus,12,19
+2020-06-05,John Cornyn,12,20
+2020-06-05,Ted Cruz,12,21
+2020-06-05,Jim Kaelin,13,14
+2020-06-05,Abhi Rahman,14,4
+2020-06-05,Dan Crenshaw,14,5
+2020-06-05,Donna Campbell,14,6
+2020-06-05,George Soros,14,7
+2020-06-05,John Wittman,14,8
+2020-06-05,Joseph Wade Miller,14,9
+2020-06-05,Keith Nielsen,14,10
+2020-06-05,Martin Luther King Jr,14,11
+2020-06-05,Pete Flores,14,12
+2020-06-05,R-New Braunfels,14,13
+2020-06-05,Cynthia Brehm,15,3
+2020-06-05,Donald Trump,17,1
+2020-06-05,Greg Abbott,17,2
+2020-06-06,Aaron Friedberg,1,5
+2020-06-06,Abhi Rahman,1,6
+2020-06-06,Al Sharpton,1,7
+2020-06-06,Ben Crump,1,8
+2020-06-06,Bishop Jaime Soto,1,9
+2020-06-06,Bishop Vann,1,10
+2020-06-06,Brehm Facebook,1,11
+2020-06-06,Brett Oetting,1,12
+2020-06-06,Carolyn Vaughn,1,13
+2020-06-06,Chick Corea,1,14
+2020-06-06,Cynthia Brehm,1,15
+2020-06-06,Dan Crenshaw,1,16
+2020-06-06,Dan Patrick,1,17
+2020-06-06,Dennis Bonnen,1,18
+2020-06-06,Donna Campbell,1,19
+2020-06-06,Eric Holguin,1,20
+2020-06-06,George Soros,1,21
+2020-06-06,Gilbert Garcia,1,22
+2020-06-06,Hubert Peterkin,1,23
+2020-06-06,Ilana Panich-Linsman,1,24
+2020-06-06,James Dickey,1,25
+2020-06-06,James Galberth,1,26
+2020-06-06,Jim Kaelin,1,27
+2020-06-06,Joe Straus,1,28
+2020-06-06,John Cornyn,1,29
+2020-06-06,John Wittman,1,30
+2020-06-06,Joseph Wade Miller,1,31
+2020-06-06,Keith Jarrett,1,32
+2020-06-06,Keith Nielsen,1,33
+2020-06-06,Latoya Gordon,1,34
+2020-06-06,Martin Luther King Jr,1,35
+2020-06-06,Pete Flores,1,36
+2020-06-06,R-New Braunfels,1,37
+2020-06-06,Richard Lomax,1,38
+2020-06-06,Stephanie Anderson,1,39
+2020-06-06,Ted Cruz,1,40
+2020-06-06,Theresa Thompson,1,41
+2020-06-06,Donald Trump,2,2
+2020-06-06,George Floyd,2,3
+2020-06-06,Nan,2,4
+2020-06-06,Greg Abbott,3,1
+2020-06-07,Cynthia Brehm,1,2
+2020-06-07,Donald Trump,1,3
+2020-06-07,George Soros,1,4
+2020-06-07,Gilbert Garcia,1,5
+2020-06-07,Jim Kaelin,1,6
+2020-06-07,Keith Nielsen,1,7
+2020-06-07,Lee Lester,1,8
+2020-06-07,Martin Luther King Jr,1,9
+2020-06-07,Nan,2,1
