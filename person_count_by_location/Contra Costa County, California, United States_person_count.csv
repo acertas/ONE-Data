@@ -212,12 +212,12 @@ date,person,count,rn
 2020-03-06,Tom Gong,3,26
 2020-03-06,Yvonne Maldonado,3,27
 2020-03-07,Alex Wigglesworth,1,44
-2020-03-07,Colleen Shalby,1,45
-2020-03-07,Erica Ymane,1,46
-2020-03-07,Lynda Daniels,1,47
-2020-03-07,Martin Espinoza,1,48
-2020-03-07,Patrick Odonnell,1,49
-2020-03-07,Rebecca Flunker,1,50
+2020-03-07,Barbie Robinson,1,45
+2020-03-07,Colleen Shalby,1,46
+2020-03-07,David Kline,1,47
+2020-03-07,David Witt,1,48
+2020-03-07,Erica Ymane,1,49
+2020-03-07,Lynda Daniels,1,50
 2020-03-07,Aimee Sisson,2,30
 2020-03-07,Anita Chabria,2,31
 2020-03-07,Barbara Ferrer,2,32
@@ -2200,50 +2200,50 @@ date,person,count,rn
 2020-06-01,Keyla Calderon,3,2
 2020-06-01,Los Angeles,3,3
 2020-06-01,George Floyd,5,1
-2020-06-02,Adam Eisen,1,18
-2020-06-02,Adam Popescu,1,19
-2020-06-02,Ahmaud Arbery,1,20
-2020-06-02,Alderman Raymond Lopez,1,21
-2020-06-02,Ashraf Khalil,1,22
-2020-06-02,Bauer Kahan,1,23
-2020-06-02,Breanna Taylor,1,24
-2020-06-02,Brian Heath,1,25
-2020-06-02,Carl Guardino,1,26
-2020-06-02,Carl Wolfe,1,27
-2020-06-02,Chris Wikler,1,28
-2020-06-02,Christina Paciolla,1,29
-2020-06-02,Colin Yasukochi,1,30
-2020-06-02,Cynthia Laird,1,31
-2020-06-02,Cynthia Laird Clayton,1,32
-2020-06-02,Daisy Nguyen,1,33
-2020-06-02,Dan Mccoy,1,34
-2020-06-02,Dana Johnson,1,35
-2020-06-02,Danny Perez,1,36
-2020-06-02,David Chiu,1,37
-2020-06-02,David Chiu Jesse Gabriel,1,38
-2020-06-02,Derek Chauvin,1,39
-2020-06-02,Dionne Searcey,1,40
-2020-06-02,Donovan Butler,1,41
-2020-06-02,Elliot Spagat,1,42
-2020-06-02,Gary Confenti,1,43
-2020-06-02,Gavin Newsom,1,44
-2020-06-02,Gloria Chan,1,45
+2020-06-02,Adam Eisen,1,19
+2020-06-02,Adam Popescu,1,20
+2020-06-02,Ahmaud Arbery,1,21
+2020-06-02,Alderman Raymond Lopez,1,22
+2020-06-02,Ashraf Khalil,1,23
+2020-06-02,Bauer Kahan,1,24
+2020-06-02,Breanna Taylor,1,25
+2020-06-02,Brian Heath,1,26
+2020-06-02,Carl Guardino,1,27
+2020-06-02,Carl Wolfe,1,28
+2020-06-02,Chris Wikler,1,29
+2020-06-02,Christina Paciolla,1,30
+2020-06-02,Colin Yasukochi,1,31
+2020-06-02,Cynthia Laird,1,32
+2020-06-02,Cynthia Laird Clayton,1,33
+2020-06-02,Daisy Nguyen,1,34
+2020-06-02,Dan Mccoy,1,35
+2020-06-02,Dana Johnson,1,36
+2020-06-02,Danny Perez,1,37
+2020-06-02,David Chiu,1,38
+2020-06-02,David Chiu Jesse Gabriel,1,39
+2020-06-02,Derek Chauvin,1,40
+2020-06-02,Dionne Searcey,1,41
+2020-06-02,Donovan Butler,1,42
+2020-06-02,Elliot Spagat,1,43
+2020-06-02,Gary Confenti,1,44
+2020-06-02,Gavin Newsom,1,45
 2020-06-02,Harvey Milk,1,46
-2020-06-02,Jack Healy,1,47
-2020-06-02,Jay Cheng,1,48
-2020-06-02,Jesse Gabriel,1,49
-2020-06-02,Jesse Gabriel D-Encino,1,50
-2020-06-02,Eric Garcetti,2,14
-2020-06-02,Keyla Calderon,2,15
-2020-06-02,Lizzie Johnson,2,16
-2020-06-02,Thomas Fuller,2,17
-2020-06-02,Anna Bauman,3,7
-2020-06-02,John King,3,8
-2020-06-02,Johnna Watson,3,9
-2020-06-02,Los Angeles,3,10
-2020-06-02,Mallory Moench,3,11
-2020-06-02,Matthew Kawahara,3,12
-2020-06-02,Matthias Gafni,3,13
+2020-06-02,Howard Markel,1,47
+2020-06-02,Jack Healy,1,48
+2020-06-02,Jack Nicas,1,49
+2020-06-02,Jay Cheng,1,50
+2020-06-02,Anna Bauman,2,11
+2020-06-02,Eric Garcetti,2,12
+2020-06-02,John King,2,13
+2020-06-02,Keyla Calderon,2,14
+2020-06-02,Matthew Kawahara,2,15
+2020-06-02,Matthias Gafni,2,16
+2020-06-02,Santa Clara,2,17
+2020-06-02,Thomas Fuller,2,18
+2020-06-02,Johnna Watson,3,7
+2020-06-02,Lizzie Johnson,3,8
+2020-06-02,Los Angeles,3,9
+2020-06-02,Mallory Moench,3,10
 2020-06-02,Cara Patricia,6,2
 2020-06-02,Falilah Bilal,6,3
 2020-06-02,Frank Ogawa Plaza,6,4
@@ -2366,3 +2366,4 @@ date,person,count,rn
 2020-06-07,Rodney King,4,9
 2020-06-07,Stephanie Lai,4,10
 2020-06-07,Susan Groux,4,11
+2020-06-08,Nan,2,1

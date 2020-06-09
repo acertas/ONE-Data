@@ -59,13 +59,13 @@ date,person,count,rn
 2020-03-02,Sue Gordon,1,27
 2020-03-02,Waleed Shahid,1,28
 2020-03-03,A Bernie Sanders,1,1
-2020-03-03,Alejandro Serrano,1,2
-2020-03-03,Alex Guillen,1,3
-2020-03-03,Alexa Mae Asperin,1,4
-2020-03-03,Amy Klobuchar,1,5
-2020-03-03,Anna Gronewold,1,6
-2020-03-03,Bernie Sanders,1,7
-2020-03-03,Buzzfeed Caroline Haskins,1,8
+2020-03-03,Alex Guillen,1,2
+2020-03-03,Amy Klobuchar,1,3
+2020-03-03,Anna Gronewold,1,4
+2020-03-03,Bernie Sanders,1,5
+2020-03-03,Bob Egelko,1,6
+2020-03-03,Buzzfeed Caroline Haskins,1,7
+2020-03-03,Caitlin Moscatello,1,8
 2020-03-03,Carl Demaio,1,9
 2020-03-03,Carla Marinucci,1,10
 2020-03-03,Cenk Uygur,1,11
@@ -78,34 +78,34 @@ date,person,count,rn
 2020-03-03,Duncan Hunter,1,18
 2020-03-03,Elizabeth Warren,1,19
 2020-03-03,Erin Griffith,1,20
-2020-03-03,Esmeralda Soria,1,21
+2020-03-03,Evan Sernoffsky,1,21
 2020-03-03,Gavin Newsom,1,22
-2020-03-03,George Papadopoulos,1,23
-2020-03-03,Healthline Jonel Aleccia,1,24
-2020-03-03,Jackie Lacey,1,25
-2020-03-03,James Lipton,1,26
-2020-03-03,Jeffrey Rosen,1,27
-2020-03-03,Jennifer Siebel Newsom,1,28
-2020-03-03,Jesse Shapiro,1,29
-2020-03-03,Jim Costa,1,30
-2020-03-03,Joe Biden,1,31
-2020-03-03,John Wildermuth,1,32
-2020-03-03,Jonathan Capehart,1,33
+2020-03-03,George Gasc,1,23
+2020-03-03,George Papadopoulos,1,24
+2020-03-03,Healthline Jonel Aleccia,1,25
+2020-03-03,Jackie Lacey,1,26
+2020-03-03,James Lipton,1,27
+2020-03-03,Jesse Shapiro,1,28
+2020-03-03,Jim Costa,1,29
+2020-03-03,Jo Craven Mcginty,1,30
+2020-03-03,John Wildermuth,1,31
+2020-03-03,Jonathan Capehart,1,32
+2020-03-03,Julie Johnson,1,33
 2020-03-03,Katherine Landergan,1,34
-2020-03-03,Leah Nylen,1,35
-2020-03-03,Melissa Gomez,1,36
-2020-03-03,Michael Barba,1,37
-2020-03-03,Mike Bloomberg,1,38
+2020-03-03,Laura Barr,1,35
+2020-03-03,Leah Nylen,1,36
+2020-03-03,Logan Mcdonald,1,37
+2020-03-03,Melissa Gomez,1,38
 2020-03-03,Mike Garcia,1,39
 2020-03-03,Nellie Bowles,1,40
 2020-03-03,Paul Cook,1,41
-2020-03-03,Pete Buttigieg,1,42
-2020-03-03,Phil Arballo,1,43
-2020-03-03,Rex Crum,1,44
-2020-03-03,Santa Clara,1,45
-2020-03-03,Sara Jacobs,1,46
-2020-03-03,Steve Knight,1,47
-2020-03-03,Susan Davis,1,48
+2020-03-03,Rachel Rossi,1,42
+2020-03-03,Rex Crum,1,43
+2020-03-03,Ro Khanna,1,44
+2020-03-03,Ryan Mac,1,45
+2020-03-03,Santa Clara,1,46
+2020-03-03,Sara Jacobs,1,47
+2020-03-03,Steve Glazer,1,48
 2020-03-03,Theodore Schleifer,1,49
 2020-03-03,William Barr,1,50
 2020-03-04,Amy Klobuchar,1,1
@@ -1005,16 +1005,16 @@ date,person,count,rn
 2020-05-20,Mattieo Condoluci,1,36
 2020-05-20,Michael Faye,1,37
 2020-05-20,Michael Flynn,1,38
-2020-05-20,Michael Reina,1,39
-2020-05-20,Michael Tubbs,1,40
-2020-05-20,Mitt Romney,1,41
-2020-05-20,Mordechai Lightstone,1,42
-2020-05-20,Nancy Pelosi D-San Francisco,1,43
-2020-05-20,Natalie Dagenhardt,1,44
-2020-05-20,Palash Ghosh,1,45
-2020-05-20,Rebecca Everett,1,46
-2020-05-20,Ro Khanna D-Fremont,1,47
-2020-05-20,Robert Menendez,1,48
+2020-05-20,Michael Tubbs,1,39
+2020-05-20,Mitt Romney,1,40
+2020-05-20,Mordechai Lightstone,1,41
+2020-05-20,Nancy Pelosi D-San Francisco,1,42
+2020-05-20,Natalie Dagenhardt,1,43
+2020-05-20,Palash Ghosh,1,44
+2020-05-20,Rebecca Everett,1,45
+2020-05-20,Ro Khanna D-Fremont,1,46
+2020-05-20,Robert Menendez,1,47
+2020-05-20,Robert Nixon,1,48
 2020-05-20,Sally Yates,1,49
 2020-05-20,Scott Halperin,1,50
 2020-05-22,Brian Kemp,1,25
@@ -1360,3 +1360,29 @@ date,person,count,rn
 2020-06-07,Stephen Watson,1,18
 2020-06-07,Suzi Levine,1,19
 2020-06-07,Zhao Lijian,1,20
+2020-06-08,Nathan Frandino,1,24
+2020-06-08,Terry Sawyer,1,25
+2020-06-08,Zhao Lijian,1,26
+2020-06-08,Adil Karaismailoglu,2,18
+2020-06-08,Artiz Parra,2,19
+2020-06-08,Augusto Santos Silva,2,20
+2020-06-08,Reyes Maroto,2,21
+2020-06-08,Santos Silva,2,22
+2020-06-08,Supapong Preunglampoo,2,23
+2020-06-08,Alok Sharma,3,1
+2020-06-08,Boris Johnson,3,2
+2020-06-08,Bruno Le Maire,3,3
+2020-06-08,Cara Christ,3,4
+2020-06-08,Dana Simas,3,5
+2020-06-08,Danny Mendoza,3,6
+2020-06-08,Derek Stevens,3,7
+2020-06-08,Doug Ducey,3,8
+2020-06-08,Eduardo Pazuello,3,9
+2020-06-08,Eric Clinton,3,10
+2020-06-08,Gavin Newsom,3,11
+2020-06-08,Grant Shapps,3,12
+2020-06-08,Keith Darcey,3,13
+2020-06-08,Las Vegas,3,14
+2020-06-08,Le Maire,3,15
+2020-06-08,Stephen Watson,3,16
+2020-06-08,Suzi Levine,3,17
