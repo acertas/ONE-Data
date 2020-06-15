@@ -1199,7 +1199,7 @@ date,person,count,rn
 2020-04-13,Anthony Fauci,8,1
 2020-04-13,Donald Trump,8,2
 2020-04-14,Chris Sununu,3,49
-2020-04-14,Jason Snead,3,50
+2020-04-14,Consovoy Mccarthy,3,50
 2020-04-14,Biden Sanders,4,46
 2020-04-14,Chris Smith,4,47
 2020-04-14,Tom Arnone,4,48
@@ -1249,7 +1249,7 @@ date,person,count,rn
 2020-04-14,Tim Murtaugh,7,20
 2020-04-14,Tom Malinowski,7,21
 2020-04-15,Chris Sununu,3,47
-2020-04-15,Consovoy Mccarthy,3,48
+2020-04-15,Jason Snead,3,48
 2020-04-15,Lady Michelle Obama,3,49
 2020-04-15,Leigh Ann Caldwell,3,50
 2020-04-15,Biden Sanders,4,46
@@ -1398,11 +1398,11 @@ date,person,count,rn
 2020-04-17,Shaquille Brewster,7,19
 2020-04-17,Tim Murtaugh,7,20
 2020-04-17,Tom Malinowski,7,21
-2020-04-18,Consovoy Mccarthy,3,46
-2020-04-18,Gretchen Whitmer,3,47
+2020-04-18,Hillary Clinton,3,47
 2020-04-18,Jason Snead,3,48
-2020-04-18,Laura Ingraham,3,49
-2020-04-18,Ralph Northam,3,50
+2020-04-18,Lady Michelle Obama,3,49
+2020-04-18,Laura Ingraham,3,50
+2020-04-18,Phil Murphy,4,46
 2020-04-18,Alex Seitz-Wald,5,30
 2020-04-18,Andrew Bates,5,31
 2020-04-18,Andrew Yang,5,32
@@ -1449,8 +1449,8 @@ date,person,count,rn
 2020-04-18,Tom Malinowski,6,29
 2020-04-18,Donald Trump,8,1
 2020-04-19,Biden Sanders,3,46
-2020-04-19,Consovoy Mccarthy,3,47
-2020-04-19,Jason Snead,3,48
+2020-04-19,Chris Sununu,3,47
+2020-04-19,Consovoy Mccarthy,3,48
 2020-04-19,Lady Michelle Obama,3,49
 2020-04-19,Leigh Ann Caldwell,3,50
 2020-04-19,Alex Seitz-Wald,5,29
@@ -2403,3 +2403,80 @@ date,person,count,rn
 2020-06-11,Bruce Springsteen,2,3
 2020-06-11,Amy Quinn,4,2
 2020-06-11,Phil Murphy,5,1
+2020-06-12,Albert Campo,1,26
+2020-06-12,Ben Cardin,1,27
+2020-06-12,Chris Coons,1,28
+2020-06-12,Eduardo Munoz,1,29
+2020-06-12,Eileen Chapman,1,30
+2020-06-12,Gurbir Grewal,1,31
+2020-06-12,James Avery,1,32
+2020-06-12,Jeanne Shaheen,1,33
+2020-06-12,Laura Brahn,1,34
+2020-06-12,Lorrie Irby Jackson,1,35
+2020-06-12,Marilou Halvorsen,1,36
+2020-06-12,Nan,1,37
+2020-06-12,Patrick Callahan,1,38
+2020-06-12,Porta Porta,1,39
+2020-06-12,Russ Desantis,1,40
+2020-06-12,Tim Mcloone,1,41
+2020-06-12,Aurora Ellis,2,18
+2020-06-12,Barbara Goldberg,2,19
+2020-06-12,Bruce Springsteen,2,20
+2020-06-12,Chris Gullace,2,21
+2020-06-12,Don Schaffner,2,22
+2020-06-12,John Ellery,2,23
+2020-06-12,Robert Lougy,2,24
+2020-06-12,Tom Arnone,2,25
+2020-06-12,Bloomberg States,3,16
+2020-06-12,Judy Persichilli,3,17
+2020-06-12,Pascal Sabine,5,14
+2020-06-12,Shanti Mignogna,5,15
+2020-06-12,Los Angeles,8,13
+2020-06-12,Cara Christ,11,12
+2020-06-12,Alex Azar,13,3
+2020-06-12,Andrew Cuomo,13,4
+2020-06-12,Donald Trump,13,5
+2020-06-12,Erna Solberg,13,6
+2020-06-12,Joe Raedle Getty,13,7
+2020-06-12,Larry Kudlow,13,8
+2020-06-12,Mike Ryan,13,9
+2020-06-12,Ron Desantis,13,10
+2020-06-12,Tedros Adhanom Ghebreyesus,13,11
+2020-06-12,Amy Quinn,25,2
+2020-06-12,Phil Murphy,31,1
+2020-06-13,Alex Azar,1,2
+2020-06-13,Amy Quinn,1,3
+2020-06-13,Andrew Cuomo,1,4
+2020-06-13,Anthony Bellano,1,5
+2020-06-13,Anthony Rosamilia,1,6
+2020-06-13,Barbara Sargent,1,7
+2020-06-13,Ben Dworkin,1,8
+2020-06-13,Brendan Sciarra,1,9
+2020-06-13,Cara Christ,1,10
+2020-06-13,Cheryl Venezia,1,11
+2020-06-13,Darryl Isherwood,1,12
+2020-06-13,David Aderhold,1,13
+2020-06-13,David Healy,1,14
+2020-06-13,Donald Trump,1,15
+2020-06-13,Eric Hibbs,1,16
+2020-06-13,Erna Solberg,1,17
+2020-06-13,George Floyd,1,18
+2020-06-13,Javonn Parrish,1,19
+2020-06-13,Lamont Repollet,1,20
+2020-06-13,Larry Kudlow,1,21
+2020-06-13,Los Angeles,1,22
+2020-06-13,Michael Salvatore,1,23
+2020-06-13,Michael Suleiman,1,24
+2020-06-13,Michael Testa,1,25
+2020-06-13,Mike Ryan,1,26
+2020-06-13,Mike Yaple,1,27
+2020-06-13,Modia Butler,1,28
+2020-06-13,Patrick Rosenello,1,29
+2020-06-13,Richard Bozza,1,30
+2020-06-13,Robert Beers,1,31
+2020-06-13,Robert Zywicki,1,32
+2020-06-13,Ron Desantis,1,33
+2020-06-13,Stephen Sweeney,1,34
+2020-06-13,Tedros Adhanom Ghebreyesus,1,35
+2020-06-13,Teresa Ruiz,1,36
+2020-06-13,Phil Murphy,4,1

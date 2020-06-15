@@ -1461,18 +1461,19 @@ date,person,count,rn
 2020-06-02,Los Angeles,6,7
 2020-06-02,Muriel Bowser,6,8
 2020-06-03,Roy Rochlin Alex Sabol,2,50
-2020-06-03,Alex Sabol,3,11
-2020-06-03,Barack Obama,3,12
-2020-06-03,Barry Richard,3,13
-2020-06-03,Ben Murray,3,14
-2020-06-03,Bernie Sanders,3,15
-2020-06-03,Brandt Hershman,3,16
-2020-06-03,Brian Buchanan,3,17
-2020-06-03,Bryan Coulter,3,18
-2020-06-03,Bryan Metzger,3,19
-2020-06-03,Chris Campbell,3,20
-2020-06-03,Dan Moore,3,21
-2020-06-03,Don Lehe,3,22
+2020-06-03,Alex Sabol,3,10
+2020-06-03,Barack Obama,3,11
+2020-06-03,Barry Richard,3,12
+2020-06-03,Ben Murray,3,13
+2020-06-03,Bernie Sanders,3,14
+2020-06-03,Brandt Hershman,3,15
+2020-06-03,Brian Buchanan,3,16
+2020-06-03,Bryan Coulter,3,17
+2020-06-03,Bryan Metzger,3,18
+2020-06-03,Chris Campbell,3,19
+2020-06-03,Dan Moore,3,20
+2020-06-03,Don Lehe,3,21
+2020-06-03,Donald Trump,3,22
 2020-06-03,Hillary Clinton,3,23
 2020-06-03,Ilana Stonebraker,3,24
 2020-06-03,Jacque Chosnek,3,25
@@ -1500,7 +1501,6 @@ date,person,count,rn
 2020-06-03,Ted Cruz,3,47
 2020-06-03,Tim Brown,3,48
 2020-06-03,Tobi Beck,3,49
-2020-06-03,Donald Trump,4,10
 2020-06-03,Ronald Hershow,6,9
 2020-06-03,Jennifer Nuzzo,7,8
 2020-06-03,David Eisenman,9,4
@@ -1563,9 +1563,9 @@ date,person,count,rn
 2020-06-08,Phil Murphy,1,5
 2020-06-10,Andrew Jackson,1,46
 2020-06-10,Angela Kinlaw,1,47
-2020-06-10,Duncan Plaza,1,48
-2020-06-10,George Floy,1,49
-2020-06-10,Gordon Plaza,1,50
+2020-06-10,Bishop Joseph Strickland,1,48
+2020-06-10,Duncan Plaza,1,49
+2020-06-10,George Floy,1,50
 2020-06-10,Abid Rahman,2,24
 2020-06-10,Barack Obama,2,25
 2020-06-10,Braxton Bragg,2,26
@@ -1617,3 +1617,44 @@ date,person,count,rn
 2020-06-11,Pope Francis,1,4
 2020-06-11,Pope John Paul,1,5
 2020-06-11,Yvonne Horning,1,6
+2020-06-12,Andrew Jackson,1,6
+2020-06-12,Angela Kinlaw,1,7
+2020-06-12,Benson Okpara,1,8
+2020-06-12,Charles Ellis,1,9
+2020-06-12,Donald Trump,1,10
+2020-06-12,Duncan Plaza,1,11
+2020-06-12,Felicia Mooney,1,12
+2020-06-12,George Floy,1,13
+2020-06-12,George Floyd,1,14
+2020-06-12,Gordon Plaza,1,15
+2020-06-12,Jesse Perkins,1,16
+2020-06-12,Joe Moran,1,17
+2020-06-12,Katie Schwartzmann,1,18
+2020-06-12,Keeven Robinson,1,19
+2020-06-12,Kristee Montgomery,1,20
+2020-06-12,Modesto Reyes,1,21
+2020-06-12,Orlean Duncan Plaza,1,22
+2020-06-12,Orlean Jackson Square,1,23
+2020-06-12,Pope Francis,1,24
+2020-06-12,Pope John Paul,1,25
+2020-06-12,Taylor Dixon,1,26
+2020-06-12,Yvonne Horning,1,27
+2020-06-12,Anthony Cook,2,1
+2020-06-12,Dennis Kruse,2,2
+2020-06-12,Eddie Melton,2,3
+2020-06-12,Eric Holcomb,2,4
+2020-06-12,Rachel Hoffmeyer,2,5
+2020-06-13,Anthony Cook,1,1
+2020-06-13,Benson Okpara,1,2
+2020-06-13,Craig Swfford,1,3
+2020-06-13,Dennis Kruse,1,4
+2020-06-13,Eddie Melton,1,5
+2020-06-13,Eric Holcomb,1,6
+2020-06-13,Felicia Mooney,1,7
+2020-06-13,George Thacker,1,8
+2020-06-13,Joe Moran,1,9
+2020-06-13,Pope Francis,1,10
+2020-06-13,Pope John Paul,1,11
+2020-06-13,Rachel Hoffmeyer,1,12
+2020-06-13,Trousdale Turner,1,13
+2020-06-13,Yvonne Horning,1,14
