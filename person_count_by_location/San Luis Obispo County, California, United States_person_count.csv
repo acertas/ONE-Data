@@ -749,7 +749,6 @@ date,person,count,rn
 2020-05-10,Kenneth Joey,1,6
 2020-05-10,Kim Busch,1,7
 2020-05-10,Sara Gummere,1,8
-2020-05-11,Amy Klobuchar,1,3
 2020-05-11,Andrew Cuomo,1,4
 2020-05-11,Anita Hill,1,5
 2020-05-11,April Kirby,1,6
@@ -759,46 +758,47 @@ date,person,count,rn
 2020-05-11,Chris Coons,1,10
 2020-05-11,Chuck Schumer,1,11
 2020-05-11,Clarence Thomas,1,12
-2020-05-11,David Axelrod,1,13
-2020-05-11,David Hatcher,1,14
-2020-05-11,David Kessler,1,15
-2020-05-11,David Plouffe,1,16
-2020-05-11,Donald Trump,1,17
-2020-05-11,Doug Jones,1,18
-2020-05-11,Elizabeth Warren,1,19
-2020-05-11,Elon Musk,1,20
-2020-05-11,Gavin Newsom,1,21
+2020-05-11,Cory Booker,1,13
+2020-05-11,David Axelrod,1,14
+2020-05-11,David Hatcher,1,15
+2020-05-11,David Kessler,1,16
+2020-05-11,David Plouffe,1,17
+2020-05-11,Donald Trump,1,18
+2020-05-11,Doug Jones,1,19
+2020-05-11,Elizabeth Warren,1,20
+2020-05-11,Elon Musk,1,21
 2020-05-11,Gretchen Whitmer,1,22
 2020-05-11,Heather Boushey,1,23
 2020-05-11,Hillary Clinton,1,24
 2020-05-11,Hunter Biden,1,25
 2020-05-11,Irwin Redlener,1,26
-2020-05-11,Jared Bernstein,1,27
-2020-05-11,Jay Inslee,1,28
-2020-05-11,Jennifer Granholm,1,29
-2020-05-11,Jess Mcintosh,1,30
+2020-05-11,Jake Sullivan,1,27
+2020-05-11,Jared Bernstein,1,28
+2020-05-11,Jay Inslee,1,29
+2020-05-11,Jennifer Granholm,1,30
 2020-05-11,Joe Biden,1,31
 2020-05-11,Joe Mika Brzezinski,1,32
 2020-05-11,John Morgan,1,33
 2020-05-11,Kamala Harris,1,34
 2020-05-11,Katie Halper,1,35
-2020-05-11,Kirsten Gillibrand,1,36
-2020-05-11,Lisa Monaco,1,37
-2020-05-11,Los Angeles,1,38
-2020-05-11,Los Angeles Eric Garcetti,1,39
-2020-05-11,Mark Peterson Redux,1,40
+2020-05-11,Lisa Monaco,1,36
+2020-05-11,Los Angeles,1,37
+2020-05-11,Los Angeles Eric Garcetti,1,38
+2020-05-11,Mark Peterson Redux,1,39
+2020-05-11,Megyn Kelly,1,40
 2020-05-11,Michelle Shoresman,1,41
-2020-05-11,Mitch Landrieu,1,42
-2020-05-11,Mitt Romney,1,43
-2020-05-11,Nancy Pelosi,1,44
-2020-05-11,Nicole Lurie,1,45
-2020-05-11,Omalley Dillon,1,46
-2020-05-11,Pete Buttigieg,1,47
-2020-05-11,Rahm Emanuel,1,48
-2020-05-11,Rebecca Katz,1,49
-2020-05-11,Rebecca Traister,1,50
-2020-05-11,Luis Obispo,2,1
-2020-05-11,Paso Robles,2,2
+2020-05-11,Mitt Romney,1,42
+2020-05-11,Nancy Pelosi,1,43
+2020-05-11,Nicole Lurie,1,44
+2020-05-11,Omalley Dillon,1,45
+2020-05-11,Pete Buttigieg,1,46
+2020-05-11,Rahm Emanuel,1,47
+2020-05-11,Rebecca Katz,1,48
+2020-05-11,Rebecca Traister,1,49
+2020-05-11,Ron Klain,1,50
+2020-05-11,Gavin Newsom,2,1
+2020-05-11,Luis Obispo,2,2
+2020-05-11,Paso Robles,2,3
 2020-05-12,Carole Baskin,1,15
 2020-05-12,Eric Goode,1,16
 2020-05-12,Joel Mchale,1,17
@@ -1053,3 +1053,41 @@ date,person,count,rn
 2020-06-11,Jorge Moreno,1,4
 2020-06-11,Karen Garcia,1,5
 2020-06-13,Nan,1,1
+2020-06-15,Anugrah Kumar,1,24
+2020-06-15,Arthel Neville,1,25
+2020-06-15,Carlos Francisco Perez,1,26
+2020-06-15,Centro Latino Americano,1,27
+2020-06-15,Jesus Avila,1,28
+2020-06-15,John Arroyo,1,29
+2020-06-15,John Wolfe,1,30
+2020-06-15,Jozie Donaghey,1,31
+2020-06-15,Linda Irma Castillo,1,32
+2020-06-15,Lorna Flormoe,1,33
+2020-06-15,Maurice Cola,1,34
+2020-06-15,Philonise Floyd,1,35
+2020-06-15,Reyna Lopez,1,36
+2020-06-15,Sarah Hall,1,37
+2020-06-15,Ted Hasson,1,38
+2020-06-15,Barack Obama,2,1
+2020-06-15,Charles Spurgeon,2,2
+2020-06-15,Christopher Bedford,2,3
+2020-06-15,Derek Chauvin,2,4
+2020-06-15,George Floyd,2,5
+2020-06-15,Gray Lady,2,6
+2020-06-15,Hurras Al-Deen,2,7
+2020-06-15,Ian Parkinson,2,8
+2020-06-15,Ilhan Omar,2,9
+2020-06-15,Joseph Klein,2,10
+2020-06-15,Joseph Wynne Velasquez,2,11
+2020-06-15,Lloyd Billingsley,2,12
+2020-06-15,Maktabah Ibn Taymiyyah Youtube,2,13
+2020-06-15,Matt Margolis,2,14
+2020-06-15,Mohammad Al-Ahmad,2,15
+2020-06-15,Nafis Abu Zayd Sparrow,2,16
+2020-06-15,Nicholas Dreyfus,2,17
+2020-06-15,Paso Robles,2,18
+2020-06-15,Rich Lowry,2,19
+2020-06-15,Robert Spencer,2,20
+2020-06-15,Tim Hains,2,21
+2020-06-15,Trevor Loudon,2,22
+2020-06-15,Wilma Maria,2,23
