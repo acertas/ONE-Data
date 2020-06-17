@@ -16,55 +16,55 @@ date,person,count,rn
 2020-02-03,Rosen Huynh,3,11
 2020-02-03,Santa Barbara,3,12
 2020-02-05,Adam Schiff,1,1
-2020-02-05,Andrew Desiderio,1,2
-2020-02-05,Angela Hart,1,3
-2020-02-05,Bernie Sanders,1,4
-2020-02-05,Bloomberg Spencer Soper,1,5
-2020-02-05,Bob Hertzberg,1,6
-2020-02-05,Burgess Everett,1,7
-2020-02-05,Californian Jody Jones,1,8
-2020-02-05,Calmatter Ben Christopher,1,9
-2020-02-05,Carla Marinucci,1,10
-2020-02-05,Casey Tolan,1,11
-2020-02-05,Christopher Cadelago,1,12
-2020-02-05,Clark Stevens,1,13
-2020-02-05,Dominic Fracassa,1,14
-2020-02-05,Donald Trump,1,15
-2020-02-05,Esther Mobley,1,16
-2020-02-05,George Gasc,1,17
-2020-02-05,Gerry Serrano,1,18
-2020-02-05,Harley Rouda,1,19
-2020-02-05,Heather Caygle,1,20
-2020-02-05,Henry Goldman,1,21
-2020-02-05,Holly Mitchell,1,22
-2020-02-05,Ian Wheeler,1,23
-2020-02-05,Jackie Lacey,1,24
-2020-02-05,Jackie Speier,1,25
-2020-02-05,Jerry Brown,1,26
-2020-02-05,Jesse Shapiro,1,27
-2020-02-05,Juan Vargas,1,28
-2020-02-05,Katie Lauer,1,29
-2020-02-05,Kyle Cheney,1,30
-2020-02-05,Laura Newberry,1,31
-2020-02-05,Los Angeles,1,32
-2020-02-05,Luis Alejo,1,33
-2020-02-05,Matt Haney,1,34
-2020-02-05,Matthias Gafni,1,35
-2020-02-05,Melissa Melendez Asmmelendez,1,36
-2020-02-05,Michael Bloomberg,1,37
-2020-02-05,Nancy Pelosi,1,38
-2020-02-05,Nytime David Mccabe,1,39
-2020-02-05,Paul Sisson,1,40
-2020-02-05,Rizwan Asghar,1,41
-2020-02-05,Roxana Kopetman,1,42
-2020-02-05,Russ Mitchell,1,43
-2020-02-05,Sally Goldenberg,1,44
-2020-02-05,Santa Clara,1,45
-2020-02-05,Sarah Ferris,1,46
-2020-02-05,Scott Peters,1,47
-2020-02-05,Stefanie Dazio,1,48
-2020-02-05,Stormy Daniels,1,49
-2020-02-05,Wes Venteicher,1,50
+2020-02-05,Ali Spiesman,1,2
+2020-02-05,Allen Warren,1,3
+2020-02-05,Andrew Desiderio,1,4
+2020-02-05,Bernie Sanders,1,5
+2020-02-05,Bloomberg Spencer Soper,1,6
+2020-02-05,Bob Hertzberg,1,7
+2020-02-05,Burgess Everett,1,8
+2020-02-05,Buzzfeed Peter Aldhous,1,9
+2020-02-05,Californian Jody Jones,1,10
+2020-02-05,Christopher Cadelago,1,11
+2020-02-05,Clark Stevens,1,12
+2020-02-05,Cruz Bustamante,1,13
+2020-02-05,Danielle Venton,1,14
+2020-02-05,Esther Mobley,1,15
+2020-02-05,Gavin Newsom,1,16
+2020-02-05,Gerry Serrano,1,17
+2020-02-05,Heather Caygle,1,18
+2020-02-05,Heather Knight,1,19
+2020-02-05,Henry Goldman,1,20
+2020-02-05,Holly Mitchell,1,21
+2020-02-05,Ian Wheeler,1,22
+2020-02-05,Jackie Lacey,1,23
+2020-02-05,Jackie Speier,1,24
+2020-02-05,Jeff Collins,1,25
+2020-02-05,Josh Gerstein,1,26
+2020-02-05,Juan Vargas,1,27
+2020-02-05,Kobe Bryant,1,28
+2020-02-05,Leah Nylen,1,29
+2020-02-05,Los Angeles,1,30
+2020-02-05,Matthias Gafni,1,31
+2020-02-05,Melissa Melendez Asmmelendez,1,32
+2020-02-05,Mercnew John Woolfolk,1,33
+2020-02-05,Michael Bloomberg,1,34
+2020-02-05,Mike Bloomberg,1,35
+2020-02-05,Nancy Pelosi,1,36
+2020-02-05,Nytime David Mccabe,1,37
+2020-02-05,Paul Sisson,1,38
+2020-02-05,Richard Pan,1,39
+2020-02-05,Rizwan Asghar,1,40
+2020-02-05,Roxana Kopetman,1,41
+2020-02-05,Russ Mitchell,1,42
+2020-02-05,Sally Goldenberg,1,43
+2020-02-05,Sarah Ferris,1,44
+2020-02-05,Scott Peters,1,45
+2020-02-05,Stefanie Dazio,1,46
+2020-02-05,Stormy Daniels,1,47
+2020-02-05,Tavis Smiley,1,48
+2020-02-05,Theodore Schleifer,1,49
+2020-02-05,Tom Reynolds,1,50
 2020-02-20,Nan,1,1
 2020-02-24,Daniel Lucey,1,1
 2020-02-24,Weng Mengyun,1,2
@@ -1349,31 +1349,30 @@ date,person,count,rn
 2020-04-22,Donald Trump,1,30
 2020-04-22,Eric Schmitt,1,31
 2020-04-22,Erik Van Nimwegen,1,32
-2020-04-22,Gary Fowler,1,33
-2020-04-22,Gretchen Whitmer,1,34
-2020-04-22,Jayanta Bhattacharya,1,35
-2020-04-22,Jeff Chiu,1,36
-2020-04-22,Jeff Smith,1,37
-2020-04-22,Jen Kwon,1,38
-2020-04-22,Jericka Duncan,1,39
-2020-04-22,John Bel Edwards,1,40
-2020-04-22,John Cherian,1,41
+2020-04-22,Ganesh Kadamur,1,33
+2020-04-22,Gary Fowler,1,34
+2020-04-22,Gretchen Whitmer,1,35
+2020-04-22,Jack Turman,1,36
+2020-04-22,Jayanta Bhattacharya,1,37
+2020-04-22,Jeff Chiu,1,38
+2020-04-22,Jeff Smith,1,39
+2020-04-22,Jericka Duncan,1,40
+2020-04-22,John Bel Edwards,1,41
 2020-04-22,John Ioannidis,1,42
 2020-04-22,Jyri Engestr,1,43
-2020-04-22,Jyri Engestrom,1,44
-2020-04-22,Keith Gambrell,1,45
-2020-04-22,Kena Betancur Getty,1,46
+2020-04-22,Keith Gambrell,1,44
+2020-04-22,Kena Betancur Getty,1,45
+2020-04-22,Kevin Keith,1,46
 2020-04-22,Laurent Russier,1,47
 2020-04-22,Lee Chatfield,1,48
 2020-04-22,Lonnie Chrisman,1,49
 2020-04-22,Los Angele,1,50
-2020-04-22,Amy Hollyfield,2,6
-2020-04-22,Chris Farnitano,2,7
-2020-04-22,Cyrus Harmon,2,8
-2020-04-22,David Werdegar,2,9
-2020-04-22,Eric Garcetti,2,10
-2020-04-22,Erica Pan,2,11
-2020-04-22,Gavin Newsom,2,12
+2020-04-22,Amy Hollyfield,2,7
+2020-04-22,Chris Farnitano,2,8
+2020-04-22,Cyrus Harmon,2,9
+2020-04-22,David Werdegar,2,10
+2020-04-22,Eric Garcetti,2,11
+2020-04-22,Erica Pan,2,12
 2020-04-22,Howard Markel,2,13
 2020-04-22,Lisa Hernandez,2,14
 2020-04-22,Matt Willis,2,15
@@ -1383,9 +1382,10 @@ date,person,count,rn
 2020-04-22,Sara Cody,2,19
 2020-04-22,Scott Morrow,2,20
 2020-04-22,Aenor Sawyer,3,2
-2020-04-22,Julian Espinoza,3,3
-2020-04-22,Pat Dykman,3,4
-2020-04-22,Peter Kimber,3,5
+2020-04-22,Gavin Newsom,3,3
+2020-04-22,Julian Espinoza,3,4
+2020-04-22,Pat Dykman,3,5
+2020-04-22,Peter Kimber,3,6
 2020-04-22,Los Angeles,4,1
 2020-04-23,Aenor Sawyer,1,1
 2020-04-23,Andrew Gelman,1,2
@@ -2177,3 +2177,7 @@ date,person,count,rn
 2020-06-15,Don Daigler,1,4
 2020-06-15,Edison Daigler,1,5
 2020-06-15,Matt Pender,1,6
+2020-06-16,Arlethia King,1,1
+2020-06-16,Dana Simas,1,2
+2020-06-16,Gavin Newsom,1,3
+2020-06-16,Rosalie Gonzalez,1,4

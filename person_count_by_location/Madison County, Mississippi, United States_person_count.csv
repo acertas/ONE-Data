@@ -1181,11 +1181,11 @@ date,person,count,rn
 2020-04-02,Alexander Balacki,1,34
 2020-04-02,Allison Quiroz,1,35
 2020-04-02,Amanda Elam,1,36
-2020-04-02,Amy Greeson,1,37
-2020-04-02,Amy Towning,1,38
-2020-04-02,Andrew Cuomo,1,39
-2020-04-02,Ann Black,1,40
-2020-04-02,Anne Whitaker,1,41
+2020-04-02,Amy Towning,1,37
+2020-04-02,Andrew Cuomo,1,38
+2020-04-02,Ann Black,1,39
+2020-04-02,Anne Whitaker,1,40
+2020-04-02,Anthony Fauci,1,41
 2020-04-02,Ashley Bautista,1,42
 2020-04-02,Carl Hessler Jr,1,43
 2020-04-02,Conkey Billips,1,44
@@ -3234,19 +3234,18 @@ date,person,count,rn
 2020-05-19,Bruce Fraley,2,3
 2020-05-19,Nan,2,4
 2020-05-19,Ngozi Ezike,2,5
-2020-05-20,Abigail Ross Hopper,1,14
-2020-05-20,Andrew Cuomo,1,15
-2020-05-20,Ann Coulter,1,16
-2020-05-20,Annel Hernandez,1,17
-2020-05-20,Bart Simpson,1,18
-2020-05-20,Ben Kelly,1,19
-2020-05-20,Bryan Bobbitt,1,20
-2020-05-20,Cornelia Li,1,21
-2020-05-20,David Saggau,1,22
-2020-05-20,David Victor,1,23
-2020-05-20,Debbie Ming-Mendoza,1,24
-2020-05-20,Deonie Allen,1,25
-2020-05-20,Donald Trump,1,26
+2020-05-20,Aaron Bernstein,1,15
+2020-05-20,Abigail Ross Hopper,1,16
+2020-05-20,Andrew Cuomo,1,17
+2020-05-20,Ann Coulter,1,18
+2020-05-20,Bart Simpson,1,19
+2020-05-20,Ben Kelly,1,20
+2020-05-20,Bryan Bobbitt,1,21
+2020-05-20,Cornelia Li,1,22
+2020-05-20,David Saggau,1,23
+2020-05-20,David Victor,1,24
+2020-05-20,Debbie Ming-Mendoza,1,25
+2020-05-20,Deonie Allen,1,26
 2020-05-20,Doug Yanega,1,27
 2020-05-20,Dylan Nacass,1,28
 2020-05-20,Elvis Genbo Xu,1,29
@@ -3263,24 +3262,25 @@ date,person,count,rn
 2020-05-20,Joel C Ryan Invision,1,40
 2020-05-20,Joel Hartmann,1,41
 2020-05-20,John Jensen,1,42
-2020-05-20,John Rabe,1,43
-2020-05-20,Julie Morrison,1,44
-2020-05-20,Kathy Fallon Lambert,1,45
-2020-05-20,Kent Carper,1,46
-2020-05-20,Kerwin Olson,1,47
-2020-05-20,Kwame Raoul,1,48
-2020-05-20,Las Vegas,1,49
-2020-05-20,Leonardo Dicaprio,1,50
+2020-05-20,Julie Morrison,1,43
+2020-05-20,Kathy Fallon Lambert,1,44
+2020-05-20,Kent Carper,1,45
+2020-05-20,Kerwin Olson,1,46
+2020-05-20,Las Vegas,1,47
+2020-05-20,Leonardo Dicaprio,1,48
+2020-05-20,Liz Krueger,1,49
+2020-05-20,Lori Lightfoot,1,50
 2020-05-20,Beth Daniel,2,4
 2020-05-20,Claire Anderson,2,5
-2020-05-20,Harry Moreaux,2,6
-2020-05-20,Jennifer Reddall,2,7
-2020-05-20,John Chadwick,2,8
-2020-05-20,Mary Mcgrath,2,9
-2020-05-20,Rachel Sampson,2,10
-2020-05-20,Randal Lyle,2,11
-2020-05-20,Sara Devoto,2,12
-2020-05-20,Thomas Demartini,2,13
+2020-05-20,Donald Trump,2,6
+2020-05-20,Harry Moreaux,2,7
+2020-05-20,Jennifer Reddall,2,8
+2020-05-20,John Chadwick,2,9
+2020-05-20,Mary Mcgrath,2,10
+2020-05-20,Rachel Sampson,2,11
+2020-05-20,Randal Lyle,2,12
+2020-05-20,Sara Devoto,2,13
+2020-05-20,Thomas Demartini,2,14
 2020-05-20,Renae Eze,4,3
 2020-05-20,Harry Azcrac,5,1
 2020-05-20,Tate Reeves,5,2
@@ -4127,3 +4127,27 @@ date,person,count,rn
 2020-06-15,Mitch Kokai,1,10
 2020-06-15,Phil Berger,1,11
 2020-06-15,Suzy Khachaturyan,1,12
+2020-06-16,Alex Hodge,1,1
+2020-06-16,Andy North,1,2
+2020-06-16,Brian Forsythe,1,3
+2020-06-16,Camille Sikes,1,4
+2020-06-16,David Craine,1,5
+2020-06-16,Donald Williamson,1,6
+2020-06-16,Gordon Baker,1,7
+2020-06-16,Iyad Abdi,1,8
+2020-06-16,Jackson Sun,1,9
+2020-06-16,James Goldstein,1,10
+2020-06-16,Jeanne Marrazzo,1,11
+2020-06-16,Jim Goldstein,1,12
+2020-06-16,Jimmy Harris,1,13
+2020-06-16,Joann Colins,1,14
+2020-06-16,Kadie Agnew,1,15
+2020-06-16,Karen Landers,1,16
+2020-06-16,Kevin Mcclure,1,17
+2020-06-16,Maria Deguzman,1,18
+2020-06-16,Mia Mothershed,1,19
+2020-06-16,Pam Hudson,1,20
+2020-06-16,Scott Harris,1,21
+2020-06-16,Steven Reed,1,22
+2020-06-16,Terissa Rutherford,1,23
+2020-06-16,Tracy Boyd,1,24

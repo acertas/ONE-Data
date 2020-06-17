@@ -261,12 +261,12 @@ date,person,count,rn
 2020-03-02,Donald Trump,4,13
 2020-03-02,John Wiesman,4,14
 2020-03-02,Mike Famulare,4,15
-2020-03-02,Daniel Varga,5,6
-2020-03-02,Dow Constantine,5,7
+2020-03-02,Daniel Varga,5,5
+2020-03-02,Dow Constantine,5,6
+2020-03-02,Elaine Thompson,5,7
 2020-03-02,Jeffrey Duchin,5,8
 2020-03-02,Kathy Lofy,5,9
 2020-03-02,Sean Cook,5,10
-2020-03-02,Elaine Thompson,6,5
 2020-03-02,Jeff Duchin,9,3
 2020-03-02,Mike Pence,9,4
 2020-03-02,Jay Inslee,15,2
@@ -284,13 +284,13 @@ date,person,count,rn
 2020-03-03,Charlene Harrington,1,41
 2020-03-03,Colleen Mallory,1,42
 2020-03-03,Councilmember Stephanie Wright,1,43
-2020-03-03,David Gifford,1,44
-2020-03-03,David Olson,1,45
-2020-03-03,David Ryder Getty,1,46
-2020-03-03,Deborah Birx,1,47
-2020-03-03,Delaney Ruston,1,48
-2020-03-03,Diane Bradford,1,49
-2020-03-03,Ernie Swanson,1,50
+2020-03-03,Dave Peters,1,44
+2020-03-03,David Gifford,1,45
+2020-03-03,David Olson,1,46
+2020-03-03,David Ryder Getty,1,47
+2020-03-03,Deborah Birx,1,48
+2020-03-03,Delaney Ruston,1,49
+2020-03-03,Diane Bradford,1,50
 2020-03-03,Alex Azar,2,20
 2020-03-03,Andrew Cuomo,2,21
 2020-03-03,Angela Rasmussen,2,22
@@ -656,7 +656,7 @@ date,person,count,rn
 2020-03-12,Chris Hayes,1,47
 2020-03-12,Dave Somers,1,48
 2020-03-12,Franklin Pierce,1,49
-2020-03-12,Jay Inslee Govinslee,1,50
+2020-03-12,Jay Insee,1,50
 2020-03-12,Bruce Dammeier,2,15
 2020-03-12,Dori Monson,2,16
 2020-03-12,Doug Collins,2,17
@@ -1760,36 +1760,36 @@ date,person,count,rn
 2020-04-21,Bob Ferguson,3,2
 2020-04-21,Jay Inslee,4,1
 2020-04-22,Aidan Langford,1,20
-2020-04-22,Amanda Shea,1,21
-2020-04-22,Angie Langford,1,22
-2020-04-22,Angie Phelps Langford,1,23
-2020-04-22,Beth Baumann,1,24
-2020-04-22,Bill Gates,1,25
+2020-04-22,Angie Langford,1,21
+2020-04-22,Angie Phelps Langford,1,22
+2020-04-22,Beth Baumann,1,23
+2020-04-22,Bill Gates,1,24
+2020-04-22,Bishop Barron,1,25
 2020-04-22,Bob Ferguson,1,26
 2020-04-22,Brian Kolfage,1,27
-2020-04-22,Charles Grassley,1,28
-2020-04-22,Charles Mackay,1,29
-2020-04-22,Chris Reykdal,1,30
+2020-04-22,Brian Mcnicoll,1,28
+2020-04-22,Charles Grassley,1,29
+2020-04-22,Charles Mackay,1,30
 2020-04-22,Christine Flowers,1,31
 2020-04-22,Christopher Steele,1,32
 2020-04-22,Chuck Todd,1,33
-2020-04-22,Dan Scavino,1,34
-2020-04-22,Daniel Lutjemeier Snohomish,1,35
-2020-04-22,Daniel Wallace,1,36
-2020-04-22,Erik Wemple,1,37
-2020-04-22,Goobner Pricksner,1,38
-2020-04-22,Jack Keane,1,39
-2020-04-22,Jay Greenberg,1,40
-2020-04-22,Jim Robinson,1,41
-2020-04-22,Justice Jackson,1,42
-2020-04-22,Kayleigh Mcenany,1,43
-2020-04-22,Kaylin Jorge,1,44
-2020-04-22,Kenmatthews Kenmatthews,1,45
-2020-04-22,Kevin Cramer,1,46
-2020-04-22,Michael Horowitz,1,47
-2020-04-22,Natalie Dagenhardt,1,48
-2020-04-22,Paul Hamilton,1,49
-2020-04-22,Randy Crane,1,50
+2020-04-22,Daniel Wallace,1,34
+2020-04-22,Gavin Newsom,1,35
+2020-04-22,Goobner Pricksner,1,36
+2020-04-22,Jack Keane,1,37
+2020-04-22,Jim Robinson,1,38
+2020-04-22,Kaylin Jorge,1,39
+2020-04-22,Kenmatthews Kenmatthews,1,40
+2020-04-22,Larry Elder,1,41
+2020-04-22,Michael Horowitz,1,42
+2020-04-22,Nancy Jacobson,1,43
+2020-04-22,Natalie Dagenhardt,1,44
+2020-04-22,Paul Hamilton,1,45
+2020-04-22,Pramila Jayapal,1,46
+2020-04-22,Randy Crane,1,47
+2020-04-22,Ron Johnson,1,48
+2020-04-22,Sara Cody,1,49
+2020-04-22,Terry Jeffrey,1,50
 2020-04-22,Elaine Thompson,2,17
 2020-04-22,Jim Raymond,2,18
 2020-04-22,William Barr,2,19
@@ -2687,3 +2687,9 @@ date,person,count,rn
 2020-06-15,Suzan Delbene,1,22
 2020-06-15,William Ristenpart,1,23
 2020-06-15,Jay Inslee,2,1
+2020-06-16,Charles Grassley,1,1
+2020-06-16,Deann Puffert,1,2
+2020-06-16,Jen Alaniz,1,3
+2020-06-16,Kim Reynolds,1,4
+2020-06-16,Mike Pence,1,5
+2020-06-16,Sullivan Hartogh Davis Cedar,1,6
