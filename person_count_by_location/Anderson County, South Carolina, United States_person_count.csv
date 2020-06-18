@@ -8,47 +8,47 @@ date,person,count,rn
 2020-02-04,Annie Rees,1,7
 2020-02-04,Anthony Cormier,1,8
 2020-02-04,Antonio Olivo,1,9
-2020-02-04,Ashley Huggins Laryea,1,10
-2020-02-04,Ben Foldy,1,11
-2020-02-04,Blair Bender,1,12
-2020-02-04,Brian Stelter,1,13
-2020-02-04,Brownstein Hyatt Farber Schreck,1,14
-2020-02-04,Charles Rivkin,1,15
-2020-02-04,Christine Burtt,1,16
-2020-02-04,Daniel Bice,1,17
-2020-02-04,Daryl Auguste,1,18
-2020-02-04,David Saleh Rauf,1,19
-2020-02-04,David Yepsen,1,20
-2020-02-04,Deborah Steelman Macon,1,21
-2020-02-04,Dennis Blair,1,22
-2020-02-04,Dwight Bullard,1,23
-2020-02-04,Eli Okun,1,24
-2020-02-04,Eli Woerpel,1,25
-2020-02-04,Garrett Ross,1,26
-2020-02-04,Gary Maristela,1,27
-2020-02-04,Ilan Goldenberg,1,28
-2020-02-04,Irene Castagnoli,1,29
-2020-02-04,Jen Flynn,1,30
-2020-02-04,Jessica Byrd,1,31
-2020-02-04,Jim Nicholson,1,32
-2020-02-04,John Czwartacki,1,33
-2020-02-04,Joseph Cirincione,1,34
-2020-02-04,Justin Meservie,1,35
-2020-02-04,Kwon Ryu,1,36
-2020-02-04,Lara Seligman,1,37
-2020-02-04,Lev Parnas,1,38
-2020-02-04,Lisa Murkowski,1,39
-2020-02-04,Mariah Hill,1,40
-2020-02-04,Marianne Levine,1,41
-2020-02-04,Matt Mcdonald,1,42
-2020-02-04,Megan Beyer,1,43
-2020-02-04,Michael Flynn,1,44
-2020-02-04,Mike Colias,1,45
-2020-02-04,Morgan Rako,1,46
-2020-02-04,Pete Buttigieg,1,47
-2020-02-04,Seungjin Choi,1,48
-2020-02-04,Steve Bannon,1,49
-2020-02-04,Teresa Vilmain,1,50
+2020-02-04,Ben Foldy,1,10
+2020-02-04,Blair Bender,1,11
+2020-02-04,Brian Stelter,1,12
+2020-02-04,Brownstein Hyatt Farber Schreck,1,13
+2020-02-04,Charles Rivkin,1,14
+2020-02-04,Daniel Bice,1,15
+2020-02-04,Daryl Auguste,1,16
+2020-02-04,David Saleh Rauf,1,17
+2020-02-04,David Yepsen,1,18
+2020-02-04,Deborah Steelman Macon,1,19
+2020-02-04,Dennis Blair,1,20
+2020-02-04,Dwight Bullard,1,21
+2020-02-04,Eli Okun,1,22
+2020-02-04,Eli Woerpel,1,23
+2020-02-04,Garrett Ross,1,24
+2020-02-04,Gary Maristela,1,25
+2020-02-04,Hunter Biden,1,26
+2020-02-04,Irene Castagnoli,1,27
+2020-02-04,Jessica Byrd,1,28
+2020-02-04,Jim Nicholson,1,29
+2020-02-04,Joe Biden,1,30
+2020-02-04,John Czwartacki,1,31
+2020-02-04,Joseph Cirincione,1,32
+2020-02-04,Justin Meservie,1,33
+2020-02-04,Kwon Ryu,1,34
+2020-02-04,Lara Seligman,1,35
+2020-02-04,Lev Parnas,1,36
+2020-02-04,Lisa Murkowski,1,37
+2020-02-04,Margaret Carlson,1,38
+2020-02-04,Mariah Hill,1,39
+2020-02-04,Marianne Levine,1,40
+2020-02-04,Matt Mcdonald,1,41
+2020-02-04,Megan Beyer,1,42
+2020-02-04,Michael Flynn,1,43
+2020-02-04,Mike Colias,1,44
+2020-02-04,Pete Buttigieg,1,45
+2020-02-04,Robert Buckley,1,46
+2020-02-04,Seungjin Choi,1,47
+2020-02-04,Steve Bannon,1,48
+2020-02-04,Teresa Vilmain,1,49
+2020-02-04,Terry Ticey,1,50
 2020-02-20,Amy Klobuchar,1,22
 2020-02-20,Joe Biden,1,23
 2020-02-20,Pete Buttigieg,1,24
@@ -1032,3 +1032,24 @@ date,person,count,rn
 2020-06-15,Randy Rykal,1,10
 2020-06-15,Stacey Abrams,1,11
 2020-06-15,Tim Scott,1,12
+2020-06-17,Ahmaud Arbery,1,1
+2020-06-17,Al Sharpton,1,2
+2020-06-17,Brandi Pickney,1,3
+2020-06-17,Chris Van Deusen,1,4
+2020-06-17,Derek Chauvin,1,5
+2020-06-17,Donald Trump,1,6
+2020-06-17,George Floyd,1,7
+2020-06-17,Joe Biden,1,8
+2020-06-17,Kersey Biagase,1,9
+2020-06-17,Marina Villeneuve,1,10
+2020-06-17,Martin Luther King Jr,1,11
+2020-06-17,Matt Sebesta,1,12
+2020-06-17,Michael Brown,1,13
+2020-06-17,Remus Wright,1,14
+2020-06-17,Robert Hurst,1,15
+2020-06-17,Robert Johnston,1,16
+2020-06-17,Sheila Jackson Lee,1,17
+2020-06-17,Sylvester Turner,1,18
+2020-06-17,Trayvon Martin,1,19
+2020-06-17,Van Deusen,1,20
+2020-06-17,William Lawson,1,21
