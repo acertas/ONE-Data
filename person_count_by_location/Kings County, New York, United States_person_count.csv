@@ -1,6 +1,6 @@
 date,person,count,rn
-2020-02-01,Chris Whitty,10,49
-2020-02-01,Jeff Mason Brice,10,50
+2020-02-01,Daniel Wallis,10,49
+2020-02-01,Jeff Mason,10,50
 2020-02-01,Alexandra Olson,11,42
 2020-02-01,Edith Lederer,11,43
 2020-02-01,Elaine Ganley,11,44
@@ -149,10 +149,10 @@ date,person,count,rn
 2020-02-03,Alex Azar,68,3
 2020-02-03,Nancy Messonnier,83,2
 2020-02-03,Los Angeles,95,1
-2020-02-04,Chris Whitty,6,47
-2020-02-04,Jason Hanna,6,48
-2020-02-04,Michael Fraser,6,49
-2020-02-04,Tatyana Golikova,6,50
+2020-02-04,Jason Hanna,6,47
+2020-02-04,Michael Fraser,6,48
+2020-02-04,Tatyana Golikova,6,49
+2020-02-04,Xiao Yijiu Xinhua,6,50
 2020-02-04,Atlanta Hartsfield-Jackson,7,43
 2020-02-04,Marty Fenstersheib,7,44
 2020-02-04,Michael Perry,7,45
@@ -252,7 +252,7 @@ date,person,count,rn
 2020-02-06,Ami Bera,4,37
 2020-02-06,Jennifer Bouey,4,38
 2020-02-06,Jennifer Nuzzo,4,39
-2020-02-06,Katsunobu Kato,4,40
+2020-02-06,John Cox,4,40
 2020-02-06,Li Wenliang,4,41
 2020-02-06,Lu Shaye,4,42
 2020-02-06,Ogbonnaya Omenka,4,43
@@ -305,11 +305,11 @@ date,person,count,rn
 2020-02-07,Austin Evers,3,33
 2020-02-07,Ayman Al-Zawahiri,3,34
 2020-02-07,Brian Thompson,3,35
-2020-02-07,Denis Poroy,3,36
-2020-02-07,Erika Edwards,3,37
-2020-02-07,Heiko Maas,3,38
-2020-02-07,Jose Arballo,3,39
-2020-02-07,Katsunobu Kato,3,40
+2020-02-07,Cameron Kaiser,3,36
+2020-02-07,Denis Poroy,3,37
+2020-02-07,Ellen Mitchell,3,38
+2020-02-07,Erika Edwards,3,39
+2020-02-07,Heiko Maas,3,40
 2020-02-07,Mark Esper,3,41
 2020-02-07,Mark Schiefelbein,3,42
 2020-02-07,Mark Takano,3,43
@@ -349,10 +349,10 @@ date,person,count,rn
 2020-02-07,Eric Baculinao,14,3
 2020-02-07,Phil Helsel,15,2
 2020-02-07,Los Angeles,19,1
-2020-02-08,Kae Whalen,1,47
-2020-02-08,Mike Adams,1,48
-2020-02-08,Soumya Karlamangla,1,49
-2020-02-08,Suhauna Hussain,1,50
+2020-02-08,Kang-Xing Jin,1,47
+2020-02-08,Melinda Gates,1,48
+2020-02-08,Morgan Ortagus,1,49
+2020-02-08,Sean Pate,1,50
 2020-02-08,Anthony Fauci,2,34
 2020-02-08,Antonios Efthymiou,2,35
 2020-02-08,Borje Ekholm,2,36
@@ -401,29 +401,29 @@ date,person,count,rn
 2020-02-08,Li Wenliang,16,1
 2020-02-09,Alexandra Olson,3,19
 2020-02-09,Anita Sampson,3,20
-2020-02-09,Askhay Pai,3,21
-2020-02-09,Brayden Helwig,3,22
-2020-02-09,David Brooks,3,23
-2020-02-09,Edith Lederer,3,24
-2020-02-09,Elaine Ganley,3,25
-2020-02-09,Frank Jordans,3,26
-2020-02-09,Gauden Galea,3,27
-2020-02-09,Harrison Butker,3,28
-2020-02-09,Hua Chunying,3,29
-2020-02-09,Jason Abbruzzese,3,30
-2020-02-09,Joe Mcdonald,3,31
-2020-02-09,Joe Newman,3,32
-2020-02-09,Ken Moritsugu,3,33
-2020-02-09,Kobe Bryant,3,34
-2020-02-09,Lady Queen,3,35
-2020-02-09,Larry Gayle,3,36
-2020-02-09,Los Angeles,3,37
-2020-02-09,Maria Cheng,3,38
-2020-02-09,Marion Koopmans,3,39
-2020-02-09,Mike Stobbe,3,40
-2020-02-09,Mike Wester,3,41
-2020-02-09,Nancy Pelosi,3,42
-2020-02-09,Nick Givas,3,43
+2020-02-09,Apostle Paul,3,21
+2020-02-09,Askhay Pai,3,22
+2020-02-09,Brayden Helwig,3,23
+2020-02-09,David Brooks,3,24
+2020-02-09,Edith Lederer,3,25
+2020-02-09,Elaine Ganley,3,26
+2020-02-09,Frank Jordans,3,27
+2020-02-09,Gauden Galea,3,28
+2020-02-09,Harrison Butker,3,29
+2020-02-09,Hua Chunying,3,30
+2020-02-09,Jason Abbruzzese,3,31
+2020-02-09,Joe Mcdonald,3,32
+2020-02-09,Joe Newman,3,33
+2020-02-09,Ken Moritsugu,3,34
+2020-02-09,Kobe Bryant,3,35
+2020-02-09,Lady Queen,3,36
+2020-02-09,Larry Gayle,3,37
+2020-02-09,Los Angeles,3,38
+2020-02-09,Maria Cheng,3,39
+2020-02-09,Marion Koopmans,3,40
+2020-02-09,Mike Stobbe,3,41
+2020-02-09,Mike Wester,3,42
+2020-02-09,Nancy Pelosi,3,43
 2020-02-09,Pamela Carr,3,44
 2020-02-09,Rachel Paula Abrahamson,3,45
 2020-02-09,Richard Hoyle,3,46
@@ -451,29 +451,29 @@ date,person,count,rn
 2020-02-09,Donald Trump,21,1
 2020-02-10,Andres Fuentes,1,25
 2020-02-10,Balazs Kerulo,1,26
-2020-02-10,Carol Montgomery,1,27
-2020-02-10,Chunlin Leohard,1,28
-2020-02-10,Doug Perez,1,29
-2020-02-10,Friedrich Engels,1,30
-2020-02-10,Henry Walke,1,31
-2020-02-10,Holly Otterbein,1,32
-2020-02-10,Hua Chunying,1,33
-2020-02-10,Ivanka Trump,1,34
-2020-02-10,Janardan Prasad Singh,1,35
-2020-02-10,Jeffrey Klausner,1,36
-2020-02-10,Jennifer Mcquiston,1,37
+2020-02-10,Cao Dewang,1,27
+2020-02-10,Carol Montgomery,1,28
+2020-02-10,Chunlin Leohard,1,29
+2020-02-10,Darren Franich Darrenfranich,1,30
+2020-02-10,Doug Perez,1,31
+2020-02-10,Hua Chunying,1,32
+2020-02-10,Ivanka Trump,1,33
+2020-02-10,Janardan Prasad Singh,1,34
+2020-02-10,Jeffrey Klausner,1,35
+2020-02-10,Jennifer Mcquiston,1,36
+2020-02-10,John Garamendi,1,37
 2020-02-10,John Montgomery,1,38
-2020-02-10,Kristian Andersen,1,39
+2020-02-10,Joseph Mccarthy,1,39
 2020-02-10,Liang Zhuowei,1,40
-2020-02-10,Mike Tobin,1,41
-2020-02-10,Morgan Ortagus,1,42
+2020-02-10,Michele Dynia,1,41
+2020-02-10,Michelle Obama,1,42
 2020-02-10,Nancy Messonnier,1,43
 2020-02-10,Quint Forgey,1,44
 2020-02-10,Rosemary Gibson,1,45
-2020-02-10,Santa Clara,1,46
+2020-02-10,Sarah Arana,1,46
 2020-02-10,Sergey Brin,1,47
-2020-02-10,Tim Trevan,1,48
-2020-02-10,Wapo Steve Hendrix,1,49
+2020-02-10,Simone Gao,1,48
+2020-02-10,Tim Trevan,1,49
 2020-02-10,Wu Han,1,50
 2020-02-10,Barack Obama,2,19
 2020-02-10,Gary Herbert,2,20
@@ -506,15 +506,15 @@ date,person,count,rn
 2020-02-11,Dan Higgins,3,37
 2020-02-11,Eric Baculinao,3,38
 2020-02-11,Hillary Leung,3,39
-2020-02-11,Holland America Westerdam,3,40
+2020-02-11,Holly Yan,3,40
 2020-02-11,Instagrammer Bernard Looney,3,41
-2020-02-11,Jasmine Leung,3,42
-2020-02-11,Jimmy Davis,3,43
-2020-02-11,John Yarmuth,3,44
-2020-02-11,Mark Gongloff,3,45
-2020-02-11,Matt Hancock,3,46
-2020-02-11,Nancy Pelosi,3,47
-2020-02-11,Pete Buttigieg,3,48
+2020-02-11,Jamie Fouss,3,42
+2020-02-11,Jasmine Aguilera,3,43
+2020-02-11,Jasmine Leung,3,44
+2020-02-11,Jimmy Davis,3,45
+2020-02-11,John Yarmuth,3,46
+2020-02-11,Mark Gongloff,3,47
+2020-02-11,Matt Hancock,3,48
 2020-02-11,Phil Helsel,3,49
 2020-02-11,Theresa Waldrop,3,50
 2020-02-11,Amy Taxin,4,23
@@ -549,13 +549,13 @@ date,person,count,rn
 2020-02-11,Tedros Adhanom Ghebreyesus,15,3
 2020-02-11,Los Angeles,17,2
 2020-02-11,Cameron Kaiser,21,1
-2020-02-12,Amy Klobuchar,2,40
+2020-02-12,Andrew Yang,2,40
 2020-02-12,Carlos Garcia Rawlins,2,41
 2020-02-12,David Malpass,2,42
 2020-02-12,Dianne Feinstein,2,43
-2020-02-12,Hong Kongers,2,44
+2020-02-12,Erika Edwards,2,44
 2020-02-12,Jerome Powell,2,45
-2020-02-12,Kamala Harris,2,46
+2020-02-12,Kevin Frayer Getty,2,46
 2020-02-12,Mike Ryan,2,47
 2020-02-12,Roger Stone,2,48
 2020-02-12,Steve Lutz,2,49
@@ -601,21 +601,21 @@ date,person,count,rn
 2020-02-12,Nancy Knight,27,1
 2020-02-13,Andrew Pattison,2,33
 2020-02-13,Bernie Sanders,2,34
-2020-02-13,Elizabeth Warren,2,35
-2020-02-13,Jamie Fouss,2,36
-2020-02-13,Jason Abbruzzese,2,37
-2020-02-13,Jiang Chaoliang,2,38
-2020-02-13,Julie Sevrens Lyons,2,39
-2020-02-13,Maury Kendall,2,40
-2020-02-13,Michael Bloomberg,2,41
-2020-02-13,Pete Buttigieg,2,42
-2020-02-13,Robin Addison,2,43
-2020-02-13,Roger Stone,2,44
-2020-02-13,Samela Perez,2,45
-2020-02-13,Steven Jiang,2,46
-2020-02-13,Susan Collins,2,47
-2020-02-13,Todd Holly,2,48
-2020-02-13,William Barr,2,49
+2020-02-13,Chris Whitty,2,35
+2020-02-13,Elizabeth Warren,2,36
+2020-02-13,Erika Edwards,2,37
+2020-02-13,Jason Abbruzzese,2,38
+2020-02-13,Jiang Chaoliang,2,39
+2020-02-13,John Hoffman,2,40
+2020-02-13,Julie Sevrens Lyons,2,41
+2020-02-13,Maury Kendall,2,42
+2020-02-13,Michael Bloomberg,2,43
+2020-02-13,Pete Buttigieg,2,44
+2020-02-13,Robin Addison,2,45
+2020-02-13,Samela Perez,2,46
+2020-02-13,Steven Jiang,2,47
+2020-02-13,Susan Collins,2,48
+2020-02-13,Todd Holly,2,49
 2020-02-13,Yang Meng,2,50
 2020-02-13,Anthony Kwan Getty,3,28
 2020-02-13,Joyce Rosenberg,3,29
@@ -650,14 +650,14 @@ date,person,count,rn
 2020-02-13,Los Angeles,12,3
 2020-02-13,Nancy Messonnier,13,1
 2020-02-14,Amy Klobuchar,2,40
-2020-02-14,Daisy Roth,2,41
-2020-02-14,Holland America,2,42
-2020-02-14,Hunter Biden,2,43
-2020-02-14,Jackie Salo,2,44
-2020-02-14,Jeffrey Epstein,2,45
-2020-02-14,John Mcgory,2,46
+2020-02-14,Bishop Gerasim,2,41
+2020-02-14,Daisy Roth,2,42
+2020-02-14,Holland America,2,43
+2020-02-14,Hunter Biden,2,44
+2020-02-14,John Mcgory,2,45
+2020-02-14,Katherine Codekas,2,46
 2020-02-14,Katsunobu Kato,2,47
-2020-02-14,Mark Tooley,2,48
+2020-02-14,Nick Bohr,2,48
 2020-02-14,Paul Smeaton,2,49
 2020-02-14,Robert Mueller,2,50
 2020-02-14,Amesh Adalja,3,18
@@ -701,13 +701,13 @@ date,person,count,rn
 2020-02-14,Los Angeles,16,1
 2020-02-15,Ada Colau,2,40
 2020-02-15,Eric Xu,2,41
-2020-02-15,Katherine Codekas,2,42
-2020-02-15,Las Vegas,2,43
-2020-02-15,Michael Ryan,2,44
-2020-02-15,Mike Ryan,2,45
-2020-02-15,Robert Kadlec,2,46
-2020-02-15,Santa Clara,2,47
-2020-02-15,Sawyer Smith,2,48
+2020-02-15,Jean-Baptiste Su,2,42
+2020-02-15,Katherine Codekas,2,43
+2020-02-15,Las Vegas,2,44
+2020-02-15,Michael Ryan,2,45
+2020-02-15,Mike Ryan,2,46
+2020-02-15,Robert Kadlec,2,47
+2020-02-15,Santa Clara,2,48
 2020-02-15,Seema Verma,2,49
 2020-02-15,William Schaffner,2,50
 2020-02-15,Agnes Buzyn,3,30
@@ -749,30 +749,30 @@ date,person,count,rn
 2020-02-15,Tedros Adhanom Ghebreyesus,5,5
 2020-02-15,Donald Trump,6,2
 2020-02-15,Los Angeles,10,1
-2020-02-16,Alex Wigglesworth,3,27
+2020-02-16,Alex Hall,3,27
 2020-02-16,Andrew Napolitano,3,28
-2020-02-16,Bre Kidman,3,29
-2020-02-16,Cardinal John Tongthe,3,30
+2020-02-16,Cardinal John Tongthe,3,29
+2020-02-16,Dan Boyd,3,30
 2020-02-16,David Abel,3,31
 2020-02-16,David Wolpe,3,32
 2020-02-16,Eamonn Fingleton,3,33
-2020-02-16,Jair Bolsonaro,3,34
-2020-02-16,Jamie White,3,35
-2020-02-16,Khalil Gibran,3,36
-2020-02-16,King David,3,37
+2020-02-16,Ed Bott,3,34
+2020-02-16,Holden Matthews,3,35
+2020-02-16,Jair Bolsonaro,3,36
+2020-02-16,Khalil Gibran,3,37
 2020-02-16,Kirk Douglas,3,38
 2020-02-16,Maggie Toulouse-Oliver,3,39
-2020-02-16,Mark Jorgensen,3,40
-2020-02-16,Matt Margolis,3,41
-2020-02-16,Michelle Lujan Grisham,3,42
-2020-02-16,Paul Smeaton,3,43
-2020-02-16,Phil Madden,3,44
+2020-02-16,Matt Margolis,3,40
+2020-02-16,Meagan Flynn,3,41
+2020-02-16,Nancy Pelosi,3,42
+2020-02-16,Neil Cavuto,3,43
+2020-02-16,Paul Smeaton,3,44
 2020-02-16,Pope Francis,3,45
 2020-02-16,Querida Amazonia,3,46
 2020-02-16,Scott Pauley,3,47
-2020-02-16,Susan Collins,3,48
-2020-02-16,Tomeka Hart,3,49
-2020-02-16,Walt Whitman,3,50
+2020-02-16,Sriram Sankararaman,3,48
+2020-02-16,Susan Collins,3,49
+2020-02-16,Tomeka Hart,3,50
 2020-02-16,Bruce Aylward,4,15
 2020-02-16,Christina Kerby,4,16
 2020-02-16,David Hui,4,17
@@ -799,7 +799,7 @@ date,person,count,rn
 2020-02-16,Tedros Adhanom Ghebreyesus,7,5
 2020-02-16,Holland America,8,2
 2020-02-16,Matthew Smith,10,1
-2020-02-17,Melanie Haering,3,50
+2020-02-17,Peter Rabinowitz,3,50
 2020-02-17,Alex Azar,4,43
 2020-02-17,Allen Cheng,4,44
 2020-02-17,Eiji Kusumi,4,45
@@ -852,11 +852,11 @@ date,person,count,rn
 2020-02-18,Bob Menendez,7,41
 2020-02-18,Laura Kelly,7,42
 2020-02-18,Liu Zhiming,7,43
-2020-02-18,Paul Federico,7,44
-2020-02-18,Peter Feaver,7,45
-2020-02-18,Philip Courter,7,46
-2020-02-18,Rob Crilly,7,47
-2020-02-18,Ryan Newman,7,48
+2020-02-18,Marlene Lenthang,7,44
+2020-02-18,Paul Federico,7,45
+2020-02-18,Peter Feaver,7,46
+2020-02-18,Philip Courter,7,47
+2020-02-18,Rob Crilly,7,48
 2020-02-18,Scott Pauley,7,49
 2020-02-18,Terry Schilling,7,50
 2020-02-18,Holland America,8,40
@@ -899,16 +899,16 @@ date,person,count,rn
 2020-02-18,Sarah Arana,31,3
 2020-02-18,Tedros Adhanom Ghebreyesus,32,2
 2020-02-18,William Walters,41,1
-2020-02-19,Alex Shi,2,41
-2020-02-19,Arnold Schwarzenegger,2,42
-2020-02-19,Berkeley Othering,2,43
-2020-02-19,Bill Hemmer,2,44
-2020-02-19,Dana Hall,2,45
-2020-02-19,Jeri Searatti-Goldman,2,46
-2020-02-19,Michael Flynn,2,47
-2020-02-19,Paul Manafort,2,48
-2020-02-19,Salvatore Benintende,2,49
-2020-02-19,Tedros Adhanom Ghebreyesus,2,50
+2020-02-19,Charles Chiu,2,41
+2020-02-19,Gavin Newsom,2,42
+2020-02-19,Katsunobu Kato,2,43
+2020-02-19,Ma Guoqiang,2,44
+2020-02-19,Mark Zuckerberg,2,45
+2020-02-19,Rod Blagojevich,2,46
+2020-02-19,Tom Cotton,2,47
+2020-02-19,Vinci Mona Lisa,2,48
+2020-02-19,Wang Zhonglin,2,49
+2020-02-19,William Walters,2,50
 2020-02-19,Abdullah Alamoudi,3,31
 2020-02-19,Bernie Sanders,3,32
 2020-02-19,Carl Seratti-Goldman,3,33
@@ -949,17 +949,17 @@ date,person,count,rn
 2020-02-19,Holland America,6,2
 2020-02-19,Las Vegas,6,3
 2020-02-19,Los Angeles,7,1
-2020-02-20,Arnold Hopland,2,40
-2020-02-20,Buon Appetito,2,41
-2020-02-20,Hilda Solis,2,42
-2020-02-20,Holland America,2,43
-2020-02-20,Jennifer Lindsay,2,44
-2020-02-20,Matt Galat,2,45
-2020-02-20,Michael Bloomberg,2,46
-2020-02-20,Phil Roe R-Tenn,2,47
-2020-02-20,Robert Kadlec,2,48
-2020-02-20,Sarah Arana,2,49
-2020-02-20,Spencer Fehrenbacher Spencer Fehrenbacher,2,50
+2020-02-20,Bernie Sanders,2,40
+2020-02-20,Elaine Forbes,2,41
+2020-02-20,Esther Tebeka,2,42
+2020-02-20,Hun Sen,2,43
+2020-02-20,Jeffrey Duchin,2,44
+2020-02-20,Kristin Decas,2,45
+2020-02-20,Lena Gonzalez,2,46
+2020-02-20,Martha Miller,2,47
+2020-02-20,Matt Willis,2,48
+2020-02-20,Phil Roe R-Tenn,2,49
+2020-02-20,Randa Coniglio,2,50
 2020-02-20,Las Vegas,3,34
 2020-02-20,Matthew Smith,3,35
 2020-02-20,Michael Ryan,3,36
@@ -1001,11 +1001,11 @@ date,person,count,rn
 2020-02-20,Kentaro Iwata,15,2
 2020-02-21,Chris Farnitano,3,40
 2020-02-21,Haim Tebeka,3,41
-2020-02-21,Matt Willis,3,42
-2020-02-21,Mohan Bhagwat,3,43
-2020-02-21,Paul Parker,3,44
-2020-02-21,Peter Beilensen,3,45
-2020-02-21,Rajbir Singh,3,46
+2020-02-21,Josep Borrell,3,42
+2020-02-21,Matt Willis,3,43
+2020-02-21,Mohan Bhagwat,3,44
+2020-02-21,Paul Parker,3,45
+2020-02-21,Peter Beilensen,3,46
 2020-02-21,Roberto Speranza,3,47
 2020-02-21,Scott Malone,3,48
 2020-02-21,Sonam Kapoor,3,49
@@ -1049,19 +1049,19 @@ date,person,count,rn
 2020-02-21,Bob Lutz,26,3
 2020-02-21,Tedros Adhanom Ghebreyesus,30,2
 2020-02-21,Amy Deng,31,1
-2020-02-22,Andrew Medichini,1,38
-2020-02-22,Arnold Hopland,1,39
-2020-02-22,Arnold Schwarzenegger,1,40
-2020-02-22,Daniel Wallis,1,41
-2020-02-22,Frank Mcgurty,1,42
-2020-02-22,John Kelly,1,43
-2020-02-22,Lenny Bernstein,1,44
-2020-02-22,Noah Weiland,1,45
-2020-02-22,Pete Buttigieg,1,46
-2020-02-22,Peter Beilensen,1,47
-2020-02-22,Rudy Giuliani,1,48
-2020-02-22,Sacred Heart,1,49
-2020-02-22,Teresa Frankovich,1,50
+2020-02-22,Amy Berman Jackson,1,38
+2020-02-22,Amy Klobuchar,1,39
+2020-02-22,Andrew Medichini,1,40
+2020-02-22,Arnold Hopland,1,41
+2020-02-22,Arnold Schwarzenegger,1,42
+2020-02-22,Daniel Wallis,1,43
+2020-02-22,El Cajon,1,44
+2020-02-22,Frank Mcgurty,1,45
+2020-02-22,Jason Dempsey,1,46
+2020-02-22,Leo Correa,1,47
+2020-02-22,Noah Weiland,1,48
+2020-02-22,Pete Buttigieg,1,49
+2020-02-22,Peter Beilensen,1,50
 2020-02-22,Anne Schuchat,2,13
 2020-02-22,Barbara Loe Fisher,2,14
 2020-02-22,Bernie Sanders,2,15
@@ -1099,11 +1099,11 @@ date,person,count,rn
 2020-02-22,Los Angeles,6,3
 2020-02-22,Katrina Foley,7,2
 2020-02-22,Nancy Messonnier,9,1
-2020-02-23,Kathy Gunst,1,46
-2020-02-23,Kathy Wright,1,47
-2020-02-23,Kevin Frayer Getty,1,48
-2020-02-23,Lauren Gardner,1,49
-2020-02-23,Philip Fong,1,50
+2020-02-23,Alex Azar,1,46
+2020-02-23,Eric Blair,1,47
+2020-02-23,Kfar Kadum,1,48
+2020-02-23,Krishan Patel,1,49
+2020-02-23,Monica Greep,1,50
 2020-02-23,Amy Harmon,2,30
 2020-02-23,Anthony Fauci,2,31
 2020-02-23,Austin Ramzy,2,32
@@ -1149,10 +1149,10 @@ date,person,count,rn
 2020-02-23,Bernie Sanders,16,2
 2020-02-23,Donald Trump,16,3
 2020-02-23,Katrina Foley,29,1
-2020-02-24,Marco Rubio,1,47
-2020-02-24,Mark Ghaly,1,48
-2020-02-24,Robert Johansson,1,49
-2020-02-24,Stephen Miller,1,50
+2020-02-24,Anthony Fauci,1,47
+2020-02-24,Jack Regan,1,48
+2020-02-24,Mike Catton,1,49
+2020-02-24,Paso Robles,1,50
 2020-02-24,Alex Azar,2,15
 2020-02-24,Alex Tausanovitch,2,16
 2020-02-24,Andrew Pestano,2,17
@@ -1209,22 +1209,22 @@ date,person,count,rn
 2020-02-25,Farah Stockman,2,26
 2020-02-25,Gerry Mullaney,2,27
 2020-02-25,Harvey Weinstein,2,28
-2020-02-25,Jennifer Cheun,2,29
-2020-02-25,Jennifer Keller,2,30
-2020-02-25,Jennifer Shay,2,31
-2020-02-25,Jessica Canicosa,2,32
-2020-02-25,Katrina Foley,2,33
+2020-02-25,Jennifer Keller,2,29
+2020-02-25,Jennifer Shay,2,30
+2020-02-25,Jessica Canicosa,2,31
+2020-02-25,Katrina Foley,2,32
+2020-02-25,Keith Bradsher,2,33
 2020-02-25,Lisa Olney,2,34
 2020-02-25,Louis Keene,2,35
 2020-02-25,Maggie Haberman,2,36
 2020-02-25,Mark Landler,2,37
 2020-02-25,Mathew Trecek,2,38
-2020-02-25,Matt Phillips,2,39
-2020-02-25,Michael Cheun,2,40
-2020-02-25,Michael J Fox,2,41
-2020-02-25,Mimi Haleyi,2,42
-2020-02-25,Nancy Messonnier,2,43
-2020-02-25,Noah Weiland,2,44
+2020-02-25,Michael Cheun,2,39
+2020-02-25,Michael J Fox,2,40
+2020-02-25,Mimi Haleyi,2,41
+2020-02-25,Nancy Krank,2,42
+2020-02-25,Noah Weiland,2,43
+2020-02-25,Paso Robles,2,44
 2020-02-25,Pat Provencher,2,45
 2020-02-25,Russell Goldman,2,46
 2020-02-25,Sam Roth,2,47
@@ -1250,14 +1250,14 @@ date,person,count,rn
 2020-02-25,Xavier Becerra,10,3
 2020-02-25,Donald Trump,13,1
 2020-02-26,Allison Arwady,2,40
-2020-02-26,Iraj Harirchi,2,41
-2020-02-26,Jacqueline Howard,2,42
-2020-02-26,Jerri Jorgensen,2,43
-2020-02-26,Julie Steenhuysen,2,44
-2020-02-26,Michael Perry,2,45
-2020-02-26,Muralikumar Anantharaman,2,46
-2020-02-26,Sam Yeh,2,47
-2020-02-26,Shanshan Wang,2,48
+2020-02-26,Jacqueline Howard,2,41
+2020-02-26,Jerri Jorgensen,2,42
+2020-02-26,Julie Steenhuysen,2,43
+2020-02-26,Michael Perry,2,44
+2020-02-26,Muralikumar Anantharaman,2,45
+2020-02-26,Sam Yeh,2,46
+2020-02-26,Shanshan Wang,2,47
+2020-02-26,Stephen Coates,2,48
 2020-02-26,Vincent Tang,2,49
 2020-02-26,Wellington Chen,2,50
 2020-02-26,Alex Wigglesworth,3,25
@@ -1299,8 +1299,8 @@ date,person,count,rn
 2020-02-26,London Breed,16,3
 2020-02-26,Nancy Messonnier,24,2
 2020-02-26,Donald Trump,30,1
-2020-02-27,Michael Ryan,10,47
-2020-02-27,Mike Bloomberg,10,48
+2020-02-27,Christina Maxouris,10,47
+2020-02-27,Michael Ryan,10,48
 2020-02-27,Pete Buttigieg,10,49
 2020-02-27,Tedros Ghebreyesus,10,50
 2020-02-27,Iraj Harirchi,11,43
@@ -1453,10 +1453,10 @@ date,person,count,rn
 2020-03-01,Chuck Schumer,8,44
 2020-03-01,David Ryder Getty,8,45
 2020-03-01,Henry Walke,8,46
-2020-03-01,Mike Bloomberg,8,47
-2020-03-01,Minyvonne Burke,8,48
-2020-03-01,Northbay Vacavalley,8,49
-2020-03-01,Patrick Allen,8,50
+2020-03-01,Lauren Naylor,8,47
+2020-03-01,Mike Bloomberg,8,48
+2020-03-01,Patrick Allen,8,49
+2020-03-01,Vacaville Northbay Vacavalley,8,50
 2020-03-01,Amy Klobuchar,9,37
 2020-03-01,Bernie Sanders,9,38
 2020-03-01,Jamie Nixon,9,39
@@ -1650,7 +1650,7 @@ date,person,count,rn
 2020-03-04,Joe Biden,93,2
 2020-03-04,Los Angeles,106,1
 2020-03-05,David Gifford,10,49
-2020-03-05,Pope Francis,10,50
+2020-03-05,Lorenzo Romano,10,50
 2020-03-05,Cyril Ramaphosa,11,43
 2020-03-05,Giuseppe Conte,11,44
 2020-03-05,Hillary Clinton,11,45
@@ -1699,8 +1699,8 @@ date,person,count,rn
 2020-03-05,Mike Pence,140,3
 2020-03-05,Los Angeles,191,2
 2020-03-05,Gavin Newsom,376,1
-2020-03-06,Hillary Clinton,12,49
-2020-03-06,Stephen Hahn,12,50
+2020-03-06,David Sassoli,12,49
+2020-03-06,Martha Bellisle,12,50
 2020-03-06,Aimee Sisson,13,46
 2020-03-06,Chris Whitty,13,47
 2020-03-06,Negin Kamali,13,48
@@ -1849,7 +1849,7 @@ date,person,count,rn
 2020-03-08,John Smith,248,3
 2020-03-08,Mike Pence,335,2
 2020-03-08,Donald Trump,369,1
-2020-03-09,Brian Kemp,22,50
+2020-03-09,Nancy Messonnier,22,50
 2020-03-09,Nancy Pelosi,23,48
 2020-03-09,Negin Kamali,23,49
 2020-03-09,Juliet Williams,24,45
@@ -1899,10 +1899,10 @@ date,person,count,rn
 2020-03-09,Gavin Newsom,310,3
 2020-03-09,Donald Trump,313,2
 2020-03-09,Mike Pence,333,1
-2020-03-10,David Shepardson,21,47
-2020-03-10,Jay Inslee,21,48
-2020-03-10,Jonathan Allen,21,49
-2020-03-10,Steve Holland,21,50
+2020-03-10,Jay Inslee,21,47
+2020-03-10,Leslie Adler,21,48
+2020-03-10,Paul Simao,21,49
+2020-03-10,Peter Szekely,21,50
 2020-03-10,Stephanie Grisham,22,46
 2020-03-10,Alex Azar,23,44
 2020-03-10,Santa Clara,23,45
@@ -1950,8 +1950,8 @@ date,person,count,rn
 2020-03-10,Jerome Adams,172,2
 2020-03-10,Gavin Newsom,336,1
 2020-03-11,Bob Chapek,16,47
-2020-03-11,Bob Iger,16,48
-2020-03-11,Jerome Adams,16,49
+2020-03-11,Lee Bollinger,16,48
+2020-03-11,Martin Marshall,16,49
 2020-03-11,Tedros Adhanom Ghebreyesus,16,50
 2020-03-11,Libby Schaaf,17,45
 2020-03-11,Nadine Dorries,17,46
@@ -1999,8 +1999,8 @@ date,person,count,rn
 2020-03-11,Gavin Newsom,114,3
 2020-03-11,Joe Biden,121,2
 2020-03-11,Donald Trump,160,1
-2020-03-12,Raul Ruiz,13,49
-2020-03-12,Ron Desantis,13,50
+2020-03-12,Doug Collins,13,49
+2020-03-12,Lamar Alexander,13,50
 2020-03-12,Barack Obama,14,44
 2020-03-12,John Lewis,14,45
 2020-03-12,Maria Cantwell,14,46
@@ -2049,7 +2049,7 @@ date,person,count,rn
 2020-03-12,Los Angeles,121,3
 2020-03-12,Gavin Newsom,148,2
 2020-03-12,Donald Trump,201,1
-2020-03-13,Teresa Johnson,10,50
+2020-03-13,Peter Hotez,10,50
 2020-03-13,Alex Azar,11,44
 2020-03-13,Barack Obama,11,45
 2020-03-13,Bernie Sanders,11,46
@@ -2099,16 +2099,16 @@ date,person,count,rn
 2020-03-13,Los Angeles,114,3
 2020-03-13,Donald Trump,139,2
 2020-03-13,Gavin Newsom,143,1
-2020-03-14,Amy Taxin,6,41
-2020-03-14,Carolyn Maloney,6,42
-2020-03-14,Don Davis,6,43
-2020-03-14,Justin Trudeau,6,44
-2020-03-14,Michael Bernick,6,45
-2020-03-14,Nestor Forster Jr,6,46
-2020-03-14,Ricardo Alonso-Zaldivar,6,47
-2020-03-14,Steve Gorman,6,48
-2020-03-14,Sung Won Sohn,6,49
-2020-03-14,Tom Murphy,6,50
+2020-03-14,Daniel Wallis,6,41
+2020-03-14,David Price,6,42
+2020-03-14,Duane Morris,6,43
+2020-03-14,Gina Raimondo,6,44
+2020-03-14,Hillary Clinton,6,45
+2020-03-14,Jamie Raskin,6,46
+2020-03-14,Jose Serrano,6,47
+2020-03-14,Larry Mendonca,6,48
+2020-03-14,Laura Davis,6,49
+2020-03-14,Sean Cyphers,6,50
 2020-03-14,Carolyn Wang,7,35
 2020-03-14,Matthew Gregory,7,36
 2020-03-14,Santa Clara,7,37
@@ -2149,7 +2149,7 @@ date,person,count,rn
 2020-03-14,Los Angeles,58,3
 2020-03-14,Gavin Newsom,72,2
 2020-03-14,Donald Trump,99,1
-2020-03-15,Todd Miyazawa,5,50
+2020-03-15,Doug Collins,5,50
 2020-03-15,Adam Schiff,6,44
 2020-03-15,Bernie Sanders,6,45
 2020-03-15,Brian Kemp,6,46
@@ -2199,8 +2199,8 @@ date,person,count,rn
 2020-03-15,Donald Trump,54,3
 2020-03-15,Los Angeles,58,2
 2020-03-15,Gavin Newsom,69,1
-2020-03-16,John Harry Smith,10,48
-2020-03-16,Katy Payne,10,49
+2020-03-16,Diane Pratt-Heavner,10,48
+2020-03-16,John Harry Smith,10,49
 2020-03-16,Tim Robinson,10,50
 2020-03-16,Bryan Kaltenbach,11,47
 2020-03-16,Alex Azar,12,44
@@ -2351,8 +2351,8 @@ date,person,count,rn
 2020-03-18,Gavin Newsom,408,1
 2020-03-19,Cory Booker,15,46
 2020-03-19,Jake Tapper,15,47
-2020-03-19,Jeff Hollowell,15,48
-2020-03-19,Micky Arison,15,49
+2020-03-19,Micky Arison,15,48
+2020-03-19,Steve Mnuchin,15,49
 2020-03-19,Tim Walz,15,50
 2020-03-19,Arnold Schwarzenegger,16,45
 2020-03-19,Jerry Brown,17,42
@@ -2451,18 +2451,18 @@ date,person,count,rn
 2020-03-20,Gavin Newsom,1297,1
 2020-03-21,Andrew Macdonald,19,37
 2020-03-21,Brendan Murphy,19,38
-2020-03-21,Brett Collins,19,39
-2020-03-21,Dan Tehan,19,40
+2020-03-21,Eddie Mabo,19,39
+2020-03-21,Eliza Ewington,19,40
 2020-03-21,Evelyn Martin-Blakey,19,41
-2020-03-21,Jared Kushner,19,42
+2020-03-21,Josh Frydenberg,19,42
 2020-03-21,Kellyanne Conway,19,43
-2020-03-21,L-R Olivia Edwards,19,44
-2020-03-21,Lauren Petrovic,19,45
-2020-03-21,Mathias Cormann,19,46
+2020-03-21,Maureen Groppe,19,44
+2020-03-21,Michael Ryan,19,45
+2020-03-21,Olivia Edwards,19,46
 2020-03-21,Peter Dutton,19,47
-2020-03-21,Ron Desantis,19,48
-2020-03-21,Scott Morrison,19,49
-2020-03-21,Susan Morgan,19,50
+2020-03-21,Sam Mooy Getty,19,48
+2020-03-21,Santa Clara,19,49
+2020-03-21,Shelly Stallsmith,19,50
 2020-03-21,Deborah Birx,20,33
 2020-03-21,Greg Hunt,20,34
 2020-03-21,Silvia Shadden,20,35
@@ -2499,7 +2499,7 @@ date,person,count,rn
 2020-03-21,Los Angeles,215,3
 2020-03-21,Donald Trump,286,2
 2020-03-21,Gavin Newsom,409,1
-2020-03-22,Boris Johnson,12,50
+2020-03-22,Ivanka Trump,12,50
 2020-03-22,Chuck Grassley,13,42
 2020-03-22,Evan Hollander,13,43
 2020-03-22,Giuseppe Conte,13,44
@@ -2550,10 +2550,10 @@ date,person,count,rn
 2020-03-22,Los Angeles,155,2
 2020-03-22,Gavin Newsom,211,1
 2020-03-23,James Bullard,11,46
-2020-03-23,James Phillips,11,47
+2020-03-23,John Carney,11,47
 2020-03-23,Larry Hogan,11,48
-2020-03-23,Mike Lee,11,49
-2020-03-23,Santa Barbara,11,50
+2020-03-23,Santa Barbara,11,49
+2020-03-23,Wolf Blitzer,11,50
 2020-03-23,Bernie Sanders,12,39
 2020-03-23,Clarence Nishihara,12,40
 2020-03-23,Freddie Mac,12,41
@@ -2749,9 +2749,9 @@ date,person,count,rn
 2020-03-26,Donald Trump,250,3
 2020-03-26,Los Angeles,254,2
 2020-03-26,Gavin Newsom,428,1
-2020-03-27,Erik Ortiz,17,48
-2020-03-27,Phil Helsel,17,49
-2020-03-27,Sarah Kaufman,17,50
+2020-03-27,Mardi Gras,17,48
+2020-03-27,Michael Price,17,49
+2020-03-27,Ro Khanna,17,50
 2020-03-27,Alexander Hult,18,34
 2020-03-27,Amy Klobuchar,18,35
 2020-03-27,Anthony Fauci,18,36
@@ -2799,8 +2799,8 @@ date,person,count,rn
 2020-03-27,Donald Trump,182,3
 2020-03-27,Los Angeles,307,2
 2020-03-27,Gavin Newsom,336,1
-2020-03-28,Ayanna Pressley,25,47
-2020-03-28,Brenda Jones,25,48
+2020-03-28,Brenda Jones,25,47
+2020-03-28,Denzel Mccampbell,25,48
 2020-03-28,John Conyers,25,49
 2020-03-28,Tom Hanks,25,50
 2020-03-28,Ilhan Omar,26,46
@@ -2949,7 +2949,7 @@ date,person,count,rn
 2020-03-30,Gavin Newsom,216,3
 2020-03-30,Los Angeles,223,2
 2020-03-30,Donald Trump,299,1
-2020-03-31,Denzel Mccampbell,38,50
+2020-03-31,John Bozzella,38,50
 2020-03-31,Julia Bryan,41,48
 2020-03-31,Tate Reeves,41,49
 2020-03-31,Jahan Fahimi,42,47
@@ -3105,11 +3105,11 @@ date,person,count,rn
 2020-04-03,Bernie Sander,27,28
 2020-04-03,Brenda Jones,27,29
 2020-04-03,Denzel Mccampbell,27,30
-2020-04-03,Gary Grumbach,27,31
-2020-04-03,Ilhan Omar,27,32
-2020-04-03,John Conyers,27,33
-2020-04-03,Josh Lederman,27,34
-2020-04-03,Kathleen Sebelius,27,35
+2020-04-03,Donna Wood,27,31
+2020-04-03,Gary Grumbach,27,32
+2020-04-03,Ilhan Omar,27,33
+2020-04-03,John Conyers,27,34
+2020-04-03,Josh Lederman,27,35
 2020-04-03,Marianna Sotomayor,27,36
 2020-04-03,Maura Barrett,27,37
 2020-04-03,Max Baucus,27,38
@@ -3154,13 +3154,13 @@ date,person,count,rn
 2020-04-04,Carolyn Maloney,16,41
 2020-04-04,Donna Wood,16,42
 2020-04-04,Gary Grumbach,16,43
-2020-04-04,John Antczak,16,44
-2020-04-04,Josh Lederman,16,45
+2020-04-04,Ivanka Trump,16,44
+2020-04-04,John Antczak,16,45
 2020-04-04,Lizzie Litzow,16,46
-2020-04-04,Marianna Sotomayor,16,47
+2020-04-04,Melissa Holzberg,16,47
 2020-04-04,Monica Alba,16,48
-2020-04-04,Nan,16,49
-2020-04-04,Nicole Malliotakis,16,50
+2020-04-04,Nicole Malliotakis,16,49
+2020-04-04,Tim Murtaugh,16,50
 2020-04-04,Christy Smith,17,35
 2020-04-04,Ilhan Omar,17,36
 2020-04-04,Kathleen Ronayne,17,37
@@ -3200,11 +3200,11 @@ date,person,count,rn
 2020-04-04,Donald Trump,173,2
 2020-04-04,Gavin Newsom,206,1
 2020-04-05,Beth Baumann,8,41
-2020-04-05,Daniel Wallis,8,42
-2020-04-05,Devin Nunes,8,43
-2020-04-05,John Semmens,8,44
-2020-04-05,Kevin Collins,8,45
-2020-04-05,Mike Dewine,8,46
+2020-04-05,Brett Crozier,8,42
+2020-04-05,Daniel Wallis,8,43
+2020-04-05,Devin Nunes,8,44
+2020-04-05,John Semmens,8,45
+2020-04-05,Kevin Collins,8,46
 2020-04-05,Pacific Ocean,8,47
 2020-04-05,Phil Murphy,8,48
 2020-04-05,Sarah Sloat,8,49
@@ -3249,7 +3249,7 @@ date,person,count,rn
 2020-04-05,Los Angeles,81,3
 2020-04-05,Donald Trump,93,2
 2020-04-05,Gavin Newsom,124,1
-2020-04-06,Ronald Reagan,12,50
+2020-04-06,Aliza Sherman,12,50
 2020-04-06,Alpesh Amin,13,43
 2020-04-06,Babafemi Taiwo,13,44
 2020-04-06,Jerry Brown,13,45
@@ -3299,7 +3299,7 @@ date,person,count,rn
 2020-04-06,Donald Trump,106,3
 2020-04-06,Los Angeles,133,2
 2020-04-06,Gavin Newsom,175,1
-2020-04-07,Scott Pauley,12,50
+2020-04-07,Nadine Burke Harris,12,50
 2020-04-07,Aimee Sisson,13,44
 2020-04-07,Alex Azar,13,45
 2020-04-07,Jason Garcia,13,46
@@ -3349,7 +3349,7 @@ date,person,count,rn
 2020-04-07,Los Angeles,169,3
 2020-04-07,Donald Trump,210,2
 2020-04-07,Gavin Newsom,226,1
-2020-04-08,Brett Murphy,11,45
+2020-04-08,Eva Lee,11,45
 2020-04-08,Gregory Martin,11,46
 2020-04-08,Gretchen Michael,11,47
 2020-04-08,Jon Coupal,11,48
@@ -3399,7 +3399,7 @@ date,person,count,rn
 2020-04-08,Los Angeles,136,3
 2020-04-08,Donald Trump,164,2
 2020-04-08,Gavin Newsom,231,1
-2020-04-09,Devon Mathis,10,50
+2020-04-09,Thomas Tighe,10,50
 2020-04-09,April Verrett,11,46
 2020-04-09,Barack Obama,11,47
 2020-04-09,John Swartzberg,11,48
@@ -3500,10 +3500,10 @@ date,person,count,rn
 2020-04-10,Los Angeles,179,2
 2020-04-10,Gavin Newsom,384,1
 2020-04-11,Bill Gates,11,43
-2020-04-11,Elizabeth Warren,11,44
-2020-04-11,Jim Ewert,11,45
-2020-04-11,Katie Talbot,11,46
-2020-04-11,Laura Ingraham,11,47
+2020-04-11,Jim Ewert,11,44
+2020-04-11,Katie Talbot,11,45
+2020-04-11,Laura Ingraham,11,46
+2020-04-11,Lizelda Lopez,11,47
 2020-04-11,Michael Connors,11,48
 2020-04-11,Neetu Balram,11,49
 2020-04-11,Toni Atkins,11,50
@@ -3551,9 +3551,9 @@ date,person,count,rn
 2020-04-11,Gavin Newsom,239,1
 2020-04-12,Andy Beshear,6,42
 2020-04-12,Archie Harrison,6,43
-2020-04-12,Debbie Lencioni-Rocha,6,44
+2020-04-12,Diana Flores,6,44
 2020-04-12,Jay Inslee,6,45
-2020-04-12,Kaiser Permanente,6,46
+2020-04-12,London Breed,6,46
 2020-04-12,Mel Gibson,6,47
 2020-04-12,Peter Navarro,6,48
 2020-04-12,Queen Easter,6,49
@@ -3612,7 +3612,7 @@ date,person,count,rn
 2020-04-13,Juan Bautista,12,45
 2020-04-13,Marylou Armer,12,46
 2020-04-13,Merino Gonz,12,47
-2020-04-13,Paul Muller,12,48
+2020-04-13,Ned Lamont,12,48
 2020-04-13,Phil Foster,12,49
 2020-04-13,Raphael Sonenshein,12,50
 2020-04-13,Barack Obama,13,29
@@ -3649,8 +3649,8 @@ date,person,count,rn
 2020-04-13,Los Angeles,128,3
 2020-04-13,Donald Trump,179,1
 2020-04-13,Gavin Newsom,179,2
-2020-04-14,Damian Dovarganes,15,49
-2020-04-14,Larry Kudlow,15,50
+2020-04-14,Mark Meadows,15,49
+2020-04-14,Tate Reeves,15,50
 2020-04-14,Brian Melley,16,43
 2020-04-14,Charlie Baker,16,44
 2020-04-14,Chris Sununu,16,45
@@ -3699,9 +3699,9 @@ date,person,count,rn
 2020-04-14,Los Angeles,194,3
 2020-04-14,Donald Trump,329,2
 2020-04-14,Gavin Newsom,450,1
-2020-04-15,Erin Mordecai,20,48
-2020-04-15,Tim Walz,20,49
-2020-04-15,Tony Thurmond,20,50
+2020-04-15,Claudia Briggs,20,48
+2020-04-15,Erin Mordecai,20,49
+2020-04-15,Steve Sisolak,20,50
 2020-04-15,Barack Obama,21,44
 2020-04-15,Charlie Baker,21,45
 2020-04-15,Doina Chiacu,21,46
@@ -3749,14 +3749,14 @@ date,person,count,rn
 2020-04-15,Los Angeles,138,3
 2020-04-15,Donald Trump,225,2
 2020-04-15,Gavin Newsom,413,1
-2020-04-16,Claudia Briggs,11,49
-2020-04-16,Hillary Clinton,11,50
+2020-04-16,Scott Gottlieb,11,48
+2020-04-16,Steve Elmendorf,11,49
+2020-04-16,Zhao Lijian,11,50
 2020-04-16,Camelia Hostinar,12,43
 2020-04-16,Eric Garcetti,12,44
 2020-04-16,Mark Zuckerberg,12,45
-2020-04-16,Mary Altaffer,12,46
-2020-04-16,Shanice Dawkins,12,47
-2020-04-16,Tony Thurmond,12,48
+2020-04-16,Shanice Dawkins,12,46
+2020-04-16,Tony Thurmond,12,47
 2020-04-16,Jack Dorsey,13,41
 2020-04-16,Larry Hogan,13,42
 2020-04-16,Deborah Birx,14,36
@@ -3799,8 +3799,8 @@ date,person,count,rn
 2020-04-16,Donald Trump,196,3
 2020-04-16,Los Angeles,205,2
 2020-04-16,Gavin Newsom,308,1
-2020-04-17,Alex Azar,18,49
-2020-04-17,Garrett Chan,18,50
+2020-04-17,Garrett Chan,18,49
+2020-04-17,Sonia Luckey,18,50
 2020-04-17,Gretchen Whitmer,19,48
 2020-04-17,Anita Hubbard,20,37
 2020-04-17,Christina Ghaly,20,38
@@ -3899,11 +3899,11 @@ date,person,count,rn
 2020-04-18,Los Angeles,78,3
 2020-04-18,Donald Trump,110,2
 2020-04-18,Gavin Newsom,164,1
-2020-04-19,Chuck Schumer,6,45
+2020-04-19,Angus King,6,45
 2020-04-19,Gretchen Whitmer,6,46
-2020-04-19,Jeff Chiu,6,47
-2020-04-19,Kamala Harris D-California,6,48
-2020-04-19,Ku Klux Klan,6,49
+2020-04-19,Ku Klux Klan,6,47
+2020-04-19,Meghan Markle,6,48
+2020-04-19,Prince Harry,6,49
 2020-04-19,Sonia Angell,6,50
 2020-04-19,Alex Jones,7,37
 2020-04-19,Amanda Kloots,7,38
@@ -3949,7 +3949,7 @@ date,person,count,rn
 2020-04-19,Andrew Cuomo,43,3
 2020-04-19,Donald Trump,77,2
 2020-04-19,Gavin Newsom,84,1
-2020-04-20,Ashraf Ghani,11,50
+2020-04-20,Seema Verma,11,50
 2020-04-20,Brian Kemp,12,48
 2020-04-20,Phillip Sawyer,12,49
 2020-04-20,Bryan Alexander,13,40
@@ -3999,8 +3999,8 @@ date,person,count,rn
 2020-04-20,Donald Trump,117,3
 2020-04-20,Los Angeles,163,2
 2020-04-20,Gavin Newsom,198,1
-2020-04-21,Greg Abbott,12,49
-2020-04-21,Henry Mcmaster,12,50
+2020-04-21,Henry Mcmaster,12,49
+2020-04-21,Tom Steyer,12,50
 2020-04-21,Amy Klobuchar,13,44
 2020-04-21,Barack Obama,13,45
 2020-04-21,Jerry Brown,13,46
@@ -4099,15 +4099,15 @@ date,person,count,rn
 2020-04-22,Los Angeles,143,3
 2020-04-22,Gavin Newsom,270,2
 2020-04-22,Donald Trump,283,1
-2020-04-23,Ben Klayman,21,42
-2020-04-23,Dan Whitcomb,21,43
-2020-04-23,Doina Chiacu,21,44
-2020-04-23,Howard Goller,21,45
-2020-04-23,Maria Caspani,21,46
-2020-04-23,Peter Cooney,21,47
-2020-04-23,Ralph Ellis,21,48
-2020-04-23,Rich Mckay,21,49
-2020-04-23,Sharon Bernstein,21,50
+2020-04-23,Dan Whitcomb,21,42
+2020-04-23,Doina Chiacu,21,43
+2020-04-23,Howard Goller,21,44
+2020-04-23,Jeff Mason,21,45
+2020-04-23,Larry Hogan,21,46
+2020-04-23,Maria Caspani,21,47
+2020-04-23,Nathan Layne,21,48
+2020-04-23,Peter Cooney,21,49
+2020-04-23,Rich Mckay,21,50
 2020-04-23,Betsy Devos,23,40
 2020-04-23,Harmeet Dhillon,23,41
 2020-04-23,Arman Azad,24,38
@@ -4249,11 +4249,11 @@ date,person,count,rn
 2020-04-25,Los Angeles,72,3
 2020-04-25,Donald Trump,133,2
 2020-04-25,Gavin Newsom,145,1
-2020-04-26,Karen Whitsett,8,46
-2020-04-26,Larry King,8,47
-2020-04-26,London Breed,8,48
-2020-04-26,Lorien Abroms,8,49
-2020-04-26,Susan Hassig,8,50
+2020-04-26,Larry King,8,46
+2020-04-26,London Breed,8,47
+2020-04-26,Lorien Abroms,8,48
+2020-04-26,Travis Gayles,8,49
+2020-04-26,Wilbur Chen,8,50
 2020-04-26,Angie Bennett,9,41
 2020-04-26,Brett Kavanaugh,9,42
 2020-04-26,Chris Gautz,9,43
@@ -4302,9 +4302,9 @@ date,person,count,rn
 2020-04-27,Edward Glaeser,11,45
 2020-04-27,Jay Pitter,11,46
 2020-04-27,Jed Kolko,11,47
-2020-04-27,Stacey Abrams,11,48
-2020-04-27,Steny Hoyer,11,49
-2020-04-27,Susan Kirsch,11,50
+2020-04-27,Kathryn Barger,11,48
+2020-04-27,Stacey Abrams,11,49
+2020-04-27,Steny Hoyer,11,50
 2020-04-27,Kamala Harris,12,42
 2020-04-27,Kate Brown,12,43
 2020-04-27,Kevin Mccarthy,12,44
@@ -4349,13 +4349,13 @@ date,person,count,rn
 2020-04-27,Donald Trump,87,3
 2020-04-27,Los Angeles,153,2
 2020-04-27,Gavin Newsom,198,1
-2020-04-28,Jim Nielsen,11,43
-2020-04-28,Kevin Mccarthy,11,44
-2020-04-28,Louis Charbonneau,11,45
-2020-04-28,Marcio Jose Sanchez,11,46
-2020-04-28,Matthew Gould,11,47
+2020-04-28,Dmitry Gudkov,11,43
+2020-04-28,Jim Nielsen,11,44
+2020-04-28,Kevin Mccarthy,11,45
+2020-04-28,Louis Charbonneau,11,46
+2020-04-28,Marcio Jose Sanchez,11,47
 2020-04-28,Tupac Malik Shakur,11,48
-2020-04-28,William Barr,11,49
+2020-04-28,Tupac Shakur,11,49
 2020-04-28,Xavier Becerra,11,50
 2020-04-28,Daniel Graff,12,36
 2020-04-28,Donald Allen,12,37
@@ -4399,9 +4399,9 @@ date,person,count,rn
 2020-04-28,Donald Trump,131,3
 2020-04-28,Los Angeles,150,2
 2020-04-28,Gavin Newsom,264,1
-2020-04-29,Assuta Ramat Hachayal,16,48
-2020-04-29,Corona Kumar,16,49
-2020-04-29,Tony Blinken,16,50
+2020-04-29,Haemek Afula,16,48
+2020-04-29,Laniado Netanya,16,49
+2020-04-29,Wolfson Holon,16,50
 2020-04-29,Javier Soltaro,17,45
 2020-04-29,Jeff Freitas,17,46
 2020-04-29,Merdad Parsey,17,47
@@ -4449,7 +4449,7 @@ date,person,count,rn
 2020-04-29,Los Angeles,132,3
 2020-04-29,Donald Trump,207,2
 2020-04-29,Gavin Newsom,328,1
-2020-04-30,Kevin Faulconer,16,50
+2020-04-30,Nancy Pelosi,16,50
 2020-04-30,Boris Johnson,17,48
 2020-04-30,Francisco Ram,17,49
 2020-04-30,Amy Klobuchar,18,38
@@ -4549,9 +4549,9 @@ date,person,count,rn
 2020-05-01,Donald Trump,169,3
 2020-05-01,Los Angeles,173,2
 2020-05-01,Gavin Newsom,346,1
-2020-05-02,Carolyn Cole Los Angeles,11,48
-2020-05-02,Rudy William Grajeda Magdaleno,11,49
-2020-05-02,Todd Spitzer,11,50
+2020-05-02,Barbara Ferrer,11,48
+2020-05-02,Nancy Pelosi,11,49
+2020-05-02,Rudy William Grajeda Magdaleno,11,50
 2020-05-02,Amber Mccandles,12,41
 2020-05-02,Andrew Norman,12,42
 2020-05-02,Charlene Harrington,12,43
@@ -4603,8 +4603,8 @@ date,person,count,rn
 2020-05-03,Chuck Mulligan,5,45
 2020-05-03,Doug Bataille,5,46
 2020-05-03,Hillary Clinton,5,47
-2020-05-03,Jesse Villicana,5,48
-2020-05-03,Michael Ryan,5,49
+2020-05-03,Ishmail Tamayo,5,48
+2020-05-03,Jesse Villicana,5,49
 2020-05-03,Michel Moore,5,50
 2020-05-03,Alanna Lauren Grecoalanna Greco,6,39
 2020-05-03,Jodie Larranga,6,40
@@ -4649,7 +4649,7 @@ date,person,count,rn
 2020-05-03,Donald Trump,73,3
 2020-05-03,Los Angeles,88,2
 2020-05-03,Gavin Newsom,129,1
-2020-05-04,Phil Murphy Govmurphy,11,50
+2020-05-04,Natalie Lambert,11,50
 2020-05-04,Alex Padilla,12,40
 2020-05-04,Ali Mokdad,12,41
 2020-05-04,Carrie Braun,12,42
@@ -4699,7 +4699,7 @@ date,person,count,rn
 2020-05-04,Los Angeles,142,3
 2020-05-04,Donald Trump,154,2
 2020-05-04,Gavin Newsom,293,1
-2020-05-05,Calvin Munerlyn,14,50
+2020-05-05,Julia Thompson,14,50
 2020-05-05,Chuck Schumer,15,45
 2020-05-05,Doug Ducey,15,46
 2020-05-05,Justin Walker,15,47
@@ -4799,10 +4799,10 @@ date,person,count,rn
 2020-05-06,Donald Trump,99,3
 2020-05-06,Los Angeles,151,2
 2020-05-06,Gavin Newsom,250,1
-2020-05-07,Fiona Ma,11,47
-2020-05-07,Ken Curley,11,48
-2020-05-07,Michael Ricci,11,49
-2020-05-07,Nadine Burke Harris,11,50
+2020-05-07,Eric Garcetti,11,47
+2020-05-07,Fiona Ma,11,48
+2020-05-07,Ken Curley,11,49
+2020-05-07,Michael Ricci,11,50
 2020-05-07,Andrew Steele Jarret,12,38
 2020-05-07,Ava Duvernay,12,39
 2020-05-07,Eric Topol,12,40
@@ -4849,9 +4849,9 @@ date,person,count,rn
 2020-05-07,Los Angeles,95,3
 2020-05-07,Donald Trump,100,2
 2020-05-07,Gavin Newsom,286,1
-2020-05-08,Andy Sullivan,13,48
-2020-05-08,Lisa Shumaker,13,49
-2020-05-08,Lucia Mutikani,13,50
+2020-05-08,Jeff Mason,13,48
+2020-05-08,Rajesh Kumar Singh,13,49
+2020-05-08,Shannon Stapleton,13,50
 2020-05-08,Arthur Caplan,14,39
 2020-05-08,Ayanti Bera,14,40
 2020-05-08,Bill Gates,14,41
@@ -4950,11 +4950,11 @@ date,person,count,rn
 2020-05-09,Donald Trump,128,2
 2020-05-09,Gavin Newsom,278,1
 2020-05-10,Daniel Newton,10,42
-2020-05-10,Deborah Birx,10,43
-2020-05-10,Gretchen Whitmer,10,44
-2020-05-10,Jeffrey Barke,10,45
-2020-05-10,London Breed,10,46
-2020-05-10,Phil Francis,10,47
+2020-05-10,David Vela,10,43
+2020-05-10,Deborah Birx,10,44
+2020-05-10,Donna Sullivan,10,45
+2020-05-10,Gretchen Whitmer,10,46
+2020-05-10,London Breed,10,47
 2020-05-10,Ranger Peter Densmore,10,48
 2020-05-10,Ted Cruz,10,49
 2020-05-10,Tim Murtaugh,10,50
@@ -5049,11 +5049,11 @@ date,person,count,rn
 2020-05-11,Elon Musk,145,3
 2020-05-11,Donald Trump,165,2
 2020-05-11,Gavin Newsom,198,1
-2020-05-12,Danny Avula,17,45
-2020-05-12,David Shepardson,17,46
-2020-05-12,Erica Pan,17,47
-2020-05-12,Jerry Brown,17,48
-2020-05-12,Justice Clarence Thomas,17,49
+2020-05-12,April Verrett,17,45
+2020-05-12,Danny Avula,17,46
+2020-05-12,David Shepardson,17,47
+2020-05-12,Erica Pan,17,48
+2020-05-12,Jerry Brown,17,49
 2020-05-12,Mark Parkinson,17,50
 2020-05-12,Nan,18,44
 2020-05-12,Mike Maggard,19,42
@@ -5099,10 +5099,10 @@ date,person,count,rn
 2020-05-12,Donald Trump,325,3
 2020-05-12,Elon Musk,375,2
 2020-05-12,Gavin Newsom,444,1
-2020-05-13,Gretchen Whitmer,20,48
 2020-05-13,Steve Knight,20,49
 2020-05-13,Steven Mnuchin,20,50
 2020-05-13,Mike Ryan,21,47
+2020-05-13,William Barr,21,48
 2020-05-13,Michael Flynn,22,44
 2020-05-13,Steve Mnuchin,22,45
 2020-05-13,Xavier Becerra,22,46
@@ -5149,7 +5149,7 @@ date,person,count,rn
 2020-05-13,Elon Musk,242,3
 2020-05-13,Donald Trump,276,2
 2020-05-13,Gavin Newsom,337,1
-2020-05-14,Tom Mentzer,18,50
+2020-05-14,Ahmaud Arbery,18,50
 2020-05-14,Nikki Haley,19,48
 2020-05-14,Sam Aguiar,19,49
 2020-05-14,Barbara Ferrer,20,41
@@ -5199,7 +5199,7 @@ date,person,count,rn
 2020-05-14,Donald Trump,223,3
 2020-05-14,Los Angeles,259,2
 2020-05-14,Gavin Newsom,277,1
-2020-05-15,Bill Gates,13,48
+2020-05-15,Alice Fisher,13,48
 2020-05-15,Joe Rogan,13,49
 2020-05-15,Las Vegas,13,50
 2020-05-15,D-San Francisco,14,43
@@ -5249,8 +5249,8 @@ date,person,count,rn
 2020-05-15,Los Angeles,165,3
 2020-05-15,Donald Trump,197,2
 2020-05-15,Gavin Newsom,359,1
-2020-05-16,Ahmaud Arbery,7,49
-2020-05-16,Lori Lightfoot,7,50
+2020-05-16,Judy Forman,7,49
+2020-05-16,Mark Ghaly,7,50
 2020-05-16,Abraham Lincoln,8,46
 2020-05-16,Luis Obispo,8,47
 2020-05-16,Uduak-Joe Ntuk,8,48
@@ -5399,12 +5399,12 @@ date,person,count,rn
 2020-05-18,Los Angeles,63,3
 2020-05-18,Donald Trump,82,2
 2020-05-18,Gavin Newsom,95,1
-2020-05-19,Blair Bernstein,7,43
+2020-05-19,Brent Bloechle,7,43
 2020-05-19,Cathy Murillo,7,44
-2020-05-19,Dell Kaplan,7,45
-2020-05-19,Joseph Bedwick,7,46
-2020-05-19,Justin Strekal,7,47
-2020-05-19,Matthew Ginder,7,48
+2020-05-19,Holly Ryckman,7,45
+2020-05-19,Laurie Onofrio-Collier,7,46
+2020-05-19,Matthew Ginder,7,47
+2020-05-19,Michael Flynn,7,48
 2020-05-19,Saphira Galoob,7,49
 2020-05-19,Steve Mnuchin,7,50
 2020-05-19,Bernie Sanders,8,35
@@ -5502,11 +5502,11 @@ date,person,count,rn
 2020-05-21,Andrew Yang,7,36
 2020-05-21,Bob Schaeffer,7,37
 2020-05-21,Eric Garcetti,7,38
-2020-05-21,Hunter Biden,7,39
-2020-05-21,Joanne Berger-Sweeney,7,40
-2020-05-21,Kelly Loeffler,7,41
-2020-05-21,Lindsey Graham,7,42
-2020-05-21,Lyndsay Tucker,7,43
+2020-05-21,Joanne Berger-Sweeney,7,39
+2020-05-21,Kelly Loeffler,7,40
+2020-05-21,Lindsey Graham,7,41
+2020-05-21,Lyndsay Tucker,7,42
+2020-05-21,Mark Zuckerberg,7,43
 2020-05-21,Michael Bloomberg,7,44
 2020-05-21,Michael Flynn,7,45
 2020-05-21,Mike Pompeo,7,46
@@ -5599,7 +5599,7 @@ date,person,count,rn
 2020-05-22,Los Angeles,60,3
 2020-05-22,Donald Trump,96,2
 2020-05-22,Gavin Newsom,135,1
-2020-05-23,Nancy Pelosi,10,48
+2020-05-23,Mike Garcia,10,48
 2020-05-23,Phil Ting,10,49
 2020-05-23,Robert Jablon,10,50
 2020-05-23,Erin Loranger,11,40
@@ -5800,7 +5800,7 @@ date,person,count,rn
 2020-05-26,Donald Trump,171,2
 2020-05-26,Gavin Newsom,197,1
 2020-05-27,Amy Taxin,16,49
-2020-05-27,Yoel Roth,16,50
+2020-05-27,Jim Mcphee,16,50
 2020-05-27,Tate Reeves,17,48
 2020-05-27,David Relman,18,44
 2020-05-27,Hillary Clinton,18,45
@@ -5900,7 +5900,7 @@ date,person,count,rn
 2020-05-28,Donald Trump,126,2
 2020-05-28,Gavin Newsom,239,1
 2020-05-29,Jim Nielsen,8,49
-2020-05-29,Mike Garcia,8,50
+2020-05-29,Mike Pence,8,50
 2020-05-29,Justin Sullivan Getty,9,48
 2020-05-29,Andy Biggs,10,33
 2020-05-29,Brian Monahan,10,34
@@ -5949,8 +5949,8 @@ date,person,count,rn
 2020-05-29,Los Angeles,56,3
 2020-05-29,Donald Trump,93,2
 2020-05-29,Gavin Newsom,143,1
-2020-05-30,Martin Luther King Jr,11,48
-2020-05-30,Norma Torres,11,49
+2020-05-30,Elon Musk,11,48
+2020-05-30,Nancy Pelosi,11,49
 2020-05-30,Roberto Speranza,11,50
 2020-05-30,Jacob Frey,12,45
 2020-05-30,John Edmunds,12,46
@@ -6003,7 +6003,7 @@ date,person,count,rn
 2020-05-31,Hal Marx,9,46
 2020-05-31,Isobel Van Hagen,9,47
 2020-05-31,Kamala Harris,9,48
-2020-05-31,Patrisse Cullors,9,49
+2020-05-31,Medaria Arradondo,9,49
 2020-05-31,Stacey Abrams,9,50
 2020-05-31,Benjamin Crump,10,43
 2020-05-31,Justice Brett Kavanaugh,10,44
@@ -6149,20 +6149,20 @@ date,person,count,rn
 2020-06-02,Donald Trump,58,3
 2020-06-02,Los Angeles,91,2
 2020-06-02,George Floyd,118,1
-2020-06-03,Al Clark,6,44
-2020-06-03,Ali Khamenei,6,45
-2020-06-03,Darrell Steinberg,6,46
-2020-06-03,Jeff Bell,6,47
+2020-06-03,Al Clark,6,45
+2020-06-03,Ali Khamenei,6,46
+2020-06-03,Darrell Steinberg,6,47
 2020-06-03,John Lennon,6,48
-2020-06-03,Lori Lightfoot,6,49
-2020-06-03,Nancy Pelosi,6,50
+2020-06-03,Rudy Giuliani,6,49
+2020-06-03,Steve Benjamin,6,50
 2020-06-03,Ahmaud Arbery,7,37
 2020-06-03,Barack Obama,7,38
-2020-06-03,Chris Dilts Xinhua,7,39
-2020-06-03,Elon Musk,7,40
-2020-06-03,John Church,7,41
-2020-06-03,Mark Zuckerberg,7,42
-2020-06-03,Nan,7,43
+2020-06-03,Breonna Taylor,7,39
+2020-06-03,Chris Dilts Xinhua,7,40
+2020-06-03,Elon Musk,7,41
+2020-06-03,John Church,7,42
+2020-06-03,Mark Zuckerberg,7,43
+2020-06-03,Nan,7,44
 2020-06-03,Jones Edgar Samaniego,8,34
 2020-06-03,Kelly Steckelberg,8,35
 2020-06-03,London Breed,8,36
@@ -6199,38 +6199,38 @@ date,person,count,rn
 2020-06-03,Donald Trump,103,3
 2020-06-03,Los Angeles,130,2
 2020-06-03,George Floyd,149,1
-2020-06-04,David Elhayani,11,45
-2020-06-04,Eduardo Pazuello,11,46
-2020-06-04,Jackie Lacey,11,47
-2020-06-04,Mark Baldassare,11,48
+2020-06-04,Ahmad Tibi,11,44
+2020-06-04,Amy Klobuchar,11,45
+2020-06-04,Ayoub Kara,11,46
+2020-06-04,Jesse Jackson,11,47
+2020-06-04,Mark Zuckerberg,11,48
 2020-06-04,Petah Tikva,11,49
-2020-06-04,Souha Kanj,11,50
-2020-06-04,Breonna Taylor,12,41
-2020-06-04,Cory Booker,12,42
-2020-06-04,Karen Bass,12,43
-2020-06-04,Mitch Mcconnell,12,44
-2020-06-04,Angela Merkel,13,33
-2020-06-04,Kaiser Permanente,13,34
-2020-06-04,Las Vegas,13,35
-2020-06-04,Martin Luther King Jr,13,36
-2020-06-04,Morad Tahbaz,13,37
-2020-06-04,Patrick Carroll,13,38
-2020-06-04,Siamak Namazi,13,39
-2020-06-04,Xiyue Wang,13,40
-2020-06-04,Andrew Cuomo,14,22
-2020-06-04,Cardinal Kevin Farrell,14,23
-2020-06-04,Georgette Mosbacher,14,24
-2020-06-04,Greg Mcmichael,14,25
-2020-06-04,Jesse Evans,14,26
-2020-06-04,Jon Franks,14,27
-2020-06-04,Pope Francis,14,28
-2020-06-04,Santa Maria,14,29
-2020-06-04,Sirios Asghari,14,30
-2020-06-04,Travis Mcmichael,14,31
-2020-06-04,William Roddie Bryan,14,32
-2020-06-04,Bill Richardson,15,21
-2020-06-04,James Mattis,17,19
-2020-06-04,Rodney King,17,20
+2020-06-04,Yisrael Beytenu,11,50
+2020-06-04,Breonna Taylor,12,40
+2020-06-04,Cory Booker,12,41
+2020-06-04,Karen Bass,12,42
+2020-06-04,Mitch Mcconnell,12,43
+2020-06-04,Angela Merkel,13,32
+2020-06-04,Kaiser Permanente,13,33
+2020-06-04,Las Vegas,13,34
+2020-06-04,Martin Luther King Jr,13,35
+2020-06-04,Morad Tahbaz,13,36
+2020-06-04,Patrick Carroll,13,37
+2020-06-04,Siamak Namazi,13,38
+2020-06-04,Xiyue Wang,13,39
+2020-06-04,Andrew Cuomo,14,21
+2020-06-04,Cardinal Kevin Farrell,14,22
+2020-06-04,Georgette Mosbacher,14,23
+2020-06-04,Greg Mcmichael,14,24
+2020-06-04,Jesse Evans,14,25
+2020-06-04,Jon Franks,14,26
+2020-06-04,Pope Francis,14,27
+2020-06-04,Santa Maria,14,28
+2020-06-04,Sirios Asghari,14,29
+2020-06-04,Travis Mcmichael,14,30
+2020-06-04,William Roddie Bryan,14,31
+2020-06-04,Bill Richardson,15,20
+2020-06-04,Rodney King,17,19
 2020-06-04,Kamala Harris,18,17
 2020-06-04,Mike Pompeo,18,18
 2020-06-04,Joanne White,19,14
@@ -6249,11 +6249,11 @@ date,person,count,rn
 2020-06-04,Los Angeles,111,3
 2020-06-04,Donald Trump,125,2
 2020-06-04,George Floyd,182,1
-2020-06-05,Dan Friedman,8,46
-2020-06-05,Garrett Haake,8,47
+2020-06-05,Joanne White,8,46
+2020-06-05,John Sandweg,8,47
 2020-06-05,Matt Chandler,8,48
-2020-06-05,Nikki Goodwin,8,49
-2020-06-05,Ronald Reagan,8,50
+2020-06-05,Peter Newsham,8,49
+2020-06-05,Rahsann Soumas,8,50
 2020-06-05,Barack Obama,9,43
 2020-06-05,Kamala Harris,9,44
 2020-06-05,Nancy Pelosi,9,45
@@ -6299,18 +6299,18 @@ date,person,count,rn
 2020-06-05,Las Vegas,63,3
 2020-06-05,George Floyd,117,2
 2020-06-05,Gavin Newsom,119,1
-2020-06-06,Felix Pinz,2,39
-2020-06-06,Greg Mcmichael,2,40
-2020-06-06,James Bennet,2,41
-2020-06-06,Jane Norberg,2,42
-2020-06-06,Joshua Rhett Miller,2,43
-2020-06-06,Kaiser Permanente,2,44
-2020-06-06,Lucas Manfredi,2,45
-2020-06-06,Mary Casillas Salas,2,46
-2020-06-06,Minyvonne Burke,2,47
-2020-06-06,Roger Goodell,2,48
-2020-06-06,Ted Cruz,2,49
-2020-06-06,Tiffany Haddish,2,50
+2020-06-06,Ahmaud Arbery,2,39
+2020-06-06,Angela Merkel,2,40
+2020-06-06,Anthony Fauci,2,41
+2020-06-06,Don Lemon,2,42
+2020-06-06,Felipe Carrera,2,43
+2020-06-06,Jesse Evans,2,44
+2020-06-06,Martin Gugino,2,45
+2020-06-06,Nadita Bose,2,46
+2020-06-06,Stacey Abrams,2,47
+2020-06-06,Suzanne Barlyn,2,48
+2020-06-06,Trayvon Martin,2,49
+2020-06-06,Winston Churchill,2,50
 2020-06-06,Adela Suliman,3,18
 2020-06-06,Alex Vitale,3,19
 2020-06-06,Barack Obama,3,20
@@ -6349,11 +6349,11 @@ date,person,count,rn
 2020-06-06,Gavin Newsom,23,3
 2020-06-06,Los Angeles,36,2
 2020-06-06,George Floyd,47,1
-2020-06-07,Sean Monterrosa,5,46
-2020-06-07,Shawny Williams,5,47
-2020-06-07,Shawny Williams Vallejo,5,48
-2020-06-07,Tim Grayson,5,49
-2020-06-07,Xavier Becerra,5,50
+2020-06-07,Bob Sampayan,5,46
+2020-06-07,Greg Nyhoff,5,47
+2020-06-07,Mike Thompson,5,48
+2020-06-07,Shawny Williams,5,49
+2020-06-07,William Barr,5,50
 2020-06-07,Boris Johnson,6,43
 2020-06-07,Breonna Taylor,6,44
 2020-06-07,Josh Edelson,6,45
@@ -6399,9 +6399,9 @@ date,person,count,rn
 2020-06-07,Donald Trump,53,3
 2020-06-07,Los Angeles,54,2
 2020-06-07,George Floyd,91,1
-2020-06-08,Alex Azar,7,46
-2020-06-08,Alexandra Syphard,7,47
-2020-06-08,Angela Merkel,7,48
+2020-06-08,Ahmad Naderi,7,46
+2020-06-08,Alex Azar,7,47
+2020-06-08,Alexandra Syphard,7,48
 2020-06-08,Derek Chauvin,7,49
 2020-06-08,Robert Kadlec,7,50
 2020-06-08,Jeb Bush,9,41
@@ -6449,11 +6449,11 @@ date,person,count,rn
 2020-06-08,Donald Trump,66,3
 2020-06-08,Los Angeles,95,2
 2020-06-08,George Floyd,113,1
-2020-06-09,Alan Rodbell,6,42
-2020-06-09,Anthony Fauci,6,43
-2020-06-09,Benjamin Crump,6,44
+2020-06-09,Anthony Fauci,6,42
+2020-06-09,Benjamin Crump,6,43
+2020-06-09,Brad Parscale,6,44
 2020-06-09,Charles Chiu,6,45
-2020-06-09,George Romney,6,46
+2020-06-09,Dion Johnson,6,46
 2020-06-09,Kaila Baumbach,6,47
 2020-06-09,Karen Baumbach,6,48
 2020-06-09,Marcia Langton,6,49
@@ -6501,7 +6501,7 @@ date,person,count,rn
 2020-06-09,George Floyd,104,1
 2020-06-10,Bob Whalen,5,48
 2020-06-10,Councilmember Peter Blake,5,49
-2020-06-10,Shohreh Dupuis,5,50
+2020-06-10,Johanna Felder,5,50
 2020-06-10,Eric Garcetti,6,42
 2020-06-10,Jan Rogers Kniffen,6,43
 2020-06-10,Jason Schultz,6,44
@@ -6549,14 +6549,14 @@ date,person,count,rn
 2020-06-10,Gavin Newsom,46,3
 2020-06-10,Los Angeles,50,2
 2020-06-10,George Floyd,88,1
-2020-06-11,Brad Schmidt,5,43
-2020-06-11,Brian Augusta,5,44
-2020-06-11,Chris Shinn,5,45
-2020-06-11,Emma Rolader,5,46
-2020-06-11,Kirikou Muldrow,5,47
-2020-06-11,Patrick Allen,5,48
-2020-06-11,Santa Clara,5,49
-2020-06-11,Steven Spindel,5,50
+2020-06-11,Bill Green,5,43
+2020-06-11,Darnella Burkett Winston,5,44
+2020-06-11,Debra Carlton,5,45
+2020-06-11,Eloy Ortiz Oakley,5,46
+2020-06-11,Holly Mitchell,5,47
+2020-06-11,Michael Lopez,5,48
+2020-06-11,Tim Scott,5,49
+2020-06-11,Yael Lehmann,5,50
 2020-06-11,Allen Adamson,6,35
 2020-06-11,Anthony Fauci,6,36
 2020-06-11,Dave Castro,6,37
@@ -6600,7 +6600,7 @@ date,person,count,rn
 2020-06-11,George Floyd,70,2
 2020-06-11,Los Angeles,71,1
 2020-06-12,Deborah Burger,5,49
-2020-06-12,Eddie Holmes,5,50
+2020-06-12,Michael Farzan,5,50
 2020-06-12,Jair Bolsonaro,6,43
 2020-06-12,Mark Zuckerberg,6,44
 2020-06-12,Mike Gula,6,45
@@ -6699,32 +6699,32 @@ date,person,count,rn
 2020-06-13,Gavin Newsom,50,3
 2020-06-13,Donald Trump,57,2
 2020-06-13,Los Angeles,61,1
-2020-06-14,Bob Schaeffer,3,25
-2020-06-14,Brett Okamoto,3,26
-2020-06-14,Charles Jourdain,3,27
-2020-06-14,Cynthia Calvillo,3,28
-2020-06-14,David Michaud,3,29
-2020-06-14,Derek Chauvin,3,30
-2020-06-14,George Rutherford,3,31
-2020-06-14,Gina Mazany,3,32
-2020-06-14,Gregory Ferraro,3,33
-2020-06-14,Hannah Cifers,3,34
-2020-06-14,Jennifer Dewar,3,35
-2020-06-14,Jesse Melgar,3,36
-2020-06-14,Jessica Eye,3,37
-2020-06-14,Kevin Kiley,3,38
-2020-06-14,Martin Luther King Jr,3,39
-2020-06-14,Megan Elliott,3,40
-2020-06-14,Meghan Markle,3,41
-2020-06-14,Merab Dvalishvili,3,42
-2020-06-14,Mike Smith,3,43
-2020-06-14,Nan,3,44
-2020-06-14,Pete Musto,3,45
-2020-06-14,Peter Musto,3,46
-2020-06-14,Prince Harry,3,47
-2020-06-14,Shane Gusman,3,48
-2020-06-14,Tyson Nam,3,49
-2020-06-14,Zarrukh Adashev,3,50
+2020-06-14,Aaron Gryder,3,25
+2020-06-14,Alex Solis,3,26
+2020-06-14,Andre Fili,3,27
+2020-06-14,Anthony Ivy,3,28
+2020-06-14,Charlie Astorino,3,29
+2020-06-14,Christopher Polk,3,30
+2020-06-14,Dan Miragliotta,3,31
+2020-06-14,Dennis Alfieri,3,32
+2020-06-14,Doria Ragland,3,33
+2020-06-14,Eric Garcetti,3,34
+2020-06-14,Gustavo Lopez,3,35
+2020-06-14,James Gallagher,3,36
+2020-06-14,Joanne Calderwood,3,37
+2020-06-14,Julia Avila,3,38
+2020-06-14,Karl Roberson,3,39
+2020-06-14,Katerina Maylock,3,40
+2020-06-14,Kevin Aguilar,3,41
+2020-06-14,Kevin Kiley,3,42
+2020-06-14,Lisa Fagundes,3,43
+2020-06-14,Marc Raimondi,3,44
+2020-06-14,Marvin Vettori,3,45
+2020-06-14,Matt Sayles,3,46
+2020-06-14,Mehran Ebadolahi,3,47
+2020-06-14,Nan,3,48
+2020-06-14,Srikant Gopal,3,49
+2020-06-14,Valentina Shevchenko,3,50
 2020-06-14,Mark Ghaly,4,21
 2020-06-14,Matt Pender,4,22
 2020-06-14,Melissa Melendez,4,23
@@ -6751,8 +6751,8 @@ date,person,count,rn
 2020-06-14,Los Angeles,28,2
 2020-06-15,Amy Klobuchar,4,27
 2020-06-15,Anne Georgulas,4,28
-2020-06-15,Dennis Burton,4,29
-2020-06-15,Derek Chauvin,4,30
+2020-06-15,Darrell Issa,4,29
+2020-06-15,Dennis Burton,4,30
 2020-06-15,Duncan Hunter,4,31
 2020-06-15,George Rutherford,4,32
 2020-06-15,Greg Abbott,4,33
@@ -6761,18 +6761,18 @@ date,person,count,rn
 2020-06-15,Ilhan Omar,4,36
 2020-06-15,Jay Obernolte,4,37
 2020-06-15,Jeff Chiu,4,38
-2020-06-15,Jessica Sandoval,4,39
-2020-06-15,Joe Biden,4,40
-2020-06-15,Judith Resnik,4,41
-2020-06-15,Lady Barbara Bush,4,42
-2020-06-15,Leah Russin,4,43
-2020-06-15,Lisa Murkowski,4,44
-2020-06-15,Michael Felberbaum,4,45
-2020-06-15,Michael Kinch,4,46
-2020-06-15,Seth Meyers,4,47
-2020-06-15,Tom Wolf,4,48
-2020-06-15,William Barr,4,49
-2020-06-15,William Haseltine,4,50
+2020-06-15,Jennifer Bennett,4,39
+2020-06-15,Lady Barbara Bush,4,40
+2020-06-15,Lisa Murkowski,4,41
+2020-06-15,Michael Felberbaum,4,42
+2020-06-15,Pascal Soriot,4,43
+2020-06-15,Richard Pan,4,44
+2020-06-15,Robin Shattock,4,45
+2020-06-15,Tom Wolf,4,46
+2020-06-15,Toni Atkins,4,47
+2020-06-15,William Barr,4,48
+2020-06-15,William Haseltine,4,49
+2020-06-15,Xavier Becerra,4,50
 2020-06-15,Carlos Lama,5,18
 2020-06-15,Jack Dorsey,5,19
 2020-06-15,Jerrold Nadler,5,20
@@ -6849,7 +6849,7 @@ date,person,count,rn
 2020-06-16,George Floyd,59,3
 2020-06-16,Los Angeles,64,2
 2020-06-16,Gavin Newsom,95,1
-2020-06-17,Damon Gutzwiller,19,50
+2020-06-17,Ben Lomond,19,50
 2020-06-17,David Patrick Underwood,20,48
 2020-06-17,Tom Rice,20,49
 2020-06-17,Jerrold Nadler,24,46
@@ -6902,15 +6902,15 @@ date,person,count,rn
 2020-06-18,Ashley Quinones,8,39
 2020-06-18,Atatiana Jefferson,8,40
 2020-06-18,Aysha Jones,8,41
-2020-06-18,Betsy Devos,8,42
-2020-06-18,Brian Quinones-Rosario,8,43
+2020-06-18,Becca Cooper,8,42
+2020-06-18,El Cerrito,8,43
 2020-06-18,Emmett Till,8,44
 2020-06-18,Fred Hampton,8,45
-2020-06-18,Michael Brown,8,46
-2020-06-18,Michael Newby,8,47
+2020-06-18,Janae Jamison,8,46
+2020-06-18,Michael Brown,8,47
 2020-06-18,Nedu Anigbogu,8,48
-2020-06-18,Tom Mcclintock,8,49
-2020-06-18,Vincent Chin,8,50
+2020-06-18,Tachianna Charpenter,8,49
+2020-06-18,Tom Mcclintock,8,50
 2020-06-18,Chris Farnitano,9,36
 2020-06-18,Matt Wallace,9,37
 2020-06-18,Santa Clara,9,38
@@ -6950,15 +6950,15 @@ date,person,count,rn
 2020-06-18,George Floyd,65,2
 2020-06-18,Donald Trump,108,1
 2020-06-19,Beth Ann Bovino,8,39
-2020-06-19,Chris Walton,8,40
-2020-06-19,Doug Stephens,8,41
-2020-06-19,Hillary Clinton,8,42
+2020-06-19,Brandon Brown,8,40
+2020-06-19,Chris Walton,8,41
+2020-06-19,Doug Stephens,8,42
 2020-06-19,Ira Mehlman,8,43
-2020-06-19,Julia Mayer,8,44
-2020-06-19,Kim Reynolds,8,45
-2020-06-19,Las Vegas,8,46
-2020-06-19,Nan,8,47
-2020-06-19,Rory Cooper,8,48
+2020-06-19,Kim Reynolds,8,44
+2020-06-19,Las Vegas,8,45
+2020-06-19,Nan,8,46
+2020-06-19,Rory Cooper,8,47
+2020-06-19,Samuel Alito,8,48
 2020-06-19,Tina Lyons,8,49
 2020-06-19,Valeria Blanco,8,50
 2020-06-19,Adam Aron,9,33
@@ -6999,7 +6999,7 @@ date,person,count,rn
 2020-06-19,Los Angeles,81,3
 2020-06-19,Donald Trump,146,2
 2020-06-19,Gavin Newsom,179,1
-2020-06-20,Kate Brown,5,50
+2020-06-20,Holly Ramer,5,50
 2020-06-20,Barbara Lee,6,26
 2020-06-20,Cheyenne Beyer,6,27
 2020-06-20,Coleman Hughes,6,28
@@ -7149,7 +7149,7 @@ date,person,count,rn
 2020-06-22,Joe Biden,61,3
 2020-06-22,George Floyd,70,2
 2020-06-22,Gavin Newsom,100,1
-2020-06-23,Brett Hartl,6,50
+2020-06-23,Jeremy Smith,6,50
 2020-06-23,Braxton Bragg,7,45
 2020-06-23,Carmela Coyle,7,46
 2020-06-23,Councilmember Tess Albin-Smith,7,47
@@ -7199,3 +7199,53 @@ date,person,count,rn
 2020-06-23,Los Angeles,58,3
 2020-06-23,Donald Trump,61,2
 2020-06-23,Gavin Newsom,112,1
+2020-06-24,Adam Spiker,6,34
+2020-06-24,Ben Meng,6,35
+2020-06-24,Clayton Chau,6,36
+2020-06-24,Dennis Quaid,6,37
+2020-06-24,Glenn Melnick,6,38
+2020-06-24,John Chiang,6,39
+2020-06-24,Junipero Serra,6,40
+2020-06-24,Laura Savoie,6,41
+2020-06-24,Lindsey Graham,6,42
+2020-06-24,Meg Ryan,6,43
+2020-06-24,Mike Ryan,6,44
+2020-06-24,Rob Feckner,6,45
+2020-06-24,Santa Clara,6,46
+2020-06-24,Susan Webber,6,47
+2020-06-24,Theresa Taylor,6,48
+2020-06-24,William Barr,6,49
+2020-06-24,Yves Smith,6,50
+2020-06-24,Anthony Evans,7,29
+2020-06-24,Henry Jones,7,30
+2020-06-24,Hilary Powell,7,31
+2020-06-24,Margaret Brown,7,32
+2020-06-24,Mike Pence,7,33
+2020-06-24,Breonna Taylor,8,28
+2020-06-24,Hillary Clinton,9,24
+2020-06-24,Jay Inslee,9,25
+2020-06-24,Jeffrey Smith,9,26
+2020-06-24,Sara Cody,9,27
+2020-06-24,Brandon Saenz,10,16
+2020-06-24,Jasmine Crockett,10,17
+2020-06-24,Jason Dwyer,10,18
+2020-06-24,Jason Rosenberg,10,19
+2020-06-24,Julia Dupuis,10,20
+2020-06-24,Michael Brown,10,21
+2020-06-24,Steven Thrasher,10,22
+2020-06-24,Tony Mcdade,10,23
+2020-06-24,Andrew Cuomo,11,13
+2020-06-24,Letitia James,11,14
+2020-06-24,Santa Barbara,11,15
+2020-06-24,Cory Booker,13,10
+2020-06-24,Kamala Harris,13,11
+2020-06-24,Mitch Mcconnell,13,12
+2020-06-24,Greg Abbott,16,8
+2020-06-24,Ron Desantis,16,9
+2020-06-24,Barack Obama,20,7
+2020-06-24,Joe Biden,32,6
+2020-06-24,George Floyd,37,5
+2020-06-24,Anthony Fauci,41,4
+2020-06-24,Los Angeles,49,3
+2020-06-24,Donald Trump,76,2
+2020-06-24,Gavin Newsom,90,1

@@ -211,9 +211,9 @@ date,person,count,rn
 2020-03-06,Teresa Johnson,3,25
 2020-03-06,Tom Gong,3,26
 2020-03-06,Yvonne Maldonado,3,27
-2020-03-07,Alex Wigglesworth,1,43
-2020-03-07,Barbie Robinson,1,44
-2020-03-07,Colleen Shalby,1,45
+2020-03-07,Colleen Shalby,1,43
+2020-03-07,David Kline,1,44
+2020-03-07,David Witt,1,45
 2020-03-07,Erica Ymane,1,46
 2020-03-07,Lynda Daniels,1,47
 2020-03-07,Mark Baldassare,1,48
@@ -2200,27 +2200,28 @@ date,person,count,rn
 2020-06-01,Keyla Calderon,3,2
 2020-06-01,Los Angeles,3,3
 2020-06-01,George Floyd,5,1
-2020-06-02,Adam Eisen,1,20
-2020-06-02,Adam Popescu,1,21
-2020-06-02,Ahmaud Arbery,1,22
-2020-06-02,Alderman Raymond Lopez,1,23
-2020-06-02,Ashraf Khalil,1,24
-2020-06-02,Bauer Kahan,1,25
-2020-06-02,Breanna Taylor,1,26
-2020-06-02,Brian Heath,1,27
-2020-06-02,Carl Guardino,1,28
-2020-06-02,Carl Wolfe,1,29
-2020-06-02,Chris Wikler,1,30
-2020-06-02,Christina Paciolla,1,31
-2020-06-02,Cynthia Laird,1,32
-2020-06-02,Cynthia Laird Clayton,1,33
-2020-06-02,Dan Mccoy,1,34
-2020-06-02,Dana Johnson,1,35
-2020-06-02,Danny Perez,1,36
-2020-06-02,David Chiu,1,37
-2020-06-02,David Chiu Jesse Gabriel,1,38
-2020-06-02,Derek Chauvin,1,39
-2020-06-02,Dionne Searcey,1,40
+2020-06-02,Adam Eisen,1,19
+2020-06-02,Adam Popescu,1,20
+2020-06-02,Ahmaud Arbery,1,21
+2020-06-02,Alderman Raymond Lopez,1,22
+2020-06-02,Ashraf Khalil,1,23
+2020-06-02,Bauer Kahan,1,24
+2020-06-02,Breanna Taylor,1,25
+2020-06-02,Brian Heath,1,26
+2020-06-02,Carl Guardino,1,27
+2020-06-02,Carl Wolfe,1,28
+2020-06-02,Chris Wikler,1,29
+2020-06-02,Christina Paciolla,1,30
+2020-06-02,Cynthia Laird,1,31
+2020-06-02,Cynthia Laird Clayton,1,32
+2020-06-02,Dan Mccoy,1,33
+2020-06-02,Dana Johnson,1,34
+2020-06-02,Danny Perez,1,35
+2020-06-02,David Chiu,1,36
+2020-06-02,David Chiu Jesse Gabriel,1,37
+2020-06-02,Derek Chauvin,1,38
+2020-06-02,Dionne Searcey,1,39
+2020-06-02,Donovan Butler,1,40
 2020-06-02,Elliot Spagat,1,41
 2020-06-02,Gary Confenti,1,42
 2020-06-02,Gloria Chan,1,43
@@ -2234,8 +2235,7 @@ date,person,count,rn
 2020-06-02,Eric Garcetti,2,15
 2020-06-02,Gavin Newsom,2,16
 2020-06-02,Keyla Calderon,2,17
-2020-06-02,Santa Clara,2,18
-2020-06-02,Thomas Fuller,2,19
+2020-06-02,Thomas Fuller,2,18
 2020-06-02,Anna Bauman,3,7
 2020-06-02,John King,3,8
 2020-06-02,Johnna Watson,3,9
@@ -2599,3 +2599,10 @@ date,person,count,rn
 2020-06-23,Amy Acton,5,1
 2020-06-23,Barbara Ferrer,5,2
 2020-06-23,Kat Deburgh,5,3
+2020-06-24,Berkeley Skydeck,1,1
+2020-06-24,Brian Rinker,1,2
+2020-06-24,Caroline Winnett,1,3
+2020-06-24,Charlene Harrington,1,4
+2020-06-24,Chon Tang,1,5
+2020-06-24,Miguel Villa,1,6
+2020-06-24,Sara Levin,1,7

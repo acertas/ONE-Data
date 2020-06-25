@@ -400,21 +400,21 @@ date,person,count,rn
 2020-04-27,Donald Trump,1,5
 2020-04-27,Jane Whaley,1,6
 2020-04-27,Roy Cooper,1,7
-2020-04-28,Bill Lee,2,48
-2020-04-28,Brian Hercules,2,49
-2020-04-28,Brice C Jennings,2,50
+2020-04-28,Audrey Nell Taylor,2,48
+2020-04-28,Bill Lee,2,49
+2020-04-28,Brian Hercules,2,50
 2020-04-28,Annie Frances Duncan,3,1
-2020-04-28,Audrey Nell Taylor,3,2
-2020-04-28,Benjamin Lewis,3,3
-2020-04-28,Bessie Elaine Jessie,3,4
-2020-04-28,Betty Jo Tucker,3,5
-2020-04-28,Blake Lee Ballard,3,6
+2020-04-28,Benjamin Lewis,3,2
+2020-04-28,Bessie Elaine Jessie,3,3
+2020-04-28,Betty Jo Tucker,3,4
+2020-04-28,Blake Lee Ballard,3,5
+2020-04-28,Brice C Jennings,3,6
 2020-04-28,Charles King,3,7
 2020-04-28,Chelsie Augustin,3,8
 2020-04-28,Christine Wright,3,9
 2020-04-28,Cindy Mathis,3,10
-2020-04-28,Edward Duncan,3,11
-2020-04-28,Erin Harwell,3,12
+2020-04-28,David Neese,3,11
+2020-04-28,Edward Duncan,3,12
 2020-04-28,Everette Parrish,3,13
 2020-04-28,Greg Mcknight,3,14
 2020-04-28,Horace W Brown,3,15
@@ -750,53 +750,62 @@ date,person,count,rn
 2020-06-18,Madison Cawthorn,1,5
 2020-06-18,Mary Watkins,1,6
 2020-06-18,Roy Cooper,1,7
-2020-06-23,Augusta Savage,1,1
-2020-06-23,Baume Mercier,1,2
-2020-06-23,Beauford Delaney,1,3
-2020-06-23,Bogart Cooper,1,4
-2020-06-23,Campbell Yongue,1,5
-2020-06-23,Carl Kauba,1,6
-2020-06-23,Charles Decker,1,7
+2020-06-23,Aaron Douglas,1,1
+2020-06-23,Alexander Gardner Timothy Osullivan,1,2
+2020-06-23,Andrew Jackson,1,3
+2020-06-23,Augusta Savage,1,4
+2020-06-23,Baume Mercier,1,5
+2020-06-23,Beauford Delaney,1,6
+2020-06-23,Carl Kauba,1,7
 2020-06-23,Cheng Shouzen,1,8
-2020-06-23,Duncan Mcclellan,1,9
-2020-06-23,Edward Wells,1,10
+2020-06-23,Cosmograph Daytona,1,9
+2020-06-23,Duncan Mcclellan,1,10
 2020-06-23,Elvis Presley,1,11
 2020-06-23,Emile Gruppe,1,12
-2020-06-23,Francis Hopkinson Smith,1,13
-2020-06-23,George Jones,1,14
-2020-06-23,George Loftis Noyes,1,15
-2020-06-23,Harvey Littleton,1,16
-2020-06-23,Harvey Reinhardt,1,17
-2020-06-23,Hendrick Goltzius,1,18
-2020-06-23,Henri Matisse,1,19
-2020-06-23,Henry Van Notti,1,20
-2020-06-23,Jack Spencer,1,21
-2020-06-23,Jacob Fisher,1,22
-2020-06-23,James Regimbal,1,23
-2020-06-23,Jan Saenredam,1,24
-2020-06-23,John Chumley,1,25
-2020-06-23,John Overton,1,26
-2020-06-23,John Platt,1,27
-2020-06-23,Jonathan Belcher,1,28
-2020-06-23,Jonathan Gostelowe,1,29
-2020-06-23,Lamorna Birch,1,30
-2020-06-23,Mark Peiser,1,31
-2020-06-23,Michael Vaccaro,1,32
-2020-06-23,Mort Kunstler,1,33
-2020-06-23,Nouveau Jugendstil,1,34
-2020-06-23,Pieter Wouwerman,1,35
-2020-06-23,Rachel Jackson,1,36
-2020-06-23,Raeanne Rubenstein,1,37
-2020-06-23,Richard Jolley,1,38
-2020-06-23,Roger Sherman,1,39
-2020-06-23,Rose Cong,1,40
-2020-06-23,Samuel Shaver,1,41
-2020-06-23,Samuel Wilkins,1,42
-2020-06-23,Sylvanus Hartsoe,1,43
-2020-06-23,Thomas Alexander Harrison,1,44
-2020-06-23,Thomas Seymour,1,45
+2020-06-23,George Jones,1,13
+2020-06-23,Geraldine Ferraro,1,14
+2020-06-23,Harvey Littleton,1,15
+2020-06-23,Hayley Lever,1,16
+2020-06-23,Hendrick Goltzius,1,17
+2020-06-23,Jack Spencer,1,18
+2020-06-23,Jan Saenredam,1,19
+2020-06-23,John Chumley,1,20
+2020-06-23,John Overton,1,21
+2020-06-23,John Platt,1,22
+2020-06-23,Jonathan Gostelowe,1,23
+2020-06-23,Judith Leiber,1,24
+2020-06-23,Kathleen Preston,1,25
+2020-06-23,Kermit Ewing,1,26
+2020-06-23,Margaret Carr,1,27
+2020-06-23,Mark Peiser,1,28
+2020-06-23,Michael Vaccaro,1,29
+2020-06-23,Mort Kunstler,1,30
+2020-06-23,Neil Folberg,1,31
+2020-06-23,Nouveau Jugendstil,1,32
+2020-06-23,Oliver Clare,1,33
+2020-06-23,Rachel Jackson,1,34
+2020-06-23,Raeanne Rubenstein,1,35
+2020-06-23,Richard Jolley,1,36
+2020-06-23,Richard Phillips,1,37
+2020-06-23,Robert Irwin,1,38
+2020-06-23,Rose Cong,1,39
+2020-06-23,Samuel Wilkins,1,40
+2020-06-23,Shelby Lee Adams,1,41
+2020-06-23,Sylvanus Hartsoe,1,42
+2020-06-23,Thomas Alexander Harrison,1,43
+2020-06-23,Thomas Kitchin,1,44
+2020-06-23,Thomas Pitts,1,45
 2020-06-23,Walter Whitehead,1,46
-2020-06-23,William Graham,1,47
-2020-06-23,William Noland,1,48
-2020-06-23,Willie Earl Robinson,1,49
-2020-06-23,Witt Horner,1,50
+2020-06-23,Washington Bogart Cooper,1,47
+2020-06-23,William Graham,1,48
+2020-06-23,William Noland,1,49
+2020-06-23,Willie Earl Robinson,1,50
+2020-06-24,Aymann Ismail,1,1
+2020-06-24,Bob Spivey,1,2
+2020-06-24,Carol Swain,1,3
+2020-06-24,Charlie Hebdo,1,4
+2020-06-24,Danny Gibbs,1,5
+2020-06-24,Greg Duckett,1,6
+2020-06-24,Jason Kempin Getty,1,7
+2020-06-24,Natalie Allison,1,8
+2020-06-24,Sabina Mohyuddin,1,9
