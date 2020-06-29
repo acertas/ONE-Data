@@ -22,18 +22,18 @@ date,person,count,rn
 2020-03-06,Bob Casey,2,37
 2020-03-06,Courtney Subramanianand David Jackson,2,38
 2020-03-06,Hillary Rodham Clinton,2,39
-2020-03-06,Ivy Ross,2,40
-2020-03-06,Jefferson Graham,2,41
-2020-03-06,John Fritze,2,42
-2020-03-06,John Siqveland,2,43
-2020-03-06,Johns Hopkins,2,44
-2020-03-06,Judd Apatow,2,45
+2020-03-06,Jefferson Graham,2,40
+2020-03-06,John Fritze,2,41
+2020-03-06,John Siqveland,2,42
+2020-03-06,Johns Hopkins,2,43
+2020-03-06,Judd Apatow,2,44
+2020-03-06,Larry King,2,45
 2020-03-06,Laurene Powell Jobs,2,46
 2020-03-06,Maureen Groppe,2,47
 2020-03-06,Mike Pence,2,48
 2020-03-06,Ozzy Osbourne,2,49
 2020-03-06,Rossann Williams,2,50
-2020-03-06,Larry King,3,33
+2020-03-06,Ivy Ross,3,33
 2020-03-06,Oona Goodin-Smith,3,34
 2020-03-06,Dalvin Brown,4,30
 2020-03-06,John Harvey Taylor,4,31
@@ -1065,7 +1065,7 @@ date,person,count,rn
 2020-06-01,Adam Ravenstahl D-Allegheny,1,3
 2020-06-01,Amanda Cappelletti,1,4
 2020-06-01,Amen Brown,1,5
-2020-06-01,Andre Horton,1,6
+2020-06-01,Andy Dinniman D-Chester,1,6
 2020-06-01,Andy Meehan,1,7
 2020-06-01,Anthony Campuzano,1,8
 2020-06-01,Bernie Sanders,1,9
@@ -1081,10 +1081,10 @@ date,person,count,rn
 2020-06-01,Carolyn Comitta,1,19
 2020-06-01,Christina Finello,1,20
 2020-06-01,Christina Hartman,1,21
-2020-06-01,Christopher Brueningsen,1,22
+2020-06-01,Christine Flowers,1,22
 2020-06-01,Dan Laughlin R-Erie,1,23
-2020-06-01,Danyl Patterson,1,24
-2020-06-01,David Murrell,1,25
+2020-06-01,Danielle Friel-Otten D-Chester,1,24
+2020-06-01,Danyl Patterson,1,25
 2020-06-01,Daylin Leach,1,26
 2020-06-01,Devlin Robinson,1,27
 2020-06-01,Don Vymazal,1,28
@@ -1094,24 +1094,24 @@ date,person,count,rn
 2020-06-01,Ernest Owens,1,32
 2020-06-01,Eugene Depasquale,1,33
 2020-06-01,Frank Rizzo,1,34
-2020-06-01,Gerald Carnicella,1,35
-2020-06-01,Ginny Kerslake,1,36
-2020-06-01,Greg Benjamin,1,37
-2020-06-01,Heather Adams,1,38
-2020-06-01,Heather Heidelbaugh,1,39
-2020-06-01,Hillary Clinton,1,40
-2020-06-01,Howard Terndrup,1,41
-2020-06-01,Imani Barbarin,1,42
+2020-06-01,George Floyd,1,35
+2020-06-01,Gerald Carnicella,1,36
+2020-06-01,Ginny Kerslake,1,37
+2020-06-01,Greg Benjamin,1,38
+2020-06-01,Heather Adams,1,39
+2020-06-01,Heather Heidelbaugh,1,40
+2020-06-01,Hillary Clinton,1,41
+2020-06-01,Howard Terndrup,1,42
 2020-06-01,James Roebuck Jr,1,43
 2020-06-01,Jeff Dempsey,1,44
-2020-06-01,Jeff Neff,1,45
-2020-06-01,Jenice Armstrong,1,46
-2020-06-01,Jim Bognet,1,47
-2020-06-01,Jim Kenney,1,48
-2020-06-01,Joe Torsella,1,49
-2020-06-01,John Kane,1,50
+2020-06-01,Jenice Armstrong,1,45
+2020-06-01,Jim Bognet,1,46
+2020-06-01,Joe Torsella,1,47
+2020-06-01,John Kane,1,48
+2020-06-01,Josh Bosha,1,49
+2020-06-01,Josh Shapiro,1,50
 2020-06-01,Donald Trump,2,1
-2020-06-01,Tom Wolf,2,2
+2020-06-01,Jim Kenney,2,2
 2020-06-02,Brendan Boyle,1,3
 2020-06-02,David Thompson,1,4
 2020-06-02,Derek Chuauvin,1,5
@@ -1310,3 +1310,24 @@ date,person,count,rn
 2020-06-25,Srihari Gopal,1,6
 2020-06-25,Stephanie Mason,1,7
 2020-06-25,Tom Wolf,1,8
+2020-06-27,Alex Prikhodko,1,1
+2020-06-27,Carol Smith,1,2
+2020-06-27,Emily Direnzo,1,3
+2020-06-27,Kelly Peroni,1,4
+2020-06-27,Kimberly Pattley,1,5
+2020-06-27,Pete Kelley,1,6
+2020-06-27,Robert Whartenby,1,7
+2020-06-28,Matt Slocum,2,14
+2020-06-28,Mitch Mcconnell,4,13
+2020-06-28,Amber Mcreynolds,5,1
+2020-06-28,Barack Obama,5,2
+2020-06-28,Donald Trump,5,3
+2020-06-28,Joe Biden,5,4
+2020-06-28,Joe Burns,5,5
+2020-06-28,Kim Wyman,5,6
+2020-06-28,Larry Diamond,5,7
+2020-06-28,Lawrence Norden,5,8
+2020-06-28,Tom Daschle,5,9
+2020-06-28,Tom Ridge,5,10
+2020-06-28,Wanda Murren,5,11
+2020-06-28,William Galston,5,12

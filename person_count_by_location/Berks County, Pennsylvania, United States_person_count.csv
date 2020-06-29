@@ -1220,55 +1220,55 @@ date,person,count,rn
 2020-05-31,Shannon Hennessey,1,9
 2020-05-31,Daniel Boone,3,1
 2020-06-01,Adam Ravenstahl D-Allegheny,1,1
-2020-06-01,Andre Horton,1,2
-2020-06-01,Andy Dinniman D-Chester,1,3
-2020-06-01,Anthony Campuzano,1,4
-2020-06-01,Bill Brittain,1,5
-2020-06-01,Billy Penn,1,6
-2020-06-01,Bob Casey Jr,1,7
-2020-06-01,Carolyn Comitta,1,8
+2020-06-01,Alex Azar,1,2
+2020-06-01,Amanda Cappelletti,1,3
+2020-06-01,Andre Horton,1,4
+2020-06-01,Andy Dinniman D-Chester,1,5
+2020-06-01,Anthony Campuzano,1,6
+2020-06-01,Bill Brittain,1,7
+2020-06-01,Billy Penn,1,8
 2020-06-01,Christian Leinbach,1,9
 2020-06-01,Christine Flowers,1,10
 2020-06-01,Christopher Brueningsen,1,11
 2020-06-01,Dan Laughlin R-Erie,1,12
-2020-06-01,Danielle Friel-Otten D-Chester,1,13
-2020-06-01,Devlin Robinson,1,14
+2020-06-01,David Murrell,1,13
+2020-06-01,Daylin Leach,1,14
 2020-06-01,Don Vymazal,1,15
-2020-06-01,Donald Trump,1,16
-2020-06-01,Earl Granville,1,17
-2020-06-01,Emily Kinkead,1,18
+2020-06-01,Earl Granville,1,16
+2020-06-01,Emily Kinkead,1,17
+2020-06-01,Emily Skopov,1,18
 2020-06-01,Ernest Owens,1,19
-2020-06-01,Frank Burns D-Cambria,1,20
-2020-06-01,Frank Rizzo,1,21
-2020-06-01,George Floyd,1,22
-2020-06-01,Heather Adams,1,23
-2020-06-01,Jeff Neff,1,24
-2020-06-01,Jenice Armstrong,1,25
-2020-06-01,Jonathan Turley,1,26
-2020-06-01,Josh Bosha,1,27
-2020-06-01,Josh Coleman,1,28
-2020-06-01,Kristine Howard D-Chester,1,29
-2020-06-01,Kyle Boyer,1,30
-2020-06-01,Libby Blackburn,1,31
-2020-06-01,Lloyd Sheaffer,1,32
-2020-06-01,Maria Panaritis,1,33
-2020-06-01,Mark Okeefe,1,34
-2020-06-01,Mark Zandi,1,35
-2020-06-01,Matt Wolfe,1,36
-2020-06-01,Mike Regan R-York,1,37
-2020-06-01,Mike Turzai R-Allegheny,1,38
-2020-06-01,Nan,1,39
-2020-06-01,Pam Iovino D-Allegheny,1,40
-2020-06-01,Randy Bish,1,41
-2020-06-01,Rick Coplen,1,42
-2020-06-01,Robert Mercuri,1,43
-2020-06-01,Rose Danese,1,44
-2020-06-01,Ruth Ann Dailey,1,45
-2020-06-01,Scott Perry,1,46
-2020-06-01,Shanna Danielson,1,47
-2020-06-01,Signe Wilkinson,1,48
-2020-06-01,Solomon Jones,1,49
-2020-06-01,Tom Wolf,1,50
+2020-06-01,Frank Rizzo,1,20
+2020-06-01,George Floyd,1,21
+2020-06-01,Gerald Carnicella,1,22
+2020-06-01,Ginny Kerslake,1,23
+2020-06-01,Howard Terndrup,1,24
+2020-06-01,Imani Barbarin,1,25
+2020-06-01,Jeff Neff,1,26
+2020-06-01,Jenice Armstrong,1,27
+2020-06-01,Jim Kenney,1,28
+2020-06-01,Jonathan Turley,1,29
+2020-06-01,Jordan Harris,1,30
+2020-06-01,Josh Bosha,1,31
+2020-06-01,Josh Coleman,1,32
+2020-06-01,Julie Slomski,1,33
+2020-06-01,Keevin Runey,1,34
+2020-06-01,Kristine Howard D-Chester,1,35
+2020-06-01,Lloyd Sheaffer,1,36
+2020-06-01,Lloyd Smucker,1,37
+2020-06-01,Madison Karas,1,38
+2020-06-01,Maria Panaritis,1,39
+2020-06-01,Mark Zandi,1,40
+2020-06-01,Michael Heckmann,1,41
+2020-06-01,Michael Thomas Taylor,1,42
+2020-06-01,Mike Regan R-York,1,43
+2020-06-01,Nan,1,44
+2020-06-01,Pam Iovino D-Allegheny,1,45
+2020-06-01,Rick Coplen,1,46
+2020-06-01,Robert Mercuri,1,47
+2020-06-01,Ruth Ann Dailey,1,48
+2020-06-01,Shanna Danielson,1,49
+2020-06-01,Signe Wilkinson,1,50
 2020-06-02,Berks Heim,1,1
 2020-06-03,Berks Heim,1,9
 2020-06-03,Debbie Olivieri,1,10
@@ -1352,9 +1352,9 @@ date,person,count,rn
 2020-06-12,Mary Isaacson D-Philadelphia,1,31
 2020-06-12,Matt Gabler R-Clearfield,1,32
 2020-06-12,Michael Lamb,1,33
-2020-06-12,Mike Armanini,1,34
-2020-06-12,Mike Turzai,1,35
-2020-06-12,Nina Ahmad,1,36
+2020-06-12,Michael Puskaric R-Allegheny,1,34
+2020-06-12,Mike Armanini,1,35
+2020-06-12,Mike Turzai,1,36
 2020-06-12,Paul Prescod,1,37
 2020-06-12,Pete Buttigieg,1,38
 2020-06-12,Peter Schweyer D-Lehigh,1,39
@@ -1465,3 +1465,51 @@ date,person,count,rn
 2020-06-25,Ruth Andres,1,6
 2020-06-25,Susan Kamenar,1,7
 2020-06-25,Tom Wolf,1,8
+2020-06-26,Adam Smith,1,2
+2020-06-26,Alexandra Cohen,1,3
+2020-06-26,Andrew Cuomo,1,4
+2020-06-26,Ashish Jha,1,5
+2020-06-26,Barry Jozwiak,1,6
+2020-06-26,Bob Mensch,1,7
+2020-06-26,Cara Castronuova,1,8
+2020-06-26,Cerelyn Davis,1,9
+2020-06-26,David Argall,1,10
+2020-06-26,David Maloney,1,11
+2020-06-26,Dermot Shea,1,12
+2020-06-26,Dolly Gee,1,13
+2020-06-26,Donald Trump,1,14
+2020-06-26,Doug Ullrich,1,15
+2020-06-26,George Floyd,1,16
+2020-06-26,Greg Abbott,1,17
+2020-06-26,Jeff Maddrey,1,18
+2020-06-26,Jenny Burke,1,19
+2020-06-26,Jerry Knowles,1,20
+2020-06-26,Jim Cox,1,21
+2020-06-26,Judy Schwank,1,22
+2020-06-26,Katie Muth,1,23
+2020-06-26,Las Vegas,1,24
+2020-06-26,Lisa Mastrodomenico,1,25
+2020-06-26,Mark Gillen,1,26
+2020-06-26,Mark Rozzi,1,27
+2020-06-26,Patrick Yeos,1,28
+2020-06-26,Phil Murphy,1,29
+2020-06-26,Robert Redfield,1,30
+2020-06-26,Ronald Newell,1,31
+2020-06-26,Sandra Susan Smith,1,32
+2020-06-26,Thomas Dobbs,1,33
+2020-06-26,Tom Caltagirone,1,34
+2020-06-26,Tom Wolf,1,35
+2020-06-26,Los Angeles,2,1
+2020-06-27,Bob Casey,1,1
+2020-06-27,Dan Greenstein,1,2
+2020-06-27,Dave Pidgeon,1,3
+2020-06-27,Dolly Gee,1,4
+2020-06-27,Jamie Martin,1,5
+2020-06-27,Janet Kacskos,1,6
+2020-06-27,Nan,1,7
+2020-06-28,Bob Casey,1,6
+2020-06-28,Amy Maldonado,2,2
+2020-06-28,Debra Powell,2,3
+2020-06-28,Dolly Gee,2,4
+2020-06-28,Rachel Levine,2,5
+2020-06-28,Tom Wolf,4,1

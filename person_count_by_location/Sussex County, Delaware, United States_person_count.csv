@@ -714,27 +714,27 @@ date,person,count,rn
 2020-04-15,Phil Murphy,2,9
 2020-04-15,John Carney,3,1
 2020-04-15,Kennedy Butch,3,2
-2020-04-16,Anna Beth Rousakis,3,44
-2020-04-16,Callie Lovekin,3,45
-2020-04-16,Chris Bollwage,3,46
-2020-04-16,Danny Rosenthal,3,47
-2020-04-16,James Adams,3,48
-2020-04-16,Jean Davis,3,49
+2020-04-16,Chris Bollwage,3,44
+2020-04-16,Danny Rosenthal,3,45
+2020-04-16,James Adams,3,46
+2020-04-16,Josh Zuckerman,3,47
+2020-04-16,Lucas Lovekin,3,48
+2020-04-16,Mary Rousakis,3,49
 2020-04-16,Robert E Clark Jr,3,50
-2020-04-16,Cheryl Boggs,4,37
-2020-04-16,Donna Leusner,4,38
-2020-04-16,Eduardo Munoz Alvarez Getty,4,39
-2020-04-16,Lawerence Togno,4,40
-2020-04-16,Michael Strada,4,41
+2020-04-16,Cheryl Boggs,4,38
+2020-04-16,Donna Leusner,4,39
+2020-04-16,Eduardo Munoz Alvarez Getty,4,40
+2020-04-16,Lawerence Togno,4,41
 2020-04-16,Nan,4,42
 2020-04-16,Ted Shaffrey Ted Shaffrey,4,43
-2020-04-16,Mutty Scheinbaum,5,36
-2020-04-16,Ashley Balcerzak,6,34
-2020-04-16,Jane Morse,6,35
+2020-04-16,Jane Morse,5,36
+2020-04-16,Mutty Scheinbaum,5,37
+2020-04-16,Ashley Balcerzak,6,35
 2020-04-16,Lee Repasch,7,30
 2020-04-16,Lily Repasch,7,31
 2020-04-16,Mark Zuckerberg,7,32
-2020-04-16,Mike Lensak,7,33
+2020-04-16,Michael Strada,7,33
+2020-04-16,Mike Lensak,7,34
 2020-04-16,Jennifer Jean Miller,8,29
 2020-04-16,Facciarossa Brewer,10,27
 2020-04-16,Laurie Facciarossa Brewer,10,28
@@ -764,10 +764,9 @@ date,person,count,rn
 2020-04-16,Judith Persichilli,68,3
 2020-04-16,Eric Danielson,96,1
 2020-04-16,Phil Murphy,96,2
-2020-04-17,John Ellsworth,3,47
-2020-04-17,Johns Hopkins,3,48
-2020-04-17,Joseph Schwartz,3,49
-2020-04-17,Josh Gottenheimer,3,50
+2020-04-17,Doria Ragland,3,48
+2020-04-17,Eduardo Munoz Alvarez Getty,3,49
+2020-04-17,John Ellsworth,3,50
 2020-04-17,Andy Liao,4,33
 2020-04-17,Beth Gangi,4,34
 2020-04-17,Bobby Olivier,4,35
@@ -775,13 +774,14 @@ date,person,count,rn
 2020-04-17,Dominic Raab,4,37
 2020-04-17,Jerry Enella,4,38
 2020-04-17,Lawerence Togno,4,39
-2020-04-17,Nathan Orr,4,40
-2020-04-17,Pat Wiegand,4,41
-2020-04-17,Robin Kim,4,42
-2020-04-17,Ron Desantis,4,43
-2020-04-17,Ron Kim,4,44
-2020-04-17,Tedros Adhanom Ghebreyesus,4,45
-2020-04-17,Terri Thompson,4,46
+2020-04-17,Los Angeles,4,40
+2020-04-17,Nathan Orr,4,41
+2020-04-17,Pat Wiegand,4,42
+2020-04-17,Robin Kim,4,43
+2020-04-17,Ron Desantis,4,44
+2020-04-17,Ron Kim,4,45
+2020-04-17,Tedros Adhanom Ghebreyesus,4,46
+2020-04-17,Terri Thompson,4,47
 2020-04-17,John Carney,5,30
 2020-04-17,John Minchillo,5,31
 2020-04-17,Mark Zuckerberg,5,32
@@ -2132,3 +2132,50 @@ date,person,count,rn
 2020-06-25,Nan,1,2
 2020-06-25,Rehoboth Canal,1,3
 2020-06-25,John Carney,2,1
+2020-06-26,Apostle Charmaine Hollis,1,5
+2020-06-26,Apostle Hal,1,6
+2020-06-26,Baltimore Pike,1,7
+2020-06-26,Carol Schwartz,1,8
+2020-06-26,Chester Pike,1,9
+2020-06-26,Edgewood Edenbrook,1,10
+2020-06-26,Glen Mills,1,11
+2020-06-26,Jen Brestel,1,12
+2020-06-26,John Carney,1,13
+2020-06-26,Matt Jahn,1,14
+2020-06-26,Miranda Barnhart,1,15
+2020-06-26,Peter Waslo,1,16
+2020-06-26,Ronald Fowlkes,1,17
+2020-06-26,Sara Mccool,1,18
+2020-06-26,Sharon Hill,1,19
+2020-06-26,Steve Montgomery,1,20
+2020-06-26,Sunnycrest Manor,1,21
+2020-06-26,Donald Trump,2,1
+2020-06-26,Jerry Scanlan,2,2
+2020-06-26,Matthew Steinbaum,2,3
+2020-06-26,Noah Steinbaum,2,4
+2020-06-27,Ariane Mueller,1,4
+2020-06-27,Benjamin Gray,1,5
+2020-06-27,Danielle Santos,1,6
+2020-06-27,Dylan Gurines,1,7
+2020-06-27,Gary Stulir,1,8
+2020-06-27,Heather Kline,1,9
+2020-06-27,Janice Nevin,1,10
+2020-06-27,Jonathan Reckford,1,11
+2020-06-27,Kathy Bertts,1,12
+2020-06-27,Katie Millard,1,13
+2020-06-27,Maddy Lauria,1,14
+2020-06-27,Mark Holodick,1,15
+2020-06-27,Nevin Killen,1,16
+2020-06-27,Rosalie Collins,1,17
+2020-06-27,Tim Bailey,1,18
+2020-06-27,Carol Everhart,4,2
+2020-06-27,Steve Monty Montgomery,4,3
+2020-06-27,John Carney,5,1
+2020-06-28,Karyl Rattay,1,3
+2020-06-28,Marc Clery,1,4
+2020-06-28,Michel Eckerd,1,5
+2020-06-28,Milford Patricia Hamer,1,6
+2020-06-28,Norman Greene,1,7
+2020-06-28,Serena Hayes,1,8
+2020-06-28,Nan,2,1
+2020-06-28,Rick Hong,2,2

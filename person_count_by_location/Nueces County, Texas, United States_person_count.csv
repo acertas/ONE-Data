@@ -316,21 +316,21 @@ date,person,count,rn
 2020-03-24,Annette Rodriguez,2,38
 2020-03-24,Barbara Canales,2,39
 2020-03-24,Hubert Mcnally,2,40
-2020-03-24,Jason Alexander,2,41
-2020-03-24,Jeffrey Brown,2,42
-2020-03-24,John Benjamin Hickey,2,43
-2020-03-24,John Carucci,2,44
-2020-03-24,John Glover,2,45
-2020-03-24,Justin Kirk,2,46
-2020-03-24,Paula Vogel,2,47
-2020-03-24,Sean Strawbridge,2,48
-2020-03-24,Tom Kirdahy,2,49
-2020-03-24,Tracy Beatty,2,50
-2020-03-24,Al Worden,3,33
-2020-03-24,Joe Mccomb,3,34
+2020-03-24,James Dailey,2,41
+2020-03-24,Jason Alexander,2,42
+2020-03-24,Jeffrey Brown,2,43
+2020-03-24,John Benjamin Hickey,2,44
+2020-03-24,John Carucci,2,45
+2020-03-24,John Glover,2,46
+2020-03-24,Justin Kirk,2,47
+2020-03-24,Paula Vogel,2,48
+2020-03-24,Peter Zanoni,2,49
+2020-03-24,Rodney Reed,2,50
+2020-03-24,Al Worden,3,34
 2020-03-24,Kenny Rogers,3,35
 2020-03-24,Michael Shannon,3,36
 2020-03-24,Tom Kitt,3,37
+2020-03-24,Joe Mccomb,4,33
 2020-03-24,Amanda Marzullo,5,21
 2020-03-24,Bill Lee,5,22
 2020-03-24,Deputy Heath Gumm,5,23
@@ -1543,25 +1543,25 @@ date,person,count,rn
 2020-06-03,Nan,2,1
 2020-06-04,Shawna Pruitt,1,2
 2020-06-04,Nan,2,1
-2020-06-05,Anita Kumar,2,26
-2020-06-05,Anna Palmer,2,27
-2020-06-05,Chris Jaarda,2,28
-2020-06-05,Condoleezza Rice,2,29
-2020-06-05,Cory Booker,2,30
-2020-06-05,David Cicilline,2,31
-2020-06-05,David Sanger,2,32
-2020-06-05,Jim Morrill,2,33
-2020-06-05,Kara Hauck,2,34
-2020-06-05,Katy Summerlin,2,35
-2020-06-05,Keara Scallan,2,36
-2020-06-05,Kellyanne Conway,2,37
-2020-06-05,Marc Lamont Hill,2,38
-2020-06-05,Mark Weprin,2,39
-2020-06-05,Maya Bronstein,2,40
-2020-06-05,Megan Beyer,2,41
-2020-06-05,Mike Pence,2,42
-2020-06-05,Mitchell Rivard,2,43
-2020-06-05,Mustafa Tameez,2,44
+2020-06-05,Abeer Al Otaiba,2,26
+2020-06-05,Anita Kumar,2,27
+2020-06-05,Anna Palmer,2,28
+2020-06-05,Ashley Parker,2,29
+2020-06-05,Chris Jaarda,2,30
+2020-06-05,Cory Booker,2,31
+2020-06-05,David Cicilline,2,32
+2020-06-05,David Sanger,2,33
+2020-06-05,Ellen Fleysher,2,34
+2020-06-05,Jason Riley,2,35
+2020-06-05,Jim Morrill,2,36
+2020-06-05,Joe Biden,2,37
+2020-06-05,Kara Hauck,2,38
+2020-06-05,Keara Scallan,2,39
+2020-06-05,Kristen Welker,2,40
+2020-06-05,Marc Lamont Hill,2,41
+2020-06-05,Maya Bronstein,2,42
+2020-06-05,Mike Heimowitz,2,43
+2020-06-05,Mitchell Rivard,2,44
 2020-06-05,Nicole Perlroth,2,45
 2020-06-05,Pam Louwagie,2,46
 2020-06-05,Rob Engstrom,2,47
@@ -1865,3 +1865,86 @@ date,person,count,rn
 2020-06-25,Ron Nirenberg,2,5
 2020-06-25,Wade Bowen,2,6
 2020-06-25,Annette Rodriguez,3,1
+2020-06-26,Allison Colman,1,5
+2020-06-26,Barbara Canales,1,6
+2020-06-26,Becky Moeller,1,7
+2020-06-26,Elsa Caballero,1,8
+2020-06-26,Eric Evans,1,9
+2020-06-26,Ian Northrup,1,10
+2020-06-26,Lavaughn Renner,1,11
+2020-06-26,Lynne Sladky,1,12
+2020-06-26,Marcio Jose Sanchez,1,13
+2020-06-26,Nivek Divincci,1,14
+2020-06-26,Oscar Cruz,1,15
+2020-06-26,Robert Galbreath,1,16
+2020-06-26,Ron Nirenberg,1,17
+2020-06-26,Shawn Nasseri,1,18
+2020-06-26,Annette Rodriguez,2,2
+2020-06-26,Clara Rieder,2,3
+2020-06-26,Nan,2,4
+2020-06-26,Greg Abbott,3,1
+2020-06-27,Carlos Gim,1,9
+2020-06-27,Diana Fite,1,10
+2020-06-27,Eddie Trevi,1,11
+2020-06-27,Frank Markantonis,1,12
+2020-06-27,Gavin Newsom,1,13
+2020-06-27,Jennifer Nuzzo,1,14
+2020-06-27,John Henderson,1,15
+2020-06-27,Jonah Bruno,1,16
+2020-06-27,Kim Smith,1,17
+2020-06-27,Lillian Palacios,1,18
+2020-06-27,Lina Hidalgo,1,19
+2020-06-27,London Breed,1,20
+2020-06-27,Mark Felix,1,21
+2020-06-27,Mike Gallagher,1,22
+2020-06-27,Orleans Saharandust Saharanairlayer Dustplumepic,1,23
+2020-06-27,Ostro Stuostro,1,24
+2020-06-27,Peter Hotez,1,25
+2020-06-27,Ramon Espinosa,1,26
+2020-06-27,Ricardo Cigarroa,1,27
+2020-06-27,Ron Desantis,1,28
+2020-06-27,Ron Nirenberg,1,29
+2020-06-27,Terry Lynam,1,30
+2020-06-27,Wadell Billwadell,1,31
+2020-06-27,Annette Rodriguez,2,4
+2020-06-27,Brandon Harper,2,5
+2020-06-27,Clara Rieder,2,6
+2020-06-27,Nora Perez,2,7
+2020-06-27,Triston Crossland,2,8
+2020-06-27,Barbara Canales,3,3
+2020-06-27,Peter Zanoni,4,2
+2020-06-27,Greg Abbott,7,1
+2020-06-28,Bruce Dart,1,5
+2020-06-28,Chandan Khanna,1,6
+2020-06-28,Cynthia Kay Gonzalez,1,7
+2020-06-28,Donald Trump,1,8
+2020-06-28,Edwardean Harris,1,9
+2020-06-28,Geoff Beere,1,10
+2020-06-28,Gloria Meeks,1,11
+2020-06-28,Jane Hamilton,1,12
+2020-06-28,Joel Thomas,1,13
+2020-06-28,John Marez,1,14
+2020-06-28,John Mccain,1,15
+2020-06-28,Josh Levin,1,16
+2020-06-28,Kaden Clites,1,17
+2020-06-28,Ken Paxton,1,18
+2020-06-28,Kevin Stitt,1,19
+2020-06-28,Laura Miller,1,20
+2020-06-28,Lisa Morris,1,21
+2020-06-28,Marc Veasey,1,22
+2020-06-28,Marcio Jose Sanchez,1,23
+2020-06-28,Mark Escott,1,24
+2020-06-28,Matt Angle,1,25
+2020-06-28,Matthew Broberg-Moffitt,1,26
+2020-06-28,Mckool Smith,1,27
+2020-06-28,Mike Pence,1,28
+2020-06-28,Robert Redfield,1,29
+2020-06-28,Ron Desantis,1,30
+2020-06-28,Rosita Flores,1,31
+2020-06-28,Steve Wolens,1,32
+2020-06-28,Trevor Potter,1,33
+2020-06-28,Willie Ray,1,34
+2020-06-28,Annette Rodriguez,2,2
+2020-06-28,Clara Rieder,2,3
+2020-06-28,Peter Zanoni,2,4
+2020-06-28,Greg Abbott,4,1
