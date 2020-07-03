@@ -18,22 +18,22 @@ date,person,count,rn
 2020-02-06,Gary Palmer,1,17
 2020-02-06,Hugh Aljoe,1,18
 2020-02-06,Hugh Hewitt,1,19
-2020-02-06,Ian Lanphier,1,20
-2020-02-06,Jason Chaffetz,1,21
-2020-02-06,Jason Smith,1,22
-2020-02-06,Jay Ashcroft,1,23
-2020-02-06,Jeanine Pirro,1,24
-2020-02-06,Jeff Goodwin,1,25
-2020-02-06,Jody Jones,1,26
-2020-02-06,Jordyn Phelps,1,27
-2020-02-06,Juan Guaido,1,28
-2020-02-06,Kay Cole James,1,29
-2020-02-06,Ky Pohler,1,30
-2020-02-06,Lou Dobbs,1,31
-2020-02-06,Maria Bartiromo,1,32
-2020-02-06,Maria Shriver,1,33
-2020-02-06,Mark Esper,1,34
-2020-02-06,Mark Levin,1,35
+2020-02-06,Jason Chaffetz,1,20
+2020-02-06,Jay Ashcroft,1,21
+2020-02-06,Jeanine Pirro,1,22
+2020-02-06,Jeff Goodwin,1,23
+2020-02-06,Jody Jones,1,24
+2020-02-06,Jordyn Phelps,1,25
+2020-02-06,Juan Guaido,1,26
+2020-02-06,Kay Cole James,1,27
+2020-02-06,Ky Pohler,1,28
+2020-02-06,Lee Chatfield,1,29
+2020-02-06,Lou Dobbs,1,30
+2020-02-06,Maria Bartiromo,1,31
+2020-02-06,Maria Shriver,1,32
+2020-02-06,Mark Esper,1,33
+2020-02-06,Mark Levin,1,34
+2020-02-06,Michael Reagan,1,35
 2020-02-06,Mike Kelly,1,36
 2020-02-06,Mike Parson,1,37
 2020-02-06,Mike Pompeo,1,38
@@ -43,12 +43,12 @@ date,person,count,rn
 2020-02-06,Newsmax John Cardillo,1,42
 2020-02-06,Pat Toomey,1,43
 2020-02-06,Richard Shelby,1,44
-2020-02-06,Robert Lighthizer,1,45
-2020-02-06,Rocky Jones,1,46
-2020-02-06,Scott Jennings,1,47
-2020-02-06,Shelley Moore Capito,1,48
-2020-02-06,Steve Daines,1,49
-2020-02-06,Steve Forbes,1,50
+2020-02-06,Richhudson Thomtillis,1,45
+2020-02-06,Robert Lighthizer,1,46
+2020-02-06,Rocky Jones,1,47
+2020-02-06,Scott Jennings,1,48
+2020-02-06,Shelley Moore Capito,1,49
+2020-02-06,Steve Daines,1,50
 2020-02-06,Sonny Perdue,2,1
 2020-02-21,Damoine Wilcoxson,2,1
 2020-02-21,Laurel Meny,2,2
@@ -134,29 +134,29 @@ date,person,count,rn
 2020-03-11,Allyson Cribbs,1,24
 2020-03-11,Amy Klobuchar,1,25
 2020-03-11,Bree Bowen,1,26
-2020-03-11,Elizabeth Warren,1,27
-2020-03-11,Fran Morales-Neufeld,1,28
-2020-03-11,Jack Suntrup,1,29
-2020-03-11,Jill Biden,1,30
-2020-03-11,Joseph Biden,1,31
-2020-03-11,Kevin Hahn,1,32
-2020-03-11,Kiener Plaza,1,33
-2020-03-11,Kim Bell,1,34
+2020-03-11,Don Duncan,1,27
+2020-03-11,Elizabeth Reinsch,1,28
+2020-03-11,Elizabeth Warren,1,29
+2020-03-11,Fran Morales-Neufeld,1,30
+2020-03-11,Jack Suntrup,1,31
+2020-03-11,Jill Biden,1,32
+2020-03-11,Judy Baker,1,33
+2020-03-11,Ken Warren,1,34
 2020-03-11,Kurt Bahr,1,35
-2020-03-11,Lavette Jamison-Hamilton,1,36
-2020-03-11,Martin Luther King,1,37
-2020-03-11,Matt Davis,1,38
+2020-03-11,Larry Wilson,1,36
+2020-03-11,Lavette Jamison-Hamilton,1,37
+2020-03-11,Lyda Krewson,1,38
 2020-03-11,Michael Bloomberg,1,39
 2020-03-11,Michael Jenner,1,40
 2020-03-11,Michael Lonergan,1,41
-2020-03-11,Nan,1,42
-2020-03-11,Nassim Benchaabane,1,43
-2020-03-11,Nicole Galloway,1,44
-2020-03-11,Orville James,1,45
-2020-03-11,Pat Duncan,1,46
-2020-03-11,Pete Buttigieg,1,47
-2020-03-11,Ruth Vincill,1,48
-2020-03-11,Shirley Bynum Smith,1,49
+2020-03-11,Mo Dehghani,1,42
+2020-03-11,Nan,1,43
+2020-03-11,Nassim Benchaabane,1,44
+2020-03-11,Nicole Galloway,1,45
+2020-03-11,Orville James,1,46
+2020-03-11,Pat Duncan,1,47
+2020-03-11,Pete Buttigieg,1,48
+2020-03-11,Ruth Vincill,1,49
 2020-03-11,Tulsi Gabbard,1,50
 2020-03-11,Charles Jones,2,21
 2020-03-11,Dwight Eisenhower Biden,2,22
@@ -2225,3 +2225,40 @@ date,person,count,rn
 2020-06-30,Mark Mccloskey,2,3
 2020-06-30,Mun Choi,2,4
 2020-06-30,Patricia Mccloskey,2,5
+2020-07-01,Danny Jativa,1,23
+2020-07-01,Dave Dillon,1,24
+2020-07-01,Jeremy Jones,1,25
+2020-07-01,Jim Billimoria,1,26
+2020-07-01,Joni Ernst,1,27
+2020-07-01,Josh Gotbaum,1,28
+2020-07-01,Larry Kudlow,1,29
+2020-07-01,Lindsey Simmons,1,30
+2020-07-01,Lowell Hartzler,1,31
+2020-07-01,Lyda Krewson,1,32
+2020-07-01,Nan,1,33
+2020-07-01,Roger Williams,1,34
+2020-07-01,Scott Clardy,1,35
+2020-07-01,Susie Lee,1,36
+2020-07-01,Vicky Hartzler,1,37
+2020-07-01,Dan Haug,2,22
+2020-07-01,Mun Choi,3,21
+2020-07-01,Paola Pellizzari,4,20
+2020-07-01,Kate Brown,7,18
+2020-07-01,Krysta White,7,19
+2020-07-01,Boris Johnson,8,15
+2020-07-01,Scott Dudas,8,16
+2020-07-01,Stelios Petsas,8,17
+2020-07-01,Stephen Hahn,9,14
+2020-07-01,Gavin Newsom,10,13
+2020-07-01,Mike Pence,11,12
+2020-07-01,Donald Trump,12,4
+2020-07-01,Greg Abbott,12,5
+2020-07-01,James Dickey,12,6
+2020-07-01,Jared Polis,12,7
+2020-07-01,Joe Biden,12,8
+2020-07-01,Mandy Cohen,12,9
+2020-07-01,Roberto Speranza,12,10
+2020-07-01,Tom Farley,12,11
+2020-07-01,Anthony Fauci,13,3
+2020-07-01,Mike Parson,15,1
+2020-07-01,Randall Williams,15,2

@@ -439,10 +439,9 @@ date,person,count,rn
 2020-03-05,Tom Gong,5,25
 2020-03-05,Yvonne Maldonado,5,26
 2020-03-05,Los Angeles,8,1
-2020-03-06,Aaron Nayfack,2,35
 2020-03-06,Alex Glew,2,36
-2020-03-06,Annie Oliva,2,37
-2020-03-06,Assemblymember Kevin Mullin,2,38
+2020-03-06,Anna Bauman,2,37
+2020-03-06,Annie Oliva,2,38
 2020-03-06,Chris Grady,2,39
 2020-03-06,D-San Francisco,2,40
 2020-03-06,D-San Mateo,2,41
@@ -454,8 +453,9 @@ date,person,count,rn
 2020-03-06,Laura Dunn,2,47
 2020-03-06,Mano Raju,2,48
 2020-03-06,Michael Brownrigg,2,49
-2020-03-06,Peter Fimrite,2,50
-2020-03-06,Debbi Loftus,3,34
+2020-03-06,Rohish Lal,2,50
+2020-03-06,Aaron Nayfack,3,34
+2020-03-06,Debbi Loftus,3,35
 2020-03-06,Bela Matyas,4,31
 2020-03-06,Lisa Egan,4,32
 2020-03-06,Neil Kran,4,33
@@ -2925,11 +2925,11 @@ date,person,count,rn
 2020-05-13,Adrian Schrek,1,20
 2020-05-13,Andrew Scott,1,21
 2020-05-13,Anna Bauman,1,22
-2020-05-13,Audra Mcdonald,1,23
-2020-05-13,Avshi Weinstein,1,24
-2020-05-13,Cathy Deluca,1,25
-2020-05-13,Chris Odowd,1,26
-2020-05-13,Coco Corona,1,27
+2020-05-13,Anna Chodos,1,23
+2020-05-13,Audra Mcdonald,1,24
+2020-05-13,Avshi Weinstein,1,25
+2020-05-13,Cathy Deluca,1,26
+2020-05-13,Dave Shively,1,27
 2020-05-13,Dionne Warwick,1,28
 2020-05-13,Dolly Parton,1,29
 2020-05-13,Dominic Fracassa,1,30
@@ -4120,3 +4120,20 @@ date,person,count,rn
 2020-06-30,Sal Qaqundah,1,20
 2020-06-30,Ted Egan,1,21
 2020-06-30,Gavin Newsom,3,1
+2020-07-01,Andrew Hill,1,11
+2020-07-01,Clyde Roberson,1,12
+2020-07-01,Hans Uslar,1,13
+2020-07-01,Lori Augustine,1,14
+2020-07-01,Los Cabos,1,15
+2020-07-01,Nan,1,16
+2020-07-01,Peter Horby,1,17
+2020-07-01,Irma Pinuela,2,9
+2020-07-01,Marco Pinuela,2,10
+2020-07-01,Amy Taxin,5,6
+2020-07-01,Brian Melley,5,7
+2020-07-01,Christopher Weber,5,8
+2020-07-01,Gavin Newsom,6,5
+2020-07-01,George Rutherford,7,2
+2020-07-01,Los Angeles,7,3
+2020-07-01,Rachel Michelin,7,4
+2020-07-01,Adam Eisen,9,1
