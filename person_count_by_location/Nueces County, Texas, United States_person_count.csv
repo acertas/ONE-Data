@@ -316,15 +316,15 @@ date,person,count,rn
 2020-03-24,Annette Rodriguez,2,38
 2020-03-24,Barbara Canales,2,39
 2020-03-24,Hubert Mcnally,2,40
-2020-03-24,Jason Alexander,2,41
-2020-03-24,Jeffrey Brown,2,42
-2020-03-24,John Benjamin Hickey,2,43
-2020-03-24,John Carucci,2,44
-2020-03-24,John Glover,2,45
-2020-03-24,John Hummel,2,46
+2020-03-24,James Dailey,2,41
+2020-03-24,Jason Alexander,2,42
+2020-03-24,Jeffrey Brown,2,43
+2020-03-24,John Benjamin Hickey,2,44
+2020-03-24,John Carucci,2,45
+2020-03-24,John Glover,2,46
 2020-03-24,Justin Kirk,2,47
 2020-03-24,Paula Vogel,2,48
-2020-03-24,Peter Zanoni,2,49
+2020-03-24,Sean Strawbridge,2,49
 2020-03-24,Tom Kirdahy,2,50
 2020-03-24,Al Worden,3,34
 2020-03-24,Kenny Rogers,3,35
@@ -1543,31 +1543,31 @@ date,person,count,rn
 2020-06-03,Nan,2,1
 2020-06-04,Shawna Pruitt,1,2
 2020-06-04,Nan,2,1
-2020-06-05,Amy Mcgrath,2,26
-2020-06-05,Bill Moyers,2,27
-2020-06-05,Brian Mahoney,2,28
-2020-06-05,Cory Booker,2,29
-2020-06-05,Ellen Fleysher,2,30
-2020-06-05,Eugene Robinson,2,31
-2020-06-05,Greta Van Susteren,2,32
-2020-06-05,James Craig,2,33
-2020-06-05,Kamala Harris,2,34
-2020-06-05,Kara Hauck,2,35
-2020-06-05,Kishon Mcdonald,2,36
-2020-06-05,Mark Esper,2,37
-2020-06-05,Matt Zapotosky,2,38
-2020-06-05,Mike Heimowitz,2,39
-2020-06-05,Mitchell Rivard,2,40
-2020-06-05,Rob Engstrom,2,41
-2020-06-05,Robin Bravender,2,42
-2020-06-05,Rudy Giuliani,2,43
-2020-06-05,Sam Sifton,2,44
-2020-06-05,Scott Gottlieb,2,45
-2020-06-05,Shane Goldmacher,2,46
-2020-06-05,Sudhin Thanawala,2,47
-2020-06-05,Teodoro Obiang Nguema Mbasogo,2,48
-2020-06-05,Weber Shandwick Cherith Cleaves,2,49
-2020-06-05,William Barr,2,50
+2020-06-05,Al Sharpton,2,26
+2020-06-05,Anna Palmer,2,27
+2020-06-05,Ben Domenech,2,28
+2020-06-05,Carol Guensburg,2,29
+2020-06-05,Chick Corea,2,30
+2020-06-05,David Cicilline,2,31
+2020-06-05,David Espo,2,32
+2020-06-05,David French,2,33
+2020-06-05,Eli Okun,2,34
+2020-06-05,Eric Bolling,2,35
+2020-06-05,Greta Van Susteren,2,36
+2020-06-05,Jason Riley,2,37
+2020-06-05,Jim Morrill,2,38
+2020-06-05,Jon Haber,2,39
+2020-06-05,Karen Campbell,2,40
+2020-06-05,Maya Bronstein,2,41
+2020-06-05,Mitchell Rivard,2,42
+2020-06-05,Nefertali Deeb,2,43
+2020-06-05,Nicole Perlroth,2,44
+2020-06-05,Sam Sifton,2,45
+2020-06-05,Shane Pummill,2,46
+2020-06-05,Sylvester Turner,2,47
+2020-06-05,Teresa Vilmain,2,48
+2020-06-05,Toni Sanders,2,49
+2020-06-05,Travis Brock,2,50
 2020-06-05,Lee Lester,4,24
 2020-06-05,Patrick Svitek,4,25
 2020-06-05,George Floyd,7,23
@@ -2031,3 +2031,85 @@ date,person,count,rn
 2020-07-01,Sam Fugate,3,7
 2020-07-01,Barbara Canales,4,2
 2020-07-01,Greg Abbott,6,1
+2020-07-02,Darrell Apffel,1,24
+2020-07-02,Joe Mccomb,1,25
+2020-07-02,Matt Dempsey,1,26
+2020-07-02,Nan,1,27
+2020-07-02,Vicky Camarillo,1,28
+2020-07-02,Eric Holguin,2,16
+2020-07-02,George Floyd,2,17
+2020-07-02,Jim Kaelin,2,18
+2020-07-02,Jim Yarbrough,2,19
+2020-07-02,John Cornyn,2,20
+2020-07-02,Nancy Vera,2,21
+2020-07-02,Sergio Flores,2,22
+2020-07-02,Ted Cruz,2,23
+2020-07-02,Angelica Hernandez,3,12
+2020-07-02,Clara Rieder,3,13
+2020-07-02,Sam Fugate,3,14
+2020-07-02,Sheldon Wiginton,3,15
+2020-07-02,Annelies Wilder-Smith,4,5
+2020-07-02,Annette Rodriguez,4,6
+2020-07-02,Anthony Fauci,4,7
+2020-07-02,Cameron Wolfe,4,8
+2020-07-02,Holden Thorp,4,9
+2020-07-02,Los Angeles,4,10
+2020-07-02,Robert Redfield,4,11
+2020-07-02,Barbara Canales,5,3
+2020-07-02,Peter Zanoni,5,4
+2020-07-02,Donald Trump,6,1
+2020-07-02,Greg Abbott,6,2
+2020-07-03,Adam Kucharski,1,21
+2020-07-03,Dido Harding,1,22
+2020-07-03,James Dickey,1,23
+2020-07-03,Joshua Barocas,1,24
+2020-07-03,Kevin Dolliole,1,25
+2020-07-03,Lone Ranger,1,26
+2020-07-03,Mark Ramsey,1,27
+2020-07-03,Mathias Clasen,1,28
+2020-07-03,Matt Hancock,1,29
+2020-07-03,Mike Bergsma,1,30
+2020-07-03,Robin Armstrong,1,31
+2020-07-03,Abhi Rahman,2,10
+2020-07-03,Annie Spilman,2,11
+2020-07-03,Chris Turner,2,12
+2020-07-03,Dennis Bonnen,2,13
+2020-07-03,Donald Trump,2,14
+2020-07-03,Emily Williams Knight,2,15
+2020-07-03,Jonathan Stickland,2,16
+2020-07-03,Matt Timmerman,2,17
+2020-07-03,Michael Mccaul,2,18
+2020-07-03,Michael Mccaul Repmccaul,2,19
+2020-07-03,Nan,2,20
+2020-07-03,Angelica Hernandez,3,3
+2020-07-03,Annette Rodriguez,3,4
+2020-07-03,Clara Rieder,3,5
+2020-07-03,Jim Wells,3,6
+2020-07-03,Peter Zanoni,3,7
+2020-07-03,Sam Fugate,3,8
+2020-07-03,Sheldon Wiginton,3,9
+2020-07-03,Barbara Canales,7,2
+2020-07-03,Greg Abbott,8,1
+2020-07-04,Anna Staver,1,10
+2020-07-04,Jennifer Ashton,1,11
+2020-07-04,Leah Romero,1,12
+2020-07-04,Marta Leiva,1,13
+2020-07-04,Nan,1,14
+2020-07-04,Susan Hernandez,1,15
+2020-07-04,Zoey Diaz,1,16
+2020-07-04,Angelica Hernandez,3,2
+2020-07-04,Barbara Canales,3,3
+2020-07-04,Clara Rieder,3,4
+2020-07-04,Greg Abbott,3,5
+2020-07-04,Jim Wells,3,6
+2020-07-04,Peter Zanoni,3,7
+2020-07-04,Sam Fugate,3,8
+2020-07-04,Sheldon Wiginton,3,9
+2020-07-04,Annette Rodriguez,4,1
+2020-07-05,Anna Staver,1,1
+2020-07-05,Barbara Canales,1,2
+2020-07-05,Jennifer Ashton,1,3
+2020-07-05,Leah Romero,1,4
+2020-07-05,Nan,1,5
+2020-07-05,Peter Zanoni,1,6
+2020-07-05,Susan Hernandez,1,7
