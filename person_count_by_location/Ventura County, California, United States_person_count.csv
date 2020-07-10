@@ -279,19 +279,19 @@ date,person,count,rn
 2020-03-06,Gavin Newsom,2,1
 2020-03-07,Alex Azar,1,36
 2020-03-07,Alex Wigglesworth,1,37
-2020-03-07,Alivia Owyoung Ender,1,38
-2020-03-07,Ashley Bautista,1,39
-2020-03-07,Augusta Waterville,1,40
-2020-03-07,Daisy Nguyen,1,41
-2020-03-07,Daniel Abel,1,42
-2020-03-07,Deborah Birx,1,43
-2020-03-07,Eugenia Kendall,1,44
-2020-03-07,Hyosub Shin Atlanta,1,45
-2020-03-07,Ivan Kendall,1,46
-2020-03-07,James Watt,1,47
-2020-03-07,Lori Lightfoot,1,48
-2020-03-07,Manuel Balce Ceneta,1,49
-2020-03-07,Mckinsey Paz,1,50
+2020-03-07,Ashley Bautista,1,38
+2020-03-07,Augusta Waterville,1,39
+2020-03-07,Colleen Shalby,1,40
+2020-03-07,Deborah Birx,1,41
+2020-03-07,Eugenia Kendall,1,42
+2020-03-07,Hyosub Shin Atlanta,1,43
+2020-03-07,Ivan Kendall,1,44
+2020-03-07,James Watt,1,45
+2020-03-07,Janie Har,1,46
+2020-03-07,Manuel Balce Ceneta,1,47
+2020-03-07,Mckinsey Paz,1,48
+2020-03-07,Michele Smith,1,49
+2020-03-07,Peter Beilenson,1,50
 2020-03-07,Aimee Sisson,2,14
 2020-03-07,Andy Beshear,2,15
 2020-03-07,Andy Rose,2,16
@@ -2513,11 +2513,11 @@ date,person,count,rn
 2020-06-28,Jennifer Carole,16,3
 2020-06-28,Lyman Smith,16,4
 2020-06-28,Michael Bowman,16,5
-2020-06-29,Anthony Behar Sipa,1,46
-2020-06-29,Brian Maggiore,1,47
-2020-06-29,John Doe,1,48
-2020-06-29,Kristina Sgueglia,1,49
-2020-06-29,Orhan Akman,1,50
+2020-06-29,John Doe,1,46
+2020-06-29,John Mcginness,1,47
+2020-06-29,Kristina Sgueglia,1,48
+2020-06-29,Paul Kitagaki Jr,1,49
+2020-06-29,Tina Burnside,1,50
 2020-06-29,Amy Holliday,2,37
 2020-06-29,Andrew Cuomo,2,38
 2020-06-29,Los Angeles,2,39
@@ -2564,10 +2564,10 @@ date,person,count,rn
 2020-06-29,Lyman Smith,32,3
 2020-06-29,Charlene Smith,34,1
 2020-06-30,Avenida Pequena,2,43
-2020-06-30,Greg Sanchez,2,44
-2020-06-30,Las Brisas,2,45
-2020-06-30,Rigoberto Vargas,2,46
-2020-06-30,Robert Offermen,2,47
+2020-06-30,Debbie Domingo,2,44
+2020-06-30,Greg Sanchez,2,45
+2020-06-30,Las Brisas,2,46
+2020-06-30,Patti Harrington,2,47
 2020-06-30,Ron Harrington,2,48
 2020-06-30,Tayo Waugh,2,49
 2020-06-30,Vicki Behringer,2,50
@@ -2712,3 +2712,53 @@ date,person,count,rn
 2020-07-08,Mark Mclaughlin,5,11
 2020-07-08,Sheryl Barnd,5,12
 2020-07-08,Tiffany Morse,5,13
+2020-07-09,Abu Dhabi,1,34
+2020-07-09,Alex Zielinski,1,35
+2020-07-09,Blair Stenvick,1,36
+2020-07-09,Bruce Dart,1,37
+2020-07-09,Chris Davis,1,38
+2020-07-09,Daryl Turner,1,39
+2020-07-09,David Rothschild,1,40
+2020-07-09,Derek Chauvin,1,41
+2020-07-09,Eric Buschow,1,42
+2020-07-09,Fazila Efendic,1,43
+2020-07-09,Helen Jenkins,1,44
+2020-07-09,Jair Bolsonaro,1,45
+2020-07-09,Jodi Vittori,1,46
+2020-07-09,Justice John Roberts,1,47
+2020-07-09,Mark Esper,1,48
+2020-07-09,Mark Milley,1,49
+2020-07-09,Matt Anderson,1,50
+2020-07-09,George Floyd,2,30
+2020-07-09,John Bel Edwards,2,31
+2020-07-09,Naya Rivera,2,32
+2020-07-09,Steve Clemons,2,33
+2020-07-09,Jason Hanna,3,28
+2020-07-09,Madeline Holcombe,3,29
+2020-07-09,Jeremy Grisham,5,21
+2020-07-09,Kristen Holmes,5,22
+2020-07-09,Lauren Mascarenhas,5,23
+2020-07-09,Louann Woodward,5,24
+2020-07-09,Melissa Alonso,5,25
+2020-07-09,Robert Redfield,5,26
+2020-07-09,Shelby Lin Erdman,5,27
+2020-07-09,Alexi Rosenfeld Getty,6,16
+2020-07-09,Gisela Crespo,6,17
+2020-07-09,Robyn Beck,6,18
+2020-07-09,Sergio Flores,6,19
+2020-07-09,Tracy Harris,6,20
+2020-07-09,Kay Jones,10,12
+2020-07-09,Pierre Meilhan,10,13
+2020-07-09,Raja Razek,10,14
+2020-07-09,Sarah Moon,10,15
+2020-07-09,Kate Linebaugh,15,11
+2020-07-09,Ali Khan,17,10
+2020-07-09,Ashish Jha,19,9
+2020-07-09,Jon Bel Edwards,22,8
+2020-07-09,Barbara Ferrer,24,4
+2020-07-09,Eric Garcetti,24,5
+2020-07-09,John Fankhauser,24,6
+2020-07-09,Latoya Cantrell,24,7
+2020-07-09,Anthony Fauci,25,1
+2020-07-09,Donald Trump,25,2
+2020-07-09,Los Angeles,25,3
