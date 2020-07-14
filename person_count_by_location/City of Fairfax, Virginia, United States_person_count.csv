@@ -697,45 +697,45 @@ date,person,count,rn
 2020-04-23,Alfonso Diaz-Martinez,1,3
 2020-04-23,Andrea Kristin Dahl,1,4
 2020-04-23,Andrew Gillum,1,5
-2020-04-23,Barack Obama,1,6
-2020-04-23,Carlos Deras Lopez,1,7
-2020-04-23,Carlos Giron-Reyes,1,8
-2020-04-23,Christopher Barnard,1,9
-2020-04-23,Concepcion Gonzalez,1,10
-2020-04-23,Dan Webb,1,11
-2020-04-23,Ed Ocarroll,1,12
-2020-04-23,Eric Womack,1,13
-2020-04-23,Franklin Galvez,1,14
-2020-04-23,George Soros,1,15
-2020-04-23,Halmar Lizama Henriquez,1,16
-2020-04-23,James Brown,1,17
-2020-04-23,James Rosenberger,1,18
-2020-04-23,Japher Flores Arriaza,1,19
-2020-04-23,Jean Pardo Pesantes,1,20
-2020-04-23,Jim Rutenberg,1,21
-2020-04-23,Joe Biden,1,22
-2020-04-23,Joey Gilbert,1,23
-2020-04-23,Jose Argueta Amaya,1,24
-2020-04-23,Jose Mejia Carabantes,1,25
-2020-04-23,Juan Moreno Colindres,1,26
-2020-04-23,Jussie Smollett,1,27
-2020-04-23,Kirrolos Guirguis,1,28
-2020-04-23,Linda Jane Colbert,1,29
-2020-04-23,Margaret Menge,1,30
-2020-04-23,Matthew Vadum,1,31
-2020-04-23,Milly Vincent,1,32
-2020-04-23,Mohamed Mansaray,1,33
-2020-04-23,Monica Showalter,1,34
-2020-04-23,Naga Bollina,1,35
-2020-04-23,Nelson Diaz Ramos,1,36
-2020-04-23,Nelson Sosa Grande,1,37
-2020-04-23,Oxiris Barbot,1,38
-2020-04-23,Pedro Gonzalez,1,39
-2020-04-23,Rachel Siegel,1,40
-2020-04-23,Ralph Northam,1,41
-2020-04-23,Rush Limbaugh,1,42
-2020-04-23,Thomas Kuglin,1,43
-2020-04-23,Tod Rehm,1,44
+2020-04-23,Carlos Deras Lopez,1,6
+2020-04-23,Carlos Giron-Reyes,1,7
+2020-04-23,Christopher Barnard,1,8
+2020-04-23,Concepcion Gonzalez,1,9
+2020-04-23,Dan Webb,1,10
+2020-04-23,Ed Ocarroll,1,11
+2020-04-23,Eric Womack,1,12
+2020-04-23,Franklin Galvez,1,13
+2020-04-23,George Soros,1,14
+2020-04-23,Halmar Lizama Henriquez,1,15
+2020-04-23,James Rosenberger,1,16
+2020-04-23,Japher Flores Arriaza,1,17
+2020-04-23,Jean Pardo Pesantes,1,18
+2020-04-23,Jim Rutenberg,1,19
+2020-04-23,Joe Biden,1,20
+2020-04-23,Joey Gilbert,1,21
+2020-04-23,Jose Argueta Amaya,1,22
+2020-04-23,Jose Mejia Carabantes,1,23
+2020-04-23,Juan Moreno Colindres,1,24
+2020-04-23,Jussie Smollett,1,25
+2020-04-23,Kirrolos Guirguis,1,26
+2020-04-23,Kumar Bhandari,1,27
+2020-04-23,Linda Jane Colbert,1,28
+2020-04-23,Margaret Menge,1,29
+2020-04-23,Matthew Vadum,1,30
+2020-04-23,Milly Vincent,1,31
+2020-04-23,Mohamed Mansaray,1,32
+2020-04-23,Monica Showalter,1,33
+2020-04-23,Naga Bollina,1,34
+2020-04-23,Nelson Diaz Ramos,1,35
+2020-04-23,Nelson Sosa Grande,1,36
+2020-04-23,Oxiris Barbot,1,37
+2020-04-23,Pedro Gonzalez,1,38
+2020-04-23,Rachel Siegel,1,39
+2020-04-23,Ralph Northam,1,40
+2020-04-23,Rush Limbaugh,1,41
+2020-04-23,Thomas Kuglin,1,42
+2020-04-23,Tod Rehm,1,43
+2020-04-23,Tom Oconnor,1,44
 2020-04-23,Van White,1,45
 2020-04-23,William Feuer,1,46
 2020-04-23,Xavier Jackson,1,47
@@ -1842,12 +1842,12 @@ date,person,count,rn
 2020-07-06,Shawn Carver,1,23
 2020-07-06,Stonewall Jackson,1,24
 2020-07-06,Thomas Jefferson,1,25
-2020-07-07,Carolyn Williams,1,45
-2020-07-07,Christine Favocci,1,46
-2020-07-07,Colleen Eddy,1,47
-2020-07-07,Emma Colton,1,48
-2020-07-07,Los Angeles,1,49
-2020-07-07,Robert Spencer,1,50
+2020-07-07,Christine Favocci,1,45
+2020-07-07,Colleen Eddy,1,46
+2020-07-07,John Adams,1,47
+2020-07-07,Linda Lacewell,1,48
+2020-07-07,Robert Spencer,1,49
+2020-07-07,Ryan Michael,1,50
 2020-07-07,Andrew Cuomo,2,28
 2020-07-07,Barack Obama,2,29
 2020-07-07,Fabrice Coffrini,2,30
@@ -2005,3 +2005,53 @@ date,person,count,rn
 2020-07-12,Simon Jacoby,6,10
 2020-07-12,Betsy Devos,13,2
 2020-07-12,Scott Brabrand,14,1
+2020-07-13,Alex Azar,1,10
+2020-07-13,Allyson Chiu,1,11
+2020-07-13,Bill Clinton,1,12
+2020-07-13,Bill Stepien,1,13
+2020-07-13,Bob Farrace,1,14
+2020-07-13,Bob Mueller,1,15
+2020-07-13,Brad Parscale,1,16
+2020-07-13,Brett Giroir,1,17
+2020-07-13,Brian Kemp,1,18
+2020-07-13,Carlos Gimenez,1,19
+2020-07-13,Dana Nessel,1,20
+2020-07-13,Donna Shalala,1,21
+2020-07-13,Fedrick Ingram,1,22
+2020-07-13,Glenn Kessler,1,23
+2020-07-13,Greg Abbott,1,24
+2020-07-13,Gretchen Whitmer,1,25
+2020-07-13,James Hohmann,1,26
+2020-07-13,Jason Miller,1,27
+2020-07-13,Jerome Adams,1,28
+2020-07-13,Jimmy Carter,1,29
+2020-07-13,Josh Dawsey,1,30
+2020-07-13,Kris Kobach,1,31
+2020-07-13,Laurie Mcginley,1,32
+2020-07-13,Leana Wen,1,33
+2020-07-13,Lily Eskelsen Garc,1,34
+2020-07-13,Lina Hidalgo,1,35
+2020-07-13,Lindsey Graham,1,36
+2020-07-13,Mark Meadows,1,37
+2020-07-13,Meg Kelly,1,38
+2020-07-13,Peter Navarro,1,39
+2020-07-13,Rachel Weiner,1,40
+2020-07-13,Randi Weingarten,1,41
+2020-07-13,Raul Garcia,1,42
+2020-07-13,Roger Stone,1,43
+2020-07-13,Sam Brownback,1,44
+2020-07-13,Scott Gottlieb,1,45
+2020-07-13,Sean Corcoran,1,46
+2020-07-13,Steve Bannon,1,47
+2020-07-13,Ted Cruz,1,48
+2020-07-13,Terry Mcauliffe,1,49
+2020-07-13,Tom Frieden,1,50
+2020-07-13,Anthony Fauci,2,4
+2020-07-13,Jared Kushner,2,5
+2020-07-13,Joe Biden,2,6
+2020-07-13,Kimberley Chavez Lopez Byrd,2,7
+2020-07-13,Los Angeles,2,8
+2020-07-13,Ron Desantis,2,9
+2020-07-13,Dana Bash,3,2
+2020-07-13,Scott Brabrand,3,3
+2020-07-13,Betsy Devos,5,1

@@ -439,26 +439,26 @@ date,person,count,rn
 2020-03-05,Tom Gong,5,25
 2020-03-05,Yvonne Maldonado,5,26
 2020-03-05,Los Angeles,8,1
-2020-03-06,Alejandro Serrano,2,36
-2020-03-06,Alex Glew,2,37
-2020-03-06,Annie Oliva,2,38
-2020-03-06,Assemblymember Kevin Mullin,2,39
-2020-03-06,Chris Grady,2,40
-2020-03-06,D-San Francisco,2,41
-2020-03-06,D-San Mateo,2,42
-2020-03-06,Giselle Hale,2,43
-2020-03-06,Jerry Hill,2,44
-2020-03-06,Josh Becker,2,45
-2020-03-06,Kamala Harris,2,46
-2020-03-06,Kevin Mullin,2,47
-2020-03-06,Laura Dunn,2,48
-2020-03-06,Mano Raju,2,49
-2020-03-06,Michael Brownrigg,2,50
-2020-03-06,Aaron Nayfack,3,34
-2020-03-06,Debbi Loftus,3,35
+2020-03-06,Aaron Nayfack,2,35
+2020-03-06,Alex Glew,2,36
+2020-03-06,Annie Oliva,2,37
+2020-03-06,Chris Grady,2,38
+2020-03-06,D-San Francisco,2,39
+2020-03-06,D-San Mateo,2,40
+2020-03-06,Giselle Hale,2,41
+2020-03-06,Jerry Hill,2,42
+2020-03-06,Josh Becker,2,43
+2020-03-06,Kamala Harris,2,44
+2020-03-06,Kevin Mullin,2,45
+2020-03-06,Laura Dunn,2,46
+2020-03-06,Mano Raju,2,47
+2020-03-06,Michael Brownrigg,2,48
+2020-03-06,Peter Fimrite,2,49
+2020-03-06,Rohish Lal,2,50
 2020-03-06,Bela Matyas,4,31
-2020-03-06,Lisa Egan,4,32
-2020-03-06,Neil Kran,4,33
+2020-03-06,Debbi Loftus,4,32
+2020-03-06,Lisa Egan,4,33
+2020-03-06,Neil Kran,4,34
 2020-03-06,Nan,5,29
 2020-03-06,Phan Ngo,5,30
 2020-03-06,Mary Ellen Carroll,6,28
@@ -2925,34 +2925,34 @@ date,person,count,rn
 2020-05-13,Adrian Schrek,1,20
 2020-05-13,Andrew Scott,1,21
 2020-05-13,Anna Bauman,1,22
-2020-05-13,Anna Chodos,1,23
+2020-05-13,Audra Mcdonald,1,23
 2020-05-13,Avshi Weinstein,1,24
 2020-05-13,Cathy Deluca,1,25
 2020-05-13,Charlie Day,1,26
-2020-05-13,Coco Corona,1,27
-2020-05-13,Dave Shively,1,28
+2020-05-13,Chris Odowd,1,27
+2020-05-13,Coco Corona,1,28
 2020-05-13,Diane Keaton,1,29
 2020-05-13,Dionne Warwick,1,30
-2020-05-13,Elaina Legault,1,31
-2020-05-13,Ethan Weiss,1,32
-2020-05-13,Gail Harrison,1,33
-2020-05-13,Gloria Lyon,1,34
-2020-05-13,Hannah Tarley,1,35
-2020-05-13,Hans Angress,1,36
-2020-05-13,Helen Farkas,1,37
-2020-05-13,Jeff Bezos,1,38
-2020-05-13,Jeff Calhoun,1,39
-2020-05-13,Jim Irizarry,1,40
-2020-05-13,Kim Wyman,1,41
-2020-05-13,Louis Dejoy,1,42
-2020-05-13,Lowellyn Sunga,1,43
-2020-05-13,Mark Dimondstein,1,44
-2020-05-13,Martin Short,1,45
-2020-05-13,Meryl Streep,1,46
-2020-05-13,Morgan Freeman,1,47
-2020-05-13,Nan,1,48
-2020-05-13,Napa Bookmine,1,49
-2020-05-13,Natasha Opfell,1,50
+2020-05-13,Dolly Parton,1,31
+2020-05-13,Dominic Fracassa,1,32
+2020-05-13,Elaina Legault,1,33
+2020-05-13,Ethan Weiss,1,34
+2020-05-13,Gail Harrison,1,35
+2020-05-13,Gloria Lyon,1,36
+2020-05-13,Hannah Tarley,1,37
+2020-05-13,Hans Angress,1,38
+2020-05-13,Helen Farkas,1,39
+2020-05-13,Jake Oliver,1,40
+2020-05-13,Jeff Bezos,1,41
+2020-05-13,Jeff Calhoun,1,42
+2020-05-13,Jim Irizarry,1,43
+2020-05-13,Jon Bon Jovi,1,44
+2020-05-13,Judith Guerrero,1,45
+2020-05-13,Kim Wyman,1,46
+2020-05-13,Louis Dejoy,1,47
+2020-05-13,Lowellyn Sunga,1,48
+2020-05-13,Martin Short,1,49
+2020-05-13,Meryl Streep,1,50
 2020-05-13,Chris Chmura,2,11
 2020-05-13,Elon Musk,2,12
 2020-05-13,Garvin Thomas,2,13
@@ -4455,3 +4455,19 @@ date,person,count,rn
 2020-07-11,Kayleigh Mcenany,2,4
 2020-07-11,Los Angeles,2,5
 2020-07-12,Nan,1,1
+2020-07-13,Brian Snyder,2,9
+2020-07-13,Diana Rohini Lavigne,2,10
+2020-07-13,Everardo Rodriguez,2,11
+2020-07-13,Louise Rogers,2,12
+2020-07-13,Nan,2,13
+2020-07-13,Nicole Acker,2,14
+2020-07-13,Regina Wallace Jones,2,15
+2020-07-13,Warren Slocum,2,16
+2020-07-13,Kristina Cooke,4,1
+2020-07-13,Los Angeles,4,2
+2020-07-13,Mica Rosenberg,4,3
+2020-07-13,Mimi Dwyer,4,4
+2020-07-13,Radhika Anilkumar,4,5
+2020-07-13,Shubham Khalia,4,6
+2020-07-13,Steve Orlofsky,4,7
+2020-07-13,Ted Hesson,4,8

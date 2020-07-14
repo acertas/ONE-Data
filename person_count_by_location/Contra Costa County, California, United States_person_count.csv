@@ -211,27 +211,27 @@ date,person,count,rn
 2020-03-06,Teresa Johnson,3,25
 2020-03-06,Tom Gong,3,26
 2020-03-06,Yvonne Maldonado,3,27
-2020-03-07,Alex Wigglesworth,1,43
-2020-03-07,Christian Hill,1,44
-2020-03-07,David Kline,1,45
-2020-03-07,Erica Ymane,1,46
-2020-03-07,Lynda Daniels,1,47
-2020-03-07,Martin Espinoza,1,48
-2020-03-07,Mike Kinney,1,49
-2020-03-07,Nan,1,50
+2020-03-07,Alex Wigglesworth,1,44
+2020-03-07,Barbie Robinson,1,45
+2020-03-07,David Witt,1,46
+2020-03-07,Erica Ymane,1,47
+2020-03-07,Lynda Daniels,1,48
+2020-03-07,Mark Baldassare,1,49
+2020-03-07,Martin Espinoza,1,50
 2020-03-07,Aimee Sisson,2,30
 2020-03-07,Anita Chabria,2,31
 2020-03-07,Barbara Ferrer,2,32
 2020-03-07,Las Vegas,2,33
 2020-03-07,Lisa Goodwin,2,34
-2020-03-07,Noam Levey,2,35
-2020-03-07,Phan Ngo,2,36
-2020-03-07,Phil Willon,2,37
-2020-03-07,Ricardo Lara,2,38
-2020-03-07,Robert Levin,2,39
-2020-03-07,Ron Chapman,2,40
-2020-03-07,Ruben Vives,2,41
-2020-03-07,Scott Morrow,2,42
+2020-03-07,Mike Kinney,2,35
+2020-03-07,Noam Levey,2,36
+2020-03-07,Phan Ngo,2,37
+2020-03-07,Phil Willon,2,38
+2020-03-07,Ricardo Lara,2,39
+2020-03-07,Robert Levin,2,40
+2020-03-07,Ron Chapman,2,41
+2020-03-07,Ruben Vives,2,42
+2020-03-07,Scott Morrow,2,43
 2020-03-07,Aimee Brewer,3,8
 2020-03-07,Alex Azar,3,9
 2020-03-07,Alice Fong Yu,3,10
@@ -2203,39 +2203,38 @@ date,person,count,rn
 2020-06-02,Adam Eisen,1,19
 2020-06-02,Adam Popescu,1,20
 2020-06-02,Ahmaud Arbery,1,21
-2020-06-02,Ashraf Khalil,1,22
-2020-06-02,Bauer Kahan,1,23
-2020-06-02,Breanna Taylor,1,24
-2020-06-02,Brian Heath,1,25
-2020-06-02,Carl Wolfe,1,26
-2020-06-02,Chris Wikler,1,27
-2020-06-02,Cynthia Laird,1,28
-2020-06-02,Cynthia Laird Clayton,1,29
-2020-06-02,Daisy Nguyen,1,30
-2020-06-02,Dan Mccoy,1,31
-2020-06-02,Dana Johnson,1,32
-2020-06-02,Danny Perez,1,33
-2020-06-02,David Chiu,1,34
-2020-06-02,David Chiu Jesse Gabriel,1,35
-2020-06-02,Derek Chauvin,1,36
-2020-06-02,Dionne Searcey,1,37
-2020-06-02,Donovan Butler,1,38
-2020-06-02,Elliot Spagat,1,39
-2020-06-02,Gary Confenti,1,40
-2020-06-02,Gloria Chan,1,41
-2020-06-02,Harvey Milk,1,42
-2020-06-02,Howard Markel,1,43
-2020-06-02,Jack Healy,1,44
-2020-06-02,Jesse Gabriel,1,45
-2020-06-02,Jesse Gabriel D-Encino,1,46
-2020-06-02,Jesus Christ,1,47
-2020-06-02,Joe Faraldo,1,48
-2020-06-02,John Bauters,1,49
-2020-06-02,John Brennan,1,50
-2020-06-02,Eric Garcetti,2,14
-2020-06-02,Gavin Newsom,2,15
-2020-06-02,Keyla Calderon,2,16
-2020-06-02,Matthias Gafni,2,17
+2020-06-02,Alderman Raymond Lopez,1,22
+2020-06-02,Ashraf Khalil,1,23
+2020-06-02,Bauer Kahan,1,24
+2020-06-02,Breanna Taylor,1,25
+2020-06-02,Brian Heath,1,26
+2020-06-02,Carl Wolfe,1,27
+2020-06-02,Chris Wikler,1,28
+2020-06-02,Christina Paciolla,1,29
+2020-06-02,Cynthia Laird,1,30
+2020-06-02,Cynthia Laird Clayton,1,31
+2020-06-02,Daisy Nguyen,1,32
+2020-06-02,Dan Mccoy,1,33
+2020-06-02,Dana Johnson,1,34
+2020-06-02,Danny Perez,1,35
+2020-06-02,David Chiu,1,36
+2020-06-02,David Chiu Jesse Gabriel,1,37
+2020-06-02,Derek Chauvin,1,38
+2020-06-02,Dionne Searcey,1,39
+2020-06-02,Donovan Butler,1,40
+2020-06-02,Gary Confenti,1,41
+2020-06-02,Gloria Chan,1,42
+2020-06-02,Harvey Milk,1,43
+2020-06-02,Howard Markel,1,44
+2020-06-02,Jack Healy,1,45
+2020-06-02,Jay Cheng,1,46
+2020-06-02,Jesse Gabriel,1,47
+2020-06-02,Jesse Gabriel D-Encino,1,48
+2020-06-02,Jesus Christ,1,49
+2020-06-02,Joe Faraldo,1,50
+2020-06-02,Eric Garcetti,2,15
+2020-06-02,Gavin Newsom,2,16
+2020-06-02,Keyla Calderon,2,17
 2020-06-02,Thomas Fuller,2,18
 2020-06-02,Anna Bauman,3,7
 2020-06-02,John King,3,8
@@ -2244,6 +2243,7 @@ date,person,count,rn
 2020-06-02,Los Angeles,3,11
 2020-06-02,Mallory Moench,3,12
 2020-06-02,Matthew Kawahara,3,13
+2020-06-02,Matthias Gafni,3,14
 2020-06-02,Cara Patricia,6,2
 2020-06-02,Falilah Bilal,6,3
 2020-06-02,Frank Ogawa Plaza,6,4
@@ -2693,7 +2693,7 @@ date,person,count,rn
 2020-06-28,Los Angeles,2,2
 2020-06-28,Santa Clara,2,3
 2020-06-29,April Bandi,1,49
-2020-06-29,Candace Andersen,1,50
+2020-06-29,Craig Johnson,1,50
 2020-06-29,Brian Melley,2,45
 2020-06-29,Don Thompson,2,46
 2020-06-29,Donald Trump,2,47
@@ -2742,7 +2742,7 @@ date,person,count,rn
 2020-06-29,Lyman Smith,25,6
 2020-06-29,Gavin Newsom,26,2
 2020-06-29,Joseph Deangelo,33,1
-2020-06-30,Gregory Totten,5,50
+2020-06-30,Hannibal Lecter,5,50
 2020-06-30,Amy Taxin,6,45
 2020-06-30,Don Thompson,6,46
 2020-06-30,Eric Garcetti,6,47
@@ -2988,3 +2988,53 @@ date,person,count,rn
 2020-07-12,Los Angele,1,8
 2020-07-12,Nicolo Oddi,1,9
 2020-07-12,Mercedes Benns,2,1
+2020-07-13,Adriana Ross,1,19
+2020-07-13,Al Seib Los Angeles,1,20
+2020-07-13,Alex Winter,1,21
+2020-07-13,Cassandra Fairbanks,1,22
+2020-07-13,Chiara Fiorillo,1,23
+2020-07-13,Daniel Joseph Feliciano,1,24
+2020-07-13,Denis Sassou-Nguesso,1,25
+2020-07-13,Don Thompson,1,26
+2020-07-13,Eugene Anderson,1,27
+2020-07-13,George Cardinal Pell,1,28
+2020-07-13,Ghislaine Maxwell,1,29
+2020-07-13,Hannah Mikus,1,30
+2020-07-13,Ismael Chavez,1,31
+2020-07-13,Jack Abramoff,1,32
+2020-07-13,Jeffrey Epstein,1,33
+2020-07-13,Jose Huizar,1,34
+2020-07-13,Katelyn Sofley,1,35
+2020-07-13,Lesley Groff,1,36
+2020-07-13,Lynn Jeffers,1,37
+2020-07-13,Maggie Haberman,1,38
+2020-07-13,Marcio Jose Sanchez,1,39
+2020-07-13,Mark Mccloskey,1,40
+2020-07-13,Matthew Brehm,1,41
+2020-07-13,Nadia Marcinkova,1,42
+2020-07-13,Patricia Mccloskey,1,43
+2020-07-13,Sandra Stojanovic,1,44
+2020-07-13,Sarah Kellen,1,45
+2020-07-13,Shital Thakkar,1,46
+2020-07-13,Tatum King,1,47
+2020-07-13,Turhan Lemont Armstrong,1,48
+2020-07-13,Victor Rodriguez,1,49
+2020-07-13,William Barr,1,50
+2020-07-13,Barbara Ferrer,2,13
+2020-07-13,Eric Garcetti,2,14
+2020-07-13,Jason Young,2,15
+2020-07-13,Justin Sullivan Getty,2,16
+2020-07-13,Los Angeles,2,17
+2020-07-13,Mercedes Benns,2,18
+2020-07-13,Cynthia Osterman,3,10
+2020-07-13,Gavin Newsom,3,11
+2020-07-13,Sharon Bernstein,3,12
+2020-07-13,Daniel Wolcott,4,2
+2020-07-13,David Fleeger,4,3
+2020-07-13,Debra Patt,4,4
+2020-07-13,Diana Fite,4,5
+2020-07-13,Helen Knost,4,6
+2020-07-13,Kyla Johnson-Trammell,4,7
+2020-07-13,Mike Wasserman,4,8
+2020-07-13,Santa Clara,4,9
+2020-07-13,Sara Cody,6,1
