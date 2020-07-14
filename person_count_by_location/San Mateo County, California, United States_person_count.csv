@@ -439,26 +439,26 @@ date,person,count,rn
 2020-03-05,Tom Gong,5,25
 2020-03-05,Yvonne Maldonado,5,26
 2020-03-05,Los Angeles,8,1
-2020-03-06,Aaron Nayfack,2,35
-2020-03-06,Alex Glew,2,36
-2020-03-06,Anna Bauman,2,37
+2020-03-06,Alejandro Serrano,2,36
+2020-03-06,Alex Glew,2,37
 2020-03-06,Annie Oliva,2,38
-2020-03-06,Chris Grady,2,39
-2020-03-06,D-San Francisco,2,40
-2020-03-06,D-San Mateo,2,41
-2020-03-06,Giselle Hale,2,42
-2020-03-06,Jerry Hill,2,43
-2020-03-06,Josh Becker,2,44
-2020-03-06,Kamala Harris,2,45
-2020-03-06,Kevin Mullin,2,46
-2020-03-06,Laura Dunn,2,47
-2020-03-06,Mano Raju,2,48
-2020-03-06,Michael Brownrigg,2,49
-2020-03-06,Rohish Lal,2,50
+2020-03-06,Assemblymember Kevin Mullin,2,39
+2020-03-06,Chris Grady,2,40
+2020-03-06,D-San Francisco,2,41
+2020-03-06,D-San Mateo,2,42
+2020-03-06,Giselle Hale,2,43
+2020-03-06,Jerry Hill,2,44
+2020-03-06,Josh Becker,2,45
+2020-03-06,Kamala Harris,2,46
+2020-03-06,Kevin Mullin,2,47
+2020-03-06,Laura Dunn,2,48
+2020-03-06,Mano Raju,2,49
+2020-03-06,Michael Brownrigg,2,50
+2020-03-06,Aaron Nayfack,3,34
+2020-03-06,Debbi Loftus,3,35
 2020-03-06,Bela Matyas,4,31
-2020-03-06,Debbi Loftus,4,32
-2020-03-06,Lisa Egan,4,33
-2020-03-06,Neil Kran,4,34
+2020-03-06,Lisa Egan,4,32
+2020-03-06,Neil Kran,4,33
 2020-03-06,Nan,5,29
 2020-03-06,Phan Ngo,5,30
 2020-03-06,Mary Ellen Carroll,6,28
@@ -2940,19 +2940,19 @@ date,person,count,rn
 2020-05-13,Hannah Tarley,1,35
 2020-05-13,Hans Angress,1,36
 2020-05-13,Helen Farkas,1,37
-2020-05-13,Jake Oliver,1,38
-2020-05-13,Jeff Bezos,1,39
-2020-05-13,Jeff Calhoun,1,40
-2020-05-13,Jim Irizarry,1,41
-2020-05-13,Kim Wyman,1,42
-2020-05-13,Louis Dejoy,1,43
-2020-05-13,Lowellyn Sunga,1,44
-2020-05-13,Mark Dimondstein,1,45
-2020-05-13,Martin Short,1,46
-2020-05-13,Meryl Streep,1,47
-2020-05-13,Morgan Freeman,1,48
-2020-05-13,Nan,1,49
-2020-05-13,Napa Bookmine,1,50
+2020-05-13,Jeff Bezos,1,38
+2020-05-13,Jeff Calhoun,1,39
+2020-05-13,Jim Irizarry,1,40
+2020-05-13,Kim Wyman,1,41
+2020-05-13,Louis Dejoy,1,42
+2020-05-13,Lowellyn Sunga,1,43
+2020-05-13,Mark Dimondstein,1,44
+2020-05-13,Martin Short,1,45
+2020-05-13,Meryl Streep,1,46
+2020-05-13,Morgan Freeman,1,47
+2020-05-13,Nan,1,48
+2020-05-13,Napa Bookmine,1,49
+2020-05-13,Natasha Opfell,1,50
 2020-05-13,Chris Chmura,2,11
 2020-05-13,Elon Musk,2,12
 2020-05-13,Garvin Thomas,2,13
@@ -4383,3 +4383,75 @@ date,person,count,rn
 2020-07-09,Thomas Jefferson,4,19
 2020-07-09,Tomiquia Moss,4,20
 2020-07-09,Turner Lee,4,21
+2020-07-10,Adam Neumann,1,7
+2020-07-10,Al Kelly,1,8
+2020-07-10,Andrew Diamond,1,9
+2020-07-10,Anthony Fauci,1,10
+2020-07-10,Anthony Noto,1,11
+2020-07-10,Arthur Hull,1,12
+2020-07-10,Ascannio Shutterstock,1,13
+2020-07-10,Ashley Ruiz,1,14
+2020-07-10,Barack Obama,1,15
+2020-07-10,Barry Korengold,1,16
+2020-07-10,Betsy Devos,1,17
+2020-07-10,Betty Duong,1,18
+2020-07-10,Bob Moncrieff,1,19
+2020-07-10,Caesar Djavaherian,1,20
+2020-07-10,Cara A Cara,1,21
+2020-07-10,Carina Marquez,1,22
+2020-07-10,Dara Khosrowshahi,1,23
+2020-07-10,David Liang,1,24
+2020-07-10,David Posner,1,25
+2020-07-10,Diane Havlir,1,26
+2020-07-10,Diane Jones,1,27
+2020-07-10,Dick Schneider,1,28
+2020-07-10,Edgar Gonzalez,1,29
+2020-07-10,Felix Mizioznikov Shutterstock,1,30
+2020-07-10,Gabriela Lopez,1,31
+2020-07-10,Garima Verma,1,32
+2020-07-10,Gavin Newsom,1,33
+2020-07-10,Gloria Romero,1,34
+2020-07-10,Hillary Ronen,1,35
+2020-07-10,Jacky Carrillo,1,36
+2020-07-10,Jake Burkhardt,1,37
+2020-07-10,James Gorman,1,38
+2020-07-10,Janet Ann Napolitano,1,39
+2020-07-10,Jean Louis Cook,1,40
+2020-07-10,Jeff Wilke,1,41
+2020-07-10,Jeffrey Smith,1,42
+2020-07-10,Jenny Wong,1,43
+2020-07-10,Jinna Hwang,1,44
+2020-07-10,John Barry,1,45
+2020-07-10,Jon Jacobo,1,46
+2020-07-10,Julio Lara,1,47
+2020-07-10,Karol Ciesluk Shutterstock,1,48
+2020-07-10,Kent Bravo,1,49
+2020-07-10,Kirk Hansen,1,50
+2020-07-10,Alejandro Lopez,2,1
+2020-07-10,Cecilia Taylor,2,2
+2020-07-10,Harold Schapelhouman,2,3
+2020-07-10,Keith Lichten,2,4
+2020-07-10,Ray Mueller,2,5
+2020-07-10,Rhonda Coffman,2,6
+2020-07-11,Brooke Federico,1,6
+2020-07-11,Bruce Barton,1,7
+2020-07-11,Cameron Kaiser,1,8
+2020-07-11,Charles Bonner,1,9
+2020-07-11,Emily Wimberger,1,10
+2020-07-11,Leaotis Martin,1,11
+2020-07-11,Peter Mertz,1,12
+2020-07-11,Porter Sumchai,1,13
+2020-07-11,Ralph Bormann,1,14
+2020-07-11,Raul Ruiz,1,15
+2020-07-11,Richard Vogel,1,16
+2020-07-11,Richard Vogel Richard Vogel,1,17
+2020-07-11,Sabrina Hall,1,18
+2020-07-11,Xinhua Li Ying,1,19
+2020-07-11,Xinhua Liu Yilin,1,20
+2020-07-11,Xinhua Wu Xiaoling,1,21
+2020-07-11,Dave Richardson,2,1
+2020-07-11,Donald Trump,2,2
+2020-07-11,Heba Gowayed,2,3
+2020-07-11,Kayleigh Mcenany,2,4
+2020-07-11,Los Angeles,2,5
+2020-07-12,Nan,1,1

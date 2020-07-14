@@ -1238,14 +1238,13 @@ date,person,count,rn
 2020-07-01,Mickey Welsh,6,3
 2020-07-01,Kay Ivey,8,2
 2020-07-01,Randy Smith,11,1
-2020-07-02,Andy Beshear,1,43
-2020-07-02,Councilmember Sonya Mckinstry,1,44
-2020-07-02,David Cay Johnston Dcreport,1,45
-2020-07-02,George Soros,1,46
+2020-07-02,Andy Beshear,1,44
+2020-07-02,Councilmember Sonya Mckinstry,1,45
+2020-07-02,David Cay Johnston Dcreport,1,46
 2020-07-02,Ian Biong,1,47
-2020-07-02,Joel Daves,1,48
-2020-07-02,John Williams,1,49
-2020-07-02,Laurence Steinberg,1,50
+2020-07-02,John Sharp,1,48
+2020-07-02,Laurence Steinberg,1,49
+2020-07-02,Nan,1,50
 2020-07-02,Andrew Cuomo,2,34
 2020-07-02,Ann Tornkvist Getty,2,35
 2020-07-02,Boris Johnson,2,36
@@ -1255,6 +1254,7 @@ date,person,count,rn
 2020-07-02,Patricia Ruppert,2,40
 2020-07-02,Selwyn Vickers,2,41
 2020-07-02,Tara Hutchinson,2,42
+2020-07-02,Walt Maddox,2,43
 2020-07-02,Bossip Radioour,3,23
 2020-07-02,Deborah Birx,3,24
 2020-07-02,Joshua Barocas,3,25
@@ -1288,7 +1288,7 @@ date,person,count,rn
 2020-07-02,Kay Ivey,26,3
 2020-07-02,Sonya Mckinstry,95,2
 2020-07-02,Randy Smith,108,1
-2020-07-03,Cameron Kaiser,1,49
+2020-07-03,Doug Ducey,1,49
 2020-07-03,Joshua Barocas,1,50
 2020-07-03,Bishop Jerry Lee Wimberly,2,36
 2020-07-03,Carlos Gimenez,2,37
@@ -1397,3 +1397,24 @@ date,person,count,rn
 2020-07-09,Sandy Stimpson,1,9
 2020-07-09,Sherman Guyton,1,10
 2020-07-09,Sherry Fryman,1,11
+2020-07-10,Kay Ivey,1,6
+2020-07-10,Michael Barton,1,7
+2020-07-10,Del Marsh,2,5
+2020-07-10,Amber Dsouza,4,1
+2020-07-10,Pamela Foster,4,2
+2020-07-10,Stephen Kissler,4,3
+2020-07-10,Walter Orenstein,4,4
+2020-07-11,Randy Smith,1,3
+2020-07-11,Sonya Mckinstry,1,4
+2020-07-11,Jane Appleby,2,1
+2020-07-11,Walt Maddox,2,2
+2020-07-12,Greta Bauer,1,6
+2020-07-12,Matt Bevin,1,7
+2020-07-12,Randy Smith,1,8
+2020-07-12,Robert Glatter,1,9
+2020-07-12,Sonya Mckinstry,1,10
+2020-07-12,Brad Darden,2,2
+2020-07-12,Jason Morton,2,3
+2020-07-12,Jim Page,2,4
+2020-07-12,Martin Luther King Jr,2,5
+2020-07-12,Jane Appleby,3,1

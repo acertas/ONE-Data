@@ -1461,18 +1461,19 @@ date,person,count,rn
 2020-06-02,Los Angeles,6,7
 2020-06-02,Muriel Bowser,6,8
 2020-06-03,Roy Rochlin Alex Sabol,2,50
-2020-06-03,Alex Sabol,3,11
-2020-06-03,Barack Obama,3,12
-2020-06-03,Barry Richard,3,13
-2020-06-03,Ben Murray,3,14
-2020-06-03,Bernie Sanders,3,15
-2020-06-03,Brandt Hershman,3,16
-2020-06-03,Brian Buchanan,3,17
-2020-06-03,Bryan Coulter,3,18
-2020-06-03,Bryan Metzger,3,19
-2020-06-03,Chris Campbell,3,20
-2020-06-03,Dan Moore,3,21
-2020-06-03,Don Lehe,3,22
+2020-06-03,Alex Sabol,3,10
+2020-06-03,Barack Obama,3,11
+2020-06-03,Barry Richard,3,12
+2020-06-03,Ben Murray,3,13
+2020-06-03,Bernie Sanders,3,14
+2020-06-03,Brandt Hershman,3,15
+2020-06-03,Brian Buchanan,3,16
+2020-06-03,Bryan Coulter,3,17
+2020-06-03,Bryan Metzger,3,18
+2020-06-03,Chris Campbell,3,19
+2020-06-03,Dan Moore,3,20
+2020-06-03,Don Lehe,3,21
+2020-06-03,Donald Trump,3,22
 2020-06-03,Hillary Clinton,3,23
 2020-06-03,Ilana Stonebraker,3,24
 2020-06-03,Jacque Chosnek,3,25
@@ -1500,7 +1501,6 @@ date,person,count,rn
 2020-06-03,Ted Cruz,3,47
 2020-06-03,Tim Brown,3,48
 2020-06-03,Tobi Beck,3,49
-2020-06-03,Donald Trump,4,10
 2020-06-03,Ronald Hershow,6,9
 2020-06-03,Jennifer Nuzzo,7,8
 2020-06-03,David Eisenman,9,4
@@ -1965,3 +1965,46 @@ date,person,count,rn
 2020-07-09,Robert Dunham,1,9
 2020-07-09,Wesley Ira Purkey,1,10
 2020-07-09,William Barr,1,11
+2020-07-10,Madalyn Hoerr,1,13
+2020-07-10,Ray Sanchez,1,14
+2020-07-10,Andrew Cuomo,2,1
+2020-07-10,Edward Flavin,2,2
+2020-07-10,Hendrick Hudson,2,3
+2020-07-10,Ileana Eckert,2,4
+2020-07-10,Joanne Thompson,2,5
+2020-07-10,Joel Adelberg,2,6
+2020-07-10,Joseph Hochreiter,2,7
+2020-07-10,Joseph Ricca,2,8
+2020-07-10,Kristopher Harrison,2,9
+2020-07-10,Lisa Jackson,2,10
+2020-07-10,Mary Breslin,2,11
+2020-07-10,Thomas Mcmahon,2,12
+2020-07-11,Alberta Jason Kenney,1,1
+2020-07-11,Anthony Fauci,1,2
+2020-07-11,Daniel Lewis Lee,1,3
+2020-07-11,Doug Ford,1,4
+2020-07-11,Dustin Lee Honken,1,5
+2020-07-11,Ed Bohn,1,6
+2020-07-11,Jane Magnus-Stinson,1,7
+2020-07-11,Jason Kenney,1,8
+2020-07-11,Jeff Fisher,1,9
+2020-07-11,John Plasse,1,10
+2020-07-11,Justin Trudeau,1,11
+2020-07-11,Keith Dwayne Nelson,1,12
+2020-07-11,Kelsey Kauffman,1,13
+2020-07-11,Lou Ann Wannemacher,1,14
+2020-07-11,Marsha Yeutter,1,15
+2020-07-11,Marty Bradford,1,16
+2020-07-11,Matt Ames,1,17
+2020-07-11,Michael Wehrkamp,1,18
+2020-07-11,Sean Burke,1,19
+2020-07-11,Susan Amos,1,20
+2020-07-11,Sylvester Edwards,1,21
+2020-07-11,Timothy Mcveigh,1,22
+2020-07-11,Van Wert,1,23
+2020-07-11,Wesley Ira Purkey,1,24
+2020-07-12,Alberta Jason Kenney,1,1
+2020-07-12,Anthony Fauci,1,2
+2020-07-12,Doug Ford,1,3
+2020-07-12,Jason Kenney,1,4
+2020-07-12,Justin Trudeau,1,5
